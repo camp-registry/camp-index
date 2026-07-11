@@ -1,0 +1,11 @@
+component: local_activitysimulator
+source: https://github.com/emdalton/moodle-local_activitysimulator
+maintainers:
+- github: emdalton
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A tool to simulate learner and instructor activity over time for testing
+  reporting and analytics tools on Moodle data

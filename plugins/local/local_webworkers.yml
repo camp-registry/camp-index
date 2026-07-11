@@ -1,0 +1,10 @@
+component: local_webworkers
+source: https://github.com/darrencocco/moodle-local_webworkers
+maintainers:
+- github: darrencocco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: LGPL-3.0
+summary: Web Worker support for Moodle

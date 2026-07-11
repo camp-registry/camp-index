@@ -1,0 +1,9 @@
+component: local_avatar
+source: https://github.com/vincentcornelis/moodle-local_avatar
+maintainers:
+- github: vincentcornelis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

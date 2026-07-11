@@ -1,0 +1,13 @@
+component: local_courseexpiry
+source: https://github.com/center-for-learning-management/moodle-local_courseexpiry
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Ziel ist die Entwicklung eines neuen Plugins, welches in regelmäßigen Abständen
+  alle veralteten Kurse ermittelt und die Personen mit Trainerrecht auffordert festzulegen,
+  ob die Kurse behalten werden sollen. Es muss erforderlich sein, dass die Trainer/innen
+  aktiv bekunden, dass der Kurs behalten werd

@@ -1,0 +1,11 @@
+component: local_html2rtf
+source: https://github.com/JISC-DOULS/moodle-local_html2rtf
+maintainers:
+- github: JISC-DOULS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A PHP/XSLT library for Moodle 2 that enables conversion of an (X)HTML string
+  to an RTF document string. Used in the portfolioact plugin.

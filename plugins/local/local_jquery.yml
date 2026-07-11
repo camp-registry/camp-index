@@ -1,0 +1,11 @@
+component: local_jquery
+source: https://github.com/bumoodle/moodle-local_jquery
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: jQuery packaged a local plug-in for Moodle; allowing many modules to use
+  the same instance of jQuery

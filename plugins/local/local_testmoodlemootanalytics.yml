@@ -1,0 +1,11 @@
+component: local_testmoodlemootanalytics
+source: https://github.com/tobiasreischmann/moodle-local_testmoodlemootanalytics
+maintainers:
+- github: tobiasreischmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Outcome of the spontaneous DevCamp at the MoodleMoot 2018 in Germany about
+  the Moodle Analytics API

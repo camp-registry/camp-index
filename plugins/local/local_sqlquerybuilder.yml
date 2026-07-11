@@ -1,0 +1,10 @@
+component: local_sqlquerybuilder
+source: https://github.com/dpfahl-ms/moodle-local_sqlquerybuilder
+maintainers:
+- github: dpfahl-ms
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: SQL query builder for moodle for better usability

@@ -1,0 +1,10 @@
+component: local_assessfreq
+source: https://github.com/mattporritt/moodle-local_assessfreq
+maintainers:
+- github: mattporritt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Assessment Frequency core plugin for Moodle

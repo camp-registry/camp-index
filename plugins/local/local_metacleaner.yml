@@ -1,0 +1,11 @@
+component: local_metacleaner
+source: https://github.com/SadikUX/moodle-local_metacleaner
+maintainers:
+- github: SadikUX
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MetaCleaner is a Moodle plugin that manages and cleans up Meta Link enrollments
+  for courses with expired end dates.

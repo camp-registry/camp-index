@@ -1,0 +1,9 @@
+component: local_forum_events
+source: https://github.com/getsmarter/moodle-local_forum_events
+maintainers:
+- github: getsmarter
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

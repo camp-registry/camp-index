@@ -1,0 +1,10 @@
+component: local_wsgetroles
+source: https://github.com/corvus-albus/moodle-local_wsgetroles
+maintainers:
+- github: corvus-albus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Get roles in moodle via web servide (rest api)

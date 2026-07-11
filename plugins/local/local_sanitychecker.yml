@@ -1,0 +1,10 @@
+component: local_sanitychecker
+source: https://github.com/eviweb/moodle-local_sanitychecker
+maintainers:
+- github: eviweb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: This plugin provides an interface to implement sanity checks on moodle

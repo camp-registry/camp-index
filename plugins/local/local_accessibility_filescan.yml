@@ -1,0 +1,10 @@
+component: local_accessibility_filescan
+source: https://github.com/Swarthmore/moodle-local_accessibility_filescan
+maintainers:
+- github: Swarthmore
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local Moodle plugin to check the accessibility of course materials.

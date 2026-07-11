@@ -1,0 +1,10 @@
+component: local_accessibilitytool
+source: https://github.com/sharpchi/moodle-local_accessibilitytool
+maintainers:
+- github: sharpchi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Accessibility preference tool for Moodle

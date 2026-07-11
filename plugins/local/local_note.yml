@@ -1,0 +1,9 @@
+component: local_note
+source: https://github.com/shambhu384/moodle-local_note
+maintainers:
+- github: shambhu384
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

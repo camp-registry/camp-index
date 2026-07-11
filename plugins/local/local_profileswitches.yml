@@ -1,0 +1,11 @@
+component: local_profileswitches
+source: https://github.com/itamart/moodle-local_profileswitches
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This local plugin adds a 'editor on/off' action link in the user's profile
+  section of the settings block

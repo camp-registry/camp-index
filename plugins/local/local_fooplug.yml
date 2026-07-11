@@ -1,0 +1,10 @@
+component: local_fooplug
+source: https://github.com/kiklop74/moodle-local_fooplug
+maintainers:
+- github: kiklop74
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Example plugin demonstrates handling of files

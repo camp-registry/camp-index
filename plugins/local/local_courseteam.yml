@@ -1,0 +1,10 @@
+component: local_courseteam
+source: https://github.com/eveonmission/moodle-local_courseteam
+maintainers:
+- github: eveonmission
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for generating a Teams group from course configuration page

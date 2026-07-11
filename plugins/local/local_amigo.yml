@@ -1,0 +1,11 @@
+component: local_amigo
+source: https://github.com/dmonllao/moodle-local_amigo
+maintainers:
+- github: dmonllao
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Moodle amigo observes your activity across the whole session, analyses
+  it and pokes you about different stuff that affects you.

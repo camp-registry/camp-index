@@ -1,0 +1,11 @@
+component: local_discoursesso
+source: https://github.com/saylordotorg/moodle-local_discoursesso
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that enables Moodle to act as a SSO provider for the Discourse
+  discussion platform.

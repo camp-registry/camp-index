@@ -1,0 +1,11 @@
+component: local_thi_learning_companions
+source: https://github.com/ICON-newmedia/moodle-local_thi_learning_companions
+maintainers:
+- github: ICON-newmedia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: local Plugin that handles all the main logic for the Learning Companions
+  for THI (Technische Hochschule Ingolstadt)

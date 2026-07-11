@@ -1,0 +1,10 @@
+component: local_plugincompatibility
+source: https://github.com/xyulex/moodle-local_plugincompatibility
+maintainers:
+- github: xyulex
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Check your installed plugins compatibility in every Moodle version

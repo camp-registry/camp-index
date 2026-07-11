@@ -1,0 +1,11 @@
+component: local_instructor_files
+source: https://github.com/LafColITS/moodle-local_instructor_files
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This local module allows a teacher to download all files uploaded by teachers
+  to a given course in Moodle.

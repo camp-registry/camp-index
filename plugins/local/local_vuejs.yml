@@ -1,0 +1,11 @@
+component: local_vuejs
+source: https://github.com/gthomas2/moodle-local_vuejs
+maintainers:
+- github: gthomas2
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle vuejs loader - allows you to easily load vuejs and share it between
+  projects.

@@ -1,0 +1,10 @@
+component: local_categorybackup
+source: https://github.com/eLearning-TUDarmstadt/moodle-local_categorybackup
+maintainers:
+- github: eLearning-TUDarmstadt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle tool to select courses for backups by their category

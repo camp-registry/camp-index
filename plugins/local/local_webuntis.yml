@@ -1,0 +1,10 @@
+component: local_webuntis
+source: https://github.com/center-for-learning-management/moodle-local_webuntis
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Script for integration of Moodle into Webuntis

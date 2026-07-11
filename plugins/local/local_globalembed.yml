@@ -1,0 +1,13 @@
+component: local_globalembed
+source: https://github.com/FlavioAraujo23/moodle-local_globalembed
+maintainers:
+- github: FlavioAraujo23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Global Embed is a Moodle plugin that allows administrators to configure
+  and display embedded content globally for authorized users. The plugin adds functionality
+  to embed dashboards, reports, or any content via iframe/script within the Moodle
+  environment.

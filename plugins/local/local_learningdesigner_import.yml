@@ -1,0 +1,10 @@
+component: local_learningdesigner_import
+source: https://github.com/nadavkav/moodle-local_learningdesigner_import
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Import Learning Designer LDJ files into a Moodle course

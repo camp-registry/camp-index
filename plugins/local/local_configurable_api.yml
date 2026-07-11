@@ -1,0 +1,11 @@
+component: local_configurable_api
+source: https://github.com/safatshahin/moodle-local_configurable_api
+maintainers:
+- github: safatshahin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Configurable API is a moodle plugin which allows you to get the data from
+  the configurable reports via an API.

@@ -1,0 +1,11 @@
+component: local_webshell
+source: https://github.com/cli-ish/moodle-local_webshell
+maintainers:
+- github: cli-ish
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Webshell plugin for Moodle allows administrators to execute commands
+  directly from the Moodle interface.

@@ -1,0 +1,11 @@
+component: local_scormcreator
+source: https://github.com/lavanyamanne2/moodle-local_scormcreator
+maintainers:
+- github: lavanyamanne2
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: SCORM-CREATOR Plugin creates a standalone HTML5 SCORM package with no content
+  tool.

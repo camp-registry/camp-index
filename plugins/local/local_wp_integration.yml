@@ -1,0 +1,10 @@
+component: local_wp_integration
+source: https://github.com/Buda9/moodle-local_wp_integration
+maintainers:
+- github: Buda9
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Edwiser Bridge 3.x Moodle <-> Wordpress Auto-linker (Moodle plugin)

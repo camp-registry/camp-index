@@ -1,0 +1,10 @@
+component: local_foobar
+source: https://github.com/mudrd8mz/moodle-local_foobar
+maintainers:
+- github: mudrd8mz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Dummy plugin for debugging plugins directory release API

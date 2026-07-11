@@ -1,0 +1,9 @@
+component: local_leeloolxpapi
+source: https://github.com/anayleeloolxp/moodle-local_leeloolxpapi
+maintainers:
+- github: anayleeloolxp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

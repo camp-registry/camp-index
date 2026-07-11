@@ -1,0 +1,10 @@
+component: local_brookesid
+source: https://github.com/OBU-ITS/moodle-local_brookesid
+maintainers:
+- github: OBU-ITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Brookes ID Utilities

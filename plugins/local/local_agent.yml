@@ -1,0 +1,9 @@
+component: local_agent
+source: https://github.com/nicoroeser/moodle-local_agent
+maintainers:
+- github: nicoroeser
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: local_institutions
+source: https://github.com/bensampaio/moodle-local_institutions
+maintainers:
+- github: bensampaio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

@@ -1,0 +1,11 @@
+component: local_errorlogger
+source: https://github.com/bumoodle/moodle-local_errorlogger
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An error logger hack that supplements Moodle's built-in error logging with
+  safe database error logs.

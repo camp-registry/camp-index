@@ -1,0 +1,11 @@
+component: local_downloadcenter
+source: https://github.com/academic-moodle-cooperation/moodle-local_downloadcenter
+maintainers:
+- github: academic-moodle-cooperation
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Download Center enables teachers and students to download the content
+  of selected activities and materials from a course as a ZIP archive.

@@ -1,0 +1,10 @@
+component: local_gitplugins
+source: https://github.com/Limekiller/moodle-local_gitplugins
+maintainers:
+- github: Limekiller
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Install Moodle plugins hosted on Git repositories directly from the website

@@ -1,0 +1,10 @@
+component: local_coursedeletion
+source: https://github.com/liip/moodle-local_coursedeletion
+maintainers:
+- github: liip
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: local/coursedeletion - A Moodle course lifecycle management plugin

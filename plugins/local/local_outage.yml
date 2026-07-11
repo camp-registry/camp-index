@@ -1,0 +1,11 @@
+component: local_outage
+source: https://github.com/catalyst/moodle-local_outage
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Complimentary plugin for auth_outage to make it compatible with Moodle 27-29
+  & Totara

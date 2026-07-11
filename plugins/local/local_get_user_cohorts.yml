@@ -1,0 +1,11 @@
+component: local_get_user_cohorts
+source: https://github.com/savva312/moodle-local_get_user_cohorts
+maintainers:
+- github: savva312
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin can be used to retrieve the cohorts of a given user in Moodle
+  by providing the USER ID

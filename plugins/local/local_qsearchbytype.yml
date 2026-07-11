@@ -1,0 +1,10 @@
+component: local_qsearchbytype
+source: https://github.com/developerck/moodle-local_qsearchbytype
+maintainers:
+- github: developerck
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: filter for question search by their type

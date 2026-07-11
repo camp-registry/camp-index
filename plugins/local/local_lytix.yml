@@ -1,0 +1,13 @@
+component: local_lytix
+source: https://github.com/llttugraz/moodle-local_lytix
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A plugin for Learning Analytics. The intention is to provide a learning analytics
+  (LA) overview for Coursecreator's, Teachers and Students as well. Lytix is the main
+  plugin with several widgets. Each widget is a subplugin and can be added or removed
+  accordingly. Each platform we support uses a diffe

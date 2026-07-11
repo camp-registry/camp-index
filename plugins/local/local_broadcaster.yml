@@ -1,0 +1,9 @@
+component: local_broadcaster
+source: https://github.com/vsotirasqmplus/moodle_local_broadcaster
+maintainers:
+- github: vsotirasqmplus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

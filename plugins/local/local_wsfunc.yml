@@ -1,0 +1,11 @@
+component: local_wsfunc
+source: https://github.com/saylordotorg/moodle-local_wsfunc
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that adds external web service functions. Used in the Saylor
+  Academy ProgramPartnerAPI.

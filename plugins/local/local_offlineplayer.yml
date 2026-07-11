@@ -1,0 +1,10 @@
+component: local_offlineplayer
+source: https://github.com/catalyst/moodle-local_offlineplayer
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Offline Player - plugin that sits on offline player sit and allows sync.

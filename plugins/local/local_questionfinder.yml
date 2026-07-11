@@ -1,0 +1,13 @@
+component: local_questionfinder
+source: https://github.com/eLearnTK/moodle-local_questionfinder
+maintainers:
+- github: eLearnTK
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle Local Questionfinder is an extended version of the Question Search
+  module for Moodle - Copyright (C) 2014 Ray Morris, this new module adds several
+  search options to the original functionality extended by Tobias Kutzner (Moodle
+  Moot DACH 2019: Improve questionbank with better search options fo'
