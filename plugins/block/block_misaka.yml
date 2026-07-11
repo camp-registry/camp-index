@@ -1,0 +1,10 @@
+component: block_misaka
+source: https://github.com/takayuki-fuwa/moodle-block_misaka
+maintainers:
+- github: takayuki-fuwa
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 学生のやる気を向上させるためのブロックプラグイン。Moodle上のログを集計してポジティブなメッセージを学生さんに出すことでモチベーションを上げます。

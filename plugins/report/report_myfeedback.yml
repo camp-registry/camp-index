@@ -1,0 +1,10 @@
+component: report_myfeedback
+source: https://github.com/uclmoodle/moodle-report_myfeedback
+maintainers:
+- github: uclmoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle Report that shows all user feedback on one page.

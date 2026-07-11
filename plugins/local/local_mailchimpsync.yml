@@ -1,0 +1,11 @@
+component: local_mailchimpsync
+source: https://github.com/Buda9/local_mailchimpsync
+maintainers:
+- github: Buda9
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Automatically sync new and existing Moodle users to MailChimp list(s). PR's
+  are welcome!

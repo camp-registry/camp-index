@@ -1,0 +1,11 @@
+component: mod_dataform
+source: https://github.com/itamart/moodle-mod_dataform
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Dataform is an enhanced counterpart of the standard Database activity
+  module

@@ -1,0 +1,11 @@
+component: mod_attforblock
+source: https://github.com/danmarsden/moodle_mod_attforblock_old
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: OLD mod_attforblock code for Moodle 2.3 and earlier - replaced by mod_attendance
+  in 2.4 and higher.

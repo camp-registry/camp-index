@@ -1,0 +1,10 @@
+component: local_devkit
+source: https://github.com/moodlicious/moodle-local_devkit
+maintainers:
+- github: moodlicious
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Collection of tools for Moodle development

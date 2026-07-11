@@ -1,0 +1,11 @@
+component: local_cohort_profile
+source: https://github.com/yurinskiy/moodle-local_cohort_profile
+maintainers:
+- github: yurinskiy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin adds a section to the user profile with information about cohorts
+  in which it is a member

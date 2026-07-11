@@ -1,0 +1,12 @@
+component: auth_opensesame
+source: https://github.com/frumbert/opensesame
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Auth plugin for logging on as a user by sending in their id (in encrypted
+  form) and automatically opening the first activity in the first course they are
+  enrolled in.

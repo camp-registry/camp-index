@@ -1,0 +1,10 @@
+component: local_myddleware
+source: https://github.com/Myddleware/moodle-local_myddleware
+maintainers:
+- github: Myddleware
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin Moodle for Myddleware

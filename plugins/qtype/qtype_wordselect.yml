@@ -1,0 +1,10 @@
+component: qtype_wordselect
+source: https://github.com/marcusgreen/moodle-qtype_wordselect
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Highlight words by clicking e.g. select all nouns in this sentence

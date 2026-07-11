@@ -1,0 +1,9 @@
+component: block_attendance
+source: https://github.com/danmarsden/moodle-block_attendance
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

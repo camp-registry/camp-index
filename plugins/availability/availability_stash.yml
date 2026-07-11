@@ -1,0 +1,11 @@
+component: availability_stash
+source: https://github.com/FMCorz/moodle-availability_stash
+maintainers:
+- github: FMCorz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to limit the access to a course module according to the content
+  of a student's stash

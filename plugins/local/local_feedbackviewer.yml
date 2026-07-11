@@ -1,0 +1,11 @@
+component: local_feedbackviewer
+source: https://github.com/LafColITS/moodle-local_feedbackviewer
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Feedback Viewer report displays the responses from all Feedback modules
+  in a given course, filtered by user.

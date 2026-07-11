@@ -1,0 +1,10 @@
+component: tool_gdpr_deletion
+source: https://github.com/HarryBleckert/moodle-admin_tool_gdpr_deletion
+maintainers:
+- github: HarryBleckert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Plugin to Delete users GDPR EU conform.

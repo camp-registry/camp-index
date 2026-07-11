@@ -1,0 +1,9 @@
+component: block_disealytics
+source: https://github.com/ild-thl/moodle-block_disealytics
+maintainers:
+- github: ild-thl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

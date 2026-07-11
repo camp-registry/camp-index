@@ -1,0 +1,11 @@
+component: filter_embedquestion
+source: https://github.com/moodleou/moodle-filter_embedquestion
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle text filter plugin that displays questions from the question bank
+  embedded in the page.

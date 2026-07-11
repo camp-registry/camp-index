@@ -3,8 +3,8 @@
 # release data here — this file never affects installed artifacts.
 repos:
   0xLachy/Moodle-Discord-Buddy:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   1alexandrer/moodle-mcp:
@@ -19,19 +19,18 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   42ae/moodle-docker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ADORSYS-GIS/moodle-plugin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   AVADOLearning/moodle-componentmgr:
     outcome: no-version-php
-    detail: license AGPL-3.0 recovered from text, but no parseable version.php at
-      root of branch master
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Aathish04/moodlearchiver:
@@ -46,13 +45,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Adeptus-360/moodle-block_adeptus_insights:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_adeptus_insights
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Adeptus-360/moodle-report_adeptus_insights:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as report_adeptus_insights
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   AesisGit/moodle-theme_adaptable:
@@ -61,23 +60,23 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   AlexZorzi/Moodle-Cheat:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   AnjuMeleth/moodle-local_certifyme:
-    outcome: written
-    detail: listed as local_certifyme; license GPL-3.0 classified from text
+    outcome: exists
+    detail: component local_certifyme already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   AsadAliQuant/moodle-ml4k-integration:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   AshFahim/moodle-docker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Astrak00/AGDownloader:
@@ -96,8 +95,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   Azure-Samples/moodle-high-scale:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Azure/Moodle:
@@ -111,18 +110,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   BiUH-C2G/MarkDo:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Buda9/local_mailchimpsync:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_mailchimpsync
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Buda9/moodle-local_chatwoot:
-    outcome: written
-    detail: listed as local_chatwoot; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component local_chatwoot already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Buda9/moodle-local_showbadges:
@@ -146,13 +145,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ChengHung-Wang/Go-Die-Moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ClassCube/moodle-filter_gistembed:
-    outcome: written
-    detail: listed as filter_gistembed; license AGPL-3.0 classified from text
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Codebotics/VITask:
@@ -166,8 +165,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Coursesuite/coursesuite_repository:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as repository_coursesuite
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Cyrus-Sushiant/MoodleApi:
@@ -176,13 +175,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DNum-UHA/moodle-report_cohortdetail:
-    outcome: written
-    detail: listed as report_cohortdetail; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component report_cohortdetail already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DRAGONMANU/Captcha_Killer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DSI-Universite-Rennes2/moodle-local_debugtoolbar:
@@ -196,23 +195,24 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/lmsassistant-api:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/local_exportquestionary:
-    outcome: written
-    detail: listed as local_exportquestionary; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component local_exportquestionary already registered (first-come, RFC
+      §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/moodle-block_admin_presets:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_admin_presets
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/moodle-block_course_modulenavigation:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_course_modulenavigation
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/moodle-block_mylastforummessages:
@@ -221,8 +221,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-10'
   DigiDago/moodle-block_news_forum_slider:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_news_forum_slider
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/moodle-format_ludilearn:
@@ -231,8 +231,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/moodle-format_softcourse:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as format_softcourse
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/moodle-mod_pimenkoquestionnaire:
@@ -252,8 +252,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DominikLindorfer/Moodle-Downloader:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Dpro-at/Moodle-Question-Banks-Cleaner:
@@ -263,13 +263,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DrKat0m/Geniai_Base_Plugin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_geniai
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Dreamerol/MOODLE-LMS-PLATFORM:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   E-learningTouch/moodle-mod_otopo:
@@ -278,28 +278,28 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ELRuncho/MoodleCloudFormation:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   EduardoKrausME/moodle-enrol_paymentpagseguro:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_paymentpagseguro
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   EduardoKrausME/moodle-local-kopere_dashboard:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_kopere_dashboard
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   EduardoKrausME/moodle-local_boost_dark:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_boost_dark
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   EduardoKrausME/moodle-mod_supervideo:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_supervideo
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   EsdrasCaleb/moodle-docker-php-production:
@@ -314,8 +314,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   EvickaStudio/Moodle-API:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FEPI-Itajuba/Single-Sign-On:
@@ -334,33 +334,33 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FMCorz/moodle-availability_stash:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as availability_stash
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FMCorz/moodle-availability_xp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as availability_xp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FMCorz/moodle-block_stash:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_stash
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FMCorz/moodle-block_xp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_xp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FMCorz/moodle-filter_stash:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_stash
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FMCorz/moodle-local_xp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_xp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FMCorz/moodle-webservice_restful:
@@ -369,8 +369,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FPVirtual/fp-virtual-plugin-edicion-materiales:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: needs-review
+    detail: declares local_educaaragon but repo name does not correspond; human sign-off
+      required before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FachschaftMathPhysInfo/ostseee:
@@ -384,13 +385,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FormulasQuestion/moodle-qtype_formulas:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_formulas
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FranckSilvestre/ExemplesMoodleXML:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   GAllegre/moodle-theme_boostsgdf:
@@ -399,8 +400,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   GEveloper/mod_oublog-advanced:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_oublog
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   GeorgOhneH/ethz-document-fetcher:
@@ -414,18 +415,19 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   HarryBleckert/moodle-admin_tool_gdpr_deletion:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_gdpr_deletion
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   HarryBleckert/moodle-block_configurable_reports:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component block_configurable_reports already registered (first-come, RFC
+      §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   HarryBleckert/moodle-block_evaluation:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_evaluation
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   HarryBleckert/moodle-block_search_user:
@@ -434,8 +436,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   HarryBleckert/moodle-mod_evaluation:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_evaluation
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Hipjea/moodle-block_learningpaths:
@@ -449,8 +451,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Hipjea/moodle-tool_time_report:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component tool_time_report already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Hipjea/moodle-tutorial_block:
@@ -459,13 +461,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   HoangKien1020/Moodle_RCE:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Hokkaydo/MoodleCustomizer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   HypertextAssassinRajith/Moodle_OTP_Login-Register:
@@ -485,13 +487,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   InhamulHassan/Flutter_Moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   IvanFilipov/ChatBot_FMI_students:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Jabir-Srj/moodle-connector:
@@ -530,19 +532,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   KNODIS-Research-Group/moodle-dalek:
-    outcome: bad-license
-    detail: 'license: CC-BY-SA-4.0'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   KOBeerose/Moodle-automation:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   KOSFin/MooDuSh:
     outcome: no-version-php
-    detail: license MIT recovered from text, but no parseable version.php at root
-      of branch main
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   KQMATH/moodle-mod_capquiz:
@@ -583,38 +584,38 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LafColITS/Moodle-auth_casattras:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_casattras
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LafColITS/moodle-dataformat_markdown:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as dataformat_markdown
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LafColITS/moodle-local_course_merge:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_course_merge
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LafColITS/moodle-local_feedbackviewer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_feedbackviewer
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LafColITS/moodle-tool_coursedates:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_coursedates
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LafColITS/moodle-tool_rssfeeds:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_rssfeeds
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LdesignMedia/moodle-auth_cfour:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_cfour
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LdesignMedia/moodle-availability_ipaddress:
@@ -643,8 +644,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LdesignMedia/moodle-mod_openwebinar:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_openwebinar
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Leonism/moodle-theme_darkmode:
@@ -658,13 +659,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Lesterhuis-Training-en-Consultancy/moodle-block_genericotemp:
-    outcome: written
-    detail: listed as block_genericotemp; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component block_genericotemp already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Lesterhuis-Training-en-Consultancy/moodle-mod_gcanvas:
-    outcome: written
-    detail: listed as mod_gcanvas; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_gcanvas already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LibreCodeCoop/moodle-app:
@@ -678,13 +679,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Limekiller/moodle-block_openai_questions:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_openai_questions
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LocNguyenSGU/DemoAI_KLTN:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   LuemmelSec/Moodle-Scanner:
@@ -704,8 +705,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   ManuelGil/alternate-admin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ManuelGil/moodle-alternate-admin:
@@ -719,8 +720,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   MartinGauk/moodle-mod_vuejsdemo:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_vuejsdemo
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   MikeEsteves/MoodleApiWrapper:
@@ -755,23 +756,23 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Mridul20/Teal-2.0:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Myddleware/moodle-local_myddleware:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_myddleware
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Mysterious-Owl/moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   NawarShabook/Moodle_Message_Plugin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_message
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   NegarMirgati/ChatBot-Server:
@@ -785,8 +786,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   NintenSAGA/DocCrawler:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   NoahCardoza/python-moodle-client:
@@ -800,18 +801,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   OlegEryomin/bsuselection:
-    outcome: written
-    detail: listed as mod_bsuselection; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_bsuselection already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   OnisaDev/Moodle-plugin-motivacion:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_motivacion
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-block_opencast:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_opencast
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-filter_opencast:
@@ -825,8 +826,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-local_chunkupload:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_chunkupload
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-local_och5p:
@@ -840,18 +841,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-mod_opencast:
-    outcome: written
-    detail: listed as mod_opencast; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_opencast already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-repository_opencast:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as repository_opencast
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-tool_opencast:
-    outcome: written
-    detail: listed as tool_opencast; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component tool_opencast already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PacktPublishing/Moodle-3.x-Developer-s-Guide:
@@ -860,18 +861,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Palumdo/moodle-mod_dynamo:
-    outcome: written
-    detail: listed as mod_dynamo; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_dynamo already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Palumdo/moodle-mod_guestquiz:
-    outcome: written
-    detail: listed as mod_guestquiz; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_guestquiz already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Palumdo/moodle-mod_teamup:
-    outcome: written
-    detail: listed as mod_teamup; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_teamup already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Pama-Lee/Moodesk:
@@ -880,9 +881,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PeterUpfold/moodle-report-parentprogressview:
-    outcome: written
-    detail: listed as report_parentprogressview; license AGPL-3.0 classified from
-      text
+    outcome: exists
+    detail: component report_parentprogressview already registered (first-come, RFC
+      §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PhaserArray/moodle-tweaks:
@@ -891,8 +892,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PhilippImhof/moodle-quiz_essaydownload:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as quiz_essaydownload
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PhilippImhof/moodle-tiny_supersub:
@@ -911,13 +912,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PoetOS/moodle-local_metadata:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_metadata
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PoetOS/moodle-message_output_telegram:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as message_telegram
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PoetOS/moodle-mod_questionnaire:
@@ -926,8 +927,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PrincTwilig/GPT4Moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ProjektAdLer/moodle-generate-database-diagrams:
@@ -936,8 +937,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ProximaFormazione/moodle-local_enrolnotify:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_enrolnotify
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   QuercusAlba15924/moodle-tampermonkey-auto-solver:
@@ -946,8 +947,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   RedTeamPentesting/moodle-rce-calculatedquestions:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Resources4Moodle/moodle-tool_enrolreactivate:
@@ -991,8 +992,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Savvy-Student-Stats/powerbi-moodle-data-source:
-    outcome: bad-license
-    detail: 'license: NOASSERTION (text unclassified)'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Schlaflied/Plot-Ark:
@@ -1076,8 +1077,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Soup-o-Stat/MIREA-TEST-SEARCHER:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Spudley/moodle-local_hibp:
@@ -1086,8 +1087,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   StackOverflowExcept1on/CVE-2021-36393:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   StudGPT/studgpt-chrome-extension:
@@ -1111,8 +1112,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   T0X1Cx/CVE-2021-36396-Moodle-Time-Based-SQLi-Exploit:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   TRMSC/moodle-css-styling:
@@ -1127,13 +1128,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Technomatix/moodle-plus:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ThanhHung2112/LMS_NextGen:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   TheMatrixan/vscode-moodle-snippets:
@@ -1167,13 +1168,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ULCC/moodle-block_ilp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch Deeside
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   UNEDLabs/moodle-atto_ejsapp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as atto_ejsapp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   UNEDLabs/moodle-block_ejsapp_collab_session:
@@ -1194,8 +1195,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   UNEDLabs/moodle-local_lrsproxy:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_lrsproxy
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   UNEDLabs/moodle-mod_ejsapp:
@@ -1225,8 +1226,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   UniversityofPortland/moodle-regex_assign_submission:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: needs-review
+    detail: declares assignsubmission_fileregex but repo name does not correspond;
+      human sign-off required before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   UnusualNick/tampermonkey-moodle-syncshare:
@@ -1241,8 +1243,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ValentinGarciaDelCueto/Asimov:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ValetteL/testsimplifier:
@@ -1256,8 +1258,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Vincent550102/Moodle-attendance-cracker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   WaetzigS/moodle-local_whatsappgen:
@@ -1266,8 +1268,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   WeaveAche/moodle-h5p-solver:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   WisdmLabs/moodle-format_remuiformat:
@@ -1291,8 +1293,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Wunderbyte-GmbH/moodle-mod_booking:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_booking
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   X5GON/x5moodle:
@@ -1303,8 +1305,7 @@ repos:
     last-checked: '2026-07-11'
   Yosef-AlSabbah/SecureGate.js-Anti-Emulator-VM-Sandbox-Motion-Verification-for-Web-Exams:
     outcome: no-version-php
-    detail: license MIT recovered from text, but no parseable version.php at root
-      of branch master
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   YunoHost-Apps/moodle_ynh:
@@ -1333,13 +1334,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   abu-co/CHS-Moodle-Archive:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   academic-moodle-cooperation/moodle-mod_checkmark:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component mod_checkmark already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   academic-moodle-cooperation/moodle-mod_offlinequiz:
@@ -1348,13 +1349,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   academic-moodle-cooperation/moodle-mod_organizer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component mod_organizer already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   academic-moodle-cooperation/moodle-mod_publication:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component mod_publication already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   academic-moodle-cooperation/moodle/moodle-local_assignsubmission_download:
@@ -1503,8 +1504,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   aldrinjenson/moodle-automation:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   alexmodrono/Findle:
@@ -1513,8 +1514,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   alexmorrisnz/moodle-paygw_stripe:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as paygw_stripe
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   alokrai1/moodle-mod_gotomeeting:
@@ -1550,13 +1551,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   amirtds/amirtds:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   amz-x/moodle-local_greetings:
-    outcome: written
-    detail: listed as local_greetings; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component local_greetings already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andantissimo/moodle-block_clipboard:
@@ -1576,8 +1577,9 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   andil-elearning/moodle-block_taggedcoursesearch:
-    outcome: written
-    detail: listed as block_taggedcoursesearch; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component block_taggedcoursesearch already registered (first-come, RFC
+      §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andisugandi/jagoanhosting-pasang-moodle:
@@ -1591,8 +1593,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andre-wojtowicz/learn-git-branching-scorm:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andreasschenkel/moodle-local_feedbackdchoicegenerator:
@@ -1617,8 +1619,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   andrewhancox/Moodle-jQuery-Lightbox-Gallery:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andrewmadden/moodle-local_mail:
@@ -1668,18 +1670,18 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   anilshanbhag/Moodle-Sync:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ankit2160/wp-devdocs-mcp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ankitagarwal/moodle-block_fbcomments:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_fbcomments
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   antandros/iyzico-moodle:
@@ -1689,18 +1691,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   anthology-ally/moodle-filter_ally:
-    outcome: written
-    detail: listed as filter_ally; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component filter_ally already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   anthology-ally/moodle-report_allylti:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as report_allylti
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   anthology-ally/moodle-tool_ally:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_ally
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   anuvindhs/GFS-Moo:
@@ -1709,23 +1711,23 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   appalachianstate/moodle-auth_shibbuncif:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_shibbuncif
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   appalachianstate/moodle-block_mysites:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_mysites
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   appalachianstate/moodle-block_panoptolite:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_panoptolite
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   appalachianstate/moodle-local_userenrols:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_userenrols
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   apurva91/small.py:
@@ -1734,8 +1736,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   arborrow/moodle-block_helpdesk:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   aregure/moodle-tool_message:
@@ -1744,8 +1746,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   arielZusman/moodle-availability_progress:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as availability_progress
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   arkaitzgarro/assignsubmission_wetransfer:
@@ -1764,8 +1766,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   as1605/DevClub-Assignment4:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ashfaaqrifath/Moodle-Alert-System:
@@ -1789,8 +1791,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   avestura/ExcelMoodleAddin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   avetica/moodle-mod_stackview:
@@ -1844,8 +1846,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   barbararamiro/moodle-theme_learnmoodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as theme_learnmoodle
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   basileLeroy/punch_clock:
@@ -1875,8 +1877,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-block_dash:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_dash
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-block_timetable:
@@ -1890,13 +1892,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-format_designer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as format_designer
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-format_kickstart:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as format_kickstart
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-local_learningtools:
@@ -1910,8 +1912,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-mod_videotime:
-    outcome: written
-    detail: listed as mod_videotime; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_videotime already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-mod_whiteboard:
@@ -1935,13 +1937,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   benibela/moodle-tools:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bertocode/moodlelabsubmission:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bfh/moodle-mod_verbalfeedback:
@@ -1950,8 +1952,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bfh/moodle-qtype_fileresponse:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_fileresponse
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bfh/moodle-quiz_archive:
@@ -1970,8 +1972,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bgies/LaraMoo:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   blindsidenetworks-ps/moodle-mod_bigbluebuttonbn:
@@ -1980,13 +1982,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   blindsidenetworks-ps/moodle-mod_recordingsbn:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_recordingsbn
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   blindsidenetworks/moodle-mod_bigbluebutton:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bmbrands/moodle-theme_classic:
@@ -1995,18 +1997,18 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   bobopinna/moodle-enrol_autoenrol:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_autoenrol
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bostelm/moodle-mod_scheduler:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_scheduler
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   boxlinknet/moodle-local_kwtsms:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bozoh/jMoodle:
@@ -2015,8 +2017,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bozoh/moodle-mod_simplecertificate:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_simplecertificate
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   branchup/moodle-enrol_xp:
@@ -2025,18 +2027,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   branchup/moodle-filter_shortcodes:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_shortcodes
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   brendanheywood/moodle-local_cleanurls:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_cleanurls
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   brickfieldprojects/moodle-block_accessibility:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_accessibility
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   brunomnsilva/markdown2moodle:
@@ -2060,18 +2062,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   buraktahap/LinkedIn-Moodle-Database-System:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   burcev-alex/moodle_analytics:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   burningTyger/openshift_moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/mod_learningmap:
@@ -2080,13 +2082,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-block_ai_chat:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_ai_chat
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-local_ai_manager:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_ai_manager
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-mod_kanban:
@@ -2095,23 +2097,23 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-mod_mootimeter:
-    outcome: written
-    detail: listed as mod_mootimeter; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_mootimeter already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-qtype_geogebra:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_geogebra
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-tiny_ai:
-    outcome: written
-    detail: listed as tiny_ai; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component tiny_ai already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   caiocarvalhofre/moodle-mod_maici:
-    outcome: written
-    detail: listed as mod_maici; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_maici already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   call-learning/ansible-role-moodle:
@@ -2125,8 +2127,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   carlos00perez/block_logocarousel:
-    outcome: written
-    detail: listed as block_logocarousel; license GPL-3.0 classified from text
+    outcome: exists
+    detail: component block_logocarousel already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   carlosrv999/moodle-google:
@@ -2135,38 +2137,38 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/docker_moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch 2004-psql
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-assignsubmission_maharaws:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as assignsubmission_maharaws
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-auth_basic:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component auth_basic already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-auth_enrolkey:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_enrolkey
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-auth_outage:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_outage
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-auth_saml2:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_saml2
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-auth_userkey:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_userkey
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-block_carousel:
@@ -2180,8 +2182,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-block_enrolkey:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_enrolkey
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-block_multiblock:
@@ -2190,44 +2192,44 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-fileconverter_librelambda:
-    outcome: written
-    detail: listed as fileconverter_librelambda; license AGPL-3.0 classified from
-      text
+    outcome: exists
+    detail: component fileconverter_librelambda already registered (first-come, RFC
+      §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-local_aws:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_aws
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-local_cohortauto:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_cohortauto
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-local_csp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_csp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-local_datacleaner:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_datacleaner
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-local_envbar:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_envbar
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-mod_reengagement:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_reengagement
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-mod_scormremote:
-    outcome: written
-    detail: listed as mod_scormremote; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_scormremote already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-mod_subcourse:
@@ -2236,8 +2238,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-report_coursesize:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as report_coursesize
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-search_elastic:
@@ -2252,8 +2254,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_abconfig:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_abconfig
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_copier:
@@ -2262,13 +2264,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_crawler:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_crawler
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_etl:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_etl
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_excimer:
@@ -2277,68 +2279,68 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_forcedcache:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_forcedcache
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_hashlegacy:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_hashlegacy
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_heartbeat:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_heartbeat
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_lockstats:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_lockstats
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_mfa:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_mfa
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_objectfs:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_objectfs
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_passwordvalidator:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_passwordvalidator
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_redirects:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_redirects
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_rocketchat:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_rocketchat
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_securityquestions:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_securityquestions
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_seo:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_seo
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_speedtest:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_speedtest
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_trigger:
-    outcome: written
-    detail: listed as tool_trigger; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component tool_trigger already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-webservice_restful:
@@ -2363,28 +2365,27 @@ repos:
     last-checked: '2026-07-11'
   cghiaus/PyCloze:
     outcome: no-version-php
-    detail: license MIT recovered from text, but no parseable version.php at root
-      of branch main
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cgrevisse/moodle-qbank_genai:
-    outcome: written
-    detail: listed as qbank_genai; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component qbank_genai already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   chester71206/moodle_crawler:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   chi2labs/moodleR:
-    outcome: bad-license
-    detail: 'license: NOASSERTION (text unclassified)'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   christiansteier/moodle-docker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch 4.1
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cjmcdonald42/mxMoodle:
@@ -2393,13 +2394,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   claudevervoort/moodle-lti13:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   clicepfl/moodle-scrapper:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cme_ineprotec/moodle-local_integracao:
@@ -2423,8 +2424,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   compilatio/moodle-plagiarism_compilatio:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as plagiarism_compilatio
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   corvus-albus/moodle-local_wsmanagesections:
@@ -2458,18 +2459,18 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_bc_dashboard:
-    outcome: written
-    detail: listed as block_bc_dashboard; license GPL-3.0 classified from text
+    outcome: exists
+    detail: component block_bc_dashboard already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_elbp:
-    outcome: written
-    detail: listed as block_elbp; license GPL-3.0 classified from text
+    outcome: exists
+    detail: component block_elbp already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_gradetracker:
-    outcome: written
-    detail: listed as block_gradetracker; license Apache-2.0 classified from text
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_quick_course:
@@ -2493,8 +2494,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   d-kavinraja/Intelligent-Examination-Submission-Framework-for-LMS:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch complete-application-setup-local-remote
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   daledavies/moodle-tool_registrationrules:
@@ -2503,23 +2504,23 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   damalis/full-stack-apache2-moodle-for-everyone-with-docker-compose:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   damalis/full-stack-proxy-nginx-moodle-for-everyone-with-docker-compose:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   damianlewis/ansible-role-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   damyon/moodle-theme_photo:
@@ -2553,8 +2554,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danielneis/moodle-block_newblock:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_newblock
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danielneis/moodle-local_mentorweb:
@@ -2563,53 +2564,53 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   danielneis/moodleparadesenvolvedores:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch gh-pages
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   daniil-berg/moodle-tool_monitoring:
-    outcome: written
-    detail: listed as tool_monitoring; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component tool_monitoring already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danmarsden/moodle-block_attendance:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_attendance
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danmarsden/moodle-local_recompletion:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_recompletion
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danmarsden/moodle-mod_attendance:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component mod_attendance already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danmarsden/moodle-mod_dialogue:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_dialogue
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danmarsden/moodle-plagiarism_turnitin_danmarsden_old:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component plagiarism_turnitin already indexed this run
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danmarsden/moodle-plagiarism_urkund:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as plagiarism_urkund
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danmarsden/moodle_mod_attforblock_old:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_attforblock
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danpoltawski/userscripts-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   darrencocco/moodle-tool_messagebroker:
@@ -2618,18 +2619,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   darrencocco/moodle-vagrant_dev:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   darrynten/MoodleExploit:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   davidgengenbach/moodle-downloader:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   davidherney/moodle-format_onetopic:
@@ -2648,8 +2649,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   davidpesce/moodle-mod_tincanlaunch:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component mod_tincanlaunch already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   davosmith/moodle-block_dndupload:
@@ -2668,8 +2669,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   davosmith/moodle-realtimequiz:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_realtimequiz
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   davosmith/moodle-uploadpdf:
@@ -2678,13 +2679,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dbinoj/moodle-logstore_graylog:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as logstore_graylog
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dbnschools/moodle-theme_fordson:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component theme_fordson already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dbnschools/moodle-theme_learnr:
@@ -2698,8 +2699,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   deraadt/Moodle-block_progress:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_progress
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   didactika/moodle-local_servicemanager:
@@ -2708,13 +2709,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   diegovdev/moodle-save-all-resources:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   digas99/elearning-theme-fix:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   digitalsparky/moodle-vagrant:
@@ -2728,8 +2729,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   dkuzevanov/moodle_master_slave:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dmelearn/moodle-mod_dmelearn:
@@ -2748,8 +2749,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dmonllao/moodle-local_flavours:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_flavours
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dne-elearning/moodle-magistere/moodle-atto_fontawesomepicker:
@@ -2910,8 +2911,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   doebi/MoodleScraper:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   donhinkelman/moodle-block_sharing_cart:
@@ -2920,8 +2921,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   doodlezucc/MoodleREST:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dotnize/moodle-scrape:
@@ -2930,18 +2931,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dpiponi/Moodler:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dravek/local_devtools:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_devtools
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dravek/moodle-tool_powerusers:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_powerusers
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   drebaud/moodle-local_cleanprofiles:
@@ -2960,8 +2961,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dualcube/moodle-enrol_stripepayment:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_stripepayment
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dualcube/moodle-report_overviewstats:
@@ -2976,38 +2977,38 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   dvdcastro/moodle-mod_livepoll:
-    outcome: written
-    detail: listed as mod_livepoll; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_livepoll already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   e-Luminous/web:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eLearning-BS23/moodle-auth_otp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_otp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eLearning-BS23/moodle-mod_html5player:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_html5player
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eLearning-BS23/moodle-paygw_cardinity:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as paygw_cardinity
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eLearning-BS23/moodle-qtype_crossword:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_crossword
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eLearning-BS23/moodle-quizaccess_proctoring:
-    outcome: written
-    detail: listed as quizaccess_proctoring; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component quizaccess_proctoring already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eLearning-TUDarmstadt/moodle-tool_cleanupusers:
@@ -3021,8 +3022,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   ecampbell/moodle-qformat_wordtable:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qformat_wordtable
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   edflex-tech/moodle-mod_edflex:
@@ -3036,34 +3037,33 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eduridden/moodle-theme_elegance:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as theme_elegance
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eduridden/moodle-theme_rocket:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as theme_rocket
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   elearning-ostfalia/moodle-qtype_proforma:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_proforma
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   elearningsoftware/moodle-mod_journal:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_journal
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eljulians/moodle-atto_multilang2:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as atto_multilang2
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ellakcy/moodle-compose:
     outcome: no-version-php
-    detail: license GPL-3.0 recovered from text, but no parseable version.php at root
-      of branch master
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   emeneo/moodle-blocks_report_free_seats:
@@ -3073,38 +3073,39 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   emeneo/moodle-enrol_apply:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_apply
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   emeneo/moodle-enrol_waitlist:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_waitlist
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   emeneo/moodle-local_course_templates:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_course_templates
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   emeneo/moodle-mod_description:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_description
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   enovation/moodle-utils:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ericmerrill/Banner-Luminis-Message-Broker-for-Moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: needs-review
+    detail: declares enrol_lmb but repo name does not correspond; human sign-off required
+      before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ericmerrill/moodle-mod_webexactivity:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_webexactivity
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   erseco/alpine-moodle:
@@ -3118,8 +3119,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   erseco/ugr_tfg:
-    outcome: bad-license
-    detail: 'license: CC-BY-SA-4.0'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   erudisiya/auth_twiliootp:
@@ -3138,8 +3139,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   eummena/moodle-1click-app-digitalocean:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eummena/moodle-antivirus_mimeblocker:
@@ -3220,8 +3221,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   farisv/Moodle-CVE-2019-3810:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fauzcategui/moodle-sence:
@@ -3250,8 +3251,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fmido88/moodle-enrol_wallet:
-    outcome: written
-    detail: listed as enrol_wallet; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component enrol_wallet already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fondation-unit/moodle-aiprovider_mistral:
@@ -3260,8 +3261,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fondation-unit/moodle-block_custom_course_progress:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_custom_course_progress
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fondation-unit/moodle-block_informations:
@@ -3275,8 +3276,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-10'
   fongfan999/uit_moodle_reminder:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   francoisjacquet/rosariosis:
@@ -3290,8 +3291,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/activitycompletionimage:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_activitycompletionimage
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/auth_anonymous:
@@ -3315,8 +3316,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/boost_campus_extra:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as theme_boost_campus_extra
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/clonecategory:
@@ -3325,28 +3326,28 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/course_tiles:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_course_tiles
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/courses_by_role:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_courses_by_role
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/enrol-token:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_token
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/filter_roundy:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_roundy
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/filter_units:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_units
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/local-ajax:
@@ -3355,8 +3356,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/local_signuptoken:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_signuptoken
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/moodle-course_meta:
@@ -3365,13 +3366,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/moodle-customfield_textbox:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as customfield_textbox
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/moodle-theme_classicrenderer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as theme_classicrenderer
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/moodle-token-enrolment:
@@ -3391,18 +3392,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/opensesame:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_opensesame
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/pdamod:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/qformat_essay:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qformat_essay
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/restoreall:
@@ -3411,8 +3412,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/theme_arid:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as theme_arid
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/theme_boost_union_am:
@@ -3421,18 +3422,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/wp2moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component auth_wp2moodle already indexed this run
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/wp2moodle--wordpress-:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/wp2moodle-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as auth_wp2moodle
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/xapiactivity:
@@ -3447,8 +3448,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fulldecent/moodle-enrol_course_tokens:
-    outcome: written
-    detail: listed as enrol_course_tokens; license AGPL-3.0 classified from text
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   futuresea-dev/Moodle-Learning-Tools:
@@ -3462,13 +3463,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fuzsh/moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fzyzcjy/CUHKSZHelper:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch dev
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   g.bordas/moodle-local_mail:
@@ -3477,23 +3478,23 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   gautamrwx/moodle-profiles-grabber:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   gbateson/moodle-mod_hotpot:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_hotpot
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   gbateson/moodle-qtype_essayautograde:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_essayautograde
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   gcmalloc/epfl-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   genius257/moodle-block_grade:
@@ -3527,13 +3528,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   gerkim62/moodle-calendar:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   gethvi/moodle-questions:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   getsmarter/moodle-api:
@@ -3597,8 +3598,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   grabs/moodle-local_adminer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_adminer
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   grinchenkoedu/local_cleanup:
@@ -3607,8 +3608,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   grp-attestoodle/moodle-tool_attestoodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_attestoodle
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   guesant/ava-pro:
@@ -3617,8 +3618,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   guilhermebferreira/moodlerest:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   guillaumeb87/moodle-local_modcustomfields:
@@ -3658,8 +3659,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   harsh4870/Moodle-on-kubernetes:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   harsilspatel/moodle-downloader:
@@ -3683,13 +3684,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hit-moodle/moodle-assignment-type_github:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hit-moodle/moodle-block_userguide:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hit-moodle/moodle-local_onlinejudge:
@@ -3698,13 +3699,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hit-moodle/moodle-mod_hotquestion:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hit-moodle/moodle-plagiarism_moss:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hit-moodle/onlinejudge:
@@ -3713,13 +3714,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hku-moodle-helper-dev/HKU-Moodle-Helper:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hmops/CodeRunner:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hmt/tinyscale:
@@ -3728,8 +3729,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hqhoang/moodle-block_massaction:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   hrimhari/moodle-auth_emailadmin:
@@ -3744,8 +3745,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ild-thl/moodle-block_disealytics:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_disealytics
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ildemartinez/LMS-Explorer:
@@ -3790,13 +3791,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   isuru89/moodle-local_reminders:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_reminders
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   itamart/moodle-mod_dataform:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_dataform
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ivan.hl.mail/moodle-theme_adaptable:
@@ -3810,8 +3811,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jaja-x/moodle-enrol-manual:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_manual
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jameskermode/mograder:
@@ -3860,13 +3861,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jgsmitty/Experience-API-for-Moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jgsmitty/TCAPI-Moodle-SCORM-mod:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_scorm
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jhrequena/moodle-theme_fordson:
@@ -3875,23 +3876,23 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   jjfiv/quizdown:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jleyva/moodle-block_configurablereports:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component block_configurable_reports already indexed this run
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jleyva/moodle-configurable_reports_repository:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jmcgettrick/MoodleDirectV2:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jmulet/moodle-tiny_codepro:
@@ -3921,8 +3922,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   josephfelix/moodle-varnish-cache-example:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   joshwillcock/moodle-auth_vulnerablepassword:
@@ -3937,8 +3938,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jpahullo/moodle-tool_mergeusers:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component tool_mergeusers already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jrangelardila/moodle-format_buttons:
@@ -3947,28 +3948,28 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jrchamp/moodle-mod_zoom:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_zoom
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jschof1/moodle-quick-links:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   juacas/MoodleQUIZ_template_UVa:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   juacas/moodle-message_appcrue:
-    outcome: written
-    detail: listed as message_appcrue; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component message_appcrue already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   juacas/moodle-mod_quest:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_quest
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   juliandavidmr/awesome-moodle-api:
@@ -3987,23 +3988,23 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   justinhunt/moodle-atto_newtemplate:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   justinhunt/moodle-filter_generico:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_generico
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   justinhunt/moodle-local_trigger:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_trigger
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   justinhunt/moodle-mod_newmodule:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   jxn-30/better-moodle:
@@ -4012,28 +4013,28 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kPointTeam/moodle_plugin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kabalin/moodle-dev-compose:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kabalin/moodle-filter_akamaitoken:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_akamaitoken
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kalebheitzman/moodle-filter_autotranslate:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_autotranslate
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kaltura/moodle_plugin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch MOODLE_501_DEV
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kamenskiyyyy/moodle-moyklass-plugin:
@@ -4048,8 +4049,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   karugianni/moodlelocalregistration:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kawaii/Moodles:
@@ -4058,8 +4059,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kellybertels/MoodleDevelopmentBook:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kewayne/moodle-smsgateway_customapi:
@@ -4068,8 +4069,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   khairu-aqsara/moodle-blocks_terusrag:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_terusrag
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kiklop74/moodle-local_dompdf:
@@ -4098,8 +4099,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   klassdata/moodle-local_smart_klass:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_smart_klass
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kltn-moolde/moodle-adaptive-learning-plugin:
@@ -4108,18 +4109,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kordan/moodle-mod_surveypro:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_surveypro
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   korenerok/moodle_login_observer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   korobopolly/moodle_myplugin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   krchvl/ReduxShare:
@@ -4138,8 +4139,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   krestomatio/moodle-local_tier:
-    outcome: written
-    detail: listed as local_tier; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component local_tier already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   krestomatio/moodle-operator:
@@ -4148,18 +4149,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kristian-94/moodle-local_message:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component local_message already indexed this run
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   labsmobile/sms-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_sms
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lambda-solutions/awesome-moodle-plugins:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lambda-solutions/moodle-block_zoola:
@@ -4168,33 +4169,33 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lanzt/CVE-2020-14321:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lazydaisy/Moodle-Studio:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learningworks/moodle-block_advnotifications:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_advnotifications
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learningworks/moodle-local_ws_enrolcohort:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_ws_enrolcohort
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-block_groups:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_groups
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-block_qrcode:
@@ -4203,8 +4204,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-fileconverter_onlyoffice:
-    outcome: written
-    detail: listed as fileconverter_onlyoffice; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component fileconverter_onlyoffice already registered (first-come, RFC
+      §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-mod_collabora:
@@ -4219,8 +4221,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-mod_groupmembers:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_groupmembers
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-mod_moodleoverflow:
@@ -4229,8 +4231,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-mod_ratingallocate:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_ratingallocate
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-repository_owncloud:
@@ -4250,8 +4252,7 @@ repos:
     last-checked: '2026-07-11'
   lemonad/moodle-mod_videofile:
     outcome: no-version-php
-    detail: license Apache-2.0 recovered from text, but no parseable version.php at
-      root of branch master
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   leofreitas_br/moodle-theme_adaptable:
@@ -4292,8 +4293,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lessonspace/moodle-mod_lessonspace:
-    outcome: written
-    detail: listed as mod_lessonspace; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_lessonspace already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   letstudygroup/moodle-block_ace:
@@ -4324,8 +4325,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   liliapro/moodle-local_wsmanager:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_wsmanager
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   llagerlof/MoodleRest:
@@ -4344,13 +4345,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   loyaniu/moodle-mcp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ltalirz/moodle-qformat_qtex:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lucaboesch/moodle-local_differentiator:
@@ -4369,8 +4370,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lucaboesch/moodle-quizaccess_safeexambrowser:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as quizaccess_safeexambrowser
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lucaboesch/moodle-report_datawarehouse:
@@ -4389,8 +4390,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lucisgit/moodle-jmeter-script-generator:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   luisgg/moodle-theme_essential:
@@ -4454,8 +4455,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcocrowe/my-moodle-template:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcusavgreen/moodle-tool_tdash:
@@ -4464,38 +4465,38 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   marcusgreen/moodle-qtype_aitext:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_aitext
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcusgreen/moodle-qtype_gapfill:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_gapfill
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcusgreen/moodle-qtype_wordselect:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_wordselect
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcusgreen/moodle-report_advancedgrading:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as report_advancedgrading
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcusgreen/moodle-tool_aiconnect:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_aiconnect
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcusgreen/moodle-tool_driprelease:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_driprelease
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcusgreen/moodle_local-sqlgenerator:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_sqlgenerator
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marcusgreentitus/moodle-theme_adaptable:
@@ -4529,8 +4530,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   martignoni/moodle-tool-guide:
-    outcome: bad-license
-    detail: 'license: CC-BY-SA-4.0'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   martin-danhier/webcampus-dark-theme:
@@ -4539,13 +4540,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   marxjohnson/moodle-block_messageteacher:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_messageteacher
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   matheus-crivellari/Poodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   maths/moodle-qtype_stack:
@@ -4559,8 +4560,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mattgibson/moodle-block_ajax_marking:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_ajax_marking
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   matzalazar/moodle-vault:
@@ -4569,8 +4570,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mdjnelson/moodle-mod_certificate:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_certificate
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mdjnelson/moodle-mod_customcert:
@@ -4584,8 +4585,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mfabriczy/moodle-docker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mhdzumair/Jilebi-Bot:
@@ -4614,8 +4615,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michael-milette/moodle-local_aiid:
-    outcome: written
-    detail: listed as local_aiid; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component local_aiid already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michael-milette/moodle-local_contact:
@@ -4624,8 +4625,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michael-milette/moodle-local_login:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_login
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michael-milette/moodle-local_mailtest:
@@ -4639,13 +4640,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michael-milette/moodle-theme_gcweb:
-    outcome: written
-    detail: listed as theme_gcweb; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component theme_gcweb already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michaelmeneses/moodle-composer:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   microsoft/Moodle-Teams-Bot:
@@ -4716,8 +4717,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   microsoft/moodle-theme_boost_o365teams:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as theme_boost_o365teams
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   microsoft/o365-moodle:
@@ -4726,8 +4727,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   middlebury/moodle-mod_adaptivequiz:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_adaptivequiz
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   midzdotdev/timetable-vcs:
@@ -4746,13 +4747,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mirea-ninja/moodle-answers-backend:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mirea-ninja/moodle-answers-script:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mitocw/moodle2edx:
@@ -4806,8 +4807,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-block_cohortspecifichtml:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_cohortspecifichtml
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-block_course_overview_campus:
@@ -4838,8 +4839,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-local_bulkenrol:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_bulkenrol
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-local_maintenance_livecheck:
@@ -4895,8 +4896,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-theme_boost_campus_child:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as theme_boost_campus_child
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-theme_boost_union:
@@ -4911,8 +4912,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-theme_boost_union_snippets:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-tool_apcu:
@@ -4936,18 +4937,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-an-hochschulen/moodle-workflows:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-by-kelsoncm/atto_justify:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as atto_justify
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-course-evaluations/moodle-block_coursefeedback:
-    outcome: written
-    detail: listed as block_coursefeedback; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component block_coursefeedback already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-local_mail/moodle-local_mail:
@@ -4962,8 +4963,7 @@ repos:
     last-checked: '2026-07-11'
   moodle/devdocs:
     outcome: no-version-php
-    detail: license AGPL-3.0 recovered from text, but no parseable version.php at
-      root of branch main
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle/moodle:
@@ -4977,8 +4977,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleacademy/moodle-local_greetings:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component local_greetings already indexed this run
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlebox/moodle-tool_moodlebox:
@@ -4997,13 +4997,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-behat-extension:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-ci-runner:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-cs:
@@ -5012,8 +5012,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-db-oracle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-docker:
@@ -5022,18 +5022,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-local_ci:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_ci
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-local_codechecker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_codechecker
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-local_hub:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_hub
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-local_moodleappbehat:
@@ -5042,13 +5042,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-local_moodlecheck:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_moodlecheck
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-local_moodlemobileapp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_moodlemobileapp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-mlbackend-python:
@@ -5057,8 +5057,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-mod_newmodule:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-performance-comparison:
@@ -5067,8 +5067,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-php-apache:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodle-plugin-ci:
@@ -5097,8 +5097,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/moodlemobile-phonegapbuild:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehq/wiki-rag:
@@ -5107,98 +5107,98 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlehu/moodle-mod_etherpadlite:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component mod_etherpadlite already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-block_rate_course:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-block_workflow:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_workflow
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-filter_embedquestion:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_embedquestion
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-local_broom:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-local_ousearch:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_ousearch
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-mod_forumng:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_forumng
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-mod_oublog:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component mod_oublog already indexed this run
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-mod_ouwiki:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_ouwiki
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-mod_subpage:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_subpage
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-qtype_ddimageortext:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_ddimageortext
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-qtype_ddmarker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_ddmarker
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-qtype_ddwtos:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_ddwtos
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-qtype_gapselect:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_gapselect
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-qtype_oumultiresponse:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_oumultiresponse
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-qtype_pmatch:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as qtype_pmatch
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-quizaccess_honestycheck:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as quizaccess_honestycheck
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-report_customsql:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component report_customsql already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleou/moodle-report_editdates:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as report_editdates
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlepeers/moodle-mod_groupformation:
@@ -5207,18 +5207,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleworkplace/moodle-format_wplist:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as format_wplist
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleworkplace/moodle-mod_coursecertificate:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_coursecertificate
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodleworkplace/moodle-tool_certificate:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component tool_certificate already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlicious/moodle-dataformat_jsonl:
@@ -5227,23 +5227,23 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlicious/moodle-local_devkit:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_devkit
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodlicious/moodle-local_wayfinder:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_wayfinder
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moosensei/awesome-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   motivational-techniques/moodle-block_mt:
-    outcome: written
-    detail: listed as block_mt; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component block_mt already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mrcinv/moodle_api.py:
@@ -5262,8 +5262,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mudrd8mz/moodle-block_course_contents:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_course_contents
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mudrd8mz/moodle-editor_marklar:
@@ -5272,13 +5272,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mudrd8mz/moodle-tool_pluginskel:
-    outcome: written
-    detail: listed as tool_pluginskel; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component tool_pluginskel already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mudrd8mz/moodle-tool_vuejsdemo:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_vuejsdemo
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mudrd8mz/moodle-toolbox:
@@ -5288,8 +5288,7 @@ repos:
     last-checked: '2026-07-11'
   mudrd8mz/node-moodle-client:
     outcome: no-version-php
-    detail: license BSD-2-Clause recovered from text, but no parseable version.php
-      at root of branch master
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   muhammadarnaldo/moodle-prayertimes-plugin-block:
@@ -5353,13 +5352,13 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   nadavkav/RTL-BIDI-Hebrew-Moodle-Plugins:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   nadavkav/moodle-atto_hvp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as atto_hvp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   naloaty/syncshare-extension:
@@ -5368,29 +5367,28 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   navitaslts/moodle-report_ncmusergrades:
-    outcome: written
-    detail: listed as report_ncmusergrades; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component report_ncmusergrades already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   nclarius/shell-scripts:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ndunand/moodle-enrol_attributes:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_attributes
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ndunand/moodle-mod_choicegroup:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_choicegroup
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   nejizzuki/EduAuto:
     outcome: no-version-php
-    detail: license MIT recovered from text, but no parseable version.php at root
-      of branch main
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   nennigb/amc2moodle:
@@ -5399,8 +5397,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   netsapiensis/moodle-block_course_menu:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch MOODLE_20_STABLE
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   nextcloud/integration_moodle:
@@ -5459,8 +5457,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   number33/moodle-mod_adobeconnect:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch MOODLE_20_STABLE
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   odeialba/moodle-local_volunteer:
@@ -5479,13 +5477,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   omareldeeb/tum-moodle-downloader:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   onbirdev/moodle-enrol_cart:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_cart
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   onbirdev/moodle-local_captcha:
@@ -5494,13 +5492,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   onbirdev/moodle-quizaccess_startlimit:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as quizaccess_startlimit
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   onbirdev/moodle-webservice_mcp:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as webservice_mcp
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   onyetapp/WORDPRESS-02-onyetmpdf:
@@ -5515,23 +5513,23 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   open-lms-open-source/moodle-enrol_programs:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as enrol_programs
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   open-lms-open-source/moodle-local_redislock:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_redislock
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   open-lms-open-source/moodle-mod_collaborate:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component mod_collaborate already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   open-lms-open-source/moodle-mod_hsuforum:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_hsuforum
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   open-lms-open-source/moodle-plugin-ci:
@@ -5545,8 +5543,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   open-lms-open-source/moodle-vagrant-example:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   openfun/marsha:
@@ -5625,8 +5623,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   oreipalido/ead.be2in.us:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   osangoi/moodle-qtype_vplquestion:
@@ -5645,8 +5643,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   p0dalirius/Moodle-webshell-plugin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   paideia-lms/Paideia:
@@ -5660,8 +5658,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   pateash/moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   patrickpollet/moodle_local_ldap:
@@ -5670,13 +5668,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   patrickpollet/moodlews:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   patrickpollet/moodlews_ksoap2:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   patrickvander/moodle-theme_adaptable:
@@ -5690,8 +5688,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   paulholden/moodle-local_metagroups:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_metagroups
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   pauln/moodle-assignment_onlineaudio:
@@ -5715,28 +5713,28 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   piersharding/moodle-google:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   piersharding/moodle-tool_uploadcourse:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_uploadcourse
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   piersharding/moodle-tool_uploadcoursecategory:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as tool_uploadcoursecategory
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   pitbulk/moodle_saml:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   plagiarismsearch/moodle-assignsubmission_edulegit:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as assignsubmission_edulegit
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   playlyfe/docker-moodle:
@@ -5745,8 +5743,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   prastamaha/moodle-docker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   prateeksachan/moodle-search_algolia:
@@ -5795,8 +5793,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   projectestac/odissea:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   psistrom/moodle-block_featuredcourses:
@@ -5815,8 +5813,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   radioberry/docker-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ravellom/moodle_csv_prof:
@@ -5830,8 +5828,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   remotelearner/moodle-block_grade_me:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_grade_me
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   renanrmelo/moodle-local_oauth:
@@ -5840,8 +5838,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   reverse-developer/Moodle-Merge-user-data:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component tool_mergeusers already indexed this run
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   reverse-developer/Telegram-moodle-notification-bot:
@@ -5850,8 +5848,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   rezaies/moodle-calendartype_jalali:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as calendartype_jalali
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   riddler_arg/moodle-enrol_profilefield:
@@ -5890,8 +5888,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   roelmann/moodle-theme_waxed:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: exists
+    detail: component theme_waxed already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   rohitaryal/kiit-moodle-plugin:
@@ -5900,8 +5898,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ronefel/moodle-mod_googlemeet:
-    outcome: written
-    detail: listed as mod_googlemeet; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_googlemeet already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   roygitonga/moodle_block_study_day:
@@ -5982,8 +5980,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   rwthmoodle/moodle-mod_pdfannotator:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_pdfannotator
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   s-celles/python-lms-tools:
@@ -5992,18 +5990,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   safatshahin/moodle-block_simple_calculator:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_simple_calculator
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   safatshahin/moodle-block_weather:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_weather
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   safatshahin/moodle-mod_debate:
-    outcome: written
-    detail: listed as mod_debate; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component mod_debate already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   safatshahin/moodle-qbank_qtoactivity:
@@ -6022,8 +6020,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   samkit5495/MoodleQuestionGenerator:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   samykhalil/moodle_user_profile_checkboxs:
@@ -6037,8 +6035,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   santoshndev/moodle-local_virus_scanner:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_virus_scanner
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   santoshndev/moodle-paygw_razorpay:
@@ -6057,18 +6055,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   santoshtmp/moodle-local_customcleanurl:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_customcleanurl
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   santoshtmp/moodle-local_easycustmenu:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_easycustmenu
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   santoshtmp/moodle-report_usercoursereports:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as report_usercoursereports
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   savapage/moodle-block_savapage:
@@ -6088,8 +6086,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   sbourget/moodle-mod_pcast:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_pcast
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   scara/moodle-local_twittercard:
@@ -6113,8 +6111,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   sergiogomez/docker-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   serlo/moodle-mod_serlo:
@@ -6128,8 +6126,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   seunayolu/moodle-docker-compose:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   seven-io/moodle:
@@ -6138,8 +6136,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   sharpchi/moodle-filter_syntaxhighlighter:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_syntaxhighlighter
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   silecs/moodle-auth_sgdf:
@@ -6163,33 +6161,33 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   siriscmv/moodle-lms:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   sknepal/scrapers:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   skodak/moodle-mod_book:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_book
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   skodak/moodle-mod_groupselect:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_groupselect
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   skyl/django-moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   smartcommunitylab/moodle_import:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   solutiongrove/sg-moodle-oauth:
@@ -6259,13 +6257,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   sudile/moodle-block_feedbackbox:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_feedbackbox
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   sudile/moodle-mod_feedbackbox:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_feedbackbox
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   surlabs/AIChatForMoodle:
@@ -6289,8 +6287,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   takayuki-fuwa/moodle-block_misaka:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_misaka
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tallthom/moodle-block_forum_report:
@@ -6304,18 +6302,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   techcentaur/Autofill-Moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   teltek/moodle-atto_pumukitmedia:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as atto_pumukitmedia
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   teltek/moodle-filter_pumukitmedia:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_pumukitmedia
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   teuton-software/asker:
@@ -6329,13 +6327,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   theLeroy/MoodleTestSync:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   theblackcat102/moodle_notification:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   theovier/lernplattform-crawler:
@@ -6354,8 +6352,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   thm-projects/arsnova-lms-connector:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   thoriqadillah/moodle-qtype_essaysimilarity:
@@ -6369,13 +6367,13 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   tigusigalpa/moodle-block_wpfeed:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_wpfeed
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   timhunt/moodle-local_greet:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_greet
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tinjohn/moodle-block_lpprogress:
@@ -6411,8 +6409,7 @@ repos:
     last-checked: '2026-07-11'
   tna76874/mbztool:
     outcome: no-version-php
-    detail: license AGPL-3.0 recovered from text, but no parseable version.php at
-      root of branch master
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tomo.tsuyuki.se/moodle-local_modcustomfields:
@@ -6421,13 +6418,13 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   tomo0611/moodle-plus:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tonussi/moodle-mod_quizgame-multiplayer-competitive:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_quizgame
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tonyblundell/moodle-react-demo:
@@ -6441,8 +6438,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   trampgeek/moodle-filter_ace_inline:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as filter_ace_inline
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   trampgeek/moodle-qtype_coderunner:
@@ -6471,8 +6468,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   trunghieu-tran/Moodle-Plugins---Supervised:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tsuzu/kadai-bot:
@@ -6481,13 +6478,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tum-moodle/moodle-block_quizchat:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_quizchat
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   turnitin/moodle-mod_turnitintooltwo:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as mod_turnitintooltwo
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   turnitin/moodle-plagiarism_turnitin:
@@ -6496,13 +6493,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   turnitin/moodle-plagiarism_turnitinsim:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as plagiarism_turnitinsim
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   turnkeylinux-apps/moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tutoom/moodle-mod_tutoom:
@@ -6511,8 +6508,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ubc/moodle-docker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ucla/moodle-local_visibility:
@@ -6521,8 +6518,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   uclmoodle/moodle-report_myfeedback:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as report_myfeedback
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ucsf-ckm/local_navblockhacks:
@@ -6531,8 +6528,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ucsf-education/local_quizanon:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_quizanon
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ucsf-education/moodle-admin-tool-ldapsync:
@@ -6593,13 +6590,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   unesco-iesalc/paygw_bank:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as paygw_bank
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   uni-halle/maximapool-docker:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch develop
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   unicheck/moodle-plagiarism_unicheckcorp:
@@ -6613,8 +6610,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   uteluq/moodle-block_uteluqchatbot:
-    outcome: written
-    detail: listed as block_uteluqchatbot; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component block_uteluqchatbot already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   uvedtb/moodle-block_usersmap:
@@ -6633,8 +6630,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   vaiva-sarauskyte/moodle-plugin:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   valentineus/moodle-auth_token:
@@ -6668,13 +6665,13 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   vinaychandra/Moodle-Downloader:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   virakthaka/php-moodle-api:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   vivek4/moodle-filter_oembed:
@@ -6693,8 +6690,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   webong/plugin-paystack-moodle-enrol:
-    outcome: written
-    detail: listed as enrol_paystack; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component enrol_paystack already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   webtechbilisim/moodle-enrol_weepaypayment:
@@ -6703,13 +6700,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   willianmano/moodle-block_ranking:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as block_ranking
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   willianmano/moodle-format_timeline:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as format_timeline
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   willianmano/moodle-theme_moove:
@@ -6753,8 +6750,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   wset/moodle-webservice_restjson:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as webservice_restjson
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   x-name15/moodle-apidocs-course-module:
@@ -6773,8 +6770,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   xchopin/OpenLRW-scripts:
-    outcome: bad-license
-    detail: 'license: NOASSERTION (text unclassified)'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   xzatkalik/moodle-local_mail:
@@ -6789,8 +6786,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   yedidiaklein/moodle-local_aiquestions:
-    outcome: written
-    detail: listed as local_aiquestions; license AGPL-3.0 classified from text
+    outcome: exists
+    detail: component local_aiquestions already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   yoannchb-pro/MoodleGPT:
@@ -6799,8 +6796,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   yohanesgultom/moodle-gift-generator:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   yuran1811/moodify:
@@ -6809,13 +6806,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   yurinskiy/moodle-local_cohort_profile:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: written
+    detail: listed as local_cohort_profile
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   zaddok/moodle:
-    outcome: bad-license
-    detail: 'license: none detected'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   zedsalim/moodle-scraper:
@@ -6824,8 +6821,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   zeroby0/lms-scraper:
-    outcome: bad-license
-    detail: 'license: NOASSERTION (text unclassified)'
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   zikzakmedia/python-moodle:

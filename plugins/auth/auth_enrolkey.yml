@@ -1,0 +1,10 @@
+component: auth_enrolkey
+source: https://github.com/catalyst/moodle-auth_enrolkey
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Much simpler 1-step registration and enrolment using course enrol keys

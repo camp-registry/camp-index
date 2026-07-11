@@ -1,0 +1,12 @@
+component: block_accessibility
+source: https://github.com/brickfieldprojects/moodle-block_accessibility
+maintainers:
+- github: brickfieldprojects
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: NO LONGER USABLE! You have been warned. Not usable on any supported Moodle
+  versions. Not maintainable due to dependancies on out-of-date third party libraries,
+  such as the AT Bar.

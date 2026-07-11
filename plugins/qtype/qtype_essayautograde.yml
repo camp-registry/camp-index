@@ -1,0 +1,10 @@
+component: qtype_essayautograde
+source: https://github.com/gbateson/moodle-qtype_essayautograde
+maintainers:
+- github: gbateson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Essay (auto-grade) question type for Moodle >= 3.0

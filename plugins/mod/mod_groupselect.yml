@@ -1,0 +1,11 @@
+component: mod_groupselect
+source: https://github.com/skodak/moodle-mod_groupselect
+maintainers:
+- github: skodak
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Group self selection module - NOTE: this module is not maintained because
+  of the lack of funding.'

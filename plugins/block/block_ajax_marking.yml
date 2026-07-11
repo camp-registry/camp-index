@@ -1,0 +1,13 @@
+component: block_ajax_marking
+source: https://github.com/mattgibson/moodle-block_ajax_marking
+maintainers:
+- github: mattgibson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A plugin for Moodle that displays all of a teacher's unmarked work from across
+  the site in one block. The interface is an expandable AJAX-loading tree (course
+  -> activity -> user), which provides a pop-up when a user is clicked, which allows
+  the work to be marked without leaving the page.

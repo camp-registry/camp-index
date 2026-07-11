@@ -1,0 +1,11 @@
+component: local_customcleanurl
+source: https://github.com/santoshtmp/moodle-local_customcleanurl
+maintainers:
+- github: santoshtmp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin customcleanurl purpose to make the moodle url in more
+  user readable format and SEO friendly url that makes moodle clean url.

@@ -1,0 +1,10 @@
+component: block_admin_presets
+source: https://github.com/DigiDago/moodle-block_admin_presets
+maintainers:
+- github: DigiDago
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block to export and import moodle administration settings

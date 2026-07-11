@@ -1,0 +1,13 @@
+component: mod_certificate
+source: https://github.com/mdjnelson/moodle-mod_certificate
+maintainers:
+- github: mdjnelson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'NOTE: This plugin is no longer receiving any new features. Only bug fixes
+  are being applied. I have been working on a new plugin which can be located at https://github.com/markn86/moodle-mod_customcert
+  which allows complete customisation of the PDF via the browser, whereas this plugin
+  requires FTP a'

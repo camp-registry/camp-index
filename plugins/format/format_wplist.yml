@@ -1,0 +1,10 @@
+component: format_wplist
+source: https://github.com/moodleworkplace/moodle-format_wplist
+maintainers:
+- github: moodleworkplace
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Course format Workplace list, that used to be part of Moodle Workplace.

@@ -1,0 +1,9 @@
+component: report_allylti
+source: https://github.com/anthology-ally/moodle-report_allylti
+maintainers:
+- github: anthology-ally
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

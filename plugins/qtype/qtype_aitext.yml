@@ -1,0 +1,10 @@
+component: qtype_aitext
+source: https://github.com/marcusgreen/moodle-qtype_aitext
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle AIText question type that uses a Large Language Model for feedback

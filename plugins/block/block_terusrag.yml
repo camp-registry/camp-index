@@ -1,0 +1,10 @@
+component: block_terusrag
+source: https://github.com/khairu-aqsara/moodle-blocks_terusrag
+maintainers:
+- github: khairu-aqsara
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Retrieval-Augmented Generation (RAG)

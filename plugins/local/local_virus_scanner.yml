@@ -1,0 +1,11 @@
+component: local_virus_scanner
+source: https://github.com/santoshndev/moodle-local_virus_scanner
+maintainers:
+- github: santoshndev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This moodle plugin can be used to scan the uploaded assignment files using
+  clamscan

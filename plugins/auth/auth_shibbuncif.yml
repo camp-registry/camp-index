@@ -1,0 +1,10 @@
+component: auth_shibbuncif
+source: https://github.com/appalachianstate/moodle-auth_shibbuncif
+maintainers:
+- github: appalachianstate
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle auth plugin for UNC Id Federation (Shibboleth)

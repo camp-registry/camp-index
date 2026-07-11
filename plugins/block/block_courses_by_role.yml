@@ -1,0 +1,10 @@
+component: block_courses_by_role
+source: https://github.com/frumbert/courses_by_role
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block to list courses the user is enrolled grouped by their role

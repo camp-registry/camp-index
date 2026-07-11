@@ -1,0 +1,10 @@
+component: block_openai_questions
+source: https://github.com/Limekiller/moodle-block_openai_questions
+maintainers:
+- github: Limekiller
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Generate questions in Moodle from text using GPT-3

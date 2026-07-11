@@ -1,0 +1,11 @@
+component: mod_adaptivequiz
+source: https://github.com/middlebury/moodle-mod_adaptivequiz
+maintainers:
+- github: middlebury
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Adaptive Quiz Module (archived). See https://moodle.org/plugins/mod_adaptivequiz
+  for active forks and releases.

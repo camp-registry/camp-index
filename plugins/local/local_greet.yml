@@ -1,0 +1,10 @@
+component: local_greet
+source: https://github.com/timhunt/moodle-local_greet
+maintainers:
+- github: timhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple 'Hello world' example of a Moodle plugin

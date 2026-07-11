@@ -1,0 +1,10 @@
+component: local_metagroups
+source: https://github.com/paulholden/moodle-local_metagroups
+maintainers:
+- github: paulholden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin to synchronize meta-course groups

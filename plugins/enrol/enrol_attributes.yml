@@ -1,0 +1,11 @@
+component: enrol_attributes
+source: https://github.com/ndunand/moodle-enrol_attributes
+maintainers:
+- github: ndunand
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin allows users to be enrolled according to any value stored in
+  their user profile.

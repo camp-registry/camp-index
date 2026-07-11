@@ -1,0 +1,11 @@
+component: local_bulkenrol
+source: https://github.com/moodle-an-hochschulen/moodle-local_bulkenrol
+maintainers:
+- github: moodle-an-hochschulen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin which provides the possibility to bulk enrol a list of users
+  who are identified by their e-mail adresses into a course.

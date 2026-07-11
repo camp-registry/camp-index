@@ -1,0 +1,11 @@
+component: filter_akamaitoken
+source: https://github.com/kabalin/moodle-filter_akamaitoken
+maintainers:
+- github: kabalin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle filter plugin that enables viewing SMP protected HLS media stream
+  delivered by Akamai Media Services

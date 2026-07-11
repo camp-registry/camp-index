@@ -1,0 +1,10 @@
+component: mod_journal
+source: https://github.com/elearningsoftware/moodle-mod_journal
+maintainers:
+- github: elearningsoftware
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Moodle journal module for moodle 2.0+

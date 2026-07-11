@@ -1,0 +1,10 @@
+component: block_adeptus_insights
+source: https://github.com/Adeptus-360/moodle-block_adeptus_insights
+maintainers:
+- github: Adeptus-360
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block companion for the Adeptus Insights report plugin.

@@ -1,0 +1,12 @@
+component: format_designer
+source: https://github.com/bdecentgmbh/moodle-format_designer
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Designer course format is a course builder — teachers can choose different
+  layouts for each section in order to display activities and resources in a more
+  meaningful and beautiful way.

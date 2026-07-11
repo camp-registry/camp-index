@@ -1,0 +1,11 @@
+component: local_userenrols
+source: https://github.com/appalachianstate/moodle-local_userenrols
+maintainers:
+- github: appalachianstate
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin to make user enrollments and group assignments from an
+  imported CSV file.

@@ -1,0 +1,10 @@
+component: tool_vuejsdemo
+source: https://github.com/mudrd8mz/moodle-tool_vuejsdemo
+maintainers:
+- github: mudrd8mz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple demo illustrating Vue.js integration with Moodle

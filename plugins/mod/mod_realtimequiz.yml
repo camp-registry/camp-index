@@ -1,0 +1,11 @@
+component: mod_realtimequiz
+source: https://github.com/davosmith/moodle-realtimequiz
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that gives all students a short time to answer a question,
+  before displaying the results to the class

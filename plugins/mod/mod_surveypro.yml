@@ -1,0 +1,10 @@
+component: mod_surveypro
+source: https://github.com/kordan/moodle-mod_surveypro
+maintainers:
+- github: kordan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The surveypro module per moodle
