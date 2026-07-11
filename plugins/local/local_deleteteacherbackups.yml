@@ -1,0 +1,11 @@
+component: local_deleteteacherbackups
+source: https://github.com/Techia-Solutions/moodle-local_deleteteacherbackups
+maintainers:
+- github: Techia-Solutions
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Deletes Moodle teacher created course backups after a specified amount of
+  days.

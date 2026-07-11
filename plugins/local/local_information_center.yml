@@ -1,0 +1,13 @@
+component: local_information_center
+source: https://github.com/oncampus/moodle-local_information_center
+maintainers:
+- github: oncampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Information Centre enables the management and display of information within
+  the Moodle platform. It offers functions for creating, updating and deleting messages,
+  as well as for defining message categories and visibility options based on user
+  roles.

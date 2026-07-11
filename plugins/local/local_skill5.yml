@@ -1,0 +1,9 @@
+component: local_skill5
+source: https://github.com/skill-5/moodle-local_skill5
+maintainers:
+- github: skill-5
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

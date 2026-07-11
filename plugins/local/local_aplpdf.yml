@@ -1,0 +1,10 @@
+component: local_aplpdf
+source: https://github.com/vfremaux/moodle-local_aplpdf
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Collection of PDF related tools

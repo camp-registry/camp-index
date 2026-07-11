@@ -1,0 +1,11 @@
+component: local_automatic_templates
+source: https://github.com/nstefanski/moodle-local_automatic_templates
+maintainers:
+- github: nstefanski
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local plugin to automatically restore template backups into "blank" courses
+  within Moodle

@@ -1,0 +1,11 @@
+component: local_redirectafterlogin
+source: https://github.com/E-learningTouch/moodle-local_redirectafterlogin
+maintainers:
+- github: E-learningTouch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This Moodle plugin allows administrators to define custom redirection behavior
+  after user login.

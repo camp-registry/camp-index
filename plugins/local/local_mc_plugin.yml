@@ -1,0 +1,11 @@
+component: local_mc_plugin
+source: https://github.com/kcanakdag/moodle-local_mc_plugin
+maintainers:
+- github: kcanakdag
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Official Moodle plugin for MoodleConnect - Automatically sync Moodle events
+  to external tools.

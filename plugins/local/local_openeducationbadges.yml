@@ -1,0 +1,11 @@
+component: local_openeducationbadges
+source: https://github.com/mycelia-gGmbH/moodle-local_openeducationbadges
+maintainers:
+- github: mycelia-gGmbH
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle LMS Plugin to use the Open Badges from the platform Open Educational
+  Badges.

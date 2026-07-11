@@ -1,0 +1,11 @@
+component: local_weekly_calendar
+source: https://github.com/migueldhyne/moodle-local_weekly_calendar
+maintainers:
+- github: migueldhyne
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin provides a weekly calendar view and allows you to export each
+  week as a PDF document.

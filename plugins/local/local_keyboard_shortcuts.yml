@@ -1,0 +1,10 @@
+component: local_keyboard_shortcuts
+source: https://github.com/samber/moodle-local_keyboard_shortcuts
+maintainers:
+- github: samber
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple plugin for navigating over Moodle with keyboard shortcuts

@@ -1,0 +1,10 @@
+component: local_cool
+source: https://github.com/cvut-czm/moodle-local_cool
+maintainers:
+- github: cvut-czm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Common Object Oriented Library for moodle

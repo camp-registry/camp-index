@@ -1,0 +1,10 @@
+component: local_unenrolcategorycourses
+source: https://github.com/oliviervalentin/moodle-local_unenrolcategorycourses
+maintainers:
+- github: oliviervalentin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local plugin to bulk unenrol users from courses within a selected category.

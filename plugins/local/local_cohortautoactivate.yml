@@ -1,0 +1,11 @@
+component: local_cohortautoactivate
+source: https://github.com/birdy1976/moodle-local_cohortautoactivate
+maintainers:
+- github: birdy1976
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The plugin searches for inactive cohorts and checks whether the course start
+  date has passed. If both conditions are met, the cohort is activated and synchronised.

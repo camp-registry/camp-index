@@ -1,0 +1,9 @@
+component: local_user_completion
+source: https://github.com/vsotirasqmplus/moodle-local_user_completion
+maintainers:
+- github: vsotirasqmplus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

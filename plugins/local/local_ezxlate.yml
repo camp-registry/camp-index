@@ -1,0 +1,12 @@
+component: local_ezxlate
+source: https://github.com/ezGlobeGIT/moodle_local_ezxlate
+maintainers:
+- github: ezGlobeGIT
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The EzGlobe Moodle Plugin streamlines the translation and localization of
+  Moodle courses. It allows EzGlobe to export course content for translation, reimport
+  localized versions, and manage multilingual updates with ease.

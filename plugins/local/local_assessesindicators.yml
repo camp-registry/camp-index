@@ -1,0 +1,9 @@
+component: local_assessesindicators
+source: https://github.com/dmonllao/moodle-local_assessesindicators
+maintainers:
+- github: dmonllao
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

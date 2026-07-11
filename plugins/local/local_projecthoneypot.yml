@@ -1,0 +1,9 @@
+component: local_projecthoneypot
+source: https://github.com/ebugnet/moodle-local_projecthoneypot
+maintainers:
+- github: ebugnet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

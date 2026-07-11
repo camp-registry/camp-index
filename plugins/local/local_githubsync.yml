@@ -1,0 +1,10 @@
+component: local_githubsync
+source: https://github.com/PSA-Corporate-Learning-Branch/moodle-local_githubsync
+maintainers:
+- github: PSA-Corporate-Learning-Branch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that syncs course content from a GitHub repository

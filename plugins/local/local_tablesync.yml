@@ -1,0 +1,10 @@
+component: local_tablesync
+source: https://github.com/zappee-ai/moodle-local_tablesync
+maintainers:
+- github: zappee-ai
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local Moodle plugin to sync Moodle tables to an external database

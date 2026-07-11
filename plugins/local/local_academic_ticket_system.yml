@@ -1,0 +1,11 @@
+component: local_academic_ticket_system
+source: https://github.com/abdelrhman2049/moodle-local_academic_ticket_system
+maintainers:
+- github: abdelrhman2049
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A professional academic support ticket system for Moodle with assignment,
+  internal notes, and feedback features.

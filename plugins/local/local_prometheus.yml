@@ -1,0 +1,10 @@
+component: local_prometheus
+source: https://github.com/Vidalia/moodle-local_prometheus
+maintainers:
+- github: Vidalia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Prometheus scraper endpoint for Moodle

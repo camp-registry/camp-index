@@ -1,0 +1,11 @@
+component: local_confseed
+source: https://github.com/liip/moodle-local_confseed
+maintainers:
+- github: liip
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 'local' plugin to seed configuration to DB at installation or upgrade
+  time

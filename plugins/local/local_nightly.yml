@@ -1,0 +1,10 @@
+component: local_nightly
+source: https://github.com/roglos/moodle-local_nightly
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local plugin to host scripts for nightly scheduled tasks

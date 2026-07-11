@@ -1,0 +1,10 @@
+component: local_moodledata_explorer
+source: https://github.com/mgleeson/moodle-local_moodledata_explorer
+maintainers:
+- github: mgleeson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle utility for admins to explore files stored in moodledata/filedir

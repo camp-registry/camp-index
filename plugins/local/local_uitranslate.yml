@@ -1,0 +1,11 @@
+component: local_uitranslate
+source: https://github.com/davidherney/moodle-local_uitranslate
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin created to assist in translating the user interface from the code
+  of other plugins.

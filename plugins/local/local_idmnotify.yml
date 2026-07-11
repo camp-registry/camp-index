@@ -1,0 +1,9 @@
+component: local_idmnotify
+source: https://github.com/cborn/moodle-local_idmnotify
+maintainers:
+- github: cborn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

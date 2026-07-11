@@ -1,0 +1,12 @@
+component: local_lockearlysubmit
+source: https://github.com/bhardwaj-amit/moodle-local_lockearlysubmit
+maintainers:
+- github: bhardwaj-amit
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Automatically lock assignment submissions made *before* the due date once
+  the due date has passed, to prevent students from overriding early submissions.
+  Also unlocks submissions if an extension is granted.

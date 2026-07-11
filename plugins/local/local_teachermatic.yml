@@ -1,0 +1,10 @@
+component: local_teachermatic
+source: https://github.com/avallain/moodle-local_teachermatic
+maintainers:
+- github: avallain
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: TMA Moodle Local Integration

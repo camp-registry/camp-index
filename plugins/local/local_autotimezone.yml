@@ -1,0 +1,10 @@
+component: local_autotimezone
+source: https://github.com/mhughes2k/moodle-local_autotimezone
+maintainers:
+- github: mhughes2k
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Automatically switch time zone

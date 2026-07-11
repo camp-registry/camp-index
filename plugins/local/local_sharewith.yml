@@ -1,0 +1,11 @@
+component: local_sharewith
+source: https://github.com/devlionco/moodle-local_sharewith
+maintainers:
+- github: devlionco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Enable a teacher to share: Activity/Resource, Topic/Module, with a shared
+  global course, with a colleague and with her/himself (other courses they teach)'

@@ -1,0 +1,9 @@
+component: local_qbankremotemanager
+source: https://github.com/Corso02/moodle-local_qbankremotemanager
+maintainers:
+- github: Corso02
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,12 @@
+component: local_contactlist
+source: https://github.com/elearning-univie/moodle-local_contactlist
+maintainers:
+- github: elearning-univie
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'The contactlist plugin allows students to decide if they want to share their
+  contact information with their fellow students in accordance with the GDPR for each
+  course they are registered in. Instruction in GERMAN: https://wiki.univie.ac.at/display/Moodle/Kontaktliste'

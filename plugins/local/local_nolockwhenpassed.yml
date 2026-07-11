@@ -1,0 +1,11 @@
+component: local_nolockwhenpassed
+source: https://github.com/jamiepratt/moodle-local_nolockwhenpassed
+maintainers:
+- github: jamiepratt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: overrides grade lock and override flags when a user gets 80% or more in a
+  quiz

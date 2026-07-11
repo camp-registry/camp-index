@@ -1,0 +1,9 @@
+component: local_ltsauthplugin
+source: https://github.com/marinaglancy/moodle-local_ltsauthplugin
+maintainers:
+- github: marinaglancy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

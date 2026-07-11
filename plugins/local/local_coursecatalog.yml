@@ -1,0 +1,13 @@
+component: local_coursecatalog
+source: https://github.com/AGILEDROP/moodle-local_coursecatalog
+maintainers:
+- github: AGILEDROP
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local Course Catalog is a Moodle local plugin for creating category-based
+  catalog landing pages with a clean, manageable admin workflow. It lets administrators
+  define custom catalog pages, control visibility, and optionally expose selected
+  pages in the primary navigation.

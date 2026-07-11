@@ -1,0 +1,11 @@
+component: local_good_habits
+source: https://github.com/mihuasi/moodle-local_good_habits
+maintainers:
+- github: mihuasi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Help track habits over time in Moodle. A quick guide is available here:
+  https://www.youtube.com/watch?v=t5myhN3wvAc'

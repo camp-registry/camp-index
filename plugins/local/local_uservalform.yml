@@ -1,0 +1,9 @@
+component: local_uservalform
+source: https://github.com/soportecreamostic/moodle-local_uservalform
+maintainers:
+- github: soportecreamostic
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: local_news_forum
+source: https://github.com/LafColITS/moodle-local_news_forum
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local Moodle plugin which creates the news forum on course creation

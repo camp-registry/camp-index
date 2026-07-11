@@ -1,0 +1,11 @@
+component: local_abtesting
+source: https://github.com/saylordotorg/moodle-local_abtesting
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that gives users a randomized A/B testing group in their
+  profile. Use this to restrict activities to random groups of students.

@@ -1,0 +1,9 @@
+component: local_extendapi
+source: https://github.com/BLC-FHGR/moodle-local_extendapi
+maintainers:
+- github: BLC-FHGR
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

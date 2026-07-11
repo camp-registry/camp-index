@@ -1,0 +1,11 @@
+component: local_contactme
+source: https://github.com/RussellEngland/moodle-local_contactme
+maintainers:
+- github: RussellEngland
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple contact me form with notifications sent to admins and/or users assigned
+  a capability

@@ -1,0 +1,10 @@
+component: local_vivo_get
+source: https://github.com/cjpm1983/moodle_local_vivo_get
+maintainers:
+- github: cjpm1983
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Retrieve metadata from VIVO to Moodle platform by using sparql queries.

@@ -1,0 +1,11 @@
+component: local_soccerteam
+source: https://github.com/khairu-aqsara/moodle-local_soccerteam
+maintainers:
+- github: khairu-aqsara
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The "Moodle Soccer Team Plugin Challenge" aims to assess the developer's
+  proficiency in developing Moodle plugins.

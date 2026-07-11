@@ -1,0 +1,10 @@
+component: local_mmrdebugger
+source: https://github.com/cvaconsulting/moodle-local_mmrdebugger
+maintainers:
+- github: cvaconsulting
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Remote debugging tool for MoodleMobile app

@@ -1,0 +1,10 @@
+component: local_courseflowtool
+source: https://github.com/JChoquette/moodle-local_courseflowtool
+maintainers:
+- github: JChoquette
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin for importing from CourseFlow.

@@ -1,0 +1,11 @@
+component: local_course_overrides
+source: https://github.com/wilenius/moodle-local_course_overrides
+maintainers:
+- github: wilenius
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local Moodle plugin to add Quiz overrides for all the Quiz activities on
+  a course area

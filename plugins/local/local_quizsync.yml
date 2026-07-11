@@ -1,0 +1,11 @@
+component: local_quizsync
+source: https://github.com/bumoodle/moodle-local_quizsync
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local plugin designed to allow the copying of quiz attempts between group
+  members, and the "synchronization" between paper and quiz assignments.

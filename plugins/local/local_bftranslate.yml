@@ -1,0 +1,11 @@
+component: local_bftranslate
+source: https://github.com/brickfield/moodle-local_bftranslate
+maintainers:
+- github: brickfield
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin Translator by Brickfield allows you to harness AI for plugin translation,
+  for Moodle plugins and Moodle Core!

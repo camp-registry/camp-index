@@ -1,0 +1,9 @@
+component: local_dttx_api
+source: https://github.com/kien-pt/moodle-local_dttx_api
+maintainers:
+- github: kien-pt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

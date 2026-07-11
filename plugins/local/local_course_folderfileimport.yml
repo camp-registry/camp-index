@@ -1,0 +1,10 @@
+component: local_course_folderfileimport
+source: https://github.com/liaohanzhen/moodle-local_course_folderfileimport
+maintainers:
+- github: liaohanzhen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle 课程中，根据选择的excel数据导入自动建立文件夹并添加引用AliyunOSS文件，以及文件夹添加文件后上传到AliyunOSS

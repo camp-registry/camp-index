@@ -1,0 +1,10 @@
+component: local_courseactivities
+source: https://github.com/olivier-alfieri/moodle-local_courseactivities
+maintainers:
+- github: olivier-alfieri
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin — Course activity cards page for teachers

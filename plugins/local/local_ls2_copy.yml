@@ -1,0 +1,10 @@
+component: local_ls2_copy
+source: https://github.com/LS2-CA/moodle-local_ls2_copy
+maintainers:
+- github: LS2-CA
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: Teameo & Classeo Moodle Advanced Copy Plugin

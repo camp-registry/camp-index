@@ -1,0 +1,10 @@
+component: local_coursetablecreation
+source: https://github.com/roglos/moodle-local_coursetablecreation
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: OLD:local scheduled task script to create managed courses - UoG specific

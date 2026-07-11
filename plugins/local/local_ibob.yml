@@ -1,0 +1,10 @@
+component: local_ibob
+source: https://github.com/AgrosupDijon-DSI/moodle-local_ibob
+maintainers:
+- github: AgrosupDijon-DSI
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Cnerta-Web Plugin iBob pour Moodle

@@ -1,0 +1,10 @@
+component: local_dataseteditor
+source: https://github.com/seemuth/moodle-local_dataseteditor
+maintainers:
+- github: seemuth
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for editing question category datasets

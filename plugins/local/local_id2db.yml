@@ -1,0 +1,10 @@
+component: local_id2db
+source: https://github.com/PatLemaire/moodle-local_id2db
+maintainers:
+- github: PatLemaire
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for enrollment in cohorts based on external database

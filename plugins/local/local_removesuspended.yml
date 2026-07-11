@@ -1,0 +1,13 @@
+component: local_removesuspended
+source: https://github.com/bel-wallis/moodle-local_removesuspended
+maintainers:
+- github: bel-wallis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Remove suspended users from groups. This creates a scheduled task to check
+  the log table for recent user enrollment updates (ie a user being suspended from
+  a course), removes suspended users from groups within that course and emails instructors
+  with the details.

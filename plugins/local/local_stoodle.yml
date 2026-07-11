@@ -1,0 +1,9 @@
+component: local_stoodle
+source: https://github.com/JhonDean/moodle-local_stoodle
+maintainers:
+- github: JhonDean
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

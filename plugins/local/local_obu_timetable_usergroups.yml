@@ -1,0 +1,9 @@
+component: local_obu_timetable_usergroups
+source: https://github.com/OBU-ITS/moodle-local_obu_timetable_usergroups
+maintainers:
+- github: OBU-ITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

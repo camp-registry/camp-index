@@ -1,0 +1,10 @@
+component: local_video_directory
+source: https://github.com/martinvivek/moodle-local_video_directory
+maintainers:
+- github: martinvivek
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Local Video Directory Plugin

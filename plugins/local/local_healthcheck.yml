@@ -1,0 +1,10 @@
+component: local_healthcheck
+source: https://github.com/HCPSS/moodle-local_healthcheck
+maintainers:
+- github: HCPSS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Check the health of the moodle installation.

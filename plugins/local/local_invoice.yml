@@ -1,0 +1,10 @@
+component: local_invoice
+source: https://github.com/lerouxh/moodle-local_invoice
+maintainers:
+- github: lerouxh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PDF Invoice Generator for PayPal and Payfast Enrolments in Moodle

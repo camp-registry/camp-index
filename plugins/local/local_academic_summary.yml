@@ -1,0 +1,9 @@
+component: local_academic_summary
+source: https://github.com/RenzoMedina/moodle-local_academic_summary
+maintainers:
+- github: RenzoMedina
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

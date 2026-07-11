@@ -1,0 +1,11 @@
+component: local_behavioranalytics
+source: https://github.com/learningsecured/moodle-local_behavioranalytics
+maintainers:
+- github: learningsecured
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Behaviour Analytics for Moodle – detect suspicious logins, failed attempts,
+  and abnormal activity; compute user risk scores and trigger automatic mitigation.

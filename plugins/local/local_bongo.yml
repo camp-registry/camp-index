@@ -1,0 +1,9 @@
+component: local_bongo
+source: https://github.com/YouSeeU/moodle-local_bongo
+maintainers:
+- github: YouSeeU
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: local_assessmentsettings
+source: https://github.com/roglos/moodle-local_assessmentsettings
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: local plugin to set standard settings, migrate dates and extensions between
+  moodle and ext Db

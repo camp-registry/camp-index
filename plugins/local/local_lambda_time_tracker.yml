@@ -1,0 +1,9 @@
+component: local_lambda_time_tracker
+source: https://github.com/saylordotorg/moodle-local_lambda_time_tracker
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

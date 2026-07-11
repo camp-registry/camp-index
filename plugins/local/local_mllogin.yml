@@ -1,0 +1,10 @@
+component: local_mllogin
+source: https://github.com/bytesparrow/moodle-local_mllogin
+maintainers:
+- github: bytesparrow
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Custom login for MedienLabor+

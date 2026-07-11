@@ -1,0 +1,10 @@
+component: local_iconchange
+source: https://github.com/xyulex/moodle-local_iconchange
+maintainers:
+- github: xyulex
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Change your Moodle activity icons easily

@@ -1,0 +1,9 @@
+component: local_custombehattests
+source: https://github.com/Diana0604/moodle-local-custombehattests
+maintainers:
+- github: Diana0604
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

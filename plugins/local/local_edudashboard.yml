@@ -1,0 +1,10 @@
+component: local_edudashboard
+source: https://github.com/edudigital/moodle-local_edudashboard
+maintainers:
+- github: edudigital
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin for Moodle that adds a statistics panel

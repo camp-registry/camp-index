@@ -1,0 +1,11 @@
+component: local_coursefiles
+source: https://github.com/k-rokicki/moodle-local_coursefiles
+maintainers:
+- github: k-rokicki
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple Moodle local plugin that allows students and other course participants
+  to view, filter and download the course files that are available to them.

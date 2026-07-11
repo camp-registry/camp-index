@@ -1,0 +1,13 @@
+component: local_ltiusage
+source: https://github.com/mdclark92/moodle-local_ltiusage
+maintainers:
+- github: mdclark92
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The LTI Usage plugin is a Moodle local plugin that provides administrators
+  and managers with a comprehensive report on Learning Tools Interoperability (LTI)
+  activities across the entire site. This plugin helps institutions track and manage
+  their LTI tool usage effectively.

@@ -1,0 +1,11 @@
+component: local_badgelevel
+source: https://github.com/Canx/moodle-local_badgelevel
+maintainers:
+- github: Canx
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that awards badges when user levels up in "block_xp" and "block_showgrade"
+  plugins.

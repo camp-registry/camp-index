@@ -1,0 +1,10 @@
+component: local_modcontentservice
+source: https://github.com/TGM-HIT/moodle-local_modcontentservice
+maintainers:
+- github: TGM-HIT
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that adds an External Service for updating module contents

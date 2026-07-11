@@ -1,0 +1,10 @@
+component: local_event2sns
+source: https://github.com/unicaf/moodle-local_event2sns
+maintainers:
+- github: unicaf
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin which can publish SNS messages on a particular events

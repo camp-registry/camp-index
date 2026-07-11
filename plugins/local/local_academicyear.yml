@@ -1,0 +1,10 @@
+component: local_academicyear
+source: https://github.com/wit-ctel/Moodle-local_academic-year
+maintainers:
+- github: wit-ctel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle-local_academic-year

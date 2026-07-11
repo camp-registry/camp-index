@@ -1,0 +1,9 @@
+component: local_wswizard
+source: https://github.com/markanyx/moodle-local_wswizard
+maintainers:
+- github: markanyx
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

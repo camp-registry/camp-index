@@ -1,0 +1,11 @@
+component: local_vatsim
+source: https://github.com/vatsimnetwork/moodle-local_vatsim
+maintainers:
+- github: vatsimnetwork
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: This Plugin for Moodle is designed to assist in the upgrade of members to
+  P0

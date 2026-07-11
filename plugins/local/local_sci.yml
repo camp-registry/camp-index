@@ -1,0 +1,11 @@
+component: local_sci
+source: https://github.com/davidpesce/moodle-local_sci
+maintainers:
+- github: davidpesce
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local plugin that SCI can utilize across clients an integrations to allow
+  vendors to easily access Moodle data.

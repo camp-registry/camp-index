@@ -1,0 +1,12 @@
+component: local_lockgrades
+source: https://github.com/migueldhyne/moodle-local_lockgrades
+maintainers:
+- github: migueldhyne
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that allows administrators to recursively lock or unlock a
+  grade category and all its subcategories and grade items, using an idnumber field
+  as the identifier

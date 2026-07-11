@@ -1,0 +1,10 @@
+component: local_ws_logdata
+source: https://github.com/noisyjerm/moodle-local_ws_logdata
+maintainers:
+- github: noisyjerm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Webservices to retrieve data from log store

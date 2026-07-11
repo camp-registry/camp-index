@@ -1,0 +1,10 @@
+component: local_selfservehd
+source: https://github.com/patrickthibaudeau/moodle-local_selfservehd
+maintainers:
+- github: patrickthibaudeau
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: DO NOT USE. I HAVE CREATED A NEW REPOSITORY CALLED moodle-local_roomsupport

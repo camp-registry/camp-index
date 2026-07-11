@@ -1,0 +1,10 @@
+component: local_connect
+source: https://github.com/unikent/moodle-local_connect
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Connect Plugin

@@ -1,0 +1,10 @@
+component: local_bookingapi
+source: https://github.com/atlet/moodle-local_bookingapi
+maintainers:
+- github: atlet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: API for moodle-mod_booking

@@ -1,0 +1,11 @@
+component: local_nudge
+source: https://github.com/sproutlabs/moodle-local_nudge
+maintainers:
+- github: sproutlabs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Nudge plugin for MOODLE and Totara aims to provide a simple way to notify/remind
+  users to revisit their course prior to course completion.

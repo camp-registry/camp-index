@@ -1,0 +1,10 @@
+component: local_shop
+source: https://github.com/Abuarif/moodle-local_shop
+maintainers:
+- github: Abuarif
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: core plugin for a moodle integrated shop system. this is the community version

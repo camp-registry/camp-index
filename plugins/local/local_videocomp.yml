@@ -1,0 +1,9 @@
+component: local_videocomp
+source: https://github.com/takayuki-fuwa/moodle-local_videocomp
+maintainers:
+- github: takayuki-fuwa
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

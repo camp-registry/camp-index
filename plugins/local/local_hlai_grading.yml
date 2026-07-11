@@ -1,0 +1,12 @@
+component: local_hlai_grading
+source: https://github.com/Human-Logic-Software-LLC/moodle-local_hlai_grading
+maintainers:
+- github: Human-Logic-Software-LLC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Human Logic AI Grading automates the grading of text-based submissions using
+  AI. Teachers can review AI-generated grades and feedback before releasing them to
+  students, ensuring quality while reducing grading workload.

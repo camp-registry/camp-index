@@ -1,0 +1,9 @@
+component: local_automatic_badges
+source: https://github.com/Unidad-de-Educacion-Virtual/moodle-local_automatic_badges
+maintainers:
+- github: Unidad-de-Educacion-Virtual
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,12 @@
+component: local_choicesexport
+source: https://github.com/k-rokicki/moodle-local_choicesexport
+maintainers:
+- github: k-rokicki
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple Moodle local plugin that allows teachers to overview all Choice
+  activities in a course, check the response rate and export all Choices along with
+  their students' answers to a text file.

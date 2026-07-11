@@ -1,0 +1,12 @@
+component: local_mathsfirst
+source: https://github.com/andrewrowatt-masseyuni/moodle-local_mathsfirst
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enable to limited public access to a restricted number of short Moodle Quiz
+  activities to assess their readiness for selected courses. Intended for prospective
+  Massey students.

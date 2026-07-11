@@ -1,0 +1,9 @@
+component: local_celeneaccessibility
+source: https://github.com/vaggarath/moodle-local_celeneaccessibility
+maintainers:
+- github: vaggarath
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

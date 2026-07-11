@@ -1,0 +1,10 @@
+component: local_intercom
+source: https://github.com/jlohr-wiu7/moodle-local_intercom
+maintainers:
+- github: jlohr-wiu7
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Intercom integration for Moodle

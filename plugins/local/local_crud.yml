@@ -1,0 +1,9 @@
+component: local_crud
+source: https://github.com/BonusreeDatta/moodle_local-Crud
+maintainers:
+- github: BonusreeDatta
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: local_credit_xp
+source: https://github.com/bdecentgmbh/moodle-local_credit_xp
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle Premium Plugin: XP Enrolment Add On'

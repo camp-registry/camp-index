@@ -1,0 +1,10 @@
+component: local_usersynccsv
+source: https://github.com/tunele/moodle-local_usersynccsv
+maintainers:
+- github: tunele
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin User Sync Csv repository

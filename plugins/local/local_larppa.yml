@@ -1,0 +1,10 @@
+component: local_larppa
+source: https://github.com/FinThunderstorm/moodle-local_larppa
+maintainers:
+- github: FinThunderstorm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Lärppä is Moodle local plugin used with learning analytics

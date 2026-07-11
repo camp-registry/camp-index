@@ -1,0 +1,11 @@
+component: local_softsysvideo
+source: https://github.com/softsyssolutions/moodle-local_softsysvideo
+maintainers:
+- github: softsyssolutions
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: SoftSys Video companion plugin for Moodle — extends mod_bigbluebutton with
+  credits, analytics, AI summary, chat export and support
