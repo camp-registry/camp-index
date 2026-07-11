@@ -72,6 +72,15 @@ jobs:
       - name: Verify releases against source
         run: camp verify "${{ matrix.entry }}"
 
+      - name: Install ClamAV
+        run: |
+          sudo apt-get install -y --no-install-recommends clamav
+          sudo systemctl stop clamav-freshclam || true
+          sudo freshclam || true
+
+      - name: Malware scan (RFC §4.2 step 5 — hard failure on detection)
+        run: camp scan-malware --entry "${{ matrix.entry }}" --require-engine
+
   plugin-checks:
     name: moodle-plugin-ci
     needs: [changed, registry]
