@@ -1,0 +1,10 @@
+component: local_notifications
+source: https://github.com/getsmarter/moodle-local_notifications
+maintainers:
+- github: getsmarter
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Custom Notifications Plugin.

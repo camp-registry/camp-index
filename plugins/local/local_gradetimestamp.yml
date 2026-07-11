@@ -1,0 +1,10 @@
+component: local_gradetimestamp
+source: https://github.com/rodanmuro/moodle-local-gradetimestamp
+maintainers:
+- github: rodanmuro
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: Copy Date & Time button for assignment grader'

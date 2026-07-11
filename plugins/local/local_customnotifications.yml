@@ -1,0 +1,9 @@
+component: local_customnotifications
+source: https://github.com/lukascelinak/moodle-local_customnotifications
+maintainers:
+- github: lukascelinak
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

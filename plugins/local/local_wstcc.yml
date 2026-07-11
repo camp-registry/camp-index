@@ -1,0 +1,10 @@
+component: local_wstcc
+source: https://github.com/UFSC/moodle-local-wstcc
+maintainers:
+- github: UFSC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Webservices para o sistema de TCC

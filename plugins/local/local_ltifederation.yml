@@ -1,0 +1,11 @@
+component: local_ltifederation
+source: https://github.com/dvdcastro/moodle-local_ltifederation
+maintainers:
+- github: dvdcastro
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for automatic LTI tool discovery and bulk registration between
+  Moodle sites (LTI 1.3 Advantage)

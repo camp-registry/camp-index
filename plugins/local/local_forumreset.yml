@@ -1,0 +1,9 @@
+component: local_forumreset
+source: https://github.com/Dmfama20/moodle-local_forumreset
+maintainers:
+- github: Dmfama20
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

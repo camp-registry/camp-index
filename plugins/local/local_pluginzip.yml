@@ -1,0 +1,13 @@
+component: local_pluginzip
+source: https://github.com/melvyng/moodle-local_pluginzip
+maintainers:
+- github: melvyng
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin ZIP Exporter allows administrators to download installed Moodle plugins
+  as ZIP files directly from the Moodle interface.  The plugin provides a simple interface
+  to select a plugin type (mod, etc), choose an installed plugin, and export its source
+  code as a ZIP archive. This is useful for back

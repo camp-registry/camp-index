@@ -1,0 +1,10 @@
+component: local_self_cert_mgr
+source: https://github.com/ULCC/moodle-local_self_cert_mgr
+maintainers:
+- github: ULCC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to allow users to manage self cert extensions

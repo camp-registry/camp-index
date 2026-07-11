@@ -1,0 +1,10 @@
+component: local_nopenaltycalc
+source: https://github.com/tsmilan/moodle-local_nopenaltycalc
+maintainers:
+- github: tsmilan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Dummy plugin for testing MDL-86394

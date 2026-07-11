@@ -1,0 +1,10 @@
+component: local_oulearn
+source: https://github.com/hinkelmann/moodle-local_oulearn
+maintainers:
+- github: hinkelmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: oulearn  webservices for moodle

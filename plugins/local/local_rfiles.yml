@@ -1,0 +1,10 @@
+component: local_rfiles
+source: https://github.com/PukunuiAustralia/moodle-local_rfiles
+maintainers:
+- github: PukunuiAustralia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Manage remote file transfers via moodle

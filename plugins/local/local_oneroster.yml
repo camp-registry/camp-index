@@ -1,0 +1,10 @@
+component: local_oneroster
+source: https://github.com/justinhunt/moodle-local_oneroster
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle-local_oneroster

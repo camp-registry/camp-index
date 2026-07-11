@@ -1,0 +1,10 @@
+component: local_contentbuilder
+source: https://github.com/ericdavies908/moodle-local_contentbuilder
+maintainers:
+- github: ericdavies908
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block-based content builder for Moodle

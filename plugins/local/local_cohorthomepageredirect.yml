@@ -1,0 +1,9 @@
+component: local_cohorthomepageredirect
+source: https://github.com/andrewhancox/moodle-local_cohorthomepageredirect
+maintainers:
+- github: andrewhancox
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

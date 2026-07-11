@@ -1,0 +1,10 @@
+component: local_ai_forum_assistant
+source: https://github.com/orich19/moodle-local_ai_forum_assistant
+maintainers:
+- github: orich19
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle plugin that integrates OpenAI-based AI assistant for forum discussions.

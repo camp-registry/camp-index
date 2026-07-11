@@ -1,0 +1,10 @@
+component: local_marksheet
+source: https://github.com/Prosanto7/moodle-local_marksheet
+maintainers:
+- github: Prosanto7
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin, a simple implementation of CRUD operation.

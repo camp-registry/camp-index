@@ -1,0 +1,12 @@
+component: local_tagmanager
+source: https://github.com/cmu-sei/moodle-local_tagmanager
+maintainers:
+- github: cmu-sei
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A lightweight Moodle admin plugin for managing tags in bulk. Supports uploading
+  tags with descriptions, exporting existing tags, and listing tag metadata in a clean,
+  Bootstrap-styled interface.

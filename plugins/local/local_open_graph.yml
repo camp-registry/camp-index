@@ -1,0 +1,12 @@
+component: local_open_graph
+source: https://github.com/saaduddin/moodle-local_open_graph
+maintainers:
+- github: saaduddin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enhance your Moodle site with dynamic Open Graph metadata. Automatically
+  generate and customize Open Graph tags for courses, pages, and other content to
+  improve social media sharing and search engine visibility.

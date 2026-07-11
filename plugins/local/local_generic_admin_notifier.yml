@@ -1,0 +1,10 @@
+component: local_generic_admin_notifier
+source: https://github.com/cperves/moodle-local_generic_admin_notifier
+maintainers:
+- github: cperves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: a generic admin notifier library for moodle plugins

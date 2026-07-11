@@ -1,0 +1,10 @@
+component: local_forceindividualemail
+source: https://github.com/HCPSS/moodle-local_forceindividualemail
+maintainers:
+- github: HCPSS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: A moodle plugin to force individual email subscription on selected forums.

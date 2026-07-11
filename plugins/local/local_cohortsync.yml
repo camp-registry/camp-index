@@ -1,0 +1,11 @@
+component: local_cohortsync
+source: https://github.com/bernardoneto-unifor/moodle-local_cohortsync
+maintainers:
+- github: bernardoneto-unifor
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This local plugin automatically synchronizes cohorts based on predefined
+  rules or external data sources, ensuring users are enrolled and managed consistently.

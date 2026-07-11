@@ -1,0 +1,9 @@
+component: local_createreassessmentgrouptables
+source: https://github.com/roelmann/glos-moodle-local_createreassessmentgrouptables
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: local_saml_siteenrol
+source: https://github.com/atlet/moodle-local_saml_siteenrol
+maintainers:
+- github: atlet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0

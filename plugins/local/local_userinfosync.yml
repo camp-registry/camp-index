@@ -1,0 +1,11 @@
+component: local_userinfosync
+source: https://github.com/isakic/moodle-local_userinfosync
+maintainers:
+- github: isakic
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local Moodle plugin for synchronizing custom user info fields between Moodle
+  instances in a MNet network

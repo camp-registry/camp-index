@@ -1,0 +1,11 @@
+component: local_concorsi
+source: https://github.com/unipiemonteorientale/moodle-local_concorsi
+maintainers:
+- github: unipiemonteorientale
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enable Moodle managers to create random credential for user and enrol them
+  in current course. This plugin is useful to manage public exams

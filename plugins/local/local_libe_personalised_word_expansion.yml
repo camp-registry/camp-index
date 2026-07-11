@@ -1,0 +1,9 @@
+component: local_libe_personalised_word_expansion
+source: https://github.com/LIBE-VLE/moodle-local_libe-personalised-word-expansion
+maintainers:
+- github: LIBE-VLE
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: LGPL-3.0

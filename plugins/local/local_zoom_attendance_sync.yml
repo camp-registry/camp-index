@@ -1,0 +1,10 @@
+component: local_zoom_attendance_sync
+source: https://github.com/eMentorAdm/moodle-local_zoom_attendance_sync
+maintainers:
+- github: eMentorAdm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Zoom Attendance Sync

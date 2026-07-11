@@ -1,0 +1,9 @@
+component: local_ual_event
+source: https://github.com/bashet/moodle_local_ual_event
+maintainers:
+- github: bashet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

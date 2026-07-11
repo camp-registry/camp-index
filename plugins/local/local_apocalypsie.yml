@@ -1,0 +1,10 @@
+component: local_apocalypsie
+source: https://github.com/danmarsden/moodle-local_apocalypsie
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: It's the IE Apocalypse.

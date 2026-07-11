@@ -1,0 +1,11 @@
+component: local_edaktik_condrole
+source: https://github.com/edaktik/moodle-local_edaktik_condrole
+maintainers:
+- github: edaktik
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin enables Moodle roles to be automatically assigned to users in
+  defined contexts.

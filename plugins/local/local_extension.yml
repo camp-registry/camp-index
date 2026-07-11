@@ -1,0 +1,9 @@
+component: local_extension
+source: https://github.com/central-queensland-uni/moodle-local_extension
+maintainers:
+- github: central-queensland-uni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

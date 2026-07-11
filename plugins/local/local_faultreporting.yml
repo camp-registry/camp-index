@@ -1,0 +1,10 @@
+component: local_faultreporting
+source: https://github.com/andrewrowatt-masseyuni/moodle-local_faultreporting
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple Moodle fault reporting tool that integrates with Assyst

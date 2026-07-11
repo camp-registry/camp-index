@@ -1,0 +1,9 @@
+component: local_teflacademyreceivecrmcodes
+source: https://github.com/edwinphillips/moodle-local_teflacademyreceivecrmcodes
+maintainers:
+- github: edwinphillips
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

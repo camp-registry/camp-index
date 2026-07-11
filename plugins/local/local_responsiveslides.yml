@@ -1,0 +1,10 @@
+component: local_responsiveslides
+source: https://github.com/jrevillaa/moodle-local_responsiveslides
+maintainers:
+- github: jrevillaa
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle 4.4

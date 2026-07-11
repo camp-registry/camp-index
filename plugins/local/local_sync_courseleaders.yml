@@ -1,0 +1,9 @@
+component: local_sync_courseleaders
+source: https://github.com/ltu-solent/moodle-local_sync_courseleaders
+maintainers:
+- github: ltu-solent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

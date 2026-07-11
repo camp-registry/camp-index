@@ -1,0 +1,10 @@
+component: local_saml_site
+source: https://github.com/atlet/moodle-local_saml_site
+maintainers:
+- github: atlet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Moodle SAML Site

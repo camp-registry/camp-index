@@ -1,0 +1,10 @@
+component: local_uca_create_courses
+source: https://github.com/andurif/moodle-local_uca_create_courses
+maintainers:
+- github: andurif
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle local plugin made to simply create a course without all possible options.

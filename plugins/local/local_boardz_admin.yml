@@ -1,0 +1,10 @@
+component: local_boardz_admin
+source: https://github.com/vfremaux/moodle-local_boardz_admin
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Administration plugin for remote Boardz Stzatistics Server

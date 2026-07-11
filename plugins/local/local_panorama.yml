@@ -1,0 +1,9 @@
+component: local_panorama
+source: https://github.com/yujacorp/moodle-local_panorama
+maintainers:
+- github: yujacorp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

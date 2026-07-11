@@ -1,0 +1,11 @@
+component: local_emailmanager
+source: https://github.com/paulnatemv/moodle-local_emailmanager
+maintainers:
+- github: paulnatemv
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: uTurn Email Suite - Email template management and marketing automation for
+  Moodle 4.4+

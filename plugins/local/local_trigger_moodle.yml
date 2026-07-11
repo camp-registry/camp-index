@@ -1,0 +1,9 @@
+component: local_trigger_moodle
+source: https://github.com/zalviandyr/local_trigger_moodle
+maintainers:
+- github: zalviandyr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

@@ -1,0 +1,10 @@
+component: local_filedemo
+source: https://github.com/marcusgreen/moodle-local_filedemo
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Demonstrating the Moodle File API

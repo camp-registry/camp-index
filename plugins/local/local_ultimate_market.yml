@@ -1,0 +1,9 @@
+component: local_ultimate_market
+source: https://github.com/willianmano/moodle-local_ultimate_market
+maintainers:
+- github: willianmano
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

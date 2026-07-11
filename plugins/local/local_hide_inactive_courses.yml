@@ -1,0 +1,11 @@
+component: local_hide_inactive_courses
+source: https://github.com/LafColITS/moodle-local_hide_inactive_courses
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: '[RETIRED] Moodle plugin which automatically hides courses which have not
+  been accessed for a long time.'

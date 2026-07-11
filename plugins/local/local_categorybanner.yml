@@ -1,0 +1,9 @@
+component: local_categorybanner
+source: https://github.com/Fanny1203/moodle-local_categorybanner
+maintainers:
+- github: Fanny1203
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

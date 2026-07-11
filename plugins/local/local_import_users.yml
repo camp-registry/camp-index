@@ -1,0 +1,10 @@
+component: local_import_users
+source: https://github.com/andurif/moodle-local_import_users
+maintainers:
+- github: andurif
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin to import users in a course or in a group

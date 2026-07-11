@@ -1,0 +1,10 @@
+component: local_advancedform
+source: https://github.com/kgolewski/moodle_local_advancedform
+maintainers:
+- github: kgolewski
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple Moodle local plugin with advanced js custom logic

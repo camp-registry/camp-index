@@ -1,0 +1,10 @@
+component: local_file_info
+source: https://github.com/antriver/moodle-local_file_info
+maintainers:
+- github: antriver
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Shows information about the largest files in Moodle.

@@ -1,0 +1,10 @@
+component: local_support
+source: https://github.com/NicholasLambell/moodle-local_support
+maintainers:
+- github: NicholasLambell
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to allow logging of support time allocations

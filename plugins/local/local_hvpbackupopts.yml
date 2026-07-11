@@ -1,0 +1,9 @@
+component: local_hvpbackupopts
+source: https://github.com/liip-elearning/moodle-local_hvpbackupopts
+maintainers:
+- github: liip-elearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

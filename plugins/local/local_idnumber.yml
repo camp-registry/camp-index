@@ -1,0 +1,10 @@
+component: local_idnumber
+source: https://github.com/mcroitor/moodle-local-idnumber
+maintainers:
+- github: mcroitor
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moolde local plugin, generates idnumbers for different usages

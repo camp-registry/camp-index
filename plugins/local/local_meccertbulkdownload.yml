@@ -1,0 +1,12 @@
+component: local_meccertbulkdownload
+source: https://github.com/MoodEasy/moodle-local_meccertbulkdownload
+maintainers:
+- github: MoodEasy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The ME CustomCert Bulk Download enables administrators to download as a ZIP
+  archive site wide certificates issued by Custom certificate plugin according to
+  a configurable naming scheme as a ZIP archive.

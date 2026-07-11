@@ -1,0 +1,13 @@
+component: local_pluginreplace
+source: https://github.com/melvyng/moodle-local_pluginreplace
+maintainers:
+- github: melvyng
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Plugin Replacer allows administrators to upload a Moodle plugin ZIP file
+  and either:  - Install it (if not currently installed), or   - Replace the existing
+  installed version.  This plugin works in specific scenarios where you don''t have
+  enough control to keep updating or installing plugins.'

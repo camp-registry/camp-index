@@ -1,0 +1,10 @@
+component: widgettype_qmulmessaging
+source: https://github.com/ULCC-QMUL/moodle-local_widgets_qmul_messaging
+maintainers:
+- github: ULCC-QMUL
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A submodule of the widgets that interfaces with the qmul_messaging plugin.

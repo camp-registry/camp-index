@@ -1,0 +1,10 @@
+component: local_activitycompletiongrade
+source: https://github.com/geichelberger/moodle-local_activitycompletiongrade
+maintainers:
+- github: geichelberger
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PoC

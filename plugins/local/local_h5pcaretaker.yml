@@ -1,0 +1,10 @@
+component: local_h5pcaretaker
+source: https://github.com/NDLANO/moodle-local_h5pcaretaker
+maintainers:
+- github: NDLANO
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle plugin to give an H5P Caretaker a home

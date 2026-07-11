@@ -1,0 +1,11 @@
+component: local_course_overview_ext
+source: https://github.com/eberhardt/moodle-local_course_overview_ext
+maintainers:
+- github: eberhardt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Extends block course_overview in that way, that it shows recent changes in
+  subscribed courses.

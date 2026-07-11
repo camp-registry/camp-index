@@ -1,0 +1,10 @@
+component: local_coursegradeslink
+source: https://github.com/UFSC/moodle_local_coursegradeslink
+maintainers:
+- github: UFSC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: LGPL-3.0
+summary: This plugin restores the course administration -> grades link to the navigation

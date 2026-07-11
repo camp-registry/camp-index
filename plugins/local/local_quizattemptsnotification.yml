@@ -1,0 +1,11 @@
+component: local_quizattemptsnotification
+source: https://github.com/kencpukunui/onfit-moodle-local_quizattemptsnotification
+maintainers:
+- github: kencpukunui
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: onfit education send user's records of failed quiz attempts for last 24 hours(executed
+  by system each 1 hour V3)

@@ -1,0 +1,9 @@
+component: local_completionoverride
+source: https://github.com/yasada0819/moodle-local_completionoverride
+maintainers:
+- github: yasada0819
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

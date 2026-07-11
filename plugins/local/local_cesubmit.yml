@@ -1,0 +1,9 @@
+component: local_cesubmit
+source: https://github.com/jport500/moodle-local_cesubmit
+maintainers:
+- github: jport500
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

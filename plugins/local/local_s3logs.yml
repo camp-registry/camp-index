@@ -1,0 +1,10 @@
+component: local_s3logs
+source: https://github.com/catalyst/moodle-local_s3logs
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to enable logs to be backed up to an AWS S3 bucket

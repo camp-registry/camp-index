@@ -1,0 +1,10 @@
+component: local_zoomadmin
+source: https://github.com/instituto-infnet/moodle-local_zoomadmin
+maintainers:
+- github: instituto-infnet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin do Moodle que permite realizar operações com a ferramenta Zoom

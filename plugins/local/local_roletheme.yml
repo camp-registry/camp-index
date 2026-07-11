@@ -1,0 +1,10 @@
+component: local_roletheme
+source: https://github.com/pedrolois/moodle-local_roletheme
+maintainers:
+- github: pedrolois
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin local_roletheme

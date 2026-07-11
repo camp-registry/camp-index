@@ -1,0 +1,11 @@
+component: local_barebones
+source: https://github.com/pbeare70/moodle-local-barebones
+maintainers:
+- github: pbeare70
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A barebones local Moodle plug-in to be used as a template for more functional
+  plug-ins

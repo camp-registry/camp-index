@@ -1,0 +1,11 @@
+component: local_modulecreate
+source: https://github.com/roglos/moodle-local_modulecreate
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Scheduled task to create a table that Mdl Externall Database Enrolment will
+  use to create module/course sites

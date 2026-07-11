@@ -1,0 +1,9 @@
+component: local_tpc
+source: https://github.com/the-pilot-club/moodle-tpc-local
+maintainers:
+- github: the-pilot-club
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0

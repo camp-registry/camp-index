@@ -1,0 +1,9 @@
+component: local_activityintro
+source: https://github.com/Fragonite/moodle-local_activityintro
+maintainers:
+- github: Fragonite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

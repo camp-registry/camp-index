@@ -1,0 +1,12 @@
+component: local_df_hub
+source: https://github.com/cwarwicker/moodle-local_df_hub
+maintainers:
+- github: cwarwicker
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The df_hub plugin provides some functionality which is shared between other
+  plugins, to savfe code duplication. In the future it will also allow for the registration
+  of plugins for support, and to send usage statistics through.

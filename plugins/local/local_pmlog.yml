@@ -1,0 +1,10 @@
+component: local_pmlog
+source: https://github.com/rafaxluz/moodle-local_pmlog
+maintainers:
+- github: rafaxluz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Process Mining Log Builder for Moodle

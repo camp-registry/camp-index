@@ -1,0 +1,10 @@
+component: local_vflibs
+source: https://github.com/vfremaux/moodle-local_vflibs
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Complementary libraries for all VF serie plugins

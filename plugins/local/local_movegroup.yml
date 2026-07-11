@@ -1,0 +1,10 @@
+component: local_movegroup
+source: https://github.com/kencpukunui/performanceeducation-moodle-local_movegroup
+maintainers:
+- github: kencpukunui
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Customize Local Plugin Movegroup first copy

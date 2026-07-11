@@ -1,0 +1,9 @@
+component: local_ild_refugee
+source: https://github.com/oncampus/moodle_local_ild_refugee
+maintainers:
+- github: oncampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

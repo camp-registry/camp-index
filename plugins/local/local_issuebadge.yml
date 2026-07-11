@@ -1,0 +1,10 @@
+component: local_issuebadge
+source: https://github.com/issuebadge/moodle-local_issuebadge
+maintainers:
+- github: issuebadge
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: IssueBadge plugin for Moodle - Issue digital badges and certificates

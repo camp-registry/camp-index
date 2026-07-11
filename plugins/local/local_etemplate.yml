@@ -1,0 +1,10 @@
+component: local_etemplate
+source: https://github.com/YorkUITInnovation/moodle-local_etemplate
+maintainers:
+- github: YorkUITInnovation
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Email templating system for Moodle

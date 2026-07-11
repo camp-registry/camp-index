@@ -1,0 +1,11 @@
+component: local_moduleorganise
+source: https://github.com/roglos/moodle-local_moduleorganise
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Scheduled task to esnure module/course sites are consistent with central
+  records

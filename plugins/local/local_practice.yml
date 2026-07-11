@@ -1,0 +1,9 @@
+component: local_practice
+source: https://github.com/AndreasRestemis/moodle-local_practice
+maintainers:
+- github: AndreasRestemis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

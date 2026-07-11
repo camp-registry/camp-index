@@ -1,0 +1,9 @@
+component: local_part_term
+source: https://github.com/mackensen/moodle-local_part_term
+maintainers:
+- github: mackensen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

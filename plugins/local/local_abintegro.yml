@@ -1,0 +1,10 @@
+component: local_abintegro
+source: https://github.com/joshwillcock/moodle-local_abintegro
+maintainers:
+- github: joshwillcock
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Auth Token Authentication and SSO For Moodle Users Into Abintegro

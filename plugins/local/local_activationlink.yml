@@ -1,0 +1,11 @@
+component: local_activationlink
+source: https://github.com/alivetek/moodle-local_activationlink
+maintainers:
+- github: alivetek
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Send an activation link when creating a new user account instead of a clear
+  text password.

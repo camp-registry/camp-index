@@ -1,0 +1,11 @@
+component: local_vulndexbeacon
+source: https://github.com/vulndex/moodle-local_vulndexbeacon
+maintainers:
+- github: vulndex
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The VulnDex Beacon for Moodle automatically collects version and system information
+  and transmits it to the VulnDex platform.

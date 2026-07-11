@@ -1,0 +1,12 @@
+component: local_assignfilesrename
+source: https://github.com/vtos/moodle-local_assignfilesrename
+maintainers:
+- github: vtos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A plugin of the 'Local' type for Moodle LMS which basically is an event handler.
+  When enabled, it's listening to assign file uploads events and renames the uploaded
+  files according to specific rules.

@@ -1,0 +1,11 @@
+component: local_h5p_api
+source: https://github.com/dSchulenburg/moodle-local_h5p_api
+maintainers:
+- github: dSchulenburg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin providing REST API endpoints for H5P content management (upload,
+  list, embed)

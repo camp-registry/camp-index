@@ -1,0 +1,11 @@
+component: local_ldapcohort
+source: https://github.com/djmarcelomendes/moodle_local-ldapcohort
+maintainers:
+- github: djmarcelomendes
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin aims to identify which group the user belongs to in LDAP authentication
+  and apply to it the cohort defined in the plugin settings.

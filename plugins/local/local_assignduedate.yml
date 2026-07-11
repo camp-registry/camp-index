@@ -1,0 +1,10 @@
+component: local_assignduedate
+source: https://github.com/catalyst/moodle-local_assignduedate
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to allow assign duedate to show on course page - see MDL-37490

@@ -1,0 +1,12 @@
+component: local_forummoderation
+source: https://github.com/ULCC/moodle-local_forummoderation
+maintainers:
+- github: ULCC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A plugin to provide a "report to moderator" functionality within a Moodle
+  forum. This will give the user the ability to flag forum posts for review for numerous
+  reasons.

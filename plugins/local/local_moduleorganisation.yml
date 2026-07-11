@@ -1,0 +1,10 @@
+component: local_moduleorganisation
+source: https://github.com/roglos/moodle-local_moduleorganisation
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: OLD

@@ -1,0 +1,9 @@
+component: local_moodlefaker
+source: https://github.com/HuongNV13/local_moodlefaker
+maintainers:
+- github: HuongNV13
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

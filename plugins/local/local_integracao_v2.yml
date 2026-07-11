@@ -1,0 +1,9 @@
+component: local_integracao_v2
+source: https://github.com/uemanet/moodle-local_integracao_v2
+maintainers:
+- github: uemanet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

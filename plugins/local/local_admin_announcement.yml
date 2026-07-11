@@ -1,0 +1,10 @@
+component: local_admin_announcement
+source: https://github.com/3iPunt/moodle-local_admin_announcement
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin for adding announcements in your site

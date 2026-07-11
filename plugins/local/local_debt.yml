@@ -1,0 +1,10 @@
+component: local_debt
+source: https://github.com/imanirad73/moodle-local_debt
+maintainers:
+- github: imanirad73
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enables you to charge a user a amount for not accessing site content

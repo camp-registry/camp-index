@@ -1,0 +1,11 @@
+component: local_as_sync
+source: https://github.com/segove85/moodle-local_as_sync
+maintainers:
+- github: segove85
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local plugin for Moodle to allow synchronization from and to external academic
+  systems

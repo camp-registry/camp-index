@@ -1,0 +1,10 @@
+component: local_ws_evl
+source: https://github.com/interlegis/moodle-local_ws_evl
+maintainers:
+- github: interlegis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin que define web services para interface com EVL

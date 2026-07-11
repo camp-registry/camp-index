@@ -1,0 +1,10 @@
+component: local_workshopaddons
+source: https://github.com/cellule-tice/moodle-local_workshopaddons
+maintainers:
+- github: cellule-tice
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Add on for workshop tool

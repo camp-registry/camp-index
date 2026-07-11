@@ -1,0 +1,9 @@
+component: local_departaments
+source: https://github.com/lekha-its-me/moodle-local-departaments
+maintainers:
+- github: lekha-its-me
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

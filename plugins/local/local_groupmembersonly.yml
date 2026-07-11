@@ -1,0 +1,10 @@
+component: local_groupmembersonly
+source: https://github.com/SysBind/moodle-local_groupmembersonly
+maintainers:
+- github: SysBind
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Group Members Only emulation using permission overrides and local role assignments

@@ -1,0 +1,9 @@
+component: local_extendmanualenrol
+source: https://github.com/sandiprj/moodle-local_extendmanualenrol
+maintainers:
+- github: sandiprj
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

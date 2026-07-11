@@ -1,0 +1,11 @@
+component: local_course_archiver
+source: https://github.com/eng-mahdi-mohamed/moodle-local_course_archiver
+maintainers:
+- github: eng-mahdi-mohamed
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle local plugin that allows administrators to archive courses, making
+  them read-only and restricting access based on user capabilities.

@@ -1,0 +1,10 @@
+component: local_ltify
+source: https://github.com/rschrenk/moodle-local_ltify
+maintainers:
+- github: rschrenk
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to bulk enable lti on courses

@@ -1,0 +1,10 @@
+component: local_quickstats
+source: https://github.com/arsenanai/moodle-local_quickstats
+maintainers:
+- github: arsenanai
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: User activity plugin for Moodle

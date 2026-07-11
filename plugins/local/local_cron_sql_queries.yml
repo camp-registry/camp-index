@@ -1,0 +1,10 @@
+component: local_cron_sql_queries
+source: https://github.com/abautu/moodle-local_cron_sql_queries
+maintainers:
+- github: abautu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local Moodle plugin that runs custom SQL queries during cron.

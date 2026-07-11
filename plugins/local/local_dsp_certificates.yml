@@ -1,0 +1,10 @@
+component: local_dsp_certificates
+source: https://github.com/Direct-Support-Learning/moodle-local_dsp_certificates
+maintainers:
+- github: Direct-Support-Learning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: DSP Certificate Verification

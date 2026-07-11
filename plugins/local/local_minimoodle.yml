@@ -1,0 +1,9 @@
+component: local_minimoodle
+source: https://github.com/pramithkm/moodle-local_minimoodle
+maintainers:
+- github: pramithkm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

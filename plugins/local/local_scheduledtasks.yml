@@ -1,0 +1,10 @@
+component: local_scheduledtasks
+source: https://github.com/roglos/moodle-local_scheduledtasks
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local plugin to be varied for short term tasks

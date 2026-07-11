@@ -1,0 +1,9 @@
+component: local_extrauserlookups
+source: https://github.com/wset/moodle-local_extrauserlookups
+maintainers:
+- github: wset
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

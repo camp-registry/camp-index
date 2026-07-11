@@ -1,0 +1,12 @@
+component: local_course_studentreports
+source: https://github.com/derbear444/moodle-local_course_studentreports
+maintainers:
+- github: derbear444
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Adds a Student Reports course report type that can be used to quickly grab
+  information about the students in the course, such as final grade, last date of
+  attendance, and more.

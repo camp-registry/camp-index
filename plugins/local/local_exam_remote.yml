@@ -1,0 +1,10 @@
+component: local_exam_remote
+source: https://github.com/antonio-c-mariani/moodle-local_exam_remote
+maintainers:
+- github: antonio-c-mariani
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Counterpart of the Moodle Exam in the Production Moodle

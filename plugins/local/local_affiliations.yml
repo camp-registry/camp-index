@@ -1,0 +1,12 @@
+component: local_affiliations
+source: https://github.com/saylordotorg/moodle-local_affiliations
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that creates a section in the students profile that allows
+  them to check which organizations they are affiliated with - and places them in
+  the appropriate cohorts.

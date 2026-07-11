@@ -1,0 +1,10 @@
+component: local_dynprogressbar
+source: https://github.com/tinjohn/moodle-local_dynprogressbar
+maintainers:
+- github: tinjohn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Make any progressbar updated in real-time

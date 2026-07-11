@@ -1,0 +1,10 @@
+component: local_googleanalytics
+source: https://github.com/jhoopes/moodle-local_googleanalytics
+maintainers:
+- github: jhoopes
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Adds smart google analytics to Moodle

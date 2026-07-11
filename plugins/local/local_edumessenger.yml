@@ -1,0 +1,11 @@
+component: local_edumessenger
+source: https://github.com/rschrenk/moodle-local_edumessenger
+maintainers:
+- github: rschrenk
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to manage registration and cronjob to produce push-notifications for
+  Moodle

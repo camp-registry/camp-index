@@ -1,0 +1,10 @@
+component: local_event_automation
+source: https://github.com/nadavkav/moodle-local_event_automation
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle - listen to mod/data events and trigger actions accordingly

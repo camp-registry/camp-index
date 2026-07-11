@@ -1,0 +1,9 @@
+component: local_evokews
+source: https://github.com/EvokeNet/moodle-local_evokews
+maintainers:
+- github: EvokeNet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

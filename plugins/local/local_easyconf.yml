@@ -1,0 +1,11 @@
+component: local_easyconf
+source: https://github.com/abkoch/moodle-local_easyconf
+maintainers:
+- github: abkoch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for administrators to easily roll out configuration settings
+  for core and plugins
