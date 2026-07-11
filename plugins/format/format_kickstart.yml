@@ -1,0 +1,11 @@
+component: format_kickstart
+source: https://github.com/bdecentgmbh/moodle-format_kickstart
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Kickstart adds a powerful course template engine to moodle – create courses
+  easily and produce high quality courses, consistently.

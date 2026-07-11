@@ -1,0 +1,11 @@
+component: theme_classicrenderer
+source: https://github.com/frumbert/moodle-theme_classicrenderer
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle child theme that is used to override renderers (no settings of its
+  own, inherits css from parent)

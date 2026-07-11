@@ -1,0 +1,11 @@
+component: filter_units
+source: https://github.com/frumbert/filter_units
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle filter for rendering a list of courses from the current category
+  that contain a specific unittype custom attribute.

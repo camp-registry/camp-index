@@ -1,0 +1,10 @@
+component: mod_groupmembers
+source: https://github.com/learnweb/moodle-mod_groupmembers
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: ':family: :envelope: A course resource that displays groups and their members'

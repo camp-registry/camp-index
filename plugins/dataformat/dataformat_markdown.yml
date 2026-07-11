@@ -1,0 +1,10 @@
+component: dataformat_markdown
+source: https://github.com/LafColITS/moodle-dataformat_markdown
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Markdown implementation of the Moodle dataformat plugin

@@ -1,0 +1,10 @@
+component: tool_attestoodle
+source: https://github.com/grp-attestoodle/moodle-tool_attestoodle
+maintainers:
+- github: grp-attestoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to manage milestones in a training and edit learners certificates

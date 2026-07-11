@@ -1,0 +1,11 @@
+component: atto_hvp
+source: https://github.com/nadavkav/moodle-atto_hvp
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin allows users to insert a pre-existing H5P (hvp) activity into
+  any other content in the same system using the Atto editor.

@@ -1,0 +1,10 @@
+component: block_course_contents
+source: https://github.com/mudrd8mz/moodle-block_course_contents
+maintainers:
+- github: mudrd8mz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Side block producing a list of all visible topic/week in your course

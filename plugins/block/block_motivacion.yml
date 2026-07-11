@@ -1,0 +1,11 @@
+component: block_motivacion
+source: https://github.com/OnisaDev/Moodle-plugin-motivacion
+maintainers:
+- github: OnisaDev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Bloque Moodle que muestra frases motivacionales sobre programación con botón
+  para generar nueva frase. PHP 8.2, compatible con cursos, escritorio y página principal.

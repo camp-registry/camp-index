@@ -1,0 +1,10 @@
+component: filter_stash
+source: https://github.com/FMCorz/moodle-filter_stash
+maintainers:
+- github: FMCorz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle filter to simplify the usage of Stash

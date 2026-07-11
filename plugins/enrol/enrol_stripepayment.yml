@@ -1,0 +1,10 @@
+component: enrol_stripepayment
+source: https://github.com/dualcube/moodle-enrol_stripepayment
+maintainers:
+- github: dualcube
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Stripe Payment Collector

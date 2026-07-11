@@ -1,0 +1,11 @@
+component: mod_evaluation
+source: https://github.com/HarryBleckert/moodle-mod_evaluation
+maintainers:
+- github: HarryBleckert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for evaluations with Moodle. This is the evaluation activity
+  plugin.

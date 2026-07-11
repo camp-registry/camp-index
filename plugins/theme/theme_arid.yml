@@ -1,0 +1,10 @@
+component: theme_arid
+source: https://github.com/frumbert/theme_arid
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Boost child-theme aimed at simplifying the layout of single-activity courses

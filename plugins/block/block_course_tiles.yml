@@ -1,0 +1,10 @@
+component: block_course_tiles
+source: https://github.com/frumbert/course_tiles
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block for displaying courses in tiles

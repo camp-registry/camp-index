@@ -1,0 +1,10 @@
+component: block_advnotifications
+source: https://github.com/learningworks/moodle-block_advnotifications
+maintainers:
+- github: learningworks
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Easily create, manage and display notifications/alerts to users.

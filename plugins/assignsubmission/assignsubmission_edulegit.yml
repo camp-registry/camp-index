@@ -1,0 +1,10 @@
+component: assignsubmission_edulegit
+source: https://github.com/plagiarismsearch/moodle-assignsubmission_edulegit
+maintainers:
+- github: plagiarismsearch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: EduLegit workspace is a Moodle assignment submission plugin

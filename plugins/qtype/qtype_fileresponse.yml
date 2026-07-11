@@ -1,0 +1,10 @@
+component: qtype_fileresponse
+source: https://github.com/bfh/moodle-qtype_fileresponse
+maintainers:
+- github: bfh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle-qtype_fileresponse

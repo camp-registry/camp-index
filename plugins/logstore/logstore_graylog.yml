@@ -1,0 +1,11 @@
+component: logstore_graylog
+source: https://github.com/dbinoj/moodle-logstore_graylog
+maintainers:
+- github: dbinoj
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Ship moodle logs in Graylog Extended Log Format (GELF) to Graylog or other
+  GELF compatible backends.

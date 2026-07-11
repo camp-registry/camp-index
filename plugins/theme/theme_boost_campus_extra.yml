@@ -1,0 +1,11 @@
+component: theme_boost_campus_extra
+source: https://github.com/frumbert/boost_campus_extra
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle child theme for boost_campus, with bigger header and full-screen
+  SCORM page

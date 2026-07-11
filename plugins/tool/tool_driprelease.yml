@@ -1,0 +1,10 @@
+component: tool_driprelease
+source: https://github.com/marcusgreen/moodle-tool_driprelease
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Drip (automate)  the availability of moodle course activities over time

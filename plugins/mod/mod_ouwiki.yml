@@ -1,0 +1,10 @@
+component: mod_ouwiki
+source: https://github.com/moodleou/moodle-mod_ouwiki
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Alternative wiki module for Moodle 2 (designed for use in teaching and learning)

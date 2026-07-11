@@ -1,0 +1,11 @@
+component: theme_boost_o365teams
+source: https://github.com/microsoft/moodle-theme_boost_o365teams
+maintainers:
+- github: microsoft
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A custom theme used for the Moodle integration in Microsoft Teams. For more
+  details, go to https://aka.ms/TeamsMoodle

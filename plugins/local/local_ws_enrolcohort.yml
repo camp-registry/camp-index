@@ -1,0 +1,11 @@
+component: local_ws_enrolcohort
+source: https://github.com/learningworks/moodle-local_ws_enrolcohort
+maintainers:
+- github: learningworks
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle webservice functions to add a cohort enrolment instance to a course,
+  update and delete a cohort enrolment instance, and get cohort enrolment instances

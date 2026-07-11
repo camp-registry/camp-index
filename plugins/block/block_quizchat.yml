@@ -1,0 +1,11 @@
+component: block_quizchat
+source: https://github.com/tum-moodle/moodle-block_quizchat
+maintainers:
+- github: tum-moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Quizchat is a Moodle block plugin that integrates a chat feature within quizzes,
+  enabling real-time discussions among students and teachers during the E-test.

@@ -1,0 +1,12 @@
+component: local_chunkupload
+source: https://github.com/Opencast-Moodle/moodle-local_chunkupload
+maintainers:
+- github: Opencast-Moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin which offers a new form element for Moodle forms. The form
+  element is a file upload field, which uploads one file as multiple small chunks.
+  While uploading the form element shows a progress bar to the user.

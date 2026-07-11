@@ -1,0 +1,10 @@
+component: block_sms
+source: https://github.com/labsmobile/sms-moodle
+maintainers:
+- github: labsmobile
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to work with LabsMobile SMS API

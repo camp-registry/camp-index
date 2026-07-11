@@ -19,3 +19,4 @@ releases:
   - '4.1'
   zip-sha256: 733c565629cfebed163f36d9a7d4da621b2c96a6c2559e0c5ecbc2c2249cccd3
   published: '2026-07-10T22:50:25Z'
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: qformat_wordtable
+source: https://github.com/ecampbell/moodle-qformat_wordtable
+maintainers:
+- github: ecampbell
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Question bank to Word converter

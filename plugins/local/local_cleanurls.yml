@@ -1,0 +1,10 @@
+component: local_cleanurls
+source: https://github.com/brendanheywood/moodle-local_cleanurls
+maintainers:
+- github: brendanheywood
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Lets drag Moodle's url structure into this century...

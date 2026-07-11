@@ -1,0 +1,12 @@
+component: tool_uploadcourse
+source: https://github.com/piersharding/moodle-tool_uploadcourse
+maintainers:
+- github: piersharding
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: '** Note** this is now in Moodle core as of 2.6.  Moodle Admin Tools plugin
+  for basic upload of course outlines, and applying templates using Moodle course
+  backup files'

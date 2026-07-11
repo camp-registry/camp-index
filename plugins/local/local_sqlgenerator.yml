@@ -1,0 +1,10 @@
+component: local_sqlgenerator
+source: https://github.com/marcusgreen/moodle_local-sqlgenerator
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Generate sql statements from Moodle install to be used in generating ER diagrams

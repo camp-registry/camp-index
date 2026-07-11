@@ -1,0 +1,12 @@
+component: theme_boost_campus_child
+source: https://github.com/moodle-an-hochschulen/moodle-theme_boost_campus_child
+maintainers:
+- github: moodle-an-hochschulen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Boost Campus child theme which delivers the full Boost Campus features,
+  but can be configured with different brand colors or adding additional SCSS to support
+  corporate identity purposes of certain institutions on campus.

@@ -1,0 +1,10 @@
+component: plagiarism_compilatio
+source: https://github.com/compilatio/moodle-plagiarism_compilatio
+maintainers:
+- github: compilatio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Compilatio.net plagiarism plugin for Moodle

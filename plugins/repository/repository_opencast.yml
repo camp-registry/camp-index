@@ -1,0 +1,12 @@
+component: repository_opencast
+source: https://github.com/Opencast-Moodle/moodle-repository_opencast
+maintainers:
+- github: Opencast-Moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin which allows teachers to insert links to Opencast videos into
+  a course. The repository displays all videos that belong to the Opencast series
+  that are connected to the course.
