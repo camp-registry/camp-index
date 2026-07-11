@@ -1,0 +1,10 @@
+component: atto_ubicast
+source: https://github.com/UbiCastTeam/moodle-atto_ubicast
+maintainers:
+- github: UbiCastTeam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: UbiCast MediaServer button plugin for Moodle Atto text editor

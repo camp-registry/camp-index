@@ -1,0 +1,13 @@
+component: local_hlai_quizgen
+source: https://github.com/Human-Logic-Software-LLC/moodle-local_hlai_quizgen
+maintainers:
+- github: Human-Logic-Software-LLC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The AI Quiz Generator plugin automates the creation of high-quality quiz
+  questions from course content using AI infrastructure. It provides instructors with
+  an intelligent wizard-based interface to generate, review, and deploy quizzes while
+  maintaining complete pedagogical control.

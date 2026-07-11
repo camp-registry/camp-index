@@ -1,0 +1,12 @@
+component: block_atrisk
+source: https://github.com/solin-repo/moodle-block_atrisk
+maintainers:
+- github: solin-repo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'A Moodle block that shows teachers, inside the course, which students may
+  be falling behind and why: no recent activity, missed assignment or quiz deadlines,
+  grades trending down, or stalled progress.'

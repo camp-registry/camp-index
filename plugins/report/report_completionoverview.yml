@@ -1,0 +1,13 @@
+component: report_completionoverview
+source: https://github.com/Twoscope/moodle-report_completionoverview
+maintainers:
+- github: Twoscope
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The course completion overview report is a simple reporting tool based on
+  the existing course completion report. This plugin allows the Moodle Admin and system
+  level Managers to view course completion tracking information from a centralised
+  location rather than having to access each course individua

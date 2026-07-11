@@ -1,0 +1,9 @@
+component: tiny_knowledgecheck
+source: https://github.com/jport500/moodle-tiny_knowledgecheck
+maintainers:
+- github: jport500
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

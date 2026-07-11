@@ -1,0 +1,9 @@
+component: theme_liquid
+source: https://github.com/AGILEDROP/moodle-theme_liquid
+maintainers:
+- github: AGILEDROP
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

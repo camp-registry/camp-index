@@ -1,0 +1,11 @@
+component: local_welcomeemail
+source: https://github.com/jport500/moodle-local_welcomeemail
+maintainers:
+- github: jport500
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: welcome emails for newly-created users (depends on
+  auth_magiclink v3.2+)'

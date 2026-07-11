@@ -1,0 +1,10 @@
+component: auth_dev
+source: https://github.com/cescobedo/moodle-auth_dev
+maintainers:
+- github: cescobedo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Authentication Development

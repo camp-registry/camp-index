@@ -1,0 +1,10 @@
+component: auth_mdk
+source: https://github.com/FMCorz/moodle-auth_mdk
+maintainers:
+- github: FMCorz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Authentication plugin for Moodle meant to be used by developers

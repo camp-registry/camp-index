@@ -1,0 +1,10 @@
+component: tool_aischema
+source: https://github.com/ra-sistemas/moodle-tool_aischema
+maintainers:
+- github: ra-sistemas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Export Moodle's complete database schema in formats optimised for AI agents

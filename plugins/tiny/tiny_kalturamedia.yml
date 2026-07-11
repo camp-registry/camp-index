@@ -1,0 +1,9 @@
+component: tiny_kalturamedia
+source: https://github.com/UIUCATLAS/moodle-tiny_kalturamedia
+maintainers:
+- github: UIUCATLAS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

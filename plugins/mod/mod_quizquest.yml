@@ -1,0 +1,10 @@
+component: mod_quizquest
+source: https://github.com/adamjenkins/moodle-mod_quizquest
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A linear, game-like interface for quiz questions for use as a practice activity.

@@ -1,0 +1,10 @@
+component: quizaccess_ldflow
+source: https://github.com/tellit/moodle-quizaccess_ldflow
+maintainers:
+- github: tellit
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A quiz access plugin for Moodle that attempts to reduce quiz navigation.

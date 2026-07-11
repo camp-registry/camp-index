@@ -1,0 +1,10 @@
+component: filter_screencast
+source: https://github.com/TechSmith/Moodle-Screencast-Filter
+maintainers:
+- github: TechSmith
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A content filter for Moodle to convert Screencast urls to embeded content

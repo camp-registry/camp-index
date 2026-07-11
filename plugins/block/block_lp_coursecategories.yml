@@ -1,0 +1,11 @@
+component: block_lp_coursecategories
+source: https://github.com/instituto-infnet/moodle-block_lp_coursecategories
+maintainers:
+- github: instituto-infnet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Bloco Moodle para exibir planos de aprendizado agrupados pelas categorias
+  dos cursos a que estão associados

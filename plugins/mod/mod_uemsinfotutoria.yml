@@ -1,0 +1,11 @@
+component: mod_uemsinfotutoria
+source: https://github.com/UEMS-Virtual/moodle-mod_uemsinfotutoria
+maintainers:
+- github: UEMS-Virtual
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle activity module to display course tutoring and pedagogical mediation
+  information by polo.

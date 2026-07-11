@@ -1,0 +1,9 @@
+component: filter_quizfeedback
+source: https://github.com/bmbrands/moodle-filter_quizfeedback
+maintainers:
+- github: bmbrands
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

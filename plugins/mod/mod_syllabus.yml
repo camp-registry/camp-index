@@ -1,0 +1,10 @@
+component: mod_syllabus
+source: https://github.com/martygilbert/moodle-mod_syllabus
+maintainers:
+- github: martygilbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Fork of the 'file' resource in Moodle for profs to upload syllabi

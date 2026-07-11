@@ -1,0 +1,10 @@
+component: local_icalsender
+source: https://github.com/tutorrio/moodle-local_icalsender
+maintainers:
+- github: tutorrio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for sending ICS invites when Moodle calendar events are created

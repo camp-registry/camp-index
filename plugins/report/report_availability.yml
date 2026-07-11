@@ -1,0 +1,9 @@
+component: report_availability
+source: https://github.com/ewallah/moodle-report_availability
+maintainers:
+- github: ewallah
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

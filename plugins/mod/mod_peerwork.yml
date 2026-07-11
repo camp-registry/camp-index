@@ -1,0 +1,9 @@
+component: mod_peerwork
+source: https://github.com/amandadoughty/moodle-mod_peerwork
+maintainers:
+- github: amandadoughty
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

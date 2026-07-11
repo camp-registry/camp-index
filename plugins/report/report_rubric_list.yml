@@ -1,0 +1,9 @@
+component: report_rubric_list
+source: https://github.com/LafColITS/moodle-report_rubric_list
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

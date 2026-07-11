@@ -1,0 +1,11 @@
+component: tool_qtypeorder
+source: https://github.com/gbateson/moodle-tool_qtypeorder
+maintainers:
+- github: gbateson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Admin tool to convert "order" questions to "ordering" questions in Moodle
+  >= 2.3

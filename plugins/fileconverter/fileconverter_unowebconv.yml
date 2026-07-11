@@ -1,0 +1,10 @@
+component: fileconverter_unowebconv
+source: https://github.com/oncampus/moodle-fileconverter_unowebconv
+maintainers:
+- github: oncampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Copy of the subdirectory https://github.com/team-parallax/unowebconv-plugin

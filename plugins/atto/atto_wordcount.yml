@@ -1,0 +1,10 @@
+component: atto_wordcount
+source: https://github.com/SysBind/moodle-atto_wordcount
+maintainers:
+- github: SysBind
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Add "real time" words count to Moodle Atto editor

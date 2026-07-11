@@ -1,0 +1,11 @@
+component: availability_esse3enrols
+source: https://github.com/bobopinna/moodle-availability_esse3enrols
+maintainers:
+- github: bobopinna
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle availability plugin that use an Excel file to restrict access to course
+  activities

@@ -1,0 +1,10 @@
+component: portfolio_boxnet
+source: https://github.com/moodlehq/moodle-portfolio_boxnet
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Boxnet portfolio that was removed from standard package in Moodle 4.0

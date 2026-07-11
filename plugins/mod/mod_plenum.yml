@@ -1,0 +1,11 @@
+component: mod_plenum
+source: https://github.com/dthies/moodle-mod_plenum
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle activity facilitating parliamentary meetings in person or with audio
+  and video conferencing

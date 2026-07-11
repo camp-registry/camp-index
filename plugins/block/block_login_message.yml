@@ -1,0 +1,10 @@
+component: block_login_message
+source: https://github.com/sedgwickc/moodle_login_message
+maintainers:
+- github: sedgwickc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Communicate news to specific groups of users when they login to Moodle 2.9.

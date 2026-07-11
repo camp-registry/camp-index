@@ -1,0 +1,11 @@
+component: block_zendesk_dashboard
+source: https://github.com/dta121/moodle-block_zendesk_dashboard
+maintainers:
+- github: dta121
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 4.5 dashboard block for recent Zendesk support request status, powered
+  by local_zendesk.

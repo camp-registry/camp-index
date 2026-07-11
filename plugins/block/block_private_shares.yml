@@ -1,0 +1,10 @@
+component: block_private_shares
+source: https://github.com/makno/moodle-block_private_shares
+maintainers:
+- github: makno
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle Block Plugin for Sharing User Specific Information (e.g. Passwords)

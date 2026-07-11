@@ -1,0 +1,12 @@
+component: mod_moochat
+source: https://github.com/bapool/moodle-mod_moochat
+maintainers:
+- github: bapool
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Create full-featured AI chat activities in your course. Display inline on
+  course page or as separate activity. Includes avatars, rate limiting, and custom
+  personalities. Uses Moodle's core AI - no external setup needed.

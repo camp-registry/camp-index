@@ -1,0 +1,10 @@
+component: enrol_paynetpayment
+source: https://github.com/webtechbilisim/moodle-enrol_paynetpayment
+maintainers:
+- github: webtechbilisim
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle Paynet Payment Gateway & Course Enrolment Plugin

@@ -1,0 +1,10 @@
+component: repository_soundcloud
+source: https://github.com/troywilliams/moodle-repository_soundcloud
+maintainers:
+- github: troywilliams
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Soundcloud Repository for Moodle

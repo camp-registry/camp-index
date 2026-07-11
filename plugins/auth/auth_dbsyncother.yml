@@ -1,0 +1,11 @@
+component: auth_dbsyncother
+source: https://github.com/noverkill/moodle-auth_dbsyncother
+maintainers:
+- github: noverkill
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows an external database to populate an alternative authentication method
+  (for example SSO method that has no synchronisation).

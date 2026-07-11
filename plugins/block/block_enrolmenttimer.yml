@@ -1,0 +1,10 @@
+component: block_enrolmenttimer
+source: https://github.com/hyukudan/moodle-block_enrolmenttimer
+maintainers:
+- github: hyukudan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle block: Enrolment Timer countdown - fork modernized for Moodle 5.1+'

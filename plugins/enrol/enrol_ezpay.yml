@@ -1,0 +1,10 @@
+component: enrol_ezpay
+source: https://github.com/Reliva-Technology/moodle-enrol_ezpay
+maintainers:
+- github: Reliva-Technology
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Payment plugin for moodle

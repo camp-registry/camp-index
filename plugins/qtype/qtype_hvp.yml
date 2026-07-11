@@ -1,0 +1,10 @@
+component: qtype_hvp
+source: https://github.com/PeTeL-Weizmann/moodle-qtype_hvp
+maintainers:
+- github: PeTeL-Weizmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: H5P question type for Moodle

@@ -1,0 +1,10 @@
+component: qtype_mtf
+source: https://github.com/ethz-let/moodle-qtype_mtf
+maintainers:
+- github: ethz-let
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'moodle qtype_mtf: Multiple True/False'

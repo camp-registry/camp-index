@@ -1,0 +1,10 @@
+component: block_clampmail
+source: https://github.com/CLAMP-IT/moodle-block_clampmail
+maintainers:
+- github: CLAMP-IT
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Fork of the LSU Quickmail block with support for emailed attachments.

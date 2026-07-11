@@ -1,0 +1,9 @@
+component: format_topics
+source: https://github.com/andrewrowatt-masseyuni/moodle-format_topics
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

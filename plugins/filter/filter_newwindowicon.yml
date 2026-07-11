@@ -1,0 +1,10 @@
+component: filter_newwindowicon
+source: https://github.com/maccmaxitrc/moodle-filter_newwindowicon
+maintainers:
+- github: maccmaxitrc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle filter that appends an icon to links that open in a new window.

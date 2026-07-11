@@ -1,0 +1,10 @@
+component: format_editortest
+source: https://github.com/ferranrecio/moodle-format_editortest
+maintainers:
+- github: ferranrecio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle course format plugin to test the new Moodle 4.0 course editor module.

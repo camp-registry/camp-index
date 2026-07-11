@@ -1,0 +1,11 @@
+component: tool_onedrive_manager
+source: https://github.com/handsomm/moodle-tool_onedrive_manager
+maintainers:
+- github: handsomm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Centralized service hub for Microsoft OneDrive integration, providing shared
+  OAuth2 authentication and REST API management for the entire Moodle site.

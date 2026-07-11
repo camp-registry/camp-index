@@ -1,0 +1,10 @@
+component: qtype_xdom
+source: https://github.com/stefan93/moodle_qtype_xdom
+maintainers:
+- github: stefan93
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: X3dom Question type plugin for moodle

@@ -1,0 +1,9 @@
+component: filter_multilang
+source: https://github.com/roelmann/moodle-filter_multilang
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

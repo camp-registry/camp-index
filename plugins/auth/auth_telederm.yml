@@ -1,0 +1,10 @@
+component: auth_telederm
+source: https://github.com/fladi/moodle-auth-telederm
+maintainers:
+- github: fladi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: BSD-3-Clause
+summary: A custom Moodle 2.x authentication plugin for telederm.org.

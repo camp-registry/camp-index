@@ -1,0 +1,11 @@
+component: local_ws_quiz_overrides
+source: https://github.com/Palumdo/moodle-local_ws_quiz_overrides
+maintainers:
+- github: Palumdo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that create un external web service to create, update
+  or delete a quiz overrides base on the userid, quizid and a multiplier

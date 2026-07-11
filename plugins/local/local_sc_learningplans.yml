@@ -1,0 +1,9 @@
+component: local_sc_learningplans
+source: https://github.com/rbalmacedaisi/moodle-local-sc-learningplans
+maintainers:
+- github: rbalmacedaisi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

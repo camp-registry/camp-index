@@ -1,0 +1,10 @@
+component: gradingform_multigraders
+source: https://github.com/newroco/moodle-gradingform_multigraders
+maintainers:
+- github: newroco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin that allows multiple graders for assignments

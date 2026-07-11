@@ -1,0 +1,10 @@
+component: assignsubmission_assignmeta
+source: https://github.com/michaelpollak/moodle-assignsubmission_assignmeta
+maintainers:
+- github: michaelpollak
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allow your students to add metadata to their submissions like a thesisname.

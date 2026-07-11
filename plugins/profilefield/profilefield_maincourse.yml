@@ -1,0 +1,10 @@
+component: profilefield_maincourse
+source: https://github.com/vaughany/moodle-profilefield_maincourse
+maintainers:
+- github: vaughany
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A custom profile field for the user to select their 'main' course.

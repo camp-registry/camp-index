@@ -1,0 +1,9 @@
+component: format_mooin4
+source: https://github.com/ild-thl/moodle-format_mooin4
+maintainers:
+- github: ild-thl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

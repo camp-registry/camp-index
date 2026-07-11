@@ -1,0 +1,11 @@
+component: tiny_phonetic
+source: https://github.com/lsuonline/moodle-tiny_phonetic
+maintainers:
+- github: lsuonline
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin adds a button to the Atto Text Editor to allow teachers and students
+  to insert phonetic and linguistic symbols.

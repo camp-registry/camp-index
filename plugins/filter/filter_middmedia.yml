@@ -1,0 +1,10 @@
+component: filter_middmedia
+source: https://github.com/middlebury/Moodle-MiddMedia-Filter
+maintainers:
+- github: middlebury
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A filter for Moodle that replaces links to MiddMedia files with embed code.

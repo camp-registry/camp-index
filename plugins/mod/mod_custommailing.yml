@@ -1,0 +1,10 @@
+component: mod_custommailing
+source: https://github.com/cbluesprl/moodle-mod_custommailing
+maintainers:
+- github: cbluesprl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin which allows custom mailing creation in course

@@ -1,0 +1,11 @@
+component: local_litert_edge
+source: https://github.com/Hamza-Walker/moodle-local_litert_edge
+maintainers:
+- github: Hamza-Walker
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin providing web-service endpoints for the LiteRT Edge Chrome
+  extension (on-device AI grading)

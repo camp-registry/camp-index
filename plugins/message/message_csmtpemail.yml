@@ -1,0 +1,10 @@
+component: message_csmtpemail
+source: https://github.com/lais-huol/moodle__message_csmtpemail
+maintainers:
+- github: lais-huol
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle__message_csmtpemail

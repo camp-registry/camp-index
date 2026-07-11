@@ -1,0 +1,10 @@
+component: filter_multiroot
+source: https://github.com/vfremaux/moodle-filter_multiroot
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A filter for making multiroot accessed moodle consistant on content

@@ -1,0 +1,13 @@
+component: mod_flipbook
+source: https://github.com/JuanCNinop/moodle-mod_flipbook
+maintainers:
+- github: JuanCNinop
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Flipbook activity module lets users with capabilities add a PDF from
+  upload or from a direct URL and display it in the course as an interactive magazine-style
+  viewer with page-turn animation (PDF.js + PageFlip). Optional download link for
+  the original PDF.

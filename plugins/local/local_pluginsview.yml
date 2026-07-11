@@ -1,0 +1,12 @@
+component: local_pluginsview
+source: https://github.com/jeanlucio/moodle-local_pluginsview
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Plugins View plugin is a read-only local plugin for Moodle that provides
+  non-administrator users (like teachers, coordinators, and researchers) with a consolidated
+  overview of all additional installed plugins.

@@ -1,0 +1,13 @@
+component: local_courseinsights
+source: https://github.com/tandreigaabriel/moodle-local_courseinsights
+maintainers:
+- github: tandreigaabriel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Course Insights is a Moodle reporting plugin that gives administrators and
+  managers a clear overview of enrolments, course completion, assignments, quizzes,
+  grades, teachers and recent activity. It includes live filters, charts, server-side
+  sorting, pagination, CSV export and optional caching for la

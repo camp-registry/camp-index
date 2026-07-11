@@ -1,0 +1,11 @@
+component: assignsubmission_snap
+source: https://github.com/jguille2/moodle-assignsubmission_snap
+maintainers:
+- github: jguille2
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Adding to your Moodle activities (assignment activities) the ability to include
+  Snap! projects

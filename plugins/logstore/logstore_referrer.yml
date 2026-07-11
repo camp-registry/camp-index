@@ -1,0 +1,11 @@
+component: logstore_referrer
+source: https://github.com/catalyst/moodle-logstore_referrer
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: similar to standard logstore plugin, but stores the http referrer in the
+  table when we have it.

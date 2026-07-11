@@ -1,0 +1,10 @@
+component: qbehaviour_immediatemoopt
+source: https://github.com/hsh-elc/moodle-qbehaviour_immediatemoopt
+maintainers:
+- github: hsh-elc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: qbehaviour for ProForma taskformat

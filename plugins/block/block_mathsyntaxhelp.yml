@@ -1,0 +1,11 @@
+component: block_mathsyntaxhelp
+source: https://github.com/ngandrass/moodle-block_mathsyntaxhelp
+maintainers:
+- github: ngandrass
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block that displays a configurable list of common math input syntax
+  examples alongside their rendered MathJax equivalents

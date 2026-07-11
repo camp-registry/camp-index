@@ -1,0 +1,10 @@
+component: qtype_essayannotate
+source: https://github.com/vmsreeram/moodle-qtype_essayannotate
+maintainers:
+- github: vmsreeram
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle question plugin that supports PDF annotation

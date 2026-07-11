@@ -1,0 +1,10 @@
+component: local_wirisquizzes
+source: https://github.com/wiris/moodle-local_wirisquizzes
+maintainers:
+- github: wiris
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Wiris Quizzes for Moodle Local Plugin.

@@ -1,0 +1,11 @@
+component: enrol_paypalenhanced
+source: https://github.com/antriver/moodle-enrol_paypalenhanced
+maintainers:
+- github: antriver
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle PayPal enrolment method with extra ability to show/hide depending
+  on enrolment in other courses.

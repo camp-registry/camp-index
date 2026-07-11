@@ -1,0 +1,10 @@
+component: tool_realtime
+source: https://github.com/marinaglancy/moodle-tool_realtime
+maintainers:
+- github: marinaglancy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Real time events MDL-65795

@@ -1,0 +1,12 @@
+component: mod_reflect
+source: https://github.com/jeanlucio/moodle-mod_reflect
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Reflect Activity is a modern self-assessment plugin for Moodle. It provides
+  a clean, Google Forms-inspired interface for students to reflect on their learning
+  and submit numerical and open-text responses, complete with real-time autosave functionality.

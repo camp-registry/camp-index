@@ -1,0 +1,10 @@
+component: auth_none_mobile
+source: https://github.com/winnidat/moodle-auth_none_mobile
+maintainers:
+- github: winnidat
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Authentication None with additional features for Mobile use

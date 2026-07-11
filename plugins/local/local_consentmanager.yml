@@ -1,0 +1,11 @@
+component: local_consentmanager
+source: https://github.com/tedemel/moodle-local_consentmanager
+maintainers:
+- github: tedemel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin — GDPR/TTDSG-compliant consent manager that blocks third-party
+  iframes until per-category consent

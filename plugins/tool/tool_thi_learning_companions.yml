@@ -1,0 +1,11 @@
+component: tool_thi_learning_companions
+source: https://github.com/ICON-newmedia/moodle-tool_thi_learning_companions
+maintainers:
+- github: ICON-newmedia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Admin Tool Plugin to manage messages that have been reported and empty
+  groups

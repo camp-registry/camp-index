@@ -1,0 +1,9 @@
+component: repository_entermedia
+source: https://github.com/IT-Kartellet/moodle-repository_entermedia
+maintainers:
+- github: IT-Kartellet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

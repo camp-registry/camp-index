@@ -1,0 +1,11 @@
+component: auth_nostr
+source: https://github.com/LibreriadeSatoshi/moodle-auth_nostr
+maintainers:
+- github: LibreriadeSatoshi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Nostr authentication plugin for Moodle 5.1 — NIP-07 + NIP-98 login via browser
+  extension

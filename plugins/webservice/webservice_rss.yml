@@ -1,0 +1,11 @@
+component: webservice_rss
+source: https://github.com/piersharding/moodle-webservice_rss
+maintainers:
+- github: piersharding
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Is a Moodle Web Service Protocol for generating RSS feeds including support
+  for ATOM, RSS91, and RSS2.0.

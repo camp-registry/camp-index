@@ -1,0 +1,12 @@
+component: availability_stripepayment
+source: https://github.com/tandreigaabriel/moodle-availability_stripepayment
+maintainers:
+- github: tandreigaabriel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Restrict access to any Moodle activity or resource behind a Stripe payment.
+  Students pay once and gain immediate access. Teachers and admins always bypass the
+  restriction.

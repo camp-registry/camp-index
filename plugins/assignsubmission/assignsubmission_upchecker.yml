@@ -1,0 +1,9 @@
+component: assignsubmission_upchecker
+source: https://github.com/VERSION2-Inc/moodle-assignsubmission_upchecker
+maintainers:
+- github: VERSION2-Inc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

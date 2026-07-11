@@ -1,0 +1,10 @@
+component: mod_dummypage
+source: https://github.com/hribeir0/moodle-mod_dummypage
+maintainers:
+- github: hribeir0
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle dummy mod

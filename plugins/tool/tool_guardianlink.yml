@@ -1,0 +1,11 @@
+component: tool_guardianlink
+source: https://github.com/Resources4Moodle/moodle-tool_guardianlink
+maintainers:
+- github: Resources4Moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'GuardianLink: delegated, scoped, audited parent/guardian/tutor access to
+  learner progress for Moodle 5.2+ (tool_guardianlink).'

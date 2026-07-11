@@ -1,0 +1,10 @@
+component: quiz_export
+source: https://github.com/cbluesprl/moodle-quiz_export
+maintainers:
+- github: cbluesprl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin allows you to export quiz attempts in pdf format

@@ -1,0 +1,9 @@
+component: theme_classic_var_01
+source: https://github.com/malinz/moodle-theme_classic_var_01
+maintainers:
+- github: malinz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

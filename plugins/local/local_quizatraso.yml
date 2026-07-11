@@ -1,0 +1,11 @@
+component: local_quizatraso
+source: https://github.com/wagnerbackes/moodle_quizatraso
+maintainers:
+- github: wagnerbackes
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Permitir que quizzes do Moodle aceitem envios após o prazo original, aplicando
+  uma penalidade configurável na nota do estudante.

@@ -1,0 +1,13 @@
+component: local_studiolms
+source: https://github.com/jeanlucio/moodle-local_studiolms
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: StudioLMS (local_studiolms) is the AI course builder of the StudioLMS ecosystem.
+  Working from inside an existing course, a teacher describes the topic (or pastes
+  reference material), picks a mode, reviews the AI-generated outline and confirms
+  — the course is then filled with sections, rich Studio-st

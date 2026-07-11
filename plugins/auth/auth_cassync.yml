@@ -1,0 +1,11 @@
+component: auth_cassync
+source: https://github.com/DigiDago/moodle-auth_cassync
+maintainers:
+- github: DigiDago
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Authentication plugin for Moodle to synchronize attributes between a CAS
+  and Moodle

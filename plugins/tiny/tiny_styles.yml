@@ -1,0 +1,11 @@
+component: tiny_styles
+source: https://github.com/academic-moodle-cooperation/moodle-tiny_styles
+maintainers:
+- github: academic-moodle-cooperation
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The purpose of this TinyMCE plugin is to let users apply predefined bootstrap
+  classes or custom CSS classes to block or inline text.

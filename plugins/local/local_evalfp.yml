@@ -1,0 +1,11 @@
+component: local_evalfp
+source: https://github.com/javiercaceresgonzalez/moodle-local_evalfp
+maintainers:
+- github: javiercaceresgonzalez
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for competency-based assessment in Spanish Vocational Education
+  and Training (FP).

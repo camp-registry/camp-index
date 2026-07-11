@@ -1,0 +1,10 @@
+component: local_dimensions
+source: https://github.com/uaiblaine/moodle-local_dimensions
+maintainers:
+- github: uaiblaine
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: See your learning path in a new dimension.

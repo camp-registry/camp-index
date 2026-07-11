@@ -1,0 +1,10 @@
+component: repository_free_images
+source: https://github.com/davidherzlos/moodle-repository_free_images
+maintainers:
+- github: davidherzlos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Insert free images from different services

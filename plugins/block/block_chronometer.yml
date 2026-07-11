@@ -1,0 +1,10 @@
+component: block_chronometer
+source: https://github.com/vfremaux/moodle-block_chronometer
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A little on page digital chronnometer for time constrainted activities

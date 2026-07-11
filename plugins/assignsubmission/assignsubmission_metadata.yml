@@ -1,0 +1,10 @@
+component: assignsubmission_metadata
+source: https://github.com/elearningstudio/moodle-assignsubmission_metadata
+maintainers:
+- github: elearningstudio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Submission Sub plugin which adds extra metadata field for assignment submissions

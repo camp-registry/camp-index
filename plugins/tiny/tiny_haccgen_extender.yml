@@ -1,0 +1,13 @@
+component: tiny_haccgen_extender
+source: https://github.com/DPMSTeam/moodle-tiny_haccgen_extender
+maintainers:
+- github: DPMSTeam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Haccgen extender is the Tiny editor companion to HACC Gen. It adds AI writing
+  tools inside the Moodle editor—summarise, translate, audio, image and video generation,
+  and more—using the same Subscription Manager / AI backend as the HACC Gen course
+  generator.

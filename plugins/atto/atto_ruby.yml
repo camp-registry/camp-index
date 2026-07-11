@@ -1,0 +1,10 @@
+component: atto_ruby
+source: https://github.com/jethac/moodle-atto_ruby
+maintainers:
+- github: jethac
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Ruby support for Atto.

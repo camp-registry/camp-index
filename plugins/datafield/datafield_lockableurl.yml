@@ -1,0 +1,9 @@
+component: datafield_lockableurl
+source: https://github.com/LafColITS/moodle-datafield_lockableurl
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

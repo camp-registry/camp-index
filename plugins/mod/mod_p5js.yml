@@ -1,0 +1,9 @@
+component: mod_p5js
+source: https://github.com/dipanshukasera/moodle-mod_p5js
+maintainers:
+- github: dipanshukasera
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

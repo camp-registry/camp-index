@@ -1,0 +1,12 @@
+component: block_teacher_checklist
+source: https://github.com/jeanlucio/moodle-block_teacher_checklist
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Teacher Checklist is a Moodle block that helps teachers track the quality
+  of their course setup. It combines automatic issue detection with a manual to-do
+  list so nothing slips through the cracks before students arrive.

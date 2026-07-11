@@ -1,0 +1,11 @@
+component: block_group_network
+source: https://github.com/vfremaux/moodle-block_group_network
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that allows opening access to students in a User Mnet Host access
+  controlled Moodle NETwork

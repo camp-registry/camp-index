@@ -1,0 +1,10 @@
+component: datafield_regex
+source: https://github.com/srobotta/moodle-datafield_regex
+maintainers:
+- github: srobotta
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for a new datatype regex in the database activity.

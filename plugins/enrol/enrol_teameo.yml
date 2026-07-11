@@ -1,0 +1,11 @@
+component: enrol_teameo
+source: https://github.com/LS2-CA/moodle-enrol_teameo
+maintainers:
+- github: LS2-CA
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: This plugin facilitates seamless synchronization of enrollments between Teameo
+  & Classeo Plugin and your student information system (SIS) in real-time.

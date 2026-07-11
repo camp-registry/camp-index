@@ -1,0 +1,11 @@
+component: availability_game
+source: https://github.com/JotaDF/moodle-availability_game
+maintainers:
+- github: JotaDF
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to limit the access to course content according to the user
+  level in Block Game.

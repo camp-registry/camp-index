@@ -1,0 +1,10 @@
+component: quiz_markspersection
+source: https://github.com/StudiUM/moodle-quiz_markspersection
+maintainers:
+- github: StudiUM
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Quiz report plugin showing marks per section.

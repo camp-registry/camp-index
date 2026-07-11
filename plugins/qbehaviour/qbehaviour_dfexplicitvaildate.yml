@@ -1,0 +1,11 @@
+component: qbehaviour_dfexplicitvaildate
+source: https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate
+maintainers:
+- github: maths
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle question behaviour that is like deferred feebdack, but where student
+  have a button they can click to have their response validated.

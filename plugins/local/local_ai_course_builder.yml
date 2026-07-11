@@ -1,0 +1,11 @@
+component: local_ai_course_builder
+source: https://github.com/Moodle-NG/local_ai_course_builder
+maintainers:
+- github: Moodle-NG
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Plugin local de Moodle que automatiza el diseño instruccional con IA: de
+  la guía de estudio al aula virtual estructurada, con revisión docente obligatoria.'

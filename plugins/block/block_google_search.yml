@@ -1,0 +1,11 @@
+component: block_google_search
+source: https://github.com/ramsharma12345/moodle-block_google_search
+maintainers:
+- github: ramsharma12345
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Easily integrate a customizable Google search bar into course pages, dashboards,
+  or homepages.

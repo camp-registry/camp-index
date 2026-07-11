@@ -1,0 +1,11 @@
+component: tool_datewatch
+source: https://github.com/moodleworkplace/moodle-tool_datewatch
+maintainers:
+- github: moodleworkplace
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Datewatch plugin allows to execute callbacks defined by other plugins when
+  a certain date has passed

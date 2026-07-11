@@ -1,0 +1,10 @@
+component: qbehaviour_deferredfeedbackexplain
+source: https://github.com/timhunt/moodle-qbehaviour_deferredfeedbackexplain
+maintainers:
+- github: timhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Deferred feedback with explanation question behaviour for Moodle

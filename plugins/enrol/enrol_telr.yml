@@ -1,0 +1,10 @@
+component: enrol_telr
+source: https://github.com/andrewjsaid/moodle-enrol_telr
+maintainers:
+- github: andrewjsaid
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An attempt at integrating Telr with Moodle

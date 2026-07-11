@@ -1,0 +1,11 @@
+component: local_coifish
+source: https://github.com/mkpelletier/moodle-local_coifish
+maintainers:
+- github: mkpelletier
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin for longitudinal student profiles and lecturer performance
+  analytics, extending the CoIFish grade report

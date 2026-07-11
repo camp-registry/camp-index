@@ -1,0 +1,10 @@
+component: auth_bspdpolicy
+source: https://github.com/shadman-ahmed-bs23/moodle-auth_bspdpolicy
+maintainers:
+- github: shadman-ahmed-bs23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Custom Auth Plugin for password configuration

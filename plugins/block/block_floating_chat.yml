@@ -1,0 +1,10 @@
+component: block_floating_chat
+source: https://github.com/Moodle-NG/block_floating_chat
+maintainers:
+- github: Moodle-NG
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Chat Float for moodle

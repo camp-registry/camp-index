@@ -1,0 +1,11 @@
+component: repository_planetestream
+source: https://github.com/vaughany/moodle-repository_planetestream
+maintainers:
+- github: vaughany
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Slightly updated version of the Planet eStream repository plugin (originally
+  download from https://moodle.org/plugins/view.php?plugin=repository_planetestream)

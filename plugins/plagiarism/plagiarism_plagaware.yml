@@ -1,0 +1,11 @@
+component: plagiarism_plagaware
+source: https://github.com/plagaware/moodle-plagiarism_plagaware
+maintainers:
+- github: plagaware
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plagiarism Checker Plugin for the Moodle Learn Management System (LMS), powered
+  by the the plagiarism scanner PlagAware.

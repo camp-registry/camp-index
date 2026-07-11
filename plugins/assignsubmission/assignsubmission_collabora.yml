@@ -1,0 +1,11 @@
+component: assignsubmission_collabora
+source: https://github.com/learnweb/moodle-assignsubmission_collabora
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: ':memo: :globe_with_meridians: Use live document collaboration within assignments,
+  powered by Collabora Online'

@@ -1,0 +1,9 @@
+component: report_ldapaccounts
+source: https://github.com/srobotta/moodle-report_ldapaccounts
+maintainers:
+- github: srobotta
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: qtype_easyoselect
+source: https://github.com/cleblond/moodle-qtype_easyoselect
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle question type - Select atoms or molecules using Marvin Sketch

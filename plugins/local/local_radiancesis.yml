@@ -1,0 +1,10 @@
+component: local_radiancesis
+source: https://github.com/horizonednet-org/moodle-local_radiancesis
+maintainers:
+- github: horizonednet-org
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin used to facilitate integration between RadianceSIS and Moodle.

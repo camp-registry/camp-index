@@ -1,0 +1,9 @@
+component: local_dummy
+source: https://github.com/djarran/moodle-local_dummy
+maintainers:
+- github: djarran
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

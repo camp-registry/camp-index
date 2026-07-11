@@ -1,0 +1,10 @@
+component: local_cohortmanager
+source: https://github.com/ra-sistemas/moodle-local_cohortmanager
+maintainers:
+- github: ra-sistemas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: All-in-one Cohort manager plugin for Moodle

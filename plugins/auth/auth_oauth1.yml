@@ -1,0 +1,9 @@
+component: auth_oauth1
+source: https://github.com/andreabix/moodle-auth_oauth1
+maintainers:
+- github: andreabix
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

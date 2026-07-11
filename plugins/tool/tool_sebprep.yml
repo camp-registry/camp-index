@@ -1,0 +1,12 @@
+component: tool_sebprep
+source: https://github.com/BLC-FHGR/moodle-tool_sebprep
+maintainers:
+- github: BLC-FHGR
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: About A Moodle admin tool that bulk-copies a SEB exam preparation section
+  from a template course into multiple module courses, then adds a progress bar block
+  to each course.

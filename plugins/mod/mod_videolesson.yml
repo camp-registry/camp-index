@@ -1,0 +1,11 @@
+component: mod_videolesson
+source: https://github.com/mooplugins/moodle-mod_videolesson
+maintainers:
+- github: mooplugins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle™ activity module providing video lesson functionality with completion
+  tracking and analytics.

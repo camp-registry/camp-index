@@ -1,0 +1,9 @@
+component: filter_biblelinks
+source: https://github.com/jamfire/moodle-filter_biblelinks
+maintainers:
+- github: jamfire
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

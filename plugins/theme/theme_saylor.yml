@@ -1,0 +1,10 @@
+component: theme_saylor
+source: https://github.com/saylordotorg/moodle-theme_saylor
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Saylor Academy's theme for Moodle.

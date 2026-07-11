@@ -1,0 +1,11 @@
+component: mod_conversation
+source: https://github.com/WaetzigS/moodle-mod_conversation
+maintainers:
+- github: WaetzigS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Students can practice speaking directly with an AI chatbot, preparing for
+  real-life conversations.

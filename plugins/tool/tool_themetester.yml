@@ -1,0 +1,10 @@
+component: tool_themetester
+source: https://github.com/open-lms-open-source/moodle-tool_themetester
+maintainers:
+- github: open-lms-open-source
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle Theme Testing tool, with a focus on Bootstrap 3 based themes.

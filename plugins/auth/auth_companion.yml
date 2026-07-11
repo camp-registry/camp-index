@@ -1,0 +1,9 @@
+component: auth_companion
+source: https://github.com/grabs/moodle-auth_companion
+maintainers:
+- github: grabs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

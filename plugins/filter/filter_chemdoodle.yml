@@ -1,0 +1,10 @@
+component: filter_chemdoodle
+source: https://github.com/cleblond/moodle-filter_chemdoodle
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Filter to display JCAMPDX spectra in Moodle

@@ -1,0 +1,10 @@
+component: tool_migratehvp2h5p
+source: https://github.com/moodlehq/moodle-tool_migratehvp2h5p
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Tool to migrate mod_hvp to Moodle 3.9 mod_h5pactivity modules

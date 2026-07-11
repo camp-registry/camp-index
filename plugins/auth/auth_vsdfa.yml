@@ -1,0 +1,10 @@
+component: auth_vsdfa
+source: https://github.com/kamat/moodle-auth_vsdfa
+maintainers:
+- github: kamat
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Authentication and update user profile from web service.

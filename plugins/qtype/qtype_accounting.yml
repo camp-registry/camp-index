@@ -1,0 +1,9 @@
+component: qtype_accounting
+source: https://github.com/lambda9-gmbh/moodle-qtype_accounting
+maintainers:
+- github: lambda9-gmbh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

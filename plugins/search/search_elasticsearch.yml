@@ -1,0 +1,10 @@
+component: search_elasticsearch
+source: https://github.com/danielneis/moodle-search_elasticsearch
+maintainers:
+- github: danielneis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: discontinued - use https://moodle.org/plugins/search_elastic

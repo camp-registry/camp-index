@@ -1,0 +1,9 @@
+component: tool_vault
+source: https://github.com/lmscloud-io/moodle-tool_vault
+maintainers:
+- github: lmscloud-io
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

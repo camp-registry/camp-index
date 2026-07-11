@@ -1,0 +1,11 @@
+component: repository_ilabs
+source: https://github.com/UNEDLabs/moodle-repository_ilabs
+maintainers:
+- github: UNEDLabs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle repository plugin to browse, use and download iLabs experiments
+  (https://stanford-ilabs.appspot.com)

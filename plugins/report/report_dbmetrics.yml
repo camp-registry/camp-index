@@ -1,0 +1,9 @@
+component: report_dbmetrics
+source: https://github.com/ponlawat-w/moodle-report_dbmetrics
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

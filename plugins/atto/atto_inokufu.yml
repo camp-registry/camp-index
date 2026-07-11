@@ -1,0 +1,10 @@
+component: atto_inokufu
+source: https://github.com/inokufu/moodle-atto_inokufu
+maintainers:
+- github: inokufu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Public Moodle Atto Plugin for Inokufu Search technologies

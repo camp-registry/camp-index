@@ -1,0 +1,9 @@
+component: report_everyday_stats
+source: https://github.com/yurinskiy/moodle-report_everyday_stats
+maintainers:
+- github: yurinskiy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

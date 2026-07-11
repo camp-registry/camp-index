@@ -1,0 +1,10 @@
+component: atto_superclean
+source: https://github.com/justinhunt/moodle-atto_superclean
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A utility to remove span tags from the atto html editor area.

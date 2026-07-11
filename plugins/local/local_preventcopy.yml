@@ -1,0 +1,10 @@
+component: local_preventcopy
+source: https://github.com/vinit-prajapati/moodle_local_preventcopy
+maintainers:
+- github: vinit-prajapati
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Local Plugin to Prevent Right Click, Copy and Paste

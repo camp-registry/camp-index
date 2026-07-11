@@ -1,0 +1,10 @@
+component: local_messageprovider
+source: https://github.com/itamart/moodle-local_messageprovider
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that sends new self registration notifications to admin.

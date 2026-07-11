@@ -1,0 +1,12 @@
+component: filter_imagefullscreen
+source: https://github.com/sandiprj/moodle-filter_imagefullscreen
+maintainers:
+- github: sandiprj
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This Moodle filter adds fullscreen functionality to images in book or any
+  other activities. When enabled, it adds a fullscreen icon to the top-right corner
+  of every image, allowing users to view the image in fullscreen mode.

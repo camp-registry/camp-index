@@ -1,0 +1,11 @@
+component: local_filtermenu
+source: https://github.com/michael-milette/moodle-local_filtermenu
+maintainers:
+- github: michael-milette
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: FilterMenu for Moodle applies Moodle filters to custom menus in Moodle 3.2
+  and later.

@@ -1,0 +1,9 @@
+component: quiz_concorsi
+source: https://github.com/unipiemonteorientale/moodle-quiz_concorsi
+maintainers:
+- github: unipiemonteorientale
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

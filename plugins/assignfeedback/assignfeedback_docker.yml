@@ -1,0 +1,10 @@
+component: assignfeedback_docker
+source: https://github.com/sk-unikent/moodle-assignfeedback_docker
+maintainers:
+- github: sk-unikent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Assignment submissions that are auto-graded in docker containers (experimental)

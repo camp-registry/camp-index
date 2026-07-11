@@ -1,0 +1,11 @@
+component: format_popups
+source: https://github.com/dthies/moodle-format_popups
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle course format that opens some activities in a modal instead of a new
+  page

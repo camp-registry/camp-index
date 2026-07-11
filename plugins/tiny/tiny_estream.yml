@@ -1,0 +1,11 @@
+component: tiny_estream
+source: https://github.com/PlaneteStream/moodle-tiny_estream
+maintainers:
+- github: PlaneteStream
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An updated version of the legacy TinyMCE plugin for eStream by Uniguest for
+  Moodle versions 4.5 and above.

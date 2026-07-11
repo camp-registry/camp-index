@@ -1,0 +1,10 @@
+component: format_location
+source: https://github.com/iandavidwild/moodle-format_location
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Demonstrating the creation of a new Moodle course format - based on moodle-format_gps

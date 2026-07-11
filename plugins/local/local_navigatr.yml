@@ -1,0 +1,11 @@
+component: local_navigatr
+source: https://github.com/navigatr-app/moodle-local_navigatr
+maintainers:
+- github: navigatr-app
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Navigatr Moodle Plugin connects your Moodle courses directly to the Navigatr
+  platform, allowing automatic badge issuance when learners complete courses.

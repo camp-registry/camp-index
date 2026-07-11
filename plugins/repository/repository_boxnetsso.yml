@@ -1,0 +1,11 @@
+component: repository_boxnetsso
+source: https://github.com/ucsf-education/moodle-repository-boxnetsso
+maintainers:
+- github: ucsf-education
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Inherits from Boxnet repository that comes with Moodle 2.6 and up.  Provides
+  extra features for SSO integration to box.com, and streamlines the log in process.

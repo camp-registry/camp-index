@@ -1,0 +1,11 @@
+component: block_mediawiki_search
+source: https://github.com/nrobbins/moodle_block_mediawiki_search
+maintainers:
+- github: nrobbins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block for Moodle 2.x provides a search box for a specified mediawiki
+  installation

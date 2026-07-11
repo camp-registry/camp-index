@@ -1,0 +1,10 @@
+component: repository_mytube
+source: https://github.com/justinhunt/moodle-repository_mytube
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The MyTube personal YouTube repository for Moodle

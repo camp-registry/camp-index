@@ -1,0 +1,11 @@
+component: enrol_imsenterprise
+source: https://github.com/johanreinalda/moodle-enrol_imsenterprise
+maintainers:
+- github: johanreinalda
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 2.x custom IMS Enrolment module (for Thunderbird School of Global
+  Management)

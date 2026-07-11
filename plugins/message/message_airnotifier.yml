@@ -1,0 +1,10 @@
+component: message_airnotifier
+source: https://github.com/moodler-zz/moodle-message_airnotifier
+maintainers:
+- github: moodler-zz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle messaging plugin for PUSH notifications using AirNotifier

@@ -1,0 +1,10 @@
+component: atto_storage
+source: https://github.com/andrewnicols/moodle-atto_storage
+maintainers:
+- github: andrewnicols
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Offline storage for Atto

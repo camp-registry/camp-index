@@ -1,0 +1,12 @@
+component: qtype_stateful
+source: https://github.com/maths/moodle-qtype_stateful
+maintainers:
+- github: maths
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Stateful question type, i.e. STACK with state where the students answer can
+  be used to change the state of the question typically to set the parameters of a
+  follow-up question.

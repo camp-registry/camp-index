@@ -1,0 +1,11 @@
+component: local_credentiumclaim
+source: https://github.com/cloudteampl/moodle-local_credentiumclaim
+maintainers:
+- github: cloudteampl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that surfaces issued-but-unclaimed Credentium digital
+  credentials in the Moodle UI and lets users claim them. Companion to local_credentium.

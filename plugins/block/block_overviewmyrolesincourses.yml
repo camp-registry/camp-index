@@ -1,0 +1,9 @@
+component: block_overviewmyrolesincourses
+source: https://github.com/andreasschenkel/moodle-block_overviewmyrolesincourses
+maintainers:
+- github: andreasschenkel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

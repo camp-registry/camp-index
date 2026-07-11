@@ -1,0 +1,9 @@
+component: tiny_footnotes
+source: https://github.com/joethibault/moodle-tiny_footnotes
+maintainers:
+- github: joethibault
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: tool_courseshift
+source: https://github.com/tedemel/moodle-tool_courseshift
+maintainers:
+- github: tedemel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle admin tool — shift course start/end and activity dates across multiple
+  courses at once

@@ -1,0 +1,10 @@
+component: auth_neon
+source: https://github.com/gharley/neon-auth-moodle
+maintainers:
+- github: gharley
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: OAuth2 authentication for Moodle

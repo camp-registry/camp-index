@@ -1,0 +1,9 @@
+component: repository_learn360
+source: https://github.com/infobasedev/moodle-repository_learn360
+maintainers:
+- github: infobasedev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

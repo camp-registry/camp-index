@@ -1,0 +1,12 @@
+component: auth_relogin
+source: https://github.com/fmido88/moodle-auth_relogin
+maintainers:
+- github: fmido88
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: In moodle websites, as the browser closed the user not logged in any more
+  even if the session is not expired, this plugin provide auto login mechanism to
+  re-login the users with unexpired sessions.

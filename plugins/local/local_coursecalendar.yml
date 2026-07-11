@@ -1,0 +1,11 @@
+component: local_coursecalendar
+source: https://github.com/GitHubGreg/moodle-local_coursecalendar
+maintainers:
+- github: GitHubGreg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle local plugin for building per-course, per-semester calendars from
+  a reusable blueprint of topics.

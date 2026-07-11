@@ -1,0 +1,12 @@
+component: assignsubmission_babelium
+source: https://github.com/Elurnet/moodle-assignsubmission_babelium
+maintainers:
+- github: Elurnet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Babelium: interactive video and audio recording assignment plugin for Moodle.
+  It allows students to record their voices and/or their faces (using their microphones
+  and webcams) and get evaluations from the grades assessment module by teacher.'

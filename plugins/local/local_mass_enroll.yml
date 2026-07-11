@@ -1,0 +1,11 @@
+component: local_mass_enroll
+source: https://github.com/rogiervandongen/moodle-local_mass_enroll
+maintainers:
+- github: rogiervandongen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A tool to allow teachers to enrol existing users to their courses using CSV
+  files (without bothering the admins)

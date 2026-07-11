@@ -1,0 +1,13 @@
+component: filter_pod
+source: https://github.com/marmotteabbas/moodle-mod_pod-filter_grenoble
+maintainers:
+- github: marmotteabbas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'This is the version Beta 1.0 of moodle-mod_pod-filter adapted to Grenoble
+  Responsive needs. That means that this version is still in development and you might
+  encounter bugs or issues that will not be present in the final version.  Add a filter
+  for urls of videos from pod and convert them to iframe '

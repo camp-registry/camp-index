@@ -1,0 +1,11 @@
+component: report_modstats
+source: https://github.com/dired-ufla/moodle-report_modstats
+maintainers:
+- github: dired-ufla
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: That is a report plugin that helps the admin to known how the Moodle modules
+  are being used by users (e.g. as forum, as file repositories or as activities repositories).

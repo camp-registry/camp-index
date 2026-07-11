@@ -1,0 +1,10 @@
+component: local_admindashboard
+source: https://github.com/UzainAliSiddiqui/moodle-local_admindashboard
+maintainers:
+- github: UzainAliSiddiqui
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: Admin dashboard'

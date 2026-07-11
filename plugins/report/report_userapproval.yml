@@ -1,0 +1,10 @@
+component: report_userapproval
+source: https://github.com/davidherney/moodle-report_userapproval
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle admin report. It show a list of users and its completed courses.

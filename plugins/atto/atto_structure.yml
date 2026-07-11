@@ -1,0 +1,10 @@
+component: atto_structure
+source: https://github.com/cleblond/moodle-atto_structure
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MarvinJS Atto plugin for inserting images!

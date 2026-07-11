@@ -1,0 +1,11 @@
+component: assignfeedback_grades_chart
+source: https://github.com/k-rokicki/moodle-assignfeedback_grades_chart
+maintainers:
+- github: k-rokicki
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple Moodle assign feedback plugin, allowing students to check how other
+  students handled a given task by presenting their grades on a chart.

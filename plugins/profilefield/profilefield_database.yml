@@ -1,0 +1,9 @@
+component: profilefield_database
+source: https://github.com/EduardoKrausME/moodle-profilefield_database
+maintainers:
+- github: EduardoKrausME
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

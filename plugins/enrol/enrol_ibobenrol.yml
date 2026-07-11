@@ -1,0 +1,9 @@
+component: enrol_ibobenrol
+source: https://github.com/AgrosupDijon-DSI/moodle-enrol_ibobenrol
+maintainers:
+- github: AgrosupDijon-DSI
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

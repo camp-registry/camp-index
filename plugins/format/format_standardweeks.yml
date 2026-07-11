@@ -1,0 +1,10 @@
+component: format_standardweeks
+source: https://github.com/unikent/moodle-format_standardweeks
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Standard weeks course format

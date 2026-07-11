@@ -1,0 +1,10 @@
+component: quizaccess_invigilator
+source: https://github.com/eLearning-BS23/moodle-quizaccess_invigilator
+maintainers:
+- github: eLearning-BS23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle quiz access rule plugin invigilator

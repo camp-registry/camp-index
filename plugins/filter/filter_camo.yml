@@ -1,0 +1,10 @@
+component: filter_camo
+source: https://github.com/alex-rowe/moodle-filter_camo
+maintainers:
+- github: alex-rowe
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Filter to convert images to route through a camo proxy server

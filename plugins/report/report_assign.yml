@@ -1,0 +1,11 @@
+component: report_assign
+source: https://github.com/thepurpleblob/moodle-report_assign
+maintainers:
+- github: thepurpleblob
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle assignment report. Provides additional details plus exports and complete
+  file dumps.

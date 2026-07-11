@@ -1,0 +1,9 @@
+component: plagiarism_advacheck
+source: https://github.com/Advacheck-OU/moodle-plagiarism_advacheck
+maintainers:
+- github: Advacheck-OU
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,13 @@
+component: local_inactivitynotifier
+source: https://github.com/dronix69/moodle-local_inactivitynotifier
+maintainers:
+- github: dronix69
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Complemento local de Moodle que detecta a los estudiantes inactivos en los
+  cursos y les envía una notificación (correo electrónico emergente) para animarlos
+  a retomar sus estudios. Admite plantillas de correo electrónico personalizadas,
+  configurables desde el panel de administración.

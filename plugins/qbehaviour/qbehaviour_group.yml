@@ -1,0 +1,11 @@
+component: qbehaviour_group
+source: https://github.com/drbean/moodle-qbehaviour_group
+maintainers:
+- github: drbean
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: award a group grade, ie the average of the scores of all members of the group
+  in which the student is a member

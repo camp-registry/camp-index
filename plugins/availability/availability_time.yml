@@ -1,0 +1,9 @@
+component: availability_time
+source: https://github.com/sh-csg/moodle-availability_time
+maintainers:
+- github: sh-csg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

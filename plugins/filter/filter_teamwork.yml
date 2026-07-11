@@ -1,0 +1,12 @@
+component: filter_teamwork
+source: https://github.com/PeTeL-Weizmann/moodle-filter_teamwork
+maintainers:
+- github: PeTeL-Weizmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: DEPRECATED - see new version local_teamwork. Allow teachers and students
+  to create and manage "teams" from within the assignment. These "teams" exist only
+  in that specific assignment, and are used for collaborative submission of that assignment.

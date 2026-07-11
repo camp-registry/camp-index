@@ -1,0 +1,11 @@
+component: block_definitions
+source: https://github.com/adlcmdl/moodle-block_definitions
+maintainers:
+- github: adlcmdl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Provides access to the Merriam-Wester dictionary and thesaurus from a block
+  within Moodle.

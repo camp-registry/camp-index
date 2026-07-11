@@ -1,0 +1,11 @@
+component: local_byblos
+source: https://github.com/SATS-Seminary/moodle-local_byblos
+maintainers:
+- github: SATS-Seminary
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Byblos — native ePortfolio for Moodle 5. Page builder, collections, group-bound
+  collections, peer review, rubric grading.

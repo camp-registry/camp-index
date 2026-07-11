@@ -1,0 +1,11 @@
+component: fileconverter_onedrivebeta
+source: https://github.com/aspark21/moodle-fileconverter_onedrivebeta
+maintainers:
+- github: aspark21
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A fork of the onedrive Fileconverter plugin which uses the beta API endpoint
+  for file types not yet supported by the stable 1.0 API

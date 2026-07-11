@@ -1,0 +1,10 @@
+component: theme_suap
+source: https://github.com/suap-moodletheme-suite/moodle-theme_suap
+maintainers:
+- github: suap-moodletheme-suite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: IFRN Moodle Theme SUAP

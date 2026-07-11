@@ -1,0 +1,10 @@
+component: filter_spellcheck
+source: https://github.com/dthies/moodle-filter_spellcheck
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple filter to check spelling and highlight possible errors

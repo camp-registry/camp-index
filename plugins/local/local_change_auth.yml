@@ -1,0 +1,12 @@
+component: local_change_auth
+source: https://github.com/melvyng/moodle-local_change_auth
+maintainers:
+- github: melvyng
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Change Auth is a local Moodle plugin that automatically converts user accounts
+  using the email authentication method to manual authentication through a scheduled
+  daily task.

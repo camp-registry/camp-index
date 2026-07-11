@@ -1,0 +1,11 @@
+component: qtype_vdmarker
+source: https://github.com/roomlane/moodle-qtype_vdmarker
+maintainers:
+- github: roomlane
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle question type plugin. Student can click-select regions on an Venn's
+  diagram.

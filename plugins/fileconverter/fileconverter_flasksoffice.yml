@@ -1,0 +1,11 @@
+component: fileconverter_flasksoffice
+source: https://github.com/miotto/moodle-fileconverter_flasksoffice
+maintainers:
+- github: miotto
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This Moodle plugin uses a separat Linux server with Flask and LibreOffice
+  for converting documents.

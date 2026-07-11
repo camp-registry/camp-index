@@ -1,0 +1,9 @@
+component: local_msteams
+source: https://github.com/ConnerMcCarthy/moodle-local_msteams
+maintainers:
+- github: ConnerMcCarthy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

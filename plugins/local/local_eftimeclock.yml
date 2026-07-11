@@ -1,0 +1,12 @@
+component: local_eftimeclock
+source: https://github.com/anarosiris/moodle-local_eftimeclock
+maintainers:
+- github: anarosiris
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Free floating time clock for Moodle: tracks each student''s ACTIVE time
+  per activity (pauses without focus, idempotent saves). Free edition of the eLearning
+  Fácil suite.'

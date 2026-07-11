@@ -1,0 +1,10 @@
+component: tool_migratehvp2026
+source: https://github.com/VOOM108/moodle-tool_migratehvp2026
+maintainers:
+- github: VOOM108
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Independent fork of migration tool

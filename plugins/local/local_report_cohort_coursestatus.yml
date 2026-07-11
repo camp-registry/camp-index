@@ -1,0 +1,9 @@
+component: local_report_cohort_coursestatus
+source: https://github.com/mchurchward/moodle-local_report_cohort_coursestatus
+maintainers:
+- github: mchurchward
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

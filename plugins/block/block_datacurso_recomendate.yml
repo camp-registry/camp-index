@@ -1,0 +1,9 @@
+component: block_datacurso_recomendate
+source: https://github.com/datacurso/moodle-block_datacurso_recomendate
+maintainers:
+- github: datacurso
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

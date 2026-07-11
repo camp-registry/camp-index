@@ -1,0 +1,11 @@
+component: tinymce_eomarvin2d
+source: https://github.com/cleblond/moodle-tinymce_eomarvin2d
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 2.4 TinyMCE plugin to display 2D Chemical reaction schemes and structures
+  with MarvinView (Chemaxon)

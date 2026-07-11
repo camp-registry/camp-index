@@ -1,0 +1,10 @@
+component: mod_mooproof
+source: https://github.com/bapool/moodle-mod_mooproof
+maintainers:
+- github: bapool
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: AI Proofing tool for Moodle classes to teach responsible student AI usage

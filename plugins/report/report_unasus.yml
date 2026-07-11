@@ -1,0 +1,10 @@
+component: report_unasus
+source: https://github.com/UFSC/moodle-report-unasus
+maintainers:
+- github: UFSC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Relatórios gerenciais de acompahnamento de curso

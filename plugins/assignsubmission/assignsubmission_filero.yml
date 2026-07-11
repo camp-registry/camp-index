@@ -1,0 +1,11 @@
+component: assignsubmission_filero
+source: https://github.com/HarryBleckert/moodle-assignsubmission_filero
+maintainers:
+- github: HarryBleckert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This Moodle Assignment subplugin archives all submission and feedback data
+  and related files to FILERO DMS.  It also features a unique multiple graders system.

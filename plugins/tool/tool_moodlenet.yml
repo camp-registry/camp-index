@@ -1,0 +1,11 @@
+component: tool_moodlenet
+source: https://github.com/moodlehq/moodle-tool_moodlenet
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MoodleNet admin tool plugin for Moodle. The official MoodleNet product is
+  out of support, please use this plugin on your own risk,

@@ -1,0 +1,10 @@
+component: qbehaviour_interactivehintbutton
+source: https://github.com/cleblond/moodle-qbehaviour_interactivehintbutton
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 2.7+ Quesiton behaviour that adds a hint button.

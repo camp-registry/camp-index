@@ -1,0 +1,10 @@
+component: repository_catapi
+source: https://github.com/FMCorz/moodle-repository_catapi
+maintainers:
+- github: FMCorz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The most powerful Moodle repository plugin to find cat pictures.

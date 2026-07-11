@@ -1,0 +1,9 @@
+component: theme_almondb
+source: https://github.com/themesalmond/moodle-theme_almondb
+maintainers:
+- github: themesalmond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

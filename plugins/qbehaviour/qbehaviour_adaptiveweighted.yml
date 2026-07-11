@@ -1,0 +1,11 @@
+component: qbehaviour_adaptiveweighted
+source: https://github.com/bumoodle/moodle-qbehaviour_adaptiveweighted
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A modified version of the Adaptive behavior, which weights its penalties
+  in according to the percent incorrect.

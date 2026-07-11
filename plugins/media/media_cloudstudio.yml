@@ -1,0 +1,9 @@
+component: media_cloudstudio
+source: https://github.com/eadtech-moodle/moodle-media_cloudstudio
+maintainers:
+- github: eadtech-moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

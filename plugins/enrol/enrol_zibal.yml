@@ -1,0 +1,9 @@
+component: enrol_zibal
+source: https://github.com/zibalco/zibal-moodle-enrolment-plugin
+maintainers:
+- github: zibalco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

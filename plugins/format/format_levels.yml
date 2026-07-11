@@ -1,0 +1,11 @@
+component: format_levels
+source: https://github.com/mariagachkova/moodle-format-levels
+maintainers:
+- github: mariagachkova
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is the repository for Moodle plugin of type course format. It is created
+  to implement game-based design in Moodle courses.

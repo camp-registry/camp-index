@@ -1,0 +1,11 @@
+component: quiz_attemptstate
+source: https://github.com/moodleulpgc/moodle-quiz_attemptstate
+maintainers:
+- github: moodleulpgc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allow teachers to manage quiz attempt states. Closing non-submitted attempts,
+  re-open others

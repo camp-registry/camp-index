@@ -1,0 +1,10 @@
+component: local_forumcare
+source: https://github.com/adamjenkins/moodle-local_forumcare
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: User reporting and forum post moderation tool

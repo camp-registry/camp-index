@@ -1,0 +1,12 @@
+component: assignsubmission_advanced
+source: https://github.com/michaelpollak/moodle-assignsubmission_advanced
+maintainers:
+- github: michaelpollak
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Plugin that allows teachers to add compression to the image files
+  uploaded by students as well as upload any files without compression. Extends the
+  features of the plugin moodle-assignsubmission_file.

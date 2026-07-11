@@ -1,0 +1,9 @@
+component: mod_pokcertificate
+source: https://github.com/blockademy/moodle-mod_pokcertificate
+maintainers:
+- github: blockademy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

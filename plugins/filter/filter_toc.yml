@@ -1,0 +1,11 @@
+component: filter_toc
+source: https://github.com/benchen71/moodle-filter_toc
+maintainers:
+- github: benchen71
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle filter that auto-generates a table of contents based on html headings
+  tags

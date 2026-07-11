@@ -1,0 +1,9 @@
+component: availability_recompletion
+source: https://github.com/valentinatessarounitn/moodle-availability_recompletion
+maintainers:
+- github: valentinatessarounitn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: block_mastermind_assistant
+source: https://github.com/talibtahirovic/moodle-block_mastermind_assistant
+maintainers:
+- github: talibtahirovic
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

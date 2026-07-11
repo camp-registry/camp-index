@@ -1,0 +1,9 @@
+component: local_apiquery
+source: https://github.com/cesarmachado443/moodle-local_apiquery
+maintainers:
+- github: cesarmachado443
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

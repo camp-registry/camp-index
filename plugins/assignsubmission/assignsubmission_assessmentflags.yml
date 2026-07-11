@@ -1,0 +1,9 @@
+component: assignsubmission_assessmentflags
+source: https://github.com/roelmann/glos-moodle-assignsubmission_assessmentflags
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

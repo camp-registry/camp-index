@@ -1,0 +1,11 @@
+component: mod_eledialeitnerflow
+source: https://github.com/jmoskaliuk/moodle-mod_eledialeitnerflow
+maintainers:
+- github: jmoskaliuk
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Spaced-repetition activity using configurable Leitner boxes. Question Bank
+  questions become flashcards that move between boxes based on answers.

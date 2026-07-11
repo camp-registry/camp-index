@@ -1,0 +1,10 @@
+component: enrol_mpcheckoutpro
+source: https://github.com/redesitos/moodle-enrol_mpcheckoutpro
+maintainers:
+- github: redesitos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Mercadopago moodle

@@ -1,0 +1,11 @@
+component: qbehaviour_guessit
+source: https://github.com/bhect0/moodle-qbehaviour_guessit
+maintainers:
+- github: bhect0
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Question behaviour for the guessit question type only (Adaptive mode with
+  help)

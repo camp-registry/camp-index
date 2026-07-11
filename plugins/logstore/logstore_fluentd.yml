@@ -1,0 +1,11 @@
+component: logstore_fluentd
+source: https://github.com/danielneis/moodle-logstore_fluentd
+maintainers:
+- github: danielneis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a plugin for Moodle that sends all events to a configured Fluentd
+  instance.

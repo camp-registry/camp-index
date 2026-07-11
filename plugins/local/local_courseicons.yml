@@ -1,0 +1,10 @@
+component: local_courseicons
+source: https://github.com/yerodigo-cell/moodle-local_courseicons
+maintainers:
+- github: yerodigo-cell
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle local plugin to customize activity and resource icons.

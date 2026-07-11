@@ -1,0 +1,10 @@
+component: tiny_ubicast
+source: https://github.com/UbiCastTeam/moodle-tiny_ubicast
+maintainers:
+- github: UbiCastTeam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for inserting Nudgis content into HTML text areas

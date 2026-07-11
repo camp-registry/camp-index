@@ -1,0 +1,10 @@
+component: format_streamdeck
+source: https://github.com/mkpelletier/moodle-format_streamdeck
+maintainers:
+- github: mkpelletier
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Streamdeck: a Netflix-style episode-based course format for Moodle 5.0+'

@@ -1,0 +1,11 @@
+component: local_textinsights
+source: https://github.com/developerck/moodle-local_textinsights
+maintainers:
+- github: developerck
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local Moodle plugin that provides AI-powered text analysis capabilities
+  through a convenient context menu in course content.

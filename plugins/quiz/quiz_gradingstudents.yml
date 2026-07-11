@@ -1,0 +1,11 @@
+component: quiz_gradingstudents
+source: https://github.com/moodleou/moodle-quiz_gradingstudents
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A quiz 'report' add-on for Moodle, like the nomal manual grading report,
+  but which lets you grade one student at a time, rather than one question at a time.

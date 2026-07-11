@@ -1,0 +1,12 @@
+component: assignsubmission_teamwork
+source: https://github.com/PeTeL-Weizmann/moodle-assignsubmission_teamwork
+maintainers:
+- github: PeTeL-Weizmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that enables a teacher to team up students for each assignment
+  in different ad hoc teams, where each submission and feedback is copied to all team
+  members.

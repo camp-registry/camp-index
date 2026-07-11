@@ -1,0 +1,11 @@
+component: mod_hotquestion
+source: https://github.com/drachels/moodle-mod_hotquestion
+maintainers:
+- github: drachels
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An activity to help teachers collect questions from students in or out of
+  the classroom.

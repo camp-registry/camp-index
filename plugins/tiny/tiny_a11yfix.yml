@@ -1,0 +1,9 @@
+component: tiny_a11yfix
+source: https://github.com/YorkUITInnovation/moodle-tiny_a11yfix
+maintainers:
+- github: YorkUITInnovation
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,12 @@
+component: mod_stackmastery
+source: https://github.com/danielcregg/moodle-mod_stackmastery
+maintainers:
+- github: danielcregg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Adaptive formative mastery activity for Moodle + STACK: BKT mastery tracking
+  and an RL-trained policy pick each next question. Mirror of the stack-question-forge
+  monorepo.'

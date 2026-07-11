@@ -1,0 +1,11 @@
+component: tool_dbmigrate
+source: https://github.com/moodle-by-kelsoncm/tool_dbmigrate
+maintainers:
+- github: moodle-by-kelsoncm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: New Moodle database CLI migration tool. Tested to migrate a database from
+  MySQL to PostgreSQL, but, not restricted to this scenario.

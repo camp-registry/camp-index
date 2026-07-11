@@ -1,0 +1,11 @@
+component: mod_attendancecontrol
+source: https://github.com/david-olivan/moodle-mod_attendancecontrol
+maintainers:
+- github: david-olivan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A lightweight, configurable attendance control activity module for Moodle,
+  designed for vocational training centres.

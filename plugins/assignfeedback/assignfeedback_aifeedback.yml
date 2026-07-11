@@ -1,0 +1,10 @@
+component: assignfeedback_aifeedback
+source: https://github.com/danielmccluskey/moodle-assignfeedback_aifeedback
+maintainers:
+- github: danielmccluskey
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Adds an AI Feedback Assistant for assignments in Moodle.

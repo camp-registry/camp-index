@@ -1,0 +1,11 @@
+component: block_chuck
+source: https://github.com/dvdcastro/moodle-block_chuck
+maintainers:
+- github: dvdcastro
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: A Moodle block that displays Chuck Norris facts. Works in the Moodle App
+  too.

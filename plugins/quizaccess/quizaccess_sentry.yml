@@ -1,0 +1,9 @@
+component: quizaccess_sentry
+source: https://github.com/riasat-mahbub/moodle-quizaccess_sentry
+maintainers:
+- github: riasat-mahbub
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

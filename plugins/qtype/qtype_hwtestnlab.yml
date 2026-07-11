@@ -1,0 +1,9 @@
+component: qtype_hwtestnlab
+source: https://github.com/ryajima/moodle-qtype_hwtestnlab
+maintainers:
+- github: ryajima
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: qtype_uml
+source: https://github.com/lucaboesch/moodle-qtype_uml_originalfork
+maintainers:
+- github: lucaboesch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

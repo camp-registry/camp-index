@@ -1,0 +1,11 @@
+component: auth_suap
+source: https://github.com/suap-ava-suite/moodle-auth_suap
+maintainers:
+- github: suap-ava-suite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin de autenticacao via OAuth2 do SUAP. Faz o login no Moodle e sincroniza
+  dados do usuario, foto e campos de perfil customizados.

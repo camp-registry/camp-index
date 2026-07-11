@@ -1,0 +1,11 @@
+component: qtype_graphchecker
+source: https://github.com/graphchecker/moodle-qtype_graphchecker
+maintainers:
+- github: graphchecker
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'GraphChecker: Moodle plugin that automatically grades graph answers, based
+  on CodeRunner'

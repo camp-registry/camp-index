@@ -1,0 +1,10 @@
+component: report_usersgrades
+source: https://github.com/davidherney/moodle-report_usersgrades
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Report to show the list of users and their grades in all courses.

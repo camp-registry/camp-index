@@ -1,0 +1,10 @@
+component: block_smartedu
+source: https://github.com/dired-ufla/moodle-block_smartedu
+maintainers:
+- github: dired-ufla
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle LMS block plugin that leverages the potential of AI to enhance education.

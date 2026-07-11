@@ -1,0 +1,11 @@
+component: quizaccess_addreview
+source: https://github.com/dthies/moodle-quizaccess_addreview
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle quiz access rule that allows students that missed the close date to
+  still review the general feedback

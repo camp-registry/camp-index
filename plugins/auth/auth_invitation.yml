@@ -1,0 +1,11 @@
+component: auth_invitation
+source: https://github.com/innocampus/moodle-auth_invitation
+maintainers:
+- github: innocampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Invitation-based self-registration authentication plugin for Moodle, allowing
+  only invited users to sign up for an account.

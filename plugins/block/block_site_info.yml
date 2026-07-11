@@ -1,0 +1,10 @@
+component: block_site_info
+source: https://github.com/suap-moodletheme-suite/moodle-block_site_info
+maintainers:
+- github: suap-moodletheme-suite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle site info block

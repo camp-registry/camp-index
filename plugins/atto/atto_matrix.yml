@@ -1,0 +1,10 @@
+component: atto_matrix
+source: https://github.com/geoffrowland/moodle-editor_atto-matrix
+maintainers:
+- github: geoffrowland
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Atto Editor plugin for Matrices using TeX/MathJax

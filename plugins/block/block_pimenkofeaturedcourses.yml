@@ -1,0 +1,10 @@
+component: block_pimenkofeaturedcourses
+source: https://github.com/DigiDago/moodle-block_pimenkofeaturedcourses
+maintainers:
+- github: DigiDago
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block will display a list of courses

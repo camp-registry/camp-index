@@ -1,0 +1,10 @@
+component: mod_aiescape
+source: https://github.com/adamjenkins/moodle-mod_aiescape
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Escape room type scenarios where students go up against an AI

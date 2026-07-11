@@ -1,0 +1,10 @@
+component: local_attendance
+source: https://github.com/srobotta/moodle-local_attendance
+maintainers:
+- github: srobotta
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Track attendance of students in Moodle by having them to enter a quiz.

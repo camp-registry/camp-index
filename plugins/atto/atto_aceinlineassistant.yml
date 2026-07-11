@@ -1,0 +1,10 @@
+component: atto_aceinlineassistant
+source: https://github.com/nmarafo/moodle-atto_aceinlineassistant
+maintainers:
+- github: nmarafo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Atto editor plugin

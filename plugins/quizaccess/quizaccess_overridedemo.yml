@@ -1,0 +1,9 @@
+component: quizaccess_overridedemo
+source: https://github.com/Kashmira9890/moodle-quizaccess_overridedemo
+maintainers:
+- github: Kashmira9890
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

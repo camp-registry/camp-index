@@ -1,0 +1,11 @@
+component: local_lumination
+source: https://github.com/Borjablm/moodle-local_lumination
+maintainers:
+- github: Borjablm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Lumination AI for Moodle — Generate full Moodle courses from documents using
+  AI

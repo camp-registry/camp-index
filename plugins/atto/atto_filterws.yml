@@ -1,0 +1,11 @@
+component: atto_filterws
+source: https://github.com/dpalou/moodle-atto_filterws
+maintainers:
+- github: dpalou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for Atto. It makes it easier to include WebService filter tags
+  in the content.

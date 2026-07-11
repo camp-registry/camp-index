@@ -1,0 +1,13 @@
+component: enrol_gapplya
+source: https://github.com/xseon/moodle-enrol_gapplya
+maintainers:
+- github: xseon
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: '"Enrolment Request" is a powerful, enterprise-grade enrollment plugin for
+  Moodle. It allows institutions to manage course applications with dynamic custom
+  forms, strict approval workflows, and comprehensive audit trails.  This plugin is
+  a majorly extended and completely refactored version of the ori'

@@ -1,0 +1,10 @@
+component: mod_messagestream
+source: https://github.com/bytesparrow/moodle-mod_messagestream
+maintainers:
+- github: bytesparrow
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle activity for using the interactive stream

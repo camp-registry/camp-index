@@ -1,0 +1,11 @@
+component: availability_maxviews
+source: https://github.com/danielneis/moodle-availability_maxviews
+maintainers:
+- github: danielneis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An availability condition for Moodle that limits the number of views of an
+  activity by users

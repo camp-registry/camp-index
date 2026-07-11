@@ -1,0 +1,10 @@
+component: report_upgradelog
+source: https://github.com/paulholden/moodle-report_upgradelog
+maintainers:
+- github: paulholden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle report plugin to display upgrade history

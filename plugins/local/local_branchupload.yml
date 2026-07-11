@@ -1,0 +1,13 @@
+component: local_branchupload
+source: https://github.com/eledia/moodle-local_branchupload
+maintainers:
+- github: eledia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Branch Office User Upload is a Moodle local plugin that delegates user provisioning
+  to the people closest to the data. Designated branch representatives upload a simple
+  CSV of employees, see a colour-coded preview, and confirm — and the plugin enforces
+  that they can only ever touch users belonging t

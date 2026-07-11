@@ -1,0 +1,10 @@
+component: format_cards
+source: https://github.com/Vidalia/moodle-format_cards
+maintainers:
+- github: Vidalia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle cards format

@@ -1,0 +1,11 @@
+component: theme_tricks
+source: https://github.com/citricity/moodle-theme_tricks
+maintainers:
+- github: citricity
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle theme tricks is a demo of a few tricks you can use to alter the behaviour
+  of moodle without hacking core

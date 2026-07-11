@@ -1,0 +1,9 @@
+component: block_naplan_results_report
+source: https://github.com/VeronicaVB/moodle-block_naplan_results_report
+maintainers:
+- github: VeronicaVB
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

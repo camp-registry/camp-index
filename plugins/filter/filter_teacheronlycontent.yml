@@ -1,0 +1,10 @@
+component: filter_teacheronlycontent
+source: https://github.com/cmmedu/moodle-filter-teacheronlycontent
+maintainers:
+- github: cmmedu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle plugin to create content not visible for student on activities

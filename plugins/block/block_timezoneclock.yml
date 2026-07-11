@@ -1,0 +1,10 @@
+component: block_timezoneclock
+source: https://github.com/harshil8595/moodle-block_timezoneclock
+maintainers:
+- github: harshil8595
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block plugin for viewing/converting time in different timezones

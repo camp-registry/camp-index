@@ -1,0 +1,9 @@
+component: auth_antihammer
+source: https://github.com/sebsoftnl/moodle-auth_antihammer
+maintainers:
+- github: sebsoftnl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

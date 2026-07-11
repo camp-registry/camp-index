@@ -1,0 +1,11 @@
+component: datafield_longtext
+source: https://github.com/bambuco/moodle-datafield_longtext
+maintainers:
+- github: bambuco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A data field type component to moodle. Write long text controlling the max
+  chars.

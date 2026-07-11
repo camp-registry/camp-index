@@ -1,0 +1,11 @@
+component: mod_codeframe
+source: https://github.com/yerodigo-cell/moodle-mod_codeframe
+maintainers:
+- github: yerodigo-cell
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A smart, responsive iframe/HTML wrapper activity module for Moodle 4.x/5.x
+  with automatic completion tracking for custom HTML5 packages and Genially.

@@ -1,0 +1,11 @@
+component: block_quickcourselist
+source: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-block_quickcourselist
+maintainers:
+- github: Lesterhuis-Training-en-Consultancy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block allows quick searching of Moodle courses, and displays a link
+  to the course page.

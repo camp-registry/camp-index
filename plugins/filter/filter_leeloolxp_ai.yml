@@ -1,0 +1,11 @@
+component: filter_leeloolxp_ai
+source: https://github.com/anayleeloolxp/moodle-filter_leeloolxp_ai
+maintainers:
+- github: anayleeloolxp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Leeloo LXP AI Data Filter allows you to use shortcodes to show the content
+  created from LeelooLXP AI.

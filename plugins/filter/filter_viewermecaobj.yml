@@ -1,0 +1,12 @@
+component: filter_viewermecaobj
+source: https://github.com/marmotteabbas/moodle-filter-viewermecaobj
+maintainers:
+- github: marmotteabbas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Viewermecaobj is a simple filter wich allows to create an interactive STL
+  viewer by replacing a stl (moodle) url in an text editor by a viewer of this STL
+  object.

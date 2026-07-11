@@ -1,0 +1,10 @@
+component: format_singleactivity
+source: https://github.com/marinaglancy/moodle-format_singleactivity
+maintainers:
+- github: marinaglancy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Course format showing one module as the course

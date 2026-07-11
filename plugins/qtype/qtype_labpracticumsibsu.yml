@@ -1,0 +1,10 @@
+component: qtype_labpracticumsibsu
+source: https://github.com/yurinskiy/moodle-qtype_labpracticumsibsu
+maintainers:
+- github: yurinskiy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Тип вопроса "Лабораторный практикум СибГУ" Moodle

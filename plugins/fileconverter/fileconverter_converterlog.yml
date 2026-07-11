@@ -1,0 +1,9 @@
+component: fileconverter_converterlog
+source: https://github.com/justusdieckmann/moodle-fileconverter_converterlog
+maintainers:
+- github: justusdieckmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

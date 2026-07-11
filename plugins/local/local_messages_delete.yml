@@ -1,0 +1,9 @@
+component: local_messages_delete
+source: https://github.com/yurinskiy/moodle-local_messages_delete
+maintainers:
+- github: yurinskiy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

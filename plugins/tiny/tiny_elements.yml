@@ -1,0 +1,11 @@
+component: tiny_elements
+source: https://github.com/bycs-lp/moodle-tiny_elements
+maintainers:
+- github: bycs-lp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a fork of tiny_c4l (https://github.com/reskit/moodle-tiny_c4l) which
+  allows you to easily set up your custom components

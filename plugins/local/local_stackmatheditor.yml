@@ -1,0 +1,9 @@
+component: local_stackmatheditor
+source: https://github.com/ralferlebach/moodle-local_stackmatheditor
+maintainers:
+- github: ralferlebach
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: qtype_essay
+source: https://github.com/LdesignMedia/moodle-qtype_essay
+maintainers:
+- github: LdesignMedia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Edit answer inline reviewing | Tested in Moodle 3.6

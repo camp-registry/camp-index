@@ -1,0 +1,12 @@
+component: local_quicknote
+source: https://github.com/Matheu46/moodle-local_quicknote
+maintainers:
+- github: Matheu46
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Help students study better without leaving Moodle. QuickNote lets learners
+  capture quotes, write notes in a native sidebar, and jump right back to the original
+  text.

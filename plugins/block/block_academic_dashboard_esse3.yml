@@ -1,0 +1,9 @@
+component: block_academic_dashboard_esse3
+source: https://github.com/Universita-di-Ferrara/moodle-block_academic_dashboard_esse3
+maintainers:
+- github: Universita-di-Ferrara
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

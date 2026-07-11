@@ -1,0 +1,11 @@
+component: availability_ip
+source: https://github.com/innocampus/moodle-availability_ip
+maintainers:
+- github: innocampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Availability plugin for Moodle making it possible to restrict access to activities
+  and sections by IP address.

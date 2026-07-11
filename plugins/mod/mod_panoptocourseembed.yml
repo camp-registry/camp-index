@@ -1,0 +1,11 @@
+component: mod_panoptocourseembed
+source: https://github.com/Panopto/moodle-mod_panoptocourseembed
+maintainers:
+- github: Panopto
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This repo is the production version of the Moodle Panopto Course Embed tool.
+  This tool will allow users to directly embed Panopto content into course view pages.

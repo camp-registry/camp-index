@@ -1,0 +1,11 @@
+component: report_filetrash
+source: https://github.com/elearningstudio/moodle-report_filetrash
+maintainers:
+- github: elearningstudio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Utility for viewing and deleting orphaned files from the data and/or backup
+  folder

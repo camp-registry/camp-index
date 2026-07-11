@@ -1,0 +1,9 @@
+component: theme_ikbfu
+source: https://github.com/dex0313/moodle-theme_ikbfu
+maintainers:
+- github: dex0313
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

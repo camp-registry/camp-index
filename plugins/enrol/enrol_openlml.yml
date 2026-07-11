@@ -1,0 +1,11 @@
+component: enrol_openlml
+source: https://github.com/fschuett/moodle-enrol_openlml
+maintainers:
+- github: fschuett
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: enrolment plugin for moodle from 2.x to autoenrol in conjunction with the
+  open linuxmuster.net school server

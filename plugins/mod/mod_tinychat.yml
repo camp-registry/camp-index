@@ -1,0 +1,10 @@
+component: mod_tinychat
+source: https://github.com/antriver/moodle-mod_tinychat
+maintainers:
+- github: antriver
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Video conference activity module for Moodle, powered by Tinychat.com

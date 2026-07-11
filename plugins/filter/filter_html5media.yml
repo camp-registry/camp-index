@@ -1,0 +1,11 @@
+component: filter_html5media
+source: https://github.com/dredix84/moodle-filter_html5media
+maintainers:
+- github: dredix84
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A filter which encode media files supported by HTML 5 to the HTML 5 standard
+  of embeding meida content.

@@ -1,0 +1,11 @@
+component: report_ejsappinteractions
+source: https://github.com/UNEDLabs/moodle-report_ejsappinteractions
+maintainers:
+- github: UNEDLabs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle report plugin for displaying information about the users interactions
+  with the labs in EJSApp activities

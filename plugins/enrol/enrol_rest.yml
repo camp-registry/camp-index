@@ -1,0 +1,9 @@
+component: enrol_rest
+source: https://github.com/jacano-elearning/moodle-enrol_rest
+maintainers:
+- github: jacano-elearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

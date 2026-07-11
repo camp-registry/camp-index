@@ -1,0 +1,9 @@
+component: block_catquiz_statistics
+source: https://github.com/ralferlebach/moodle-block_catquiz_statistics
+maintainers:
+- github: ralferlebach
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

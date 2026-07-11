@@ -1,0 +1,12 @@
+component: block_course_calculator
+source: https://github.com/tonijoki/moodle-block_course_calculator
+maintainers:
+- github: tonijoki
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block plugin that provides basic and scientific calculators for course
+  and activity pages. Designed to stay available in block regions while learners work
+  in Moodle.

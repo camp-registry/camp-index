@@ -1,0 +1,10 @@
+component: enrol_shebang
+source: https://github.com/appalachianstate/moodle-enrol_shebang
+maintainers:
+- github: appalachianstate
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle enrollment plug-in for Ellucian Banner / LMB (Luminis Message Broker)

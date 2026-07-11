@@ -1,0 +1,10 @@
+component: auth_external
+source: https://github.com/s-lorbek/moodle-auth_external
+maintainers:
+- github: s-lorbek
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Authentication Plugin for External Users

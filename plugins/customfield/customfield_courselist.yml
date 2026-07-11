@@ -1,0 +1,9 @@
+component: customfield_courselist
+source: https://github.com/emeneo/moodle-customfield_courselist
+maintainers:
+- github: emeneo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

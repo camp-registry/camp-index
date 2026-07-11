@@ -1,0 +1,9 @@
+component: atto_bsgrid
+source: https://github.com/academic-moodle-cooperation/moodle-atto_bsgrid
+maintainers:
+- github: academic-moodle-cooperation
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

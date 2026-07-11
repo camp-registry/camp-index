@@ -1,0 +1,11 @@
+component: tinymce_eomarvin2dstudent
+source: https://github.com/cleblond/moodle-tinymce_eomarvin2dstudent
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle TinylMCE plugin for building 2D structures and reaction scheme.  Requires
+  filter_marvintinymcestudent

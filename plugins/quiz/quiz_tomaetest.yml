@@ -1,0 +1,11 @@
+component: quiz_tomaetest
+source: https://github.com/Tomax-Think-Academy/moodle-quizreport_tomaetest
+maintainers:
+- github: Tomax-Think-Academy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle proctoring  monitor plugin to enhance exam motoring and report for  the
+  Tomax moodle-quizaccess_tomaetest plugin

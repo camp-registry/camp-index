@@ -1,0 +1,11 @@
+component: report_coursesstatus
+source: https://github.com/davidherney/moodle-report_coursesstatus
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle admin report. Show the list of courses and some information about
+  these.

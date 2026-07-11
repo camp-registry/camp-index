@@ -1,0 +1,10 @@
+component: local_leducon
+source: https://github.com/Liberty8789/moodle-local_leducon
+maintainers:
+- github: Liberty8789
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle LMS plugin - LedUcon Analytics & Management (local_leducon)

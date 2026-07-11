@@ -1,0 +1,10 @@
+component: auth_ldap_instances
+source: https://github.com/loewis/moodle-auth_ldap_instances
+maintainers:
+- github: loewis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Template moodle plugin to allow multiple instances of auth_ldap_syncplus

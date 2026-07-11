@@ -1,0 +1,13 @@
+component: local_virtuallab
+source: https://github.com/jeanlucio/moodle-local_virtuallab
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Lab Virtual (local_labvirtual) is a Moodle local plugin for batch creation
+  and lifecycle management of sandbox lab courses, organised into batches (one per
+  class or discipline), with a self-service student panel so students can pick and
+  join their workspace without any admin intervention each semest

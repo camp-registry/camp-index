@@ -1,0 +1,11 @@
+component: mod_treasurehunt
+source: https://github.com/juacas/moodle-mod_treasurehunt
+maintainers:
+- github: juacas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Activity module for Moodle that allows to run outdoor treasure-chases with
+  geolocation and QR codes

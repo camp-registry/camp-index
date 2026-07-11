@@ -1,0 +1,9 @@
+component: enrol_ldapgroup
+source: https://github.com/UGA-DAPI/moodle_enrol_ldapgroup
+maintainers:
+- github: UGA-DAPI
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

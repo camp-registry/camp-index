@@ -1,0 +1,10 @@
+component: enrol_leap
+source: https://github.com/sdc/moodle-enrol_leap
+maintainers:
+- github: sdc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Leap enrolment plugin for Moodle 2.7 or better.

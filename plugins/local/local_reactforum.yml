@@ -1,0 +1,10 @@
+component: local_reactforum
+source: https://github.com/ponlawat-w/moodle-local_reactforum
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Reactions on forum posts

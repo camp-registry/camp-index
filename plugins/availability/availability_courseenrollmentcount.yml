@@ -1,0 +1,11 @@
+component: availability_courseenrollmentcount
+source: https://github.com/tinjohn/moodle-availability_courseenrollmentcount
+maintainers:
+- github: tinjohn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Availability of moodle activities requires students to be enrolled in a certain
+  number of courses.

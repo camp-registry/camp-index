@@ -1,0 +1,10 @@
+component: mod_wikifilter
+source: https://github.com/StudiUM/moodle-mod_wikifilter
+maintainers:
+- github: StudiUM
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle mod_wikifilter plugin

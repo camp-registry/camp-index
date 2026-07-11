@@ -1,0 +1,9 @@
+component: block_aws_email_analytics
+source: https://github.com/NASMAK-Technologies/moodle-block_aws_email_analytics
+maintainers:
+- github: NASMAK-Technologies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

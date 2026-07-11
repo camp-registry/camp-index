@@ -1,0 +1,11 @@
+component: tool_langpackdropper
+source: https://github.com/lernlink/moodle-tool_langpackdropper
+maintainers:
+- github: lernlink
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle admin tool to download and update language packs which are not located
+  / maintained in AMOS.

@@ -1,0 +1,10 @@
+component: local_relationship
+source: https://github.com/UFSC/moodle-local-relationship
+maintainers:
+- github: UFSC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Gerencia relacionamentos entre pessoas através de cohorts com papéis

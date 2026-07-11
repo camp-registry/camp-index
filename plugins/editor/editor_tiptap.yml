@@ -1,0 +1,10 @@
+component: editor_tiptap
+source: https://github.com/moodle-by-kelsoncm/editor_tiptap
+maintainers:
+- github: moodle-by-kelsoncm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A TipTap editor plugin for Moodle

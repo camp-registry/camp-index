@@ -1,0 +1,11 @@
+component: profilefield_limitrequired
+source: https://github.com/1katoda/moodle-profilefield_limitrequired
+maintainers:
+- github: 1katoda
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle profile field plugin that allows limiting the required flag by user
+  id, auth type or enrolled courses.

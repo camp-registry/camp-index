@@ -1,0 +1,9 @@
+component: theme_ned_boost
+source: https://github.com/gjb2048/moodle-theme_ned_boost
+maintainers:
+- github: gjb2048
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

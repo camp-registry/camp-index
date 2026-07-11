@@ -1,0 +1,10 @@
+component: block_quiz_progress
+source: https://github.com/vfremaux/moodle-block_quiz_progress
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that plots graphically score evolution in successive quiz attempts

@@ -1,0 +1,9 @@
+component: report_mystudent
+source: https://github.com/cgs-ets/moodle-report_mystudent
+maintainers:
+- github: cgs-ets
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

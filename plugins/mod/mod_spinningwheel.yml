@@ -1,0 +1,11 @@
+component: mod_spinningwheel
+source: https://github.com/andreajuettner/moodle-mod_spinningwheel
+maintainers:
+- github: andreajuettner
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 5+ Spinning wheel activity module - random selection via animated
+  spinning wheel

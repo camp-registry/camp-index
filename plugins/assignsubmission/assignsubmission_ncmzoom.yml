@@ -1,0 +1,10 @@
+component: assignsubmission_ncmzoom
+source: https://github.com/navitaslts/moodle-assignsubmission_ncmzoom
+maintainers:
+- github: navitaslts
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Zoom Cloud Recording Submission

@@ -1,0 +1,11 @@
+component: mod_streak
+source: https://github.com/solin-repo/moodle-mod_streak
+maintainers:
+- github: solin-repo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'A Moodle activity module that adds a daily-practice learning streak to a
+  course: per-learner streak counter, streak freeze, reminders, and a per-course leaderboard.'

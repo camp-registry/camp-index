@@ -1,0 +1,11 @@
+component: qtype_linkerdesc
+source: https://github.com/fontinixxl/moodle-qtype_linkerdesc
+maintainers:
+- github: fontinixxl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This question type is used as common statement of a Quiz module. It allows
+  to create random variables to be used by qtype_programmedresp.

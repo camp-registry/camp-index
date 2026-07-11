@@ -1,0 +1,11 @@
+component: report_forumkeywords
+source: https://github.com/ctchanandy/moodle-report_forumkeywords
+maintainers:
+- github: ctchanandy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Forum Keywords Report extract keywords from all posts in am Moodle Forum
+  and generate a word cloud

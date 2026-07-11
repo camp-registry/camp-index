@@ -1,0 +1,11 @@
+component: block_temporary_enrolments
+source: https://github.com/LafColITS/moodle-block_temporary_enrolments
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: '[RETIRED] A block that displays user enrolments marked as temporary by the
+  Temporary Enrolments module.'

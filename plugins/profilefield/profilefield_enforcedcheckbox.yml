@@ -1,0 +1,11 @@
+component: profilefield_enforcedcheckbox
+source: https://github.com/OsamahDev1/moodle-profilefield_enforcedcheckbox
+maintainers:
+- github: OsamahDev1
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enforced Checkbox user profile field for Moodle with validation and policy
+  display

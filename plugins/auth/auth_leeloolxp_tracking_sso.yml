@@ -1,0 +1,10 @@
+component: auth_leeloolxp_tracking_sso
+source: https://github.com/anayleeloolxp/moodle-auth_leeloolxp_tracking_sso
+maintainers:
+- github: anayleeloolxp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Leeloo LXP SSO - It acts as a Login and Identity provider for Leeloo LXP.

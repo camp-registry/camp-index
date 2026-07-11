@@ -1,0 +1,10 @@
+component: mod_panoptosubmission
+source: https://github.com/Panopto/moodle-mod_panoptosubmission
+maintainers:
+- github: Panopto
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This repo contains the Moodle Panopto Student Submission activity module.

@@ -1,0 +1,12 @@
+component: mod_topomojo
+source: https://github.com/cmu-sei/moodle-mod_topomojo
+maintainers:
+- github: cmu-sei
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: mod_topomojo is an activity plugin that allows TopoMojo labs and exercises
+  to be accessed from Moodle. The plugin will pull and display the markdown and challenge
+  questions inside of the Moodle activity.

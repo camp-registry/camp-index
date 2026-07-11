@@ -1,0 +1,10 @@
+component: search_solrrag
+source: https://github.com/mhughes2k/moodle-search_solrrag
+maintainers:
+- github: mhughes2k
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: SOLR Search Engine for Moodle Global Search with RAG support.

@@ -1,0 +1,10 @@
+component: tiny_medial
+source: https://github.com/streamingltd/moodle-tiny_medial
+maintainers:
+- github: streamingltd
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle TinyMCE 6+ Editor Plugin for MEDIAL

@@ -1,0 +1,10 @@
+component: format_sections
+source: https://github.com/UniversityofCanterbury/moodle-format_sections
+maintainers:
+- github: UniversityofCanterbury
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 2 course format - single section

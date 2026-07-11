@@ -1,0 +1,11 @@
+component: tiny_filterws
+source: https://github.com/dpalou/moodle-tiny_filterws
+maintainers:
+- github: dpalou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to add a button in TinyMCE editor to make it easier to apply
+  the WebService filter.

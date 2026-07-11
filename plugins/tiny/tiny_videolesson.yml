@@ -1,0 +1,11 @@
+component: tiny_videolesson
+source: https://github.com/mooplugins/moodle-tiny_videolesson
+maintainers:
+- github: mooplugins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: TinyMCE editor plugin for Moodle™ that allows inserting Video Lesson content
+  directly into the text editor.

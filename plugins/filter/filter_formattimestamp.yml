@@ -1,0 +1,9 @@
+component: filter_formattimestamp
+source: https://github.com/andrewhancox/moodle-filter_formattimestamp
+maintainers:
+- github: andrewhancox
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

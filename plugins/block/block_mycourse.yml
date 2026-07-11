@@ -1,0 +1,11 @@
+component: block_mycourse
+source: https://github.com/shivaneshlal/moodle-block_mycourse
+maintainers:
+- github: shivaneshlal
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin block organizes courses into corresponding years based on the
+  course start date and displays courses by year in tabs.

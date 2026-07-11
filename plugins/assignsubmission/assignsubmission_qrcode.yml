@@ -1,0 +1,10 @@
+component: assignsubmission_qrcode
+source: https://github.com/michaelpollak/moodle-assignsubmission_qrcode
+maintainers:
+- github: michaelpollak
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allow your students to submit a task by finding a QR Code out in the wild.

@@ -1,0 +1,10 @@
+component: profilefield_signnatonesix
+source: https://github.com/davidpesce/moodle-profilefield_signnatonesix
+maintainers:
+- github: davidpesce
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: DawnSignPress custom profile field for the Signing Naturally 1-6 product.

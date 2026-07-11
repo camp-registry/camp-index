@@ -1,0 +1,10 @@
+component: tool_calllearning
+source: https://github.com/call-learning/moodle-tool_calllearning
+maintainers:
+- github: call-learning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: General tools for development (Moodle)

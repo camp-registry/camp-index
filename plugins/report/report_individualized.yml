@@ -1,0 +1,10 @@
+component: report_individualized
+source: https://github.com/Jeremie17/moodle-report_individualized
+maintainers:
+- github: Jeremie17
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Individualized student report plugin for Moodle 5

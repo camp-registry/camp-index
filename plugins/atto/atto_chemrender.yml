@@ -1,0 +1,10 @@
+component: atto_chemrender
+source: https://github.com/ucla/moodle-atto_chemrender
+maintainers:
+- github: ucla
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle-atto_chemrender

@@ -1,0 +1,11 @@
+component: local_edc_exporter
+source: https://github.com/Skillsdivers/moodle-local_edc_exporter
+maintainers:
+- github: Skillsdivers
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin for Moodle  to allow the LMS to create credentials ready to be signed
+  according to European Digital Credential - compatible JSON

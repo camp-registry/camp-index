@@ -1,0 +1,11 @@
+component: assignsubmission_bloboffload
+source: https://github.com/danielmccluskey/moodle-assignsubmission_bloboffload
+maintainers:
+- github: danielmccluskey
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Offload student submissions to an Azure Blob Storage Container to properly
+  handle data lifecycles and reduce costs.

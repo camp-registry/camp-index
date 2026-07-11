@@ -1,0 +1,9 @@
+component: availability_badge
+source: https://github.com/bapool/moodle-availability_badge
+maintainers:
+- github: bapool
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

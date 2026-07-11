@@ -1,0 +1,12 @@
+component: tool_upmon
+source: https://github.com/fharju613/moodle-tool_upmon
+maintainers:
+- github: fharju613
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle admin tool plugin that integrates with the UptimeRobot monitoring
+  service (free or paid) to monitor your Moodle site's availability, cron health,
+  and maintenance mode status.

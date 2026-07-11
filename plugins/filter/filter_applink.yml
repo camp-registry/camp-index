@@ -1,0 +1,11 @@
+component: filter_applink
+source: https://github.com/dpalou/moodle-filter_applink
+maintainers:
+- github: dpalou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle filter plugin. It makes easier to create links to open the Moodle
+  app.

@@ -1,0 +1,10 @@
+component: format_flexible
+source: https://github.com/opitz/moodle-format_flexible
+maintainers:
+- github: opitz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A new version of the flexible course format for Moodle 4.3+

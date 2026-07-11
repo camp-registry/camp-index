@@ -1,0 +1,9 @@
+component: qtype_multichoicegrid
+source: https://github.com/call-learning/moodle-qtype_multichoicegrid
+maintainers:
+- github: call-learning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

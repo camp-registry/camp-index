@@ -1,0 +1,10 @@
+component: repository_maor
+source: https://github.com/nadavkav/moodle-repository_maor
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Maor (Merlot) repository (http://maor.iucc.ac.il)

@@ -1,0 +1,11 @@
+component: datafield_emailnotification
+source: https://github.com/davidherney/moodle-datafield_emailnotification
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A data field type component to moodle. Send a email notification when a record
+  is created or updated.

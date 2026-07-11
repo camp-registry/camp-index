@@ -1,0 +1,11 @@
+component: local_coursereport
+source: https://github.com/jlb224/moodle-local_coursereport
+maintainers:
+- github: jlb224
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local plugin for Moodle that reports on the course completion status of
+  different users across the courses in which they are enrolled.

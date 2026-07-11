@@ -1,0 +1,11 @@
+component: qtype_mojomatch
+source: https://github.com/cmu-sei/moodle-qtype_mojomatch
+maintainers:
+- github: cmu-sei
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: qtype_mojomatch is a question type plugin that allows Moodle to access, store
+  and grade challenge questions created on TopoMojo labs.

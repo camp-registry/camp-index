@@ -1,0 +1,11 @@
+component: tinymce_moodlelang2
+source: https://github.com/iarenaza/moodle-tinymce_moodlelang2
+maintainers:
+- github: iarenaza
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin will add a drop down menu to the TinyMCE text editor in Moodle
+  that allows to add language tags to the selected content

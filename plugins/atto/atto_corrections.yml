@@ -1,0 +1,10 @@
+component: atto_corrections
+source: https://github.com/ndunand/moodle-atto_corrections
+maintainers:
+- github: ndunand
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Inline corrections for Moodle Atto text editor

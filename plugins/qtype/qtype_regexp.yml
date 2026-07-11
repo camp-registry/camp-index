@@ -1,0 +1,10 @@
+component: qtype_regexp
+source: https://github.com/rezeau/moodle-qtype_regexp
+maintainers:
+- github: rezeau
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: regular expression short answer question type

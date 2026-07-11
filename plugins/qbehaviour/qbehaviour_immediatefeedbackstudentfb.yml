@@ -1,0 +1,11 @@
+component: qbehaviour_immediatefeedbackstudentfb
+source: https://github.com/SnakyJake/moodle-qbehaviour_immediatefeedbackstudentfb
+maintainers:
+- github: SnakyJake
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: like qbehaviour_immediatefeedback, but students can give feedback to the
+  question or report errors

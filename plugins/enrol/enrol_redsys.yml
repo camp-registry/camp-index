@@ -1,0 +1,10 @@
+component: enrol_redsys
+source: https://github.com/harregoces/moodle-enrol-redsys
+maintainers:
+- github: harregoces
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Redsys is a payment gateway service from Spain.

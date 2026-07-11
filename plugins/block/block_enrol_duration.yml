@@ -1,0 +1,10 @@
+component: block_enrol_duration
+source: https://github.com/nrobbins/moodle_block_enrol_duration
+maintainers:
+- github: nrobbins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Shows the days remaining in the user's course enrolment

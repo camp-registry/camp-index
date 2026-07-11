@@ -1,0 +1,10 @@
+component: qtype_answersheet
+source: https://github.com/bmbrands/moodle-qtype_answersheet
+maintainers:
+- github: bmbrands
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Answersheet format with configurator

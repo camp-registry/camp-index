@@ -1,0 +1,9 @@
+component: block_vitrinadb
+source: https://github.com/harble/moodle-blocks-vitrinadb
+maintainers:
+- github: harble
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

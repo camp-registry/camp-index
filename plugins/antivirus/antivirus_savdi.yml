@@ -1,0 +1,10 @@
+component: antivirus_savdi
+source: https://github.com/jonof/moodle-antivirus_savdi
+maintainers:
+- github: jonof
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Sophos SAVDI antivirus plugin for Moodle

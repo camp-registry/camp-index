@@ -1,0 +1,10 @@
+component: local_aplcore
+source: https://github.com/vfremaux/moodle-local_aplcore
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Core shared libraries for APL plugins (code protected version)

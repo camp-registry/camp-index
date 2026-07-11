@@ -1,0 +1,10 @@
+component: block_search
+source: https://github.com/vfremaux/moodle-block_search
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: the legacy global search engine rebuilt for Moodle 2

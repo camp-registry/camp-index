@@ -1,0 +1,10 @@
+component: format_recurring
+source: https://github.com/elearningstudio/moodle-format_recurring
+maintainers:
+- github: elearningstudio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Recurring course format

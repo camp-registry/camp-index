@@ -1,0 +1,10 @@
+component: datafield_multifile
+source: https://github.com/mhughes2k/moodle-datafield_multifile
+maintainers:
+- github: mhughes2k
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Database Activity File Field that supports multiple files.

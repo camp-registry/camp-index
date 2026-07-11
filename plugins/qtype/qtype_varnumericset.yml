@@ -1,0 +1,12 @@
+component: qtype_varnumericset
+source: https://github.com/moodleou/moodle-qtype_varnumericset
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Question type for Moodle - for numeric questions with variable and expression
+  evaluation. All values are precalculated although a question can have several variants
+  with different variable values for each variant.

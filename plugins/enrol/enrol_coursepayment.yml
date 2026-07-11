@@ -1,0 +1,11 @@
+component: enrol_coursepayment
+source: https://github.com/avetica/moodle-enrol_coursepayment
+maintainers:
+- github: avetica
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: With this plugin you can sell courses to your moodle users. There is also
+  a availability plugin available.

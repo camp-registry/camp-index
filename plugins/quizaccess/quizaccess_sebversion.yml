@@ -1,0 +1,11 @@
+component: quizaccess_sebversion
+source: https://github.com/PhilippImhof/moodle-quizaccess_sebversion
+maintainers:
+- github: PhilippImhof
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Access rule plugin for the Moodle LMS allowing teachers to enforce a minimum
+  version of the Safe Exam Browser for their quiz.

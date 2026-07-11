@@ -1,0 +1,10 @@
+component: block_muprogmyoverview
+source: https://github.com/mutms/moodle-block_muprogmyoverview
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MuTMS My programs overview page for Moodle™ LMS

@@ -1,0 +1,12 @@
+component: report_aicoursesummary
+source: https://github.com/infinitail/moodle-report_aicoursesummary-public
+maintainers:
+- github: infinitail
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a plugin that uses LLM to provide written feedback on quiz results
+  within Moodle courses. The development of this plugin is supported by a 2024 research
+  and development grant from the Moodle Association of Japan.

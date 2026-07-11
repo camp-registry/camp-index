@@ -1,0 +1,9 @@
+component: theme_moodlemoot
+source: https://github.com/willianmano/moodle-theme_moodlemoot
+maintainers:
+- github: willianmano
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

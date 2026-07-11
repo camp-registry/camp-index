@@ -1,0 +1,11 @@
+component: report_editgroups
+source: https://github.com/moodleou/moodle-report_editgroups
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This 'report' is actually a tool to let you edit all the groups in a course
+  on one page.

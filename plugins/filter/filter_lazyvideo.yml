@@ -1,0 +1,10 @@
+component: filter_lazyvideo
+source: https://github.com/brum1975/moodle-filter_lazyvideo
+maintainers:
+- github: brum1975
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Filter To Lazy Load YouTube Videos

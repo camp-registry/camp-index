@@ -1,0 +1,10 @@
+component: block_newsslider
+source: https://github.com/Learnymag/moodle-block_newsslider
+maintainers:
+- github: Learnymag
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin's repository

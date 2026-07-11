@@ -1,0 +1,10 @@
+component: tool_my_external_backup_restore_courses
+source: https://github.com/cperves/moodle-tool_my_external_backup_restore_courses
+maintainers:
+- github: cperves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle admin tool for block my_external_backup_restore_courses

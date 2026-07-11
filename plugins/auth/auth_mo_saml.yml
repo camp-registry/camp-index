@@ -1,0 +1,10 @@
+component: auth_mo_saml
+source: https://github.com/miniOrangeDev/moodle-auth_mo_saml
+maintainers:
+- github: miniOrangeDev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: miniOrange moodle SAML plugin

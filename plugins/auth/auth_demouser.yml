@@ -1,0 +1,10 @@
+component: auth_demouser
+source: https://github.com/UniGe/moodle-auth_demouser
+maintainers:
+- github: UniGe
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Self registered user with minimal data for a demo site

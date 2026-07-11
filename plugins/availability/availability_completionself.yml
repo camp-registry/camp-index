@@ -1,0 +1,11 @@
+component: availability_completionself
+source: https://github.com/ragart/moodle-availability_completionself
+maintainers:
+- github: ragart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle availability method that allows restricting access to a module based
+  on its own completion status

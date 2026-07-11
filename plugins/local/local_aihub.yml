@@ -1,0 +1,13 @@
+component: local_aihub
+source: https://github.com/jeanlucio/moodle-local_aihub
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: AI Hub is a small BYOK (bring your own key) broker for Moodle. It lets the
+  institution's own plugins generate text through shared AI API keys, without each
+  plugin reimplementing the HTTP transport, the SSRF guard, the provider ladder or
+  a key store.

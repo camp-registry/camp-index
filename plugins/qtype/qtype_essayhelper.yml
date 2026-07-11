@@ -1,0 +1,10 @@
+component: qtype_essayhelper
+source: https://github.com/Padreik/moodle-qtype_essayhelper
+maintainers:
+- github: Padreik
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Question type for Moodle essay correction helper

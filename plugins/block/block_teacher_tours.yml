@@ -1,0 +1,10 @@
+component: block_teacher_tours
+source: https://github.com/RUB-bschkuhl/moodle-block_teacher_tours
+maintainers:
+- github: RUB-bschkuhl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Create user tours in moodle as a teacher

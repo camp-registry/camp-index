@@ -1,0 +1,10 @@
+component: ltisource_message_handler
+source: https://github.com/wcln/moodle-ltisource_message_handler
+maintainers:
+- github: wcln
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: LTI Message Handler for Moodle

@@ -1,0 +1,11 @@
+component: local_coursefisher
+source: https://github.com/bobopinna/moodle-local_coursefisher
+maintainers:
+- github: bobopinna
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Enable teacher to auto create moodle courses using data from external sources
+  like database, json and csv files

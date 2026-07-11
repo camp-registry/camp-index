@@ -1,0 +1,11 @@
+component: auth_moodlemobile
+source: https://github.com/jleyva/moodle-auth_moodlemobile
+maintainers:
+- github: jleyva
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Authentication plugin used by the Mobile app to check if the Mobile service
+  is enabled and if the site uses SSO plugins

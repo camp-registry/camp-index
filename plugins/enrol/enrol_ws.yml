@@ -1,0 +1,12 @@
+component: enrol_ws
+source: https://github.com/davidherney/moodle-enrol_ws
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The WS REST enrollments moodle plugin allows users to be enrolled via a web
+  services type REST in the course administration settings, by a user with appropriate
+  permissions such as a teacher.

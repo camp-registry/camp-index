@@ -1,0 +1,10 @@
+component: block_checklist
+source: https://github.com/davosmith/moodle-block_checklist
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Checklist block for Moodle - displays output from the checklist activity

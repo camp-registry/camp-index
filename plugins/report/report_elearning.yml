@@ -1,0 +1,10 @@
+component: report_elearning
+source: https://github.com/learnweb/moodle-report_elearning
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: '[wip]'

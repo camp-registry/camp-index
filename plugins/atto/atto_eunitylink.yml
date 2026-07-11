@@ -1,0 +1,10 @@
+component: atto_eunitylink
+source: https://github.com/RVC-Learn-Digital-Team/moodle-atto_eunitylink
+maintainers:
+- github: RVC-Learn-Digital-Team
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Atto editor plugin to support eunity

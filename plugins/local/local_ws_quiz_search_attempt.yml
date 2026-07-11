@@ -1,0 +1,9 @@
+component: local_ws_quiz_search_attempt
+source: https://github.com/mcruzel/moodle-local_ws_quiz_search_attempt
+maintainers:
+- github: mcruzel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

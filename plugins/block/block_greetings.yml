@@ -1,0 +1,11 @@
+component: block_greetings
+source: https://github.com/fliplima/moodle-block-greetings
+maintainers:
+- github: fliplima
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block plugin based on an existing local plugin.  The Greetings local plugin
+  (local_greetings) allows users to post and view greeting messages

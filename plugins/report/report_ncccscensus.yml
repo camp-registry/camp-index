@@ -1,0 +1,10 @@
+component: report_ncccscensus
+source: https://github.com/remotelearner/moodle-report_ncccscensus
+maintainers:
+- github: remotelearner
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Customized version of the report_census for NCCCS

@@ -1,0 +1,9 @@
+component: availability_skills
+source: https://github.com/abinesh-lmsace/moodle-availability_skills
+maintainers:
+- github: abinesh-lmsace
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

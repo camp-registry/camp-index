@@ -1,0 +1,11 @@
+component: auth_cloudflareaccess
+source: https://github.com/obezuk/moodle-auth_cloudflareaccess
+maintainers:
+- github: obezuk
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Proof of Concept authentication for Moodle to support automated single sign
+  on via Cloudflare Access

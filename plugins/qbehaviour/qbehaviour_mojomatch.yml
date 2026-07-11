@@ -1,0 +1,12 @@
+component: qbehaviour_mojomatch
+source: https://github.com/cmu-sei/moodle-qbehaviour_mojomatch
+maintainers:
+- github: cmu-sei
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: qbehaviour_mojomatch is a question behavior plugin that allows Moodle questions
+  to pull dynamic challenge question answers from TopoMojo labs during a live lab
+  attempt.

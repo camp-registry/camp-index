@@ -1,0 +1,10 @@
+component: filter_chart
+source: https://github.com/cleblond/moodle-filter_chart
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Chart filter display and edit dhtmlxcharts in Moodle

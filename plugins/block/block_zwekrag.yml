@@ -1,0 +1,11 @@
+component: block_zwekrag
+source: https://github.com/HSD-ZWEK/moodle-blocks_zwekrag
+maintainers:
+- github: HSD-ZWEK
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: ZWEK RAG – KI-gestützte Kurssuche und -Assistent für Moodle (Block, RAG,
+  Qdrant-Backend). Fork von khairu-aqsara/moodle-blocks_terusrag (GPL v3).

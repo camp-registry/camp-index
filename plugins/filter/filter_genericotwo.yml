@@ -1,0 +1,10 @@
+component: filter_genericotwo
+source: https://github.com/justinhunt/moodle-filter_genericotwo
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Generico Two

@@ -1,0 +1,13 @@
+component: report_lpmonitoring
+source: https://github.com/StudiUM/moodle-report_lpmonitoring
+maintainers:
+- github: StudiUM
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The main goal of this plugin is to facilitate the work of learning plan managers.
+  It provides an overview of user learning plan, without leaving the page to get information
+  related to this learning plan(such as rating in courses,user evidence,). It also
+  offers statistics by learning plans and compet

@@ -1,0 +1,9 @@
+component: block_myoverview_term_filter
+source: https://github.com/learnweb/moodle-block_myoverview_term_filter
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: quizaccess_tomaetest
+source: https://github.com/Tomax-Think-Academy/moodle-quizaccess_tomaetest
+maintainers:
+- github: Tomax-Think-Academy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle proctoring plugin to integrate with Tomax TomaETest proctoring solution

@@ -1,0 +1,13 @@
+component: tiny_studiolms
+source: https://github.com/jeanlucio/moodle-tiny_studiolms
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: StudioLMS is a TinyMCE 6 sub-plugin for Moodle that brings a Canva/Notion-like
+  authoring experience directly into the course editor. Teachers open a native TinyMCE
+  modal and inject rich instructional design blocks — cards, accordions, callout boxes,
+  resource libraries and more — without writing a si

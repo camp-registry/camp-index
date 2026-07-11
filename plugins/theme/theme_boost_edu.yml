@@ -1,0 +1,10 @@
+component: theme_boost_edu
+source: https://github.com/dired-ufla/moodle-theme_boost_edu
+maintainers:
+- github: dired-ufla
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Theme Boost Edu is a child theme of Boost. It adds university-specific customizations.

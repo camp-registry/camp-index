@@ -1,0 +1,12 @@
+component: local_credentium
+source: https://github.com/cloudteampl/moodle-local_credentium
+maintainers:
+- github: cloudteampl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for automated digital credential issuance via Credentium API.
+  Issues microcredentials upon   course completion with multi-tenant support, grade
+  inclusion, and per-category configuration.

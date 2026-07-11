@@ -1,0 +1,11 @@
+component: block_blockseed
+source: https://github.com/amirahkami/moodle-block_blockseed
+maintainers:
+- github: amirahkami
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Reusable Moodle 5+ block plugin boilerplate for quickly scaffolding new block
+  plugin.

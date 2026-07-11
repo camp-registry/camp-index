@@ -1,0 +1,11 @@
+component: assignsubmission_byblos
+source: https://github.com/SATS-Seminary/moodle-assignsubmission_byblos
+maintainers:
+- github: SATS-Seminary
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Byblos portfolio submissions for mod_assign — submit a page or collection,
+  with snapshot / live modes. Requires local_byblos.

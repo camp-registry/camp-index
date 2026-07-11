@@ -1,0 +1,10 @@
+component: format_multitopic
+source: https://github.com/james-cnz/moodle-format_multitopic
+maintainers:
+- github: james-cnz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Shows multiple topics per page, with tabbed navigation between pages.

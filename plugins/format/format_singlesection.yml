@@ -1,0 +1,10 @@
+component: format_singlesection
+source: https://github.com/shadman-ahmed-bs23/moodle-format_singlesection
+maintainers:
+- github: shadman-ahmed-bs23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle course format plugin with single section and multiple activities.

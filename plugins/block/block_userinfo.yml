@@ -1,0 +1,9 @@
+component: block_userinfo
+source: https://github.com/ewallah/moodle_block-userinfo
+maintainers:
+- github: ewallah
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: block_profilespecifichtml
+source: https://github.com/vfremaux/moodle-block_profilespecifichtml
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that provides distinct content wether some value you have in a predefined
+  custom fiedl in your profile

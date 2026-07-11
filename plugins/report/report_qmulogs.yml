@@ -1,0 +1,10 @@
+component: report_qmulogs
+source: https://github.com/vsotirasqmplus/moodle-report_qmulogs
+maintainers:
+- github: vsotirasqmplus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle-qmplus logstore extended logs per course

@@ -1,0 +1,10 @@
+component: atto_filedragdrop
+source: https://github.com/pauln/moodle-atto_filedragdrop
+maintainers:
+- github: pauln
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Atto drag and drop handling for files which aren't images

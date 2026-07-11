@@ -1,0 +1,9 @@
+component: report_analyticsmodels
+source: https://github.com/emdalton/moodle-report_analyticsmodels
+maintainers:
+- github: emdalton
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

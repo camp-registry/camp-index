@@ -1,0 +1,10 @@
+component: auth_drupalconnect
+source: https://github.com/C-Logemann/moodle-auth_drupalconnect
+maintainers:
+- github: C-Logemann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Module to handle authentication via REST interface of a drupal platform.

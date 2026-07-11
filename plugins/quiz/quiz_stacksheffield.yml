@@ -1,0 +1,10 @@
+component: quiz_stacksheffield
+source: https://github.com/NeilStrickland/moodle-quiz_stacksheffield
+maintainers:
+- github: NeilStrickland
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle quiz report with detailed analysis of responses to STACK questions

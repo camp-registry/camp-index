@@ -1,0 +1,10 @@
+component: atto_streamings
+source: https://github.com/altrome/moodle-atto_streamings
+maintainers:
+- github: altrome
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Atto Plugin to insert video streaming with JWplayer

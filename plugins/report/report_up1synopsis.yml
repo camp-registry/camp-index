@@ -1,0 +1,10 @@
+component: report_up1synopsis
+source: https://github.com/Silecs-UnivParis1/moodleup1-report-up1synopsis
+maintainers:
+- github: Silecs-UnivParis1
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: plugin report UP1 Synopsis du cours

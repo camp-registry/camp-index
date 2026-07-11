@@ -1,0 +1,10 @@
+component: tool_mupwned
+source: https://github.com/mutms/moodle-tool_mupwned
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MuTMS Compromised password blocking plugin for Moodle™ LMS

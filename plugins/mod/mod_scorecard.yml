@@ -1,0 +1,11 @@
+component: mod_scorecard
+source: https://github.com/jport500/moodle-mod_scorecard
+maintainers:
+- github: jport500
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle activity module: scored self-assessments with result bands and per-tenant
+  theming'

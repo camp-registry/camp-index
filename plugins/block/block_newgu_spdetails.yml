@@ -1,0 +1,10 @@
+component: block_newgu_spdetails
+source: https://github.com/University-of-Glasgow-Public/moodle-blocks_newgu_spdetails
+maintainers:
+- github: University-of-Glasgow-Public
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Student MyGrades plugin for Moodle

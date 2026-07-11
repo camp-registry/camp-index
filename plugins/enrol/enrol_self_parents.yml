@@ -1,0 +1,11 @@
+component: enrol_self_parents
+source: https://github.com/antriver/moodle-enrol_self_parents
+maintainers:
+- github: antriver
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle self enrolment plugin with ability for parents to enrol/unenrol their
+  children.

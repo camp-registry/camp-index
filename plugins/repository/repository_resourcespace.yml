@@ -1,0 +1,10 @@
+component: repository_resourcespace
+source: https://github.com/griffer/moodle-repository_resourcespace
+maintainers:
+- github: griffer
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: ResourceSpace Moodle filepicker integration

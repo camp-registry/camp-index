@@ -1,0 +1,10 @@
+component: format_picturelink
+source: https://github.com/devlionco/moodle-format_picturelink
+maintainers:
+- github: devlionco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: picture_link course format

@@ -1,0 +1,9 @@
+component: local_newsticker
+source: https://github.com/tandreigaabriel/moodle-local_newsticker
+maintainers:
+- github: tandreigaabriel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: mod_techproject
+source: https://github.com/vfremaux/moodle-mod_techproject
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A module for teaching and handling technical project management using an
+  IEEE procedure.

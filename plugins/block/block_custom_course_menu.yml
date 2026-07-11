@@ -1,0 +1,10 @@
+component: block_custom_course_menu
+source: https://github.com/UniversityofPortland/moodle-block_custom_course_menu
+maintainers:
+- github: UniversityofPortland
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block for selectively displaying and organizing enrolled courses and categories.

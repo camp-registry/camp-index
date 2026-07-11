@@ -1,0 +1,10 @@
+component: enrol_suap
+source: https://github.com/archive-cte-zl-ifrn/moodle-enrol_suap
+maintainers:
+- github: archive-cte-zl-ifrn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: enrol__suap

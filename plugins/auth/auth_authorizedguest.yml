@@ -1,0 +1,9 @@
+component: auth_authorizedguest
+source: https://github.com/MalteNeugebauer/moodle-auth_authorizedguest2
+maintainers:
+- github: MalteNeugebauer
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

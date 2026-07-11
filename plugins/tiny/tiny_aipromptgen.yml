@@ -1,0 +1,12 @@
+component: tiny_aipromptgen
+source: https://github.com/blagojevicboban/moodle-tiny_aipromptgen
+maintainers:
+- github: blagojevicboban
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Tiny AI Prompt Generator is a self-contained TinyMCE plugin for Moodle. It
+  allows teachers to build pedagogical prompts through a guided interface and generate
+  AI responses using OpenAI or a local Ollama server, directly within the editor.

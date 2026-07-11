@@ -1,0 +1,10 @@
+component: report_bbbparticipation
+source: https://github.com/elearning-univie/moodle-report_bbbparticipation
+maintainers:
+- github: elearning-univie
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Instruction in GERMAN: https://wiki.univie.ac.at/pages/viewpage.action?pageId=98367255#BigBlueButton-AnwesenheitAnwesenheitenvonTeilnehmer*innendesMoodle-Kurseseinsehen'

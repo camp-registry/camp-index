@@ -1,0 +1,9 @@
+component: local_searchquestions
+source: https://github.com/sensei-hacker/moodle_local_searchquestions
+maintainers:
+- github: sensei-hacker
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

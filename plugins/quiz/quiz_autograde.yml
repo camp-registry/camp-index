@@ -1,0 +1,10 @@
+component: quiz_autograde
+source: https://github.com/cgrevisse/moodle-quiz_autograde
+maintainers:
+- github: cgrevisse
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to grade essay questions using the AI subsystem

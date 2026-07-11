@@ -1,0 +1,10 @@
+component: auth_lampschool
+source: https://github.com/isdimaggio/moodle-lampschool-auth
+maintainers:
+- github: isdimaggio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin allows you to authenticate moodle users from LampSchool.

@@ -1,0 +1,11 @@
+component: enrol_easy
+source: https://github.com/dbnschools/moodle-enrol_easy
+maintainers:
+- github: dbnschools
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin to enrol students using 6 digit codes or QR Codes.  This
+  plugin is integrated and works best with the Fordson Moodle theme.

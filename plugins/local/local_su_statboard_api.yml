@@ -1,0 +1,10 @@
+component: local_su_statboard_api
+source: https://github.com/dev-capsule/moodle-local_su_statboard_api
+maintainers:
+- github: dev-capsule
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin — Real-time LMS dashboard statistics

@@ -1,0 +1,10 @@
+component: tool_deletemessage
+source: https://github.com/EsdrasCaleb/moodle-tool_deletemessage
+maintainers:
+- github: EsdrasCaleb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A toll that create a task in moodle to hard delete the mensagens in database

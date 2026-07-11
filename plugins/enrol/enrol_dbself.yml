@@ -1,0 +1,12 @@
+component: enrol_dbself
+source: https://github.com/saylordotorg/moodle-enrol_dbself
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that allows students to control their own enrolment while
+  syncing courses from an external enrolment DB. Modified from the core Moodle external
+  database enrol plugin.

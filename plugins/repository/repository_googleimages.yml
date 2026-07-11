@@ -1,0 +1,11 @@
+component: repository_googleimages
+source: https://github.com/meirzadotcom/moodle-repository_googleimages
+maintainers:
+- github: meirzadotcom
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Repository google images is a Moodle repository plugin to get images from
+  Google custom search with image type.

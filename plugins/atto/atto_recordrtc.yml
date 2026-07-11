@@ -1,0 +1,11 @@
+component: atto_recordrtc
+source: https://github.com/blindsidenetworks/moodle-atto_recordrtc
+maintainers:
+- github: blindsidenetworks
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple atto editor plugin for Moodle that enables audio and video annotation
+  anywhere the editor can be used

@@ -1,0 +1,10 @@
+component: qtype_shortanswerwiris
+source: https://github.com/wiris/moodle-qtype_shortanswerwiris
+maintainers:
+- github: wiris
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Wiris Quizzes - Short-Answer question type

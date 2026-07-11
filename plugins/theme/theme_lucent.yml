@@ -1,0 +1,11 @@
+component: theme_lucent
+source: https://github.com/redwanJemal/moodle-theme-lucent
+maintainers:
+- github: redwanJemal
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Lucent — Premium mobile-first Moodle LMS theme with glass navbar, dark mode,
+  course cards, and responsive dashboard

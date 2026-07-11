@@ -1,0 +1,11 @@
+component: assignsubmission_hlt
+source: https://github.com/PeterUpfold/moodle-assignsubmission_hlt
+maintainers:
+- github: PeterUpfold
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A submission plugin for the Moodle assignment module that allows us to set
+  a "set date" and "due date" calendar event in the student's calendar.

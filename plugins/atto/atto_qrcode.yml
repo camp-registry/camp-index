@@ -1,0 +1,11 @@
+component: atto_qrcode
+source: https://github.com/eLearning-BS23/moodle-atto_qrcode
+maintainers:
+- github: eLearning-BS23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle atto-qrcode is a atto sub plugin. This plugin will enable editor to
+  insert QR code in atto editor.

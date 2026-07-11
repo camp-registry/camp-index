@@ -1,0 +1,12 @@
+component: mod_bunnystream
+source: https://github.com/amirtds/moodle-mod_bunnystream
+maintainers:
+- github: amirtds
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle activity module that embeds Bunny.net Stream videos with Token Authentication,
+  TUS direct-upload, encoding webhooks, completion + gradebook integration, and Moodle
+  Mobile App support. Full parity with bunny-xblock for Open edX.

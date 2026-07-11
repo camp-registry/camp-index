@@ -1,0 +1,10 @@
+component: profilefield_recaptcha
+source: https://github.com/eMentorAdm/moodle-profilefield_recaptcha
+maintainers:
+- github: eMentorAdm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Recaptcha V3 - user profile field plugin

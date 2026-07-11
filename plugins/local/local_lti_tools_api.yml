@@ -1,0 +1,10 @@
+component: local_lti_tools_api
+source: https://github.com/CLAMP-IT/moodle-local_lti_tools_api
+maintainers:
+- github: CLAMP-IT
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Extends Moodle web services to support identifying and adding LTI activities

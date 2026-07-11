@@ -1,0 +1,10 @@
+component: mnetservice_enrol
+source: https://github.com/moodlehq/moodle-mnetservice_enrol
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Remote enrolment service plugin for Moodle

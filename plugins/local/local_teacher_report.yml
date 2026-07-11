@@ -1,0 +1,9 @@
+component: local_teacher_report
+source: https://github.com/faisalrafi/moodle-local-teacher_report
+maintainers:
+- github: faisalrafi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

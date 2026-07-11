@@ -1,0 +1,13 @@
+component: block_pin_user
+source: https://github.com/migueldhyne/moodle-block_pin_user
+maintainers:
+- github: migueldhyne
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Pin User Block lets Moodle admins and teachers display up to two customizable
+  badges next to users' names based on profile field conditions. Only visible to users
+  with the appropriate capability, it enhances course management with efficient styling
+  and dynamic CSS loading.

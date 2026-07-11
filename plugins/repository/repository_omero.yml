@@ -1,0 +1,9 @@
+component: repository_omero
+source: https://github.com/crs4/moodle.omero-repository
+maintainers:
+- github: crs4
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

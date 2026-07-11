@@ -1,0 +1,10 @@
+component: qbehaviour_adaptive_adapted_for_coderunner
+source: https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner
+maintainers:
+- github: trampgeek
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The question behaviour required by the Moodle CodeRunner question type.

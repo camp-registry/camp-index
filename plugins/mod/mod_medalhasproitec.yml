@@ -1,0 +1,10 @@
+component: mod_medalhasproitec
+source: https://github.com/proitec-moodle-suite/moodle-mod_medalhasproitec
+maintainers:
+- github: proitec-moodle-suite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Medalhas Proitec module plugin

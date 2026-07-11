@@ -1,0 +1,9 @@
+component: qtype_minispeak
+source: https://github.com/justinhunt/moodle-qtype_minispeak
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

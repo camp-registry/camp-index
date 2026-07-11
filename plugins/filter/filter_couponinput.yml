@@ -1,0 +1,10 @@
+component: filter_couponinput
+source: https://github.com/sebsoftnl/moodle-filter_couponinput
+maintainers:
+- github: sebsoftnl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle-filter_couponinput

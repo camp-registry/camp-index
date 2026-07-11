@@ -1,0 +1,9 @@
+component: quizaccess_exproctor
+source: https://github.com/shevanfernando/moodle-quizaccess_exproctor
+maintainers:
+- github: shevanfernando
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

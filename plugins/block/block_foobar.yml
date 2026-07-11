@@ -1,0 +1,10 @@
+component: block_foobar
+source: https://github.com/melanietreitinger/moodle-block_foobar
+maintainers:
+- github: melanietreitinger
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A dummy Moodle block

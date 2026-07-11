@@ -1,0 +1,10 @@
+component: tiny_html
+source: https://github.com/mattporritt/moodle-tiny_html
+maintainers:
+- github: mattporritt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Source code formatting and code color highlighting for TinyMCE editor

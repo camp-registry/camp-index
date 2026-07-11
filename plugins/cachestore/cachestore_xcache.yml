@@ -1,0 +1,10 @@
+component: cachestore_xcache
+source: https://github.com/samhemelryk/moodle-cachestore_xcache
+maintainers:
+- github: samhemelryk
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle cache store plugin for XCache

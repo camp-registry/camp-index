@@ -1,0 +1,10 @@
+component: repository_stockphotos
+source: https://github.com/iamandrew/moodle-repository_stockphotos
+maintainers:
+- github: iamandrew
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A repository plugin for Moodle using the Unsplash API.

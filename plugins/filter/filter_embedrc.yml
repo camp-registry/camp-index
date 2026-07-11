@@ -1,0 +1,11 @@
+component: filter_embedrc
+source: https://github.com/AnsonArgyris/moodle-filter_embedrc
+maintainers:
+- github: AnsonArgyris
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This text filter allows the user to embed content from many external contents
+  providers.

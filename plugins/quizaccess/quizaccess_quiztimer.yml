@@ -1,0 +1,10 @@
+component: quizaccess_quiztimer
+source: https://github.com/UNIMOODLE/moodle-quizaccess_quiztimer
+maintainers:
+- github: UNIMOODLE
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Configure answering times per question / page in a quiz

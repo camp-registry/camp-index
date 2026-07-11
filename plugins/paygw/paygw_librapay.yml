@@ -1,0 +1,9 @@
+component: paygw_librapay
+source: https://github.com/elearningaxel/moodle-paygw_librapay
+maintainers:
+- github: elearningaxel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

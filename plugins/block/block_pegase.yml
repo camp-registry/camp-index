@@ -1,0 +1,11 @@
+component: block_pegase
+source: https://github.com/oliviervalentin/moodle-block_pegase
+maintainers:
+- github: oliviervalentin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block tool for Moodle to enrol students in a course with PEGASE. Requires
+  WSScol enrol method.

@@ -1,0 +1,11 @@
+component: report_feedbackdashboard
+source: https://github.com/ltu-solent/moodle-report_feedbackdashboard
+maintainers:
+- github: ltu-solent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A database report which displays a list of all the student's assignments
+  and grades

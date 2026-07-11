@@ -1,0 +1,10 @@
+component: tiny_ketcher
+source: https://github.com/Quantumlabin/moodle-tiny_ketcher
+maintainers:
+- github: Quantumlabin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Molecular structure editor plugin for Moodle tiny edito

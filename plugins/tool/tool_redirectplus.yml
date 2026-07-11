@@ -1,0 +1,13 @@
+component: tool_redirectplus
+source: https://github.com/gwizit/moodle-tool_redirectplus
+maintainers:
+- github: gwizit
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Redirect Plus is a comprehensive solution that gives you complete control
+  over your Moodle site's redirects and 404 error handling. Create custom redirects
+  with optional conditional logic based on user login status or language preference.
+  The plugin also records 404 errors and allows you to customiz

@@ -1,0 +1,11 @@
+component: block_enrollkey
+source: https://github.com/akspiel/moodle-block_enrollkey
+maintainers:
+- github: akspiel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A lightweight Moodle block that checks a user-entered enrollment key against
+  the database and enrolls the user into the course associated with that key.

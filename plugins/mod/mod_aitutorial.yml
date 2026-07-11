@@ -1,0 +1,9 @@
+component: mod_aitutorial
+source: https://github.com/MarkNwilliam/moodle-mod_aitutorial
+maintainers:
+- github: MarkNwilliam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

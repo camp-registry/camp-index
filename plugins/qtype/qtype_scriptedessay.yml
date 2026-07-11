@@ -1,0 +1,10 @@
+component: qtype_scriptedessay
+source: https://github.com/bumoodle/moodle-qtype_scriptedessay
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Essay question type which supports randomization via MathScript

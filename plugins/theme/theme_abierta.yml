@@ -1,0 +1,10 @@
+component: theme_abierta
+source: https://github.com/UdeMedellin/moodle-theme_abierta
+maintainers:
+- github: UdeMedellin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle theme.

@@ -1,0 +1,10 @@
+component: tiny_pasteastext
+source: https://github.com/ffhs/moodle-tiny_pasteastext
+maintainers:
+- github: ffhs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Paste unformatted text into Moodle.

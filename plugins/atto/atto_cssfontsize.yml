@@ -1,0 +1,11 @@
+component: atto_cssfontsize
+source: https://github.com/adamjenkins/moodle-atto_cssfontsize
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A fontsize plugin for Moodle's atto editor that makes use of CSS instead
+  of font tags.

@@ -1,0 +1,11 @@
+component: assignsubmission_gradereviews
+source: https://github.com/mouneyrac/moodle-assignsubmission_gradereviews
+maintainers:
+- github: mouneyrac
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A plugin similar to the submission comments but with permission support to
+  allow to see/delete comments.

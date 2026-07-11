@@ -1,0 +1,10 @@
+component: tiny_aic
+source: https://github.com/developerck/moodle-tiny_aic
+maintainers:
+- github: developerck
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Tiny Editor plugin

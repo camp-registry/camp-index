@@ -1,0 +1,10 @@
+component: qtype_tcs
+source: https://github.com/StudiUM/moodle-qtype_tcs
+maintainers:
+- github: StudiUM
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Question type subplugin for concordance.

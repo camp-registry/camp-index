@@ -1,0 +1,13 @@
+component: report_unlocker
+source: https://github.com/jeanlucio/moodle-report_unlocker
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Unlocker Report is a powerful management tool for Moodle course administrators
+  and teachers. It provides a comprehensive overview of all access restrictions (availability
+  conditions) applied to course activities and resources, allowing you to view, analyze,
+  and modify restrictions at scale.

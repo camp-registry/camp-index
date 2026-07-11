@@ -1,0 +1,10 @@
+component: tool_autoconfig
+source: https://github.com/marcusgreen/moodle-tool_autoconfig
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Auto configure plugins

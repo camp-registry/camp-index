@@ -1,0 +1,10 @@
+component: cachestore_memcachedplus
+source: https://github.com/unikent/moodle-cachestore_memcachedplus
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Slightly improved Memcached store for Moodle

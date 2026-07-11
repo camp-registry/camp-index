@@ -1,0 +1,11 @@
+component: mod_lamslesson
+source: https://github.com/borrown/moodle-mod_lamslesson
+maintainers:
+- github: borrown
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Manage separately the development of the lams lesson moodle's module included
+  into the project's lams sourcecode

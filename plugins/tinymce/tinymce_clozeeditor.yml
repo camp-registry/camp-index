@@ -1,0 +1,10 @@
+component: tinymce_clozeeditor
+source: https://github.com/andiglombitza/moodle-tinymce_clozeeditor
+maintainers:
+- github: andiglombitza
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Moodle 2.4, 2.5 and 2.6 version of the CLOZE editor for TinyMCE

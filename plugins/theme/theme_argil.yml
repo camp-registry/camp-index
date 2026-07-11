@@ -1,0 +1,11 @@
+component: theme_argil
+source: https://github.com/argile-agency/moodle-theme_argil
+maintainers:
+- github: argile-agency
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle Boost child theme which is intended to meet the needs of university
+  campuses.

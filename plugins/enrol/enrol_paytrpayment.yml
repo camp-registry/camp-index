@@ -1,0 +1,10 @@
+component: enrol_paytrpayment
+source: https://github.com/webtechbilisim/moodle-enrol_paytrpayment
+maintainers:
+- github: webtechbilisim
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Enroll users via PayTR payment gateway

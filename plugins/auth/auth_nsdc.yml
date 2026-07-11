@@ -1,0 +1,11 @@
+component: auth_nsdc
+source: https://github.com/saylordotorg/moodle-auth_nsdc
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle authentication plugin to integrate with NSDC's eSkillIndia eLearning
+  aggregator (https://nsdcindia.org).

@@ -1,0 +1,9 @@
+component: local_quizoverlay
+source: https://github.com/m-jr-dev/moodle-local_quizoverlay
+maintainers:
+- github: m-jr-dev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: block_menubuilder
+source: https://github.com/DPMSTeam/moodle-block_menubuilder
+maintainers:
+- github: DPMSTeam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a configurable menu block plugin

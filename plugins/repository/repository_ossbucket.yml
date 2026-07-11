@@ -1,0 +1,10 @@
+component: repository_ossbucket
+source: https://github.com/liaohanzhen/moodle-repository_ossbucket
+maintainers:
+- github: liaohanzhen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 使用Aliyun的OSS作为Moodle的容器

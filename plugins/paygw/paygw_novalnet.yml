@@ -1,0 +1,9 @@
+component: paygw_novalnet
+source: https://github.com/jenasis-novalnet/jenasis-novalnet-moodle-paygw_noval
+maintainers:
+- github: jenasis-novalnet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

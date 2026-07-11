@@ -1,0 +1,11 @@
+component: gradingform_erubric
+source: https://github.com/johndimopoulos/moodle-gradingform_erubric
+maintainers:
+- github: johndimopoulos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'This is the source code of the Learning Analytics Enriched Rubric plugin.
+  Current version: 3.0'

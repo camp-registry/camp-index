@@ -1,0 +1,11 @@
+component: assignsubmission_dropoff
+source: https://github.com/mhughes2k/moodle-mod_assignsubmission_dropoff
+maintainers:
+- github: mhughes2k
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Assignment Submission plugin for handling physical submission of work to
+  a Moodle assignment

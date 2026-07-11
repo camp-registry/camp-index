@@ -1,0 +1,11 @@
+component: filter_dxf
+source: https://github.com/marmotteabbas/moodle-filter-dxf
+maintainers:
+- github: marmotteabbas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Dxf Viewer is a simple Moodle filter wich allows to create a very basic viewer
+  by replacing a dxf (moodle) url in an editor by a viewer of this dxf file.

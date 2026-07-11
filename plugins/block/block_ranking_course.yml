@@ -1,0 +1,11 @@
+component: block_ranking_course
+source: https://github.com/RenzoMedina/moodle-block_ranking_course
+maintainers:
+- github: RenzoMedina
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin is a challenge in which you must display a ranking of the top
+  3 users based on their course average.

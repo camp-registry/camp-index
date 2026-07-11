@@ -1,0 +1,10 @@
+component: profilefield_dynamicmenu
+source: https://github.com/tunele/moodle-profilefield_dynamicmenu
+maintainers:
+- github: tunele
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle plugin dynamic menu

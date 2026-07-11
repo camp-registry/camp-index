@@ -1,0 +1,9 @@
+component: block_nss
+source: https://github.com/ltu-solent/moodle-block_nss
+maintainers:
+- github: ltu-solent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

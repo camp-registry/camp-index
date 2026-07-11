@@ -1,0 +1,10 @@
+component: tool_clearbackupfiles
+source: https://github.com/doiphode/moodle-tool_clearbackupfiles
+maintainers:
+- github: doiphode
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Admin tool to clear all backup files from server.

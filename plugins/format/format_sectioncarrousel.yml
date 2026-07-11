@@ -1,0 +1,10 @@
+component: format_sectioncarrousel
+source: https://github.com/Roelland/moodle-format_sectioncarrousel
+maintainers:
+- github: Roelland
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Section Carrousel course format plugin for Moodle 5.2

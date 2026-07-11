@@ -1,0 +1,13 @@
+component: mod_videotracker
+source: https://github.com/n-cardoso/moodle-mod_videotracker
+maintainers:
+- github: n-cardoso
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Designed for training providers, schools, academies, and organizations that
+  need stronger control and reporting around video-based learning. Instead of simply
+  embedding a video and hoping it was watched, Video Tracker turns video into a measurable
+  learning activity connected to Moodle completion and

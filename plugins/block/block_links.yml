@@ -1,0 +1,11 @@
+component: block_links
+source: https://github.com/sbourget/moodle-block_links
+maintainers:
+- github: sbourget
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This  moodle block is allows a site administrator to display links to specific
+  users based on specific user profile fields

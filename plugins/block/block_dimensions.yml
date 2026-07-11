@@ -1,0 +1,10 @@
+component: block_dimensions
+source: https://github.com/uaiblaine/moodle-block_dimensions
+maintainers:
+- github: uaiblaine
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Your plans and competencies, in a new dimension.

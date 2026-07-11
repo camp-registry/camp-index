@@ -1,0 +1,9 @@
+component: mod_portfoliogroup
+source: https://github.com/EvokeNet/moodle-mod_portfoliogroup
+maintainers:
+- github: EvokeNet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

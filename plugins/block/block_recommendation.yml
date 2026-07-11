@@ -1,0 +1,10 @@
+component: block_recommendation
+source: https://github.com/suap-moodletheme-suite/moodle-block_recommendation
+maintainers:
+- github: suap-moodletheme-suite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle recommendation block plugin

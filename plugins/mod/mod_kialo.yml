@@ -1,0 +1,10 @@
+component: mod_kialo
+source: https://github.com/kialo/moodle-mod_kialo
+maintainers:
+- github: kialo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Kialo Integration

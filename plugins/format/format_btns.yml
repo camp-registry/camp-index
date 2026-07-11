@@ -1,0 +1,11 @@
+component: format_btns
+source: https://github.com/jrangelardila/moodle-format_btns
+maintainers:
+- github: jrangelardila
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin is designed for Moodle 4.2 and above, developed due to the incompatibility
+  of format_buttons with these versions

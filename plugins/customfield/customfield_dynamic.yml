@@ -1,0 +1,9 @@
+component: customfield_dynamic
+source: https://github.com/datnguyenthang/moodle_customfield_field_dynamic
+maintainers:
+- github: datnguyenthang
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

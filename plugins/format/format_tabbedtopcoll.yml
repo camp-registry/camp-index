@@ -1,0 +1,10 @@
+component: format_tabbedtopcoll
+source: https://github.com/marwahaha/moodle-format_tabbedtopcoll
+maintainers:
+- github: marwahaha
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: adding tabs to the format_topcoll

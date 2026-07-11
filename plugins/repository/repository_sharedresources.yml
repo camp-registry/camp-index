@@ -1,0 +1,10 @@
+component: repository_sharedresources
+source: https://github.com/jacano-elearning/moodle-repository_sharedresources
+maintainers:
+- github: jacano-elearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A repository approach for the sharedresources

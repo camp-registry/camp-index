@@ -1,0 +1,9 @@
+component: atto_image
+source: https://github.com/masterries/moodle-atto_atto_image_alt_gen
+maintainers:
+- github: masterries
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

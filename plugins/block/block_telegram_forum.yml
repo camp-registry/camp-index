@@ -1,0 +1,9 @@
+component: block_telegram_forum
+source: https://github.com/marceloschmitt/moodle-block_telegram_forum
+maintainers:
+- github: marceloschmitt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

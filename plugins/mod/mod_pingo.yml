@@ -1,0 +1,11 @@
+component: mod_pingo
+source: https://github.com/coactum/moodle-mod_pingo
+maintainers:
+- github: coactum
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A plugin that enables the integration of the free-to-use classroom response
+  system PINGO into Moodle.

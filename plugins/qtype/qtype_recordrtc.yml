@@ -1,0 +1,11 @@
+component: qtype_recordrtc
+source: https://github.com/moodleou/moodle-qtype_recordrtc
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A manually graded Moodle question type, where the student records a short
+  audio response to answer the question asked.

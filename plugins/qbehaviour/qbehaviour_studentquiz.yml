@@ -1,0 +1,9 @@
+component: qbehaviour_studentquiz
+source: https://github.com/frankkoch/moodle-qbehaviour_studentquiz
+maintainers:
+- github: frankkoch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

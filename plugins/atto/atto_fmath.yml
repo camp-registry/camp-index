@@ -1,0 +1,10 @@
+component: atto_fmath
+source: https://github.com/iandavidwild/moodle-atto_fmath
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An fmath mathematical notation editor for Atto

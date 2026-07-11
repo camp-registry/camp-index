@@ -1,0 +1,11 @@
+component: block_newcoursecontents
+source: https://github.com/univie-henrikjurek/moodle-block_new_course_contents
+maintainers:
+- github: univie-henrikjurek
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block similar to Course Overview but including additional information about
+  added contents in these courses.

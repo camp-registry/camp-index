@@ -1,0 +1,10 @@
+component: report_quizarchive
+source: https://github.com/Fiktusz/moodle-quizarchive
+maintainers:
+- github: Fiktusz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This module allows you to archive quiz attempts

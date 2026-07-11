@@ -1,0 +1,10 @@
+component: atto_mathslate
+source: https://github.com/dthies/moodle-atto_mathslate
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Graphical Equation Editor Moodle plugin for Atto editor. See demo

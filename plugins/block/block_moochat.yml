@@ -1,0 +1,12 @@
+component: block_moochat
+source: https://github.com/bapool/moodle-block_moochat
+maintainers:
+- github: bapool
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Add AI-powered chatbots to your course sidebars. Create custom AI assistants
+  with unique personalities, avatars, and rate limiting. Works seamlessly with Moodle's
+  core AI subsystem - no external services required.

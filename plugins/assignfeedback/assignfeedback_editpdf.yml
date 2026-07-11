@@ -1,0 +1,10 @@
+component: assignfeedback_editpdf
+source: https://github.com/schulportalhessen/moodle-assignfeedback_editpdf
+maintainers:
+- github: schulportalhessen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: bugfix and improvements

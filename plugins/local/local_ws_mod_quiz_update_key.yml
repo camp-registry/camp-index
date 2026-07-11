@@ -1,0 +1,9 @@
+component: local_ws_mod_quiz_update_key
+source: https://github.com/mcruzel/moodle-local_ws_mod_quiz_update_key
+maintainers:
+- github: mcruzel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

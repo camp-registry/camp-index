@@ -1,0 +1,9 @@
+component: tool_blocksmanager
+source: https://github.com/catalyst/moodle_tool_blocksmanager
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

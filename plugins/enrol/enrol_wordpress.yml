@@ -1,0 +1,11 @@
+component: enrol_wordpress
+source: https://github.com/iandavidwild/moodle-enrol_wordpress
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle course enrolment plugin to work in conjunction with the WordPress
+  authentication plugin.

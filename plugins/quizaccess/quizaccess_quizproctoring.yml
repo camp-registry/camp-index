@@ -1,0 +1,10 @@
+component: quizaccess_quizproctoring
+source: https://github.com/taketwotech/moodle-quizaccess_quizproctoring
+maintainers:
+- github: taketwotech
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Quiz proctoring plugin for Moodle

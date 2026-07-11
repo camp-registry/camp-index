@@ -1,0 +1,10 @@
+component: qbehaviour_opaque
+source: https://github.com/moodleou/moodle-qbehaviour_opaque
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Opaque question behaviour.

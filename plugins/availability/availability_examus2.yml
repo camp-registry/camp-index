@@ -1,0 +1,9 @@
+component: availability_examus2
+source: https://github.com/examus/moodle-availability_examus2
+maintainers:
+- github: examus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

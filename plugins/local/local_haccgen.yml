@@ -1,0 +1,9 @@
+component: local_haccgen
+source: https://github.com/DPMSTeam/moodle-local_haccgen
+maintainers:
+- github: DPMSTeam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

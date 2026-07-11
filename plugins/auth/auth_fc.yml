@@ -1,0 +1,10 @@
+component: auth_fc
+source: https://github.com/moodlehq/moodle-auth_fc
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Fc authentication plugin removed from standard distibution in Moodle 3.4

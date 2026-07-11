@@ -1,0 +1,9 @@
+component: mod_cmi5
+source: https://github.com/ByLightSDC/moodle-mod_cmi5
+maintainers:
+- github: ByLightSDC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: block_publishflow
+source: https://github.com/vfremaux/moodle-block_publishflow
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows fast across MNET course publication strategy using Moodle Course Archive
+  transport. Complement of VMoodle.

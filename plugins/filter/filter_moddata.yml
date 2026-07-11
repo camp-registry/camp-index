@@ -1,0 +1,9 @@
+component: filter_moddata
+source: https://github.com/ndunand/moodle-filter_moddata
+maintainers:
+- github: ndunand
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

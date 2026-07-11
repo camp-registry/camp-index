@@ -1,0 +1,12 @@
+component: auth_jwtsso
+source: https://github.com/learningsecured/moodle-auth_jwtsso
+maintainers:
+- github: learningsecured
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle authentication plugin for secure Single Sign-On using signed JWTs
+  (with nonce/jti replay protection, JWKS or PEM key validation, and detailed event
+  logging).

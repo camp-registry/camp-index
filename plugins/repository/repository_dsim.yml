@@ -1,0 +1,10 @@
+component: repository_dsim
+source: https://github.com/ULCC/moodle-repository_dsim
+maintainers:
+- github: ULCC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle repository plug-in that can search the Decision Sim application:'

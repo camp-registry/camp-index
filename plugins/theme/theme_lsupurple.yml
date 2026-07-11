@@ -1,0 +1,10 @@
+component: theme_lsupurple
+source: https://github.com/lsuonline/moodle-theme_lsupurple
+maintainers:
+- github: lsuonline
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: LSU Boost child theme

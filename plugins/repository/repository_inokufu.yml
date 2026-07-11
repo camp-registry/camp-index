@@ -1,0 +1,10 @@
+component: repository_inokufu
+source: https://github.com/inokufu/moodle-repository_inokufu
+maintainers:
+- github: inokufu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Public Moodle Repository Plugin for Inokufu Search technologies

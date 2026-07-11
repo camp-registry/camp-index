@@ -1,0 +1,12 @@
+component: mod_playergroup
+source: https://github.com/jeanlucio/moodle-mod_playergroup
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PlayerGroup lets students autonomously form their own groups directly from
+  the activity page — no teacher intervention needed. It replaces manual group assignment
+  with a self-service experience that works for any course format.

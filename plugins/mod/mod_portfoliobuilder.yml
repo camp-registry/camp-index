@@ -1,0 +1,9 @@
+component: mod_portfoliobuilder
+source: https://github.com/EvokeNet/moodle-mod_portfoliobuilder
+maintainers:
+- github: EvokeNet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

@@ -1,0 +1,11 @@
+component: local_assess_type
+source: https://github.com/ucl-isd/moodle-local_assess_type
+maintainers:
+- github: ucl-isd
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin to add a form field for assessment type (formative or
+  sumative) to specified mods.

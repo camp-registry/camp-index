@@ -1,0 +1,10 @@
+component: tiny_widgethub
+source: https://github.com/jmulet/moodle-tiny_widgethub
+maintainers:
+- github: jmulet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Create, insert and share widget components easily in TinyMCE editor.

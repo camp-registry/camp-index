@@ -1,0 +1,9 @@
+component: report_assignfeedback_download
+source: https://github.com/cgs-ets/moodle-report_assignfeedback_download
+maintainers:
+- github: cgs-ets
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: theme_elucidat
+source: https://github.com/HT2-Labs/elucidat-moodle-theme
+maintainers:
+- github: HT2-Labs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

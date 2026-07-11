@@ -1,0 +1,10 @@
+component: filter_elevator
+source: https://github.com/UMN-LATIS/moodle-filter_elevator
+maintainers:
+- github: UMN-LATIS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Filter for the Elevator application (see github.com/cmcfadden/elevator)

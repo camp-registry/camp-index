@@ -1,0 +1,10 @@
+component: filter_podlille1
+source: https://github.com/DIPLille/moodle-filter_podlille1
+maintainers:
+- github: DIPLille
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Filtre Moodle pour URL PodLille1

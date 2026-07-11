@@ -1,0 +1,10 @@
+component: quizaccess_honorlock
+source: https://github.com/HonorLock/moodle-quizaccess_honorlock
+maintainers:
+- github: HonorLock
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Honorlock's Quiz Access Proctoring Plugin

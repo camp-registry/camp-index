@@ -1,0 +1,10 @@
+component: theme_degrade
+source: https://github.com/EduardoKrausME/moodle-theme_degrade
+maintainers:
+- github: EduardoKrausME
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Teme Degrade é um thema com várias opções de topo degrade

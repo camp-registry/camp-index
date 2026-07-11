@@ -1,0 +1,10 @@
+component: mod_plugnmeet
+source: https://github.com/mynaparrot/moodle-mod_plugnmeet
+maintainers:
+- github: mynaparrot
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plug-N-Meet conference integration with Moodle

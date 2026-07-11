@@ -1,0 +1,9 @@
+component: block_completedcourse
+source: https://github.com/PukunuiMalaysia/moodle-block_completedcourse
+maintainers:
+- github: PukunuiMalaysia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

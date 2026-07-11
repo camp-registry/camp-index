@@ -1,0 +1,11 @@
+component: filter_fastpix
+source: https://github.com/FastPix/moodle-filter_fastpix
+maintainers:
+- github: FastPix
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Embed FastPix videos anywhere in Moodle by pasting a shortcode. Capability-gated,
+  public-video player for any rich-text area.

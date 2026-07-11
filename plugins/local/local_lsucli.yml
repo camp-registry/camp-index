@@ -1,0 +1,10 @@
+component: local_lsucli
+source: https://github.com/lsuonline/moodle_local-lsucli
+maintainers:
+- github: lsuonline
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Run core Moodle cli scripts as adhoc tasks with defined configs

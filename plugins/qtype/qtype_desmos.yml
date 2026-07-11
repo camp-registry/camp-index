@@ -1,0 +1,11 @@
+component: qtype_desmos
+source: https://github.com/PeTeL-Weizmann/moodle-qtype_desmos
+maintainers:
+- github: PeTeL-Weizmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle question type Desmos allow a teacher to prepare a question for a student
+  to modify and submit for feedback and grading

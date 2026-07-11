@@ -1,0 +1,11 @@
+component: block_quizoverride
+source: https://github.com/ucla/moodle-block_quizoverride
+maintainers:
+- github: ucla
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Easily add quiz overrides to a select set of students for current and future
+  quizzes

@@ -1,0 +1,10 @@
+component: qtype_sassessment
+source: https://github.com/e-rasvet/moodle-qtype_sassessment4
+maintainers:
+- github: e-rasvet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 3.X sassessment question type with Amazon/Google speech to text functionality

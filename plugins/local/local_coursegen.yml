@@ -1,0 +1,11 @@
+component: local_coursegen
+source: https://github.com/jport500/moodle-local_coursegen
+maintainers:
+- github: jport500
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: LMS Light AI course builder — generates native Moodle courses from materials
+  or a topic, composing format_pathway + quizgenpro via Moodle AI Providers.

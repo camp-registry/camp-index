@@ -1,0 +1,11 @@
+component: tiny_panoptoltibutton
+source: https://github.com/Panopto/moodle-tiny_panoptoltibutton
+maintainers:
+- github: Panopto
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that allow users to embed LTI content into the TinyMCE rich
+  text editor.

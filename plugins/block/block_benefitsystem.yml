@@ -1,0 +1,11 @@
+component: block_benefitsystem
+source: https://github.com/bartszaflarski/moodle-block_benefitsystem
+maintainers:
+- github: bartszaflarski
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block provides a dashboard widget for users to check their points and
+  access Benefit System features.

@@ -1,0 +1,11 @@
+component: tool_adhocmonitor
+source: https://github.com/nakaharatt/moodle-tool_adhocmonitor
+maintainers:
+- github: nakaharatt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle admin tool plugin that automatically detects and alerts administrators
+  when adhoc tasks become frozen

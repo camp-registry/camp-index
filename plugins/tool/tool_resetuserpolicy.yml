@@ -1,0 +1,10 @@
+component: tool_resetuserpolicy
+source: https://github.com/vfremaux/moodle-tool_resetuserpolicy
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Bulk reset user policy marks

@@ -1,0 +1,12 @@
+component: mod_classengage
+source: https://github.com/cong-minhh/moodle-mod_classengage
+maintainers:
+- github: cong-minhh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle activity module that enhances in-class engagement through real-time
+  interactive quizzes, automatic question generation from slides, and comprehensive
+  student analytics.

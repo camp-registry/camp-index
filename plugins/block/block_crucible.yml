@@ -1,0 +1,11 @@
+component: block_crucible
+source: https://github.com/cmu-sei/moodle-block_crucible
+maintainers:
+- github: cmu-sei
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: block_crucible is a plugin that provides a Moodle user with links to access
+  other applications integrated via OAUTH based on the user’s permissions.

@@ -1,0 +1,10 @@
+component: tool_solent
+source: https://github.com/ltu-solent/moodle-tool_solent
+maintainers:
+- github: ltu-solent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Adhoc tools

@@ -1,0 +1,11 @@
+component: auth_wecom
+source: https://github.com/jason820/moodle-auth_wecom
+maintainers:
+- github: jason820
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 企业微信集成插件，支持扫码登录、成员同步等功能。Enterprise WeChat (WeCom) authentication plugin
+  for Moodle

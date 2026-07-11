@@ -1,0 +1,10 @@
+component: atto_autoclean
+source: https://github.com/pauln/moodle-atto_autoclean
+maintainers:
+- github: pauln
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Automatic clean-on-paste plugin for Atto text editor

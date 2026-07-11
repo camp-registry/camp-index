@@ -1,0 +1,9 @@
+component: filter_youtube_sanitizer
+source: https://github.com/rwthmoodle/moodle-filter_youtube_sanitizer
+maintainers:
+- github: rwthmoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

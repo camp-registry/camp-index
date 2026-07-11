@@ -1,0 +1,10 @@
+component: theme_competency
+source: https://github.com/debonairtrain/moodle-theme_competency
+maintainers:
+- github: debonairtrain
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Repo for Competency theme by Debonair Training Developers

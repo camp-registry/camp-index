@@ -1,0 +1,12 @@
+component: quizaccess_autoproctor
+source: https://github.com/socrateasehq/moodle-quizaccess_autoproctor
+maintainers:
+- github: socrateasehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: AutoProctor is a quiz access rule plugin that integrates automated proctoring
+  into Moodle quizzes. It monitors students during online exams using their camera,
+  microphone, and screen to help prevent cheating and ensure exam integrity.

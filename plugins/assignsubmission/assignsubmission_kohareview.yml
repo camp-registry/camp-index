@@ -1,0 +1,10 @@
+component: assignsubmission_kohareview
+source: https://github.com/danmarsden/moodle-assignsubmission_kohareview
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Koha review assignment submission plugin

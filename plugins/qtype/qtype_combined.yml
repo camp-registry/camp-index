@@ -1,0 +1,11 @@
+component: qtype_combined
+source: https://github.com/moodleou/moodle-qtype_combined
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle question type which allows questions to be built up from parts that
+  are other simpler question types.

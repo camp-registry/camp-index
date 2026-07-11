@@ -1,0 +1,11 @@
+component: theme_dash
+source: https://github.com/0node0/moodle-theme-dash
+maintainers:
+- github: 0node0
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Dash - A modern, customizable Moodle 5.1.1 theme with dark mode, front page
+  blocks, and comprehensive admin settings

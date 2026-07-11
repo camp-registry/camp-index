@@ -1,0 +1,10 @@
+component: atto_wordimport
+source: https://github.com/ecampbell/moodle-atto_wordimport
+maintainers:
+- github: ecampbell
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Import Word file contents into Moodle Atto text box

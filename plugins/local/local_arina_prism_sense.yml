@@ -1,0 +1,12 @@
+component: local_arina_prism_sense
+source: https://github.com/ArinaAi/moodle-local_arina_prism_sense
+maintainers:
+- github: ArinaAi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An AI-powered Moodle plugin for automated curriculum generation and intelligent
+  content processing, integrating Arina Prism Sense capabilities directly into the
+  LMS.

@@ -1,0 +1,9 @@
+component: block_my_day_buttons
+source: https://github.com/cgs-ets/moodle-block_my_day_buttons
+maintainers:
+- github: cgs-ets
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

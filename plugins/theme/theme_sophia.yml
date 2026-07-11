@@ -1,0 +1,10 @@
+component: theme_sophia
+source: https://github.com/reyer3/moodle-theme-sophia-lms
+maintainers:
+- github: reyer3
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Tema personalizado de Moodle con diseño moderno para Sophia Learning Platform

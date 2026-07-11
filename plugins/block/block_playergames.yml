@@ -1,0 +1,11 @@
+component: block_playergames
+source: https://github.com/jeanlucio/moodle-block_playergames
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PlayerGames Widget (block_playergames) is a thin sidebar companion block
+  for the PlayerGames gamification ecosystem for Moodle.

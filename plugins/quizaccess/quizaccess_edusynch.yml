@@ -1,0 +1,9 @@
+component: quizaccess_edusynch
+source: https://github.com/edusynch/moodle-quizaccess_edusynch
+maintainers:
+- github: edusynch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

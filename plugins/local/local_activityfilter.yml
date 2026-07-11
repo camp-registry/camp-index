@@ -1,0 +1,12 @@
+component: local_activityfilter
+source: https://github.com/oncampus/moodle-local_activityfilter
+maintainers:
+- github: oncampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Activity Filter is designed to help to select suitable activities. With the
+  help of the AI subsystem, user requests are processed and suitable activities are
+  selected.

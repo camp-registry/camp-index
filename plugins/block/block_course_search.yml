@@ -1,0 +1,10 @@
+component: block_course_search
+source: https://github.com/PSA-Corporate-Learning-Branch/moodle-course-search
+maintainers:
+- github: PSA-Corporate-Learning-Branch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block providing comprehensive course-level search across activity types.

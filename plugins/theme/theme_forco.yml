@@ -1,0 +1,9 @@
+component: theme_forco
+source: https://github.com/samuelcalegari/moodle-theme_forco
+maintainers:
+- github: samuelcalegari
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

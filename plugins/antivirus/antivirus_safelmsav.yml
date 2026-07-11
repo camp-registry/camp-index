@@ -1,0 +1,10 @@
+component: antivirus_safelmsav
+source: https://github.com/lmswithai/moodle-antivirus_safelmsav
+maintainers:
+- github: lmswithai
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Antivirus Safe LMS AV for Moodle platform.

@@ -1,0 +1,10 @@
+component: tool_forced_settings
+source: https://github.com/jpahullo/moodle-tool_forced_settings
+maintainers:
+- github: jpahullo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle admin tool plugin that forces Moodle settings from external files.

@@ -1,0 +1,10 @@
+component: tool_health
+source: https://github.com/cli-ish/moodle-tool_health
+maintainers:
+- github: cli-ish
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Health tool that was removed from standard package in Moodle 4.0

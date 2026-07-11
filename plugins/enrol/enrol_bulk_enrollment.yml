@@ -1,0 +1,10 @@
+component: enrol_bulk_enrollment
+source: https://github.com/ProFarjan/moodle_bulk_enrollment
+maintainers:
+- github: ProFarjan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: World University of Bangladesh eLearning Moodle Plugin Bulk Enrollments

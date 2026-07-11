@@ -1,0 +1,11 @@
+component: qbehaviour_deferrednonegatives
+source: https://github.com/moodleulpgc/moodle-qbehaviour_deferrednonegatives
+maintainers:
+- github: moodleulpgc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allow to use moodle quizzes with questions having negative fractional grades  without
+  actually apply those grades, only considering posite ones

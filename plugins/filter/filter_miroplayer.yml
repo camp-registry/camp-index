@@ -1,0 +1,9 @@
+component: filter_miroplayer
+source: https://github.com/samuelcalegari/moodle-filter_miroplayer
+maintainers:
+- github: samuelcalegari
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

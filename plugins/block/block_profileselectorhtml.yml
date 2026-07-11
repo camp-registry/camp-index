@@ -1,0 +1,11 @@
+component: block_profileselectorhtml
+source: https://github.com/vfremaux/moodle-block_profileselectorhtml
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: A block that distrbutes HTML against rules on standard or custom profile
+  values

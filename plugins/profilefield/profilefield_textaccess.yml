@@ -1,0 +1,10 @@
+component: profilefield_textaccess
+source: https://github.com/ericmerrill/moodle-profilefield_textaccess
+maintainers:
+- github: ericmerrill
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Text Profile with a Permission Restriction

@@ -1,0 +1,10 @@
+component: filter_math
+source: https://github.com/dthies/moodle-filter_math
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle filter that converts mathematical scripts using a variety of plugins

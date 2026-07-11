@@ -1,0 +1,9 @@
+component: local_lockstress
+source: https://github.com/cameron1729/moodle-tool_lockstress
+maintainers:
+- github: cameron1729
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

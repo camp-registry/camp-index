@@ -1,0 +1,12 @@
+component: tool_uploadusersplus
+source: https://github.com/lerouxh/moodle-tool_uploadusersplus
+maintainers:
+- github: lerouxh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An enhanced bulk user upload tool featuring customizable template generation,
+  advanced custom profile field validation, enrollment date restrictions, and detailed
+  email reporting.

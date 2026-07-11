@@ -1,0 +1,11 @@
+component: filter_courseprofesores
+source: https://github.com/dronix69/moodle-filter_courseprofesores
+maintainers:
+- github: dronix69
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Es un plugin de filtro que integra una lista visualmente atractiva de los
+  Profesores del curso, agrupados por roles.

@@ -1,0 +1,11 @@
+component: auth_clcdb
+source: https://github.com/CharityLearning/moodle-auth_clcdb
+maintainers:
+- github: CharityLearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Stripped back version of auth_db used solely to synchronise info fields with
+  any user (auth type ignored).

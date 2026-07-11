@@ -1,0 +1,13 @@
+component: format_trail
+source: https://github.com/JotaDF/moodle-format_trail
+maintainers:
+- github: JotaDF
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Trail format was developed based on the Grid format plugin. He distributes
+  the grids on a trail. Some features were designed to meet some aspects of gamification,
+  being able to change the background style and transparency for grids. In addition
+  to having the responsibility for mobile equipment.

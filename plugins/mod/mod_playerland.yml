@@ -1,0 +1,13 @@
+component: mod_playerland
+source: https://github.com/jeanlucio/moodle-mod_playerland
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PlayerLand is a Moodle activity module that embeds a playable 2D platformer
+  game directly inside a course. Students control Huddy the fox — running, jumping
+  and exploring a level — and answer questions by hitting question blocks, just like
+  the classic platformers they grew up with.

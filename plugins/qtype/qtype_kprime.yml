@@ -1,0 +1,12 @@
+component: qtype_kprime
+source: https://github.com/ethz-let/moodle-qtype_kprime
+maintainers:
+- github: ethz-let
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A four option multiple true-false question type for moodle, as introduced
+  by Krebs (1997). Kprime questions consist of an item stem and four corresponding
+  statements or options.

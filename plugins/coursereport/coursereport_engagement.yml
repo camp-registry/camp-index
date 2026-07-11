@@ -1,0 +1,10 @@
+component: coursereport_engagement
+source: https://github.com/netspotau/moodle-coursereport_engagement
+maintainers:
+- github: netspotau
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: M2.0 & 2.1 version of engagment analytics report

@@ -1,0 +1,11 @@
+component: qtype_vdexpression
+source: https://github.com/roomlane/moodle-qtype_vdexpression
+maintainers:
+- github: roomlane
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle question type plugin. Student needs to write a set theory formula
+  that corresponds to shown Venn's diagram

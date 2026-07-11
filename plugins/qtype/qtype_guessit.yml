@@ -1,0 +1,10 @@
+component: qtype_guessit
+source: https://github.com/bhect0/moodle-qtype_guessit
+maintainers:
+- github: bhect0
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Adapt papijo H5P Guess It activity to Moodle question type

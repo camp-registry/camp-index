@@ -1,0 +1,11 @@
+component: auth_classlink
+source: https://github.com/GopalSharma/moodle-auth_classlink
+maintainers:
+- github: GopalSharma
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The ClassLink OAuth2 plugin provides single-sign-on functionality with ClassLink
+  LaunchPad using configurable identity providers and the scope of ClassLink OAuth2.

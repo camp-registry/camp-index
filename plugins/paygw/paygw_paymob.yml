@@ -1,0 +1,10 @@
+component: paygw_paymob
+source: https://github.com/fmido88/moodle-paygw_paymob
+maintainers:
+- github: fmido88
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allow payments in moodle using Paymob payment gateway.

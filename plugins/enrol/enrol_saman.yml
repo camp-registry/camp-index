@@ -1,0 +1,10 @@
+component: enrol_saman
+source: https://github.com/mohamadaliakbari/moodle-enrol_saman
+maintainers:
+- github: mohamadaliakbari
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Saman (sb24.com) Gateway for moodle

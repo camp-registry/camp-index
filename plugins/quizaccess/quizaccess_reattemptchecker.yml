@@ -1,0 +1,10 @@
+component: quizaccess_reattemptchecker
+source: https://github.com/terrycampbell/moodle-quizaccess_reattemptchecker
+maintainers:
+- github: terrycampbell
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Reattempt checker quiz access rule for Moodle quiz.

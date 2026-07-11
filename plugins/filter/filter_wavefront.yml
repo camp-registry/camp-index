@@ -1,0 +1,10 @@
+component: filter_wavefront
+source: https://github.com/iandavidwild/moodle-filter_wavefront
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle filter to display 3D models from a Wavefront gallery. Requires mod_wavefront.

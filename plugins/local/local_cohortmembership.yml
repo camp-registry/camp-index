@@ -1,0 +1,9 @@
+component: local_cohortmembership
+source: https://github.com/tkorner/moodle-local_cohortmembership
+maintainers:
+- github: tkorner
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

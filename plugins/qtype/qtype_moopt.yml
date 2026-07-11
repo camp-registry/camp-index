@@ -1,0 +1,10 @@
+component: qtype_moopt
+source: https://github.com/hsh-elc/moodle-qtype_moopt
+maintainers:
+- github: hsh-elc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Qtype for ProForma taskformat

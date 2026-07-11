@@ -1,0 +1,10 @@
+component: enrol_ilbead
+source: https://github.com/interlegis/moodle_enrol_ilbead
+maintainers:
+- github: interlegis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Regras de matrícula nos cursos EAD do ILB

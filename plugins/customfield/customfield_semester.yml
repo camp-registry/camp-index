@@ -1,0 +1,9 @@
+component: customfield_semester
+source: https://github.com/learnweb/moodle-customfield_semester
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

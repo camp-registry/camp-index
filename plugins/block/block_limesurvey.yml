@@ -1,0 +1,10 @@
+component: block_limesurvey
+source: https://github.com/SergioComeron/moodle-block-limesurvey
+maintainers:
+- github: SergioComeron
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: Moodle Limesurvey integration

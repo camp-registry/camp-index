@@ -1,0 +1,10 @@
+component: mod_taskchain
+source: https://github.com/gbateson/moodle-mod_taskchain
+maintainers:
+- github: gbateson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: TaskChain activity module for Moodle >= 2.0

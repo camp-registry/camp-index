@@ -1,0 +1,10 @@
+component: theme_crisp
+source: https://github.com/dualcube/moodle-theme_crisp
+maintainers:
+- github: dualcube
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Crisp Bootstrap Theme for Moodle

@@ -1,0 +1,9 @@
+component: qtype_turmultiplechoice
+source: https://github.com/edwinp-catalyst-eu/moodle-qtype_turmultiplechoice
+maintainers:
+- github: edwinp-catalyst-eu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

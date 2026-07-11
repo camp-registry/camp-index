@@ -1,0 +1,10 @@
+component: assignsubmission_urlsub
+source: https://github.com/mrvinceo/moodle-assignsubmission_urlsub
+maintainers:
+- github: mrvinceo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple Moodle plugin to allow URLs to be submitted as part of an assignment.

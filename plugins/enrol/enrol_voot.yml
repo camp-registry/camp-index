@@ -1,0 +1,10 @@
+component: enrol_voot
+source: https://github.com/biancini/moodle-enrol_voot
+maintainers:
+- github: biancini
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle enrolment plugin for external VOOT server

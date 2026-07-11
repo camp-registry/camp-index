@@ -1,0 +1,10 @@
+component: theme_shoelace
+source: https://github.com/gjb2048/moodle-theme_shoelace
+maintainers:
+- github: gjb2048
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Based upon the Bootstrap theme.

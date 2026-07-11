@@ -1,0 +1,10 @@
+component: atto_orphaned
+source: https://github.com/schulportalhessen/moodle-atto_orphaned
+maintainers:
+- github: schulportalhessen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Deprecated!!! Please consider for moodle the use of https://github.com/schulportalhessen/moodle-tiny_orphanedfiles

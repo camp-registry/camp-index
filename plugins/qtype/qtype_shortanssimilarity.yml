@@ -1,0 +1,10 @@
+component: qtype_shortanssimilarity
+source: https://github.com/VIP-Research-Group/moodle-qtype_shortanssimilarity
+maintainers:
+- github: VIP-Research-Group
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: New repo for the Short Answer Similarity question type Moodle plugin

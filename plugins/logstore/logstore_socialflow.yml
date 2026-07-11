@@ -1,0 +1,10 @@
+component: logstore_socialflow
+source: https://github.com/zabellemotte/moodle-logstore_socialflow
+maintainers:
+- github: zabellemotte
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Logstore for Social Flow

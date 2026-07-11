@@ -1,0 +1,12 @@
+component: local_msgraph_api_mailer
+source: https://github.com/krishnaGuptaGit/moodle-local_msgraph_api_mailer
+maintainers:
+- github: krishnaGuptaGit
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MS Graph API Mailer replaces Moodle's built-in SMTP email delivery with Microsoft
+  Graph API, routing all outgoing emails through Microsoft 365 / Azure AD using OAuth2
+  client credentials — no SMTP server or password required.

@@ -1,0 +1,11 @@
+component: format_event
+source: https://github.com/emeneo/moodle-format_event
+maintainers:
+- github: emeneo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The moodle course format "Event" is intended to be used for short training
+  events. Upon course creation, it creates a corresponding calendar event.

@@ -1,0 +1,10 @@
+component: tinymce_proofreadertools
+source: https://github.com/IOC/moodle-tinymce_proofreadertools
+maintainers:
+- github: IOC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Eines de correcció per l'editor tinymce

@@ -1,0 +1,11 @@
+component: mod_onlyofficedocspace
+source: https://github.com/ONLYOFFICE/moodle-mod_onlyofficedocspace
+maintainers:
+- github: ONLYOFFICE
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The plugin which enables users to edit and co-author office documents within
+  the Moodle course structure using ONLYOFFICE DocSpace

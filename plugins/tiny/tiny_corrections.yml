@@ -1,0 +1,9 @@
+component: tiny_corrections
+source: https://github.com/NicoAlexH/moodle-tiny_corrections
+maintainers:
+- github: NicoAlexH
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

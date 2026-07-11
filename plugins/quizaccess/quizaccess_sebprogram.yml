@@ -1,0 +1,10 @@
+component: quizaccess_sebprogram
+source: https://github.com/UNIMOODLE/moodle-quizaccess_sebprogram
+maintainers:
+- github: UNIMOODLE
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows configuration of SEB access to quiz with institutional rules

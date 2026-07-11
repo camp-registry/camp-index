@@ -1,0 +1,10 @@
+component: filter_automultilang
+source: https://github.com/tinjohn/moodle-filter_automultilang
+maintainers:
+- github: tinjohn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Automultilanguage Filter - translates Moodle content by Deepl

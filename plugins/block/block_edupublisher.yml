@@ -1,0 +1,12 @@
+component: block_edupublisher
+source: https://github.com/center-for-learning-management/moodle-block_edupublisher
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin allows to build an internal course database that is taggable
+  and searchable via meta information. Any imports are moved to the desired position
+  in a course without being mixed with existing resources.

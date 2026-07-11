@@ -1,0 +1,12 @@
+component: mod_gear
+source: https://github.com/blagojevicboban/moodle-mod_gear
+maintainers:
+- github: blagojevicboban
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: '**GEAR** (Geospatial Educational Augmented Reality) is a Moodle activity
+  module that enables immersive AR/VR learning experiences with 3D models, hotspots,
+  and WebXR support.'

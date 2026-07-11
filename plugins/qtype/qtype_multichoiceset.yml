@@ -1,0 +1,10 @@
+component: qtype_multichoiceset
+source: https://github.com/jmvedrine/moodle-qtype_multichoiceset
+maintainers:
+- github: jmvedrine
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: All or Nothing Moodle question type originally created by Adriane Boyd

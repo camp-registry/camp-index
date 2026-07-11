@@ -1,0 +1,11 @@
+component: block_editablecontenthtml
+source: https://github.com/vfremaux/moodle-block_editablecontenthtml
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple HTML block variant that allows non editing roles to edit content
+  based on a dedicated capability.

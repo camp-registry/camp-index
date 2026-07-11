@@ -1,0 +1,10 @@
+component: auth_cas
+source: https://github.com/moodlehq/moodle-auth_cas
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: CAS Server (SSO) Authentication Plugin for Moodle

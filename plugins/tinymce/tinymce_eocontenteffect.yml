@@ -1,0 +1,10 @@
+component: tinymce_eocontenteffect
+source: https://github.com/cleblond/moodle-tinymce_eocontenteffect
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle TinyMCE Plugin that inserts JS/YUI3 effects (Hide word, section etc.)

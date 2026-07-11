@@ -1,0 +1,9 @@
+component: assignsubmission_onlinepoodll
+source: https://github.com/udir-moodle/assignsubmission_onlinepoodll
+maintainers:
+- github: udir-moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

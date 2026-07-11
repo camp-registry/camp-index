@@ -1,0 +1,10 @@
+component: quizaccess_proctoring_verificient
+source: https://github.com/getsmarter/moodle-mod_quiz_accessrule_proctoring_verificient
+maintainers:
+- github: getsmarter
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle - Proctortrack Plugin

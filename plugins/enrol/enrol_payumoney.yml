@@ -1,0 +1,10 @@
+component: enrol_payumoney
+source: https://github.com/Examtutor/moodle-enrol_payumoney
+maintainers:
+- github: Examtutor
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PayU Money Payment Gateway Moodle Integration

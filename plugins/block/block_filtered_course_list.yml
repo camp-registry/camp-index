@@ -1,0 +1,10 @@
+component: block_filtered_course_list
+source: https://github.com/CLAMP-IT/moodle-blocks_filtered_course_list
+maintainers:
+- github: CLAMP-IT
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Filtered Course List Moodle block displays a configurable list of courses.

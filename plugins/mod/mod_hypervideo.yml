@@ -1,0 +1,9 @@
+component: mod_hypervideo
+source: https://github.com/CATALPAresearch/moodle-mod_hypervideo
+maintainers:
+- github: CATALPAresearch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

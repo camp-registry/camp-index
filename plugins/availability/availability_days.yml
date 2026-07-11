@@ -1,0 +1,11 @@
+component: availability_days
+source: https://github.com/willianmano/moodle-availability_days
+maintainers:
+- github: willianmano
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows activating activities or sections at a delayed day offset from course
+  aperture

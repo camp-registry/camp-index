@@ -1,0 +1,11 @@
+component: availability_dedicationtime
+source: https://github.com/santoshndev/moodle-availability_dedicationtime
+maintainers:
+- github: santoshndev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle availability plugin which lets users restrict resources and activities
+  with dedication time

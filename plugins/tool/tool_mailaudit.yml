@@ -1,0 +1,11 @@
+component: tool_mailaudit
+source: https://github.com/Resources4Moodle/moodle-tool_mailaudit
+maintainers:
+- github: Resources4Moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Sent email audit admin tool for Moodle 5.2 (tool_mailaudit): event-based
+  capture of outbound mail with a searchable, exportable, privacy-aware audit.'

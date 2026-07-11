@@ -1,0 +1,11 @@
+component: local_mediaconversion
+source: https://github.com/ucla/moodle-local_mediaconversion
+maintainers:
+- github: ucla
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to automatically convert videos uploaded to the Kaltura streaming
+  video platform

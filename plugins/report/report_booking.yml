@@ -1,0 +1,10 @@
+component: report_booking
+source: https://github.com/kbwebsolutions/moodle-report_bookingform
+maintainers:
+- github: kbwebsolutions
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The report repo for  the Booking form from Adaptivle

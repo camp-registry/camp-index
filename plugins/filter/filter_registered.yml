@@ -1,0 +1,12 @@
+component: filter_registered
+source: https://github.com/eberhardt/moodle-filter_registered
+maintainers:
+- github: eberhardt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This an extention for the Moodle plugin 'Registration' (moodle-mod_registration).
+  It gives all editors the possibility to show the number of submissions of a registration
+  on any moodle page.

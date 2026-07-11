@@ -1,0 +1,11 @@
+component: quizaccess_kill
+source: https://github.com/dthies/moodle-quizaccess_kill
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle quiz access rule that adds an instant kill option to the Immediate
+  feedback behaviour

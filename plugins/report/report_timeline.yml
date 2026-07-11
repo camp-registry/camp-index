@@ -1,0 +1,10 @@
+component: report_timeline
+source: https://github.com/SysBind/moodle-report_timeline
+maintainers:
+- github: SysBind
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Visualize moodle event log over time

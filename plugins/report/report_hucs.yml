@@ -1,0 +1,10 @@
+component: report_hucs
+source: https://github.com/gnutar/moodle-report-hucs
+maintainers:
+- github: gnutar
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to list submission statuses for feedback posted in courses.

@@ -1,0 +1,12 @@
+component: local_mockusers
+source: https://github.com/dmirandaa/moodle-local_mockusers
+maintainers:
+- github: dmirandaa
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local plugin for Moodle that exposes a Web Service to create fictitious users
+  in bulk, with unique names, valid email addresses and, optionally, valid Brazilian
+  CPFs assigned to a custom profile field.

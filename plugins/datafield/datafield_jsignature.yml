@@ -1,0 +1,11 @@
+component: datafield_jsignature
+source: https://github.com/abautu/moodle-datafield_jsignature
+maintainers:
+- github: abautu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A field type for Moodle database activities that allows signatures (using
+  jSignature)

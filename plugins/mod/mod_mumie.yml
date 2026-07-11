@@ -1,0 +1,9 @@
+component: mod_mumie
+source: https://github.com/integral-learning/moodle-mod_mumie
+maintainers:
+- github: integral-learning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

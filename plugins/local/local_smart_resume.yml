@@ -1,0 +1,9 @@
+component: local_smart_resume
+source: https://github.com/hetcxp/moodle-local_smart_resume
+maintainers:
+- github: hetcxp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

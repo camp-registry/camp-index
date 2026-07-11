@@ -1,0 +1,11 @@
+component: mod_leitbox
+source: https://github.com/peterpleimfeldner-design/moodle-mod_leitbox
+maintainers:
+- github: peterpleimfeldner-design
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Native spaced repetition for Moodle. Built on the Leitner method – no extra
+  login, no external tools, GDPR compliant

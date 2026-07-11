@@ -1,0 +1,11 @@
+component: qtype_ubtruefalse
+source: https://github.com/EquipTecnicCampus/moodle-qtype_ubtruefalse
+maintainers:
+- github: EquipTecnicCampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Question type for Moodle. A true/false question with a button to deselect
+  previous selected answers.

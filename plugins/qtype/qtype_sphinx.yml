@@ -1,0 +1,11 @@
+component: qtype_sphinx
+source: https://github.com/jamiepratt/moodle-qtype_sphinx
+maintainers:
+- github: jamiepratt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle question type plugin which records speech from a student and assesses
+  their pronunciation

@@ -1,0 +1,12 @@
+component: report_offlinequizcron
+source: https://github.com/academic-moodle-cooperation/moodle-report_offlinequizcron
+maintainers:
+- github: academic-moodle-cooperation
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Offlinequiz Cronjob Admin allows administrators to monitor and, if necessary,
+  control important processes for the evaluation of offline quizzes in the backend
+  of their Moodle platform.

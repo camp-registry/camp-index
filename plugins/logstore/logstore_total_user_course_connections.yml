@@ -1,0 +1,9 @@
+component: logstore_total_user_course_connections
+source: https://github.com/cperves/moodle-logstore_total_user_course_connections
+maintainers:
+- github: cperves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

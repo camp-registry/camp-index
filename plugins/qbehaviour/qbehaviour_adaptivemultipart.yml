@@ -1,0 +1,11 @@
+component: qbehaviour_adaptivemultipart
+source: https://github.com/maths/moodle-qbehaviour_adaptivemultipart
+maintainers:
+- github: maths
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Adaptive behaviour for multi-part questions. Initially intended for use with
+  qtype_stack

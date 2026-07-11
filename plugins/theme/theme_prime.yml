@@ -1,0 +1,10 @@
+component: theme_prime
+source: https://github.com/learingom-bit/moodle-theme_lig_prime
+maintainers:
+- github: learingom-bit
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle theme prime

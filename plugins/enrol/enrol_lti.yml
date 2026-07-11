@@ -1,0 +1,10 @@
+component: enrol_lti
+source: https://github.com/marmotteabbas/custom_moodle_enrol_lti
+maintainers:
+- github: marmotteabbas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a personal version of the moodle plugin 'enrol_lti' with enhancements

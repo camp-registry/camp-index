@@ -1,0 +1,11 @@
+component: quiz_randomsummary
+source: https://github.com/StudiUM/moodle-quiz_randomsummary
+maintainers:
+- github: StudiUM
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Displays summary of all random questions in a quiz and which have been answered
+  correctly

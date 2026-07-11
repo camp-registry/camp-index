@@ -1,0 +1,11 @@
+component: local_course_reminder
+source: https://github.com/krishnaGuptaGit/moodle-local_course_reminder
+maintainers:
+- github: krishnaGuptaGit
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Send email to mapped manager to each user profile. Manager email and name
+  should be a custom input fields.

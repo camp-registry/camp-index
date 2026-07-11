@@ -1,0 +1,9 @@
+component: local_helpmate
+source: https://github.com/Calisti-Daniele/moodle-local_helpmate
+maintainers:
+- github: Calisti-Daniele
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

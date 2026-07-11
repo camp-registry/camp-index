@@ -1,0 +1,9 @@
+component: portfolio_evernote
+source: https://github.com/Kavedin/moodle-portfolio_evernote35
+maintainers:
+- github: Kavedin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

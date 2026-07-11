@@ -1,0 +1,9 @@
+component: profilefield_akindiid
+source: https://github.com/ericmerrill/moodle-profilefield_akindiid
+maintainers:
+- github: ericmerrill
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

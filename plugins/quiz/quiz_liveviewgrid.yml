@@ -1,0 +1,10 @@
+component: quiz_liveviewgrid
+source: https://github.com/wjunkin/moodle-quiz_liveviewgrid
+maintainers:
+- github: wjunkin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Dynamic quiz spreadsheet

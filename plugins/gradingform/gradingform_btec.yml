@@ -1,0 +1,11 @@
+component: gradingform_btec
+source: https://github.com/marcusgreen/moodle-gradingform_btec
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: BTEC grading with Refer, Pass, Merit, Distinction. Each level requires all
+  previous level be achieved

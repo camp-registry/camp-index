@@ -1,0 +1,11 @@
+component: mod_imagemap
+source: https://github.com/moodle-by-kelsoncm/mod_imagemap
+maintainers:
+- github: moodle-by-kelsoncm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle module to handle conditional image map based on conclusion of other
+  modules

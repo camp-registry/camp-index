@@ -1,0 +1,10 @@
+component: local_pluginsfetcher
+source: https://github.com/ffhs/moodle-local_pluginsfetcher
+maintainers:
+- github: ffhs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle webservice plugin that retrieves information about installed plugins

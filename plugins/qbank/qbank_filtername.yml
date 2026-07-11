@@ -1,0 +1,11 @@
+component: qbank_filtername
+source: https://github.com/TUL-ELC/moodle-qbank_filtername
+maintainers:
+- github: TUL-ELC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for filtering questions in question bank using question name
+  and text.

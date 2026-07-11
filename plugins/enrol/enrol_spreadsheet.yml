@@ -1,0 +1,10 @@
+component: enrol_spreadsheet
+source: https://github.com/infinitail/moodle-enrol_spreadsheet
+maintainers:
+- github: infinitail
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle enrol plugin using Xlsx / CSV file.

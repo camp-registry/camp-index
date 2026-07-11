@@ -1,0 +1,11 @@
+component: availability_forummetric
+source: https://github.com/ponlawat-w/moodle-availability_forummetric
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Plugin availability type using students' metrics from forum modules
+  to restrict access of other modules in the course.

@@ -1,0 +1,10 @@
+component: block_reporting
+source: https://github.com/youssefelhanafi/moodle_reporting
+maintainers:
+- github: youssefelhanafi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Custom reporting plugin for Moode

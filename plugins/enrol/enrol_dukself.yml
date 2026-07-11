@@ -1,0 +1,11 @@
+component: enrol_dukself
+source: https://github.com/michaelpollak/moodle-enrol_dukself
+maintainers:
+- github: michaelpollak
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Users that enrolled themself in a course will be suspended automatically
+  after completion to make user management easier.

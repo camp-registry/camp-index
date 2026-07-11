@@ -1,0 +1,10 @@
+component: plagiarism_uwrite
+source: https://github.com/uwrite/moodle-plagiarism_uwrite
+maintainers:
+- github: uwrite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Uwrite plagiarism plugin for Moodle 2.7 - 3.1

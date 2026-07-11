@@ -1,0 +1,9 @@
+component: cachestore_mongodb
+source: https://github.com/moodlehq/moodle-cachestore_mongodb
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0

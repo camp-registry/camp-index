@@ -1,0 +1,11 @@
+component: tool_browse_users_classic
+source: https://github.com/abautu/moodle-tool_browse_users_classic
+maintainers:
+- github: abautu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple Moodle tool plugin that brings back the classic (i.e. before Moodle
+  4.3) "Browse list of users" page.

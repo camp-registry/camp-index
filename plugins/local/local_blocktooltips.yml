@@ -1,0 +1,13 @@
+component: local_blocktooltips
+source: https://github.com/cbluesprl/moodle-local_blocktooltips
+maintainers:
+- github: cbluesprl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'A Moodle 4.5+ plugin that helps course editors manage blocks.  Tooltips:
+  Adds an info icon in the "Add a block" modal with custom descriptions.  Visibility
+  indicator: Shows an eye icon (visible/hidden for students) on course blocks during
+  edit mode.'

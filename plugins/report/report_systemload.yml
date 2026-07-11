@@ -1,0 +1,11 @@
+component: report_systemload
+source: https://github.com/infinitail/moodle-report_systemload
+maintainers:
+- github: infinitail
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: record load average / login users / response time / disk space in 5min interval
+  and display chart for check system load

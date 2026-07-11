@@ -1,0 +1,10 @@
+component: local_tutores
+source: https://github.com/UFSC/moodle-local-tutores
+maintainers:
+- github: UFSC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Rotinas para agrupamento de tutores e seus estudantes.

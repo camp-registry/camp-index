@@ -1,0 +1,9 @@
+component: message_discord
+source: https://github.com/ilyabuzuev/moodle-discord-message-processor
+maintainers:
+- github: ilyabuzuev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0

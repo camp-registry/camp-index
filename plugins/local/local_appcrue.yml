@@ -1,0 +1,10 @@
+component: local_appcrue
+source: https://github.com/juacas/moodle-local_appcrue
+maintainers:
+- github: juacas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Integraciones varias entre Moodle-AppCrue

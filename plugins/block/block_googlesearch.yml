@@ -1,0 +1,9 @@
+component: block_googlesearch
+source: https://github.com/DopeEx/Moodle-Block-Plugin-Google-Search
+maintainers:
+- github: DopeEx
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

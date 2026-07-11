@@ -1,0 +1,11 @@
+component: antivirus_optimizemedia
+source: https://github.com/ngandrass/moodle-antivirus_optimizemedia
+maintainers:
+- github: ngandrass
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that hooks into the antivirus chain to optimize uploaded images
+  developed during the Moodle Moot DACH DevCamp 2026

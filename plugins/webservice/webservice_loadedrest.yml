@@ -1,0 +1,10 @@
+component: webservice_loadedrest
+source: https://github.com/AVADOLearning/moodle-webservice_loadedrest
+maintainers:
+- github: AVADOLearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: It's not REST, but it's closer

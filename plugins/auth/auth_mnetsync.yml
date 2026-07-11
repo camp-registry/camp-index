@@ -1,0 +1,10 @@
+component: auth_mnetsync
+source: https://github.com/dasistwas/moodle-auth_mnetsync
+maintainers:
+- github: dasistwas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MNET authentification with profile fields syncronisation

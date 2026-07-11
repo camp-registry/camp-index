@@ -1,0 +1,11 @@
+component: logstore_selective
+source: https://github.com/SimonThornett/moodle-logstore_selective
+maintainers:
+- github: SimonThornett
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Selective logstore for Moodle that allows you to define which events you
+  log and how long you keep each for

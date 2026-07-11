@@ -1,0 +1,10 @@
+component: report_coursestats_v2
+source: https://github.com/dired-ufla/moodle-report_coursestats_v2
+maintainers:
+- github: dired-ufla
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Version 2 of the CourseStats Moodle Report Plugin

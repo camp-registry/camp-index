@@ -1,0 +1,11 @@
+component: media_jove
+source: https://github.com/bobopinna/moodle-media_jove
+maintainers:
+- github: bobopinna
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle media plugin that embed JoVE player when multimedia plugin filter
+  match JoVE resources URLs

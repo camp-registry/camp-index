@@ -1,0 +1,10 @@
+component: format_socialplus
+source: https://github.com/danmarsden/moodle-course-format_socialplus
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: socialformat with full section at top - allows activies/resources to be added.

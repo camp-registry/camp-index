@@ -1,0 +1,11 @@
+component: block_uapv_boardz
+source: https://github.com/DarsFabian/moodle-block_uapv_boardz
+maintainers:
+- github: DarsFabian
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple bloc moodle qui permet d'afficher la page Boardz correspondante au
+  cours.

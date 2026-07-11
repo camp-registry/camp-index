@@ -1,0 +1,11 @@
+component: message_smartsmtp
+source: https://github.com/raxelion/moodle-message_smartsmtp
+maintainers:
+- github: raxelion
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Message output processor that routes Moodle notifications through SmartSMTP-managed
+  SMTP accounts.

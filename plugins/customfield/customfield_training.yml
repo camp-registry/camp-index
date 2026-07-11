@@ -1,0 +1,9 @@
+component: customfield_training
+source: https://github.com/open-lms-open-source/moodle-customfield_training
+maintainers:
+- github: open-lms-open-source
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

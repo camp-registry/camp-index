@@ -1,0 +1,10 @@
+component: enrol_wsscol
+source: https://github.com/legrave/moodle-enrol_wsscol
+maintainers:
+- github: legrave
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enrolment via a call to an external web service

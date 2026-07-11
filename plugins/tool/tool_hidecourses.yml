@@ -1,0 +1,11 @@
+component: tool_hidecourses
+source: https://github.com/LafColITS/moodle-tool_hidecourses
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin which allows managers to set all courses in a category (including
+  subcategories) to either hidden from, or visible to, students

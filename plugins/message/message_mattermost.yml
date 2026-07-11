@@ -1,0 +1,9 @@
+component: message_mattermost
+source: https://github.com/Brightscout/moodle-message_output_mattermost
+maintainers:
+- github: Brightscout
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

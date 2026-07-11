@@ -1,0 +1,11 @@
+component: format_drip
+source: https://github.com/solin-repo/moodle-format_drip
+maintainers:
+- github: solin-repo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Drips course content based on enrollment start date, e.g. every week a new
+  topic.

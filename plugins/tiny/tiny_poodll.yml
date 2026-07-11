@@ -1,0 +1,9 @@
+component: tiny_poodll
+source: https://github.com/udir-moodle/tiny_poodll
+maintainers:
+- github: udir-moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

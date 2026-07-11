@@ -1,0 +1,10 @@
+component: auth_kipmi
+source: https://github.com/tinqin-software/moodle-auth_kipmi
+maintainers:
+- github: tinqin-software
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Authentication plugin for KIPMI

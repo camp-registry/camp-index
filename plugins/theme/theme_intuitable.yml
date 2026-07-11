@@ -1,0 +1,9 @@
+component: theme_intuitable
+source: https://github.com/truespider/moodle-theme-intuitable
+maintainers:
+- github: truespider
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

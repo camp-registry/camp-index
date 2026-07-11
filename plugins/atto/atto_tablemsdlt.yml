@@ -1,0 +1,11 @@
+component: atto_tablemsdlt
+source: https://github.com/msdlt/moodle_atto_plugin_tablemsdlt
+maintainers:
+- github: msdlt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: changes to the Moodle Atto plugin for inserting tables to fit MSDLT style
+  guide. Standard table cannot be forked on GitHub

@@ -1,0 +1,11 @@
+component: local_profilefield_autofill
+source: https://github.com/davidpesce/moodle-local_profilefield_autofill
+maintainers:
+- github: davidpesce
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local Moodle plugin that updates user profile fields based on admin-specified
+  rules.

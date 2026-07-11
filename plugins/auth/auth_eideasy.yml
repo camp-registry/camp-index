@@ -1,0 +1,10 @@
+component: auth_eideasy
+source: https://github.com/argoilves/moodle-eideasy-authentication
+maintainers:
+- github: argoilves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: This Moodle plugin integrates the eID Easy authentication service into Moodle.

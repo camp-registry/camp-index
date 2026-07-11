@@ -1,0 +1,10 @@
+component: local_fhcompletews
+source: https://github.com/FH-Complete/moodle-local_fhcompletews
+maintainers:
+- github: FH-Complete
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: FHComplete Moodle Webservice Plugin

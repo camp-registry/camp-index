@@ -1,0 +1,10 @@
+component: block_wallet
+source: https://github.com/fmido88/moodle-block_wallet
+maintainers:
+- github: fmido88
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Display and control wallet balance in moodle.

@@ -1,0 +1,9 @@
+component: filter_movingimageembed
+source: https://github.com/nersesov/moodle-filter_movingimageembed
+maintainers:
+- github: nersesov
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

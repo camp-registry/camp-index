@@ -1,0 +1,9 @@
+component: auth_telegram
+source: https://github.com/izdiadcompany/moodle-auth_telegram
+maintainers:
+- github: izdiadcompany
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

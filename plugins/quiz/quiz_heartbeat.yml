@@ -1,0 +1,11 @@
+component: quiz_heartbeat
+source: https://github.com/PhilippImhof/moodle-quiz_heartbeat
+maintainers:
+- github: PhilippImhof
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Quiz report plugin for the Moodle LMS, showing an overview of the time elapsed
+  since the last interaction of each student with the Moodle server during a quiz

@@ -1,0 +1,10 @@
+component: block_jikanwari
+source: https://github.com/nakaharatt/moodle-block_jikanwari
+maintainers:
+- github: nakaharatt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle時間割ブロックプラグイン。Moodle4.5/5.1対応。

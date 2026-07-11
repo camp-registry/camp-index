@@ -1,0 +1,9 @@
+component: block_customdashboard
+source: https://github.com/Tareq-Adnan/moodle-block_customdashboard
+maintainers:
+- github: Tareq-Adnan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: enrol_ildpayone
+source: https://github.com/oncampus/moodle_enrol_ildpayone
+maintainers:
+- github: oncampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

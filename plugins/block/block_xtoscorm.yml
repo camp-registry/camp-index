@@ -1,0 +1,12 @@
+component: block_xtoscorm
+source: https://github.com/justaddwater-in/moodle-block_xtoscorm
+maintainers:
+- github: justaddwater-in
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The XtoSCORM Moodle block plugin connects your Moodle site with XtoSCORM.com,
+  allowing teachers, trainers, and LMS administrators to quickly generate LMS-ready
+  SCORM packages without using external authoring tools.

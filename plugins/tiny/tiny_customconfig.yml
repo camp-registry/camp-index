@@ -1,0 +1,10 @@
+component: tiny_customconfig
+source: https://github.com/gthomas2/moodle-tiny_customconfig
+maintainers:
+- github: gthomas2
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Custom configurations for Tiny editor (Moodle's new Tiny MCE editor)

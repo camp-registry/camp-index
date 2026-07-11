@@ -1,0 +1,10 @@
+component: block_page_tracker
+source: https://github.com/vfremaux/moodle-block_page_tracker
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Page tracker tracks page visits and provid smart monitoring and page backlinks

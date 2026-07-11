@@ -1,0 +1,10 @@
+component: gradingform_guide
+source: https://github.com/Lightwork-Marking/moodle-gradingform_guide
+maintainers:
+- github: Lightwork-Marking
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Marking Guide grading format

@@ -1,0 +1,9 @@
+component: enrol_extendedguest
+source: https://github.com/bdpz/moodle-enrol_extendedguest
+maintainers:
+- github: bdpz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

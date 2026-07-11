@@ -1,0 +1,10 @@
+component: mod_clearlesson
+source: https://github.com/CharityLearning/moodle-mod_clearlesson
+maintainers:
+- github: CharityLearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle integration for the Clear Lesson video platform.

@@ -1,0 +1,11 @@
+component: block_rolespecifichtml
+source: https://github.com/vfremaux/moodle-block_rolespecifichtml
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that provides distinct content wether the role you are assigned to
+  in the course

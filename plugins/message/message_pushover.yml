@@ -1,0 +1,10 @@
+component: message_pushover
+source: https://github.com/jsnfwlr/moodle-message_pushover
+maintainers:
+- github: jsnfwlr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Pushover Notification plugin for Moodle

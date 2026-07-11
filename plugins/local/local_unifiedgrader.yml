@@ -1,0 +1,10 @@
+component: local_unifiedgrader
+source: https://github.com/mkpelletier/moodle-local_unifiedgrader
+maintainers:
+- github: mkpelletier
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 5.0 unified grading interface plugin with PDF annotation tools

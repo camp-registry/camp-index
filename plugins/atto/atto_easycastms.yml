@@ -1,0 +1,10 @@
+component: atto_easycastms
+source: https://github.com/adrienthiery/moodle-atto_easycastms-button-plugin
+maintainers:
+- github: adrienthiery
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: EasyCast MediaServer Button plugin for moodle's Atto text editor

@@ -1,0 +1,10 @@
+component: block_vitrina
+source: https://github.com/bambuco/moodle-block_vitrina
+maintainers:
+- github: bambuco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block to display a list of courses and their general information.

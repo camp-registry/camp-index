@@ -1,0 +1,11 @@
+component: local_userdatasync
+source: https://github.com/haniayyoub/moodle-local_userdatasync
+maintainers:
+- github: haniayyoub
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Synchronizes selected Moodle user profile fields from an external database
+  table or view using scheduled tasks and configurable field mappings.

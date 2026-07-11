@@ -1,0 +1,11 @@
+component: tiny_dictate
+source: https://github.com/frumbert/moodle-tiny_dictate
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A TinyMCE plugin for Moodle 5 to enable Speech to Text (dictation) entry
+  into editors.

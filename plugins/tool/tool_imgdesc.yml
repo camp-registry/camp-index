@@ -1,0 +1,10 @@
+component: tool_imgdesc
+source: https://github.com/mattporritt/moodle-tool_imgdesc
+maintainers:
+- github: mattporritt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A test plugin for working with AI generated image descriptions

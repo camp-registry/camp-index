@@ -1,0 +1,10 @@
+component: mod_coursemail
+source: https://github.com/jlsimon/moodle-mod_coursemail
+maintainers:
+- github: jlsimon
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Internal course mailbox activity for Moodle 4.1 (threaded messaging + completion).

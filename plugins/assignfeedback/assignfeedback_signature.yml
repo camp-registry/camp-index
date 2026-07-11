@@ -1,0 +1,11 @@
+component: assignfeedback_signature
+source: https://github.com/dsv-su/moodle-assignfeedback_signature
+maintainers:
+- github: dsv-su
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Feedback plugin for the new assignment type (2.3) for Moodle. It allows a
+  teacher to require a signature before giving a student a mark.

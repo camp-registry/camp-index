@@ -1,0 +1,10 @@
+component: theme_minimal
+source: https://github.com/martignoni/moodle-theme_minimal
+maintainers:
+- github: martignoni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A minimal Boost child theme for Moodle

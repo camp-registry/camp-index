@@ -1,0 +1,11 @@
+component: repository_eprintssd
+source: https://github.com/ULCC/moodle-repository_eprintssd
+maintainers:
+- github: ULCC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: contains repo plugins for searching and downloading content from ePrints
+  repository

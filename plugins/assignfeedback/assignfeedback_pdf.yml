@@ -1,0 +1,12 @@
+component: assignfeedback_pdf
+source: https://github.com/davosmith/moodle-assignfeedback_pdf
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Along with moodle-assignsubmission_pdf, this plugin allows students to submit
+  their work as a PDF, then have the teacher annotate it online, before returning
+  the marked PDF to the student.

@@ -1,0 +1,10 @@
+component: qtype_easyoddname
+source: https://github.com/cleblond/moodle-qtype_easyoddname
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Drag and Drop OChem Nomenclature Qtype for Moodle 2.5-2.6

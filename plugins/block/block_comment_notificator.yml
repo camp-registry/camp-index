@@ -1,0 +1,9 @@
+component: block_comment_notificator
+source: https://github.com/yasada0819/moodle-block_comment_notificator
+maintainers:
+- github: yasada0819
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

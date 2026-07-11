@@ -1,0 +1,9 @@
+component: local_mailwhistle
+source: https://github.com/moodlelocalmailwhistle/moodle-local_mailwhistle
+maintainers:
+- github: moodlelocalmailwhistle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

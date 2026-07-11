@@ -1,0 +1,9 @@
+component: paygw_duitku
+source: https://github.com/duitkupg/moodle-paygw_duitku
+maintainers:
+- github: duitkupg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

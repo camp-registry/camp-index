@@ -1,0 +1,11 @@
+component: qbehaviour_dfcbmexplicitvaildate
+source: https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate
+maintainers:
+- github: maths
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Deferred feedback with CMB and explicit validation question behaviour for
+  Moodle

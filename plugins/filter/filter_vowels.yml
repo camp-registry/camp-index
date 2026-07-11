@@ -1,0 +1,10 @@
+component: filter_vowels
+source: https://github.com/limsko/moodle-filter_vowels
+maintainers:
+- github: limsko
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Filter for Moodle that changes spaces after vowels into hard space &nbsp;

@@ -1,0 +1,10 @@
+component: repository_openveo
+source: https://github.com/veo-labs/openveo-moodle-repository
+maintainers:
+- github: veo-labs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle repository plugin to insert OpenVeo videos in Moodle

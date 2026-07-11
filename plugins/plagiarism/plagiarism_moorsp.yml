@@ -1,0 +1,10 @@
+component: plagiarism_moorsp
+source: https://github.com/danmarsden/moodle-plagiarism_moorsp
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Really Simple Plagiarism tool

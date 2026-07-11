@@ -1,0 +1,11 @@
+component: qtype_programmedresp
+source: https://github.com/fontinixxl/moodle-qtype_programmedresp
+maintainers:
+- github: fontinixxl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A question type for Moodle which calculates the correct response through
+  a PHP function. It works with qtype_linkerdesc.

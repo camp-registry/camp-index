@@ -1,0 +1,11 @@
+component: assignfeedback_multigradersfeedback
+source: https://github.com/newroco/moodle-assignfeedback_multigradersfeedback
+maintainers:
+- github: newroco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin tied with gradingform_multigraders that enables mass publishing
+  of grades

@@ -1,0 +1,11 @@
+component: tool_backupmanager
+source: https://github.com/vfremaux/moodle-tool_backupmanager
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An admin tool utility that helps sorting and cleaning backup storage areas
+  in Moodle

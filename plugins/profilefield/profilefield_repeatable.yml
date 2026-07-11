@@ -1,0 +1,9 @@
+component: profilefield_repeatable
+source: https://github.com/uaiblaine/moodle-profilefield_repeatable
+maintainers:
+- github: uaiblaine
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

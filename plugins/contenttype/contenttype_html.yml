@@ -1,0 +1,10 @@
+component: contenttype_html
+source: https://github.com/ferranrecio/moodle-contenttype_html
+maintainers:
+- github: ferranrecio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Example HTML contentype for Moodle content bank

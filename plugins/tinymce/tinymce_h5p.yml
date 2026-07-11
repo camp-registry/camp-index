@@ -1,0 +1,10 @@
+component: tinymce_h5p
+source: https://github.com/catalyst/moodle-tinymce_h5p
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A button for TinyMCE editor to add H5P content

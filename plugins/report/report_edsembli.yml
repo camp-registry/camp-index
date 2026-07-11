@@ -1,0 +1,9 @@
+component: report_edsembli
+source: https://github.com/IgniteTim/moodle-report_edsembli
+maintainers:
+- github: IgniteTim
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: tool_lccoursedelete
+source: https://github.com/ccaewan/moodle-tool_lccoursedelete
+maintainers:
+- github: ccaewan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Lifecycle trigger for selecting courses to archive based on user last access
+  and course creation date records.

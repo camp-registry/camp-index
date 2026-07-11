@@ -1,0 +1,11 @@
+component: local_wikicreator
+source: https://github.com/migueldhyne/moodle-local_wikicreator
+maintainers:
+- github: migueldhyne
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin allows Moodle administrators to bulk-create pages in an existing
+  wiki using a JSON structure, with optional group-based page prefixing.

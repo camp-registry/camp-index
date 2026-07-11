@@ -1,0 +1,10 @@
+component: format_mypdchat
+source: https://github.com/kbwebsolutions/moodle-format_mypdchat
+maintainers:
+- github: kbwebsolutions
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MyPD Chat Course format

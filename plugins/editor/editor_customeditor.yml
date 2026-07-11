@@ -1,0 +1,12 @@
+component: editor_customeditor
+source: https://github.com/ianoop007/moodle-editor_customeditor
+maintainers:
+- github: ianoop007
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A powerful, modern WYSIWYG rich text editor plugin for Moodle LMS with 50+
+  features — shapes, SmartArt, charts, code snippets, PDF/Word export, Malayalam fonts,
+  admin settings panel, and comprehensive security hardening. Zero external dependencies.

@@ -1,0 +1,10 @@
+component: theme_digitalta
+source: https://github.com/funiber-edtech/moodle-theme_digitalta
+maintainers:
+- github: funiber-edtech
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: DigitalTA's Moodle 4.1 theme

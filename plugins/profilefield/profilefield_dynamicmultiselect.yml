@@ -1,0 +1,10 @@
+component: profilefield_dynamicmultiselect
+source: https://github.com/tunele/moodle-profilefield_dynamicmultiselect
+maintainers:
+- github: tunele
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: dynamic multiselect custom user profile field for Moodle

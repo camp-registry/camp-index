@@ -1,0 +1,9 @@
+component: qtype_audio
+source: https://github.com/DSI-Universite-Rennes2/moodle-qtype_audio
+maintainers:
+- github: DSI-Universite-Rennes2
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: local_quizdemo
+source: https://github.com/vadimonus/moodle-local_quizdemo
+maintainers:
+- github: vadimonus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

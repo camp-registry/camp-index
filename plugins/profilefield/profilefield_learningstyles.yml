@@ -1,0 +1,11 @@
+component: profilefield_learningstyles
+source: https://github.com/iaparaaprender/moodle-profilefield_learningstyles
+maintainers:
+- github: iaparaaprender
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Profilefield component of Moodle that allows people to inquire about their
+  learning style using the Felder-Silverman test and additional variations of it.

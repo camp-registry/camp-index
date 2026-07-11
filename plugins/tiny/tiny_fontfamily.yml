@@ -1,0 +1,10 @@
+component: tiny_fontfamily
+source: https://github.com/mediamaisteri/moodle-tiny_fontfamily
+maintainers:
+- github: mediamaisteri
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: With this plugin you'll be able to choose your paragraph's font family.

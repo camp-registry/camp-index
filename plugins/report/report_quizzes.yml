@@ -1,0 +1,10 @@
+component: report_quizzes
+source: https://github.com/Svenwas3f/moodle-report_quizzes
+maintainers:
+- github: Svenwas3f
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Plugin to get quiz results over the full system

@@ -1,0 +1,10 @@
+component: auth_nielit
+source: https://github.com/saylordotorg/moodle-auth_nielit
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle authentication plugin for the NIELIT/NDU integration

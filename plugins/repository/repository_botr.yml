@@ -1,0 +1,10 @@
+component: repository_botr
+source: https://github.com/actXc/moodle_repository_botr
+maintainers:
+- github: actXc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: repository for using BitsOnTheRun videos

@@ -1,0 +1,10 @@
+component: tiny_accordion
+source: https://github.com/lsuonline/moodle-tiny_accordion
+maintainers:
+- github: lsuonline
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle TinyMCE accordion plugin (LSU Online fork, extends catalyst/moodle-tiny_accordion)

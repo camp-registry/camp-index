@@ -1,0 +1,10 @@
+component: mod_modernvideoplayer
+source: https://github.com/adebareshowemimo/moodle-mod_modernvideoplayer
+maintainers:
+- github: adebareshowemimo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle activity plugin for playing video

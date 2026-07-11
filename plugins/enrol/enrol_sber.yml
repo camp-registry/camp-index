@@ -1,0 +1,10 @@
+component: enrol_sber
+source: https://github.com/mamaeves/moodle-enrol_sber
+maintainers:
+- github: mamaeves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle enrolment plugin. Allows course enrolment via Sberbank payment gateway

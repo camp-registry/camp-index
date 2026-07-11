@@ -1,0 +1,12 @@
+component: tool_tutor_follow
+source: https://github.com/jrangelardila/moodle-tool_tutor_follow
+maintainers:
+- github: jrangelardila
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Show the grades, course dedication, feedback the activities, in one site,
+  so we analize better the data, and rated the teachers. TODO Provide more detailed
+  description here.

@@ -1,0 +1,10 @@
+component: theme_cmagistratura
+source: https://github.com/mmconte/moodle-theme-cmagistratura
+maintainers:
+- github: mmconte
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Tema personalizado de Moodle para el Consejo de la Magistratura (Stitch design)

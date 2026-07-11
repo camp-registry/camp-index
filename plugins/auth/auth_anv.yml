@@ -1,0 +1,11 @@
+component: auth_anv
+source: https://github.com/fladi/moodle-auth-anv
+maintainers:
+- github: fladi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: BSD-3-Clause
+summary: Moodle 2.4 authentication plugin for the admission procedure used by the
+  Austrian medical universities.

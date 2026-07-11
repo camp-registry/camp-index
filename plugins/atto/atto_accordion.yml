@@ -1,0 +1,9 @@
+component: atto_accordion
+source: https://github.com/t6nis/moodle-atto_accordion
+maintainers:
+- github: t6nis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

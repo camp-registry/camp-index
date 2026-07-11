@@ -1,0 +1,10 @@
+component: local_depan
+source: https://github.com/toosa/moodle-local_depan
+maintainers:
+- github: toosa
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Modern, responsive landing page plugin for Moodle

@@ -1,0 +1,9 @@
+component: plagiarism_edfast
+source: https://github.com/edfast-ai/moodle-plagiarism_edfast
+maintainers:
+- github: edfast-ai
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

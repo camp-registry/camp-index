@@ -1,0 +1,9 @@
+component: block_parentview
+source: https://github.com/Tareq-Adnan/moodle-block_parentview
+maintainers:
+- github: Tareq-Adnan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

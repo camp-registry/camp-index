@@ -1,0 +1,10 @@
+component: qtype_pmatchjme
+source: https://github.com/moodleou/moodle-qtype_pmatchjme
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle pmatch question type with jme molecular editor

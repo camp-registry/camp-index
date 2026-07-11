@@ -1,0 +1,9 @@
+component: format_fntabs
+source: https://github.com/ned-code/moodle-format_fntabs
+maintainers:
+- github: ned-code
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: format_topicstabs
+source: https://github.com/pmatabiau/moodle-format_topicstabs
+maintainers:
+- github: pmatabiau
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

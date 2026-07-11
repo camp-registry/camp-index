@@ -1,0 +1,10 @@
+component: repository_openclipart
+source: https://github.com/Mukudu/moodle-repository_openclipart
+maintainers:
+- github: Mukudu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle repository using openclipart.com

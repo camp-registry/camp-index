@@ -1,0 +1,11 @@
+component: enrol_databasegroups
+source: https://github.com/jamesballard/moodle-enrol_databasegroups
+maintainers:
+- github: jamesballard
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An extension to the standard Moodle database enrolment plug-in to allow groups
+  to be created, and users added or removed from groups.

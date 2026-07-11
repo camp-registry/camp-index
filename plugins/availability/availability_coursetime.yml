@@ -1,0 +1,11 @@
+component: availability_coursetime
+source: https://github.com/danmarsden/moodle-availability_coursetime
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows activating activites or course sections after some time has been validated
+  within a course. refers to the blocks/use_stats module

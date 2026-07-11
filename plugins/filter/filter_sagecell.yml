@@ -1,0 +1,11 @@
+component: filter_sagecell
+source: https://github.com/eugenemodlo/moodle-filter_sagecell
+maintainers:
+- github: eugenemodlo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This filter will replace Sage code in [sage]...[/sage] block with the result
+  of calculation in embedded SageMathCell

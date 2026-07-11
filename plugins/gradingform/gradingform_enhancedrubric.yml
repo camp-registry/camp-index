@@ -1,0 +1,10 @@
+component: gradingform_enhancedrubric
+source: https://github.com/ULCC/moodle-gradingform_enhancedrubric
+maintainers:
+- github: ULCC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Bespoke Newcastle enhanced rubric plugin built by Synergy

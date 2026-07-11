@@ -1,0 +1,10 @@
+component: availability_coursecompletion
+source: https://github.com/vfremaux/moodle-availability_coursecompletion
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows access when a course has been completed

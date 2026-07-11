@@ -1,0 +1,11 @@
+component: theme_h5peventsystem
+source: https://github.com/bytesparrow/moodle-theme_h5peventsystem
+maintainers:
+- github: bytesparrow
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: H5PEventSystem is a theme that provides the possibility to attach events
+  to h5p-content.

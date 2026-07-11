@@ -1,0 +1,10 @@
+component: tool_delivery
+source: https://github.com/vfremaux/moodle-tool_delivery
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A set of integrated tools to deliver moodle code from CVS or SVN repositories.

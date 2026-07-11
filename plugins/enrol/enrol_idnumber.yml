@@ -1,0 +1,11 @@
+component: enrol_idnumber
+source: https://github.com/DL-MIN/moodle-enrol_idnumber
+maintainers:
+- github: DL-MIN
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle enrolment plugin to map the users' custom profile field with multiple
+  entries against the course ID number.

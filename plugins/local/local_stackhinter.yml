@@ -1,0 +1,11 @@
+component: local_stackhinter
+source: https://github.com/danielcregg/moodle-local_stackhinter
+maintainers:
+- github: danielcregg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: STACK AI Hinter - a Moodle local plugin giving CAS-grounded Socratic AI hints
+  on STACK questions (per-quiz opt-in, key server-side).

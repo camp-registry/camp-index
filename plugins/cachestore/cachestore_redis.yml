@@ -1,0 +1,10 @@
+component: cachestore_redis
+source: https://github.com/durana/moodle-cachestore_redis
+maintainers:
+- github: durana
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Redis Cache Store for Moodle

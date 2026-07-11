@@ -1,0 +1,10 @@
+component: mod_multiprogress
+source: https://github.com/proitec-moodle-suite/moodle-mod_multiprogress
+maintainers:
+- github: proitec-moodle-suite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle module to show progress of all courses on the same course category

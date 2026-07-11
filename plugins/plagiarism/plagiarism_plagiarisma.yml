@@ -1,0 +1,10 @@
+component: plagiarism_plagiarisma
+source: https://github.com/plagiarism/moodle-plagiarism_plagiarisma
+maintainers:
+- github: plagiarism
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PLAGIARISMA plugin for Moodle 2.5+

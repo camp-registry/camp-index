@@ -1,0 +1,10 @@
+component: mlbackend_lmswithaipython
+source: https://github.com/lmswithai/moodle-mlbackend_lmswithaipython
+maintainers:
+- github: lmswithai
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: LMSwithAI Moodle mlbackend

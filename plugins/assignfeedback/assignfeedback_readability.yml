@@ -1,0 +1,10 @@
+component: assignfeedback_readability
+source: https://github.com/tomdickman/moodle-assignfeedback_readability
+maintainers:
+- github: tomdickman
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin for implementing Dave Child's Text-Statistics API

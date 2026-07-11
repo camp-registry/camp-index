@@ -1,0 +1,11 @@
+component: enrol_restxml
+source: https://github.com/sdc/moodle-enrol_restxml
+maintainers:
+- github: sdc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: RESTian enrolment plugin, pulling XML from our eILP Leap (leap-ilp.com) and
+  enrolling users on active courses it finds.

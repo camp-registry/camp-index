@@ -1,0 +1,13 @@
+component: block_ungraded_assignments
+source: https://github.com/GopalSharma/moodle-block_ungraded_assignments
+maintainers:
+- github: GopalSharma
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: The plugin displays all ungraded assignments and quizzes that need your attention.
+  Clicking on any item takes you directly to its grading page. As soon as a learner
+  submits an assignment or completes a quiz containing manually graded questions (such
+  as essays), it will automatically appear on your D

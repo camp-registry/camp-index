@@ -1,0 +1,10 @@
+component: repository_moodle19
+source: https://github.com/mofet/moodle-repository_moodle19
+maintainers:
+- github: mofet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A repository for importing courses from moodle19 to moodle2

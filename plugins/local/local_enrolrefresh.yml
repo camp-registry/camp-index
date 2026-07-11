@@ -1,0 +1,9 @@
+component: local_enrolrefresh
+source: https://github.com/Pongkemon01/moodle-local_enrolrefresh
+maintainers:
+- github: Pongkemon01
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

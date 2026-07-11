@@ -1,0 +1,9 @@
+component: block_blc_modules
+source: https://github.com/terus-technology/moodle-block_blcmodules
+maintainers:
+- github: terus-technology
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

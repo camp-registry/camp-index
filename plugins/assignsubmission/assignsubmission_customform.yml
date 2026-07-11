@@ -1,0 +1,9 @@
+component: assignsubmission_customform
+source: https://github.com/think-modular-digital-solutions-GmbH/moodle-assignsubmission_customform
+maintainers:
+- github: think-modular-digital-solutions-GmbH
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0

@@ -1,0 +1,10 @@
+component: auth_azureoauth2
+source: https://github.com/HadynM-TWoA/moodle-auth_azureoauth2
+maintainers:
+- github: HadynM-TWoA
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Azure AD Authentication Plugin  for Moodle

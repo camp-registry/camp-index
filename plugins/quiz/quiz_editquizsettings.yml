@@ -1,0 +1,10 @@
+component: quiz_editquizsettings
+source: https://github.com/moodleou/moodle-quiz_editquizsettings
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Quiz report plugin to let users edit just the quiz dates, but no other settings.

@@ -1,0 +1,11 @@
+component: profilefield_truecity
+source: https://github.com/davidherney/moodle-profilefield_truecity
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a profilefield component of Moodle. It allows users to select their
+  city from an international database.

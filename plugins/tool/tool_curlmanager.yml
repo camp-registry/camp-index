@@ -1,0 +1,11 @@
+component: tool_curlmanager
+source: https://github.com/catalyst/moodle-tool_curlmanager
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Alternative security helper - log/report outbound http requests made by moodle
+  curl lib

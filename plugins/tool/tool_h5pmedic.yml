@@ -1,0 +1,11 @@
+component: tool_h5pmedic
+source: https://github.com/RegardV/moodle-tool_h5pmedic
+maintainers:
+- github: RegardV
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Upgrade H5P Medic — make Moodle upgrades safe: fingerprint, compare, and
+  auto-repair H5P. Built by realandworks.inkypyrus.com'

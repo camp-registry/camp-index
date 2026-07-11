@@ -1,0 +1,10 @@
+component: block_course_descendants
+source: https://github.com/vfremaux/moodle-block_course_descendants
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Provides practical access to descedant courses of a metacourse

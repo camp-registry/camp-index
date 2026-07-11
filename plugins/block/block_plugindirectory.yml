@@ -1,0 +1,11 @@
+component: block_plugindirectory
+source: https://github.com/tedemel/moodle-block-plugindirectory
+maintainers:
+- github: tedemel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block plugin — admin dashboard block listing all installed add-on
+  plugins with search, type filter and compatibility indicators

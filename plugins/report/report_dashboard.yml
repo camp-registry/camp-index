@@ -1,0 +1,10 @@
+component: report_dashboard
+source: https://github.com/andrewrowatt-masseyuni/moodle-report_dashboard
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Course Coordinator Dashboard

@@ -1,0 +1,10 @@
+component: tool_automate
+source: https://github.com/verzog/moodle-tool_automate
+maintainers:
+- github: verzog
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle-tool_automate

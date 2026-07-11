@@ -1,0 +1,10 @@
+component: qtype_jme
+source: https://github.com/jmvedrine/moodle-qtype_jme
+maintainers:
+- github: jmvedrine
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Javascript Molecular Editor question type for Moodle (created by Dan Stowell)

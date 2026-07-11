@@ -1,0 +1,10 @@
+component: auth_nntp
+source: https://github.com/moodlehq/moodle-auth_nntp
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Nntp authentication plugin removed from standard distibution in Moodle 3.4

@@ -1,0 +1,12 @@
+component: quizaccess_seb
+source: https://github.com/catalyst/moodle-quizaccess_seb
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to integrate Safe Exam Browser into the quiz activity. This plugin
+  is part of 3.9 Moodle standard distribution, but shared in the plugin directory
+  for Moodle 3.7 and 3.8 https://moodle.org/plugins/quizaccess_seb

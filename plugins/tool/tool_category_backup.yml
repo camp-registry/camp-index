@@ -1,0 +1,11 @@
+component: tool_category_backup
+source: https://github.com/jrangelardila/moodle-tool_category_backup
+maintainers:
+- github: jrangelardila
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin can programate task with to realice backups of the all courses
+  in a category.

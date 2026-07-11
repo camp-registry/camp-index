@@ -1,0 +1,9 @@
+component: mod_certifier
+source: https://github.com/certifier-me/moodle-mod_certifier
+maintainers:
+- github: certifier-me
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

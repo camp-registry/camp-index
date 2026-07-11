@@ -1,0 +1,11 @@
+component: local_quizgradingnotify
+source: https://github.com/PickledKitty/moodle-local_quizgradingnotify
+maintainers:
+- github: PickledKitty
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that will notify teachers in a course when there is a quiz
+  that requires manual grading.

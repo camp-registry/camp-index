@@ -1,0 +1,11 @@
+component: local_loginas
+source: https://github.com/bmbrands/moodle-local_loginas
+maintainers:
+- github: bmbrands
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A quick way of logging in as another user, and a quick way to return to your
+  private account

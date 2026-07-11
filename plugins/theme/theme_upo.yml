@@ -1,0 +1,9 @@
+component: theme_upo
+source: https://github.com/bobopinna/moodle-theme_upo
+maintainers:
+- github: bobopinna
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

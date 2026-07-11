@@ -1,0 +1,11 @@
+component: tool_moodiymobile
+source: https://github.com/moodiycloud/moodle-tool_moodiymobile
+maintainers:
+- github: moodiycloud
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle admin tool plugin for MoodiyCloud mobile app provisioning and Airnotifier
+  settings.

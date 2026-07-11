@@ -1,0 +1,9 @@
+component: quiz_downloadsubmissions
+source: https://github.com/patrickthibaudeau/moodle-quiz-report_downloadsubmissions
+maintainers:
+- github: patrickthibaudeau
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

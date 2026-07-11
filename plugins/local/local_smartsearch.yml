@@ -1,0 +1,11 @@
+component: local_smartsearch
+source: https://github.com/mooplugins/moodle-local_smartsearch
+maintainers:
+- github: mooplugins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A fast, command-palette-style Smart Search plugin for Moodle that helps users
+  find courses, activities, users, settings, and admin pages.

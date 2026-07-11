@@ -1,0 +1,10 @@
+component: mod_portfolioact
+source: https://github.com/JISC-DOULS/moodle-mod_portfolioact
+maintainers:
+- github: JISC-DOULS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Portfolio activity tool for Moodle 2

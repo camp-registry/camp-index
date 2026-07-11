@@ -1,0 +1,10 @@
+component: tool_import_user_datas
+source: https://github.com/cperves/moodle-tool_import_user_datas
+maintainers:
+- github: cperves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle plugin to import user datas from a remote plugin

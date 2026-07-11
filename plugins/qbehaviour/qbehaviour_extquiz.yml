@@ -1,0 +1,11 @@
+component: qbehaviour_extquiz
+source: https://github.com/fontinixxl/moodle-qbehaviour_extquiz
+maintainers:
+- github: fontinixxl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: New behaviour plugin currently for moodle 2.4 , soon as possible for the
+  newest moodle version. Has been developed to work with ExtendedQuiz module only

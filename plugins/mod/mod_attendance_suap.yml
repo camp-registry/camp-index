@@ -1,0 +1,10 @@
+component: mod_attendance_suap
+source: https://github.com/suap-ava-suite/moodle-mod_attendance_suap
+maintainers:
+- github: suap-ava-suite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Attendance SUAP Module

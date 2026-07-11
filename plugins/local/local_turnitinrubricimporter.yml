@@ -1,0 +1,10 @@
+component: local_turnitinrubricimporter
+source: https://github.com/jontulloch/moodle-local_turnitinrubricimporter
+maintainers:
+- github: jontulloch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin for importing Turnitin rubrics

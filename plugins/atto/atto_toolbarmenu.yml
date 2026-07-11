@@ -1,0 +1,10 @@
+component: atto_toolbarmenu
+source: https://github.com/mcagigas-at-wiris/moodle-atto_toolbarmenu
+maintainers:
+- github: mcagigas-at-wiris
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Minimal Atto plugin implementing addToolbarMenu method.

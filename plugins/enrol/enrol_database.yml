@@ -1,0 +1,10 @@
+component: enrol_database
+source: https://github.com/KepaUrzelai/moodle_311-enrol_database
+maintainers:
+- github: KepaUrzelai
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Patched enrol database module

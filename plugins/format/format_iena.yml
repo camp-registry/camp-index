@@ -1,0 +1,9 @@
+component: format_iena
+source: https://github.com/SoftiaFR/moodle-format_iena
+maintainers:
+- github: SoftiaFR
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

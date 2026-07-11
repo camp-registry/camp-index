@@ -1,0 +1,9 @@
+component: assignfeedback_gradeconfidence
+source: https://github.com/mouneyrac/moodle-assignfeedback_gradeconfidence
+maintainers:
+- github: mouneyrac
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

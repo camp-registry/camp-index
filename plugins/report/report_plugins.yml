@@ -1,0 +1,11 @@
+component: report_plugins
+source: https://github.com/opitz/moodle-report_plugins
+maintainers:
+- github: opitz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A plugin to generate and store information about plugins used in a Moodle
+  installation

@@ -1,0 +1,10 @@
+component: mod_selfprofile
+source: https://github.com/JohanMyF/moodle-mod_selfprofile
+maintainers:
+- github: JohanMyF
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: To create Likert-scale self-assessments

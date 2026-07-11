@@ -1,0 +1,10 @@
+component: block_assign_download
+source: https://github.com/vfremaux/moodle-block_assign_download
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A usefull accessory for retrieving full zips of assigments

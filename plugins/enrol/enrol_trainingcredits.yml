@@ -1,0 +1,11 @@
+component: enrol_trainingcredits
+source: https://github.com/vfremaux/moodle-enrol_trainingcredits
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An enrol plugin that allows free enrolment of student spending owned training
+  credits in a personal credit account.

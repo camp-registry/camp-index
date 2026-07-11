@@ -1,0 +1,10 @@
+component: repository_evernote
+source: https://github.com/FMCorz/moodle-repository_evernote
+maintainers:
+- github: FMCorz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Evernote repository plugin for Moodle

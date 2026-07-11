@@ -1,0 +1,11 @@
+component: report_courseagenda
+source: https://github.com/bambuco/moodle-report_courseagenda
+maintainers:
+- github: bambuco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This report allows a quick view of the details of the activities in the course
+  along with their current status.

@@ -1,0 +1,11 @@
+component: datafield_harpiainteraction
+source: https://github.com/C4AI/moodle-datafield_harpiainteraction
+maintainers:
+- github: C4AI
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that implements an interaction with a language model for
+  Database activities.

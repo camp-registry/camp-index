@@ -1,0 +1,10 @@
+component: filter_medial
+source: https://github.com/streamingltd/moodle-filter_medial
+maintainers:
+- github: streamingltd
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MEDIAL filter plugin for Moodle

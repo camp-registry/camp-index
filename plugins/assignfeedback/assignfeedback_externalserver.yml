@@ -1,0 +1,9 @@
+component: assignfeedback_externalserver
+source: https://github.com/think-modular-digital-solutions-GmbH/moodle-assignfeedback_externalserver
+maintainers:
+- github: think-modular-digital-solutions-GmbH
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

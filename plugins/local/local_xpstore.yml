@@ -1,0 +1,10 @@
+component: local_xpstore
+source: https://github.com/yerodigo-cell/moodle-local_xpstore
+maintainers:
+- github: yerodigo-cell
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin de Tienda XP para Moodle.

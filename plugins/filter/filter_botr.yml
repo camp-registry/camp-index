@@ -1,0 +1,11 @@
+component: filter_botr
+source: https://github.com/actXc/moodle_filter_botr
+maintainers:
+- github: actXc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: LGPL-3.0
+summary: this filter turns FW (bitsontherun) video links into videos using signed
+  links to prevent leeching

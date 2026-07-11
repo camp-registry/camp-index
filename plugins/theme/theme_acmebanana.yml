@@ -1,0 +1,9 @@
+component: theme_acmebanana
+source: https://github.com/Bananabyte/moodle-theme_acmebanana
+maintainers:
+- github: Bananabyte
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: LGPL-3.0

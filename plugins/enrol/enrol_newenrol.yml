@@ -1,0 +1,11 @@
+component: enrol_newenrol
+source: https://github.com/danielneis/moodle-enrol_newenrol
+maintainers:
+- github: danielneis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A template for Moodle Enrol plugins based on enrol/self to be used with Moosh
+  plugin generation

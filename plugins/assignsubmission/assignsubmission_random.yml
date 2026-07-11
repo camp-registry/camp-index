@@ -1,0 +1,10 @@
+component: assignsubmission_random
+source: https://github.com/miroslavfikar/moodle-assignsubmission_random
+maintainers:
+- github: miroslavfikar
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Random assignment is a plugin fom LMS Moodle

@@ -1,0 +1,9 @@
+component: mod_harpiasurvey
+source: https://github.com/quantica/moodle-mod_harpiasurvey
+maintainers:
+- github: quantica
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

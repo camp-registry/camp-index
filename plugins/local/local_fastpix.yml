@@ -1,0 +1,12 @@
+component: local_fastpix
+source: https://github.com/FastPix/moodle-local_fastpix
+maintainers:
+- github: FastPix
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: FastPix video platform integration for Moodle — admin plugin providing global
+  settings, REST API client, signed playback token issuance, and inbound webhook handling.
+  Foundation for the FastPix × Moodle plugin suite.

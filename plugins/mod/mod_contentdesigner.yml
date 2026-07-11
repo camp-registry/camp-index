@@ -1,0 +1,10 @@
+component: mod_contentdesigner
+source: https://github.com/bdecentgmbh/moodle-mod_contentdesigner
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Content Designer activity for Moodle

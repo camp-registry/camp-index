@@ -1,0 +1,11 @@
+component: mod_aidiscussion
+source: https://github.com/dta121/moodle-mod_aidiscussion
+maintainers:
+- github: dta121
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 4.5+ AI discussion activity module with AI replies, grading, rubric
+  support, and multi-provider configuration.

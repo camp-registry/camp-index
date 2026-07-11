@@ -1,0 +1,9 @@
+component: block_dixeo_coursegen
+source: https://github.com/MakoEdunao/moodle-block_dixeo_coursegen
+maintainers:
+- github: MakoEdunao
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

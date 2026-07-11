@@ -1,0 +1,11 @@
+component: block_user_mnet_hosts
+source: https://github.com/vfremaux/moodle-block_user_mnet_hosts
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that provides selective MNET access links depending on some profile
+  fields attached to each MNET node in the environment

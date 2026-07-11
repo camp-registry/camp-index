@@ -1,0 +1,10 @@
+component: logstore_lanalytics
+source: https://github.com/rwthanalytics/moodle-logstore_lanalytics
+maintainers:
+- github: rwthanalytics
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Learning Analytics for Moodle (Logstore)

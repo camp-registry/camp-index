@@ -1,0 +1,10 @@
+component: atto_htmlplus
+source: https://github.com/andrewnicols/moodle-atto_htmlplus
+maintainers:
+- github: andrewnicols
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: HTMLPlus plugin for Atto

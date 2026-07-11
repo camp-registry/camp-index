@@ -1,0 +1,10 @@
+component: qbehaviour_adaptivepenalty
+source: https://github.com/dthies/moodle-qbehaviour_adaptivepenalty
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle adaptive quiz mode with extra penalty

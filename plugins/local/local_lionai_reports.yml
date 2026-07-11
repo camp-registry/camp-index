@@ -1,0 +1,9 @@
+component: local_lionai_reports
+source: https://github.com/devlionco/moodle-local_lionai_reports
+maintainers:
+- github: devlionco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

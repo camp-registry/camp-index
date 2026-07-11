@@ -1,0 +1,11 @@
+component: cachestore_redismb
+source: https://github.com/vfremaux/moodle-cachestore_redismb
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An alternate version of Moodle's redis cache plugin, allowing indexing in
+  multiple base Redis server instance

@@ -1,0 +1,11 @@
+component: repository_mediawiki
+source: https://github.com/nebgor/moodle-repository_mediawiki
+maintainers:
+- github: nebgor
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle repository to search and use content from any mediawiki installation.
+  Based on moodle's repository_wikimedia.

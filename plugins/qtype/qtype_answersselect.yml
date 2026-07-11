@@ -1,0 +1,10 @@
+component: qtype_answersselect
+source: https://github.com/rezeau/moodle-qtype_answersselect
+maintainers:
+- github: rezeau
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Random Answers Selection question type

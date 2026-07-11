@@ -1,0 +1,9 @@
+component: theme_beauty
+source: https://github.com/Dijanabg/moodle-theme_beauty
+maintainers:
+- github: Dijanabg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

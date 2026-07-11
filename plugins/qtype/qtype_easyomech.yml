@@ -1,0 +1,10 @@
+component: qtype_easyomech
+source: https://github.com/cleblond/moodle-qtype_easyomech
+maintainers:
+- github: cleblond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle qtype for curved arrow (electron pushing) based on MarvinSketch

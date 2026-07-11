@@ -1,0 +1,10 @@
+component: theme_govbrds
+source: https://github.com/moodlegovbr/moodle-theme_govbrds
+maintainers:
+- github: moodlegovbr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Identidade Digital de Governo para o Moodle

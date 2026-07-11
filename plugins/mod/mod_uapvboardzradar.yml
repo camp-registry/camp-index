@@ -1,0 +1,10 @@
+component: mod_uapvboardzradar
+source: https://github.com/DarsFabian/moodle-module_uapvboardzradar
+maintainers:
+- github: DarsFabian
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Module displaying a radar chart on Moodle's home page.

@@ -1,0 +1,9 @@
+component: block_course_rating
+source: https://github.com/suap-moodletheme-suite/moodle-block_course_rating
+maintainers:
+- github: suap-moodletheme-suite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: quiz_livequizmonitor
+source: https://github.com/dpfahl-ms/moodle-quiz_livequizmonitor
+maintainers:
+- github: dpfahl-ms
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

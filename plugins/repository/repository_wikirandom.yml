@@ -1,0 +1,9 @@
+component: repository_wikirandom
+source: https://github.com/marinaglancy/moodle-repository_wikirandom
+maintainers:
+- github: marinaglancy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

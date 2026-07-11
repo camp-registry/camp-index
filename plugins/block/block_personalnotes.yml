@@ -1,0 +1,10 @@
+component: block_personalnotes
+source: https://github.com/tedemel/moodle-block-personalnotes
+maintainers:
+- github: tedemel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block plugin — private tabbed notes for course pages and activities

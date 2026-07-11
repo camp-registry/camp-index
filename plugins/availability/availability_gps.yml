@@ -1,0 +1,10 @@
+component: availability_gps
+source: https://github.com/center-for-learning-management/moodle-availability_gps
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Availability Plugin for GPS Locations

@@ -1,0 +1,9 @@
+component: customfield_duration
+source: https://github.com/andrewhancox/moodle-customfield_duration
+maintainers:
+- github: andrewhancox
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

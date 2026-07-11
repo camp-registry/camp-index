@@ -1,0 +1,10 @@
+component: datafield_report
+source: https://github.com/gbateson/moodle-datafield_report
+maintainers:
+- github: gbateson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: REPORT field type for the Database activity in Moodle >= 2.3

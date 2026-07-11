@@ -1,0 +1,11 @@
+component: tool_curriculumstore
+source: https://github.com/Resources4Moodle/moodle-tool_curriculumstore
+maintainers:
+- github: Resources4Moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Curriculum Store: institutional Course Outcome registry and OBE foundation
+  for Moodle.'

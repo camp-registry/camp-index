@@ -1,0 +1,12 @@
+component: availability_dataformcontent
+source: https://github.com/itamart/moodle-availability_dataformcontent
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An availability condition plugin for Moodle and Dataform. This availability
+  condition allows teachers to restrict user access to course sections, activities
+  or resources, based on user content in a designated Dataform instance in the course.

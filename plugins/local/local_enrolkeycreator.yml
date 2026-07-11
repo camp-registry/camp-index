@@ -1,0 +1,12 @@
+component: local_enrolkeycreator
+source: https://github.com/ssystems-de/moodle-local_enrolkeycreator
+maintainers:
+- github: ssystems-de
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin which will automatically generate and set an enrolment key
+  when a new self-enrolment instance is created without preventing enrolment keys
+  from being removed again.

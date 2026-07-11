@@ -1,0 +1,10 @@
+component: assignsubmission_recording
+source: https://github.com/adamjenkins/moodle-assignsubmission_recording
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Submissions must be recorded audio or video.

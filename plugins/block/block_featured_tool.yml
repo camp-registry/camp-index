@@ -1,0 +1,11 @@
+component: block_featured_tool
+source: https://github.com/appalachianstate/moodle-block_featured_tool
+maintainers:
+- github: appalachianstate
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Featured tool is a Moodle block plugin that allows admins to easily display
+  information/announcements to teachers.

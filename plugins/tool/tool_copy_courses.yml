@@ -1,0 +1,12 @@
+component: tool_copy_courses
+source: https://github.com/jrangelardila/moodle-tool_copy_courses
+maintainers:
+- github: jrangelardila
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin enables bulk duplication of courses on a platform using predefined
+  settings, allowing administrators to quickly replicate entire courses, including
+  structure and content, without manual recreation.

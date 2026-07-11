@@ -1,0 +1,10 @@
+component: qtype_truefalsewiris
+source: https://github.com/wiris/moodle-qtype_truefalsewiris
+maintainers:
+- github: wiris
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Wiris Quizzes - True/False question type

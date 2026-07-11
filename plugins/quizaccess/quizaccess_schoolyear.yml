@@ -1,0 +1,11 @@
+component: quizaccess_schoolyear
+source: https://github.com/schoolyear/moodle-quizaccess_schoolyear
+maintainers:
+- github: schoolyear
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to integrate the Schoolyear safe exam workspace with the Moodle quiz
+  activity.

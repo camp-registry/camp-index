@@ -1,0 +1,10 @@
+component: atto_dictator
+source: https://github.com/justinhunt/moodle-atto_dictator
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Atto Dictator

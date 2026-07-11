@@ -1,0 +1,10 @@
+component: atto_stash
+source: https://github.com/abgreeve/moodle-atto_stash
+maintainers:
+- github: abgreeve
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A plugin that allows easy insertion of stash objects in atto.

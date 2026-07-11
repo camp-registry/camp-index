@@ -1,0 +1,10 @@
+component: repository_videofront
+source: https://github.com/Videofront/moodle-repository_videofront
+maintainers:
+- github: Videofront
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin para Moodle para adição rápida de vídeos da Videoteca

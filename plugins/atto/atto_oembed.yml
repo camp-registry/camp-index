@@ -1,0 +1,10 @@
+component: atto_oembed
+source: https://github.com/AnsonArgyris/moodle-atto_oembed
+maintainers:
+- github: AnsonArgyris
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: oembed plugin for moodle's atto editor

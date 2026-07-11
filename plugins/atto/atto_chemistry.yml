@@ -1,0 +1,10 @@
+component: atto_chemistry
+source: https://github.com/geoffrowland/moodle-editor_atto-chemistry
+maintainers:
+- github: geoffrowland
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Chemistry equation editor for Moodle using the mhchem TeX extension in MathJax

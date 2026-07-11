@@ -1,0 +1,13 @@
+component: quiz_exportresults
+source: https://github.com/Svenwas3f/moodle-quiz_exportresults
+maintainers:
+- github: Svenwas3f
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin that generates multiple .odt files for your quiz results
+  and provides them for download as a zip archive. The user can decide what results
+  the export should contain. With groupmode enabled a enormous exportfilter is added
+  and allows a more accurate export. The user is able to modifie

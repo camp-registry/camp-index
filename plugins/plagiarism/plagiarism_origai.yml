@@ -1,0 +1,11 @@
+component: plagiarism_origai
+source: https://github.com/OriginalityAI/moodle-plagiarism_origai
+maintainers:
+- github: OriginalityAI
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plagiarism plugin for Moodle LMS which allows for metered, on demand usage
+  as opposed to "submit by default".

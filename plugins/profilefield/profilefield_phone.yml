@@ -1,0 +1,10 @@
+component: profilefield_phone
+source: https://github.com/fmido88/moodle-profilefield_phone
+maintainers:
+- github: fmido88
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Profile custom fields for phone with validating phone numbers.

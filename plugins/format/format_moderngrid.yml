@@ -1,0 +1,11 @@
+component: format_moderngrid
+source: https://github.com/adebareshowemimo/moodle-format_moderngrid
+maintainers:
+- github: adebareshowemimo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A responsive Moodle course format that displays course sections in a clean
+  grid layout for easier visual navigation.

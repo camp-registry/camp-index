@@ -1,0 +1,9 @@
+component: mod_slideshow
+source: https://github.com/dixeo/moodle-mod_slideshow
+maintainers:
+- github: dixeo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

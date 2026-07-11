@@ -1,0 +1,11 @@
+component: mod_crucible
+source: https://github.com/cmu-sei/moodle-mod_crucible
+maintainers:
+- github: cmu-sei
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: mod_crucible is an activity plugin that allows Crucible labs and exercises
+  to accessed from the Moodle LMS.

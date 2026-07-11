@@ -1,0 +1,10 @@
+component: mod_tracker
+source: https://github.com/joshjenney/moodle-mod_tracker
+maintainers:
+- github: joshjenney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Ticketting tracker for Moodle used as user support or bug report

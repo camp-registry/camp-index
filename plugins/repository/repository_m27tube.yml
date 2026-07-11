@@ -1,0 +1,11 @@
+component: repository_m27tube
+source: https://github.com/stronk7/moodle-repository_m27tube
+maintainers:
+- github: stronk7
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An interim replacement for the official Moodle 2.7 bundled youtube repository,
+  using the new YouTube APIs

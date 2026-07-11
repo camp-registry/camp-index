@@ -1,0 +1,13 @@
+component: block_masterdashboard
+source: https://github.com/lernsteine/moodle-block_masterdashboard
+maintainers:
+- github: lernsteine
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Master Dashboard is a visual progress block for learners. It organizes courses
+  directly into Overdue, In Progress, and Completed using a responsive and accessible
+  layout. Course images and due dates are displayed. Language support for English
+  and German is included.

@@ -1,0 +1,11 @@
+component: qtype_freetext
+source: https://github.com/jamiepratt/moodle-qtype_freetext
+maintainers:
+- github: jamiepratt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A question type similar to the short answer question type but where responses
+  are graded by a web service.

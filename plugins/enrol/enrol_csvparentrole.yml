@@ -1,0 +1,10 @@
+component: enrol_csvparentrole
+source: https://github.com/spinozarabel/moodle-enrol_csvparentrole
+maintainers:
+- github: spinozarabel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle user relative role assignments using an external CSV file

@@ -1,0 +1,11 @@
+component: availability_coursecat
+source: https://github.com/cbluesprl/moodle-availability_coursecat
+maintainers:
+- github: cbluesprl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle availability plugin. Restrict course module based on course root category
+  name.

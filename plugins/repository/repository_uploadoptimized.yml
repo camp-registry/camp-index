@@ -1,0 +1,11 @@
+component: repository_uploadoptimized
+source: https://github.com/ngandrass/moodle-repository_uploadoptimized
+maintainers:
+- github: ngandrass
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Moot DACH 2026 DevCamp Moodle repository plugin that will resize /
+  optimize files during upload

@@ -1,0 +1,10 @@
+component: enrol_evento
+source: https://github.com/BLC-FHGR/moodle-enrol_evento
+maintainers:
+- github: BLC-FHGR
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Evento Einschreibemethode

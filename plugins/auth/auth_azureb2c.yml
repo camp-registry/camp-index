@@ -1,0 +1,12 @@
+component: auth_azureb2c
+source: https://github.com/GopalSharma/moodle-auth_azureb2c
+maintainers:
+- github: GopalSharma
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Azure AD B2C Connect plugin provides registering of a new user and single-sign-on
+  functionality using configurable identity providers, scope and custom policies of
+  Azure B2C.

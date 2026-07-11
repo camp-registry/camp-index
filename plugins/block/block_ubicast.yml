@@ -1,0 +1,10 @@
+component: block_ubicast
+source: https://github.com/UbiCastTeam/moodle-block_ubicast
+maintainers:
+- github: UbiCastTeam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block plugin for Moodle to embed MediaServer channels in courses.

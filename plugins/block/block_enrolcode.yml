@@ -1,0 +1,13 @@
+component: block_enrolcode
+source: https://github.com/center-for-learning-management/moodle-block_enrolcode
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This moodle block can be integrated in the course context. If it is displayed
+  by a teacher a code can be generated. This code can be entered by other users on
+  their dashboard (if the block is shown!) and allows those users to enrol directly
+  into that course.

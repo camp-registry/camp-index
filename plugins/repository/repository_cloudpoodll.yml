@@ -1,0 +1,11 @@
+component: repository_cloudpoodll
+source: https://github.com/justinhunt/moodle-repository_cloudpoodll
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle repository plugin for adding /editing images (and eventually audio
+  and video)

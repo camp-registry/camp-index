@@ -1,0 +1,11 @@
+component: report_csvcomponentgrades
+source: https://github.com/dianned96/moodle-report_csvcomponentgrades
+maintainers:
+- github: dianned96
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Export_csvcomponentgrades is a plugin that exports grades from an assignment
+  for the following grading methods, Rubric and Marking Guide, into a CSV file.

@@ -1,0 +1,9 @@
+component: auth_wsetsso
+source: https://github.com/wset/moodle-auth_wsetsso
+maintainers:
+- github: wset
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

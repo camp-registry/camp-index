@@ -1,0 +1,11 @@
+component: report_lmsace_reports
+source: https://github.com/lmsace/moodle-report_lmsace_reports
+maintainers:
+- github: lmsace
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: These reports provide detailed insights and analytics to help educators and
+  administrators effectively monitor and enhance the learning experience.

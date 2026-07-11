@@ -1,0 +1,9 @@
+component: auth_connect
+source: https://github.com/refineddata/moodle-auth_connect
+maintainers:
+- github: refineddata
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: filter_ws
+source: https://github.com/dpalou/moodle-filter_ws
+maintainers:
+- github: dpalou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle filter plugin. With this plugin you can choose if some content should
+  be visible in web or only in a WebService client like the Moodle apps.

@@ -1,0 +1,9 @@
+component: qtype_drawing
+source: https://github.com/tuwien-llt/moodle-qtype_drawing
+maintainers:
+- github: tuwien-llt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

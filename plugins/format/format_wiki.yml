@@ -1,0 +1,10 @@
+component: format_wiki
+source: https://github.com/cvut-czm/moodle-format_wiki
+maintainers:
+- github: cvut-czm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Format for creating courses in markdown syntax.

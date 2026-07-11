@@ -1,0 +1,10 @@
+component: availability_enrol
+source: https://github.com/phish108/moodle-availability_enrol
+maintainers:
+- github: phish108
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Availability Plugin depending on the Enrollment Status

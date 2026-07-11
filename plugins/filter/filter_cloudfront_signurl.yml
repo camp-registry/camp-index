@@ -1,0 +1,10 @@
+component: filter_cloudfront_signurl
+source: https://github.com/wset/moodle-filter_cloudfront_signurl
+maintainers:
+- github: wset
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle filter that signs cloudfront urls

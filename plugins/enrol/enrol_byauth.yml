@@ -1,0 +1,10 @@
+component: enrol_byauth
+source: https://github.com/olexs/moodle-enrol_byauth
+maintainers:
+- github: olexs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Authentication-based self-enrolment module für Moodle 2.2+

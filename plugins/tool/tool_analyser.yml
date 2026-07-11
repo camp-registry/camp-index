@@ -1,0 +1,10 @@
+component: tool_analyser
+source: https://github.com/Golem28/moodle-tool_analyser
+maintainers:
+- github: Golem28
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to improve the filtering of the standard logs in moodle.

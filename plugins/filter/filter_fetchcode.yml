@@ -1,0 +1,11 @@
+component: filter_fetchcode
+source: https://github.com/Cambalab/moodle-filter_fetchcode
+maintainers:
+- github: Cambalab
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin allows you to display code from a repository, such as Github,
+  Gitlab or others in order to use it as a resource in the courses.

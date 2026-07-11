@@ -1,0 +1,11 @@
+component: block_aipromptgen
+source: https://github.com/blagojevicboban/moodle-block_aipromptgen
+maintainers:
+- github: blagojevicboban
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block plugin that provides an AI prompt builder for teachers on a per‑course
+  basis. Students cannot access it.

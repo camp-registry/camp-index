@@ -1,0 +1,9 @@
+component: assignfeedback_aif
+source: https://github.com/marcusgreen/moodle-assignfeedback_aif
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

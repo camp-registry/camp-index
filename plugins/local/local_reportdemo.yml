@@ -1,0 +1,9 @@
+component: local_reportdemo
+source: https://github.com/marcusgreen/moodle-local_reportdemo
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

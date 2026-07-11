@@ -1,0 +1,10 @@
+component: quizaccess_seb_autologin
+source: https://github.com/ethz-let/moodle-quizaccess_seb_autologin
+maintainers:
+- github: ethz-let
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Auto login to moodle via seb client

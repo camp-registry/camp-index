@@ -1,0 +1,10 @@
+component: mod_videoassessment
+source: https://github.com/BM373/moodle-mod_videoassessment
+maintainers:
+- github: BM373
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: VAM - Video Assessment Module Moodle plugin

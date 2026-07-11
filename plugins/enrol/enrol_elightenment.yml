@@ -1,0 +1,10 @@
+component: enrol_elightenment
+source: https://github.com/gmdegn/moodle-enrol_elightenment
+maintainers:
+- github: gmdegn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Elightenment Learning "ecommerce" service Moodle plugin

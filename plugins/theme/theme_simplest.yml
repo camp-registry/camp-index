@@ -1,0 +1,10 @@
+component: theme_simplest
+source: https://github.com/lmswithai/moodle-theme_simplest
+maintainers:
+- github: lmswithai
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Simplest Moodle Theme - Moodle Classic child theme

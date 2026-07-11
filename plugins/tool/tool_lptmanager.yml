@@ -1,0 +1,11 @@
+component: tool_lptmanager
+source: https://github.com/cmu-sei/moodle-tool_lptmanager
+maintainers:
+- github: cmu-sei
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: tool_lptmanager is an admin tool plugin that allows learning plan templates
+  to be exported, imported, and automaticity created from a competency framework.

@@ -1,0 +1,11 @@
+component: qbehaviour_adaptiveallnothing
+source: https://github.com/dthies/moodle-qbehaviour_adaptiveallnothing
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle quiz behaviour that forces questions to be interactively completed
+  correctly before any credit is given

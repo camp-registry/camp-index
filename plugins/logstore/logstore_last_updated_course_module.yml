@@ -1,0 +1,10 @@
+component: logstore_last_updated_course_module
+source: https://github.com/cperves/moodle-logstore_last_updated_course_module
+maintainers:
+- github: cperves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: a log store moodle plugin to store what's new in course

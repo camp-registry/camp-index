@@ -1,0 +1,11 @@
+component: customfield_textregex
+source: https://github.com/benyovszky/moodle-customfield_textregex
+maintainers:
+- github: benyovszky
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Textregex customfield plugin allows to have a short text input field with
+  regex validation. Enabling to ensure a valid format of the field data.

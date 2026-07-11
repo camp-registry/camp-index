@@ -1,0 +1,10 @@
+component: assignsubmission_video
+source: https://github.com/kienv/moodle-assignsubmission_video
+maintainers:
+- github: kienv
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Moodle Video Assignment plugin

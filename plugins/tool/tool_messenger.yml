@@ -1,0 +1,9 @@
+component: tool_messenger
+source: https://github.com/learnweb/moodle_tool_messenger
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: qtype_checkoff
+source: https://github.com/bumoodle/moodle-qtype_checkoff
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Proctor checkoff question type for using Moodle in labs.

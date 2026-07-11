@@ -1,0 +1,10 @@
+component: report_up1teacherstats
+source: https://github.com/Silecs-UnivParis1/moodleup1-report-up1teacherstats
+maintainers:
+- github: Silecs-UnivParis1
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: plugin report up1teacherstats - UP1 Tableau de bord enseignants

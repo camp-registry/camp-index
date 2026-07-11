@@ -1,0 +1,10 @@
+component: theme_bandeau
+source: https://github.com/andurif/moodle-theme_bandeau
+maintainers:
+- github: andurif
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle theme to display quick actions in a banner.

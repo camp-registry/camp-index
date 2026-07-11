@@ -1,0 +1,9 @@
+component: repository_nextcloud
+source: https://github.com/ArtificialOwl/moodle-repository_nextcloud
+maintainers:
+- github: ArtificialOwl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

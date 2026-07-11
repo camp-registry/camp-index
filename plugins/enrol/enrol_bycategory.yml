@@ -1,0 +1,11 @@
+component: enrol_bycategory
+source: https://github.com/btucs/moodle-enrol_bycategory
+maintainers:
+- github: btucs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Plugin to allow enrolling into a course based on a successful participation
+  in another course in a specific category

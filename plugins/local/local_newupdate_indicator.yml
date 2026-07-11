@@ -1,0 +1,11 @@
+component: local_newupdate_indicator
+source: https://github.com/adamjenkins/moodle-local_newupdate_indicator
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle local plugin that highlights recently added and recently modified
+  activities and resources directly on the course page

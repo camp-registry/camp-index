@@ -1,0 +1,9 @@
+component: quiz_downloadquiz
+source: https://github.com/mario-gharib/moodle-quiz_downloadquiz
+maintainers:
+- github: mario-gharib
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

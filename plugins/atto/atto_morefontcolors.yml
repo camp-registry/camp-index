@@ -1,0 +1,11 @@
+component: atto_morefontcolors
+source: https://github.com/ndunand/moodle-atto_morefontcolors
+maintainers:
+- github: ndunand
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Modification of the fontcolor plugin allowing the Moodle admin to define
+  colors

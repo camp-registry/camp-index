@@ -1,0 +1,9 @@
+component: assignsubmission_esign
+source: https://github.com/dsv-su/moodle-assignsubmission_esign
+maintainers:
+- github: dsv-su
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

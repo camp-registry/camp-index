@@ -1,0 +1,12 @@
+component: mod_playerwords
+source: https://github.com/jeanlucio/moodle-mod_playerwords
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PlayerWords is a word-guessing vocabulary activity for Moodle. Students guess
+  a hidden word letter-by-letter within a configurable number of attempts, receiving
+  colour-coded and symbol feedback on each guess.

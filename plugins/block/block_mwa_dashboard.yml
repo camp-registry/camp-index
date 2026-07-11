@@ -1,0 +1,10 @@
+component: block_mwa_dashboard
+source: https://github.com/Brunno321/moodle-block_mwa_dashboard
+maintainers:
+- github: Brunno321
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: MWA Analytics Dashboard

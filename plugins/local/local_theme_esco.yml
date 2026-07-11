@@ -1,0 +1,10 @@
+component: local_theme_esco
+source: https://github.com/GIP-RECIA/moodle_local_theme_esco
+maintainers:
+- github: GIP-RECIA
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Theme esco local à Moodle

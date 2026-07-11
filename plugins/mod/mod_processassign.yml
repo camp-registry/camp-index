@@ -1,0 +1,9 @@
+component: mod_processassign
+source: https://github.com/AceMcCloud-Skybolt/moodle-mod_processassign
+maintainers:
+- github: AceMcCloud-Skybolt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: tool_participantscustomfilter
+source: https://github.com/moodle-by-kelsoncm/tool_participantscustomfilter
+maintainers:
+- github: moodle-by-kelsoncm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin Moodle local que adiciona um filtro por campos personalizados do perfil
+  do usuário na página de listagem de participantes (/enrol/index.php)

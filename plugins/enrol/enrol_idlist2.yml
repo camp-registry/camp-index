@@ -1,0 +1,10 @@
+component: enrol_idlist2
+source: https://github.com/jbaenaugr/moodle-enrol_idlist2
+maintainers:
+- github: jbaenaugr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enrolment plugin for moodle 2.4. Lookup for some user field to allow enrolment.

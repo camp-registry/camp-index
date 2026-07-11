@@ -1,0 +1,11 @@
+component: repository_recordaudio
+source: https://github.com/pauln/moodle-repository_recordaudio
+maintainers:
+- github: pauln
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Repository plugin for Moodle 2.x which allows recording of audio using Flash
+  instead of uploading an existing file

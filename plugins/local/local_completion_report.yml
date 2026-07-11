@@ -1,0 +1,9 @@
+component: local_completion_report
+source: https://github.com/noverkill/moodle-local_completion_report
+maintainers:
+- github: noverkill
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: message_miuniversidad
+source: https://github.com/tanoinc/moodle-message_miuniversidad
+maintainers:
+- github: tanoinc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Proyecto "Mi Universidad": Plugin para Moodle'

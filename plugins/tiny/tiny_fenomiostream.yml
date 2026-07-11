@@ -1,0 +1,11 @@
+component: tiny_fenomiostream
+source: https://github.com/MikiFenomio/moodle-tiny_fenomiostream
+maintainers:
+- github: MikiFenomio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle TinyMCE editor plugin that adds a button for inserting [fenomiostream|GUID]
+  tags into text content.

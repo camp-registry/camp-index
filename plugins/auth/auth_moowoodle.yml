@@ -1,0 +1,9 @@
+component: auth_moowoodle
+source: https://github.com/dualcube/moodle-auth_moowoodle
+maintainers:
+- github: dualcube
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: tiny_c4lauthor
+source: https://github.com/rogersegu/moodle-tiny_c4lauthor
+maintainers:
+- github: rogersegu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

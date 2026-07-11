@@ -1,0 +1,11 @@
+component: filter_videolesson
+source: https://github.com/mooplugins/moodle-filter_videolesson
+maintainers:
+- github: mooplugins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle™ text filter for rendering and embedding Video Lesson content inside
+  course areas and activity descriptions.

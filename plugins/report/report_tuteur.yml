@@ -1,0 +1,10 @@
+component: report_tuteur
+source: https://github.com/Le-Mans-Universite/moodle-report_tuteur
+maintainers:
+- github: Le-Mans-Universite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Help tutor's action by colorizing new student's response.

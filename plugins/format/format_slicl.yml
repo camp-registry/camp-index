@@ -1,0 +1,10 @@
+component: format_slicl
+source: https://github.com/WelchITConsulting/moodle-format_slicl
+maintainers:
+- github: WelchITConsulting
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle course format for the SmartBridge SLiCL project

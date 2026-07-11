@@ -1,0 +1,11 @@
+component: tool_modedit
+source: https://github.com/sharpchi/moodle-tool_modedit
+maintainers:
+- github: sharpchi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Provides edit links to all activities and resources on a page. This is useful
+  if there's some content that has broken the page layout.

@@ -1,0 +1,9 @@
+component: availability_shibboleth2fa
+source: https://github.com/innocampus/moodle-availability_shibboleth2fa
+maintainers:
+- github: innocampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

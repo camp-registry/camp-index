@@ -1,0 +1,10 @@
+component: repository_semantic_lo
+source: https://github.com/ronaldoamaral/moodle-repository_semantic-lo
+maintainers:
+- github: ronaldoamaral
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Plugin para de repositório para o Moodle integrado ao semantic-lo

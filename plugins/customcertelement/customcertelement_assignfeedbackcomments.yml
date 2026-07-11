@@ -1,0 +1,11 @@
+component: customcertelement_assignfeedbackcomments
+source: https://github.com/joerebbeck/moodle-customcertelement_assignfeedbackcomments
+maintainers:
+- github: joerebbeck
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A mod_customcert element plugin for Moodle that renders a student's assignment
+  feedback comments onto PDF certificates.

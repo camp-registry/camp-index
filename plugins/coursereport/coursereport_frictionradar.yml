@@ -1,0 +1,13 @@
+component: coursereport_frictionradar
+source: https://github.com/AeternumModulae/moodle-coursereport_frictionradar
+maintainers:
+- github: AeternumModulae
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Friction Radar is a Moodle course report that surfaces early, aggregated
+  signals of learning friction. It analyses activity logs and standard course data
+  over a rolling six-week window and visualizes twelve friction indicators (plus an
+  overall score) in a friction clock.

@@ -1,0 +1,11 @@
+component: assignsubmission_xagree
+source: https://github.com/catalyst/moodle-assignsubmission_xagree
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows an extra checkbox to be added to assign submission process, and downloading
+  of submissions that have ticked the agreement.

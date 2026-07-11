@@ -1,0 +1,9 @@
+component: local_qtypestack_synccopies
+source: https://github.com/eledia/moodle-local_qtypestack_synccopies
+maintainers:
+- github: eledia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

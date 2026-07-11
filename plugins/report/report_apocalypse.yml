@@ -1,0 +1,11 @@
+component: report_apocalypse
+source: https://github.com/catalyst/moodle-report_apocalypse
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This report lists activities, by type, in your site that contain flash-based
+  content.

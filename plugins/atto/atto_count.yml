@@ -1,0 +1,10 @@
+component: atto_count
+source: https://github.com/damyon/moodle-atto_count
+maintainers:
+- github: damyon
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Atto count words plugin.

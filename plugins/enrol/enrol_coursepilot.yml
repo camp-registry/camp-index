@@ -1,0 +1,10 @@
+component: enrol_coursepilot
+source: https://github.com/sofhouse/moodle-enrol_coursepilot
+maintainers:
+- github: sofhouse
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin that allows managing Courses and Enrollments using Web services

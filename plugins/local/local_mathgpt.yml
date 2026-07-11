@@ -1,0 +1,10 @@
+component: local_mathgpt
+source: https://github.com/tutoruniverse/moodle-local_mathgpt
+maintainers:
+- github: tutoruniverse
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for rest APIs

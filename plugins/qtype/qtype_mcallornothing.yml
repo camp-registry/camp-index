@@ -1,0 +1,10 @@
+component: qtype_mcallornothing
+source: https://github.com/vds-gmbh/moodle-qtype_mcallornothing
+maintainers:
+- github: vds-gmbh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle question type: All-or-Nothing Multiple Choice (extends qtype_multichoice).'

@@ -1,0 +1,11 @@
+component: theme_boost_flex
+source: https://github.com/matthiasrke/moodle-theme_boost_flex
+maintainers:
+- github: matthiasrke
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Theme Boost Flex is a child theme of Boost. It adds the ability to easy change
+  CSS.

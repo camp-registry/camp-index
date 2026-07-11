@@ -1,0 +1,9 @@
+component: tool_dospacesstorage
+source: https://github.com/elearningdifferently/moodle-tool_dospacesstorage
+maintainers:
+- github: elearningdifferently
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

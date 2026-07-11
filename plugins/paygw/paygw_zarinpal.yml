@@ -1,0 +1,10 @@
+component: paygw_zarinpal
+source: https://github.com/onbirdev/moodle-paygw_zarinpal
+maintainers:
+- github: onbirdev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: درگاه پرداخت زرین پال برای مودل

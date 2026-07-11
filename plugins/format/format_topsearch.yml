@@ -1,0 +1,10 @@
+component: format_topsearch
+source: https://github.com/bumoodle/moodle-format_topsearch
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Searchable Topic course format for Moodle 2.0+

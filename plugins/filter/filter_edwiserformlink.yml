@@ -1,0 +1,11 @@
+component: filter_edwiserformlink
+source: https://github.com/WisdmLabs/moodle-filter_edwiserformlink
+maintainers:
+- github: WisdmLabs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is add-on plugin to Edwiser Forms plugin. This helps Moodle admins add
+  custom Moodle forms any where on the Moodle site.

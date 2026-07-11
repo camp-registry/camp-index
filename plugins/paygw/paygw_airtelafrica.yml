@@ -1,0 +1,10 @@
+component: paygw_airtelafrica
+source: https://github.com/iplusacademy/moodle-paygw_airtelafrica
+maintainers:
+- github: iplusacademy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Use Airtel Africa to process payments in Moodle

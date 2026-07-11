@@ -1,0 +1,11 @@
+component: mod_ardora
+source: https://github.com/jmbouzan/moodle-mod_ardora
+maintainers:
+- github: jmbouzan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin allows to obtain a detailed report of the work done by the students
+  in activities, activity packs and web sites created with the Ardora program.

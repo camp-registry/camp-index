@@ -1,0 +1,11 @@
+component: profilefield_curriculum
+source: https://github.com/Engagement-Colombia/moodle-profilefield_curriculum
+maintainers:
+- github: Engagement-Colombia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle user profile field plugin that allows users to select curriculum
+  programs from the local_curriculum component.

@@ -1,0 +1,9 @@
+component: assignfeedback_airubric
+source: https://github.com/sami220214/moodle-assignfeedback_airubric
+maintainers:
+- github: sami220214
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

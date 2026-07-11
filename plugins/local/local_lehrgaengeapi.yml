@@ -1,0 +1,10 @@
+component: local_lehrgaengeapi
+source: https://github.com/Wunderbyte-GmbH/moodle-local_lehrgaengeapi
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Synchronisation for external courses

@@ -1,0 +1,9 @@
+component: filter_mediasite
+source: https://github.com/andrewrowatt-masseyuni/moodle-filter_mediasite
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

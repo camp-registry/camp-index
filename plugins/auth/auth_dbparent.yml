@@ -1,0 +1,10 @@
+component: auth_dbparent
+source: https://github.com/maxCSA/moodle-auth_dbparent
+maintainers:
+- github: maxCSA
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Clone de auth_db pour avoir 2 configs différentes

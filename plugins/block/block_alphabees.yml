@@ -1,0 +1,13 @@
+component: block_alphabees
+source: https://github.com/alphabees-25/moodle-block_alphabees
+maintainers:
+- github: alphabees-25
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Alphabees' plugin integrates a powerful AI tutor chat widget into Moodle,
+  enabling precise placement through Moodle's block structure. It seamlessly combines
+  integration with a high-quality custom UI and backend, fully customizable via the
+  Alphabees portal.

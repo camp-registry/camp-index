@@ -1,0 +1,10 @@
+component: atto_getquestion
+source: https://github.com/msdlt/moodle-atto-getquestion
+maintainers:
+- github: msdlt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Atto plugin to retrieve a question from the question bank. Uses jQuery

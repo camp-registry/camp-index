@@ -1,0 +1,11 @@
+component: tool_objectbackup
+source: https://github.com/catalyst/moodle-tool_objectbackup
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allow your eggs (backups) to be stored in two different baskets, allowing
+  for true "external" storage that does not use the same storage as your main site.

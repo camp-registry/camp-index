@@ -1,0 +1,10 @@
+component: tool_bulkcleaning
+source: https://github.com/davidherney/moodle-tool_bulkcleaning
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Tool for cleaning data on the platform in bulk operations.

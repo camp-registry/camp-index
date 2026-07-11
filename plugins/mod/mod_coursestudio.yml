@@ -1,0 +1,9 @@
+component: mod_coursestudio
+source: https://github.com/Cforj-Studio/moodle-mod_coursestudio
+maintainers:
+- github: Cforj-Studio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

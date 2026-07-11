@@ -1,0 +1,9 @@
+component: quizaccess_faceid
+source: https://github.com/Galo45/moodle-quizaccess-faceid-
+maintainers:
+- github: Galo45
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0

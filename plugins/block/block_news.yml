@@ -1,0 +1,11 @@
+component: block_news
+source: https://github.com/moodleou/moodle-block_news
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block that displays news items, either entered manually or from RSS/Atom
+  feed

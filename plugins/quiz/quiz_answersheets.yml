@@ -1,0 +1,10 @@
+component: quiz_answersheets
+source: https://github.com/moodleou/moodle-quiz_answersheets
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle quiz report to allow quiz attempts to be exported

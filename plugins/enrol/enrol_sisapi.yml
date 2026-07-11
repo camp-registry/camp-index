@@ -1,0 +1,10 @@
+component: enrol_sisapi
+source: https://github.com/jbkc85/moodle-enrol_sisapi
+maintainers:
+- github: jbkc85
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle integration with Clever, LearnSprout and SLC for enrollment

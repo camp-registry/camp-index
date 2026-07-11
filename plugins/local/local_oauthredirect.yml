@@ -1,0 +1,11 @@
+component: local_oauthredirect
+source: https://github.com/ctam/moodle-local_oauthredirect
+maintainers:
+- github: ctam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A small Moodle local plugin that provides a Moodle-side redirect endpoint
+  to start the OAuth2/OIDC login flow while preserving sesskey and wantsurl parameters.

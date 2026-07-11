@@ -1,0 +1,9 @@
+component: quizaccess_watermark
+source: https://github.com/innocampus/moodle-quizaccess_watermark
+maintainers:
+- github: innocampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

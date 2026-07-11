@@ -1,0 +1,9 @@
+component: availability_prerequisite
+source: https://github.com/VinitMepani2712/moodle-availability_prerequisite
+maintainers:
+- github: VinitMepani2712
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: availability_capability
+source: https://github.com/didasko-online/moodle-availability_capability
+maintainers:
+- github: didasko-online
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Restrict access to course sections and activities based on the user's capabilities

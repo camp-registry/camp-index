@@ -1,0 +1,11 @@
+component: report_combinedcalendar
+source: https://github.com/StudiUM/moodle-report_combinedcalendar
+maintainers:
+- github: StudiUM
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The purpose of the combined calendar is to provide users an overview of group
+  events occuring at the same time.

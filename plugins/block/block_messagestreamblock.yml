@@ -1,0 +1,10 @@
+component: block_messagestreamblock
+source: https://github.com/bytesparrow/moodle-block_messagestreamblock
+maintainers:
+- github: bytesparrow
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: provides a new block. This block shows the messagestream

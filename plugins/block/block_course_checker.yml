@@ -1,0 +1,11 @@
+component: block_course_checker
+source: https://github.com/ffhs/moodle-block_course_checker
+maintainers:
+- github: ffhs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle course checker plugin that improves the quality and eliminate human
+  routine tasks in online courses

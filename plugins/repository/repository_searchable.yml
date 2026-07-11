@@ -1,0 +1,11 @@
+component: repository_searchable
+source: https://github.com/jpahullo/moodle-repository_searchable
+maintainers:
+- github: jpahullo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A filesystem based repository focused on searchable capabilities, ideal for
+  directories with lots (thousands) of files.

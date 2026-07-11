@@ -1,0 +1,10 @@
+component: format_ludimoodle
+source: https://github.com/Edunao/moodle-format-ludimoodle
+maintainers:
+- github: Edunao
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Format Ludimoodle

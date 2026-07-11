@@ -1,0 +1,11 @@
+component: assignfeedback_points
+source: https://github.com/gbateson/moodle-assignfeedback_points
+maintainers:
+- github: gbateson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: POINTS feedback plugin for the Assign(ment) activity module in Moodle >=
+  2.3

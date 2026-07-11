@@ -1,0 +1,10 @@
+component: assignsubmission_onlineaudio
+source: https://github.com/pauln/moodle-assignsubmission_onlineaudio
+maintainers:
+- github: pauln
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Online Audio Recording assignment submission plugin for Moodle >= 2.3

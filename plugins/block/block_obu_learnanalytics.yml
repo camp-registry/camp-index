@@ -1,0 +1,9 @@
+component: block_obu_learnanalytics
+source: https://github.com/OBU-ITS/moodle-block_obu_learnanalytics
+maintainers:
+- github: OBU-ITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: atto_equation
+source: https://github.com/geoffrowland/moodle-editor_atto-equation
+maintainers:
+- github: geoffrowland
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Customisation of Moodle Atto Equation Editor plugin

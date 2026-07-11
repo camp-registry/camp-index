@@ -1,0 +1,11 @@
+component: local_smuc_content_edit_restriction
+source: https://github.com/ULCC/moodle-local_smuc_content_edit_restriction
+maintainers:
+- github: ULCC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: plugin designed to restrict the editing of content on a course page for ST
+  Marys University

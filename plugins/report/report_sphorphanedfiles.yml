@@ -1,0 +1,10 @@
+component: report_sphorphanedfiles
+source: https://github.com/schulportalhessen/moodle-report_sphorphanedfiles
+maintainers:
+- github: schulportalhessen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: New default branch since 13 august 2025 is MOODLE_500_STABLE

@@ -1,0 +1,11 @@
+component: webservice_soapfda
+source: https://github.com/ghigio/moodle-webservice_soapfda
+maintainers:
+- github: ghigio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Webservice plugin for moodle. It extend the SOAP server. This server generate
+  WSDL with full documented array

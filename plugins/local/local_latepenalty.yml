@@ -1,0 +1,11 @@
+component: local_latepenalty
+source: https://github.com/jeanlucio/moodle-local_latepenalty
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Late Penalty plugin automatically applies progressive grade deductions
+  to any Moodle activity when a student submits after the deadline.

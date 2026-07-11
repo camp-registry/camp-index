@@ -1,0 +1,11 @@
+component: tool_foundrysync
+source: https://github.com/cmu-sei/moodle-tool_foundrysync
+maintainers:
+- github: cmu-sei
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: mod_foundrysync is an admin plugin that maintains Foundry playlists and content
+  items for Moodle courses and modules.

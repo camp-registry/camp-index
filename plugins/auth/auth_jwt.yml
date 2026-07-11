@@ -1,0 +1,11 @@
+component: auth_jwt
+source: https://github.com/adlnet/moodle-jwt-auth
+maintainers:
+- github: adlnet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: Moodle Auth plugin for handling user creation for pre-authenticated users
+  using an inbound JWT.

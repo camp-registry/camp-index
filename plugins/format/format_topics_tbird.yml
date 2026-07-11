@@ -1,0 +1,11 @@
+component: format_topics_tbird
+source: https://github.com/johanreinalda/moodle-format_topics_tbird
+maintainers:
+- github: johanreinalda
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The standard Moodle topics course format, but with the course 'summary' showing
+  in section 0

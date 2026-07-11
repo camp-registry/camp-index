@@ -1,0 +1,11 @@
+component: quizaccess_totp
+source: https://github.com/unilasalle-fr/moodle-quizaccess_totp
+maintainers:
+- github: unilasalle-fr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle quiz access rule plugin that requires students to enter a Time-based
+  One-Time Password (TOTP) before they can start a quiz attempt.

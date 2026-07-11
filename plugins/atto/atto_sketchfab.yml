@@ -1,0 +1,10 @@
+component: atto_sketchfab
+source: https://github.com/jethac/moodle-atto_sketchfab
+maintainers:
+- github: jethac
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Sketchfab embed for Atto.

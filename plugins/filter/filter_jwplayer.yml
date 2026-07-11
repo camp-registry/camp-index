@@ -1,0 +1,11 @@
+component: filter_jwplayer
+source: https://github.com/lucisgit/moodle-filter_jwplayer
+maintainers:
+- github: lucisgit
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle (<=3.1) filter that allows using JW Player for playing HTML5 and flash
+  content.

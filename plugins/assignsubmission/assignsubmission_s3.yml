@@ -1,0 +1,12 @@
+component: assignsubmission_s3
+source: https://github.com/ucl-isd/moodle-assignsubmission_s3
+maintainers:
+- github: ucl-isd
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Large file submission for Moodle Assignment. once marking complete, files
+  will be moved from s3 to glacier for cost-effective long term storage. File retrieval
+  option is available.

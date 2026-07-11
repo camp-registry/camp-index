@@ -1,0 +1,10 @@
+component: auth_hnauth
+source: https://github.com/rpagliuca/moodle-auth-hnauth
+maintainers:
+- github: rpagliuca
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: JWT (JSON Web Token) Moodle Authentication

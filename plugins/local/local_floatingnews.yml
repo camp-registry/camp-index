@@ -1,0 +1,9 @@
+component: local_floatingnews
+source: https://github.com/Julia-Gabriela/moodle-local_floatingnews
+maintainers:
+- github: Julia-Gabriela
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

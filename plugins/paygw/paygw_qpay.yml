@@ -1,0 +1,10 @@
+component: paygw_qpay
+source: https://github.com/matusfaro/moodle-paygw_qpay
+maintainers:
+- github: matusfaro
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enrol on payment with QPay for Moodle

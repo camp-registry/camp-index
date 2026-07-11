@@ -1,0 +1,10 @@
+component: mod_lesson
+source: https://github.com/davidherney/moodle-mod_lesson
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: New proposal for the native module Lesson

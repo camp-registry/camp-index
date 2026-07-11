@@ -1,0 +1,9 @@
+component: block_search_glossaries
+source: https://github.com/stronk7/moodle-block_search_glossaries
+maintainers:
+- github: stronk7
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

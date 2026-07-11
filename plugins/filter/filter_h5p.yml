@@ -1,0 +1,10 @@
+component: filter_h5p
+source: https://github.com/center-for-learning-management/moodle-filter_h5p
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Adds a Filter to Moodle to automatically embed an H5P-content in textfields

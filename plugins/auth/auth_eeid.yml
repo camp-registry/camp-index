@@ -1,0 +1,10 @@
+component: auth_eeid
+source: https://github.com/argoilves/moodle-eeid-authentication
+maintainers:
+- github: argoilves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: This Moodle plugin integrates the eeID authentication service into Moodle.

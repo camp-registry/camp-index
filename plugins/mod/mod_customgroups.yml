@@ -1,0 +1,11 @@
+component: mod_customgroups
+source: https://github.com/ponlawat-w/moodle-mod_customgroups
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows students to create group and join groups and teacher to apply those
+  students' groups into course.

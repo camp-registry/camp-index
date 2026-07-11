@@ -1,0 +1,9 @@
+component: filter_mirocarousel
+source: https://github.com/samuelcalegari/moodle-filter_mirocarousel
+maintainers:
+- github: samuelcalegari
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

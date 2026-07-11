@@ -1,0 +1,11 @@
+component: local_sebfix
+source: https://github.com/HamerTails/moodle-local_sebfix
+maintainers:
+- github: HamerTails
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Hardened anti-cheat plugin for Safe Exam Browser + Moodle — server-side attestation,
+  launch-token binding, live heartbeat. Reference implementation (GPLv3).

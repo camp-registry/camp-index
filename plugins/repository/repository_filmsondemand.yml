@@ -1,0 +1,9 @@
+component: repository_filmsondemand
+source: https://github.com/infobasedev/moodle-repository_filmsondemand
+maintainers:
+- github: infobasedev
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: enrol_robokassa
+source: https://github.com/iignat/MoodleRobokassaEnrolModule
+maintainers:
+- github: iignat
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Robokassa enrol module for Moodle LMS

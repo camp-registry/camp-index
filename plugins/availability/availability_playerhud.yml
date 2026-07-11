@@ -1,0 +1,12 @@
+component: availability_playerhud
+source: https://github.com/jeanlucio/moodle-availability_playerhud
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The PlayerHUD Availability Condition is an extension plugin for Moodle that
+  allows teachers to restrict access to activities, resources, or course sections
+  based on a student's progress in the PlayerHUD Block.

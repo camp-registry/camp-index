@@ -1,0 +1,10 @@
+component: atto_hr
+source: https://github.com/damyon/moodle-atto_hr
+maintainers:
+- github: damyon
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: HR plugin for Atto

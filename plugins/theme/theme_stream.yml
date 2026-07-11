@@ -1,0 +1,10 @@
+component: theme_stream
+source: https://github.com/hribeir0/moodle-theme_stream
+maintainers:
+- github: hribeir0
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 4+ Theme - Boost child

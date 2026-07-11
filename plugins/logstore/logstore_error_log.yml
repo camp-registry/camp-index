@@ -1,0 +1,10 @@
+component: logstore_error_log
+source: https://github.com/abautu/moodle-logstore_error_log
+maintainers:
+- github: abautu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A log plugin stores log entries in PHP's error log.
