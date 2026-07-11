@@ -1,0 +1,10 @@
+component: auth_twiliootp
+source: https://github.com/erudisiya/auth_twiliootp
+maintainers:
+- github: erudisiya
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Twilio OTP-Based Moodle Login Plugin

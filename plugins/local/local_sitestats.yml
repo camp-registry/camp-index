@@ -9,3 +9,4 @@ releases: []
 summary: Moodle crawler plugin which connects to other Moodle sites to gather information
   about the plugins which they are running. This is a research plugin to be used on
   research Moodle instances. Do not use this plugin in production environments.
+license: GPL-3.0

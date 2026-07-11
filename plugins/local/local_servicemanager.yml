@@ -9,3 +9,4 @@ releases: []
 summary: Moodle local plugin to provision and manage web services from version-controlled
   YAML schemas — auto-creates the service user, role, capabilities, external service,
   and token.
+license: GPL-3.0

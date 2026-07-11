@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Módulo de atividades para a plataforma moodle que disponibiliza conteúdo
   interativo nos cursos.
+license: GPL-3.0

@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle multiple notifications plugins to send enrollment end reminder.
+license: GPL-3.0

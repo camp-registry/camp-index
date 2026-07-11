@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle question type plugin for writing beautiful mathemathical answers,
   combined with the feature-rich assessment system STACK.
+license: GPL-3.0

@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Plugin for Moodle. Token-based authentication.
+license: GPL-3.0

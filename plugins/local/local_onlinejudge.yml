@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Online Judge plugin for Moodle 2.7-4.2.
+license: GPL-3.0

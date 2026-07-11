@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Blindside Networks integration of BigBlueButton for Moodle. This is an Activity
   Module for meeting administration.
+license: GPL-3.0

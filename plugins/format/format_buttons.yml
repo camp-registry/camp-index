@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Buttons is a Moodle course format that creates a menu with buttons in javascript
   to access the sections, one by one.
+license: GPL-3.0

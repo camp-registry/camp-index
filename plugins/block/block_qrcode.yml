@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: ':camera: Block that provides a QR code that teachers can show on introductory
   slides'
+license: GPL-3.0

@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin which helps to integrate Opencast videos into the Moodle H5P
   third party plugin (mod_hvp).
+license: GPL-3.0

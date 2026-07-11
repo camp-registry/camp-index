@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Extensible Moodle plugin for periodic user deprovisioning with a grace period
+license: GPL-3.0

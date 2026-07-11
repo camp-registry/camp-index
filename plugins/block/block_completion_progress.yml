@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: A time management tool for students using activity completion
+license: GPL-3.0

@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle block plugin for student workload recording with statistics and central
   management
+license: GPL-3.0

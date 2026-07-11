@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Carries over quiz essay grades from a previous attempt Moodle plugin.
+license: GPL-3.0

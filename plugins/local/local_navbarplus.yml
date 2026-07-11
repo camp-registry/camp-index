@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin which enhances the functionality of Moodle's page header navbar.
+license: GPL-3.0

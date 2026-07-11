@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: This is a custom field plugin to add radio button as a custom field
+license: GPL-3.0

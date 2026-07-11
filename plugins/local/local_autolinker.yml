@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin to improve handling of LTI 1.3 links
+license: GPL-3.0

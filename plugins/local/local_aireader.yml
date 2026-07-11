@@ -10,3 +10,4 @@ summary: 'Moodle 4.5+/5.x local plugin: AI-narrated ''Listen to this content'' p
   for mod_page and mod_book. Cache-first OpenAI TTS, multi-language translation, Whisper
   karaoke highlighting, MediaSession + keyboard controls, resume position, full GDPR
   privacy provider. CI on Moodle 4.5/5.0/5.1/5.2 × PHP 8.1'
+license: GPL-3.0

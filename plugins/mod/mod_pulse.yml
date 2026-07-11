@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Automate workflows in your courses to improve student engagement and compliance.
+license: GPL-3.0

@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin which lets admins manage cohort memberships based on users'
   custom profile fields
+license: GPL-3.0

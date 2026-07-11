@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: ':recycle: Extensible Moodle plugin for managing course life cycles, e.g.,
   deprovisioning'
+license: GPL-3.0

@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Неофициальный плагин LMS Moodle для синхронизации с CRM-системой Мой класс
+license: GPL-3.0

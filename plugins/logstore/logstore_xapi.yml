@@ -21,3 +21,4 @@ releases:
   - '5.1'
   zip-sha256: f3a90401bcd9ccc48f10f5729840591bf08f03a599d5625893ad535aef8ffe8e
   published: '2026-07-10T22:50:26Z'
+license: GPL-3.0

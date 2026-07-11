@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Integration Hub is a local Moodle plugin designed to centralize and manage
   outgoing integrations with external microservices
+license: GPL-3.0

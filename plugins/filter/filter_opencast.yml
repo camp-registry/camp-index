@@ -9,3 +9,4 @@ releases: []
 summary: Moodle plugin which can be used to embed Opencast videos into any text field.
   The filter takes in the html pasted by the Opencast repository and replaces it by
   an iframe, which loads the Paella player with the respective Opencast event.
+license: GPL-3.0

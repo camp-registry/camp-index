@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: This plugin allows sorting a list of options by preference of the user, instead
   of just selecting one.
+license: GPL-3.0

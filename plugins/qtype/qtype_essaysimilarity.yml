@@ -10,3 +10,4 @@ summary: Is a moodle question type plugin that compares the similarity between s
   answer and teacher's answer key using machine learning (natural language processing),
   and uses the similarity to auto grade the answer. The automatic grade can be manually
   overridden by the teacher
+license: GPL-3.0

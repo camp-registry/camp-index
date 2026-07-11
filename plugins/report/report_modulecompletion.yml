@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle report plugin that tracks students progression.
+license: GPL-3.0

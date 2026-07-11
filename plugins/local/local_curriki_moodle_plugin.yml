@@ -1,0 +1,12 @@
+component: local_curriki_moodle_plugin
+source: https://github.com/ActiveLearningStudio/curriki_moodle_plugin
+maintainers:
+- github: ActiveLearningStudio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: CurrikiGo plugin connect Moodle to CurrikiStudio to access Programs, Playlists
+  and Activities by following IMS Global LTI Advantage (LTI 1.3). It setup Moodle's
+  External Tool which connect to CurrikiStudio.

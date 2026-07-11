@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: This plugins allows your Moodle users to be authenticated against an external
   webservice
+license: GPL-3.0

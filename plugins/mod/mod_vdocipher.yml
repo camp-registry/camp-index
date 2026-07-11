@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: This Moodle activity plugin allows embedding VdoCipher videos by providing
   only the video ID.
+license: AGPL-3.0

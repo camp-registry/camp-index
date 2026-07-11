@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle assignment type Uploadpdf allows online annotation of uploaded PDFs
+license: GPL-3.0

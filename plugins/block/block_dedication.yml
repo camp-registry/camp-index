@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: This is a block / report that allows the time-spent by course participants
   to be estimated and displayed.
+license: GPL-3.0

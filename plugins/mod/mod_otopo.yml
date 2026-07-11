@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: 'Moodle activity that allows students to self-assess and track their progress
   in a course. Mirror of : https://gitlab.univ-nantes.fr/boiteux-c/moodle-mod_otopo'
+license: GPL-3.0

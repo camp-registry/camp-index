@@ -9,3 +9,4 @@ releases: []
 summary: Plagiarismcheck.org is a sophisticated similarity search engine. We advocate
   for bringing technology into academics to help instructors save time and motivate
   students write better papers.
+license: GPL-3.0

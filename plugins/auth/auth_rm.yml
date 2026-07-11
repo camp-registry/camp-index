@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Plugin para o Moodle que permite a autenticação de usuários do RM através
   do TOTVS Business Connect (TBC)
+license: GPL-3.0
