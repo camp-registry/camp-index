@@ -1,0 +1,9 @@
+component: local_integracao
+source: https://gitlab.com/cme_ineprotec/moodle-local_integracao
+maintainers:
+- gitlab: cme_ineprotec
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

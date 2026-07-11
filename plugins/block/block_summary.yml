@@ -1,0 +1,9 @@
+component: block_summary
+source: https://gitlab.com/dne-elearning/moodle-magistere/moodle-block_summary
+maintainers:
+- gitlab: dne-elearning/moodle-magistere
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

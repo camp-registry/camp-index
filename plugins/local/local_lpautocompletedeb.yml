@@ -1,0 +1,12 @@
+component: local_lpautocompletedeb
+source: https://gitlab.com/tinjohn/moodle-local_lpautocompletedeb
+maintainers:
+- gitlab: tinjohn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Forked from Daniel Neis Araujo
+
+  Automatically complete learning plans when all competencies are completed'

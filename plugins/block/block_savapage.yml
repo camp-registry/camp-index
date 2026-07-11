@@ -1,0 +1,10 @@
+component: block_savapage
+source: https://gitlab.com/savapage/moodle-block_savapage
+maintainers:
+- gitlab: savapage
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Single sign-on to SavaPage User Web App from Moodle learning platform

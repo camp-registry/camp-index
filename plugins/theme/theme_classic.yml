@@ -1,0 +1,9 @@
+component: theme_classic
+source: https://gitlab.com/bmbrands/moodle-theme_classic
+maintainers:
+- gitlab: bmbrands
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: local_ulibot
+source: https://gitlab.com/eabc-it/uli/moodle-local_ulibot
+maintainers:
+- gitlab: eabc-it/uli
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

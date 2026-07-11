@@ -1,0 +1,9 @@
+component: qtype_vplquestion
+source: https://gitlab.com/osangoi/moodle-qtype_vplquestion
+maintainers:
+- gitlab: osangoi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

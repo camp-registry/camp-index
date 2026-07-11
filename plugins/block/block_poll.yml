@@ -1,0 +1,10 @@
+component: block_poll
+source: https://gitlab.com/rrusso33/moodle-block_poll
+maintainers:
+- gitlab: rrusso33
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Poll Block for Moodle

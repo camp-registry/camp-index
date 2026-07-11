@@ -1,0 +1,10 @@
+component: theme_handlebar
+source: https://gitlab.com/ro-mdl-themes/moodle-theme_handlebar
+maintainers:
+- gitlab: ro-mdl-themes
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Child theme of Boost, with additional custom block regions

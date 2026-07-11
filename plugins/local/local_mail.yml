@@ -1,0 +1,10 @@
+component: local_mail
+source: https://gitlab.com/TorrijaConLeche/moodle-local-mail-fixed-xss
+maintainers:
+- gitlab: TorrijaConLeche
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Fixed XSS vulnerability in the plugin

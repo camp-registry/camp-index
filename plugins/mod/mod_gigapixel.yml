@@ -1,0 +1,9 @@
+component: mod_gigapixel
+source: https://gitlab.com/gigapixeltutor/moodle-mod_gigapixel
+maintainers:
+- gitlab: gigapixeltutor
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

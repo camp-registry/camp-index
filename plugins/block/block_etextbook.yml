@@ -1,0 +1,10 @@
+component: block_etextbook
+source: https://gitlab.com/rrusso33/moodle-block_etextbook
+maintainers:
+- gitlab: rrusso33
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: etextbook block for the library

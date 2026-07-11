@@ -1,0 +1,10 @@
+component: tool_bulkchangeprofilefields
+source: https://gitlab.com/adapta/moodle-tool_bulkchangeprofilefields
+maintainers:
+- gitlab: adapta
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle admin tool to bulk change users's profile fields.

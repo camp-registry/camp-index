@@ -1,0 +1,10 @@
+component: block_forum_report
+source: https://gitlab.com/tallthom/moodle-block_forum_report
+maintainers:
+- gitlab: tallthom
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodleのフォーラムに投稿と返信をカウントするプラグイン。

@@ -1,0 +1,11 @@
+component: atto_alignjustify
+source: https://gitlab.com/fabianorocha.info/moodle-atto_alignjustify
+maintainers:
+- gitlab: fabianorocha.info
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Atto plugin which lets the user to apply justified align in text,
+  without start code edition

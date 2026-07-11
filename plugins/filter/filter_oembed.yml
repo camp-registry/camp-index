@@ -1,0 +1,10 @@
+component: filter_oembed
+source: https://gitlab.com/vivek4/moodle-filter_oembed
+maintainers:
+- gitlab: vivek4
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: oEmbed Filter for Moodle

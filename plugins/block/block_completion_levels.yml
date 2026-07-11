@@ -1,0 +1,9 @@
+component: block_completion_levels
+source: https://gitlab.com/adapta/moodle-block_completion_levels
+maintainers:
+- gitlab: adapta
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

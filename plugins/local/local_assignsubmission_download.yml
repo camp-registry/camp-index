@@ -1,0 +1,9 @@
+component: local_assignsubmission_download
+source: https://gitlab.com/academic-moodle-cooperation/moodle/moodle-local_assignsubmission_download
+maintainers:
+- gitlab: academic-moodle-cooperation/moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: block_intuitel
+source: https://gitlab.com/andi-schwab/moodle-block_intuitel
+maintainers:
+- gitlab: andi-schwab
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Plugin for INTUITEL Intelligent Tutoring System

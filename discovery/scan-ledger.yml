@@ -12,6 +12,12 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  3bits/moodle-block_course_expiration:
+    outcome: exists
+    detail: component block_course_expiration already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   42ae/moodle-docker:
     outcome: bad-license
     detail: 'license: none detected'
@@ -49,6 +55,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  AesisGit/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   AlexZorzi/Moodle-Cheat:
     outcome: bad-license
     detail: 'license: none detected'
@@ -78,6 +89,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  AwsafAlam/moodle-mod_attendance:
+    outcome: exists
+    detail: component mod_attendance already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   Azure-Samples/moodle-high-scale:
     outcome: bad-license
@@ -377,6 +393,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  GAllegre/moodle-theme_boostsgdf:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   GEveloper/mod_oublog-advanced:
     outcome: bad-license
     detail: 'license: none detected'
@@ -492,6 +513,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  Jenczu11/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   JotaDF/moodle-block_game:
     outcome: exists
@@ -621,6 +647,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  Leonism/moodle-theme_darkmode:
+    outcome: exists
+    detail: component theme_darkmode already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   Lesterhuis-Training-en-Consultancy/moodle-block_fastnav:
     outcome: exists
     detail: component block_fastnav already registered (first-come, RFC §8)
@@ -665,6 +696,12 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch next
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  MaadiX/moodle-local_bbb_import_recordings:
+    outcome: exists
+    detail: component local_bbb_import_recordings already registered (first-come,
+      RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   ManuelGil/alternate-admin:
     outcome: bad-license
@@ -1104,10 +1141,20 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  ThiagoLivramento/moodle-local_selfcohort:
+    outcome: exists
+    detail: component local_selfcohort already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   TomerMellick/Project_Moodle_Bot:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  TorrijaConLeche/moodle-local-mail-fixed-xss:
+    outcome: exists
+    detail: component local_mail already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   UCA-Squad/moodle-mod_teams:
     outcome: exists
@@ -1197,6 +1244,11 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  ValetteL/testsimplifier:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   VdoCipher/moodle-filter_vdocipher:
     outcome: exists
@@ -1305,6 +1357,136 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-local_assignsubmission_download:
+    outcome: exists
+    detail: component local_assignsubmission_download already registered (first-come,
+      RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-local_checkmarkreport:
+    outcome: exists
+    detail: component local_checkmarkreport already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-mod_checkmark:
+    outcome: exists
+    detail: component mod_checkmark already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-mod_consentform:
+    outcome: exists
+    detail: component mod_consentform already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-mod_extserver:
+    outcome: exists
+    detail: component mod_extserver already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-mod_grouptool:
+    outcome: exists
+    detail: component mod_grouptool already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-mod_offlinequiz:
+    outcome: exists
+    detail: component mod_offlinequiz already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-mod_organizer:
+    outcome: exists
+    detail: component mod_organizer already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-mod_publication:
+    outcome: exists
+    detail: component mod_publication already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  academic-moodle-cooperation/moodle/moodle-report_grouptool:
+    outcome: exists
+    detail: component report_grouptool already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-block_adaptajulho:
+    outcome: exists
+    detail: component block_adaptajulho already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-block_completion_levels:
+    outcome: exists
+    detail: component block_completion_levels already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-block_featuredcourses:
+    outcome: exists
+    detail: component block_featuredcourses already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-block_lpprogress:
+    outcome: exists
+    detail: component block_lpprogress already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-block_minhabiblioteca:
+    outcome: exists
+    detail: component block_minhabiblioteca already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-block_powerbi:
+    outcome: exists
+    detail: component block_powerbi already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-block_rbreportchart:
+    outcome: exists
+    detail: component block_rbreportchart already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-local_lpautocomplete:
+    outcome: exists
+    detail: component local_lpautocomplete already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-local_modcustomfields:
+    outcome: exists
+    detail: component local_modcustomfields already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-local_morenotifications:
+    outcome: exists
+    detail: component local_morenotifications already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-local_notifycohorts:
+    outcome: exists
+    detail: component local_notifycohorts already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-local_selfcohort:
+    outcome: exists
+    detail: component local_selfcohort already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-tool_bulkchangeprofilefields:
+    outcome: exists
+    detail: component tool_bulkchangeprofilefields already registered (first-come,
+      RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-tool_lpcustomfields:
+    outcome: exists
+    detail: component tool_lpcustomfields already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  adapta/moodle-tool_resendnewaccountemail:
+    outcome: exists
+    detail: component tool_resendnewaccountemail already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   adlnet/Moodle-mod_cmi5launch:
     outcome: exists
     detail: component mod_cmi5launch already registered (first-come, RFC §8)
@@ -1388,6 +1570,11 @@ repos:
       RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  andi-schwab/moodle-block_intuitel:
+    outcome: exists
+    detail: component block_intuitel already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   andil-elearning/moodle-block_taggedcoursesearch:
     outcome: written
     detail: listed as block_taggedcoursesearch; license AGPL-3.0 classified from text
@@ -1419,15 +1606,66 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  andrewdchancox/moodle-local_modcustomfields:
+    outcome: exists
+    detail: component local_modcustomfields already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  andrewdchancox/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   andrewhancox/Moodle-jQuery-Lightbox-Gallery:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  andrewmadden/moodle-local_mail:
+    outcome: exists
+    detail: component local_mail already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  andrewmadden/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   andrewscaya/moodle-local_moodleorm:
     outcome: exists
     detail: component local_moodleorm already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  angela-araujo/moodle-block_configurablereports:
+    outcome: exists
+    detail: component block_configurable_reports already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  angela-araujo/moodle-block_superframe:
+    outcome: exists
+    detail: component block_superframe already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  angela-araujo/moodle-block_suporte:
+    outcome: exists
+    detail: component block_suporte already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  angela-araujo/moodle-block_uploadvimeo:
+    outcome: exists
+    detail: component block_uploadvimeo already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  angela-araujo/moodle-enrol_metagroup:
+    outcome: exists
+    detail: component enrol_metagroup already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  angela-araujo/moodle-mod_collaborate:
+    outcome: exists
+    detail: component mod_collaborate already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   anilshanbhag/Moodle-Sync:
     outcome: bad-license
@@ -1500,6 +1738,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  aregure/moodle-tool_message:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   arielZusman/moodle-availability_progress:
     outcome: bad-license
     detail: 'license: none detected'
@@ -1510,6 +1753,16 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  artem-zaloga/moodle-local_autogroup:
+    outcome: exists
+    detail: component local_autogroup already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  artem-zaloga/moodle-local_vuecomponents:
+    outcome: exists
+    detail: component filter_vuecomponents already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   as1605/DevClub-Assignment4:
     outcome: bad-license
     detail: 'license: none detected'
@@ -1519,6 +1772,16 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  aspark21snow/moodle-auth_basic:
+    outcome: exists
+    detail: component auth_basic already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  aspark21snow/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   ateeducacion/moodle-playground:
     outcome: no-version-php
@@ -1564,6 +1827,16 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  azrek/moodle-local_mail:
+    outcome: exists
+    detail: component local_mail already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  b82a9a13/moodle-local_aceengine:
+    outcome: exists
+    detail: component local_aceengine already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   bantonia/MoodleRest:
     outcome: no-version-php
@@ -1651,6 +1924,11 @@ repos:
     detail: component tool_skills already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  beessync/leneo-moodle-plugin:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   benIT/moodle-block_helloworld:
     outcome: bad-license
     detail: 'license: none detected'
@@ -1710,6 +1988,11 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  bmbrands/moodle-theme_classic:
+    outcome: exists
+    detail: component theme_classic already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   bobopinna/moodle-enrol_autoenrol:
     outcome: bad-license
@@ -2068,6 +2351,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  cborn1/moodle-format_letstudy:
+    outcome: exists
+    detail: component format_letstudy already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   ceefour/bitnami-docker-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -2114,6 +2402,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  cme_ineprotec/moodle-local_integracao:
+    outcome: exists
+    detail: component local_integracao already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   coelicidium/marpl-project:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -2123,6 +2416,11 @@ repos:
     outcome: exists
     detail: component message_whatsapp already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  comete-upn/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   compilatio/moodle-plagiarism_compilatio:
     outcome: bad-license
@@ -2153,6 +2451,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch Development
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  cu_prasanna/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_bc_dashboard:
     outcome: written
@@ -2254,6 +2557,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  danielneis/moodle-local_mentorweb:
+    outcome: exists
+    detail: component local_mentorweb already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   danielneis/moodleparadesenvolvedores:
     outcome: bad-license
     detail: 'license: none detected'
@@ -2328,6 +2636,11 @@ repos:
     outcome: exists
     detail: component format_onetopic already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  davidherney/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   davidpesce/moodle-logstore_xapi:
     outcome: exists
@@ -2409,6 +2722,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  djarran/moodle-block_powerbi:
+    outcome: exists
+    detail: component block_powerbi already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   dkuzevanov/moodle_master_slave:
     outcome: bad-license
     detail: 'license: none detected'
@@ -2419,6 +2737,11 @@ repos:
     detail: component mod_dmelearn already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  dmitriim1/moodle-local_selfcohort:
+    outcome: exists
+    detail: component local_selfcohort already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   dmolina/MoodleQuestions.jl:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -2428,6 +2751,163 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-atto_fontawesomepicker:
+    outcome: exists
+    detail: component atto_fontawesomepicker already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-block_course_badges:
+    outcome: exists
+    detail: component block_course_badges already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-block_mycourseoffer:
+    outcome: exists
+    detail: component block_mycourseoffer already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-block_summary:
+    outcome: exists
+    detail: component block_summary already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-format_magistere_topics:
+    outcome: exists
+    detail: component format_magistere_topics already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-format_modular:
+    outcome: exists
+    detail: component format_modular already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_autoexec:
+    outcome: exists
+    detail: component local_autoexec already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_centraladmin_agent:
+    outcome: exists
+    detail: component local_centraladmin_agent already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_coursehub:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_favoritecourses:
+    outcome: exists
+    detail: component local_favoritecourses already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_hvp2h5p:
+    outcome: exists
+    detail: component local_hvp2h5p already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_last_section_access:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_magistere_offers:
+    outcome: exists
+    detail: component local_magistere_offers already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_myindex:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_taskmanager:
+    outcome: exists
+    detail: component local_taskmanager already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_taskmonitor:
+    outcome: exists
+    detail: component local_taskmonitor already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_usagemonitor:
+    outcome: exists
+    detail: component local_usagemonitor already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-local_workflow:
+    outcome: exists
+    detail: component local_workflow already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_board:
+    outcome: exists
+    detail: component mod_board already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_centraladmin:
+    outcome: exists
+    detail: component mod_centraladmin already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_collabwordcloud:
+    outcome: exists
+    detail: component mod_collabwordcloud already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_completionmarker:
+    outcome: exists
+    detail: component mod_completionmarker already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_coursebadges:
+    outcome: exists
+    detail: component mod_coursebadges already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_etherpadlite:
+    outcome: exists
+    detail: component mod_etherpadlite already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_interactivequiz:
+    outcome: exists
+    detail: component mod_interactivequiz already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_jupyternotebook:
+    outcome: exists
+    detail: component mod_jupyternotebook already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_labellud:
+    outcome: exists
+    detail: component mod_labellud already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-mod_plannedmail:
+    outcome: exists
+    detail: component mod_plannedmail already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-tool_inactiveuser:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-tool_inactiveusers:
+    outcome: exists
+    detail: component tool_inactiveusers already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  dne-elearning/moodle-magistere/moodle-tool_mergeusers:
+    outcome: exists
+    detail: component tool_mergeusers already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   doebi/MoodleScraper:
     outcome: bad-license
@@ -2489,6 +2969,12 @@ repos:
     detail: component report_overviewstats already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  duranchen/moodle-block_report_certificates:
+    outcome: exists
+    detail: component block_report_certificates already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   dvdcastro/moodle-mod_livepoll:
     outcome: written
     detail: listed as mod_livepoll; license AGPL-3.0 classified from text
@@ -2528,6 +3014,11 @@ repos:
     outcome: exists
     detail: component tool_cleanupusers already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  eabc-it/uli/moodle-local_ulibot:
+    outcome: exists
+    detail: component local_ulibot already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   ecampbell/moodle-qformat_wordtable:
     outcome: bad-license
@@ -2641,6 +3132,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  etibor/moodle-format_letstudy:
+    outcome: exists
+    detail: component format_letstudy already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   eummena/moodle-1click-app-digitalocean:
     outcome: bad-license
     detail: 'license: none detected'
@@ -2717,6 +3213,11 @@ repos:
     outcome: exists
     detail: component mod_exeweb already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  fabianorocha.info/moodle-atto_alignjustify:
+    outcome: exists
+    detail: component atto_alignjustify already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   farisv/Moodle-CVE-2019-3810:
     outcome: bad-license
@@ -2970,6 +3471,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  g.bordas/moodle-local_mail:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   gautamrwx/moodle-profiles-grabber:
     outcome: bad-license
     detail: 'license: none detected'
@@ -3040,6 +3546,16 @@ repos:
     detail: component mod_gharar already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  gigapixeltutor/moodle-block_gigapixel:
+    outcome: exists
+    detail: component block_gigapixel already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  gigapixeltutor/moodle-mod_gigapixel:
+    outcome: exists
+    detail: component mod_gigapixel already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   gjb2048/moodle-theme_essential:
     outcome: exists
     detail: component theme_essential already registered (first-come, RFC §8)
@@ -3075,6 +3591,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  gorge1737/moodle-local_mail:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   grabs/moodle-local_adminer:
     outcome: bad-license
     detail: 'license: none detected'
@@ -3099,6 +3620,11 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  guillaumeb87/moodle-local_modcustomfields:
+    outcome: exists
+    detail: component local_modcustomfields already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   gwizit/moodle-local_textplus:
     outcome: no-version-php
@@ -3273,6 +3799,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  ivan.hl.mail/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   jaakop/Jamk-Moodle-Extensions:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -3338,6 +3869,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  jhrequena/moodle-theme_fordson:
+    outcome: exists
+    detail: component theme_fordson already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   jjfiv/quizdown:
     outcome: bad-license
     detail: 'license: none detected'
@@ -3372,6 +3908,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  johnpercival/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   jonof/moodle-block_completion_progress:
     outcome: exists
@@ -3535,6 +4076,16 @@ repos:
     outcome: exists
     detail: component local_dompdf already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  kiklopgs/moodle-local_dompdf:
+    outcome: exists
+    detail: component local_dompdf already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  kiklopgs/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   kingisaac95/moodle:
     outcome: no-version-php
@@ -3703,6 +4254,16 @@ repos:
       root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  leofreitas_br/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  leonstr/moodle-tool_resendnewaccountemail:
+    outcome: exists
+    detail: component tool_resendnewaccountemail already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   leorenis/moodle-mod_icontent:
     outcome: exists
     detail: component mod_icontent already registered (first-come, RFC §8)
@@ -3734,6 +4295,33 @@ repos:
     outcome: written
     detail: listed as mod_lessonspace; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  letstudygroup/moodle-block_ace:
+    outcome: needs-review
+    detail: declares block_aceengine but repo name does not correspond; human sign-off
+      required before listing (RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  letstudygroup/moodle-block_ace_quest:
+    outcome: needs-review
+    detail: declares block_ace_quests but repo name does not correspond; human sign-off
+      required before listing (RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  letstudygroup/moodle-format_letstudy:
+    outcome: exists
+    detail: component format_letstudy already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  letstudygroup/moodle-local_aceengine:
+    outcome: exists
+    detail: component local_aceengine already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  letstudygroup/moodle-mod_certstudio:
+    outcome: exists
+    detail: component mod_certstudio already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   liliapro/moodle-local_wsmanager:
     outcome: bad-license
@@ -3770,6 +4358,11 @@ repos:
     detail: component local_differentiator already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  lucaboesch/moodle-mod_openbook:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   lucaboesch/moodle-quizaccess_campla:
     outcome: exists
     detail: component quizaccess_campla already registered (first-come, RFC §8)
@@ -3800,10 +4393,20 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  luisgg/moodle-theme_essential:
+    outcome: exists
+    detail: component theme_essential already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   lukecarr/joodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  lvillanne-recia/moodle-local_mail:
+    outcome: exists
+    detail: component local_mail already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   lysak-yurii/moodle-block_workload:
     outcome: exists
@@ -3855,6 +4458,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  marcusavgreen/moodle-tool_tdash:
+    outcome: exists
+    detail: component tool_tdash already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   marcusgreen/moodle-qtype_aitext:
     outcome: bad-license
     detail: 'license: none detected'
@@ -3890,6 +4498,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  marcusgreentitus/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   marie-di-palma/moodle-local_catalogbrowser:
     outcome: exists
     detail: component local_catalog_browser already registered (first-come, RFC §8)
@@ -3899,6 +4512,16 @@ repos:
     outcome: exists
     detail: component format_flexsections already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  marinaglancy/moodle-tool_certificate:
+    outcome: exists
+    detail: component tool_certificate already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  marinaglancy/moodle-tool_testpluginci:
+    outcome: exists
+    detail: component tool_testpluginci already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   marnbs/moodle-mod_classjournal:
     outcome: exists
@@ -3969,6 +4592,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  michael-milette/moodle-block_featuredcourses:
+    outcome: exists
+    detail: component block_featuredcourses already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   michael-milette/moodle-enrol_invitation:
     outcome: exists
@@ -4322,6 +4950,11 @@ repos:
     detail: listed as block_coursefeedback; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  moodle-local_mail/moodle-local_mail:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   moodle-tui/moot:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -4618,6 +5251,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  mspall/moodle-block_lpprogress:
+    outcome: exists
+    detail: component block_lpprogress already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   msramalho/SigTools:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -4709,6 +5347,11 @@ repos:
     detail: no parseable version.php at root of branch MuTMS_45
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  my-course-id/moodle-plugin:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   nadavkav/RTL-BIDI-Hebrew-Moodle-Plugins:
     outcome: bad-license
     detail: 'license: none detected'
@@ -4795,6 +5438,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  niko-hoogeveen/moodle-local_mail:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   nkratzke/JEdUnit:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -4804,6 +5452,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  noisyjerm/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   number33/moodle-mod_adobeconnect:
     outcome: bad-license
@@ -4916,10 +5569,70 @@ repos:
     detail: component mod_openmeetings already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oq404:
+    outcome: exists
+    detail: component local_oq404 already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqaccount:
+    outcome: exists
+    detail: component local_oqaccount already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqbrand:
+    outcome: exists
+    detail: component local_oqbrand already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqconsent:
+    outcome: exists
+    detail: component local_oqconsent already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqmoderation:
+    outcome: exists
+    detail: component local_oqmoderation already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqotp:
+    outcome: exists
+    detail: component local_oqotp already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqpolicy:
+    outcome: exists
+    detail: component local_oqpolicy already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqrecording:
+    outcome: exists
+    detail: component local_oqrecording already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqtrainer:
+    outcome: exists
+    detail: component local_oqtrainer already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-local_oqwaitlist:
+    outcome: exists
+    detail: component local_oqwaitlist already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  orbitqube/moodle/free/moodle-theme_orbitqube:
+    outcome: exists
+    detail: component theme_orbitqube already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   oreipalido/ead.be2in.us:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  osangoi/moodle-qtype_vplquestion:
+    outcome: exists
+    detail: component qtype_vplquestion already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   otacke/h5p-ar-scavenger:
     outcome: no-version-php
@@ -4965,6 +5678,11 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  patrickvander/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   paulfantom/ansible-moodle:
     outcome: no-version-php
@@ -5081,6 +5799,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  psistrom/moodle-block_featuredcourses:
+    outcome: exists
+    detail: component block_featuredcourses already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   psywhale/moodle-mod_everfi:
     outcome: exists
     detail: component mod_everfi already registered (first-come, RFC §8)
@@ -5111,6 +5834,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  renanrmelo/moodle-local_oauth:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   reverse-developer/Moodle-Merge-user-data:
     outcome: bad-license
     detail: 'license: none detected'
@@ -5126,6 +5854,26 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  riddler_arg/moodle-enrol_profilefield:
+    outcome: exists
+    detail: component enrol_profilefield already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rmueller/moodle-mod_newmodule:
+    outcome: exists
+    detail: component mod_newmodule already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  ro-mdl-themes/moodle-theme_handlebar:
+    outcome: exists
+    detail: component theme_handlebar already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  ro-mdl-themes/moodle-theme_waxed:
+    outcome: exists
+    detail: component theme_waxed already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   robertdebock/ansible-role-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -5135,6 +5883,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  rodrigoesborges/moodle-mod_jupyternotebook:
+    outcome: exists
+    detail: component mod_jupyternotebook already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   roelmann/moodle-theme_waxed:
     outcome: bad-license
@@ -5160,6 +5913,62 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-auth_googleoauth2:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-block_analytics_graphs:
+    outcome: exists
+    detail: component block_analytics_graphs already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-block_etextbook:
+    outcome: exists
+    detail: component block_etextbook already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-block_material-download:
+    outcome: exists
+    detail: component block_material_download already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-block_poll:
+    outcome: exists
+    detail: component block_poll already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-mod_attendance:
+    outcome: exists
+    detail: component mod_attendance already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-mod_bigbluebutton:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-mod_bigbluebuttonbn:
+    outcome: exists
+    detail: component mod_bigbluebuttonbn already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-mod_certificate:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/moodle-report_customsql:
+    outcome: exists
+    detail: component report_customsql already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  rrusso33/rollsheet:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   rssws/moodle-dl-ext:
     outcome: no-version-php
@@ -5262,6 +6071,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  savapage/moodle-block_savapage:
+    outcome: exists
+    detail: component block_savapage already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   saylordotorg/Moodle_Saylor:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -5303,6 +6117,16 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  serlo/moodle-mod_serlo:
+    outcome: exists
+    detail: component mod_serlo already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  serlo/moodle-theme_serlo:
+    outcome: exists
+    detail: component theme_serlo already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   seunayolu/moodle-docker-compose:
     outcome: bad-license
     detail: 'license: none detected'
@@ -5317,6 +6141,21 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  silecs/moodle-auth_sgdf:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  silecs/moodle-local_sgdf_completion:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  silecs/moodle-theme_boostsgdf:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   silvae86/moodle-autocorrect-sqlite:
     outcome: no-version-php
@@ -5363,6 +6202,17 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  sproutlabs/moodle-report-course-completion:
+    outcome: exists
+    detail: component report_coursecompletion already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  sravanisiri/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   ssystems-de/moodle-availability_plugin:
     outcome: exists
     detail: component availability_plugin already registered (first-come, RFC §8)
@@ -5382,6 +6232,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  stronk7/moodle-tool_certificate:
+    outcome: exists
+    detail: component tool_certificate already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   studentquiz/moodle-mod_studentquiz:
     outcome: exists
@@ -5423,6 +6278,11 @@ repos:
     detail: component mod_swiftquiz already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  szaydon/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   tairosonloa/Aula_Global_UC3M:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -5432,6 +6292,11 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  tallthom/moodle-block_forum_report:
+    outcome: exists
+    detail: component block_forum_report already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   tanhongit/trainingmoodletheme:
     outcome: bad-license
@@ -5483,6 +6348,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  thiago.serrao/moodle-mod_customcert:
+    outcome: exists
+    detail: component mod_customcert already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   thm-projects/arsnova-lms-connector:
     outcome: bad-license
     detail: 'license: none detected'
@@ -5493,6 +6363,11 @@ repos:
     detail: component qtype_essaysimilarity already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  tictologo/moodle-theme_adaptable:
+    outcome: exists
+    detail: component theme_adaptable already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   tigusigalpa/moodle-block_wpfeed:
     outcome: bad-license
     detail: 'license: none detected'
@@ -5502,6 +6377,17 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  tinjohn/moodle-block_lpprogress:
+    outcome: exists
+    detail: component block_lpprogress already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  tinjohn/moodle-local_lpautocompletedeb:
+    outcome: exists
+    detail: component local_lpautocompletedeb already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   tjarbo/discord-moodle-bot:
     outcome: no-version-php
@@ -5528,6 +6414,11 @@ repos:
     detail: license AGPL-3.0 recovered from text, but no parseable version.php at
       root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  tomo.tsuyuki.se/moodle-local_modcustomfields:
+    outcome: exists
+    detail: component local_modcustomfields already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   tomo0611/moodle-plus:
     outcome: bad-license
@@ -5726,6 +6617,21 @@ repos:
     detail: listed as block_uteluqchatbot; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  uvedtb/moodle-block_usersmap:
+    outcome: exists
+    detail: component block_usersmap already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  uvedtb/moodle-mod_newsletter:
+    outcome: exists
+    detail: component mod_newsletter already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  uvedtb/moodle-theme_telaformation:
+    outcome: exists
+    detail: component theme_telaformation already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   vaiva-sarauskyte/moodle-plugin:
     outcome: bad-license
     detail: 'license: none detected'
@@ -5756,6 +6662,11 @@ repos:
     detail: component quizaccess_fpbiometric already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  viet-do/moodle-theme_fordson:
+    outcome: exists
+    detail: component theme_fordson already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   vinaychandra/Moodle-Downloader:
     outcome: bad-license
     detail: 'license: none detected'
@@ -5765,6 +6676,11 @@ repos:
     outcome: bad-license
     detail: 'license: none detected'
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  vivek4/moodle-filter_oembed:
+    outcome: exists
+    detail: component filter_oembed already registered (first-come, RFC §8)
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   wangwillian0/quack3bot:
     outcome: no-version-php
@@ -5861,6 +6777,17 @@ repos:
     detail: 'license: NOASSERTION (text unclassified)'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  xzatkalik/moodle-local_mail:
+    outcome: exists
+    detail: component local_mail already indexed this run
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
+  yashshah1/moodle-plugin-download-course:
+    outcome: needs-review
+    detail: declares block_course_download but repo name does not correspond; human
+      sign-off required before listing (RFC §8)
+    first-seen: '2026-07-11'
+    last-checked: '2026-07-11'
   yedidiaklein/moodle-local_aiquestions:
     outcome: written
     detail: listed as local_aiquestions; license AGPL-3.0 classified from text
@@ -5905,6 +6832,11 @@ repos:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
+    last-checked: '2026-07-11'
+  zxyvbr/moodle-mod_newmodule:
+    outcome: exists
+    detail: component mod_newmodule already indexed this run
+    first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   zzg1975/moodle_wnmp_64:
     outcome: no-version-php

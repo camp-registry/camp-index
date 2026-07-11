@@ -1,0 +1,9 @@
+component: tool_certificate
+source: https://gitlab.com/stronk7/moodle-tool_certificate
+maintainers:
+- gitlab: stronk7
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

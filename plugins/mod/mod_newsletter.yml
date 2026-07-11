@@ -1,0 +1,9 @@
+component: mod_newsletter
+source: https://gitlab.com/uvedtb/moodle-mod_newsletter
+maintainers:
+- gitlab: uvedtb
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

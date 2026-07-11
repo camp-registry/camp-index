@@ -1,0 +1,9 @@
+component: tool_tdash
+source: https://gitlab.com/marcusavgreen/moodle-tool_tdash
+maintainers:
+- gitlab: marcusavgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

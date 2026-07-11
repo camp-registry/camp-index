@@ -1,0 +1,10 @@
+component: local_selfcohort
+source: https://gitlab.com/adapta/moodle-local_selfcohort
+maintainers:
+- gitlab: adapta
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allow users to add themselves to the selected cohorts

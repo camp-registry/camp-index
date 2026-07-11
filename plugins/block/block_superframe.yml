@@ -1,0 +1,9 @@
+component: block_superframe
+source: https://gitlab.com/angela-araujo/moodle-block_superframe
+maintainers:
+- gitlab: angela-araujo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

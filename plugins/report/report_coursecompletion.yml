@@ -1,0 +1,10 @@
+component: report_coursecompletion
+source: https://gitlab.com/sproutlabs/moodle-report-course-completion
+maintainers:
+- gitlab: sproutlabs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is Sprout Labs version of https://github.com/catalyst/moodle-report_coursecompletion

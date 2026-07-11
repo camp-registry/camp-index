@@ -1,0 +1,10 @@
+component: enrol_metagroup
+source: https://gitlab.com/angela-araujo/moodle-enrol_metagroup
+maintainers:
+- gitlab: angela-araujo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enrolment based enrol course meta link (enrol_meta)

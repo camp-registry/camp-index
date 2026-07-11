@@ -1,0 +1,9 @@
+component: mod_organizer
+source: https://gitlab.com/academic-moodle-cooperation/moodle/moodle-mod_organizer
+maintainers:
+- gitlab: academic-moodle-cooperation/moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

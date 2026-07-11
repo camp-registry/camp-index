@@ -1,0 +1,9 @@
+component: mod_extserver
+source: https://gitlab.com/academic-moodle-cooperation/moodle/moodle-mod_extserver
+maintainers:
+- gitlab: academic-moodle-cooperation/moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

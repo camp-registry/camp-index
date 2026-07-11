@@ -1,0 +1,11 @@
+component: mod_attendance
+source: https://gitlab.com/rrusso33/moodle-mod_attendance
+maintainers:
+- gitlab: rrusso33
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: New version of the Attendance module for Moodle 2.4 and higher. (replaces
+  mod_attforblock)

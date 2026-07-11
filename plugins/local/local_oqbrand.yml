@@ -1,0 +1,11 @@
+component: local_oqbrand
+source: https://gitlab.com/orbitqube/moodle/free/moodle-local_oqbrand
+maintainers:
+- gitlab: orbitqube/moodle/free
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: OrbitQube Moodle plugin moodle-local_oqbrand (seeded from oq-lms-plugins
+  monorepo SSOT)
