@@ -1,0 +1,920 @@
+# Scan ledger: every repository the discovery scan has evaluated,
+# with the outcome and why. Maintained by `camp scan`; do not edit
+# release data here — this file never affects installed artifacts.
+repos:
+  Azure/Moodle:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  Berserk-hub150/moodle-ai-skill-navigator:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  C0D3D3V/Moodle-DL:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  DigiDago/moodle-block_admin_presets:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  DigiDago/moodle-block_course_modulenavigation:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  FMCorz/moodle-availability_xp:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  FMCorz/moodle-block_stash:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  FMCorz/moodle-block_xp:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  FMCorz/moodle-webservice_restful:
+    outcome: exists
+    detail: component webservice_restful already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  FormulasQuestion/moodle-qtype_formulas:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  FranckSilvestre/ExemplesMoodleXML:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  KEV0143/Moodle_PluginPoll:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  KQMATH/moodle-mod_jazzquiz:
+    outcome: exists
+    detail: component mod_jazzquiz already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  Limekiller/moodle-block_openai_chat:
+    outcome: exists
+    detail: component block_openai_chat already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  LuemmelSec/Moodle-Scanner:
+    outcome: bad-license
+    detail: 'license: BSD-3-Clause'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  ManuelGil/vscode-moodle-snippets:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  Opencast-Moodle/moodle-block_opencast:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  Opencast-Moodle/moodle-filter_opencast:
+    outcome: exists
+    detail: component filter_opencast already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  Opencast-Moodle/moodle-repository_opencast:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  Opencast-Moodle/moodle-tool_opencast:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  PlagiarismCheck/moodle-plagiarism_pchkorg:
+    outcome: exists
+    detail: component plagiarism_pchkorg already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  PoetOS/moodle-mod_questionnaire:
+    outcome: exists
+    detail: component mod_questionnaire already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  Romern/syncMyMoodle:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  SaadRahman01/claude-moodle-dev:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  SergioComeron/moodle-mod_jitsi:
+    outcome: exists
+    detail: component mod_jitsi already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  UNEDLabs/moodle-mod_ejsapp:
+    outcome: exists
+    detail: component mod_ejsapp already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  academic-moodle-cooperation/moodle-mod_offlinequiz:
+    outcome: exists
+    detail: component mod_offlinequiz already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  alokrai1/moodle-mod_gotomeeting:
+    outcome: exists
+    detail: component mod_gotomeeting already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  alokrai1/moodle-mod_gotowebinar:
+    outcome: exists
+    detail: component mod_gotowebinar already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  aws-samples/aws-refarch-moodle:
+    outcome: bad-license
+    detail: 'license: Apache-2.0'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  bdecentgmbh/moodle-format_designer:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  bdecentgmbh/moodle-mod_pulse:
+    outcome: exists
+    detail: component mod_pulse already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  blindsidenetworks-ps/moodle-mod_bigbluebuttonbn:
+    outcome: exists
+    detail: component mod_bigbluebuttonbn already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  bostelm/moodle-mod_scheduler:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  branchup/moodle-enrol_xp:
+    outcome: exists
+    detail: component enrol_xp already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  branchup/moodle-filter_shortcodes:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  brendanheywood/moodle-local_cleanurls:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  bycs-lp/mod_learningmap:
+    outcome: exists
+    detail: component mod_learningmap already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  bycs-lp/moodle-qtype_geogebra:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  caiocarvalhofre/moodle-mod_maici:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  cannod/moodle-drupalservices:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-auth_basic:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-auth_enrolkey:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-auth_saml2:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-auth_userkey:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-block_multiblock:
+    outcome: exists
+    detail: component block_multiblock already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-local_envbar:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-mod_scormremote:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-mod_subcourse:
+    outcome: exists
+    detail: component mod_subcourse already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-tool_abconfig:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-tool_excimer:
+    outcome: exists
+    detail: component tool_excimer already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-tool_heartbeat:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-tool_mfa:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-tool_objectfs:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-tool_redirects:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-tool_trigger:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  catalyst/moodle-webservice_restful:
+    outcome: exists
+    detail: component webservice_restful already indexed this run
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  cjmcdonald42/mxMoodle:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  costvin15/react-native-moodlemobile:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  danielneis/moodle-block_newblock:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  danmarsden/moodle-local_recompletion:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  danmarsden/moodle-mod_attendance:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  davidherney/moodle-format_onetopic:
+    outcome: exists
+    detail: component format_onetopic already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  davidpesce/moodle-logstore_xapi:
+    outcome: exists
+    detail: component logstore_xapi already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  davidpesce/moodle-mod_tincanlaunch:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  dbnschools/moodle-theme_fordson:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  doebi/MoodleScraper:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  dpiponi/Moodler:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  edflex-tech/moodle-mod_edflex:
+    outcome: exists
+    detail: component mod_edflex already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  emeneo/moodle-enrol_apply:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  emeneo/moodle-local_course_templates:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  ericmerrill/moodle-mod_webexactivity:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  erseco/alpine-moodle:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  ewallah/moodle-availability_coursecompleted:
+    outcome: exists
+    detail: component availability_coursecompleted already registered (first-come,
+      RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  ewallah/moodle-availability_relativedate:
+    outcome: exists
+    detail: component availability_relativedate already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  ewallah/moodle-enrol_coursecompleted:
+    outcome: exists
+    detail: component enrol_coursecompleted already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  fawazahmed0/Moodle-Hacking:
+    outcome: bad-license
+    detail: 'license: Unlicense'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  frumbert/moodle-course_meta:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  frumbert/moodle-tool_uploadactivitycompletions:
+    outcome: exists
+    detail: component tool_uploadactivitycompletions already registered (first-come,
+      RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  frumbert/wp2moodle:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  frumbert/wp2moodle-moodle:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  georgetomzaridis/bbbhook:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  gjb2048/moodle-theme_essential:
+    outcome: exists
+    detail: component theme_essential already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  gjbarnard/moodle-format_topcoll:
+    outcome: exists
+    detail: component format_topcoll already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  google/moodle-on-gcp:
+    outcome: bad-license
+    detail: 'license: Apache-2.0'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  grp-attestoodle/moodle-tool_attestoodle:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  h5p/moodle-mod_hvp:
+    outcome: exists
+    detail: component mod_hvp already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  harregoces/moodle-enrol_mercadopago:
+    outcome: exists
+    detail: component enrol_mercadopago already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  harsilspatel/moodle-downloader:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  hit-moodle/moodle-local_onlinejudge:
+    outcome: exists
+    detail: component local_onlinejudge already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  hit-moodle/moodle-plagiarism_moss:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  inc0d3/moodlescan:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  jcrodriguez-dis/moodle-mod_vpl:
+    outcome: exists
+    detail: component mod_vpl already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  jleyva/moodle-block_configurablereports:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  jobcespedes/docker-compose-moodle:
+    outcome: bad-license
+    detail: 'license: Apache-2.0'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  jpahullo/moodle-tool_mergeusers:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  jrchamp/moodle-mod_zoom:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  jxn-30/better-moodle:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  kabalin/moodle-dev-compose:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  learningworks/moodle-block_advnotifications:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  llagerlof/MoodleRest:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  lucaboesch/moodle-local_differentiator:
+    outcome: exists
+    detail: component local_differentiator already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  marcelreppi/moodle-buddy:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  marcusgreen/moodle-qtype_aitext:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  maths/moodle-qtype_stack:
+    outcome: exists
+    detail: component qtype_stack already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  mdjnelson/moodle-mod_certificate:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  mdjnelson/moodle-mod_customcert:
+    outcome: exists
+    detail: component mod_customcert already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  merakeen/moodle-local_yeswecanquiz:
+    outcome: exists
+    detail: component local_yeswecanquiz already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  michael-milette/moodle-filter_filtercodes:
+    outcome: exists
+    detail: component filter_filtercodes already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  michael-milette/moodle-local_aiid:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  michael-milette/moodle-local_contact:
+    outcome: exists
+    detail: component local_contact already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  michael-milette/moodle-local_mailtest:
+    outcome: exists
+    detail: component local_mailtest already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  microsoft/moodle-auth_oidc:
+    outcome: exists
+    detail: component auth_oidc already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  microsoft/moodle-local_o365:
+    outcome: exists
+    detail: component local_o365 already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  microsoft/o365-moodle:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  middlebury/moodle-mod_adaptivequiz:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  mkihr-ojisan/better-waseda-moodle:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  mohessaid/moodle_local_plugin:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-atto_styles:
+    outcome: exists
+    detail: component atto_styles already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-auth_ldap_syncplus:
+    outcome: exists
+    detail: component auth_ldap_syncplus already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-availability_role:
+    outcome: exists
+    detail: component availability_role already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-block_cohortspecifichtml:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-block_course_overview_campus:
+    outcome: exists
+    detail: component block_course_overview_campus already registered (first-come,
+      RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-block_people:
+    outcome: exists
+    detail: component block_people already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-local_boostnavigation:
+    outcome: exists
+    detail: component local_boostnavigation already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-local_bulkenrol:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-local_maintenance_livecheck:
+    outcome: exists
+    detail: component local_maintenance_livecheck already registered (first-come,
+      RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-local_navbarplus:
+    outcome: exists
+    detail: component local_navbarplus already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-local_profilecohort:
+    outcome: exists
+    detail: component local_profilecohort already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-local_sandbox:
+    outcome: exists
+    detail: component local_sandbox already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-local_staticpage:
+    outcome: exists
+    detail: component local_staticpage already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-theme_boost_campus:
+    outcome: exists
+    detail: component theme_boost_campus already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-theme_boost_union:
+    outcome: exists
+    detail: component theme_boost_union already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-theme_boost_union_child:
+    outcome: exists
+    detail: component theme_boost_union_child already registered (first-come, RFC
+      §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle-an-hochschulen/moodle-tool_opcache:
+    outcome: exists
+    detail: component tool_opcache already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle/devdocs:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodle/moodle:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlebox/moodle-tool_moodlebox:
+    outcome: exists
+    detail: component tool_moodlebox already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlebox/moodlebox:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodle-docker:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodle-local_codechecker:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodle-mod_newmodule:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodle-performance-comparison:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodle-php-apache:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodle-plugin-ci:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodleapp:
+    outcome: bad-license
+    detail: 'license: Apache-2.0'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodlemobile:
+    outcome: bad-license
+    detail: 'license: Apache-2.0'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodlehq/moodlemobile-phonegapbuild:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodleou/moodle-mod_oublog:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodleou/moodle-mod_ouwiki:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodleou/moodle-report_customsql:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodleworkplace/moodle-mod_coursecertificate:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  moodleworkplace/moodle-tool_certificate:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  mrcinv/moodle_api.py:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  mudrd8mz/moodle-tool_pluginskel:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  mudrd8mz/node-moodle-client:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  ndunand/moodle-mod_choicegroup:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  omareldeeb/tum-moodle-downloader:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  onbirdev/moodle-webservice_mcp:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  open-lms-open-source/moodle-mod_hsuforum:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  open-lms-open-source/moodle-plugin-ci:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch master
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  open-lms-open-source/moodle-theme_snap:
+    outcome: exists
+    detail: component theme_snap already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  p0dalirius/Moodle-webshell-plugin:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  peancor/moodle-mcp-server:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  projectestac/moodle-local_oauth:
+    outcome: exists
+    detail: component local_oauth already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  rabser/moodle-auth_googleoauth2:
+    outcome: exists
+    detail: component auth_googleoauth2 already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  ronefel/moodle-mod_googlemeet:
+    outcome: bad-license
+    detail: 'license: NOASSERTION'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  sergiogomez/docker-moodle:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  skodak/moodle-mod_book:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  studentquiz/moodle-mod_studentquiz:
+    outcome: exists
+    detail: component mod_studentquiz already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  tjarbo/discord-moodle-bot:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch version-2
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  trampgeek/moodle-qtype_coderunner:
+    outcome: exists
+    detail: component qtype_coderunner already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  trema-tech/moodle-theme_trema:
+    outcome: exists
+    detail: component theme_trema already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  turnitin/moodle-mod_turnitintooltwo:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  turnitin/moodle-plagiarism_turnitin:
+    outcome: exists
+    detail: component plagiarism_turnitin already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  valentineus/moodle-webhooks:
+    outcome: exists
+    detail: component local_webhooks already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  willianmano/moodle-block_ranking:
+    outcome: bad-license
+    detail: 'license: none detected'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  willianmano/moodle-theme_moove:
+    outcome: exists
+    detail: component theme_moove already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  wiris/moodle-atto_wiris:
+    outcome: exists
+    detail: component atto_wiris already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  wiris/moodle-filter_wiris:
+    outcome: exists
+    detail: component filter_wiris already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  wiris/moodle-tinymce_tiny_mce_wiris:
+    outcome: exists
+    detail: component tinymce_tiny_mce_wiris already registered (first-come, RFC §8)
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
+  yoannchb-pro/MoodleGPT:
+    outcome: bad-license
+    detail: 'license: MIT'
+    first-seen: '2026-07-10'
+    last-checked: '2026-07-10'
