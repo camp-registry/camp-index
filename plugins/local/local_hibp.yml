@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: A Moodle plugin that implements Troy Hunt's Have I Been Pwned API.
+license: GPL-3.0

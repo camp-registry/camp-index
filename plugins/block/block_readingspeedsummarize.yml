@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle block module to summarize reading speed test results
+license: GPL-3.0

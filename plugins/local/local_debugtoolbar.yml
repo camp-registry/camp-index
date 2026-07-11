@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin that turns performance information into a toolbar
+license: GPL-3.0

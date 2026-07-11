@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle weepay Payment Gateway & Course Enrolment Plugin
+license: AGPL-3.0

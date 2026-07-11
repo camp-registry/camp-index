@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: This plugin transforms Moodle logs into xAPI statements, and sends then to
   your LRS.
+license: GPL-3.0

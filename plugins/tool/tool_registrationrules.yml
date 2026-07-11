@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: An enhanced reCAPTCHA alternative and anti-spam tool to prevent automated
   spam bots from creating fake accounts in Moodle.
+license: GPL-3.0

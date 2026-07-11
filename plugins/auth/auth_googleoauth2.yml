@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Oauth2 authentication plugin for Moodle (for Moodle 3.2 and earlier)
+license: GPL-3.0

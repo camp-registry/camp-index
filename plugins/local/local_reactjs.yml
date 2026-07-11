@@ -1,0 +1,10 @@
+component: local_reactjs
+source: https://github.com/SmartAppTechnology/moodle-local_reactjs
+maintainers:
+- github: SmartAppTechnology
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle ReactJS - gives you ability to use ReactJS inside any moodle page.

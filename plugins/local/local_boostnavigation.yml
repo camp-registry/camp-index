@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin which tries to overcome some fixed appearance behaviours of
   Boost's nav drawer in a clean way
+license: GPL-3.0

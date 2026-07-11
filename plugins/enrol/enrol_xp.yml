@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Enrol users in courses when a certain level from Level up! is attained.
+license: GPL-3.0

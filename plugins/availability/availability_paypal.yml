@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: An Availability Condition for Moodle to require a PayPal payment to access
   activities and resources.
+license: GPL-3.0

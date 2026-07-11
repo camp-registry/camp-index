@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Enables the creation of dynamically generated certificates with complete
   customisation via the web browser.
+license: GPL-3.0

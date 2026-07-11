@@ -1,0 +1,11 @@
+component: local_moodleorm
+source: https://github.com/andrewscaya/moodle-local_moodleorm
+maintainers:
+- github: andrewscaya
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: A simple ORM, with a Unit of Work, to easily save cascading data from Moodle
+  Forms, using Moodle Entities, through single database transactions.

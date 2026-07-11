@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: OAuth Server for Moodle 2
+license: GPL-3.0

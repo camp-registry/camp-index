@@ -9,3 +9,4 @@ releases: []
 summary: Stackviewer is a course activity plugin which allows teachers to display
   images as a stack. The student can scroll through the stack of images, similar to
   using radiological DICOM software to research medical imagery.
+license: GPL-3.0

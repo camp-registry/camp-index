@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin which allows you to embed multiple blocks within a single block
   region using different formats including tabs and accordions
+license: GPL-3.0

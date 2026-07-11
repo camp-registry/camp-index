@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: A moodle plugin to add vdocipher videos inside a moodle content
+license: GPL-3.0

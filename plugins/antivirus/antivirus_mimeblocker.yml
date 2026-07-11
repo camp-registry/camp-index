@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: An "antivirus" for Moodle that will accurately check the mimetype and allow
   only specific types of file uploads
+license: AGPL-3.0

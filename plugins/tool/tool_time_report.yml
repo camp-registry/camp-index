@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin that generates per-user reports of their online presence time.
+license: GPL-3.0

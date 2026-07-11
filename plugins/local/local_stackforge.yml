@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: 'Moodle local plugin: generate AI-drafted, STACK-validated mathematics questions
   straight into the course question bank, and build RL-sequenced adaptive quizzes.'
+license: GPL-3.0

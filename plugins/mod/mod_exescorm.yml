@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Activity-type Moodle module to create and edit SCORM packages with eXeLearning
   (online).
+license: GPL-3.0

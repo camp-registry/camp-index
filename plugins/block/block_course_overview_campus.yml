@@ -9,3 +9,4 @@ releases: []
 summary: Moodle block which provides all functionality of block_course_overview, provides
   additional filters to be used on university campuses as well as the possibility
   to hide courses from the course list
+license: GPL-3.0

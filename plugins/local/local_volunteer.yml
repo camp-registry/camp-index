@@ -9,3 +9,4 @@ releases: []
 summary: The Volunteer Selector plugin simplifies the process of randomly selecting
   a volunteer in a Moodle course. Teachers can quickly choose from a list of course
   participants, ensuring a fair and engaging selection process.
+license: GPL-3.0

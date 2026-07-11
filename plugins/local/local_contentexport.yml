@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: A Moodle local plugin that provides web service APIs to export course structure,
   content, files, and metadata in a structured JSON format.
+license: AGPL-3.0

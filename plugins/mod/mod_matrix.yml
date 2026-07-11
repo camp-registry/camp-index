@@ -1,0 +1,10 @@
+component: mod_matrix
+source: https://github.com/matrix-org/moodle-mod_matrix
+maintainers:
+- github: matrix-org
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: Moodle activity plugin to enable integration between Moodle and Matrix

@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle filter that prefixes DOI links with UCSF's EZProxy URL.
+license: GPL-3.0

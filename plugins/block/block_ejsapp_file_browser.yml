@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: A Moodle block for managing experimentation data files when using the EJSApp
   activity module.
+license: GPL-3.0

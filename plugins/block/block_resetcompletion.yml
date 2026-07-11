@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle block for resetting competion of a single user (while logged-in-as
   them)
+license: GPL-3.0

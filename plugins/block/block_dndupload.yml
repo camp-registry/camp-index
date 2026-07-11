@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Plugin allowing drag and drop of files from desktop to Moodle course
+license: GPL-3.0

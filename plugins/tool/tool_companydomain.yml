@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: IOMAD Plugin which adds manually or automatically created users to companies
   based on the email address domain.
+license: GPL-3.0

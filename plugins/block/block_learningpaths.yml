@@ -1,0 +1,10 @@
+component: block_learningpaths
+source: https://github.com/Hipjea/moodle-block_learningpaths
+maintainers:
+- github: Hipjea
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle block displaying the learning paths from the API of L'Université Numérique

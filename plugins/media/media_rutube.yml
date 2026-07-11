@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin for supporting embedded video display from RuTube.
+license: GPL-3.0

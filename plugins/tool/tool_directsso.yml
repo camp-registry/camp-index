@@ -10,3 +10,4 @@ summary: Moodle admin tool which provides an entrypoint that can be used as pers
   URL where external websites can redirect users directly to the Moodle SSO mechanisms
   without ever showing the login page to the user and especially without the need
   that the user clicks on a SSO button on the login page.
+license: GPL-3.0

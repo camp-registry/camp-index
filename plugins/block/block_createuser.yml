@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Create users and assign to a given course.
+license: GPL-3.0

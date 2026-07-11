@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: The Moodle ResetOpCache module allows administrators to reset PHP's OpCache.
+license: GPL-3.0

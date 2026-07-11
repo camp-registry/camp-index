@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: 'Moodle plugin: Allows to manage sections (create, delete, move, get settings,
   update settings) via Rest-API.'
+license: GPL-3.0

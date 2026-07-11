@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: 📂 Activity Module for creating folders for collaboration in ownCloud or Nextcloud
+license: GPL-3.0

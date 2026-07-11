@@ -9,3 +9,4 @@ releases: []
 summary: Moodle MailTest allows administrators to test Moodle's email system. A trace
   of the SMTP dialogue will be displayed if the email message cannot be sent for any
   reason.   For premium support, contact us at https://www.tngconsulting.ca/contact
+license: GPL-3.0

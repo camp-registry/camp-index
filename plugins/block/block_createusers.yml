@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle block for rapidly creating one or more users, sending their details,
   optionally enrolling them to a course and group
+license: GPL-3.0

@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Webhooks allow applications to subscribe to Moodle events.
+license: GPL-3.0

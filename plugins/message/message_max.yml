@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: A MAX message output plugin for Moodle.
+license: GPL-3.0

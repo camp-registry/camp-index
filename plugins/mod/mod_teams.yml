@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Moodle mod to create and display a Teams resource
+license: GPL-3.0

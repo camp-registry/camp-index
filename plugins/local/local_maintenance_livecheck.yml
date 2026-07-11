@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin which shows the Moodle maintenance announcement even if there
   is no full page load
+license: GPL-3.0

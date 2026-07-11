@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin for extending the Moodle Web Service API for remote course
   module creation and course file synchronisation.
+license: GPL-3.0

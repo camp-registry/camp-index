@@ -9,3 +9,4 @@ releases: []
 summary: 'Moodle local plugin: a Socratic AI tutor for STACK quiz questions — escalating
   hints (never the answer) from a server-side AI, plus an optional RL ''practise next''
   suggestion.'
+license: GPL-3.0

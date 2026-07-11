@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: LangX filter for Moodle - Enables content creators to use a plain text tag
   to indicate that a span of content is in a particular language.
+license: GPL-3.0

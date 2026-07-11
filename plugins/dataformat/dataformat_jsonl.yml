@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: A Moodle data format plugin that exports data in JSON Lines (JSONL) format.
+license: GPL-3.0

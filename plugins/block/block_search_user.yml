@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Quick user search with overview of user stats
+license: GPL-3.0

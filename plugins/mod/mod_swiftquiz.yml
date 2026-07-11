@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle activity module, allows teachers to swiftly create questions and get
   rich feedback.
+license: GPL-3.0

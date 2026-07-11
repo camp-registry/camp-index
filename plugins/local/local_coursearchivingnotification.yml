@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: Prototype for delivery of course archiving notifications to our users.
+license: GPL-3.0

@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle authentication plugin which provides all functionality of auth_ldap,
   but supports advanced features for the LDAP synchronization task and LDAP authentication.
+license: GPL-3.0

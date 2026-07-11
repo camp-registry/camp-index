@@ -9,3 +9,4 @@ releases: []
 summary: Moodle plugin which programatically restores courses to predefined course
   states. It can be used to provide playground moodle courses which will be cleaned
   periodically
+license: GPL-3.0

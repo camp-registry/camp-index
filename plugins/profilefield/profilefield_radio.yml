@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: This is a custom user profile field plugin to add custom field with radio
   button.
+license: GPL-3.0

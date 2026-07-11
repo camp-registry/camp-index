@@ -10,3 +10,4 @@ summary: The Offline Quiz activity allows the creation of multiple choice tests 
   questions from the question bank of a Moodle course, which are handed out to students
   in printed form. After completion, the answer forms are scanned and can be automatically
   evaluated online directly in Moodle.
+license: GPL-3.0

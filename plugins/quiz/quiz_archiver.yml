@@ -8,3 +8,4 @@ discovered: '2026-07-10'
 releases: []
 summary: Archives quiz attempts as PDF and HTML files for long-term storage independent
   of Moodle
+license: GPL-3.0

@@ -7,3 +7,4 @@ status: active
 discovered: '2026-07-10'
 releases: []
 summary: PlagScan Moodle Plugin - Official repository for API v3
+license: GPL-2.0
