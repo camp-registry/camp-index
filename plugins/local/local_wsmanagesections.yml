@@ -1,0 +1,10 @@
+component: local_wsmanagesections
+source: https://github.com/corvus-albus/moodle-local_wsmanagesections
+maintainers:
+- github: corvus-albus
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: 'Moodle plugin: Allows to manage sections (create, delete, move, get settings,
+  update settings) via Rest-API.'

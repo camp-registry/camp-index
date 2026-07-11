@@ -1,0 +1,10 @@
+component: enrol_invitation
+source: https://github.com/michael-milette/moodle-enrol_invitation
+maintainers:
+- github: michael-milette
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: The Invitation Enrollment plug-in for Moodle enables instructors to invite
+  people to their course and grant them the desire access and role.

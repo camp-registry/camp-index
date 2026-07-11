@@ -1,0 +1,9 @@
+component: mod_adobeconnect_maintained
+source: https://github.com/Utdanningsdirektoratet/moodle-mod_adobeconnect_maintained
+maintainers:
+- github: Utdanningsdirektoratet
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: The Adobe Connect / Moodle integration.

@@ -1,0 +1,9 @@
+component: mod_capquiz
+source: https://github.com/KQMATH/moodle-mod_capquiz
+maintainers:
+- github: KQMATH
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: ':mushroom: Computer adaptive practice activity module for Moodle'

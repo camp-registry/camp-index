@@ -1,0 +1,9 @@
+component: customfield_mutrain
+source: https://github.com/mutms/moodle-customfield_mutrain
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: MuTMS Training credits custom field plugin for Moodle™ LMS

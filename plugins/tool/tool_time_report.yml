@@ -1,0 +1,9 @@
+component: tool_time_report
+source: https://github.com/fondation-unit/moodle-tool_time_report
+maintainers:
+- github: fondation-unit
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin that generates per-user reports of their online presence time.

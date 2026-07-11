@@ -1,0 +1,9 @@
+component: mod_moodleoverflow
+source: https://github.com/learnweb/moodle-mod_moodleoverflow
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: ':speech_balloon: Non-linear discussion module for Q&A forums'

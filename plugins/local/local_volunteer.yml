@@ -1,0 +1,11 @@
+component: local_volunteer
+source: https://github.com/odeialba/moodle-local_volunteer
+maintainers:
+- github: odeialba
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: The Volunteer Selector plugin simplifies the process of randomly selecting
+  a volunteer in a Moodle course. Teachers can quickly choose from a list of course
+  participants, ensuring a fair and engaging selection process.

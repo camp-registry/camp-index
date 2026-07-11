@@ -1,0 +1,9 @@
+component: paygw_payeer
+source: https://github.com/Snickser/moodle-paygw_payeer
+maintainers:
+- github: Snickser
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Payeer payment gateway plugin for Moodle.

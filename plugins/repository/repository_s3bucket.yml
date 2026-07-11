@@ -1,0 +1,9 @@
+component: repository_s3bucket
+source: https://github.com/ewallah/moodle-repository_s3bucket
+maintainers:
+- github: ewallah
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle S3 folder (bucket) repository

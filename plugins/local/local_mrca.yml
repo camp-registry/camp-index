@@ -1,0 +1,10 @@
+component: local_mrca
+source: https://github.com/x-name15/moodle-local_mrca
+maintainers:
+- github: x-name15
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: MRCA is a comprehensive risk analysis engine for Moodle installations with
+  a multi-layered security and compliance analyzer

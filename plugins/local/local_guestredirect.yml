@@ -1,0 +1,10 @@
+component: local_guestredirect
+source: https://github.com/ssystems-de/moodle-local_guestredirect
+maintainers:
+- github: ssystems-de
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin which provides a dedicated URL to grant users guest access
+  to courses without going through the login page

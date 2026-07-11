@@ -1,0 +1,9 @@
+component: report_payments
+source: https://github.com/iplusacademy/moodle-report_payments
+maintainers:
+- github: iplusacademy
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Get an overview of course payments in Moodle

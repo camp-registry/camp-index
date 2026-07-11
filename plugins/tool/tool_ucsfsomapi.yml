@@ -1,0 +1,10 @@
+component: tool_ucsfsomapi
+source: https://github.com/ucsf-education/tool_ucsfsomapi
+maintainers:
+- github: ucsf-education
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: An admin tool plugin for Moodle that provides a set of custom API endpoints
+  used for reporting in the UCSF School of Medicine (SOM).

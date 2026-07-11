@@ -1,0 +1,9 @@
+component: block_remlab_manager
+source: https://github.com/UNEDLabs/moodle-block_remlab_manager
+maintainers:
+- github: UNEDLabs
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A Moodle block for managing and configuring remote labs

@@ -1,0 +1,9 @@
+component: local_debugtoolbar
+source: https://github.com/DSI-Universite-Rennes2/moodle-local_debugtoolbar
+maintainers:
+- github: DSI-Universite-Rennes2
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin that turns performance information into a toolbar

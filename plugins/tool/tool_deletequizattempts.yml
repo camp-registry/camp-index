@@ -1,0 +1,10 @@
+component: tool_deletequizattempts
+source: https://github.com/lernlink/moodle-tool_deletequizattempts
+maintainers:
+- github: lernlink
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle admin tool to manually delete all quiz attempts from all students
+  in all courses

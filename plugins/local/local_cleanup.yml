@@ -1,0 +1,9 @@
+component: local_cleanup
+source: https://github.com/grinchenkoedu/local_cleanup
+maintainers:
+- github: grinchenkoedu
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A Moodle clean-up plugin

@@ -1,0 +1,10 @@
+component: repository_owncloud
+source: https://github.com/learnweb/moodle-repository_owncloud
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: '[ARCHIVE] Starting Moodle 3.6, our plugin ships with Moodle! :tada: Use
+  this:'

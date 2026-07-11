@@ -1,0 +1,9 @@
+component: block_observationsummarize
+source: https://github.com/alteregodeveloper/observationsummarize
+maintainers:
+- github: alteregodeveloper
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle block module to summarize observation and attention test results

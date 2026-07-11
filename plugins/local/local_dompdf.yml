@@ -1,0 +1,9 @@
+component: local_dompdf
+source: https://github.com/kiklop74/moodle-local_dompdf
+maintainers:
+- github: kiklop74
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Provides DomPdf library for Moodle

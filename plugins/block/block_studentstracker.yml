@@ -1,0 +1,10 @@
+component: block_studentstracker
+source: https://github.com/Hipjea/moodle-block_studentstracker
+maintainers:
+- github: Hipjea
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin tracking users that didn't access a course for some days. It
+  aims to provide a tool to help the teachers preventing students from dropping out.

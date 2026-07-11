@@ -1,0 +1,9 @@
+component: block_report_free_seats
+source: https://github.com/emeneo/moodle-blocks_report_free_seats
+maintainers:
+- github: emeneo
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle block which creates a report about courses with free seats

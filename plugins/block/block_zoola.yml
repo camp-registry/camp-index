@@ -1,0 +1,9 @@
+component: block_zoola
+source: https://github.com/lambda-solutions/moodle-block_zoola
+maintainers:
+- github: lambda-solutions
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Zoola Analytics for Moodle

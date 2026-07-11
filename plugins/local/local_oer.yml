@@ -1,0 +1,10 @@
+component: local_oer
+source: https://github.com/llttugraz/moodle-local_oer
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: The Open Educational Resources (OER) plugin provides the possibility to release
+  files from Moodle courses into OER Repositories for public use

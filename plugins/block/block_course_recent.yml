@@ -1,0 +1,10 @@
+component: block_course_recent
+source: https://github.com/ucsf-education/moodle-block-course_recent
+maintainers:
+- github: ucsf-education
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A Moodle block that displays a list of most-recently accessed courses for
+  the currently logged in user.

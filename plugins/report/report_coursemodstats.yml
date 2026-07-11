@@ -1,0 +1,9 @@
+component: report_coursemodstats
+source: https://github.com/tezvi/moodle-report_coursemodstats
+maintainers:
+- github: tezvi
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle course module instances advanced reporting

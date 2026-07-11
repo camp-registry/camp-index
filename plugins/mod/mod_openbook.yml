@@ -1,0 +1,11 @@
+component: mod_openbook
+source: https://github.com/a-camacho/moodle-mod_openbook
+maintainers:
+- github: a-camacho
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Student files can be collected via the Openbook resource folder activity.
+  Teacher's files can also be collected. All those files are then made available to
+  students, for instance during a computer based exam.

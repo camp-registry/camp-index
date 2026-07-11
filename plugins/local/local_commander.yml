@@ -1,0 +1,9 @@
+component: local_commander
+source: https://github.com/LdesignMedia/moodle-local_commander
+maintainers:
+- github: LdesignMedia
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Quick navigation - local plugin for Moodle 3.x

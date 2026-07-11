@@ -1,0 +1,9 @@
+component: auth_magic
+source: https://github.com/bdecentgmbh/moodle-auth_magic
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Magic authentication plugin for Moodle

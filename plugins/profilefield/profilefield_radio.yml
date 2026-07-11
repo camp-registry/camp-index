@@ -1,0 +1,10 @@
+component: profilefield_radio
+source: https://github.com/santoshndev/moodle-profilefield_radio
+maintainers:
+- github: santoshndev
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This is a custom user profile field plugin to add custom field with radio
+  button.

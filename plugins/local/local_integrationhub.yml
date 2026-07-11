@@ -1,0 +1,10 @@
+component: local_integrationhub
+source: https://github.com/x-name15/moodle-local_integrationhub
+maintainers:
+- github: x-name15
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Integration Hub is a local Moodle plugin designed to centralize and manage
+  outgoing integrations with external microservices

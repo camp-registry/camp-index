@@ -1,0 +1,10 @@
+component: mod_pimenkoquestionnaire
+source: https://github.com/DigiDago/moodle-mod_pimenkoquestionnaire
+maintainers:
+- github: DigiDago
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Fork of questionnaire moodle plugin review some parts and add a new question
+  type "teacherselect"

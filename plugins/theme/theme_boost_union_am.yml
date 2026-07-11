@@ -1,0 +1,10 @@
+component: theme_boost_union_am
+source: https://github.com/frumbert/theme_boost_union_am
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle Theme - A child of the boost_union, to fudge in extras I find to be
+  useful/missing.

@@ -1,0 +1,8 @@
+component: theme_learnr
+source: https://github.com/dbnschools/moodle-theme_learnr
+maintainers:
+- github: dbnschools
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []

@@ -1,0 +1,10 @@
+component: mod_sortvoting
+source: https://github.com/odeialba/moodle-mod_sortvoting
+maintainers:
+- github: odeialba
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This plugin allows sorting a list of options by preference of the user, instead
+  of just selecting one.

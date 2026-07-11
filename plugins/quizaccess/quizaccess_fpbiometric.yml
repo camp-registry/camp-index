@@ -1,0 +1,9 @@
+component: quizaccess_fpbiometric
+source: https://github.com/victorcatn/moodle-quizaccess_fpbiometric
+maintainers:
+- github: victorcatn
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: moodle plugin that validates the user's fingerprint before attempting a quiz

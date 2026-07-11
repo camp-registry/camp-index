@@ -1,0 +1,9 @@
+component: local_cleanprofiles
+source: https://github.com/drebaud/moodle-local_cleanprofiles
+maintainers:
+- github: drebaud
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle Plugin for cleaning some user profile fields

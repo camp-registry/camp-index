@@ -1,0 +1,9 @@
+component: local_navbarhelpmenu
+source: https://github.com/ucsf-education/moodle-local_navbarhelpmenu
+maintainers:
+- github: ucsf-education
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A plugin that adds a configurable help menu to Moodle's navigation bar.

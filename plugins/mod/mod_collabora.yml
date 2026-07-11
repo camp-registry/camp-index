@@ -1,0 +1,10 @@
+component: mod_collabora
+source: https://github.com/learnweb/moodle-mod_collabora
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: ':memo: :globe_with_meridians: An activity for live document editing in Moodle,
+  powered by Collabora Online'

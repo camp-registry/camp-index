@@ -1,0 +1,8 @@
+component: local_copilot
+source: https://github.com/microsoft/moodle-local_copilot
+maintainers:
+- github: microsoft
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []

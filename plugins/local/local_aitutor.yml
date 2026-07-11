@@ -1,0 +1,11 @@
+component: local_aitutor
+source: https://github.com/danielcregg/moodle-local_aitutor
+maintainers:
+- github: danielcregg
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: 'Moodle local plugin: a Socratic AI tutor for STACK quiz questions — escalating
+  hints (never the answer) from a server-side AI, plus an optional RL ''practise next''
+  suggestion.'

@@ -1,0 +1,9 @@
+component: local_whatsappgen
+source: https://github.com/WaetzigS/moodle-local_whatsappgen
+maintainers:
+- github: WaetzigS
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This is a moodle plugin to create WhatsApp messages for the course participants

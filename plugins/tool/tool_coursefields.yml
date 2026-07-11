@@ -1,0 +1,10 @@
+component: tool_coursefields
+source: https://github.com/moodle-an-hochschulen/moodle-tool_coursefields
+maintainers:
+- github: moodle-an-hochschulen
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle admin tool plugin which allows managers to set and overwrite custom
+  course field values for all courses in a category, including subcategories.

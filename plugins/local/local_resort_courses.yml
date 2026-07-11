@@ -1,0 +1,10 @@
+component: local_resort_courses
+source: https://github.com/moodle-an-hochschulen/moodle-local_resort_courses
+maintainers:
+- github: moodle-an-hochschulen
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin which sorts a category page automatically as soon as a course
+  has been added or modified

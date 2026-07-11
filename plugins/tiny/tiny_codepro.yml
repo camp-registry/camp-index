@@ -1,0 +1,9 @@
+component: tiny_codepro
+source: https://github.com/jmulet/moodle-tiny_codepro
+maintainers:
+- github: jmulet
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: An improved code editor for tinyMCE based on CodeMirror6

@@ -1,0 +1,9 @@
+component: auth_emailadmin
+source: https://github.com/hrimhari/moodle-auth_emailadmin
+maintainers:
+- github: hrimhari
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin to provide email self-registration with admin confirmation

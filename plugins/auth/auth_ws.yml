@@ -1,0 +1,10 @@
+component: auth_ws
+source: https://github.com/danielneis/moodle-auth_ws
+maintainers:
+- github: danielneis
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This plugins allows your Moodle users to be authenticated against an external
+  webservice

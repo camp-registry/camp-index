@@ -1,0 +1,9 @@
+component: block_mucertify_my
+source: https://github.com/mutms/moodle-block_mucertify_my
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: MuTMS  My certifications block for Moodle™ LMS

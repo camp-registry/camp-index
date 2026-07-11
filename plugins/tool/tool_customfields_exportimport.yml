@@ -1,0 +1,10 @@
+component: tool_customfields_exportimport
+source: https://github.com/Eticeo/moodle-tool_customfields_exportimport
+maintainers:
+- github: Eticeo
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Export and import the structure of user profile fields and custom fields
+  (course, cohort) in JSON format. Includes CLI support.

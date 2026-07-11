@@ -1,0 +1,10 @@
+component: mod_dmelearn
+source: https://github.com/dmelearn/moodle-mod_dmelearn
+maintainers:
+- github: dmelearn
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle Activity Module plugin to add 'Digital Media e-Learning courses' into
+  a Moodle Site.

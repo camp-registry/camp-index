@@ -1,0 +1,9 @@
+component: assignment_uploadpdf
+source: https://github.com/davosmith/moodle-uploadpdf
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle assignment type Uploadpdf allows online annotation of uploaded PDFs

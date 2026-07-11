@@ -1,0 +1,9 @@
+component: local_resetopcache
+source: https://github.com/michael-milette/moodle-local_resetopcache
+maintainers:
+- github: michael-milette
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: The Moodle ResetOpCache module allows administrators to reset PHP's OpCache.

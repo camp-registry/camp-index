@@ -1,0 +1,10 @@
+component: mod_exescorm
+source: https://github.com/exelearning/mod_exescorm
+maintainers:
+- github: exelearning
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Activity-type Moodle module to create and edit SCORM packages with eXeLearning
+  (online).

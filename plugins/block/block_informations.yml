@@ -1,0 +1,9 @@
+component: block_informations
+source: https://github.com/fondation-unit/moodle-block_informations
+maintainers:
+- github: fondation-unit
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle block plugin displaying license informations.

@@ -1,0 +1,10 @@
+component: auth_link
+source: https://github.com/valentineus/moodle_auth-link
+maintainers:
+- github: valentineus
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Plugin for Moodle. Allows you to authorize a user by a direct link without
+  additional action.

@@ -1,0 +1,9 @@
+component: block_ejsapp_collab_session
+source: https://github.com/UNEDLabs/moodle-block_ejsapp_collab_session
+maintainers:
+- github: UNEDLabs
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A Moodle block for synchronous collaborative work with EJSApp activities.

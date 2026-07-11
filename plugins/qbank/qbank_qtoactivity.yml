@@ -1,0 +1,11 @@
+component: qbank_qtoactivity
+source: https://github.com/safatshahin/moodle-qbank_qtoactivity
+maintainers:
+- github: safatshahin
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This plugin adds the option for users to select individual or multiple questions
+  and add them right to an activity of their choosing, without having to access that
+  individual activities management page.

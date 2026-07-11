@@ -1,0 +1,9 @@
+component: search_postgresfulltext
+source: https://github.com/catalyst/moodle-search_postgresfulltext
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle search engine implemented using Postgres full text indexing

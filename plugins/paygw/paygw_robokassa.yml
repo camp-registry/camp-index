@@ -1,0 +1,9 @@
+component: paygw_robokassa
+source: https://github.com/Snickser/moodle-paygw_robokassa
+maintainers:
+- github: Snickser
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Robokassa payment gateway plugin for Moodle.

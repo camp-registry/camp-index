@@ -1,0 +1,10 @@
+component: tool_enrolreactivate
+source: https://github.com/Resources4Moodle/moodle-tool_enrolreactivate
+maintainers:
+- github: Resources4Moodle
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle admin tool to extend/reactivate expired editing-teacher enrolments
+  (self-service + admin on-behalf), with audit log and optional notification email.

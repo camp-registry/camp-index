@@ -1,0 +1,10 @@
+component: qtype_sigma
+source: https://github.com/KQMATH/moodle-qtype_sigma
+maintainers:
+- github: KQMATH
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle question type plugin for writing beautiful mathemathical answers,
+  combined with the feature-rich assessment system STACK.

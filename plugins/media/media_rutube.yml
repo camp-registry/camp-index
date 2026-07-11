@@ -1,0 +1,9 @@
+component: media_rutube
+source: https://github.com/Snickser/moodle-media_rutube
+maintainers:
+- github: Snickser
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin for supporting embedded video display from RuTube.

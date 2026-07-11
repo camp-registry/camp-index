@@ -1,0 +1,9 @@
+component: tool_apcu
+source: https://github.com/moodle-an-hochschulen/moodle-tool_apcu
+maintainers:
+- github: moodle-an-hochschulen
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin which adds a PHP APCu management GUI to Moodle site administration.

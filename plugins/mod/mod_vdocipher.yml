@@ -1,0 +1,10 @@
+component: mod_vdocipher
+source: https://github.com/ooguz/moodle-mod_vdocipher
+maintainers:
+- github: ooguz
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This Moodle activity plugin allows embedding VdoCipher videos by providing
+  only the video ID.

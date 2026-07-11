@@ -1,0 +1,9 @@
+component: tool_apisiteadmins
+source: https://github.com/valentineus/moodle-tool_apisiteadmins
+maintainers:
+- github: valentineus
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: The plug-in extends and complements the system API for managing administrators.

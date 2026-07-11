@@ -1,0 +1,10 @@
+component: block_ejsapp_file_browser
+source: https://github.com/UNEDLabs/moodle-block_ejsapp_file_browser
+maintainers:
+- github: UNEDLabs
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A Moodle block for managing experimentation data files when using the EJSApp
+  activity module.

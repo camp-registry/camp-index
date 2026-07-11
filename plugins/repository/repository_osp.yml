@@ -1,0 +1,9 @@
+component: repository_osp
+source: https://github.com/UNEDLabs/moodle-repository_osp
+maintainers:
+- github: UNEDLabs
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle repository for the Open Source Physics library of EJS models in Compadre.

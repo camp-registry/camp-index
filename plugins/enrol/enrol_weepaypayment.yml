@@ -1,0 +1,9 @@
+component: enrol_weepaypayment
+source: https://github.com/webtechbilisim/moodle-enrol_weepaypayment
+maintainers:
+- github: webtechbilisim
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle weepay Payment Gateway & Course Enrolment Plugin

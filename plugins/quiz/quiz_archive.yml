@@ -1,0 +1,8 @@
+component: quiz_archive
+source: https://github.com/bfh/moodle-quiz_archive
+maintainers:
+- github: bfh
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []

@@ -1,0 +1,9 @@
+component: paygw_cryptocloud
+source: https://github.com/Snickser/moodle-paygw_cryptocloud
+maintainers:
+- github: Snickser
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: CryptoCloud payment gateway plugin for Moodle.

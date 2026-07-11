@@ -1,0 +1,9 @@
+component: local_autolinker
+source: https://github.com/pressbooks/moodle-local_autolinker
+maintainers:
+- github: pressbooks
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin to improve handling of LTI 1.3 links

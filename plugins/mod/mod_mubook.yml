@@ -1,0 +1,9 @@
+component: mod_mubook
+source: https://github.com/mutms/moodle-mod_mubook
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: MuTMS Interactive book plugin for Moodle™ LMS

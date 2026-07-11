@@ -1,0 +1,9 @@
+component: plagiarism_plagscan
+source: https://github.com/PlagScan/PlagScan_moodle
+maintainers:
+- github: PlagScan
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: PlagScan Moodle Plugin - Official repository for API v3

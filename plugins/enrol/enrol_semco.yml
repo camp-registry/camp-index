@@ -1,0 +1,10 @@
+component: enrol_semco
+source: https://github.com/semcosoft/moodle-enrol_semco
+maintainers:
+- github: semcosoft
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle enrolment plugin which allows the SEMCO seminar management system
+  to enrol and manage users in Moodle courses

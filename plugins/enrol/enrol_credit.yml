@@ -1,0 +1,9 @@
+component: enrol_credit
+source: https://github.com/bdecentgmbh/moodle-enrol_credit
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Buy (enrol) a course with credits

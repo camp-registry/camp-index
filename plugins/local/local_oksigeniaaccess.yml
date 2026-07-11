@@ -1,0 +1,11 @@
+component: local_oksigeniaaccess
+source: https://github.com/OksigeniaSL/moodle-local_oksigeniaaccess
+maintainers:
+- github: OksigeniaSL
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Accessibility panel for Moodle. Local plugin that injects the @oksigenia/access-panel
+  web component (15 controls, 8 locales incl. Guarani) into any theme via the Hook
+  API. Moodle 4.5 LTS+.

@@ -1,0 +1,10 @@
+component: local_catalog_browser
+source: https://github.com/marie-di-palma/moodle-local_catalogbrowser
+maintainers:
+- github: marie-di-palma
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A browsable and filterable course catalog for Moodle, with custom field filters,
+  tag search, and dynamic AJAX results.

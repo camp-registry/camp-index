@@ -1,0 +1,9 @@
+component: local_learning_analytics
+source: https://github.com/rwthanalytics/moodle-local_learning_analytics
+maintainers:
+- github: rwthanalytics
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Learning Analytics for Moodle

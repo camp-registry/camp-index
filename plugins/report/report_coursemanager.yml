@@ -1,0 +1,11 @@
+component: report_coursemanager
+source: https://github.com/oliviervalentin/moodle-report_coursemanager
+maintainers:
+- github: oliviervalentin
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Course Managet is a report tool for Moodle for helping teachers to clean
+  and manage their courses and contents. It is based on an automatic task which calculates
+  reports, that are displayed in a general dashboard and directly in courses.

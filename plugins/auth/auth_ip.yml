@@ -1,0 +1,10 @@
+component: auth_ip
+source: https://github.com/SREd-URV/moodle-auth_ip
+maintainers:
+- github: SREd-URV
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Manual authentication plugin that prevents access to your Moodle from different
+  IPs than those allowed.

@@ -1,0 +1,10 @@
+component: lifecyclestep_opencast
+source: https://github.com/Opencast-Moodle/moodle-lifecyclestep_opencast
+maintainers:
+- github: Opencast-Moodle
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle subplugin for tool_lifecycle which allows admins to delete Opencast
+  videos belonging to a Moodle course when this Moodle course is deleted by tool_lifecycle.

@@ -1,0 +1,10 @@
+component: mod_apidocs
+source: https://github.com/x-name15/moodle-apidocs-course-module
+maintainers:
+- github: x-name15
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle activity module that renders AsyncAPI (v2/v3), OpenAPI, and Markdown
+  locally

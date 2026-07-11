@@ -1,0 +1,11 @@
+component: block_timetable
+source: https://github.com/bdecentgmbh/moodle-block_timetable
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: 'Displays your upcoming events in a beautiful way on your dashboard and in
+  your courses. Comes with three modes: today, this week and upcoming. Works in both
+  vertical and horizontal orientation'

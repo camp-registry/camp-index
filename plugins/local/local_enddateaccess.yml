@@ -1,0 +1,12 @@
+component: local_enddateaccess
+source: https://github.com/DavidCambra18/moodle-local_enddateaccess
+maintainers:
+- github: DavidCambra18
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This local plugin automates the process of restricting access to course modules
+  based on the course end date. It listens to course update events and automatically
+  applies a "prevent access after course end date" availability restriction to all
+  modules that are tracked for course completion.

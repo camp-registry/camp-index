@@ -1,0 +1,9 @@
+component: mod_geogebra
+source: https://github.com/projectestac/moodle-mod_geogebra
+maintainers:
+- github: projectestac
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Official repository for GeoGebra (https://www.geogebra.org) module for Moodle

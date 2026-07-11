@@ -1,0 +1,9 @@
+component: block_navbuttons
+source: https://github.com/davosmith/moodle-navbuttons
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Adds navigation buttons to the bottom of each activity page in Moodle (1.9/2.0+)

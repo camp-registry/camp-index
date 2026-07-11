@@ -1,0 +1,9 @@
+component: tool_cleanupusers
+source: https://github.com/eLearning-TUDarmstadt/moodle-tool_cleanupusers
+maintainers:
+- github: eLearning-TUDarmstadt
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Extensible Moodle plugin for periodic user deprovisioning with a grace period

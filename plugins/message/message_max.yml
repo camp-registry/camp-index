@@ -1,0 +1,9 @@
+component: message_max
+source: https://github.com/Snickser/moodle-message_output_max
+maintainers:
+- github: Snickser
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A MAX message output plugin for Moodle.

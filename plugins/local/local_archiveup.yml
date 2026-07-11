@@ -1,0 +1,9 @@
+component: local_archiveup
+source: https://github.com/ucsf-education/moodle-local-archiveup
+maintainers:
+- github: ucsf-education
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A Moodle plugin for archiving logs and grade history

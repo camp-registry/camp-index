@@ -1,0 +1,9 @@
+component: repository_office365
+source: https://github.com/microsoft/moodle-repository_office365
+maintainers:
+- github: microsoft
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: OneDrive for Business Repo plugin for Moodle

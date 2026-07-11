@@ -1,0 +1,9 @@
+component: block_createuser
+source: https://github.com/jeontwikkeling-nl/moodle-block_createuser
+maintainers:
+- github: jeontwikkeling-nl
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Create users and assign to a given course.

@@ -1,0 +1,9 @@
+component: block_if_sence_login
+source: https://github.com/InfoFractal/if_moodle_sence
+maintainers:
+- github: InfoFractal
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: External course login to Sence (Chile) for Moodle (en desarrollo)

@@ -1,0 +1,9 @@
+component: smsgateway_modica
+source: https://github.com/safatshahin/moodle-smsgateway_modica
+maintainers:
+- github: safatshahin
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: SMS gateway plugin for Modica to integrate with SMS subsystem in Moodle.

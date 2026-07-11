@@ -1,0 +1,10 @@
+component: local_stackforge
+source: https://github.com/danielcregg/moodle-local_stackforge
+maintainers:
+- github: danielcregg
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: 'Moodle local plugin: generate AI-drafted, STACK-validated mathematics questions
+  straight into the course question bank, and build RL-sequenced adaptive quizzes.'

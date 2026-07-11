@@ -1,0 +1,9 @@
+component: mod_threesixo
+source: https://github.com/junpataleta/moodle-mod_threesixo
+maintainers:
+- github: junpataleta
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A 360-degree feedback plugin for Moodle

@@ -1,0 +1,8 @@
+component: format_flexsections
+source: https://github.com/marinaglancy/moodle-format_flexsections
+maintainers:
+- github: marinaglancy
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []

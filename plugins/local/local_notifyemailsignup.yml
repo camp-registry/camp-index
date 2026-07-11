@@ -1,0 +1,9 @@
+component: local_notifyemailsignup
+source: https://github.com/iarenaza/moodle-local-notifyemailsignup
+maintainers:
+- github: iarenaza
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin to notify site administrators about new Email Signups

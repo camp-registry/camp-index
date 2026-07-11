@@ -1,0 +1,10 @@
+component: local_profiletheme
+source: https://github.com/moodle-an-hochschulen/moodle-local_profiletheme
+maintainers:
+- github: moodle-an-hochschulen
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin which lets admins deliver a certain theme based on a user's
+  custom profile field

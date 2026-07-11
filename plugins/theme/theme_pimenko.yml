@@ -1,0 +1,10 @@
+component: theme_pimenko
+source: https://github.com/DigiDago/moodle-theme_pimenko
+maintainers:
+- github: DigiDago
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Theme for moodle 3.11 and later versions. This theme is a boost child theme.
+  It adds some cool new features.

@@ -1,0 +1,9 @@
+component: theme_adaptable
+source: https://github.com/gjbarnard/moodle-theme_adaptable
+maintainers:
+- github: gjbarnard
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Adaptable theme for Moodle

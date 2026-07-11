@@ -1,0 +1,9 @@
+component: paygw_payanyway
+source: https://github.com/Snickser/moodle-paygw_payanyway
+maintainers:
+- github: Snickser
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: PayAnyWay payment gateway plugin for Moodle.

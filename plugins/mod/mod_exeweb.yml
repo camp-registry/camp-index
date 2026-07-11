@@ -1,0 +1,10 @@
+component: mod_exeweb
+source: https://github.com/exelearning/mod_exeweb
+maintainers:
+- github: exelearning
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Activity-type Moodle module to create and edit web sites with eXeLearning
+  (online).

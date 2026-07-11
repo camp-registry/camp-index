@@ -1,0 +1,9 @@
+component: auth_token
+source: https://github.com/valentineus/moodle-auth_token
+maintainers:
+- github: valentineus
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Plugin for Moodle. Token-based authentication.

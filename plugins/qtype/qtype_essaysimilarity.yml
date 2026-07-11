@@ -1,0 +1,12 @@
+component: qtype_essaysimilarity
+source: https://github.com/thoriqadillah/moodle-qtype_essaysimilarity
+maintainers:
+- github: thoriqadillah
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Is a moodle question type plugin that compares the similarity between student's
+  answer and teacher's answer key using machine learning (natural language processing),
+  and uses the similarity to auto grade the answer. The automatic grade can be manually
+  overridden by the teacher

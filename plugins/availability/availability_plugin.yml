@@ -1,0 +1,10 @@
+component: availability_plugin
+source: https://github.com/ssystems-de/moodle-availability_plugin
+maintainers:
+- github: ssystems-de
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle availability plugin which lets users restrict resources and activities
+  based on the existence of a particular plugin

@@ -1,0 +1,9 @@
+component: mod_collaborativefolders
+source: https://github.com/learnweb/moodle-mod_collaborativefolders
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: 📂 Activity Module for creating folders for collaboration in ownCloud or Nextcloud

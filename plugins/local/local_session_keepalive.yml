@@ -1,0 +1,11 @@
+component: local_session_keepalive
+source: https://github.com/moodle-an-hochschulen/moodle-local_session_keepalive
+maintainers:
+- github: moodle-an-hochschulen
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin which checks for unsent user input in the browser and keeps
+  the user session alive as long as needed to prevent that user input which is sent
+  to the server after the user session has expired will be lost

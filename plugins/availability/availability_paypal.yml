@@ -1,0 +1,10 @@
+component: availability_paypal
+source: https://github.com/danielneis/moodle-availability_paypal
+maintainers:
+- github: danielneis
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: An Availability Condition for Moodle to require a PayPal payment to access
+  activities and resources.

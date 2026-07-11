@@ -1,0 +1,10 @@
+component: tool_registrationrules
+source: https://github.com/daledavies/moodle-tool_registrationrules
+maintainers:
+- github: daledavies
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: An enhanced reCAPTCHA alternative and anti-spam tool to prevent automated
+  spam bots from creating fake accounts in Moodle.

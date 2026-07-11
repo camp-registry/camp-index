@@ -1,0 +1,9 @@
+component: filter_vdocipher
+source: https://github.com/VdoCipher/moodle-filter_vdocipher
+maintainers:
+- github: VdoCipher
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A moodle plugin to add vdocipher videos inside a moodle content

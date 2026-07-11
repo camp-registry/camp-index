@@ -1,0 +1,9 @@
+component: tool_mutenancy
+source: https://github.com/mutms/moodle-tool_mutenancy
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: MuTMS  Multi-tenancy plugin for Moodle™ LMS

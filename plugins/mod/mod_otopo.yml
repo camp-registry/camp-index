@@ -1,0 +1,10 @@
+component: mod_otopo
+source: https://github.com/E-learningTouch/moodle-mod_otopo
+maintainers:
+- github: E-learningTouch
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: 'Moodle activity that allows students to self-assess and track their progress
+  in a course. Mirror of : https://gitlab.univ-nantes.fr/boiteux-c/moodle-mod_otopo'

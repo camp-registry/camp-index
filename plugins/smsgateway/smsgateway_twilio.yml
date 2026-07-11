@@ -1,0 +1,9 @@
+component: smsgateway_twilio
+source: https://github.com/safatshahin/moodle-smsgateway_twilio
+maintainers:
+- github: safatshahin
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: SMS gateway plugin for Twilio to integrate with SMS subsystem in Moodle.

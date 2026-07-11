@@ -1,0 +1,8 @@
+component: theme_luniversitenumerique
+source: https://github.com/LUniversiteNumerique/moodle-theme_luniversitenumerique
+maintainers:
+- github: LUniversiteNumerique
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []

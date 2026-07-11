@@ -1,0 +1,12 @@
+component: mod_jupyter
+source: https://github.com/SE-Stuttgart/moodle-mod_jupyter
+maintainers:
+- github: SE-Stuttgart
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: The Moodle plugin seamlessly integrates Jupyter Notebooks, providing users
+  with a virtual programming environment that enhances their learning experience.
+  With this powerful integration, students and instructors can engage in interactive
+  coding activities and explore diverse programming languages wi

@@ -1,0 +1,9 @@
+component: block_material_download
+source: https://github.com/TUM-MZ/moodle-block_material-download
+maintainers:
+- github: TUM-MZ
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle block for downloading course materials.

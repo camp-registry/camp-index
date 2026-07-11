@@ -1,0 +1,10 @@
+component: logstore_trax
+source: https://github.com/trax-project/moodle-trax-logs
+maintainers:
+- github: trax-project
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This plugin transforms Moodle logs into xAPI statements, and sends then to
+  your LRS.

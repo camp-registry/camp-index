@@ -1,0 +1,9 @@
+component: local_twittercard
+source: https://github.com/scara/moodle-local_twittercard
+maintainers:
+- github: scara
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: This Moodle local plug-in emits a Twitter summary card for courses.

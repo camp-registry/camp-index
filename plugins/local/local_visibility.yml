@@ -1,0 +1,9 @@
+component: local_visibility
+source: https://github.com/ucla/moodle-local_visibility
+maintainers:
+- github: ucla
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Plugin to schedule visibility of course websites

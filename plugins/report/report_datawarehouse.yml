@@ -1,0 +1,11 @@
+component: report_datawarehouse
+source: https://github.com/lucaboesch/moodle-report_datawarehouse
+maintainers:
+- github: lucaboesch
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: How to design an extensible data warehouse – Set a foundation to transfer
+  custom log data out of a LMS to a data warehouse in order to empower researchers
+  to perform learning analysis

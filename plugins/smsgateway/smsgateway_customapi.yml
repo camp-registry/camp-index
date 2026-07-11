@@ -1,0 +1,9 @@
+component: smsgateway_customapi
+source: https://github.com/kewayne/moodle-smsgateway_customapi
+maintainers:
+- github: kewayne
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Custom API SMS Gateway plugin for Moodle

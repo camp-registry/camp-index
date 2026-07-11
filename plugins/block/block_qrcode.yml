@@ -1,0 +1,10 @@
+component: block_qrcode
+source: https://github.com/learnweb/moodle-block_qrcode
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: ':camera: Block that provides a QR code that teachers can show on introductory
+  slides'

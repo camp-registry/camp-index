@@ -1,0 +1,9 @@
+component: dataformat_jsonl
+source: https://github.com/moodlicious/moodle-dataformat_jsonl
+maintainers:
+- github: moodlicious
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: A Moodle data format plugin that exports data in JSON Lines (JSONL) format.

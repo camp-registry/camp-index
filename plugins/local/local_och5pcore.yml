@@ -1,0 +1,10 @@
+component: local_och5pcore
+source: https://github.com/Opencast-Moodle/moodle-local_och5pcore
+maintainers:
+- github: Opencast-Moodle
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Moodle plugin which helps to integrate Opencast videos into the Moodle H5P
+  core.

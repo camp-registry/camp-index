@@ -1,0 +1,9 @@
+component: message_whatsapp
+source: https://github.com/cognizelearning/moodle-message_output_whatsapp
+maintainers:
+- github: cognizelearning
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
+summary: Whatsapp integration in Moodle as messaging service

@@ -1,0 +1,8 @@
+component: tool_messagebroker
+source: https://github.com/darrencocco/moodle-tool_messagebroker
+maintainers:
+- github: darrencocco
+tier: 0
+status: active
+discovered: '2026-07-10'
+releases: []
