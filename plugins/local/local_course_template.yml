@@ -1,0 +1,11 @@
+component: local_course_template
+source: https://github.com/LafColITS/moodle-local_course_template
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This Moodle plugin allows you to create "template" courses for use during
+  course creation.

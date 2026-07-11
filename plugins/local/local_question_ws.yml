@@ -1,0 +1,11 @@
+component: local_question_ws
+source: https://github.com/OBU-ITS/moodle-local_question_ws
+maintainers:
+- github: OBU-ITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that provides a web service to create forums and posts within
+  these forums

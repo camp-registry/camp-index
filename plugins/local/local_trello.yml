@@ -1,0 +1,11 @@
+component: local_trello
+source: https://github.com/willianmano/moodle-local_trello
+maintainers:
+- github: willianmano
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A local plugin to create Trello boards. lists and tasks when a new course
+  is created on Moodle

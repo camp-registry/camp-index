@@ -1,0 +1,11 @@
+component: local_macromucho
+source: https://github.com/stemiwe/moodle-local_macromucho
+maintainers:
+- github: stemiwe
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that allows easy and fast bulk creation of multiple choice
+  questions of different question types.

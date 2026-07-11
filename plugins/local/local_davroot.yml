@@ -1,0 +1,10 @@
+component: local_davroot
+source: https://github.com/scara/moodle-local_davroot
+maintainers:
+- github: scara
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'DAVRoot: Moodle Files through WebDAV'

@@ -1,0 +1,12 @@
+component: local_levitate
+source: https://github.com/Human-Logic-Software-LLC/moodle-local_levitate
+maintainers:
+- github: Human-Logic-Software-LLC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Levitate plugin for Moodle enables LMS users to explore a wide range
+  of interactive, immersive, microlearning courses and programs in both English and
+  Arabic.

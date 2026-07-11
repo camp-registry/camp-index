@@ -1,0 +1,9 @@
+component: local_analysiss
+source: https://github.com/BlueDuangkaew/moodle-local_analysiss
+maintainers:
+- github: BlueDuangkaew
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

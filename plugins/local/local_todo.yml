@@ -1,0 +1,10 @@
+component: local_todo
+source: https://github.com/1masyraf/moodle_local_todo
+maintainers:
+- github: 1masyraf
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Todo Local Plugin for Moodle (Custom by Wan Asyraf)

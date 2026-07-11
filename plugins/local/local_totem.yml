@@ -1,0 +1,10 @@
+component: local_totem
+source: https://github.com/auremartini/moodle-local_totem
+maintainers:
+- github: auremartini
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Show teacher's absences and communications in a Totem display

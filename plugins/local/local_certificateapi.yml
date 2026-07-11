@@ -1,0 +1,11 @@
+component: local_certificateapi
+source: https://github.com/iandavidwild/moodle-local_certificateapi
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A web services API which allows an external system to interrogate Moodle
+  for a list of a user's completed courses.

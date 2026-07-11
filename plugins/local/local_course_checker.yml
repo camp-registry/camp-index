@@ -1,0 +1,13 @@
+component: local_course_checker
+source: https://github.com/ffhs/moodle-local_course_checker
+maintainers:
+- github: ffhs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin provides a framework that can check a course based on independent
+  checkers. Each checker is an independent subplugin. It will help you find misconfiguration
+  in your courses and follow your internal guidelines by displaying a structured report.
+  The checkers can be triggered manually an wi

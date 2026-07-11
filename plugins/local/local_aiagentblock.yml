@@ -1,0 +1,10 @@
+component: local_aiagentblock
+source: https://github.com/seanrugg/moodle-local_aiagentblock
+maintainers:
+- github: seanrugg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: A plugin for Moodle to prevent student use of browser based agentic AI

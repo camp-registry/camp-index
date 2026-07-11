@@ -1,0 +1,11 @@
+component: local_vuedemo
+source: https://github.com/gthomas2/moodle-local_vuedemo
+maintainers:
+- github: gthomas2
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Short demo of how to use the moodle-local_vuejs plugin with your own vuejs
+  projects.

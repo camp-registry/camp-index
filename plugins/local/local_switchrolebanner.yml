@@ -1,0 +1,12 @@
+component: local_switchrolebanner
+source: https://github.com/catalyst/moodle-local_switchrolebanner
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that displays a banner in courses to notify users with site
+  roles when they are viewing a course they have roles in and allows them to quickly
+  switch roles.

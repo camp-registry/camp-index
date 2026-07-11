@@ -1,0 +1,10 @@
+component: local_ssologin
+source: https://github.com/richardg7/moodle-local_ssologin
+maintainers:
+- github: richardg7
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: SSO Login Moodle

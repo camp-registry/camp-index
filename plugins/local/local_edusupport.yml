@@ -1,0 +1,10 @@
+component: local_edusupport
+source: https://github.com/center-for-learning-management/moodle-local_edusupport
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin to manage a moodle based helpdesk

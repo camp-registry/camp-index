@@ -1,0 +1,11 @@
+component: local_purgeoldassignments
+source: https://github.com/catalyst/moodle-local_purgeoldassignments
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: plugin which allows old assignments and the pdf annotations to be deleted
+  from an assignment.

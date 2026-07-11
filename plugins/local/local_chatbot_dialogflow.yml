@@ -1,0 +1,9 @@
+component: local_chatbot_dialogflow
+source: https://github.com/djmarcelomendes/moodle_local-chatbot_dialogflow
+maintainers:
+- github: djmarcelomendes
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

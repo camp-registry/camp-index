@@ -1,0 +1,10 @@
+component: local_coursetransfer
+source: https://github.com/UNIMOODLE/moodle-local_coursetransfer
+maintainers:
+- github: UNIMOODLE
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Lote P3.2 - Restauración de cursos entre plataformas

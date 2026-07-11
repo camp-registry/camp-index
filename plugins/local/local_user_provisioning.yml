@@ -1,0 +1,10 @@
+component: local_user_provisioning
+source: https://github.com/catalyst/moodle-local_user_provisioning
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: SCIM plugin for user provisioning

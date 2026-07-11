@@ -1,0 +1,10 @@
+component: local_vue
+source: https://github.com/davisonajr/moodle_local_vue
+maintainers:
+- github: davisonajr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Template for using Vue in Moodle Local plugin and building using Grunt

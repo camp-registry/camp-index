@@ -1,0 +1,10 @@
+component: local_studentid
+source: https://github.com/wiLsonWu-pdr/moodle-local_studentid
+maintainers:
+- github: wiLsonWu-pdr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin - when user create, auto generate the student id

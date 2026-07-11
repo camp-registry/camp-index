@@ -1,0 +1,11 @@
+component: local_accessibility
+source: https://github.com/ponlawat-w/moodle-local_accessibility
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An accessibility plugin that allows users to customize the visual appearance
+  of a Moodle to suit individual preferences.

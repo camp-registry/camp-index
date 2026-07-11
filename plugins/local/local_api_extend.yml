@@ -1,0 +1,10 @@
+component: local_api_extend
+source: https://github.com/unicaf/moodle-local_api_extend
+maintainers:
+- github: unicaf
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin which includes some extra API functions.

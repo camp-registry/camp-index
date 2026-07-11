@@ -1,0 +1,9 @@
+component: local_examguard
+source: https://github.com/ucl-isd/moodle-local_examguard
+maintainers:
+- github: ucl-isd
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
