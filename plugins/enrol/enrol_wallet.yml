@@ -1,0 +1,11 @@
+component: enrol_wallet
+source: https://github.com/fmido88/moodle-enrol_wallet
+maintainers:
+- github: fmido88
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Enrollment using wallet credit with coupons and using payments gateways with
+  restrictions.

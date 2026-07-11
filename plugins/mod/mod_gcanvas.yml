@@ -1,0 +1,10 @@
+component: mod_gcanvas
+source: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-mod_gcanvas
+maintainers:
+- github: Lesterhuis-Training-en-Consultancy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle - Canvas Game

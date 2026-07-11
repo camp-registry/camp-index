@@ -1,0 +1,11 @@
+component: mod_guestquiz
+source: https://github.com/Palumdo/moodle-mod_guestquiz
+maintainers:
+- github: Palumdo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Allow to create quiz accessible by guest in Moodle. Quiz is created from
+  a subset of the GIFT question format

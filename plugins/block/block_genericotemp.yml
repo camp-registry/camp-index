@@ -1,0 +1,10 @@
+component: block_genericotemp
+source: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-block_genericotemp
+maintainers:
+- github: Lesterhuis-Training-en-Consultancy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: HTML block with a default template (can be used with generico filter)

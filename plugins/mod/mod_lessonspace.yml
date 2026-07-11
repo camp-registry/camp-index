@@ -1,0 +1,11 @@
+component: mod_lessonspace
+source: https://github.com/lessonspace/moodle-mod_lessonspace
+maintainers:
+- github: lessonspace
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: This plugin integrates Lessonspace into Moodle. Manage Spaces and Courses
+  all from within Moodle itself.

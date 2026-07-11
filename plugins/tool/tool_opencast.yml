@@ -1,0 +1,11 @@
+component: tool_opencast
+source: https://github.com/Opencast-Moodle/moodle-tool_opencast
+maintainers:
+- github: Opencast-Moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle plugin which provides API functions as well as general settings for
+  all Opencast plugins for Moodle and which is required by them.

@@ -1,0 +1,10 @@
+component: block_mt
+source: https://github.com/motivational-techniques/moodle-block_mt
+maintainers:
+- github: motivational-techniques
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Source code for Moodle plugin - MotTEC - Motivation Techniques

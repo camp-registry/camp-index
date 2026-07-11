@@ -1,0 +1,11 @@
+component: local_certifyme
+source: https://github.com/AnjuMeleth/moodle-local_certifyme
+maintainers:
+- github: AnjuMeleth
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Automatically issues a CertifyMe digital credential when a student completes
+  a Moodle course

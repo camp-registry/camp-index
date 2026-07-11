@@ -1,0 +1,10 @@
+component: local_chatwoot
+source: https://github.com/Buda9/moodle-local_chatwoot
+maintainers:
+- github: Buda9
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Chatwoot Chat integration with Moodle

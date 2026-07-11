@@ -1,0 +1,11 @@
+component: mod_teamup
+source: https://github.com/Palumdo/moodle-mod_teamup
+maintainers:
+- github: Palumdo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Team up is a Moodle plugin fork from Teambuilder plug-in but with an algorithm
+  like GROUPENG 1.3. It's developped by the "Université catholique de louvain" (UCLouvain)

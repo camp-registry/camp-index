@@ -1,0 +1,11 @@
+component: mod_dynamo
+source: https://github.com/Palumdo/moodle-mod_dynamo
+maintainers:
+- github: Palumdo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Dynamo is a Moodle plug-in that followed Team Up. the aim of Dynamo it's
+  to help and analyse peer review inside groups

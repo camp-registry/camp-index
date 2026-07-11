@@ -1,0 +1,12 @@
+component: mod_bsuselection
+source: https://github.com/OlegEryomin/bsuselection
+maintainers:
+- github: OlegEryomin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle mod plugin (course element) for creating a survey based on the completed
+  course tests.  Moodle плагин mod (элемент курса) для создания опроса на основе пройденных
+  тестов курса

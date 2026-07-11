@@ -1,0 +1,11 @@
+component: local_tier
+source: https://github.com/krestomatio/moodle-local_tier
+maintainers:
+- github: krestomatio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle plugin to control user registrations, storage quotas, and administrative
+  access restrictions system-wide

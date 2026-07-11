@@ -1,0 +1,10 @@
+component: report_cohortdetail
+source: https://github.com/DNum-UHA/moodle-report_cohortdetail
+maintainers:
+- github: DNum-UHA
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: A Moodle plugin to view the members and courses that are linked to a cohort

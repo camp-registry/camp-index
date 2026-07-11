@@ -1,0 +1,10 @@
+component: qbank_genai
+source: https://github.com/cgrevisse/moodle-qbank_genai
+maintainers:
+- github: cgrevisse
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Generative AI Question Bank Moodle plugin

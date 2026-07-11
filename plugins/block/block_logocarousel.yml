@@ -1,0 +1,10 @@
+component: block_logocarousel
+source: https://github.com/carlos00perez/block_logocarousel
+maintainers:
+- github: carlos00perez
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Bloque de Carrusel de logotipos de Moodle 4 y 5 en adelante

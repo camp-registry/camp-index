@@ -1,0 +1,10 @@
+component: local_exportquestionary
+source: https://github.com/DigiDago/local_exportquestionary
+maintainers:
+- github: DigiDago
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle local plugin export all questionnaire from a specific template

@@ -1,0 +1,11 @@
+component: block_bc_dashboard
+source: https://github.com/cwarwicker/moodle-block_bc_dashboard
+maintainers:
+- github: cwarwicker
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Reporting Dashboard plugin for Moodle - Integration with block_gradetracker
+  and block_elbp

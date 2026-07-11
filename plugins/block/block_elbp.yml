@@ -1,0 +1,10 @@
+component: block_elbp
+source: https://github.com/cwarwicker/moodle-block_elbp
+maintainers:
+- github: cwarwicker
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Personal Learning Plan plugin for Moodle

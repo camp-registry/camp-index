@@ -1,0 +1,12 @@
+component: theme_gcweb
+source: https://github.com/michael-milette/moodle-theme_gcweb
+maintainers:
+- github: michael-milette
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: This is the GCWeb 4.0.30 theme for Moodle LMS and IOMAD 3.9, 3.10 and 3.11
+  used by the Government of Canada. Please fork and star.  For premium support and
+  4.x compatibiity,  contact us at https://www.tngconsulting.ca/contact

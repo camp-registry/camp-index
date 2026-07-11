@@ -1,0 +1,11 @@
+component: mod_debate
+source: https://github.com/safatshahin/moodle-mod_debate
+maintainers:
+- github: safatshahin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Debate is a moodle activity which allows students to debate in a given topic
+  inside moodle.

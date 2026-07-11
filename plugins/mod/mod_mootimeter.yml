@@ -1,0 +1,9 @@
+component: mod_mootimeter
+source: https://github.com/bycs-lp/moodle-mod_mootimeter
+maintainers:
+- github: bycs-lp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0

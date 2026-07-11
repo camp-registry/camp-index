@@ -1,0 +1,13 @@
+component: mod_opencast
+source: https://github.com/Opencast-Moodle/moodle-mod_opencast
+maintainers:
+- github: Opencast-Moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle activity plugin which can be used to display and view Opencast episodes
+  and series in Moodle. Teachers can link the activity to an existing Opencast episode
+  or series and an embedded player allows students to watch these videos directly
+  in Moodle.

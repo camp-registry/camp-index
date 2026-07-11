@@ -1,0 +1,11 @@
+component: mod_scormremote
+source: https://github.com/catalyst/moodle-mod_scormremote
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: A Moodle activity for serving SCORM packages remotely to another LMS across
+  domains

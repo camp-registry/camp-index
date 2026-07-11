@@ -1,0 +1,11 @@
+component: report_parentprogressview
+source: https://github.com/PeterUpfold/moodle-report-parentprogressview
+maintainers:
+- github: PeterUpfold
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: A 'report' module for Moodle to allow the viewing of documents and pupil
+  data by authorised parent accounts.

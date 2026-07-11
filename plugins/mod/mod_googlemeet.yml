@@ -1,0 +1,10 @@
+component: mod_googlemeet
+source: https://github.com/ronefel/moodle-mod_googlemeet
+maintainers:
+- github: ronefel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Google Meet resource module plugin for Moodle 3.7+

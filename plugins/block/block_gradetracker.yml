@@ -1,0 +1,11 @@
+component: block_gradetracker
+source: https://github.com/cwarwicker/moodle-block_gradetracker
+maintainers:
+- github: cwarwicker
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: Qualification tracking plugin for Moodle - track students at qual/unit/criteria
+  level

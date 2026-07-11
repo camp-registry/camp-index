@@ -1,0 +1,10 @@
+component: tool_trigger
+source: https://github.com/catalyst/moodle-tool_trigger
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: 'Like IFTTT for Moodle: events to trigger external services. https://moodle.org/plugins/tool_trigger'

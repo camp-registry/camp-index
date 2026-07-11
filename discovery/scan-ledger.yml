@@ -23,8 +23,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   AVADOLearning/moodle-componentmgr:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license AGPL-3.0 recovered from text, but no parseable version.php at
+      root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Aathish04/moodlearchiver:
@@ -54,8 +55,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   AnjuMeleth/moodle-local_certifyme:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_certifyme; license GPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   AsadAliQuant/moodle-ml4k-integration:
@@ -104,8 +105,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Buda9/moodle-local_chatwoot:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_chatwoot; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Buda9/moodle-local_showbadges:
@@ -134,8 +135,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ClassCube/moodle-filter_gistembed:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as filter_gistembed; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Codebotics/VITask:
@@ -159,8 +160,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DNum-UHA/moodle-report_cohortdetail:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as report_cohortdetail; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DRAGONMANU/Captcha_Killer:
@@ -184,8 +185,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/local_exportquestionary:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_exportquestionary; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DigiDago/moodle-block_admin_presets:
@@ -240,8 +241,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Dpro-at/Moodle-Question-Banks-Cleaner:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: needs-review
+    detail: declares local_questioncleaner but repo name does not correspond; human
+      sign-off required before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   DrKat0m/Geniai_Base_Plugin:
@@ -456,8 +458,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-10'
   InfoFractal/if_moodle_sence:
-    outcome: exists
-    detail: component block_if_sence_login already registered (first-come, RFC §8)
+    outcome: needs-review
+    detail: declares block_if_sence_login but repo name does not correspond; human
+      sign-off required before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   InhamulHassan/Flutter_Moodle:
@@ -511,8 +514,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   KOSFin/MooDuSh:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license MIT recovered from text, but no parseable version.php at root
+      of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   KQMATH/moodle-mod_capquiz:
@@ -623,13 +627,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Lesterhuis-Training-en-Consultancy/moodle-block_genericotemp:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_genericotemp; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Lesterhuis-Training-en-Consultancy/moodle-mod_gcanvas:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_gcanvas; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   LibreCodeCoop/moodle-app:
@@ -708,8 +712,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   MoodleSync/sync-plugin:
-    outcome: exists
-    detail: component local_sync_service already registered (first-come, RFC §8)
+    outcome: needs-review
+    detail: declares local_sync_service but repo name does not correspond; human sign-off
+      required before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Mridul20/Teal-2.0:
@@ -758,8 +763,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   OlegEryomin/bsuselection:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_bsuselection; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   OnisaDev/Moodle-plugin-motivacion:
@@ -798,8 +803,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-mod_opencast:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_opencast; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-repository_opencast:
@@ -808,8 +813,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Opencast-Moodle/moodle-tool_opencast:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as tool_opencast; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PacktPublishing/Moodle-3.x-Developer-s-Guide:
@@ -818,18 +823,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Palumdo/moodle-mod_dynamo:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_dynamo; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Palumdo/moodle-mod_guestquiz:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_guestquiz; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Palumdo/moodle-mod_teamup:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_teamup; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Pama-Lee/Moodesk:
@@ -838,8 +843,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PeterUpfold/moodle-report-parentprogressview:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as report_parentprogressview; license AGPL-3.0 classified from
+      text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   PhaserArray/moodle-tweaks:
@@ -949,7 +955,7 @@ repos:
     last-checked: '2026-07-11'
   Savvy-Student-Stats/powerbi-moodle-data-source:
     outcome: bad-license
-    detail: 'license: NOASSERTION'
+    detail: 'license: NOASSERTION (text unclassified)'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Schlaflied/Plot-Ark:
@@ -1166,8 +1172,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Universita-di-Ferrara/Moodle_meet:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: needs-review
+    detail: declares mod_gmeet but repo name does not correspond; human sign-off required
+      before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   UniversityofPortland/moodle-regex_assign_submission:
@@ -1237,13 +1244,15 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   X5GON/x5moodle:
-    outcome: exists
-    detail: component mod_xfgon already registered (first-come, RFC §8)
+    outcome: needs-review
+    detail: declares mod_xfgon but repo name does not correspond; human sign-off required
+      before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   Yosef-AlSabbah/SecureGate.js-Anti-Emulator-VM-Sandbox-Motion-Verification-for-Web-Exams:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license MIT recovered from text, but no parseable version.php at root
+      of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   YunoHost-Apps/moodle_ynh:
@@ -1364,8 +1373,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   amz-x/moodle-local_greetings:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_greetings; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andantissimo/moodle-block_clipboard:
@@ -1380,8 +1389,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andil-elearning/moodle-block_taggedcoursesearch:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_taggedcoursesearch; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andisugandi/jagoanhosting-pasang-moodle:
@@ -1400,8 +1409,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andreasschenkel/moodle-local_feedbackdchoicegenerator:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: needs-review
+    detail: declares local_feedbackchoicegenerator but repo name does not correspond;
+      human sign-off required before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   andredisa/botTelegram_Moodle:
@@ -1435,13 +1445,14 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   antandros/iyzico-moodle:
-    outcome: exists
-    detail: component enrol_iyzicopayment already registered (first-come, RFC §8)
+    outcome: needs-review
+    detail: declares enrol_iyzicopayment but repo name does not correspond; human
+      sign-off required before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   anthology-ally/moodle-filter_ally:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as filter_ally; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   anthology-ally/moodle-report_allylti:
@@ -1626,8 +1637,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-mod_videotime:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_videotime; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bdecentgmbh/moodle-mod_whiteboard:
@@ -1801,8 +1812,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-mod_mootimeter:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_mootimeter; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-qtype_geogebra:
@@ -1811,13 +1822,13 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   bycs-lp/moodle-tiny_ai:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as tiny_ai; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   caiocarvalhofre/moodle-mod_maici:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_maici; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   call-learning/ansible-role-moodle:
@@ -1831,8 +1842,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   carlos00perez/block_logocarousel:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_logocarousel; license GPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   carlosrv999/moodle-google:
@@ -1896,8 +1907,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-fileconverter_librelambda:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as fileconverter_librelambda; license AGPL-3.0 classified from
+      text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-local_aws:
@@ -1931,8 +1943,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-mod_scormremote:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_scormremote; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-mod_subcourse:
@@ -2042,8 +2054,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-tool_trigger:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as tool_trigger; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   catalyst/moodle-webservice_restful:
@@ -2062,13 +2074,14 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cghiaus/PyCloze:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license MIT recovered from text, but no parseable version.php at root
+      of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cgrevisse/moodle-qbank_genai:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as qbank_genai; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   chester71206/moodle_crawler:
@@ -2078,7 +2091,7 @@ repos:
     last-checked: '2026-07-11'
   chi2labs/moodleR:
     outcome: bad-license
-    detail: 'license: NOASSERTION'
+    detail: 'license: NOASSERTION (text unclassified)'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   christiansteier/moodle-docker:
@@ -2142,18 +2155,18 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_bc_dashboard:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_bc_dashboard; license GPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_elbp:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_elbp; license GPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_gradetracker:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_gradetracker; license Apache-2.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   cwarwicker/moodle-block_quick_course:
@@ -2247,8 +2260,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   daniil-berg/moodle-tool_monitoring:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as tool_monitoring; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   danmarsden/moodle-block_attendance:
@@ -2477,8 +2490,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   dvdcastro/moodle-mod_livepoll:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_livepoll; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   e-Luminous/web:
@@ -2507,8 +2520,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eLearning-BS23/moodle-quizaccess_proctoring:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as quizaccess_proctoring; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   eLearning-TUDarmstadt/moodle-tool_cleanupusers:
@@ -2557,8 +2570,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ellakcy/moodle-compose:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license GPL-3.0 recovered from text, but no parseable version.php at root
+      of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   emeneo/moodle-blocks_report_free_seats:
@@ -2735,8 +2749,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fmido88/moodle-enrol_wallet:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as enrol_wallet; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fondation-unit/moodle-aiprovider_mistral:
@@ -2932,8 +2946,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   fulldecent/moodle-enrol_course_tokens:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as enrol_course_tokens; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   futuresea-dev/Moodle-Learning-Tools:
@@ -3407,8 +3421,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   juacas/moodle-message_appcrue:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as message_appcrue; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   juacas/moodle-mod_quest:
@@ -3482,8 +3496,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kamenskiyyyy/moodle-moyklass-plugin:
-    outcome: exists
-    detail: component local_moyclass already registered (first-come, RFC §8)
+    outcome: needs-review
+    detail: declares local_moyclass but repo name does not correspond; human sign-off
+      required before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   kandebobr/moodle-filter_sborniktestov:
@@ -3572,8 +3587,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   krestomatio/moodle-local_tier:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_tier; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   krestomatio/moodle-operator:
@@ -3637,8 +3652,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-fileconverter_onlyoffice:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as fileconverter_onlyoffice; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   learnweb/moodle-mod_collabora:
@@ -3683,8 +3698,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lemonad/moodle-mod_videofile:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license Apache-2.0 recovered from text, but no parseable version.php at
+      root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   leorenis/moodle-mod_icontent:
@@ -3715,8 +3731,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lessonspace/moodle-mod_lessonspace:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_lessonspace; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   liliapro/moodle-local_wsmanager:
@@ -3970,8 +3986,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michael-milette/moodle-local_aiid:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_aiid; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michael-milette/moodle-local_contact:
@@ -3995,8 +4011,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michael-milette/moodle-theme_gcweb:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as theme_gcweb; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   michaelmeneses/moodle-composer:
@@ -4302,8 +4318,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-course-evaluations/moodle-block_coursefeedback:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_coursefeedback; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle-tui/moot:
@@ -4312,8 +4328,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle/devdocs:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license AGPL-3.0 recovered from text, but no parseable version.php at
+      root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   moodle/moodle:
@@ -4592,8 +4609,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   motivational-techniques/moodle-block_mt:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_mt; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mrcinv/moodle_api.py:
@@ -4617,8 +4634,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mudrd8mz/moodle-tool_pluginskel:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as tool_pluginskel; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mudrd8mz/moodle-tool_vuejsdemo:
@@ -4632,8 +4649,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   mudrd8mz/node-moodle-client:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license BSD-2-Clause recovered from text, but no parseable version.php
+      at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   muhammadarnaldo/moodle-prayertimes-plugin-block:
@@ -4707,8 +4725,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   navitaslts/moodle-report_ncmusergrades:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as report_ncmusergrades; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   nclarius/shell-scripts:
@@ -4727,8 +4745,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   nejizzuki/EduAuto:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license MIT recovered from text, but no parseable version.php at root
+      of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   nennigb/amc2moodle:
@@ -4832,8 +4851,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   onyetapp/WORDPRESS-02-onyetmpdf:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: needs-review
+    detail: declares mod_ompdf but repo name does not correspond; human sign-off required
+      before listing (RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ooguz/moodle-mod_vdocipher:
@@ -5127,8 +5147,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   ronefel/moodle-mod_googlemeet:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_googlemeet; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   roygitonga/moodle_block_study_day:
@@ -5173,8 +5193,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   safatshahin/moodle-mod_debate:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as mod_debate; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   safatshahin/moodle-qbank_qtoactivity:
@@ -5504,8 +5524,9 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tna76874/mbztool:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: no-version-php
+    detail: license AGPL-3.0 recovered from text, but no parseable version.php at
+      root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   tomo0611/moodle-plus:
@@ -5701,8 +5722,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   uteluq/moodle-block_uteluqchatbot:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as block_uteluqchatbot; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   vaiva-sarauskyte/moodle-plugin:
@@ -5756,8 +5777,8 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   webong/plugin-paystack-moodle-enrol:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as enrol_paystack; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   webtechbilisim/moodle-enrol_weepaypayment:
@@ -5837,12 +5858,12 @@ repos:
     last-checked: '2026-07-11'
   xchopin/OpenLRW-scripts:
     outcome: bad-license
-    detail: 'license: NOASSERTION'
+    detail: 'license: NOASSERTION (text unclassified)'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   yedidiaklein/moodle-local_aiquestions:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_aiquestions; license AGPL-3.0 classified from text
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   yoannchb-pro/MoodleGPT:
@@ -5877,7 +5898,7 @@ repos:
     last-checked: '2026-07-11'
   zeroby0/lms-scraper:
     outcome: bad-license
-    detail: 'license: NOASSERTION'
+    detail: 'license: NOASSERTION (text unclassified)'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   zikzakmedia/python-moodle:

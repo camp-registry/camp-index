@@ -1,0 +1,10 @@
+component: block_coursefeedback
+source: https://github.com/moodle-course-evaluations/moodle-block_coursefeedback
+maintainers:
+- github: moodle-course-evaluations
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: 'BEAM: Better Evaluation and Assessment in Moodle'

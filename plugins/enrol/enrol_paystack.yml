@@ -1,0 +1,10 @@
+component: enrol_paystack
+source: https://github.com/webong/plugin-paystack-moodle-enrol
+maintainers:
+- github: webong
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Enrolment in Moodle using Paystack gateway for paid courses

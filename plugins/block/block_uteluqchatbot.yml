@@ -1,0 +1,10 @@
+component: block_uteluqchatbot
+source: https://github.com/uteluq/moodle-block_uteluqchatbot
+maintainers:
+- github: uteluq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle block plugin providing a user-friendly chatbot.

@@ -1,0 +1,10 @@
+component: mod_livepoll
+source: https://github.com/dvdcastro/moodle-mod_livepoll
+maintainers:
+- github: dvdcastro
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle Live Poll plugin

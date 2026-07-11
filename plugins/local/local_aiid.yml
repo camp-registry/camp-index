@@ -1,0 +1,12 @@
+component: local_aiid
+source: https://github.com/michael-milette/moodle-local_aiid
+maintainers:
+- github: michael-milette
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: 'AI Instructional Designer for Moodle enables content creators to easily
+  generate and create courses in Moodle LMS using GPT artificial intelligence. This
+  is now a premium plugin available at:'

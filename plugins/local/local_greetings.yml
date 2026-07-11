@@ -1,0 +1,10 @@
+component: local_greetings
+source: https://github.com/amz-x/moodle-local_greetings
+maintainers:
+- github: amz-x
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle Greetings Plugin

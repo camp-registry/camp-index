@@ -1,0 +1,10 @@
+component: message_appcrue
+source: https://github.com/juacas/moodle-message_appcrue
+maintainers:
+- github: juacas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Integración de la mensajería push de AppCrue con Moodle.

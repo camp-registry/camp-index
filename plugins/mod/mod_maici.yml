@@ -1,0 +1,12 @@
+component: mod_maici
+source: https://github.com/caiocarvalhofre/moodle-mod_maici
+maintainers:
+- github: caiocarvalhofre
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Moodle AI Chat Interface, abbreviated as “MAICI” and pronounced “MAY-see”
+  is a chat-based learning activity providing students with natural language conversation
+  with an an AI ChatBot.

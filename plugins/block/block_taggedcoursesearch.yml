@@ -1,0 +1,10 @@
+component: block_taggedcoursesearch
+source: https://github.com/andil-elearning/moodle-block_taggedcoursesearch
+maintainers:
+- github: andil-elearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: This block allow users to search courses by tag.

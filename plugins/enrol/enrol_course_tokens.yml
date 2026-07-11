@@ -1,0 +1,11 @@
+component: enrol_course_tokens
+source: https://github.com/fulldecent/moodle-enrol_course_tokens
+maintainers:
+- github: fulldecent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: AGPL-3.0
+summary: Create single-use tokens. Then new students can create an account and enroll
+  with these tokens.
