@@ -1,0 +1,11 @@
+component: block_tresipuntmodspend
+source: https://github.com/3iPunt/moodle_block_tresipuntmodspend
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Block for view modules pending list (teacher: Assigns pending qualification,
+  student: Assigns pending delivery)'

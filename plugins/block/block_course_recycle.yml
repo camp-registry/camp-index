@@ -1,0 +1,11 @@
+component: block_course_recycle
+source: https://github.com/vfremaux/moodle-block_course_recycle
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Handles the destination of courses at the end of the year, collecting desires
+  from teachers and automating the cleanup process.

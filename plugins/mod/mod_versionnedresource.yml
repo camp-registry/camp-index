@@ -1,0 +1,11 @@
+component: mod_versionnedresource
+source: https://github.com/martinvivek/moodle-mod_versionnedresource
+maintainers:
+- github: martinvivek
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A special resource publicaton that can notify students froml changes, stores
+  versions and can be remotely fed from an external document system

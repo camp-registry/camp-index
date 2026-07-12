@@ -1,0 +1,13 @@
+component: block_su_agent_moodle
+source: https://github.com/dev-capsule/moodle-block_su_agent_moodle
+maintainers:
+- github: dev-capsule
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'The Moodle Agent is a plugin that simplifies problem reporting by users
+  on Moodle. It allows users to share login information or describe issues, with two
+  modes: simple (copy/paste the information) and advanced (send via email). It''s
+  a useful tool for facilitating communication between users and tec'

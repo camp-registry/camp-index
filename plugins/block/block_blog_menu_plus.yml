@@ -1,0 +1,9 @@
+component: block_blog_menu_plus
+source: https://github.com/dsv-su/moodle-block_blog_menu_plus
+maintainers:
+- github: dsv-su
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

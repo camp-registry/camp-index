@@ -1,0 +1,11 @@
+component: block_announcements_tbird
+source: https://github.com/johanreinalda/moodle-block_announcements_tbird
+maintainers:
+- github: johanreinalda
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: A moodle block with globally configured content that can be added to any
+  course, category or at site level.

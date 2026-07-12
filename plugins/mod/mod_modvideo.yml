@@ -1,0 +1,10 @@
+component: mod_modvideo
+source: https://github.com/thesmileynoob/moodle-mod_video
+maintainers:
+- github: thesmileynoob
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle module for video (lectures)

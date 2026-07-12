@@ -1,0 +1,12 @@
+component: mod_reactforum
+source: https://github.com/sapporomatt/moodle-mod_reactforum
+maintainers:
+- github: sapporomatt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a version of the Moodle Forum plugin that allows buttons to be added
+  for users to click and clicks tallied. The master has now been upgraded for Moodle
+  3.8

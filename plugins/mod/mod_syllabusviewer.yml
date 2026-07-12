@@ -1,0 +1,10 @@
+component: mod_syllabusviewer
+source: https://github.com/martygilbert/moodle-mod_syllabusviewer
+maintainers:
+- github: martygilbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Part of the mod_syllabus plugin, views posted syllabi and assorted data.

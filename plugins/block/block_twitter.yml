@@ -1,0 +1,10 @@
+component: block_twitter
+source: https://github.com/iamandrew/moodle-block_twitter
+maintainers:
+- github: iamandrew
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Twitter feed block for Moodle

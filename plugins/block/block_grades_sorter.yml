@@ -1,0 +1,11 @@
+component: block_grades_sorter
+source: https://github.com/DegrangeM/moodle-block_grades_sorter
+maintainers:
+- github: DegrangeM
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin to add a block to course providing a button to automatically
+  sort grades in the same order than activities

@@ -1,0 +1,10 @@
+component: block_recblock
+source: https://github.com/bobobowis/moodle-block_recblock
+maintainers:
+- github: bobobowis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plug-in

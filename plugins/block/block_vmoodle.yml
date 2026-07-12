@@ -1,0 +1,10 @@
+component: block_vmoodle
+source: https://github.com/jacano-elearning/moodle-block_vmoodle
+maintainers:
+- github: jacano-elearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Provides Moodle Virtualisation capabilities and Moodle array management

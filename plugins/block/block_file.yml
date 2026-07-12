@@ -1,0 +1,10 @@
+component: block_file
+source: https://github.com/iorobertob/moodle-blocks_file
+maintainers:
+- github: iorobertob
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle custom File Block

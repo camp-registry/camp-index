@@ -1,0 +1,10 @@
+component: block_sitsdocs
+source: https://github.com/roglos/moodle-block_sitsdocs
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Linking SITS documents onto Moodle module page

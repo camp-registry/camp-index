@@ -1,0 +1,9 @@
+component: block_gradesend
+source: https://github.com/roelmann/glos-moodle_blocks_gradesend
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

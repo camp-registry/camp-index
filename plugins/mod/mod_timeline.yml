@@ -1,0 +1,11 @@
+component: mod_timeline
+source: https://github.com/volodymyr-chekyrta/moodle-mod_timeline
+maintainers:
+- github: volodymyr-chekyrta
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle activity module that allows educators to create interactive, visually
+  engaging timelines for presenting chronological content

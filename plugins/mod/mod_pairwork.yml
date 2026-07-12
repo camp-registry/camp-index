@@ -1,0 +1,11 @@
+component: mod_pairwork
+source: https://github.com/justinhunt/moodle-mod_pairwork
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: a non real world module for teaching about Moodle dev in the MoodleBites
+  course

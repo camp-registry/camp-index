@@ -1,0 +1,9 @@
+component: block_via
+source: https://github.com/SVIeSolutions/moodle-block_via
+maintainers:
+- github: SVIeSolutions
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

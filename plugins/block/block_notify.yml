@@ -1,0 +1,11 @@
+component: block_notify
+source: https://github.com/martygilbert/moodle-block_notify
+maintainers:
+- github: martygilbert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block that shows data to logged in students who need to perform
+  a task (survey, etc.)

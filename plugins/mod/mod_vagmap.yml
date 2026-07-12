@@ -1,0 +1,11 @@
+component: mod_vagmap
+source: https://github.com/vaggarath/moodle-mod_vagmap
+maintainers:
+- github: vaggarath
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A small plugin to implement interactive and collaboratives map. Intend to
+  permit CSV and JSON poi's list soon

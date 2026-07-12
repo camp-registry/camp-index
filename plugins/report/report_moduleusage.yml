@@ -1,0 +1,10 @@
+component: report_moduleusage
+source: https://github.com/pauln/moodle-report_moduleusage
+maintainers:
+- github: pauln
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Module usage report for Moodle

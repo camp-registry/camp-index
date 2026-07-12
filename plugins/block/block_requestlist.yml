@@ -1,0 +1,11 @@
+component: block_requestlist
+source: https://github.com/studyingroup-com/moodle-block_requestlist
+maintainers:
+- github: studyingroup-com
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to display the list of all requests, let the user add itself
+  to a already requested course, remove onself.

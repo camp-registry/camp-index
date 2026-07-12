@@ -1,0 +1,9 @@
+component: mod_circuits
+source: https://github.com/GuillaumeBlin/moodle-mod_circuits
+maintainers:
+- github: GuillaumeBlin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

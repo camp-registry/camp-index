@@ -1,0 +1,11 @@
+component: mod_isymetaselectact
+source: https://github.com/tinjohn/moodle-mod_isymetaselectact
+maintainers:
+- github: tinjohn
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: the activity for the block ISy Metaselect to embed course recommendations
+  into courses

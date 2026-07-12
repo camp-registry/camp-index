@@ -1,0 +1,11 @@
+component: mod_studentlibrary
+source: https://github.com/lmsstudentlibrary/moodle-mod_studentlibrary
+maintainers:
+- github: lmsstudentlibrary
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This plugin is designed to integrate with the Student's Advisor Electronic
+  Library System

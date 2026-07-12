@@ -1,0 +1,13 @@
+component: mod_goone
+source: https://github.com/go1com/moodle-mod_goone
+maintainers:
+- github: go1com
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: GO1 provides a content library of learning resources that can be added to
+  any new or existing Moodle course to suit your training needs. GO1 provides interactive
+  content, videos, documents and full-length, multi-component courses. Topics covered
+  by GO1 include professional development, compliance, s

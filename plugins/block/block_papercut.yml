@@ -1,0 +1,11 @@
+component: block_papercut
+source: https://github.com/marxjohnson/moodle-block_papercut
+maintainers:
+- github: marxjohnson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block for displaying Papercut Web Widgets in Moodle, originally developed
+  by SchoolsICT.net

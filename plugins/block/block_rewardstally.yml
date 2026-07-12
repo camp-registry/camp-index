@@ -1,0 +1,10 @@
+component: block_rewardstally
+source: https://github.com/moodleuser101/moodle-block_rewardstally
+maintainers:
+- github: moodleuser101
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin to add a block showing user and school community reward tallies.

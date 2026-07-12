@@ -1,0 +1,9 @@
+component: block_oppia_mobile_export
+source: https://github.com/DigitalCampus/moodle-block_oppia_mobile_export
+maintainers:
+- github: DigitalCampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

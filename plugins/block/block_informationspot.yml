@@ -1,0 +1,10 @@
+component: block_informationspot
+source: https://github.com/bobopinna/moodle-blocks_informationspot
+maintainers:
+- github: bobopinna
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Easy way to build block with title, image, description and a button link

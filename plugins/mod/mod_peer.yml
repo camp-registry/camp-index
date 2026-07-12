@@ -1,0 +1,9 @@
+component: mod_peer
+source: https://github.com/swe-dhbw-ka/moodle-mod_peer
+maintainers:
+- github: swe-dhbw-ka
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

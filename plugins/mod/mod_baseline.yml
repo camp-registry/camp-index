@@ -1,0 +1,10 @@
+component: mod_baseline
+source: https://github.com/fsainsbu/moodle-mod_baseline-orig
+maintainers:
+- github: fsainsbu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Baseline a mod of mod data for moodle featuring push buttons and sliders

@@ -1,0 +1,10 @@
+component: block_mylearning
+source: https://github.com/moodleworkplace/moodle-block_mylearning
+maintainers:
+- github: moodleworkplace
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Workplace courses and programs overview block

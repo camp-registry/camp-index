@@ -1,0 +1,10 @@
+component: block_custom_register
+source: https://github.com/davidherney/moodle-block_custom_register
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle block to save register information with custom forms.

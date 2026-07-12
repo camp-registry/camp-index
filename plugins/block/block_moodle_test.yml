@@ -1,0 +1,10 @@
+component: block_moodle_test
+source: https://github.com/sumitnegi933/Moodle-test-block
+maintainers:
+- github: sumitnegi933
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Development task

@@ -1,0 +1,11 @@
+component: mod_review
+source: https://github.com/helg23/moodle-mod_review
+maintainers:
+- github: helg23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle activity plugin allows students to rate the course and to give their
+  reviews on it.

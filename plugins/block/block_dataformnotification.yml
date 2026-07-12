@@ -1,0 +1,12 @@
+component: block_dataformnotification
+source: https://github.com/itamart/moodle-block_dataformnotification
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The dataform notification block allows adding custom Dataform notification
+  messages to a Dataform activity. The custom notification messages are sent to specified
+  recipients on specified Dataform events.

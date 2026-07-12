@@ -1,0 +1,10 @@
+component: block_evalcomix
+source: https://github.com/evalfor/moodle-block_evalcomix
+maintainers:
+- github: evalfor
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: New repository for EvalCOMIX Integration Block

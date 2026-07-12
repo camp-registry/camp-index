@@ -1,0 +1,10 @@
+component: tool_modifycompletions
+source: https://github.com/davidpesce/moodle-tool_modifycompletions
+maintainers:
+- github: davidpesce
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Used to modify a users course completion timestamp based on an uploaded spreadsheet.

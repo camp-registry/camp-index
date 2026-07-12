@@ -1,0 +1,10 @@
+component: mod_teacherinfo
+source: https://github.com/soportecreamostic/moodle-mod_teacherinfo
+maintainers:
+- github: soportecreamostic
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Show teacher information on course view

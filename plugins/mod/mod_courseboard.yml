@@ -1,0 +1,10 @@
+component: mod_courseboard
+source: https://github.com/Aequalitas/moodle-mod_courseboard
+maintainers:
+- github: Aequalitas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin Courseboard for Moodle - approved(https://moodle.org/plugins/mod_courseboard)

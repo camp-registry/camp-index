@@ -1,0 +1,10 @@
+component: mod_og
+source: https://github.com/sstreet/moodle-mod_og
+maintainers:
+- github: sstreet
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle OG Project plugin

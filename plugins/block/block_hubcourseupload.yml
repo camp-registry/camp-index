@@ -1,0 +1,12 @@
+component: block_hubcourseupload
+source: https://github.com/ponlawat-w/moodle-block_hubcourseupload
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block that creates an alternative course upload and restore interface
+  for Moodle Site to ease user uploading and submitting their courses to Moodle Site
+  from their mbz course files.

@@ -1,0 +1,11 @@
+component: mod_iconactivatecontent
+source: https://github.com/ICON-newmedia/moodle-mod_iconactivatecontent
+maintainers:
+- github: ICON-newmedia
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle activity plugin for embedding content from other websites in a GDPR-compliant
+  way

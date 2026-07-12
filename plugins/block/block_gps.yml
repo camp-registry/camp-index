@@ -1,0 +1,10 @@
+component: block_gps
+source: https://github.com/center-for-learning-management/moodle-block_gps
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Block Plugin to determine the current user-position

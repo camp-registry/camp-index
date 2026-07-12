@@ -1,0 +1,10 @@
+component: mod_turningtech
+source: https://github.com/vsotirasqmplus/moodle-mod_turningtech
+maintainers:
+- github: vsotirasqmplus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: mod_turningtech plugin forked from code received via emal

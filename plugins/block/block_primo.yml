@@ -1,0 +1,11 @@
+component: block_primo
+source: https://github.com/nadavkav/moodle-block_primo
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block plugin for searching libraries based on ExLibris Primo search
+  engine.

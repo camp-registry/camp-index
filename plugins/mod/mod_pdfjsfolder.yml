@@ -1,0 +1,11 @@
+component: mod_pdfjsfolder
+source: https://github.com/lemonad/moodle-mod_pdfjsfolder
+maintainers:
+- github: lemonad
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: PDF.js Folder is a Moodle plugin intended to make sure that added PDFs always
+  open in the browser

@@ -1,0 +1,9 @@
+component: block_html_extradata
+source: https://github.com/aming0/moodle-block_html_extradata
+maintainers:
+- github: aming0
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

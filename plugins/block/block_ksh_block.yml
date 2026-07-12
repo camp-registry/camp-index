@@ -1,0 +1,10 @@
+component: block_ksh_block
+source: https://github.com/kshuntley/moodle-block_ksh_block
+maintainers:
+- github: kshuntley
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Default Block

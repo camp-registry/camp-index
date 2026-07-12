@@ -1,0 +1,10 @@
+component: mod_meetzi
+source: https://github.com/swh-limtec/moodle-mod_meetzi
+maintainers:
+- github: swh-limtec
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for meetzi conference rooms

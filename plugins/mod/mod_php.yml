@@ -1,0 +1,10 @@
+component: mod_php
+source: https://github.com/cli-ish/moodle-mod_php
+maintainers:
+- github: cli-ish
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Copy from a Book-Chapter

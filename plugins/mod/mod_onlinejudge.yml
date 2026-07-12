@@ -1,0 +1,10 @@
+component: mod_onlinejudge
+source: https://github.com/Jaycexx/moodle3-mod_onlinejudge
+maintainers:
+- github: Jaycexx
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Online Judge plugin for Moodle 3.x

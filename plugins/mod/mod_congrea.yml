@@ -1,0 +1,10 @@
+component: mod_congrea
+source: https://github.com/congrea/moodle-mod_congrea
+maintainers:
+- github: congrea
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Congrea Moodle Plugin

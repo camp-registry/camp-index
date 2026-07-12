@@ -1,0 +1,11 @@
+component: block_moodletest
+source: https://github.com/pinky-moodle/block_moodletest
+maintainers:
+- github: pinky-moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Display the list of course modules in that course along with course module
+  id

@@ -1,0 +1,9 @@
+component: block_zoomonline
+source: https://github.com/test-moodle/moodle-block_zoomonline
+maintainers:
+- github: test-moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

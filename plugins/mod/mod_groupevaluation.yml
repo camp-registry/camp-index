@@ -1,0 +1,12 @@
+component: mod_groupevaluation
+source: https://github.com/josevilasw/moodle-mod_groupevaluation
+maintainers:
+- github: josevilasw
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Plugin para evaluaciones cruzadas en grupo en la plataforma docente Moodle.
+  Desarrollo de una herramienta que empleará encuestas para gestionar, controlar y
+  evaluar el funcionamiento del trabajo en equipo.

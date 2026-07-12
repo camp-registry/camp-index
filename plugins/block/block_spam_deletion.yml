@@ -1,0 +1,10 @@
+component: block_spam_deletion
+source: https://github.com/moodlehq/moodle-block_spam_deletion
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Spam deletion block for Moodle

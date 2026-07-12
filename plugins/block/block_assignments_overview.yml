@@ -1,0 +1,11 @@
+component: block_assignments_overview
+source: https://github.com/tanmaygatle/moodle-block_assignments_overview
+maintainers:
+- github: tanmaygatle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a Moodle Block Plugin which offers the user an overview of all the
+  Assignments of the Courses to which the user has enrolled.

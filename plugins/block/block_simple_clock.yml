@@ -1,0 +1,10 @@
+component: block_simple_clock
+source: https://github.com/deraadt/moodle-block_simple_clock
+maintainers:
+- github: deraadt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Michael de Raadt's Simple Clock block

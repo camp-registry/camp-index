@@ -1,0 +1,10 @@
+component: mod_tiddlywiki
+source: https://github.com/lasjoh/moodle-mod_tiddlywiki
+maintainers:
+- github: lasjoh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An activity_Module that can save and manage changes in a TiddlyWiki

@@ -1,0 +1,11 @@
+component: block_mycourse_recommendations
+source: https://github.com/eljulians/moodle-block_mycourse_recommendations
+maintainers:
+- github: eljulians
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: ':bulb: A plugin which will generate custom recommendations of what contents
+  would be interesting to pay attention at.'

@@ -1,0 +1,10 @@
+component: block_related_sections
+source: https://github.com/iandavidwild/moodle-block_related_sections
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Related sections navigation block for UAL

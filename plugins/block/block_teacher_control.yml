@@ -1,0 +1,9 @@
+component: block_teacher_control
+source: https://github.com/watasm/moodle-block_bacs_teacher_control
+maintainers:
+- github: watasm
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

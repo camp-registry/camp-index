@@ -1,0 +1,11 @@
+component: mod_notetaker
+source: https://github.com/jlb224/moodle-mod_notetaker
+maintainers:
+- github: jlb224
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Notetaker plugin for Moodle - allows students to take public or private notes
+  within a course.

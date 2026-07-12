@@ -1,0 +1,10 @@
+component: mod_courselinks
+source: https://github.com/andurif/moodle-mod_courselinks
+maintainers:
+- github: andurif
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to display in a course links to other courses.

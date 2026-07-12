@@ -1,0 +1,10 @@
+component: block_recent_users
+source: https://github.com/shadman-ahmed-bs23/moodle-block_recent_users
+maintainers:
+- github: shadman-ahmed-bs23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple block plugin for moodle which fetch recently added users in a block.

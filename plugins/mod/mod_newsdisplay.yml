@@ -1,0 +1,11 @@
+component: mod_newsdisplay
+source: https://github.com/emdalton/moodle-mod_newsdisplay
+maintainers:
+- github: emdalton
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Provides an "Activity" module to display the most recent post(s) to the News
+  forum at the top of a course.

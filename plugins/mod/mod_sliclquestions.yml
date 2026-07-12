@@ -1,0 +1,10 @@
+component: mod_sliclquestions
+source: https://github.com/WelchITConsulting/moodle-mod_sliclquestions
+maintainers:
+- github: WelchITConsulting
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to provide questionnaire capabilities for the SLiCL project

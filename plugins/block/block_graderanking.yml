@@ -1,0 +1,9 @@
+component: block_graderanking
+source: https://github.com/antoni-oliver/moodle-block_graderanking
+maintainers:
+- github: antoni-oliver
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

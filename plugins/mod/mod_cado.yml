@@ -1,0 +1,11 @@
+component: mod_cado
+source: https://github.com/naomiquirke/moodle-mod_cado
+maintainers:
+- github: naomiquirke
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle module to generate a course curriculum automatically, compare courses,
+  and enable a course approval workflow within Moodle.

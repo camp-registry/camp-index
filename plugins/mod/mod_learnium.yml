@@ -1,0 +1,10 @@
+component: mod_learnium
+source: https://github.com/learnium/moodle-mod_learnium
+maintainers:
+- github: learnium
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for Learnium

@@ -1,0 +1,10 @@
+component: block_event_tracker_graph
+source: https://github.com/andreyamin/moodle-block_event-tracker-graph
+maintainers:
+- github: andreyamin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Event Tracker block for Moodle

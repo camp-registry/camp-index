@@ -1,0 +1,11 @@
+component: block_common_courses
+source: https://github.com/SergioComeron/moodle-block-common_courses
+maintainers:
+- github: SergioComeron
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block lists any courses you have in common (i.e. you are both enrolled
+  in) with the user whose profile you are viewing

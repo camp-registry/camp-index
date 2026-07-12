@@ -1,0 +1,10 @@
+component: customcertelement_expirationdate
+source: https://github.com/beast2013/moodle-mod_customcert_element_expirationdate
+maintainers:
+- github: beast2013
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Expiration Date element for the mod_customcert plugin for Moodle

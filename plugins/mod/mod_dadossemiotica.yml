@@ -1,0 +1,10 @@
+component: mod_dadossemiotica
+source: https://github.com/danielnehme/moodle-mod_dadossemiotica
+maintainers:
+- github: danielnehme
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Sistema de apoio à análise semiótica.

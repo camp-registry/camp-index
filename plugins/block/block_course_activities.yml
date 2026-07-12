@@ -1,0 +1,11 @@
+component: block_course_activities
+source: https://github.com/nyanginator/moodle-block_course_activities
+maintainers:
+- github: nyanginator
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Display course sections and activities in a block with icons, links, and
+  completion toggles. Optionally, you can also render a Mark As Complete button.

@@ -1,0 +1,9 @@
+component: block_echoalp
+source: https://github.com/rboyatt/moodle-block_echoalp
+maintainers:
+- github: rboyatt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

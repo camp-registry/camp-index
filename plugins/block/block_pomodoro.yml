@@ -1,0 +1,9 @@
+component: block_pomodoro
+source: https://github.com/ankreppenhofer/moodle-block_pomodoro
+maintainers:
+- github: ankreppenhofer
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

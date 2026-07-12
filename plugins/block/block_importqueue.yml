@@ -1,0 +1,9 @@
+component: block_importqueue
+source: https://github.com/PoetOS/moodle-block_importqueue
+maintainers:
+- github: PoetOS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

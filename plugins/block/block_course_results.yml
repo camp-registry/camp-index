@@ -1,0 +1,9 @@
+component: block_course_results
+source: https://github.com/andreev-artem/moodle_blocks_course_results
+maintainers:
+- github: andreev-artem
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

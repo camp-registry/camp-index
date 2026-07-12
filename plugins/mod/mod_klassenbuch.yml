@@ -1,0 +1,11 @@
+component: mod_klassenbuch
+source: https://github.com/synergylearning/moodle-mod_klassenbuch
+maintainers:
+- github: synergylearning
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Modified version of the book module, adding email subscriptions, structured
+  entries, PDF export and autosaving.

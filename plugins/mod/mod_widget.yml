@@ -1,0 +1,10 @@
+component: mod_widget
+source: https://github.com/richardjonesnz/moodle-mod_widget
+maintainers:
+- github: richardjonesnz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A modern template for Moodle 3.5 based on Moodle HQs NEWMODULE.

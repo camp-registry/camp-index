@@ -1,0 +1,10 @@
+component: block_rss_plus
+source: https://github.com/hcpss-banderson/moodle-block_rss_plus
+maintainers:
+- github: hcpss-banderson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A copy of the RSS Plus Moodle plugin

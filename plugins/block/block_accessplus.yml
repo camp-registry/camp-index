@@ -1,0 +1,9 @@
+component: block_accessplus
+source: https://github.com/samuelcalegari/moodle-block_accessplus-orange
+maintainers:
+- github: samuelcalegari
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

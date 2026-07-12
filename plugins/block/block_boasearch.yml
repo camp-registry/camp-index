@@ -1,0 +1,10 @@
+component: block_boasearch
+source: https://github.com/boa-project/moodle-block_boasearch
+maintainers:
+- github: boa-project
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle block to search resources in BoA.

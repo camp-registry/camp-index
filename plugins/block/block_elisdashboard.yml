@@ -1,0 +1,9 @@
+component: block_elisdashboard
+source: https://github.com/PoetOS/moodle-block_elisdashboard
+maintainers:
+- github: PoetOS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

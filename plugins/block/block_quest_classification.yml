@@ -1,0 +1,10 @@
+component: block_quest_classification
+source: https://github.com/juacas/moodle-block_quest_classification
+maintainers:
+- github: juacas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block for showing the contest classification in any page of the course.

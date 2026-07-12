@@ -1,0 +1,11 @@
+component: block_course_report
+source: https://github.com/iandavidwild/moodle-block_course_report
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that provides a course interaction "bubble chart" report, built using
+  D3.js

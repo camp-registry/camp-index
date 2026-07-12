@@ -1,0 +1,10 @@
+component: block_sideblock
+source: https://github.com/Yushikuni/Side-block-Moodle3104
+maintainers:
+- github: Yushikuni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: My side block for version 3.10.4+

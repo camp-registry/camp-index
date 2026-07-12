@@ -1,0 +1,9 @@
+component: block_coursepreview
+source: https://github.com/SergioComeron/moodle-block_coursepreview
+maintainers:
+- github: SergioComeron
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

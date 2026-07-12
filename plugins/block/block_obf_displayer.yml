@@ -1,0 +1,11 @@
+component: block_obf_displayer
+source: https://github.com/grenoble-em/moodle-block_obf_displayer
+maintainers:
+- github: grenoble-em
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: '[READ ONLY] Subtree split of https://github.com/openbadgefactory/obf-moodle
+  to make the block OBF displayer plugin standalone.'

@@ -1,0 +1,10 @@
+component: block_download_certificates
+source: https://github.com/manieer/moodle-block_download_certificates
+maintainers:
+- github: manieer
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block Download Certificates

@@ -1,0 +1,10 @@
+component: mod_ildembform
+source: https://github.com/oncampus/moodle_mod_ildembform
+maintainers:
+- github: oncampus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Add an embedded contact form to the course content

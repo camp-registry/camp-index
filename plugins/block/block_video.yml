@@ -1,0 +1,9 @@
+component: block_video
+source: https://github.com/openapp1/moodle-block_video
+maintainers:
+- github: openapp1
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

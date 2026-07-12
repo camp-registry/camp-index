@@ -1,0 +1,10 @@
+component: mod_teletask
+source: https://github.com/openHPI/moodle-mod_teletask
+maintainers:
+- github: openHPI
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: tele-TASK Plugin for moodle

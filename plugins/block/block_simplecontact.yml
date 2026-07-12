@@ -1,0 +1,11 @@
+component: block_simplecontact
+source: https://github.com/danmarsden/moodle-block_simplecontact
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Provides a contact form and generates an e-mail to a specific address including
+  course enrolment and user info.

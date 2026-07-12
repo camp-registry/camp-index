@@ -1,0 +1,10 @@
+component: block_anderspink
+source: https://github.com/anderspink/moodle-block_anderspink
+maintainers:
+- github: anderspink
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin block for Anders Pink

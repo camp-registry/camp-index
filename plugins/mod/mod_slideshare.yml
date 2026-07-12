@@ -1,0 +1,10 @@
+component: mod_slideshare
+source: https://github.com/Mukudu/moodle-mod_slideshare
+maintainers:
+- github: Mukudu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Slideshare presentations as resources for Moodle

@@ -1,0 +1,10 @@
+component: block_quizmakeoneqpp
+source: https://github.com/timhunt/moodle-block_quizmakeoneqpp
+maintainers:
+- github: timhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that lets users switch their quiz attept to one question per page.

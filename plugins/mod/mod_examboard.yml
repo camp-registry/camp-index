@@ -1,0 +1,11 @@
+component: mod_examboard
+source: https://github.com/moodleulpgc/moodle-mod_examboard
+maintainers:
+- github: moodleulpgc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: mod_examboard is a moodle module to manage examinations by a Board, i.e.
+  Thesis, Final Projects etc. Whenever a panel of members assess some students separately

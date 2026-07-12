@@ -1,0 +1,9 @@
+component: mod_openaichat
+source: https://github.com/TechnikumWienAcademy/moodle-mod_openaichat
+maintainers:
+- github: TechnikumWienAcademy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

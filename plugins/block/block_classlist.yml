@@ -1,0 +1,10 @@
+component: block_classlist
+source: https://github.com/richardjonesnz/moodle-block_classlist
+maintainers:
+- github: richardjonesnz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Show students who is learning with them.

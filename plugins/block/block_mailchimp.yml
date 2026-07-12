@@ -1,0 +1,10 @@
+component: block_mailchimp
+source: https://github.com/saylordotorg/moodle-block_mailchimp
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Fork of Sebsoft MailChimp Moodle plugin updated to MailChimp API v3.

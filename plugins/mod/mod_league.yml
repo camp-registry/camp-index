@@ -1,0 +1,10 @@
+component: mod_league
+source: https://github.com/miguelromeral/moodle-mod_league
+maintainers:
+- github: miguelromeral
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle Plugin: A League of exercises for all students in a course.'

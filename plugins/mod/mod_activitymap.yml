@@ -1,0 +1,10 @@
+component: mod_activitymap
+source: https://github.com/bytebang/moodle-mod_activitymap
+maintainers:
+- github: bytebang
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin that vizualizes dependencies of actions within a course

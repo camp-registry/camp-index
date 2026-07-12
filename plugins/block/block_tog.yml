@@ -1,0 +1,11 @@
+component: block_tog
+source: https://github.com/rosell/moodle-block_tog
+maintainers:
+- github: rosell
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block to groupings users depending of the task to do. The formed
+  groups has diversity in gender, personality and intelligence.

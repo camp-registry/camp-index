@@ -1,0 +1,10 @@
+component: block_assign_get_feedback
+source: https://github.com/vsotirasqmplus/moodle-block_assign_get_feedback
+maintainers:
+- github: vsotirasqmplus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block to be used in mod/assign.view to bulk get feedback

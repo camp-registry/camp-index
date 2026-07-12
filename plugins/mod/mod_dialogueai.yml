@@ -1,0 +1,9 @@
+component: mod_dialogueai
+source: https://github.com/bmateos78/moodle-mod_dialogueai
+maintainers:
+- github: bmateos78
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: block_hub_client
+source: https://github.com/justinhunt/moodle-block_hub_client
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: BSD-3-Clause

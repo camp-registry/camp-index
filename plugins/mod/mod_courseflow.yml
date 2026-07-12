@@ -1,0 +1,10 @@
+component: mod_courseflow
+source: https://github.com/naomiquirke/moodle-mod_courseflow
+maintainers:
+- github: naomiquirke
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle module to present course activities as an interactive animated flow.

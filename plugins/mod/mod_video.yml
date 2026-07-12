@@ -1,0 +1,9 @@
+component: mod_video
+source: https://github.com/scholar-is/moodle-mod_video
+maintainers:
+- github: scholar-is
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

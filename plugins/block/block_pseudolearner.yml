@@ -1,0 +1,10 @@
+component: block_pseudolearner
+source: https://github.com/rroepke/moodle-block_pseudolearner
+maintainers:
+- github: rroepke
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block plugin to contact a pseudonymity provider and store pseudonyms

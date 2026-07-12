@@ -1,0 +1,11 @@
+component: mod_webgl
+source: https://github.com/eLearning-BS23/moodle-mod_webgl
+maintainers:
+- github: eLearning-BS23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle webGL game activity plugin with Azure blob storage and  AWS s3 webGL
+  content upload and Moodle File API.

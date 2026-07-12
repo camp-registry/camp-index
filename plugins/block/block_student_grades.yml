@@ -1,0 +1,10 @@
+component: block_student_grades
+source: https://github.com/caiodoneda/moodle-block_student_grades
+maintainers:
+- github: caiodoneda
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block shows a fast link to all grade reports of a student.

@@ -1,0 +1,9 @@
+component: block_library_glossary
+source: https://github.com/roelmann/glos-moodle-blocks_library_glossary
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

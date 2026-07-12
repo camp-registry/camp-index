@@ -1,0 +1,10 @@
+component: block_ual_mymoodle
+source: https://github.com/iandavidwild/moodle-block_ual_mymoodle
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Implement a My Moodle page structured by Programme, Course and Unit

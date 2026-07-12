@@ -1,0 +1,11 @@
+component: block_simple_map
+source: https://github.com/dasistwas/moodle-block_simple_map
+maintainers:
+- github: dasistwas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Find institutions and places in google maps with this easy to configure moodle
+  block

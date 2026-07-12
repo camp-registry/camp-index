@@ -1,0 +1,9 @@
+component: block_course_viewer
+source: https://github.com/riasat-mahbub/moodle-block_course_viewer
+maintainers:
+- github: riasat-mahbub
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

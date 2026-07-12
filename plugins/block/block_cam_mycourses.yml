@@ -1,0 +1,11 @@
+component: block_cam_mycourses
+source: https://github.com/danmarsden/moodle-block_cam_mycourses
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Replacement block for course_overview on My Moodle page - allows you to browse
+  other course categories as set up by admin

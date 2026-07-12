@@ -1,0 +1,9 @@
+component: block_vxg_orgs
+source: https://github.com/Veloxnet-LMS/moodle-block_vxg_orgs
+maintainers:
+- github: Veloxnet-LMS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

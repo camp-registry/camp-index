@@ -1,0 +1,9 @@
+component: block_interactivetree
+source: https://github.com/hemacarun/moodle-block_interactivetree
+maintainers:
+- github: hemacarun
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

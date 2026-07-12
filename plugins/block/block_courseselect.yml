@@ -1,0 +1,10 @@
+component: block_courseselect
+source: https://github.com/catalyst/moodle-block_courseselect
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Course search block.

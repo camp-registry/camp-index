@@ -1,0 +1,10 @@
+component: mod_management
+source: https://github.com/shadman-ahmed-bs23/moodle-mod_management
+maintainers:
+- github: shadman-ahmed-bs23
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple activity mod plugin can be used as activity mod boilerplate.

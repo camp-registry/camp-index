@@ -1,0 +1,10 @@
+component: mod_dataview
+source: https://github.com/davidherney/moodle-mod_dataview
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A module to display mod_data records with custom filters.

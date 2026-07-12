@@ -1,0 +1,9 @@
+component: mod_biploma
+source: https://github.com/quickom-foundation/moodle-mod_biploma
+maintainers:
+- github: quickom-foundation
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

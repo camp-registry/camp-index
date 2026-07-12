@@ -1,0 +1,10 @@
+component: block_roster_tbird
+source: https://github.com/johanreinalda/moodle-block_roster_tbird
+maintainers:
+- github: johanreinalda
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: A modified course roster block for Moodle 2.3+

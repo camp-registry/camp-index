@@ -1,0 +1,11 @@
+component: block_course_files_license
+source: https://github.com/adrianrv/moodle-block_course_files_license
+maintainers:
+- github: adrianrv
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: A Moodle block that allow teachers to identified licenses/copyright of the
+  files their are using on his course

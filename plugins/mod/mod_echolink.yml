@@ -1,0 +1,11 @@
+component: mod_echolink
+source: https://github.com/zigtan/moodle-mod_echolink
+maintainers:
+- github: zigtan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Echo360 Moodle Plugin to support end-user linkage of Echo360 content in Moodle
+  LMS.

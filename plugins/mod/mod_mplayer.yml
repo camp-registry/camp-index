@@ -1,0 +1,11 @@
+component: mod_mplayer
+source: https://github.com/njaber/moodle-mod_mplayer
+maintainers:
+- github: njaber
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Intégrates a complete full featured and repsonsive Video Player with a lot
+  of options

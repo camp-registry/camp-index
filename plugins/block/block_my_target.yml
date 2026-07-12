@@ -1,0 +1,10 @@
+component: block_my_target
+source: https://github.com/gbowman85/Moodle-block_my_target
+maintainers:
+- github: gbowman85
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Shows a student's grade for a grade item called 'Target'.

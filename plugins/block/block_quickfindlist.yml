@@ -1,0 +1,10 @@
+component: block_quickfindlist
+source: https://github.com/marxjohnson/moodle-block_quickfindlist
+maintainers:
+- github: marxjohnson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block providing a quick method of searching users

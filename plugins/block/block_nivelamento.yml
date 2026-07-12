@@ -1,0 +1,9 @@
+component: block_nivelamento
+source: https://github.com/angela-araujo/moodle-block_nivelamento
+maintainers:
+- github: angela-araujo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

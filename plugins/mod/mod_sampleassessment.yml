@@ -1,0 +1,11 @@
+component: mod_sampleassessment
+source: https://github.com/ctchanandy/moodle-mod_sampleassessment
+maintainers:
+- github: ctchanandy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 2.X module which allow teacher to upload sample files and let students
+  assess them using rubric. "Assessment" module must be installed first.

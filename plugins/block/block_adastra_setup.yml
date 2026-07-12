@@ -1,0 +1,9 @@
+component: block_adastra_setup
+source: https://github.com/Bl4ckread/moodle-block_adastra_setup
+maintainers:
+- github: Bl4ckread
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

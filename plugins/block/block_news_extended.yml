@@ -1,0 +1,10 @@
+component: block_news_extended
+source: https://github.com/daveyboond/moodle-block_news_extended
+maintainers:
+- github: daveyboond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The extended site news block, used to replicate Site News on My Moodle

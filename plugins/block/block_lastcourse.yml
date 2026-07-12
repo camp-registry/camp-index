@@ -1,0 +1,10 @@
+component: block_lastcourse
+source: https://github.com/deedey/moodle_block_lastcourse
+maintainers:
+- github: deedey
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block gives access to the last course and module consulted

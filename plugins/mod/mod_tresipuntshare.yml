@@ -1,0 +1,10 @@
+component: mod_tresipuntshare
+source: https://github.com/3iPunt/moodle_mod_tresipuntshare
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Módulo para crear publicaciones en el proyecto Moodle CBE

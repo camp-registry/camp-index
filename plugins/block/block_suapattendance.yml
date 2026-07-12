@@ -1,0 +1,10 @@
+component: block_suapattendance
+source: https://github.com/Ramon-Mateus/moodle__block_suapattendance
+maintainers:
+- github: Ramon-Mateus
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Plugin para o Moodle para gerência e envio de frequência para o SUAP.

@@ -1,0 +1,11 @@
+component: mod_deffinum
+source: https://github.com/Edunao/moodle-mod_deffinum
+maintainers:
+- github: Edunao
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Integration of Augmented Reality, Virtual Reality and 360 Serious Game content
+  into Moodle in the context of the eDeffinum project

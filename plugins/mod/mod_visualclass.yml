@@ -1,0 +1,10 @@
+component: mod_visualclass
+source: https://github.com/paulocafjr/moodle-mod_visualclass
+maintainers:
+- github: paulocafjr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle's activity module for Visual Class®.

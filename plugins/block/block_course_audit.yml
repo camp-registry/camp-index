@@ -1,0 +1,10 @@
+component: block_course_audit
+source: https://github.com/RUB-bschkuhl/moodle-block_course_audit
+maintainers:
+- github: RUB-bschkuhl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Tool to adapt existing courses

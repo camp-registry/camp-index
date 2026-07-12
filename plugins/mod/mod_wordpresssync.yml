@@ -1,0 +1,9 @@
+component: mod_wordpresssync
+source: https://github.com/andyzito/moodle-mod_wordpress_sync
+maintainers:
+- github: andyzito
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

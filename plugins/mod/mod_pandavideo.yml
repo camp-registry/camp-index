@@ -1,0 +1,9 @@
+component: mod_pandavideo
+source: https://github.com/panda-moodle/moodle-mod_pandavideo
+maintainers:
+- github: panda-moodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

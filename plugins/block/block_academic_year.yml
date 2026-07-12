@@ -1,0 +1,11 @@
+component: block_academic_year
+source: https://github.com/wit-ctel/Moodle-block_academic-year
+maintainers:
+- github: wit-ctel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Accompanying block for the academic year plugin. Provides a block from which
+  users can select with year they wish to view courses from.

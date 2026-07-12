@@ -1,0 +1,10 @@
+component: block_shared_files
+source: https://github.com/gthomas2/moodle-block_shared_files
+maintainers:
+- github: gthomas2
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Shared public files block

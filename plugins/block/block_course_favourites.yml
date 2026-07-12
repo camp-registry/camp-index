@@ -1,0 +1,10 @@
+component: block_course_favourites
+source: https://github.com/ucsf-education/moodle-block-course_favourites
+maintainers:
+- github: ucsf-education
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block that allows user to select his/her favorite courses.

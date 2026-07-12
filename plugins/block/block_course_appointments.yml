@@ -1,0 +1,11 @@
+component: block_course_appointments
+source: https://github.com/marxjohnson/moodle-block_course_appointments
+maintainers:
+- github: marxjohnson
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block allowing you to create appointments between a teacher and a student,
+  which will be added to both users' calendars.

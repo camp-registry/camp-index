@@ -1,0 +1,11 @@
+component: mod_linkbazaar
+source: https://github.com/andyjdavis/moodle-mod_linkbazaar
+maintainers:
+- github: andyjdavis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a Moodle activity plugin that allows students to submit links to
+  useful resources. Students votes are used to order them.

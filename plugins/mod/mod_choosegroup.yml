@@ -1,0 +1,10 @@
+component: mod_choosegroup
+source: https://github.com/IOC/moodle-mod_choosegroup
+maintainers:
+- github: IOC
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle activity that allows students to choose their group.

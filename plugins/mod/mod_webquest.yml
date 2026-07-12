@@ -1,0 +1,10 @@
+component: mod_webquest
+source: https://github.com/justinhunt/moodle-mod_webquest
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle 2.x Port of Moodle 1.9 Webquest Module

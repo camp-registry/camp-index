@@ -1,0 +1,10 @@
+component: mod_heatmap
+source: https://github.com/meridiumtechnologies/moodle-mod_heatmap
+maintainers:
+- github: meridiumtechnologies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Heatmap plugin for Moodle

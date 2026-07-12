@@ -1,0 +1,10 @@
+component: block_ludifica
+source: https://github.com/bambuco/moodle-block_ludifica
+maintainers:
+- github: bambuco
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block to implement a gamification strategy in site level.

@@ -1,0 +1,9 @@
+component: block_faq_list
+source: https://github.com/AGILEDROP/moodle-block_faq_list
+maintainers:
+- github: AGILEDROP
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

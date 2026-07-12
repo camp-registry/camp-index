@@ -1,0 +1,13 @@
+component: block_boaidp
+source: https://github.com/mglaredo/moodle-block_boaidp
+maintainers:
+- github: mglaredo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: README for boaidp, version 2.0 July 17th, 2013  This is the new implementation
+  of Moodle's Block for metadata  associated to Moodle's Courses and their further
+  edition (in a manually mode). At this basic version only static predefined fields
+  are present on block instance configuration. No dynamic cr

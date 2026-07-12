@@ -1,0 +1,11 @@
+component: mod_ptogo
+source: https://github.com/michaelpollak/moodle-mod_ptogo
+maintainers:
+- github: michaelpollak
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows teachers to integrate content from the Presentations2go lecture streaming
+  platform.

@@ -1,0 +1,10 @@
+component: block_course_overview_current
+source: https://github.com/ltu-solent/moodle-block_course_overview_current
+maintainers:
+- github: ltu-solent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Modified copy of core Course Overview block

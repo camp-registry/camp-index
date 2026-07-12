@@ -1,0 +1,11 @@
+component: block_verify_certs
+source: https://github.com/dmitriim/moodle-block_verify_certs
+maintainers:
+- github: dmitriim
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The block allows to verify all certificates installed in your Moodle using
+  a single form.

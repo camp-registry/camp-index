@@ -1,0 +1,9 @@
+component: block_ari9000
+source: https://github.com/maximevictor/moodle-block_ari9000
+maintainers:
+- github: maximevictor
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

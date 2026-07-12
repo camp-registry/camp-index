@@ -1,0 +1,10 @@
+component: mod_wizard
+source: https://github.com/dthies/moodle-mod_wizard
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A utility to create templates for for activities in Moodle

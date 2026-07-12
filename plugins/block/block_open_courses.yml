@@ -1,0 +1,11 @@
+component: block_open_courses
+source: https://github.com/stemiwe/moodle-block_open_courses
+maintainers:
+- github: stemiwe
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: a block that displays all courses a user can view but is
+  not enrolled in (usually courses with open guest access)'

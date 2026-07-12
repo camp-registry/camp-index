@@ -1,0 +1,9 @@
+component: mod_srg
+source: https://github.com/SE-Stuttgart/moodle-mod_srg
+maintainers:
+- github: SE-Stuttgart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

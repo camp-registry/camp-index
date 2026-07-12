@@ -1,0 +1,10 @@
+component: mod_testimonial
+source: https://github.com/vidyamantra/moodle-mod_testimonial
+maintainers:
+- github: vidyamantra
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0
+summary: Testimonial

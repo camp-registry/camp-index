@@ -1,0 +1,10 @@
+component: mod_room
+source: https://github.com/leoauri/moodle-mod_room
+maintainers:
+- github: leoauri
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Room Management plugin for Moodle

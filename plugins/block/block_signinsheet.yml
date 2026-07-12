@@ -1,0 +1,13 @@
+component: block_signinsheet
+source: https://github.com/Kylegoslin/moodle-block_signinsheet
+maintainers:
+- github: Kylegoslin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block can be added to a course page to automatically generate course
+  sign in sheets for students. A custom logo and field can be added to the generated
+  sheet. Printer Friendly option is also available. Current version of the plugin
+  for Moodle 3.5.

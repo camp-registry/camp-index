@@ -1,0 +1,12 @@
+component: block_welcomearea
+source: https://github.com/vlacs/moodle-block_welcomearea
+maintainers:
+- github: vlacs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This Moodle block allows each teacher to create a Welcome Area that will
+  automatically be displayed in each of her courses in which this block is displayed.
+  A version history of each teacher's Welcome Area content is maintained.

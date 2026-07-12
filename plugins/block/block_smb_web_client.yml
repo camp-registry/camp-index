@@ -1,0 +1,10 @@
+component: block_smb_web_client
+source: https://github.com/gthomas2/moodle-block_smb_web_client
+maintainers:
+- github: gthomas2
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows windows network shares to be accessed via moodle

@@ -1,0 +1,10 @@
+component: block_repo_filemanager
+source: https://github.com/tim1mw/repo_filemanager-moodle-block
+maintainers:
+- github: tim1mw
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Repository file manager block

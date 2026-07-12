@@ -1,0 +1,9 @@
+component: mod_videoredirect
+source: https://github.com/soportecreamostic/moodle-mod_videoredirect
+maintainers:
+- github: soportecreamostic
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

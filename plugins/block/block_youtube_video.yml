@@ -1,0 +1,10 @@
+component: block_youtube_video
+source: https://github.com/ctchanandy/moodle-block_youtube_video
+maintainers:
+- github: ctchanandy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: YouTube Video Playlist block for Moodle 2.X

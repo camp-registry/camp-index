@@ -1,0 +1,9 @@
+component: mod_navigationmap
+source: https://github.com/dpohl-web/mod_navigationmap_moodle_plugin
+maintainers:
+- github: dpohl-web
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

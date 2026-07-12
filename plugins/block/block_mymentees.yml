@@ -1,0 +1,10 @@
+component: block_mymentees
+source: https://github.com/nrobbins/moodle-block_mymentees
+maintainers:
+- github: nrobbins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A full-featured replacement for the core mentees block

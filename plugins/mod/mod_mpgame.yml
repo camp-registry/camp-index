@@ -1,0 +1,9 @@
+component: mod_mpgame
+source: https://github.com/bdaloukas/moodle-mod_mpgame
+maintainers:
+- github: bdaloukas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

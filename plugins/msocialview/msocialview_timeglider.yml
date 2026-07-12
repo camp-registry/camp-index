@@ -1,0 +1,9 @@
+component: msocialview_timeglider
+source: https://github.com/juacas/moodle-mod_msocialview_timeglider
+maintainers:
+- github: juacas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

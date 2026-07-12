@@ -1,0 +1,10 @@
+component: block_ecampus_tbird
+source: https://github.com/johanreinalda/moodle-block_ecampus_tbird
+maintainers:
+- github: johanreinalda
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block to provide single-sing-on into the eCampus virtual bookstore

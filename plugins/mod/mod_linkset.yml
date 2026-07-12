@@ -1,0 +1,10 @@
+component: mod_linkset
+source: https://github.com/t6nis/moodle-mod_linkset
+maintainers:
+- github: t6nis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Create and manage link collections as resource based module in Moodle.

@@ -1,0 +1,12 @@
+component: block_login_userinfo
+source: https://github.com/EizEddin/moodle-block_login_userinfo
+maintainers:
+- github: EizEddin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block which provides all functionality of block_login and displays
+  additional information (username, avatar, logout button) as soon as the user is
+  logged in

@@ -1,0 +1,11 @@
+component: mod_assessment
+source: https://github.com/ctchanandy/moodle-mod_assessment
+maintainers:
+- github: ctchanandy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Assessment module for Moodle 2.X, it support teacher, self and peer assessment
+  using rubric as grading method.

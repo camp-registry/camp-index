@@ -1,0 +1,10 @@
+component: block_dynamic_time
+source: https://github.com/x-name15/dynamic_time_moodle_block
+maintainers:
+- github: x-name15
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: A block for Moodle that displays the current time

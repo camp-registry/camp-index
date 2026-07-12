@@ -1,0 +1,9 @@
+component: block_myoverview_up
+source: https://github.com/sleitao/moodle_block-myoverview_up
+maintainers:
+- github: sleitao
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
