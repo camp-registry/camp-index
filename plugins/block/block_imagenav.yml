@@ -1,0 +1,13 @@
+component: block_imagenav
+source: https://github.com/b82a9a13/Image-Navigation_moodle-block
+maintainers:
+- github: b82a9a13
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: (Deprecated, new repository is customnav) This is a plugin to be used to
+  create a block with images that are linked to a URL, for easy navigation. (Deletion
+  of image and link to be added, Settings link to be added to site administration
+  navigation)

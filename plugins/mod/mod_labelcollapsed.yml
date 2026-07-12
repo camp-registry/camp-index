@@ -1,0 +1,10 @@
+component: mod_labelcollapsed
+source: https://github.com/dsv-su/moodle-mod_labelcollapsed
+maintainers:
+- github: dsv-su
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Resource plugin for Moodle 2.0. Should not be used on 2.3+.

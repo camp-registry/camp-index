@@ -1,0 +1,11 @@
+component: block_course_navigation
+source: https://github.com/itamart/moodle-block_course_navigation
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that can display the section of the course branch of the global navigation
+  in a hierarchical structure.

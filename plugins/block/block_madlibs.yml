@@ -1,0 +1,11 @@
+component: block_madlibs
+source: https://github.com/dannyjung90/moodle-block_madlibs
+maintainers:
+- github: dannyjung90
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'Mad Libs block (block_madlibs): Moodle plugin that allows users to add a
+  block to their dashboard that will display a random user-submitted Mad Lib.'

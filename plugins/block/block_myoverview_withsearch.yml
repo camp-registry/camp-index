@@ -1,0 +1,11 @@
+component: block_myoverview_withsearch
+source: https://github.com/k-rokicki/moodle-blocks_myoverview_withsearch
+maintainers:
+- github: k-rokicki
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple modification of the "My overview" block in Moodle, allowing you
+  to filter courses by name

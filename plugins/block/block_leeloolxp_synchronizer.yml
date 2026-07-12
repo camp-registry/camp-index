@@ -1,0 +1,10 @@
+component: block_leeloolxp_synchronizer
+source: https://github.com/anayleeloolxp/moodle-block_leeloolxp_synchronizer
+maintainers:
+- github: anayleeloolxp
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Leeloo LXP Synchronizer Block

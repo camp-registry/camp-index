@@ -1,0 +1,11 @@
+component: block_completion_by_section
+source: https://github.com/andreyamin/moodle-block_completion_by_section_block
+maintainers:
+- github: andreyamin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a plugin for Moodle that shows the completion state of every section
+  of a course

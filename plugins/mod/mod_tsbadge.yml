@@ -1,0 +1,9 @@
+component: mod_tsbadge
+source: https://github.com/ild-thl/moodle-mod_tsbadge
+maintainers:
+- github: ild-thl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: mod_cardbox
+source: https://github.com/rwthmoodle/moodle-mod_cardbox
+maintainers:
+- github: rwthmoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The Card Box activity can help your students memorize vocabulary, technical
+  terms, formulas and definitions.

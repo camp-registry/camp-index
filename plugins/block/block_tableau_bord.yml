@@ -1,0 +1,9 @@
+component: block_tableau_bord
+source: https://github.com/Le-Mans-Universite/moodle-block_tableau_bord
+maintainers:
+- github: Le-Mans-Universite
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: block_simplesms
+source: https://github.com/rjnl/moodle-block_simplesms
+maintainers:
+- github: rjnl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block for sending SMS to course participants.

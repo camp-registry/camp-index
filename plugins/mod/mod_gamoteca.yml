@@ -1,0 +1,9 @@
+component: mod_gamoteca
+source: https://github.com/jacdsouza/moodle-mod_gamoteca
+maintainers:
+- github: jacdsouza
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

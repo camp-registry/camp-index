@@ -1,0 +1,10 @@
+component: block_mnetsync_hosts
+source: https://github.com/dasistwas/moodle-block_mnetsync_hosts
+maintainers:
+- github: dasistwas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block for use with the authentication plugin moodle-auth_mnetsync

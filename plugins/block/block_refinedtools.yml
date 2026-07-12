@@ -1,0 +1,9 @@
+component: block_refinedtools
+source: https://github.com/refineddata/moodle-block_refinedtools
+maintainers:
+- github: refineddata
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

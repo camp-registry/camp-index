@@ -1,0 +1,10 @@
+component: block_odsoaipmh
+source: https://github.com/vlatka-sinisa/moodle-block_odsoaipmh
+maintainers:
+- github: vlatka-sinisa
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle Blocks ODS OAI-PMH plugin

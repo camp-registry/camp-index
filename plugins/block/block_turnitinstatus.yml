@@ -1,0 +1,10 @@
+component: block_turnitinstatus
+source: https://github.com/uofr/moodle-block_turnitinstatus
+maintainers:
+- github: uofr
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block that contains a twitter widget feed from turnitinstatus

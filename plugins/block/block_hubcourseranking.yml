@@ -1,0 +1,10 @@
+component: block_hubcourseranking
+source: https://github.com/ponlawat-w/moodle-block_hubcourseranking
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Hubcourse Plugins for Ranking Hubcourses

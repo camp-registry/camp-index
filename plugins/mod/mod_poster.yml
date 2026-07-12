@@ -1,0 +1,10 @@
+component: mod_poster
+source: https://github.com/bdecentgmbh/moodle-mod_poster
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Poster activity module for Moodle

@@ -1,0 +1,9 @@
+component: block_eportfolio
+source: https://github.com/weqon/moodle-block_eportfolio
+maintainers:
+- github: weqon
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

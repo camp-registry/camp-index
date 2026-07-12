@@ -1,0 +1,11 @@
+component: block_hubcourselist
+source: https://github.com/ponlawat-w/moodle-block_hubcourselist
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block that summarizes and displays course list in a Moodle site
+  and to manipulate users’ interaction of filtering and searching for courses in site.

@@ -1,0 +1,10 @@
+component: block_verify_certificate
+source: https://github.com/manieer/moodle-block_verify_certificate
+maintainers:
+- github: manieer
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: moodle-block_verify_certificate

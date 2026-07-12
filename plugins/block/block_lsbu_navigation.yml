@@ -1,0 +1,9 @@
+component: block_lsbu_navigation
+source: https://github.com/aferenz/moodle_block_lsbu_navigation
+maintainers:
+- github: aferenz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

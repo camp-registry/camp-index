@@ -1,0 +1,10 @@
+component: mod_msocial
+source: https://github.com/juacas/moodle-mod_msocial
+maintainers:
+- github: juacas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to integrate social networks activity in the classroom.

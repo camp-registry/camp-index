@@ -1,0 +1,10 @@
+component: enrol_maxpay
+source: https://github.com/iignat/MoodleMaxpayKZEnrolModule
+maintainers:
+- github: iignat
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Integration Moodle LMS with maxpay.kz

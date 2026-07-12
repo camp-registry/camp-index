@@ -1,0 +1,10 @@
+component: block_smarthinking
+source: https://github.com/alex-rowe/moodle-block_smarthinking
+maintainers:
+- github: alex-rowe
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block for SSO to Smarthinking

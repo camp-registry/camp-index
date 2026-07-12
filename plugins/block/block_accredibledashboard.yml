@@ -1,0 +1,11 @@
+component: block_accredibledashboard
+source: https://github.com/saylordotorg/moodle-block_accredibledashboard
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A small Moodle block that allows users to easily see the Accredible certificates
+  they've earned and a link to their certificate wallet, right on their dashboard.

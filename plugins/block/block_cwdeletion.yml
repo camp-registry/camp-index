@@ -1,0 +1,11 @@
+component: block_cwdeletion
+source: https://github.com/hugoacfs/moodle-block_cwdeletion
+maintainers:
+- github: hugoacfs
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block that works with tool_coursewrangler to notify certain users
+  of course status.

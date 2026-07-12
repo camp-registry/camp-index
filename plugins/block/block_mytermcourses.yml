@@ -1,0 +1,9 @@
+component: block_mytermcourses
+source: https://github.com/LGuilletCergy/moodle-block_mytermcourses
+maintainers:
+- github: LGuilletCergy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: mod_bizexaminer
+source: https://github.com/bizDevelop/moodle-mod_bizexaminer
+maintainers:
+- github: bizDevelop
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: bizExaminer Moodle Plugin

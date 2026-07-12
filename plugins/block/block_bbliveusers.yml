@@ -1,0 +1,13 @@
+component: block_bbliveusers
+source: https://github.com/RicardoGuerra/moodle-block_bbliveusers
+maintainers:
+- github: RicardoGuerra
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: BlackBean LiveUsers (https://github.com/blackbean/moodle-block_bbliveusers)
+  is a block plugin for the Moodle LMS Platform (https://www.moodle.org) that monitors
+  the exact number of online users per course in realtime, even if they spend hours
+  watching a single video, for example, without ever refres

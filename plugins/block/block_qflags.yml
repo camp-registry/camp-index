@@ -1,0 +1,11 @@
+component: block_qflags
+source: https://github.com/timhunt/moodle-block_qflags
+maintainers:
+- github: timhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Example Moodle block that shows the questions in a course that have been
+  flagged.

@@ -1,0 +1,11 @@
+component: block_moossenger
+source: https://github.com/itamart/moodle-block_moossenger
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block that enhances the messages block and can be set to show recent
+  notification and conversations.

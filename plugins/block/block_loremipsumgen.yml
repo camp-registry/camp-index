@@ -1,0 +1,9 @@
+component: block_loremipsumgen
+source: https://github.com/cgreenwood/moodle-block_loremipsumgen
+maintainers:
+- github: cgreenwood
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

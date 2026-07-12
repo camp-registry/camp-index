@@ -1,0 +1,11 @@
+component: mod_resourceduedate
+source: https://github.com/TestValleySchool/moodle-mod-resource-duedate
+maintainers:
+- github: TestValleySchool
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'RETIRED: A clone of Moodle''s mod_resource (''File''), but with an additional
+  feature to set a deadline.'

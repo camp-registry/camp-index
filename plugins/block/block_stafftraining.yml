@@ -1,0 +1,11 @@
+component: block_stafftraining
+source: https://github.com/berrandonea/moodle-block_stafftraining
+maintainers:
+- github: berrandonea
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Manages creation of staff trainings, enrolments to these trainings, feedback
+  et certification

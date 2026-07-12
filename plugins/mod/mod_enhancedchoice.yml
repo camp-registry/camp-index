@@ -1,0 +1,11 @@
+component: mod_enhancedchoice
+source: https://github.com/iandavidwild/moodle-mod_enhancedchoice
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle activity based on the 'choice' activity that allows you to specify
+  'rich' choices (i.e. images, video, etc).

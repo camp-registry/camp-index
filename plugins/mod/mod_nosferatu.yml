@@ -1,0 +1,10 @@
+component: mod_nosferatu
+source: https://github.com/ferranrecio/moodle-mod_nosferatu
+maintainers:
+- github: ferranrecio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Example of a reactive components UI in Moodle

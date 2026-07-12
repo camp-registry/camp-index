@@ -1,0 +1,9 @@
+component: mod_citizencam
+source: https://github.com/citizencam/moodle-mod_citizencam
+maintainers:
+- github: citizencam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

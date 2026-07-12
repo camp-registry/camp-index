@@ -1,0 +1,10 @@
+component: mod_googlecollab
+source: https://github.com/JISC-DOULS/moodle-mod_googlecollab
+maintainers:
+- github: JISC-DOULS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Collaborative activity using Google Documents for Moodle 2

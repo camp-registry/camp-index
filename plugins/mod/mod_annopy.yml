@@ -1,0 +1,11 @@
+component: mod_annopy
+source: https://github.com/coactum/moodle-mod_annopy
+maintainers:
+- github: coactum
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle plugin where teachers can upload a wide variety of multimedia texts
+  which participants can then annotate.

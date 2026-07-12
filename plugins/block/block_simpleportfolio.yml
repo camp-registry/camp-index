@@ -1,0 +1,11 @@
+component: block_simpleportfolio
+source: https://github.com/davidherzlos/moodle-block_simpleportfolio
+maintainers:
+- github: davidherzlos
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A moodle block where the students can access, share and export artefacts
+  of learning with an structure given by a course manager.

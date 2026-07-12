@@ -1,0 +1,10 @@
+component: block_courses_status
+source: https://github.com/davidherney/moodle-block_courses_status
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block to display courses by different enrolment and completion status

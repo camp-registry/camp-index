@@ -1,0 +1,10 @@
+component: mod_timetableevents
+source: https://github.com/catalyst/moodle-mod_timetableevents
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to display events in course sections

@@ -1,0 +1,9 @@
+component: block_profile_field_identifier
+source: https://github.com/3ilogiclms/moodle-block_profile_field_identifier
+maintainers:
+- github: 3ilogiclms
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

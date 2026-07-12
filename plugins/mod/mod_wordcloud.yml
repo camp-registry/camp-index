@@ -1,0 +1,12 @@
+component: mod_wordcloud
+source: https://github.com/elearning-univie/moodle-mod_wordcloud
+maintainers:
+- github: elearning-univie
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: With the wordcloud activity, it is possible to collect terms together with
+  your course participants in a brainstorming process and to display them graphically
+  in order of frequency.

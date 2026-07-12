@@ -1,0 +1,11 @@
+component: block_simplenotes
+source: https://github.com/vaughany/moodle-block_simplenotes
+maintainers:
+- github: vaughany
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A quick and easy way to add prioritised notes (in the style of a to-do list)
+  to any Moodle course.

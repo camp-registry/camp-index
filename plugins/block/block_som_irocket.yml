@@ -1,0 +1,11 @@
+component: block_som_irocket
+source: https://github.com/ucsf-education/moodle-block-som_irocket
+maintainers:
+- github: ucsf-education
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The iROCKET Helpdesk block is a Moodle block that provides iROCKET helpdesk
+  contact information, and a link to the TOS.

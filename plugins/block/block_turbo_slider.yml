@@ -1,0 +1,10 @@
+component: block_turbo_slider
+source: https://github.com/maniatdim/moodle-block-turbo-slider
+maintainers:
+- github: maniatdim
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A sample description in here

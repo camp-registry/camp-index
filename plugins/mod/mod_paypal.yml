@@ -1,0 +1,11 @@
+component: mod_paypal
+source: https://github.com/danielneis/moodle-mod_paypal
+maintainers:
+- github: danielneis
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'This is an activity plugin for Moodle that is marked as completed when user
+  makes a payment via PayPal . You may prefer the availability condition at: https://github.com/danielneis/moodle-availability_paypal'

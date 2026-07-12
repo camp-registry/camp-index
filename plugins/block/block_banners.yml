@@ -1,0 +1,11 @@
+component: block_banners
+source: https://github.com/drcheckers/moodle-block_banners
+maintainers:
+- github: drcheckers
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple moodle block to allow community upload and revolving display of banners
+  in a moodle block

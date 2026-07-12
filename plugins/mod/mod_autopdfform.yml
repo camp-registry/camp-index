@@ -1,0 +1,10 @@
+component: mod_autopdfform
+source: https://github.com/TangatBaktybergen/moodle-mod_autopdfform
+maintainers:
+- github: TangatBaktybergen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle plug-in for autofilled pdf file

@@ -1,0 +1,10 @@
+component: datafield_poodll
+source: https://github.com/justinhunt/moodle-mod_data_field_poodll
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The PoodLL field for the Moodle Database Activity

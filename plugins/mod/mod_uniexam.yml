@@ -1,0 +1,9 @@
+component: mod_uniexam
+source: https://github.com/samuelcalegari/moodle-mod_uniexam
+maintainers:
+- github: samuelcalegari
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

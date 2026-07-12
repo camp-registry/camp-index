@@ -1,0 +1,9 @@
+component: mod_contentscheduler
+source: https://github.com/marcusgreen/moodle-mod_contentscheduler
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

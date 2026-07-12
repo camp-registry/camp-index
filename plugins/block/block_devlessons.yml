@@ -1,0 +1,9 @@
+component: block_devlessons
+source: https://github.com/jojoob/moodle-block_devlessons
+maintainers:
+- github: jojoob
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

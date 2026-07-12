@@ -1,0 +1,11 @@
+component: block_mamiline
+source: https://github.com/VERSION2-Inc/moodle-block_mamiline
+maintainers:
+- github: VERSION2-Inc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: mamiline is moved to https://github.com/pacsolution/moodle-block_mamiline/
+  This repository is no longer supported.

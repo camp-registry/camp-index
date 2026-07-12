@@ -1,0 +1,9 @@
+component: block_licenses_vicensvives
+source: https://github.com/vicensvives/moodle-block_licenses_vicensvives
+maintainers:
+- github: vicensvives
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

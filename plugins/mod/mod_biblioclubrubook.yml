@@ -1,0 +1,10 @@
+component: mod_biblioclubrubook
+source: https://github.com/sshaitan/moodle-mod_biblioclubrubook
+maintainers:
+- github: sshaitan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Книга из ЭБС Biblioclub

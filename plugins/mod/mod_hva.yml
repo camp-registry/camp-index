@@ -1,0 +1,13 @@
+component: mod_hva
+source: https://github.com/cbluesprl/moodle-mod_hva
+maintainers:
+- github: cbluesprl
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Designed and developed in partnership between Cblue and Hyperfiction, this
+  plug-in allows you to connect any thick client application running on any type of
+  device (PC, smartphone, virtual reality headset, etc.) to the Moodle platform via
+  Web Services.

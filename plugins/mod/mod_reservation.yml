@@ -1,0 +1,10 @@
+component: mod_reservation
+source: https://github.com/bobopinna/moodle-mod_reservation
+maintainers:
+- github: bobopinna
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Reservation activity module

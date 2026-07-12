@@ -1,0 +1,10 @@
+component: block_remote_courses
+source: https://github.com/LafColITS/moodle-block_remote_courses
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block prints a list of courses from another Moodle instance.

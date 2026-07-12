@@ -1,0 +1,9 @@
+component: mod_externalvideo
+source: https://github.com/gautamdas130780/moodle_mod_externalvideo
+maintainers:
+- github: gautamdas130780
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

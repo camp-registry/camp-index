@@ -1,0 +1,9 @@
+component: block_courseslist
+source: https://github.com/Shofiul735/moodle-block_courseslist
+maintainers:
+- github: Shofiul735
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

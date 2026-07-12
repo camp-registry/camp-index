@@ -1,0 +1,13 @@
+component: assignsubmission_filetypes
+source: https://github.com/UGA-DAPI/moodle_mod_assign_filetypes
+maintainers:
+- github: UGA-DAPI
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: When creating an assignment, teachers should have the option to restrict
+  the types of files students may submit. When a student edits their submission, the
+  filepicker should not allow files to be uploaded that do not match the specified
+  filetypes.

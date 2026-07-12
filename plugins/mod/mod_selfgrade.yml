@@ -1,0 +1,10 @@
+component: mod_selfgrade
+source: https://github.com/Snickser/moodle-mod_selfgrade
+maintainers:
+- github: Snickser
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Selfgrade course module

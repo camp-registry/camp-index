@@ -1,0 +1,11 @@
+component: mod_advmindmap
+source: https://github.com/ctchanandy/moodle-mod_advmindmap
+maintainers:
+- github: ctchanandy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Mindmap plugin for Moodle 2.X with additional features, original module developed
+  by ekpenso.com

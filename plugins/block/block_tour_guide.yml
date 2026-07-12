@@ -1,0 +1,9 @@
+component: block_tour_guide
+source: https://github.com/learningworks/moodle-block_tour_guide
+maintainers:
+- github: learningworks
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

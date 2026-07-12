@@ -1,0 +1,10 @@
+component: block_learnium_feed
+source: https://github.com/learnium/moodle-block_learnium_feed
+maintainers:
+- github: learnium
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Learnium Feed Moodle block

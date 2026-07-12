@@ -1,0 +1,11 @@
+component: block_persocollab
+source: https://github.com/berrandonea/moodle-block_persocollab
+maintainers:
+- github: berrandonea
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Teachers can create collaborative spaces to work with other teachers. Each
+  student can create one (and just one) personnal space.

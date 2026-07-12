@@ -1,0 +1,9 @@
+component: block_newactivity
+source: https://github.com/mputzi/moodle-block_newactivity
+maintainers:
+- github: mputzi
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

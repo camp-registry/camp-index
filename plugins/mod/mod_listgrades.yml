@@ -1,0 +1,9 @@
+component: mod_listgrades
+source: https://github.com/juacas/moodle-mod_listgrades
+maintainers:
+- github: juacas
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

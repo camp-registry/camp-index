@@ -1,0 +1,10 @@
+component: mod_chimpaigo
+source: https://github.com/unbitsoftware/moodle-mod_chimpaigo
+maintainers:
+- github: unbitsoftware
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle activity plugin that connects to the chimpAIgo! platform via LTI 1.3.

@@ -1,0 +1,9 @@
+component: block_applications_list
+source: https://github.com/bensampaio/moodle-block_applications_list
+maintainers:
+- github: bensampaio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

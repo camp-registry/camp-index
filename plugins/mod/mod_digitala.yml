@@ -1,0 +1,13 @@
+component: mod_digitala
+source: https://github.com/aalto-speech/moodle-mod_digitala
+maintainers:
+- github: aalto-speech
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'DigiTala is a Moodle plugin for assessing L2 Finnish and Swedish speech
+  automatically. Cite as: "von Zansen, A., Alanen, T., Al-Ghezi, R., Erkkilä, J.,
+  Harjunpää, T., Heijala, M., Kallio, H. (2022). DigiTala Moodle plugin. https://github.com/aalto-speech/moodle-mod_digitala
+  "'

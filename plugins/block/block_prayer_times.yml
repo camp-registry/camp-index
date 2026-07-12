@@ -1,0 +1,10 @@
+component: block_prayer_times
+source: https://github.com/OBU-ITS/moodle-block_prayer_times
+maintainers:
+- github: OBU-ITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Muslim prayer times

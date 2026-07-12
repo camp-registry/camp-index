@@ -1,0 +1,10 @@
+component: block_homework_diary
+source: https://github.com/antriver/moodle-block_homework_diary
+maintainers:
+- github: antriver
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Homework diary for Moodle.

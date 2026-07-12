@@ -1,0 +1,10 @@
+component: block_sayloroverview
+source: https://github.com/saylordotorg/moodle-block_sayloroverview
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block to help Saylor Academy students have a nice dashboard.

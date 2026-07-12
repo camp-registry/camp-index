@@ -1,0 +1,9 @@
+component: block_course_contacts
+source: https://github.com/roelmann/moodle-block_course_contacts
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

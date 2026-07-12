@@ -1,0 +1,11 @@
+component: mod_aspirelist
+source: https://github.com/tonyjbutler/moodle-mod_aspirelist
+maintainers:
+- github: tonyjbutler
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle module to enable teachers to embed selected resource items from
+  associated Talis Aspire lists directly into their course content.

@@ -1,0 +1,10 @@
+component: block_creqmanager
+source: https://github.com/ece-kalasalingam/moodle-block_creqmanager
+maintainers:
+- github: ece-kalasalingam
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Block Course Request Manager based on existing Block_Cmanager

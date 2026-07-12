@@ -1,0 +1,10 @@
+component: block_zoom
+source: https://github.com/navitaslts/moodle-block_zoom
+maintainers:
+- github: navitaslts
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Zoom Block - List last new available recordings

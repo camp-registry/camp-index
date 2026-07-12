@@ -1,0 +1,11 @@
+component: mod_dataplus
+source: https://github.com/moodleou/moodle-mod_dataplus
+maintainers:
+- github: moodleou
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An alternative database module that stores data for each instance in a standalone
+  SQLite3 database.

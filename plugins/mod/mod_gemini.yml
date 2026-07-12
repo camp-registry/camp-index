@@ -1,0 +1,9 @@
+component: mod_gemini
+source: https://github.com/hyukudan/moodle-mod-gemini
+maintainers:
+- github: hyukudan
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT

@@ -1,0 +1,12 @@
+component: mod_braincert
+source: https://github.com/braincert/moodle-mod_braincert
+maintainers:
+- github: braincert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: BrainCert's next-generation HTML5 Virtual Classroom is designed to deliver
+  live classes, meetings, webinars, and collaborative group conferences to audience
+  anywhere right from your Moodle site!

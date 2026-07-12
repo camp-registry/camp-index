@@ -1,0 +1,10 @@
+component: block_kent_course_overview
+source: https://github.com/unikent/moodle-block_kent_course_overview
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Kent Course Overview Block

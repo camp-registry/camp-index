@@ -1,0 +1,10 @@
+component: block_greatcourses
+source: https://github.com/cocreatic/moodle-block_greatcourses
+maintainers:
+- github: cocreatic
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block to display a list of courses and their general information.

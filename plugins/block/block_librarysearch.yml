@@ -1,0 +1,10 @@
+component: block_librarysearch
+source: https://github.com/unikent/moodle-block_librarysearch
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: Apache-2.0
+summary: Library Search Block

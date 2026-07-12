@@ -1,0 +1,13 @@
+component: mod_videoconnect
+source: https://github.com/3iPunt/moodle-mod_videoconnect
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This module allows users to upload a video as a resource, which is then automatically
+  uploaded to their Vimeo account through a scheduled task. If you already know the
+  video ID, you can enter it directly. When rendering the video, if the upload process
+  is still ongoing, Vimeo displays a message indi

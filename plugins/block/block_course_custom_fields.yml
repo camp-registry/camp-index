@@ -1,0 +1,9 @@
+component: block_course_custom_fields
+source: https://github.com/acdh-oeaw/moodle-block-course-custom-fields
+maintainers:
+- github: acdh-oeaw
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0

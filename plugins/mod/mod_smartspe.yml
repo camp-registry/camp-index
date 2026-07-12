@@ -1,0 +1,10 @@
+component: mod_smartspe
+source: https://github.com/hellojeremyonly/moodle-mod_smartspe
+maintainers:
+- github: hellojeremyonly
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle activity module SmartSPE

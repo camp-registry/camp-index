@@ -1,0 +1,10 @@
+component: mod_autoattendmod
+source: https://github.com/moodle-fumihax/mod_autoattendmod
+maintainers:
+- github: moodle-fumihax
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Additional module to autoattend block.

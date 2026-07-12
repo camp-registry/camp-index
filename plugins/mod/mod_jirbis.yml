@@ -1,0 +1,9 @@
+component: mod_jirbis
+source: https://github.com/yurinskiy/moodle-mod_jirbis
+maintainers:
+- github: yurinskiy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,13 @@
+component: block_semester_sortierung
+source: https://github.com/academic-moodle-cooperation/moodle-blocks_semester_sortierung
+maintainers:
+- github: academic-moodle-cooperation
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 'WARNING: This plugin is deprecated.           The last maintained version
+  of the Plugin will be for Moodle 3.9. After 3.9 we won''t maintain the plugin any
+  further. The reason behind that is that now you can achieve similar functionality
+  using the core Course Overview Block and its new filtering capa'

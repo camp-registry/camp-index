@@ -1,0 +1,10 @@
+component: block_mnet_hosts
+source: https://github.com/moodlehq/moodle-block_mnet_hosts
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Network servers plugin for Moodle

@@ -1,0 +1,11 @@
+component: mod_pdfparts
+source: https://github.com/vundicind/moodle-mod_pdfparts
+maintainers:
+- github: vundicind
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The PDF Parts module enables a teacher to provide a set of freely selected
+  pages from a PDF file as a course resource.

@@ -1,0 +1,11 @@
+component: mod_simplelesson
+source: https://github.com/richardjonesnz/moodle_mod_simplelesson
+maintainers:
+- github: richardjonesnz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A simple implementation of a lesson type module with questions from the question
+  bank.

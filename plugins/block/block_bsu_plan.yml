@@ -1,0 +1,10 @@
+component: block_bsu_plan
+source: https://github.com/uopbsu/moodle_block_bsu_plan
+maintainers:
+- github: uopbsu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is block for LMS Moodle.

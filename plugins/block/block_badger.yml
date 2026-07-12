@@ -1,0 +1,11 @@
+component: block_badger
+source: https://github.com/drcheckers/moodle-block_badger
+maintainers:
+- github: drcheckers
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block to allow recognition of achievement through badges. Promotes
+  student engagement/motivation through reward of Open Badges - http://openbadges.org/en-US/

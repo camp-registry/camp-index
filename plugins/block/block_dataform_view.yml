@@ -1,0 +1,10 @@
+component: block_dataform_view
+source: https://github.com/itamart/moodle-block_dataform_view
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block allows for displaying a dataform view in a block.

@@ -1,0 +1,10 @@
+component: block_scratch_pad
+source: https://github.com/razzul/moodle_block_scratch_pad
+maintainers:
+- github: razzul
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Block for quiz rough work

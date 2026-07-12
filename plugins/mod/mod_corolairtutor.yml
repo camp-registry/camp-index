@@ -1,0 +1,9 @@
+component: mod_corolairtutor
+source: https://github.com/corolair/moodle-mod_corolairtutor
+maintainers:
+- github: corolair
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

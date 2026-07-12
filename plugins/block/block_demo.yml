@@ -1,0 +1,10 @@
+component: block_demo
+source: https://github.com/Behaviour-Analytics/moodle-block_demo
+maintainers:
+- github: Behaviour-Analytics
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A demonstration block for the Moodle LMS.

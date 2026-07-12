@@ -1,0 +1,10 @@
+component: mod_downloadsubmissions
+source: https://github.com/jfdoyle/moodle-mod_downloadsubmissions
+maintainers:
+- github: jfdoyle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Download all Moodle submissions for a specific learner

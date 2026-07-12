@@ -1,0 +1,10 @@
+component: block_attestoodle
+source: https://github.com/grp-attestoodle/moodle-block_attestoodle
+maintainers:
+- github: grp-attestoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: views of training at course level

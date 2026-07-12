@@ -1,0 +1,10 @@
+component: assignfeedback_noto
+source: https://github.com/epfl-cede/moodle-mod-assign-feedback-noto
+maintainers:
+- github: epfl-cede
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle module (assign/feedback) - JupyterHub

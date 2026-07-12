@@ -1,0 +1,11 @@
+component: block_zoom_scheduler
+source: https://github.com/nstefanski/moodle-block_zoom_scheduler
+maintainers:
+- github: nstefanski
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Allows users to create or update Zoom Meeting activities at a specified time
+  for every week of a course

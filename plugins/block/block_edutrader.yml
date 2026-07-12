@@ -1,0 +1,12 @@
+component: block_edutrader
+source: https://github.com/rschrenk/moodle-block_edutrader
+maintainers:
+- github: rschrenk
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This is a gamification-plugin that builds upon the moodle block_levelup-Plugin.
+  EXP from block_levelup are used as currency and can be traded against virtual items
+  for your avatar or small games that can be played or a specified amount of time.

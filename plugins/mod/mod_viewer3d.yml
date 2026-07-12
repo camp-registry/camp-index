@@ -1,0 +1,11 @@
+component: mod_viewer3d
+source: https://github.com/GFrancV/moodle-mod_viewer3d
+maintainers:
+- github: GFrancV
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The 3D Viewer module allows teachers to upload and display 3D models in STL
+  format that students can rotate and zoom.

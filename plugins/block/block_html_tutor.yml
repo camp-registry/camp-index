@@ -1,0 +1,9 @@
+component: block_html_tutor
+source: https://github.com/ltu-solent/moodle-block_html_tutor
+maintainers:
+- github: ltu-solent
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

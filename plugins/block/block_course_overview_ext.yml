@@ -1,0 +1,10 @@
+component: block_course_overview_ext
+source: https://github.com/NicolasKlenert/moodle-block_course_overview_ext
+maintainers:
+- github: NicolasKlenert
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An extension for course_overview in moodle

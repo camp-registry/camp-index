@@ -1,0 +1,9 @@
+component: block_integrityadvocate
+source: https://github.com/mwithheld/moodle-block_integrityadvocate
+maintainers:
+- github: mwithheld
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

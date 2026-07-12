@@ -1,0 +1,10 @@
+component: mod_eoicampus
+source: https://github.com/projectestac/moodle-mod_eoicampus
+maintainers:
+- github: projectestac
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: EOICampus module for Agora Moodle2

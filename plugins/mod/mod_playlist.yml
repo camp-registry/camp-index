@@ -1,0 +1,11 @@
+component: mod_playlist
+source: https://github.com/appalachianstate/moodle-mod_playlist
+maintainers:
+- github: appalachianstate
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: The playlist resource plugin provides a way to save a list of rtmp URLs which
+  can then be referenced by the rtmp filter.

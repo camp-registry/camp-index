@@ -1,0 +1,9 @@
+component: block_socialshare
+source: https://github.com/sekharjaji/moodle-block_socialshare
+maintainers:
+- github: sekharjaji
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

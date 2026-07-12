@@ -1,0 +1,10 @@
+component: block_courses_inactive
+source: https://github.com/elearningstudio/moodle-blocks_courses_inactive
+maintainers:
+- github: elearningstudio
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Lists all inactive courses for the user

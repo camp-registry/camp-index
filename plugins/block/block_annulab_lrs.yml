@@ -1,0 +1,13 @@
+component: block_annulab_lrs
+source: https://github.com/deedey/moodle-block_annulab_lrs
+maintainers:
+- github: deedey
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This block for Moodle gives access to a user’s own historical data sent by
+  the moodle's logstore_xapi and tincanlaunch plugins to the LRS of Annulab in a graphical
+  format and data table. It requires a free subscription at https://lrsdata.com. The
+  LRS enables anyone who is connected to import his/her

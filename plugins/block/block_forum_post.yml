@@ -1,0 +1,10 @@
+component: block_forum_post
+source: https://github.com/HarcourtsAcademy/moodle-block_forum_post
+maintainers:
+- github: HarcourtsAcademy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block for posting new messages to a course forum

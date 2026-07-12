@@ -1,0 +1,10 @@
+component: block_mylastforummessages
+source: https://github.com/DigiDago/moodle-block_mylastforummessages
+maintainers:
+- github: DigiDago
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Display last forum messages

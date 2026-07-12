@@ -1,0 +1,10 @@
+component: block_teacherassistant
+source: https://github.com/halbo5/moodle-block_teacherassistant
+maintainers:
+- github: halbo5
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Adds a block with button to create a course and some usefull help links

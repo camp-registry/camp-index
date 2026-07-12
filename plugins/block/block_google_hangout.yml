@@ -1,0 +1,11 @@
+component: block_google_hangout
+source: https://github.com/nadavkav/moodle-block_google_hangout
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Enable a teacher or a team of students initiate a Google Hangout session
+  with all the users that enrolled to that Moodle course

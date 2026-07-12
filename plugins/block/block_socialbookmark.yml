@@ -1,0 +1,10 @@
+component: block_socialbookmark
+source: https://github.com/Kylegoslin/moodle-block_socialbookmark
+maintainers:
+- github: Kylegoslin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Social Bookmarking Block for Moodle

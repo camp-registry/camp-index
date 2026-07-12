@@ -1,0 +1,10 @@
+component: block_mystats
+source: https://github.com/nrobbins/moodle_block_mystats
+maintainers:
+- github: nrobbins
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A dashboard and stat tracking block for the My Home page in Moodle

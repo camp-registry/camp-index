@@ -1,0 +1,11 @@
+component: block_compile_discussions
+source: https://github.com/daveyboond/moodle-block_compile_discussions
+maintainers:
+- github: daveyboond
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A block to select a forum and then output a compilation of all discussions
+  in that forum

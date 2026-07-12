@@ -1,0 +1,11 @@
+component: block_quickmail
+source: https://github.com/nwp90/moodle-block_quickmail
+maintainers:
+- github: nwp90
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Local fork of lsuits quickmail block for moodle, subsequent to their orphaning
+  it.

@@ -1,0 +1,11 @@
+component: block_openiframe
+source: https://github.com/davosmith/moodle-block_openiframe
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Experimental block to open Moodle activities in an iframe (rather than a
+  new page)

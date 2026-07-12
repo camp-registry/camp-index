@@ -1,0 +1,10 @@
+component: block_counter
+source: https://github.com/davidherney/moodle-block_counter
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Component Block counter to LMS Moodle

@@ -1,0 +1,10 @@
+component: mod_dhbggame
+source: https://github.com/ruta-tic/moodle-mod_dhbggame
+maintainers:
+- github: ruta-tic
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A custom version of a module to connect Moodle with an external application.

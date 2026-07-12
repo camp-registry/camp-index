@@ -1,0 +1,10 @@
+component: block_eventsengine
+source: https://github.com/brentboghosian/moodle-block_eventsengine
+maintainers:
+- github: brentboghosian
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: An events engine block for Moodle

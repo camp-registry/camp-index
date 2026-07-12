@@ -1,0 +1,9 @@
+component: block_covid_notifications
+source: https://github.com/celoxgroup/moodle-block_covid_notifications
+maintainers:
+- github: celoxgroup
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

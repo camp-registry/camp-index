@@ -1,0 +1,9 @@
+component: block_game_achievements
+source: https://github.com/LoysGibertoni/moodle_block_game_achievements
+maintainers:
+- github: LoysGibertoni
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

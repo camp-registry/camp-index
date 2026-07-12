@@ -1,0 +1,10 @@
+component: mod_cardtobrain
+source: https://github.com/webapps-ch/moodle-mod_cardtobrain
+maintainers:
+- github: webapps-ch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: card2brain Moodle Plugin

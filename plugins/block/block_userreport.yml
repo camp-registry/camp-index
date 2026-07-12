@@ -1,0 +1,9 @@
+component: block_userreport
+source: https://github.com/nitinwaves/moodle-block_userreport
+maintainers:
+- github: nitinwaves
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

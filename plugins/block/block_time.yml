@@ -1,0 +1,10 @@
+component: block_time
+source: https://github.com/safatshahin/moodle-block_time
+maintainers:
+- github: safatshahin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Time is a Moodle block to show the time to the user using an analog clock.

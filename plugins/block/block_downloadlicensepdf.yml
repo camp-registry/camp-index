@@ -1,0 +1,10 @@
+component: block_downloadlicensepdf
+source: https://github.com/cli-ish/moodle-block_downloadlicensepdf
+maintainers:
+- github: cli-ish
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Download License PDF

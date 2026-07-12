@@ -1,0 +1,10 @@
+component: block_es6
+source: https://github.com/richardjonesnz/moodle-block_es6
+maintainers:
+- github: richardjonesnz
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A tiny example of writing an es6 module for Moodle.

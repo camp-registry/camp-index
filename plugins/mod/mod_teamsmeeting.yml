@@ -1,0 +1,10 @@
+component: mod_teamsmeeting
+source: https://github.com/moodleulpgc/moodle-mod_teamsmeeting
+maintainers:
+- github: moodleulpgc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Videoconference module with MS-Teams but used in the BBB way

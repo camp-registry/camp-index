@@ -1,0 +1,9 @@
+component: block_training_architecture
+source: https://github.com/Jeremie17/moodle-block_training_architecture
+maintainers:
+- github: Jeremie17
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

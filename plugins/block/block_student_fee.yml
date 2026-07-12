@@ -1,0 +1,10 @@
+component: block_student_fee
+source: https://github.com/wit-ctel/moodle-block_student_fee
+maintainers:
+- github: wit-ctel
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Display tuition fee balance to students

@@ -1,0 +1,11 @@
+component: block_courses_available
+source: https://github.com/iandavidwild/moodle-block_courses_available
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Displays a simple list of available courses, together with their completion
+  status.

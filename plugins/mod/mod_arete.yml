@@ -1,0 +1,11 @@
+component: mod_arete
+source: https://github.com/ARETEedu/moodle-mod_arete
+maintainers:
+- github: ARETEedu
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A repository service for Augmented Reality Learning Experience Models (compliant
+  with IEEE p1589-2020)

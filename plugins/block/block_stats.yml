@@ -1,0 +1,10 @@
+component: block_stats
+source: https://github.com/dylankeys/moodle-block_stats
+maintainers:
+- github: dylankeys
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block that calculates application statistics at a glance

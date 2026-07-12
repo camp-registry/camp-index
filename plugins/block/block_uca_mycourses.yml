@@ -1,0 +1,10 @@
+component: block_uca_mycourses
+source: https://github.com/andurif/moodle-block_uca_mycourses
+maintainers:
+- github: andurif
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: MIT
+summary: Moodle block to display more intuitively courses of the current user.

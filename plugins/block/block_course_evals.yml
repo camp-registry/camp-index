@@ -1,0 +1,10 @@
+component: block_course_evals
+source: https://github.com/appalachianstate/moodle-block_course_evals
+maintainers:
+- github: appalachianstate
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Block for CoursEval integration with Moodle

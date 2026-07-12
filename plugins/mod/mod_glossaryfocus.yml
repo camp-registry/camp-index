@@ -1,0 +1,11 @@
+component: mod_glossaryfocus
+source: https://github.com/Eticeo/moodle-mod_glossaryfocus
+maintainers:
+- github: Eticeo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Activité qui affiche des définitions de glossaire choisis dans un ou plusieurs
+  glossaire parent donnés

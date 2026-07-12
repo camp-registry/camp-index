@@ -1,0 +1,13 @@
+component: block_homework
+source: https://github.com/OvernetData/moodle-block_homework
+maintainers:
+- github: OvernetData
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Homework is a Moodle Block that streamlines the process of managing assignments
+  by simplifying the way teachers set, view and mark their student’s homework. For
+  Overnet Data customers, the Block integrates with all other aspects of your install,
+  meaning data is automatically synced across classes an

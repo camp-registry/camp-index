@@ -1,0 +1,11 @@
+component: mod_nln
+source: https://github.com/tonyjbutler/moodle-mod_nln
+maintainers:
+- github: tonyjbutler
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: NLN Learning Object activity module for Moodle 2.x (also includes 1.9 resource
+  type version)

@@ -1,0 +1,10 @@
+component: block_meet_the_students
+source: https://github.com/actXc/moodle-block_meet_the_students
+maintainers:
+- github: actXc
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Displays a grid of student profile pictures.

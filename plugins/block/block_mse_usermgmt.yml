@@ -1,0 +1,10 @@
+component: block_mse_usermgmt
+source: https://github.com/MichaelRoethlin/moodle-block_mse_usermgmt
+maintainers:
+- github: MichaelRoethlin
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Management functions for MSE Students management by Master Offices

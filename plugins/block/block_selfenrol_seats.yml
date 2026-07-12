@@ -1,0 +1,10 @@
+component: block_selfenrol_seats
+source: https://github.com/jitendragaur/moodle_block_selfenrol_seats
+maintainers:
+- github: jitendragaur
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Shows the total remaining seats in a course

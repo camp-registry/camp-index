@@ -1,0 +1,9 @@
+component: block_closed_loop_support
+source: https://github.com/renehil/moodle-block_closed_loop_support
+maintainers:
+- github: renehil
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,10 @@
+component: block_ilp
+source: https://github.com/OBU-ITS/moodle-block_ilp
+maintainers:
+- github: OBU-ITS
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: OBU version of ILP plugin (with /plugins/tabs/ilp_dashboard_starthere.php)

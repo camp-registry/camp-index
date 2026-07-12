@@ -1,0 +1,11 @@
+component: mod_bitcode
+source: https://github.com/bumoodle/moodle-mod_bitcode
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Simple activity which allows students to exchange binary messages; intended
+  for in class use. Very early WIP.

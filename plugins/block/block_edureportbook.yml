@@ -1,0 +1,11 @@
+component: block_edureportbook
+source: https://github.com/center-for-learning-management/moodle-block_edureportbook
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: This moodle-plugin is an assistant to prepare an existing course as a notebook
+  for communication between parents and teachers.

@@ -1,0 +1,10 @@
+component: mod_mathtournament
+source: https://github.com/rschrenk/moodle-mod_mathtournament
+maintainers:
+- github: rschrenk
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Game Based Learning MOODLE module to train basic arithmetic operations.

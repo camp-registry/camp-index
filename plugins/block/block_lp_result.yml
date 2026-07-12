@@ -1,0 +1,10 @@
+component: block_lp_result
+source: https://github.com/halbo5/moodle-block_lp_result
+maintainers:
+- github: halbo5
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle block to display results for a group in a learning plan

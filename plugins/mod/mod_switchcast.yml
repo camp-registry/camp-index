@@ -1,0 +1,10 @@
+component: mod_switchcast
+source: https://github.com/ndunand/moodle-mod_switchcast
+maintainers:
+- github: ndunand
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: SWITCHcast module for Moodle

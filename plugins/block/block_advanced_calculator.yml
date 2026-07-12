@@ -1,0 +1,10 @@
+component: block_advanced_calculator
+source: https://github.com/tonijoki/moodle-block_advanced_calculator
+maintainers:
+- github: tonijoki
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle block plugin for an advanced calculator

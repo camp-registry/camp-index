@@ -1,0 +1,10 @@
+component: mod_selfgroup
+source: https://github.com/swe-dhbw-ka/moodle-mod_selfgroup
+maintainers:
+- github: swe-dhbw-ka
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Selfgroup activity module for Moodle

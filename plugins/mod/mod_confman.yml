@@ -1,0 +1,10 @@
+component: mod_confman
+source: https://github.com/center-for-learning-management/moodle-mod_confman
+maintainers:
+- github: center-for-learning-management
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Moodle Plugin that helps organizing submissions for events

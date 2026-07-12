@@ -1,0 +1,9 @@
+component: mod_ferds
+source: https://github.com/mpdktest/moodle-mod_ferds
+maintainers:
+- github: mpdktest
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

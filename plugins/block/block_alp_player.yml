@@ -1,0 +1,9 @@
+component: block_alp_player
+source: https://github.com/tristanmurdoch/moodle-block_alp_player
+maintainers:
+- github: tristanmurdoch
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

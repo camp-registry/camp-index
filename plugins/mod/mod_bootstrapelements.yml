@@ -1,0 +1,10 @@
+component: mod_bootstrapelements
+source: https://github.com/sudile/moodle-mod_bootstrapelements
+maintainers:
+- github: sudile
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: forked from https://bitbucket.org/bcu/moodle-mod_bootstrapelements

@@ -1,0 +1,10 @@
+component: mod_jclic
+source: https://github.com/projectestac/moodle-mod_jclic
+maintainers:
+- github: projectestac
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Official repository for JClic (https://clic.xtec.cat) module for Moodle

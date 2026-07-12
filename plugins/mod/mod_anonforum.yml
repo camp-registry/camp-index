@@ -1,0 +1,9 @@
+component: mod_anonforum
+source: https://github.com/ualberta-eclass/moodle-mod_anonforum
+maintainers:
+- github: ualberta-eclass
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

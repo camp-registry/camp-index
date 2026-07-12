@@ -1,0 +1,9 @@
+component: mod_solib
+source: https://github.com/ppeSolib/moodle-mod_solib
+maintainers:
+- github: ppeSolib
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

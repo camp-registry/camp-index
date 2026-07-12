@@ -1,0 +1,11 @@
+component: block_federated_login
+source: https://github.com/kwiliarty/moodle-block_federated_login
+maintainers:
+- github: kwiliarty
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A login block to help users at multiple institutions manage their 'default
+  home'

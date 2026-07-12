@@ -1,0 +1,9 @@
+component: block_aws_chat
+source: https://github.com/angelocalo/moodle-blocks_aws_chat
+maintainers:
+- github: angelocalo
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-2.0

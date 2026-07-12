@@ -1,0 +1,10 @@
+component: block_demands
+source: https://github.com/LGuilletCergy/moodle-block_demands
+maintainers:
+- github: LGuilletCergy
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: Bloc de l'inscription sur demandes

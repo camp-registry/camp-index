@@ -1,0 +1,9 @@
+component: mod_seminarplanner
+source: https://github.com/lernsteine/moodle_mod_seminarplanner
+maintainers:
+- github: lernsteine
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0

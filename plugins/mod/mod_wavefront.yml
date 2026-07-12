@@ -1,0 +1,10 @@
+component: mod_wavefront
+source: https://github.com/iandavidwild/moodle-mod_wavefront
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: A Moodle activity to display 3D models. Supports OBJ and COLLADA format files.

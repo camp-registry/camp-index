@@ -1,0 +1,10 @@
+component: mod_scormfull
+source: https://github.com/stepsgithub/moodle-mod_scormfull
+maintainers:
+- github: stepsgithub
+tier: 0
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+summary: 可以使用SCORM/AICC課程包完成度(課程中所有或單一SCORM/AICC)做為條件，當成是否可以進行課程考試的資格。
