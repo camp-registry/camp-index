@@ -1,0 +1,20 @@
+# Persistent local preview of the CAMP static site + repository tree.
+#
+# Serves camp/dist/ via nginx so the browse website AND the machine-readable
+# repository (packages.json, artifacts, advisories, TUF metadata) stay up
+# across sessions — unlike the ephemeral `python -m http.server` previews,
+# which die whenever the tooling session cycles.
+#
+# This also mirrors production: RFC §4.5 specifies the published repository is
+# a plain static file tree served by any web server, so a mirror runs exactly
+# this shape. Regenerate the served content with `make dist` (see Makefile).
+services:
+  web:
+    image: nginx:alpine
+    container_name: camp-web
+    ports:
+      - "8471:80"
+    volumes:
+      - ./dist:/usr/share/nginx/html:ro
+      - ./docker/site.nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    restart: unless-stopped
