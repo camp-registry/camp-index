@@ -4,20 +4,9 @@ maintainers:
 - name: David Pesce
   github: davidpesce
 security-contact: https://github.com/davidpesce/moodle-mod_tincanlaunch/security/advisories/new
-tier: 2
+tier: 1
 labels:
 - fully-free
 status: active
-releases:
-- version: v1.63
-  tag: v1.63
-  commit: 175a7b94cbddf7a58b843431b15b964904095e00
-  moodle-version: 2023041300
-  supported-moodle:
-  - '3.11'
-  - '4.0'
-  - '4.1'
-  zip-sha256: 733c565629cfebed163f36d9a7d4da621b2c96a6c2559e0c5ecbc2c2249cccd3
-  published: '2026-07-10T22:50:25Z'
-  released: '2023-04-14T20:16:12Z'
+releases: []
 license: GPL-3.0

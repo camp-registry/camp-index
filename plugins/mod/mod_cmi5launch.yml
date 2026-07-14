@@ -4,21 +4,9 @@ maintainers:
 - name: David Pesce
   github: davidpesce
 security-contact: https://github.com/davidpesce/moodle-mod_cmi5launch/security/advisories/new
-tier: 2
+tier: 1
 labels:
 - fully-free
 status: active
-releases:
-- version: 1.1.0
-  tag: v1.1.0
-  commit: d6ec871d1310dc618f2fec4b8f379ecc76f8fb7f
-  moodle-version: 2025070116
-  supported-moodle:
-  - '4.3'
-  - '4.4'
-  - '4.5'
-  zip-sha256: c037b762a67f551d5193a6c172ec069eeee6baabd8cb31f974e1c7fab507a804
-  published: '2026-07-10T22:31:18Z'
-  released: '2025-07-01T20:21:52Z'
-  php-min: 8.0.0
+releases: []
 license: Apache-2.0

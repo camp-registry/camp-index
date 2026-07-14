@@ -4,22 +4,9 @@ maintainers:
 - name: David Pesce
   github: davidpesce
 security-contact: https://github.com/xAPI-vle/moodle-logstore_xapi/security/advisories/new
-tier: 2
+tier: 1
 labels:
 - fully-free
 status: active
-releases:
-- version: 5.0.1
-  tag: v5.0.1
-  commit: 69a61de9ef304a37d1a3885207335cac495b2127
-  moodle-version: 2026022300
-  supported-moodle:
-  - '4.3'
-  - '4.4'
-  - '4.5'
-  - '5.0'
-  - '5.1'
-  zip-sha256: f3a90401bcd9ccc48f10f5729840591bf08f03a599d5625893ad535aef8ffe8e
-  published: '2026-07-10T22:50:26Z'
-  released: '2026-02-23T21:30:07Z'
+releases: []
 license: GPL-3.0
