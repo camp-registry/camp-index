@@ -4,7 +4,7 @@ maintainers:
 - name: David Pesce
   github: davidpesce
 security-contact: https://github.com/xAPI-vle/moodle-logstore_xapi/security/advisories/new
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
