@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-04-08T17:14:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The REIN filter provides content creators with a suite of dynamic content
+  presentation types and interactions that can be placed anywhere where a text editor
+  exists. Interactions are triggerd by simple HTML markup. Examples of these can be
+  found on the REIN filter debug page (<wwwroot>/filter/rein/d

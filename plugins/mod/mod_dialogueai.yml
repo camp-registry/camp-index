@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-10-27T09:34:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 13
+  archived: false
+  checked: '2026-07-11'
+summary: An AI-powered dialogue activity module that enables interactive conversations
+  between students and AI bots using OpenAI's API, with customizable documentation
+  and system prompts.

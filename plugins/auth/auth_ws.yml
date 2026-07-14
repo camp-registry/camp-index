@@ -9,3 +9,10 @@ releases: []
 summary: This plugins allows your Moodle users to be authenticated against an external
   webservice
 license: GPL-3.0
+metrics:
+  updated: '2019-02-28T17:45:28Z'
+  stars: 12
+  forks: 8
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

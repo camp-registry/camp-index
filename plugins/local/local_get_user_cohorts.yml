@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin can be used to retrieve the cohorts of a given user in Moodle
   by providing the USER ID
+metrics:
+  updated: '2025-01-24T07:13:00Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

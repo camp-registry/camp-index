@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: Allow to create quiz accessible by guest in Moodle. Quiz is created from
   a subset of the GIFT question format
+metrics:
+  updated: '2025-03-29T04:13:47Z'
+  stars: 2
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

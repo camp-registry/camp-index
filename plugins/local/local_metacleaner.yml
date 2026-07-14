@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: MetaCleaner is a Moodle plugin that manages and cleans up Meta Link enrollments
   for courses with expired end dates.
+metrics:
+  updated: '2025-03-28T07:34:26Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

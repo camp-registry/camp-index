@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Enable a teacher to share: Activity/Resource, Topic/Module, with a shared
   global course, with a colleague and with her/himself (other courses they teach)'
+metrics:
+  updated: '2020-03-06T09:42:32Z'
+  stars: 0
+  forks: 3
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

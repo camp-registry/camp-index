@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Quick User Search block for Moodle
 license: GPL-3.0
+metrics:
+  updated: '2025-05-02T17:39:41Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

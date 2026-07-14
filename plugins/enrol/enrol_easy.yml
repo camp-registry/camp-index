@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle plugin to enrol students using 6 digit codes or QR Codes.  This
   plugin is integrated and works best with the Fordson Moodle theme.
+metrics:
+  updated: '2021-05-25T15:34:15Z'
+  stars: 6
+  forks: 12
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

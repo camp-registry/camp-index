@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: ':mushroom: Computer adaptive practice activity module for Moodle'
 license: GPL-3.0
+metrics:
+  updated: '2026-07-01T07:47:20Z'
+  stars: 4
+  forks: 5
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'

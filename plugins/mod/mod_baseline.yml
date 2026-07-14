@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 summary: Baseline a mod of mod data for moodle featuring push buttons and sliders
+metrics:
+  updated: '2013-11-27T03:19:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

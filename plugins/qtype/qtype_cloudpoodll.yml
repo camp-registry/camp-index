@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Cloud Poodll Recording Question
+metrics:
+  updated: '2026-05-28T06:26:21Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

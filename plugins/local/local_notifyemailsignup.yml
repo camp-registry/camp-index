@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin to notify site administrators about new Email Signups
 license: GPL-3.0
+metrics:
+  updated: '2023-11-28T15:44:53Z'
+  stars: 11
+  forks: 5
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

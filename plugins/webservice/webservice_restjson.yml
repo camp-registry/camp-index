@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: REST webservice protocol based on the standard core REST webservice, but
   with added support for JSON & XML payloads and supports using HTTP ACCEPTS headers
   for determining response format.
+metrics:
+  updated: '2024-06-10T15:28:31Z'
+  stars: 9
+  forks: 9
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-01-15T11:56:06Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: 'This plugin provides the ability to display posts from Unitu’s Together
+  We Changed (twc) in Moodle. There are two types of posts which can be viewed with
+  this plugin:'

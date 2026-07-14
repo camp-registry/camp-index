@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 'DAVRoot: Moodle Files through WebDAV'
+metrics:
+  updated: '2012-11-06T07:27:46Z'
+  stars: 4
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

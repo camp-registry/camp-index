@@ -11,3 +11,10 @@ summary: The Global Embed is a Moodle plugin that allows administrators to confi
   and display embedded content globally for authorized users. The plugin adds functionality
   to embed dashboards, reports, or any content via iframe/script within the Moodle
   environment.
+metrics:
+  updated: '2025-12-09T13:02:14Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

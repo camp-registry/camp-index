@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle plugin which allows teachers to insert links to Opencast videos into
   a course. The repository displays all videos that belong to the Opencast series
   that are connected to the course.
+metrics:
+  updated: '2026-06-18T13:30:43Z'
+  stars: 8
+  forks: 7
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

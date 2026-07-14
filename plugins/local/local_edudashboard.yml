@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Plugin for Moodle that adds a statistics panel
+metrics:
+  updated: '2025-04-25T13:43:07Z'
+  stars: 1
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

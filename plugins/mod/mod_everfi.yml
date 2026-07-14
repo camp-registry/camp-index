@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: everfi sso module
 license: GPL-3.0
+metrics:
+  updated: '2018-07-25T17:49:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

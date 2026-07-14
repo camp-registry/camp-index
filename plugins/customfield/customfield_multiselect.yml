@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Multiselect custom profile field for Moodle 3.7+
+metrics:
+  updated: '2026-05-05T21:12:53Z'
+  stars: 1
+  forks: 4
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

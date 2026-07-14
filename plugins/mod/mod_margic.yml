@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle plugin that allows participants to create unlimited entries which
   can then be evaluated and annotated by teachers.
+metrics:
+  updated: '2026-06-07T21:00:17Z'
+  stars: 4
+  forks: 4
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

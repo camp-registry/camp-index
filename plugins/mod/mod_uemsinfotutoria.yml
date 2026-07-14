@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle activity module to display course tutoring and pedagogical mediation
   information by polo.
+metrics:
+  updated: '2026-07-09T18:16:50Z'
+  stars: 0
+  forks: 1
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

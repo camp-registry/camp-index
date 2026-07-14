@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle behaviour plug-in for the Stateful question type, you do not need
   this unless you use the matching question type.
+metrics:
+  updated: '2024-11-20T13:41:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

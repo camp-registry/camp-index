@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple Moodle assign feedback plugin, allowing students to check how other
   students handled a given task by presenting their grades on a chart.
+metrics:
+  updated: '2023-11-23T08:28:03Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

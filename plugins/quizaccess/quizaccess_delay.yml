@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin to delay a quiz by a defined period of time before being able
   to access it.
+metrics:
+  updated: '2019-01-08T16:13:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

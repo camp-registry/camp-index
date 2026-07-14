@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A better example of writing an ES6 module although more css-y than anything
   else.
+metrics:
+  updated: '2021-09-27T20:21:49Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

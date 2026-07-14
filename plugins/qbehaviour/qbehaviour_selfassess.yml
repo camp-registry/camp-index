@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A question behaviour for manually graded question types, to let students
   self-assess their own response.
+metrics:
+  updated: '2026-03-09T09:18:54Z'
+  stars: 2
+  forks: 3
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

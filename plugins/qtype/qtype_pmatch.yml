@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Pattern-match question type for Moodle
+metrics:
+  updated: '2025-07-17T12:25:18Z'
+  stars: 13
+  forks: 29
+  open-issues: 23
+  archived: false
+  checked: '2026-07-11'

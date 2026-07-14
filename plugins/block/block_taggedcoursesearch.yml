@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: This block allow users to search courses by tag.
+metrics:
+  updated: '2025-04-16T23:49:03Z'
+  stars: 2
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

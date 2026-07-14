@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: replaced by https://github.com/catalyst/moodle-local_cohortauto
+metrics:
+  updated: '2018-04-23T22:12:37Z'
+  stars: 8
+  forks: 10
+  open-issues: 1
+  archived: true
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle "Group Choice" plugin
+metrics:
+  updated: '2026-06-24T16:00:56Z'
+  stars: 34
+  forks: 69
+  open-issues: 51
+  archived: false
+  checked: '2026-07-11'

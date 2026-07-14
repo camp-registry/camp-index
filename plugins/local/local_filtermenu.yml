@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: FilterMenu for Moodle applies Moodle filters to custom menus in Moodle 3.2
   and later.
+metrics:
+  updated: '2021-12-06T07:56:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

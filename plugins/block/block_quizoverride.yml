@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Easily add quiz overrides to a select set of students for current and future
   quizzes
+metrics:
+  updated: '2019-10-28T20:16:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

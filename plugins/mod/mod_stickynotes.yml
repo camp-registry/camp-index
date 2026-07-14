@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Sticky Notes is a Moodle activity for creating an interactive post-it wall.
   Students can create, move and vote for notes, under supervision of teacher which
   can define colors, lock fucntionnalities...
+metrics:
+  updated: '2026-03-17T06:56:35Z'
+  stars: 4
+  forks: 8
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

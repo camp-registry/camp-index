@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Hardened anti-cheat plugin for Safe Exam Browser + Moodle — server-side attestation,
   launch-token binding, live heartbeat. Reference implementation (GPLv3).
+metrics:
+  updated: '2026-06-09T03:04:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

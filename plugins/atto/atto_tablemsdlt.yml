@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: changes to the Moodle Atto plugin for inserting tables to fit MSDLT style
   guide. Standard table cannot be forked on GitHub
+metrics:
+  updated: '2016-10-31T17:39:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

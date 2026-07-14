@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A block for Moodle to show featured courses on frontpage
+metrics:
+  updated: '2025-12-10T17:21:20.378Z'
+  stars: 2
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: ABANDONED! This repository is no longer updated, see https://moodle.org/plugins/block_intelligent_learning
   for the maintained version.
+metrics:
+  updated: '2024-02-22T14:50:14Z'
+  stars: 2
+  forks: 14
+  open-issues: 1
+  archived: true
+  checked: '2026-07-11'

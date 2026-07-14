@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is the repository for Moodle plugin of type course format. It is created
   to implement game-based design in Moodle courses.
+metrics:
+  updated: '2020-01-23T14:00:28Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

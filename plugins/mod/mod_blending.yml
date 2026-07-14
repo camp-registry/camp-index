@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin with 100+ gently progressive blending and phonics exercises,
   intended for students with severe reading deficits
+metrics:
+  updated: '2025-01-17T16:32:09Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-17T13:31:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A TinyMCE editor plugin for Moodle that uses AI to automatically detect and
+  fix accessibility issues in content, helping ensure WCAG compliance for your course
+  materials.

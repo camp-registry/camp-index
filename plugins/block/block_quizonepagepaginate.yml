@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle block to deliver quiz questions questions one (or more) at a time
   on the same page without navigating to a new page for each question.
+metrics:
+  updated: '2025-09-27T04:59:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ':pray: "Fair allocation" moodle activity'
+metrics:
+  updated: '2026-03-02T11:08:20Z'
+  stars: 22
+  forks: 35
+  open-issues: 43
+  archived: false
+  checked: '2026-07-11'

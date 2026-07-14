@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Plugin Moodle for Myddleware
+metrics:
+  updated: '2025-06-18T18:05:49Z'
+  stars: 10
+  forks: 5
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

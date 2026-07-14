@@ -9,3 +9,10 @@ releases: []
 summary: ':camera: Block that provides a QR code that teachers can show on introductory
   slides'
 license: GPL-3.0
+metrics:
+  updated: '2026-06-29T10:48:33Z'
+  stars: 12
+  forks: 13
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

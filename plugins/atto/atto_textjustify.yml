@@ -7,3 +7,10 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2015-10-22T10:29:35Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

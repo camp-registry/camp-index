@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle Atto plugin which lets the user to apply justified align in text,
   without start code edition
+metrics:
+  updated: '2018-12-21T02:50:36.147Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

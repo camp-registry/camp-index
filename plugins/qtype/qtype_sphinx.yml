@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle question type plugin which records speech from a student and assesses
   their pronunciation
+metrics:
+  updated: '2014-03-25T06:31:24Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

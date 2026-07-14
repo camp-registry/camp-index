@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A way to A/B test config, or slowly turn on config for certain audiences
   or % of traffic
+metrics:
+  updated: '2026-06-01T03:35:57Z'
+  stars: 7
+  forks: 7
+  open-issues: 21
+  archived: false
+  checked: '2026-07-11'

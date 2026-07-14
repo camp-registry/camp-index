@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle filter which creates tabs in textfields
+metrics:
+  updated: '2026-06-02T10:12:42Z'
+  stars: 8
+  forks: 7
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

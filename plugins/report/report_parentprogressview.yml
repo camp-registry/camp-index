@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: A 'report' module for Moodle to allow the viewing of documents and pupil
   data by authorised parent accounts.
+metrics:
+  updated: '2020-03-27T14:55:16Z'
+  stars: 3
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

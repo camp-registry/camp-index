@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-03-15T09:31:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: This plugin allows a user to scan barcodes that have been linked to an assignment
+  submission. Once the student has printed off their cover sheet from the physical
+  assignment, they are able to hand their submission into a member of staff for submission.
+  The barcode scanning interface allows the membe

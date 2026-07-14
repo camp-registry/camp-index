@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Bloque de Carrusel de logotipos de Moodle 4 y 5 en adelante
+metrics:
+  updated: '2025-10-09T14:03:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

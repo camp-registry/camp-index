@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Local Moodle plugin for synchronizing custom user info fields between Moodle
   instances in a MNet network
+metrics:
+  updated: '2014-01-21T16:26:05Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

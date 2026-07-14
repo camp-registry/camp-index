@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-02-04T14:49:29Z'
+  stars: 3
+  forks: 4
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin enables a connection to OpenAI services. It allows users to input
+  their API key, necessary for making API calls, and includes a test page to verify
+  the functionality of all connections. This plugin serves as a foundation for other
+  plugins, such as 'localaisimplifier' (currently in progre

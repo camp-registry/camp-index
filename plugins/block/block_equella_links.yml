@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle block for providing links into openEQUELLA
+metrics:
+  updated: '2020-11-25T21:59:18Z'
+  stars: 0
+  forks: 3
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

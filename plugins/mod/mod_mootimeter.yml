@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
+metrics:
+  updated: '2026-06-26T04:31:32Z'
+  stars: 10
+  forks: 10
+  open-issues: 37
+  archived: false
+  checked: '2026-07-11'
+summary: Mootimeter is a stand-alone activity plugin for moodle that enables live
+  polls.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Authentication plugin used by the Mobile app to check if the Mobile service
   is enabled and if the site uses SSO plugins
+metrics:
+  updated: '2014-05-16T13:57:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

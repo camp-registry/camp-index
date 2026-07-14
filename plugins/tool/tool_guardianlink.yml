@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'GuardianLink: delegated, scoped, audited parent/guardian/tutor access to
   learner progress for Moodle 5.2+ (tool_guardianlink).'
+metrics:
+  updated: '2026-07-01T04:56:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

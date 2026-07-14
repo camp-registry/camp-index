@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-09T20:28:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: 'A Moodle local plugin for cleaning up question banks and quiz data: removing
+  duplicate questions, empty categories, unused questions, and old quiz attempts.'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Clone of core topics format that adds collapsing behaviour to sections.
+metrics:
+  updated: '2022-07-12T09:48:46Z'
+  stars: 6
+  forks: 6
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

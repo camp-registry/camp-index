@@ -10,3 +10,10 @@ summary: This plugin adds the option for users to select individual or multiple 
   and add them right to an activity of their choosing, without having to access that
   individual activities management page.
 license: GPL-3.0
+metrics:
+  updated: '2025-10-24T04:36:49Z'
+  stars: 3
+  forks: 2
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

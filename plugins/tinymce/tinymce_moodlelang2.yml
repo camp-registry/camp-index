@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin will add a drop down menu to the TinyMCE text editor in Moodle
   that allows to add language tags to the selected content
+metrics:
+  updated: '2017-05-18T12:33:27Z'
+  stars: 2
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

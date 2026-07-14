@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin that generates per-user reports of their online presence time.
 license: GPL-3.0
+metrics:
+  updated: '2025-07-07T09:02:37Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

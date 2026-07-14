@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A support tool for Moodle
+metrics:
+  updated: '2026-06-22T09:41:24Z'
+  stars: 5
+  forks: 3
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

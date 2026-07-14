@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A tool to simulate learner and instructor activity over time for testing
   reporting and analytics tools on Moodle data
+metrics:
+  updated: '2026-03-04T01:25:56Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

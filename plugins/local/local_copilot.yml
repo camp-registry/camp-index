@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-10'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-17T16:42:32Z'
+  stars: 11
+  forks: 5
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This repository contains Moodle plugin and agent samples for Education to
+  be used with Microsoft 365 Copilot and Microsoft 365 Copilot Chat. These agents
+  are provided as M365 Copilot extensibility and therefore should be used with its
+  existing customer-facing documentation.

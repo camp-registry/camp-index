@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: '[wip]'
+metrics:
+  updated: '2022-12-09T14:55:24Z'
+  stars: 2
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

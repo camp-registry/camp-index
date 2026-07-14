@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: RADIUS authentication plugin, used to be a standard plugin, separated in
   Moodle 3.2
+metrics:
+  updated: '2016-10-28T07:58:10Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

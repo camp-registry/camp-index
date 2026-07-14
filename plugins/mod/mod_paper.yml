@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An activity module that accepts handwritten submissions, grades them with
   AI, and returns a printable PDF evaluation.
+metrics:
+  updated: '2026-04-28T06:10:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

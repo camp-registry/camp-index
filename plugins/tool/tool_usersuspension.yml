@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-01-27T09:44:01Z'
+  stars: 3
+  forks: 16
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: SEBSOFT USERSUSPENSION PLUGIN

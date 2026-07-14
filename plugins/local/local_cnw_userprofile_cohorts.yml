@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2020-06-08T08:51:02Z'
+  stars: 0
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'
+summary: Cohorts in profile is a plugin that allows us to view the manually added
+  users of cohorts.

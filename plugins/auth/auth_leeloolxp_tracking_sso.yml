@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Leeloo LXP SSO - It acts as a Login and Identity provider for Leeloo LXP.
+metrics:
+  updated: '2022-05-31T08:50:29Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

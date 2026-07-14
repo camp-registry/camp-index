@@ -11,3 +11,10 @@ summary: 'Moodle 4.5+/5.x local plugin: AI-narrated ''Listen to this content'' p
   karaoke highlighting, MediaSession + keyboard controls, resume position, full GDPR
   privacy provider. CI on Moodle 4.5/5.0/5.1/5.2 × PHP 8.1'
 license: GPL-3.0
+metrics:
+  updated: '2026-07-08T21:52:15Z'
+  stars: 2
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle assignment report. Provides additional details plus exports and complete
   file dumps.
+metrics:
+  updated: '2024-11-05T14:48:58Z'
+  stars: 4
+  forks: 8
+  open-issues: 29
+  archived: false
+  checked: '2026-07-11'

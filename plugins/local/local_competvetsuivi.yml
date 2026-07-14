@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-18T14:58:11Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Ce plugin permet de calculer les compétences acquises pour un utilisateur
+  en fonction des UE complététees et d'une matrice de compétences.

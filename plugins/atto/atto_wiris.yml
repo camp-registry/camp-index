@@ -9,3 +9,10 @@ releases: []
 summary: Moodle Atto's editor plugin for MathType, the leading formula editor and
   equation writer for the web by Wiris
 license: GPL-3.0
+metrics:
+  updated: '2026-05-28T13:40:01Z'
+  stars: 11
+  forks: 14
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

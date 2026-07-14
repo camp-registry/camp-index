@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Theme used for learn.moodle.net
+metrics:
+  updated: '2013-09-09T03:20:57Z'
+  stars: 9
+  forks: 8
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

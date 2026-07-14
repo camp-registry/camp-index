@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Use an external LLM/AI to get suggestions for course tags based on the course
   content
+metrics:
+  updated: '2026-03-04T16:40:36Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

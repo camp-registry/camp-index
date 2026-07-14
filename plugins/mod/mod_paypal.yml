@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'This is an activity plugin for Moodle that is marked as completed when user
   makes a payment via PayPal . You may prefer the availability condition at: https://github.com/danielneis/moodle-availability_paypal'
+metrics:
+  updated: '2015-06-26T22:30:34Z'
+  stars: 2
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2018-04-27T09:30:10Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Amcquiz is a moodle activity module aimed to allow teachers to create quizes
+  (based on exiting questions), print them and distribute them to student.

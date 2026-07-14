@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Local plugin for Moodle to allow synchronization from and to external academic
   systems
+metrics:
+  updated: '2016-09-01T05:10:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

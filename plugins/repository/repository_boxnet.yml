@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Boxnet repository that was removed from standard package in Moodle 4.0
+metrics:
+  updated: '2022-03-24T12:52:49Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

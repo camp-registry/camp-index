@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Atto plugin to retrieve a question from the question bank. Uses jQuery
+metrics:
+  updated: '2016-12-27T13:56:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

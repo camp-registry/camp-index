@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-23T19:24:20Z'
+  stars: 3
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle local plugin that lets users create courses directly from the Course
+  Category settings menu, presenting only the essential fields needed. Ideal for teachers
+  and busy administrators who find Moodle's default course creation form overwhelming.

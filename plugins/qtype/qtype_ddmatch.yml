@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-03T05:53:46Z'
+  stars: 4
+  forks: 28
+  open-issues: 14
+  archived: false
+  checked: '2026-07-11'
+summary: Drag-and-Drop Matching Question  [This block is written by DualCube<admin@dualcube.com>.]

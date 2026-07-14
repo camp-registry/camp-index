@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin to improve handling of LTI 1.3 links
 license: GPL-3.0
+metrics:
+  updated: '2023-01-24T18:20:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

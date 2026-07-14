@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-12T12:55:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: My Certificates is a Moodle block plugin that displays user-earned certificates
+  in a clean, card-based grid with live PDF previews. It integrates with the Custom
+  Certificate module to provide a single, visual place for learners to view and download
+  their certificates.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin allows to obtain a detailed report of the work done by the students
   in activities, activity packs and web sites created with the Ardora program.
+metrics:
+  updated: '2026-06-21T21:49:55Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

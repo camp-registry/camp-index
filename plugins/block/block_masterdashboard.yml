@@ -11,3 +11,10 @@ summary: Master Dashboard is a visual progress block for learners. It organizes 
   directly into Overdue, In Progress, and Completed using a responsive and accessible
   layout. Course images and due dates are displayed. Language support for English
   and German is included.
+metrics:
+  updated: '2026-04-23T19:38:21Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

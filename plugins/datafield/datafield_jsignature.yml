@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A field type for Moodle database activities that allows signatures (using
   jSignature)
+metrics:
+  updated: '2021-02-06T09:42:03Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

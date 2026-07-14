@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Modified version of the book module, adding email subscriptions, structured
   entries, PDF export and autosaving.
+metrics:
+  updated: '2017-03-22T20:36:08Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

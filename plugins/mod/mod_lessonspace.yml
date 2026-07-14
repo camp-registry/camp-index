@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: This plugin integrates Lessonspace into Moodle. Manage Spaces and Courses
   all from within Moodle itself.
+metrics:
+  updated: '2021-06-07T10:45:32Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

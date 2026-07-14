@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Atto Editor plugin for Matrices using TeX/MathJax
+metrics:
+  updated: '2018-03-22T16:59:53Z'
+  stars: 0
+  forks: 3
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

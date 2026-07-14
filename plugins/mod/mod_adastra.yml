@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2021-03-11T05:54:09Z'
+  stars: 2
+  forks: 0
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin imports task data from Plussa to Moodle environment, so that
+  the tasks can be completed in Moodle course page. Plugin then sends the answers
+  to the grading system, and returns the grades back to Moodle. The plugin works as
+  a updated version for the original Astra plugin, which is no long

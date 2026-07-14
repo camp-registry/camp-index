@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Provide a practicle strategy to raise to dependant metacourses and to open
   accesses to metacourses from a master coure.
+metrics:
+  updated: '2014-06-06T09:40:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

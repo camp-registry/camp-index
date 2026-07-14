@@ -11,3 +11,10 @@ summary: Trail format was developed based on the Grid format plugin. He distribu
   the grids on a trail. Some features were designed to meet some aspects of gamification,
   being able to change the background style and transparency for grids. In addition
   to having the responsibility for mobile equipment.
+metrics:
+  updated: '2026-04-22T14:07:45Z'
+  stars: 5
+  forks: 5
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

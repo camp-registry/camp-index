@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle block that allows modules to be bulk added to a supplied list of
   courses.
+metrics:
+  updated: '2024-04-11T07:38:31Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

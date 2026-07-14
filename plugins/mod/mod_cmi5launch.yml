@@ -19,5 +19,6 @@ releases:
   - '4.5'
   zip-sha256: c037b762a67f551d5193a6c172ec069eeee6baabd8cb31f974e1c7fab507a804
   published: '2026-07-10T22:31:18Z'
+  released: '2025-07-01T20:21:52Z'
   php-min: 8.0.0
 license: Apache-2.0

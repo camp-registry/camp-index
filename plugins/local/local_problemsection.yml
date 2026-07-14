@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A local plugin for Moodle, to create an manage special course sections where
   students work together on a problem.
+metrics:
+  updated: '2018-11-24T19:17:02Z'
+  stars: 1
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

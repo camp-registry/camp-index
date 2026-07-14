@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An extension to the standard Moodle database enrolment plug-in to allow groups
   to be created, and users added or removed from groups.
+metrics:
+  updated: '2013-10-11T05:03:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

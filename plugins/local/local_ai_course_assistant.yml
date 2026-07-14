@@ -9,3 +9,10 @@ releases: []
 summary: 'SOLA - Saylor Online Learning Assistant: AI-powered learning coach Moodle
   plugin'
 license: GPL-3.0
+metrics:
+  updated: '2026-07-11T21:08:45Z'
+  stars: 13
+  forks: 7
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

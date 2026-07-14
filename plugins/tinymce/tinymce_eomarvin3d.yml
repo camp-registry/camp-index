@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle 2.6+ TinyMCE plugin that inserts 3D chemcial structure in MarivnView
   - requires moodle-filter_marvin3dtinymce
+metrics:
+  updated: '2014-09-25T20:03:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

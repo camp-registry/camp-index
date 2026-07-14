@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle activity plugin to allow teachers to enter grades by scanning QR
   codes.
+metrics:
+  updated: '2019-12-06T04:38:17Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -11,3 +11,10 @@ summary: Designed for training providers, schools, academies, and organizations 
   need stronger control and reporting around video-based learning. Instead of simply
   embedding a video and hoping it was watched, Video Tracker turns video into a measurable
   learning activity connected to Moodle completion and
+metrics:
+  updated: '2026-07-03T11:09:13Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

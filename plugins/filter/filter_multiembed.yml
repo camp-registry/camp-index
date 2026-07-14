@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle filter to facilitate embedding of third-party content
+metrics:
+  updated: '2022-10-05T21:12:06Z'
+  stars: 4
+  forks: 7
+  open-issues: 17
+  archived: false
+  checked: '2026-07-11'

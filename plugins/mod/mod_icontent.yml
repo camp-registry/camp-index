@@ -9,3 +9,10 @@ releases: []
 summary: Módulo de atividades para a plataforma moodle que disponibiliza conteúdo
   interativo nos cursos.
 license: GPL-3.0
+metrics:
+  updated: '2026-06-27T18:15:46Z'
+  stars: 11
+  forks: 14
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

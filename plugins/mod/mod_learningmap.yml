@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: GitHub Repository for mod_learningmap
 license: GPL-3.0
+metrics:
+  updated: '2026-06-05T05:40:00Z'
+  stars: 15
+  forks: 9
+  open-issues: 22
+  archived: false
+  checked: '2026-07-11'

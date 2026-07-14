@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Tallies and retrieves most popular Moodle categories, courses, and activity
   modules.
+metrics:
+  updated: '2021-01-13T07:09:03Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

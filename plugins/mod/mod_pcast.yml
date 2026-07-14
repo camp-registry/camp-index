@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A podcasting module for Moodle.
+metrics:
+  updated: '2025-12-13T22:51:55Z'
+  stars: 13
+  forks: 10
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

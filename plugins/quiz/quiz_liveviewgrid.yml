@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Dynamic quiz spreadsheet
+metrics:
+  updated: '2026-03-19T21:03:47Z'
+  stars: 2
+  forks: 2
+  open-issues: 13
+  archived: false
+  checked: '2026-07-11'

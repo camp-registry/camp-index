@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 summary: A simple report to view message exchanges between user from a course
+metrics:
+  updated: '2014-11-17T17:52:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

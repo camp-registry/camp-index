@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A plugin to generate and store information about plugins used in a Moodle
   installation
+metrics:
+  updated: '2022-05-31T09:41:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

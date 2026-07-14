@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Local Moodle Plugin adding Site Analytics
+metrics:
+  updated: '2014-10-08T10:46:54Z'
+  stars: 1
+  forks: 26
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

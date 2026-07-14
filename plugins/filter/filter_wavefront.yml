@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle filter to display 3D models from a Wavefront gallery. Requires mod_wavefront.
+metrics:
+  updated: '2022-07-02T12:19:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

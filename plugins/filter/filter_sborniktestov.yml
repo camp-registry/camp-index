@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle filter plugin to embed interactive quizzes from Sbornik Testov (sborniktestov.ru)
 license: GPL-3.0
+metrics:
+  updated: '2026-03-13T16:38:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

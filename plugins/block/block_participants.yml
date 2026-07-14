@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle block containing a link to the list of participants associated with
   the given course area in various roles
+metrics:
+  updated: '2019-09-30T07:30:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

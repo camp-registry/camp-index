@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: An atto plugin for Moodle providing reusable and customisable html snippets
+metrics:
+  updated: '2024-10-08T06:32:35Z'
+  stars: 3
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

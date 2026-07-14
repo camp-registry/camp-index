@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-01-24T15:28:15Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin integrates Moodle with an external microservice to automatically
+  create courses and enroll users. It validates users, generates a CSV file for non-existent
+  users, and automates the course creation process. Additionally, the plugin now includes
+  a scheduled task within Moodle, which runs p

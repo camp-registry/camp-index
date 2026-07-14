@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A simple block that encourages users to complete their profile
+metrics:
+  updated: '2020-12-01T16:30:49Z'
+  stars: 5
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle 5.1 does not have a default for Enabling/Disabling AI Tools in courses.
   This solves the issue
+metrics:
+  updated: '2026-03-26T13:53:09Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-01-23T20:09:20Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: 'Moodle is a powerful system for delivering courses, however there are often
+  times when users need to integrate with information from other systems such as SIS,
+  EPR, HR, and Financial Record keeping systems. To facilitate this, Remote-Learner
+  has built the Data Hub, a tool for 2 way communication of '

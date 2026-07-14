@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Theme trema, a Moodle LMS plugin.
 license: GPL-3.0
+metrics:
+  updated: '2026-06-18T07:49:03Z'
+  stars: 40
+  forks: 21
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

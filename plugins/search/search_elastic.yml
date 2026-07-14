@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: An Elasticsearch engine plugin for Moodle's Global Search
 license: GPL-3.0
+metrics:
+  updated: '2026-07-06T01:21:49Z'
+  stars: 15
+  forks: 18
+  open-issues: 45
+  archived: false
+  checked: '2026-07-11'

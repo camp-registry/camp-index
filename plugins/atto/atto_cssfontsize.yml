@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A fontsize plugin for Moodle's atto editor that makes use of CSS instead
   of font tags.
+metrics:
+  updated: '2015-04-28T01:22:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

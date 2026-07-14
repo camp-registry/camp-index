@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for evaluations with Moodle. This is the evaluation activity
   plugin.
+metrics:
+  updated: '2025-04-17T04:15:46Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

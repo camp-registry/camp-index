@@ -9,3 +9,10 @@ releases: []
 summary: Moodle question type plugin for writing beautiful mathemathical answers,
   combined with the feature-rich assessment system STACK.
 license: GPL-3.0
+metrics:
+  updated: '2018-09-10T19:21:42Z'
+  stars: 1
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

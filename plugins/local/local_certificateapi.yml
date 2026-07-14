@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A web services API which allows an external system to interrogate Moodle
   for a list of a user's completed courses.
+metrics:
+  updated: '2017-06-16T12:40:44Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

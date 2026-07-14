@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A general purpose ETL tool
+metrics:
+  updated: '2026-05-12T05:47:16Z'
+  stars: 6
+  forks: 10
+  open-issues: 21
+  archived: true
+  checked: '2026-07-11'

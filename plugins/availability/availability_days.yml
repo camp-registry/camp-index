@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Allows activating activities or sections at a delayed day offset from course
   aperture
+metrics:
+  updated: '2017-07-06T17:55:18Z'
+  stars: 0
+  forks: 13
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

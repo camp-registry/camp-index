@@ -10,3 +10,10 @@ summary: 'Displays your upcoming events in a beautiful way on your dashboard and
   your courses. Comes with three modes: today, this week and upcoming. Works in both
   vertical and horizontal orientation'
 license: GPL-3.0
+metrics:
+  updated: '2025-08-29T11:30:16Z'
+  stars: 4
+  forks: 2
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

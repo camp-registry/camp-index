@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A multiple-choice, multiple response question type for Moodle, with particular
   scoring rules.
+metrics:
+  updated: '2025-07-29T09:37:09Z'
+  stars: 12
+  forks: 22
+  open-issues: 13
+  archived: false
+  checked: '2026-07-11'

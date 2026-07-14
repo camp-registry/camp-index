@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: OpenID Connect authentication plugin for Moodle LMS
 license: GPL-3.0
+metrics:
+  updated: '2026-07-07T09:41:31Z'
+  stars: 43
+  forks: 76
+  open-issues: 14
+  archived: false
+  checked: '2026-07-11'

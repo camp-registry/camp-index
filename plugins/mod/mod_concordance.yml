@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Module allowing the management of a learning by concordance activity, including
   the management of the panel of experts and the compilation of answers.
+metrics:
+  updated: '2025-02-11T14:58:01Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This Moodle admin tool allows managers to set the start and end dates for
   all courses in a category, including subcategories.
+metrics:
+  updated: '2025-12-12T14:22:36Z'
+  stars: 2
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

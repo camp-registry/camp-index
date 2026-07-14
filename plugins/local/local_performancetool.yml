@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin is used by the performance test job to generate course data and
   the JMeter test plan
+metrics:
+  updated: '2026-05-13T01:17:44Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-11T16:05:13Z'
+  stars: 9
+  forks: 15
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'
+summary: Announcement - Issues page merged with Turnitin's support page

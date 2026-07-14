@@ -9,3 +9,10 @@ releases: []
 summary: Moodle plugin which sorts a category page automatically as soon as a course
   has been added or modified
 license: GPL-3.0
+metrics:
+  updated: '2026-07-04T20:58:04Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

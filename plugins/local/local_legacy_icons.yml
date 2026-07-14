@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-12-04T23:07:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This Moodle plugin, developed by CentricApp, is designed to bring back the
+  legacy icons from older Moodle versions for activities in Moodle 4+. The plugin
+  aims to provide users

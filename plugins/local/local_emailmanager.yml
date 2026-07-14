@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: uTurn Email Suite - Email template management and marketing automation for
   Moodle 4.4+
+metrics:
+  updated: '2026-01-06T04:34:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

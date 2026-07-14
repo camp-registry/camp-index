@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Question type for Moodle - for numeric questions with variable and expression
   evaluation. All values are precalculated although a question can have several variants
   with different variable values for each variant.
+metrics:
+  updated: '2025-06-26T16:44:25Z'
+  stars: 7
+  forks: 16
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

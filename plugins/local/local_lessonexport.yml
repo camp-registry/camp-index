@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A lesson export plugin for Moodle to produce PDF and EPUB documents from
   Lesson modules.
+metrics:
+  updated: '2017-03-20T12:27:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

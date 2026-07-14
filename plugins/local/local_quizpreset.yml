@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that extended the Quiz UI to enable teachers initiate a quiz
   with special setting presets, created for different pedagogical activities.
+metrics:
+  updated: '2025-08-13T16:50:21Z'
+  stars: 3
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

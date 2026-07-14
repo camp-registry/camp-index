@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Plugin para evaluaciones cruzadas en grupo en la plataforma docente Moodle.
   Desarrollo de una herramienta que empleará encuestas para gestionar, controlar y
   evaluar el funcionamiento del trabajo en equipo.
+metrics:
+  updated: '2017-07-13T10:39:44Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

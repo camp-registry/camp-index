@@ -11,3 +11,10 @@ summary: Redirect Plus is a comprehensive solution that gives you complete contr
   over your Moodle site's redirects and 404 error handling. Create custom redirects
   with optional conditional logic based on user login status or language preference.
   The plugin also records 404 errors and allows you to customiz
+metrics:
+  updated: '2026-02-28T04:37:47Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

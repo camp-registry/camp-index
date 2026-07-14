@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Adds an AI Feedback Assistant for assignments in Moodle.
+metrics:
+  updated: '2026-03-17T23:16:11Z'
+  stars: 1
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

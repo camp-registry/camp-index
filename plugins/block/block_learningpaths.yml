@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: Moodle block displaying the learning paths from the API of L'Université Numérique
+metrics:
+  updated: '2022-01-06T15:12:01Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

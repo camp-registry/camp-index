@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 'DEPRECATED: Ilios/Moodle integration'
+metrics:
+  updated: '2017-12-21T22:53:48Z'
+  stars: 2
+  forks: 6
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

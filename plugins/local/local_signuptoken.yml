@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle local plugin to modify the auth/email signup screen to include a
   field called 'Token' and validate it against the token-enrol plugin.
+metrics:
+  updated: '2023-05-18T00:12:36Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

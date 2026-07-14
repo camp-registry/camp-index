@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-21T11:43:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle local plugin that gamifies learning through a comprehensive badge,
+  coin, and reward system.

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: Moodle ReactJS - gives you ability to use ReactJS inside any moodle page.
+metrics:
+  updated: '2022-04-28T11:49:18Z'
+  stars: 16
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

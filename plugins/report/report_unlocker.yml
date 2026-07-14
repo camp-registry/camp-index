@@ -11,3 +11,10 @@ summary: The Unlocker Report is a powerful management tool for Moodle course adm
   and teachers. It provides a comprehensive overview of all access restrictions (availability
   conditions) applied to course activities and resources, allowing you to view, analyze,
   and modify restrictions at scale.
+metrics:
+  updated: '2026-06-29T18:48:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

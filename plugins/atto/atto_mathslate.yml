@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Graphical Equation Editor Moodle plugin for Atto editor. See demo
+metrics:
+  updated: '2025-10-12T01:13:34Z'
+  stars: 3
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

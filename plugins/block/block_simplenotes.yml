@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A quick and easy way to add prioritised notes (in the style of a to-do list)
   to any Moodle course.
+metrics:
+  updated: '2012-04-20T22:21:34Z'
+  stars: 2
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

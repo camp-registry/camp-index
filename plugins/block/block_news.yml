@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Block that displays news items, either entered manually or from RSS/Atom
   feed
+metrics:
+  updated: '2026-06-29T09:21:11Z'
+  stars: 6
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

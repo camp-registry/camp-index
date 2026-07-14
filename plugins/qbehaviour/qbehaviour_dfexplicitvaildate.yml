@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle question behaviour that is like deferred feebdack, but where student
   have a button they can click to have their response validated.
+metrics:
+  updated: '2025-01-24T10:56:12Z'
+  stars: 3
+  forks: 9
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A filter which encode media files supported by HTML 5 to the HTML 5 standard
   of embeding meida content.
+metrics:
+  updated: '2016-07-13T17:46:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

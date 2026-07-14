@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle block that works with tool_coursewrangler to notify certain users
   of course status.
+metrics:
+  updated: '2022-03-22T13:08:54Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: true
+  checked: '2026-07-11'

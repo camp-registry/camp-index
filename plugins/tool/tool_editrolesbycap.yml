@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle admin tool to edit the permissions for one capability in all roles
   on one screen.
+metrics:
+  updated: '2025-10-03T08:48:45Z'
+  stars: 7
+  forks: 9
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

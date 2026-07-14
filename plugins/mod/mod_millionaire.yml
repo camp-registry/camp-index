@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: »Millionaire Quiz« game for Moodle, made with Vue.js
 license: GPL-3.0
+metrics:
+  updated: '2023-03-28T11:51:01Z'
+  stars: 9
+  forks: 7
+  open-issues: 30
+  archived: false
+  checked: '2026-07-11'

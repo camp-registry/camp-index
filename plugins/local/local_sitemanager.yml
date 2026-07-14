@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Web services to to read and write Moodle core and 3rd-party plugin(s) settings
+metrics:
+  updated: '2016-09-03T07:39:51Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

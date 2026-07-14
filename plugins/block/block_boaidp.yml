@@ -11,3 +11,10 @@ summary: README for boaidp, version 2.0 July 17th, 2013  This is the new impleme
   of Moodle's Block for metadata  associated to Moodle's Courses and their further
   edition (in a manually mode). At this basic version only static predefined fields
   are present on block instance configuration. No dynamic cr
+metrics:
+  updated: '2013-07-23T15:45:05Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: true
+  checked: '2026-07-11'

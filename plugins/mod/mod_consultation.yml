@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Consultation module for Moodle -  NOTE: this module is not maintained because
   of the lack of funding.'
+metrics:
+  updated: '2012-04-21T07:41:19Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

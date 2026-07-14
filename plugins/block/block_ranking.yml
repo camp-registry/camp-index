@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle block to improve gamefication
+metrics:
+  updated: '2024-09-20T13:05:21Z'
+  stars: 16
+  forks: 19
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle advanced upcoming events block providing additional settings and formatting
   compared to the standard block provided by the core Moodle system
+metrics:
+  updated: '2015-05-20T00:35:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

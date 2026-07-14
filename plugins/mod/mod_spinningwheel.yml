@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle 5+ Spinning wheel activity module - random selection via animated
   spinning wheel
+metrics:
+  updated: '2026-05-29T06:26:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

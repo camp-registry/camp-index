@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ':family: :envelope: A course resource that displays groups and their members'
+metrics:
+  updated: '2026-06-22T14:14:46Z'
+  stars: 5
+  forks: 9
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

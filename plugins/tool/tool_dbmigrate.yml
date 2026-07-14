@@ -9,3 +9,10 @@ releases: []
 license: MIT
 summary: New Moodle database CLI migration tool. Tested to migrate a database from
   MySQL to PostgreSQL, but, not restricted to this scenario.
+metrics:
+  updated: '2026-02-19T18:03:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

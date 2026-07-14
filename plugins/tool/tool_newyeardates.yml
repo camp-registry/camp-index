@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-13T17:10:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle admin tool that allows teachers to quickly update all activity and
+  assignment dates when rolling courses forward to a new academic year. Configurable
+  for any school calendar worldwide.

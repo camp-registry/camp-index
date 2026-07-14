@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Add special version of pickroles setting that helps optimize database queries
   that use them.
+metrics:
+  updated: '2019-04-22T19:22:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

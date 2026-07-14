@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-11T06:02:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Generate a printable PDF of a course’s supported activities—sections, summaries,
+  and module content—in one download, with a cover page, bookmarks, and optional enrolment
+  QR when Sharecourse is available.

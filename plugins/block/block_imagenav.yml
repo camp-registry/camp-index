@@ -11,3 +11,10 @@ summary: (Deprecated, new repository is customnav) This is a plugin to be used t
   create a block with images that are linked to a URL, for easy navigation. (Deletion
   of image and link to be added, Settings link to be added to site administration
   navigation)
+metrics:
+  updated: '2024-01-11T10:28:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

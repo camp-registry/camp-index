@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Monitor Moodle traffic on /webservice/rest/server.php in and out
 license: GPL-3.0
+metrics:
+  updated: '2023-11-08T09:20:06Z'
+  stars: 4
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

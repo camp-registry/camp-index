@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle tinymce plugin for constructing mathematical expressions. This website
   provides a working demo.
+metrics:
+  updated: '2022-04-04T19:46:58Z'
+  stars: 5
+  forks: 5
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

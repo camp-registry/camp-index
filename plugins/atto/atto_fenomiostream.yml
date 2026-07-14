@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle Atto editor plugin that adds a button for inserting [fenomiostream|GUID]
   tags into text content.
+metrics:
+  updated: '2026-03-06T20:04:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

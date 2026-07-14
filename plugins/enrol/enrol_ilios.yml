@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle Enrollment plugin for the Ilios Curriculum Management system
+metrics:
+  updated: '2026-06-22T16:42:49Z'
+  stars: 2
+  forks: 4
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

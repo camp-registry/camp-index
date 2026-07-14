@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block plugin that provides an AI prompt builder for teachers on a per‑course
   basis. Students cannot access it.
+metrics:
+  updated: '2026-03-09T18:43:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

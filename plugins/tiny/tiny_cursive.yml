@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: The Cursive plugin for Moodle extends TinyMCE to create a new layer of data
   (key event logs) which can be used in many ways (feedback, scoring, authentication)
   and can be connected to Cursive's ML server.
+metrics:
+  updated: '2026-07-02T12:27:08Z'
+  stars: 7
+  forks: 5
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

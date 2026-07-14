@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-02-08T01:49:24Z'
+  stars: 0
+  forks: 5
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: This integration is no longer being maintained. The supported way to connect
+  Moodle and Lt is using our new LTI based integration. See <https://www.adinstruments.com/lt/lms-integration>

@@ -9,3 +9,10 @@ releases: []
 summary: A Moodle plugin that manages the full lifecycle of Moodle user accounts using
   freely configurable, multistep workflows.
 license: GPL-3.0
+metrics:
+  updated: '2026-07-09T09:51:59Z'
+  stars: 9
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

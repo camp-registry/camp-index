@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: Moodle plugin to control user registrations, storage quotas, and administrative
   access restrictions system-wide
+metrics:
+  updated: '2025-06-30T02:41:34Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Automatically adds a virtual keyboard next to simple textfields that don't
   have a HTML editor
+metrics:
+  updated: '2019-02-21T12:36:01Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

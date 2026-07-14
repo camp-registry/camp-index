@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2016-09-02T08:57:51Z'
+  stars: 0
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: BOARD is a course format in grid for Moodle 2.8 or later with full flexibility
+  between sections and columns.

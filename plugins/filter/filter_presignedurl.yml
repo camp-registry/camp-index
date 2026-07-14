@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A Moodle filter plugin that replaces ObjectFS CloudFront presigned URLs embedded
   in course content with permanent pluginfile.php URLs, ensuring files remain accessible
   after the presigned URL expires.
+metrics:
+  updated: '2026-07-07T16:13:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

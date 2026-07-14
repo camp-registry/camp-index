@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: LGPL-3.0
 summary: UbiCast MediaServer Moodle activity plugin
+metrics:
+  updated: '2026-04-23T08:58:10Z'
+  stars: 1
+  forks: 8
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

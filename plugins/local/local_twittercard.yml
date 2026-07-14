@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: This Moodle local plug-in emits a Twitter summary card for courses.
 license: GPL-3.0
+metrics:
+  updated: '2023-02-12T09:10:50Z'
+  stars: 3
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

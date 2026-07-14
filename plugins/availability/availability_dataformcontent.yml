@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: An availability condition plugin for Moodle and Dataform. This availability
   condition allows teachers to restrict user access to course sections, activities
   or resources, based on user content in a designated Dataform instance in the course.
+metrics:
+  updated: '2018-02-01T18:06:19Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

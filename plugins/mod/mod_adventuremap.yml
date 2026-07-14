@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2020-05-15T09:22:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This module allows teachers to place course modules on an image like a map.
+  That way it is possible to provide adaptive, gamified learning experiences that
+  visualize the learning path for learners.

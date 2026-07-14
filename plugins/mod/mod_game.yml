@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: moodle-mod_game
 license: GPL-3.0
+metrics:
+  updated: '2026-05-15T08:34:50Z'
+  stars: 18
+  forks: 43
+  open-issues: 18
+  archived: false
+  checked: '2026-07-11'

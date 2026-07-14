@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Permitir que quizzes do Moodle aceitem envios após o prazo original, aplicando
   uma penalidade configurável na nota do estudante.
+metrics:
+  updated: '2025-06-26T23:06:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

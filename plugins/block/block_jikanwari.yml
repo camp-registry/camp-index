@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle時間割ブロックプラグイン。Moodle4.5/5.1対応。
+metrics:
+  updated: '2026-03-01T07:18:47Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

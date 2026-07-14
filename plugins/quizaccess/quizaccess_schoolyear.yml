@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Plugin to integrate the Schoolyear safe exam workspace with the Moodle quiz
   activity.
+metrics:
+  updated: '2026-06-24T13:46:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

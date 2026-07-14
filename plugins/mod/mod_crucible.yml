@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: mod_crucible is an activity plugin that allows Crucible labs and exercises
   to accessed from the Moodle LMS.
+metrics:
+  updated: '2026-07-10T18:06:20Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This report allows a quick view of the details of the activities in the course
   along with their current status.
+metrics:
+  updated: '2026-05-28T06:40:57Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: This plugins allows admins to send notifications to members of selected cohorts.
+metrics:
+  updated: '2025-11-25T18:52:56.400Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

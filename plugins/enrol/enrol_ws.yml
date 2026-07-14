@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: The WS REST enrollments moodle plugin allows users to be enrolled via a web
   services type REST in the course administration settings, by a user with appropriate
   permissions such as a teacher.
+metrics:
+  updated: '2017-09-04T03:43:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

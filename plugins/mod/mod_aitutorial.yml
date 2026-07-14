@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-22T05:35:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'
+summary: 'AI Tutorial Generator is a Moodle activity module that allows students to
+  upload educational documents (PDFs) and automatically generate:'

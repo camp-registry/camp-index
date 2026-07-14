@@ -9,3 +9,10 @@ releases: []
 summary: Activity-type Moodle module to create and edit web sites with eXeLearning
   (online).
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T08:58:07Z'
+  stars: 5
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

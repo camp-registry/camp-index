@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle filter plugin. With this plugin you can choose if some content should
   be visible in web or only in a WebService client like the Moodle apps.
+metrics:
+  updated: '2025-04-01T10:54:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

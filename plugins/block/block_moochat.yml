@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Add AI-powered chatbots to your course sidebars. Create custom AI assistants
   with unique personalities, avatars, and rate limiting. Works seamlessly with Moodle's
   core AI subsystem - no external services required.
+metrics:
+  updated: '2026-02-19T21:50:52Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

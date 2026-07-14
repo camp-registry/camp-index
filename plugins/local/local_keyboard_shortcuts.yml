@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Simple plugin for navigating over Moodle with keyboard shortcuts
+metrics:
+  updated: '2019-10-31T21:01:25Z'
+  stars: 0
+  forks: 2
+  open-issues: 2
+  archived: true
+  checked: '2026-07-11'

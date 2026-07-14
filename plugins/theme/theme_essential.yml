@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: The Essential Moodle Theme
 license: GPL-3.0
+metrics:
+  updated: '2022-05-25T21:53:26Z'
+  stars: 94
+  forks: 116
+  open-issues: 36
+  archived: true
+  checked: '2026-07-11'

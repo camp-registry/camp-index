@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Ada Quiz is a new activity type in Moodle. Based on Moodle Quiz, it enables
   the teacher to guide the learner activity based on their score in different questions.
   Actually it works only on Moodle 2.6, 2.8, 2.9 and 3.0
+metrics:
+  updated: '2016-01-05T15:18:06Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

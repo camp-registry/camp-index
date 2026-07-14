@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Generate questions in Moodle from text using GPT-3
+metrics:
+  updated: '2024-01-10T20:29:14Z'
+  stars: 11
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

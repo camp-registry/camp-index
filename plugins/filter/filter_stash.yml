@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle filter to simplify the usage of Stash
+metrics:
+  updated: '2018-05-09T01:55:24Z'
+  stars: 2
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

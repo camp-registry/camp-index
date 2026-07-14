@@ -11,3 +11,10 @@ summary: Designed and developed in partnership between Cblue and Hyperfiction, t
   plug-in allows you to connect any thick client application running on any type of
   device (PC, smartphone, virtual reality headset, etc.) to the Moodle platform via
   Web Services.
+metrics:
+  updated: '2024-01-02T06:57:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

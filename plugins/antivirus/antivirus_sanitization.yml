@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-10-14T14:20:35Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin provides a connection from Moodle file uploads to sanitization
+  system, allowing it to copy uploaded files to a directory and if these files appear
+  in the target directory within a timout - it means that files are clean.

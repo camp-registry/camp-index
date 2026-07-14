@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle cache store plugin for APC
+metrics:
+  updated: '2017-01-23T17:16:46Z'
+  stars: 3
+  forks: 5
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

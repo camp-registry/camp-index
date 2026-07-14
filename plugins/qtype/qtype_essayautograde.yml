@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Essay (auto-grade) question type for Moodle >= 3.0
+metrics:
+  updated: '2025-10-30T07:42:28Z'
+  stars: 17
+  forks: 16
+  open-issues: 22
+  archived: false
+  checked: '2026-07-11'

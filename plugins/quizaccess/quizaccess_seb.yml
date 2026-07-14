@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Plugin to integrate Safe Exam Browser into the quiz activity. This plugin
   is part of 3.9 Moodle standard distribution, but shared in the plugin directory
   for Moodle 3.7 and 3.8 https://moodle.org/plugins/quizaccess_seb
+metrics:
+  updated: '2024-05-14T22:34:32Z'
+  stars: 4
+  forks: 4
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

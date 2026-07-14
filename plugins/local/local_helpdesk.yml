@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-05T12:11:50Z'
+  stars: 2
+  forks: 6
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin provides a ticketing system for managing support requests. It
+  allows users to create and track tickets while enabling administrators and support
+  teams to manage and respond efficiently.

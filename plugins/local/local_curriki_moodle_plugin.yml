@@ -10,3 +10,10 @@ license: MIT
 summary: CurrikiGo plugin connect Moodle to CurrikiStudio to access Programs, Playlists
   and Activities by following IMS Global LTI Advantage (LTI 1.3). It setup Moodle's
   External Tool which connect to CurrikiStudio.
+metrics:
+  updated: '2023-09-08T11:06:23Z'
+  stars: 1
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

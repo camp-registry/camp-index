@@ -9,3 +9,10 @@ releases: []
 summary: Moodle trigger subplugin for the Moodle admin tool "Course Life Cycle" which
   triggers based on values of a custom course field of type "semester".
 license: GPL-3.0
+metrics:
+  updated: '2026-07-05T10:20:55Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

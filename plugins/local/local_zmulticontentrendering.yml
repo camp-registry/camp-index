@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Using (and editing) this plugin you can re-order the content if using custom
   fields for enhancing your content
+metrics:
+  updated: '2025-06-02T09:57:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

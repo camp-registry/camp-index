@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A custom theme used for the Moodle integration in Microsoft Teams. For more
   details, go to https://aka.ms/TeamsMoodle
+metrics:
+  updated: '2026-07-07T09:46:52Z'
+  stars: 10
+  forks: 15
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

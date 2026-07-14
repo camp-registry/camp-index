@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-06-17T22:10:21Z'
+  stars: 2
+  forks: 0
+  open-issues: 6
+  archived: true
+  checked: '2026-07-11'
+summary: A Moodle plugin that helps instructors learn how to complete various actions.

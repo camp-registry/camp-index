@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-04-12T05:00:45Z'
+  stars: 1
+  forks: 0
+  open-issues: 13
+  archived: false
+  checked: '2026-07-11'
+summary: Local Delegate Plugin

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: PlayerGames (local_playergames) is the central hub of the PlayerGames gamification
   ecosystem for Moodle.
+metrics:
+  updated: '2026-07-09T11:27:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

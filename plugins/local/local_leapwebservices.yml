@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Local plugin for Moodle 2.x, provides web services to communicate with Leap
   (leap-ilp.com)
+metrics:
+  updated: '2015-11-12T12:53:22Z'
+  stars: 4
+  forks: 5
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

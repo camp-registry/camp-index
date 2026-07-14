@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for Atto. It makes it easier to include the Moodle App link
   filter in the content.
+metrics:
+  updated: '2019-06-14T07:01:18Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

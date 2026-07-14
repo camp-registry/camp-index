@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Sceglie dipartimento e posizione in form (non bloccante)
+metrics:
+  updated: '2025-05-20T09:39:28Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

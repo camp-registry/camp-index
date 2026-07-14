@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Offline Player - plugin that sits on offline player sit and allows sync.
+metrics:
+  updated: '2016-12-11T21:45:36Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

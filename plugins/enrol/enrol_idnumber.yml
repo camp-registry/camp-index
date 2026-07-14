@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle enrolment plugin to map the users' custom profile field with multiple
   entries against the course ID number.
+metrics:
+  updated: '2024-09-11T14:12:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

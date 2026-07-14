@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle Plugin that allows teachers to add compression to the image files
   uploaded by students as well as upload any files without compression. Extends the
   features of the plugin moodle-assignsubmission_file.
+metrics:
+  updated: '2021-09-16T10:27:13Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An error logger hack that supplements Moodle's built-in error logging with
   safe database error logs.
+metrics:
+  updated: '2012-09-30T06:34:50Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

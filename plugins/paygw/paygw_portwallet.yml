@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-02-18T11:44:42Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: PortWallet is a payment gateway that allows merchants to expand their businesses
+  online. Your customers will be able to buy products online with ease and security.
+  Payments can be made with local and international debit or credit cards.

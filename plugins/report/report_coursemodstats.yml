@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle course module instances advanced reporting
 license: GPL-3.0
+metrics:
+  updated: '2022-03-29T14:26:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

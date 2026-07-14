@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Is a Moodle Web Service Protocol for generating RSS feeds including support
   for ATOM, RSS91, and RSS2.0.
+metrics:
+  updated: '2012-05-22T00:16:03Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

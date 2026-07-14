@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin for filtering Moodle Assignment submissions by the number
   of days late, and for customising the grading window.
+metrics:
+  updated: '2026-05-19T11:54:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

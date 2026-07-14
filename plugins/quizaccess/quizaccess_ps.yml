@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-09-25T12:17:08Z'
+  stars: 0
+  forks: 1
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: ProctorStone Plugin provides recorded proctoring for tests taken through
+  Moodle. ProctorStone is a fully integrated, role-based, secure, and ai supported
+  proctoring. It is installation-free, and teacher/student friendly. ProctorStone
+  provides Onboarding with ID Verification, BrowserLock (no-installa

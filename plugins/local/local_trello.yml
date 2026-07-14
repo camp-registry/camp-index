@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A local plugin to create Trello boards. lists and tasks when a new course
   is created on Moodle
+metrics:
+  updated: '2020-01-17T20:17:30Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

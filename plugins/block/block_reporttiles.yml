@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-10-10T15:06:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Please note that this plugin is currently under active development. While
+  it is functional, it may still contain bugs or incomplete features. We are continuously
+  working on improving and enhancing its functionality.

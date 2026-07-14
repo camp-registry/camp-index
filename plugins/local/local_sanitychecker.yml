@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: This plugin provides an interface to implement sanity checks on moodle
+metrics:
+  updated: '2013-12-17T12:27:56Z'
+  stars: 3
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

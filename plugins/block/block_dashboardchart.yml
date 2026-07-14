@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-01-05T12:11:13Z'
+  stars: 3
+  forks: 3
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: Dashboard Chart plugin is a block plugin in moodle. This Plugin helps to
+  generate different types of charts such as

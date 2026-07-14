@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Translate Moodle courses
+metrics:
+  updated: '2026-06-11T12:12:39Z'
+  stars: 1
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

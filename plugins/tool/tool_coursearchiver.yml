@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-07T16:25:52Z'
+  stars: 6
+  forks: 11
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'
+summary: This tool is used to search for courses, notify the course owners, and mass
+  hide or archive (backup and remove) courses.

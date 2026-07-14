@@ -9,3 +9,10 @@ releases: []
 summary: A Moodle Admin Tool to upload user activity completion data to Moodle via
   CSV
 license: GPL-3.0
+metrics:
+  updated: '2021-07-13T01:52:49Z'
+  stars: 7
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

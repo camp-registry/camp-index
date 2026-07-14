@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-21T09:14:15Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A modern, minimalist course format for Moodle 5.0+ that presents one unit
+  at a time with smooth transitions and a distraction-free learning experience. Inspired
+  by clean, content-first design principles, Simple format strips away visual clutter
+  so students can focus on what matters.

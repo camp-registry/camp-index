@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that implements an interaction with a language model through
   a web service.
+metrics:
+  updated: '2025-08-14T17:43:35Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

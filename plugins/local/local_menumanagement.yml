@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2021-04-14T14:00:31Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Learnbook menu management is a custom menu manager which allows you to override
+  boost menu and have your own custom menu items.

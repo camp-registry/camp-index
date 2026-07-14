@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-09-17T09:27:08Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin integrates with the Have I Been Pwned (HIBP) API to check if
+  user passwords have been exposed in known data breaches.

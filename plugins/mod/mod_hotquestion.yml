@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An activity to help teachers collect questions from students in or out of
   the classroom.
+metrics:
+  updated: '2026-06-30T20:03:07Z'
+  stars: 5
+  forks: 16
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

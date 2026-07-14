@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2020-07-24T12:12:32Z'
+  stars: 1
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin makes it easy to create pre-defined courses which can be imported
+  into any new course with a single mouseclick.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'This is the source code of the Learning Analytics Enriched Rubric plugin.
   Current version: 3.0'
+metrics:
+  updated: '2024-01-18T11:15:10Z'
+  stars: 3
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

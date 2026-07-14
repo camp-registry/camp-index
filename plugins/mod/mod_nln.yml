@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: NLN Learning Object activity module for Moodle 2.x (also includes 1.9 resource
   type version)
+metrics:
+  updated: '2016-04-08T11:40:42Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

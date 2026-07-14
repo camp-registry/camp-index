@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Smart Notices is a local plugin to publish targeted modal announcements across
   key Moodle locations.
+metrics:
+  updated: '2026-03-10T04:04:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

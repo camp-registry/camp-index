@@ -11,3 +11,10 @@ summary: AI Hub is a small BYOK (bring your own key) broker for Moodle. It lets 
   institution's own plugins generate text through shared AI API keys, without each
   plugin reimplementing the HTTP transport, the SSRF guard, the provider ladder or
   a key store.
+metrics:
+  updated: '2026-07-01T15:53:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

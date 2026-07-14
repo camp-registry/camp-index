@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Configurable API is a moodle plugin which allows you to get the data from
   the configurable reports via an API.
+metrics:
+  updated: '2021-02-11T11:09:02Z'
+  stars: 3
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

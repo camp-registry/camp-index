@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle question type Desmos allow a teacher to prepare a question for a student
   to modify and submit for feedback and grading
+metrics:
+  updated: '2025-12-13T19:01:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

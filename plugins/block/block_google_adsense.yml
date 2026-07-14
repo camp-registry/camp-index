@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Block to allow the easy display of Google Adsense adverts. Created and tested
   with text based adverts
+metrics:
+  updated: '2015-10-28T14:36:06Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

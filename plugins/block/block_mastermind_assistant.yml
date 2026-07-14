@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-15T20:10:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: Mastermind Assistant is a Moodle block plugin that brings AI-powered course
+  creation, content generation, and learning analytics directly into your Moodle LMS.

@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-12-09T10:42:08Z'
+  stars: 3
+  forks: 0
+  open-issues: 2
+  archived: true
+  checked: '2026-07-11'
+summary: 1. Log in to your Moodle site as an admin and go to Site administration >

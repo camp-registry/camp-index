@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Questionnaire module for Moodle - Contributed module
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T02:23:28Z'
+  stars: 90
+  forks: 204
+  open-issues: 205
+  archived: false
+  checked: '2026-07-11'

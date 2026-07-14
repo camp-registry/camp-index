@@ -11,3 +11,10 @@ summary: Welcome Modal is a customizable Moodle plugin that displays a friendly 
   popup on the dashboard after login. It greets users by name, offers a direct link
   to the library, and allows both session‑based and permanent dismissal. configurable
   via admin settings (size, button texts, URL), integrate
+metrics:
+  updated: '2026-04-21T05:44:22Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

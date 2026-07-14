@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Initially for Waiariki Institute of Technology - www.waiariki.ac.nz.
+metrics:
+  updated: '2014-05-27T16:26:21Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

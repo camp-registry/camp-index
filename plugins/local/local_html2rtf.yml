@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A PHP/XSLT library for Moodle 2 that enables conversion of an (X)HTML string
   to an RTF document string. Used in the portfolioact plugin.
+metrics:
+  updated: '2025-07-28T14:17:59Z'
+  stars: 3
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle plugin to mark completed exercise
+metrics:
+  updated: '2017-11-13T10:53:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: true
+  checked: '2026-07-11'

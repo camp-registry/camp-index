@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle Report that shows all user feedback on one page.
+metrics:
+  updated: '2026-05-12T10:55:51Z'
+  stars: 19
+  forks: 16
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

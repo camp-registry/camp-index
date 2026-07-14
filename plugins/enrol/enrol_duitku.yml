@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-08-01T02:37:04Z'
+  stars: 0
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Welcome to the Duitku plugin repository for Moodle. This plugin is a payment
+  as enrolment in moodle. As direction from moodle documentation about plugin type
+  enrol. Duitku attend a plugin to help you receive payment through Duitku.

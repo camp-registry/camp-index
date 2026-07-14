@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Testing ideas for simple pdf certificate creation using a pdf designer, then
   issued in Moodle.  Moodle 4.1 now includes a very similar course_certificate mod
   rendering this effort irrelevant. Them's the breaks.
+metrics:
+  updated: '2022-09-21T21:48:11Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

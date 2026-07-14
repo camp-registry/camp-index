@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Relative dates in Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-06-11T07:31:46Z'
+  stars: 8
+  forks: 14
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

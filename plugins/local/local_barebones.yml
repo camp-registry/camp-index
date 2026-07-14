@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A barebones local Moodle plug-in to be used as a template for more functional
   plug-ins
+metrics:
+  updated: '2021-04-07T14:01:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

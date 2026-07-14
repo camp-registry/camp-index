@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle block to display messaging links for teachers on a course
+metrics:
+  updated: '2025-04-14T08:37:57Z'
+  stars: 9
+  forks: 9
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

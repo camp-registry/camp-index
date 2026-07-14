@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-17T04:26:37Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: The ClickView TinyMCE editor plugin for Moodle enables you to quickly and
+  safely browse through your entire ClickView library, the ClickView exchange and
+  your own personal workspace from within Moodle.

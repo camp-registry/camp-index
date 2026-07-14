@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A tool to clean database from orphan records, when plugins provide meta records
   FK descriptors
+metrics:
+  updated: '2026-01-08T09:09:38Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

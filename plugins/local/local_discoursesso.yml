@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that enables Moodle to act as a SSO provider for the Discourse
   discussion platform.
+metrics:
+  updated: '2022-08-02T14:01:44Z'
+  stars: 2
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A local Moodle plugin to add Quiz overrides for all the Quiz activities on
   a course area
+metrics:
+  updated: '2025-09-19T07:59:01Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

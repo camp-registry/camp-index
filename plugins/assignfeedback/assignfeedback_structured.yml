@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle assignment feedback plugin that enables teachers to define multiple
   criteria on which to provide comments
+metrics:
+  updated: '2026-06-03T13:45:14Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

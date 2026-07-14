@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A filesystem based repository focused on searchable capabilities, ideal for
   directories with lots (thousands) of files.
+metrics:
+  updated: '2022-02-17T08:45:39Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin extends the atto editor of moodle with a selector for fontawesome
   icons.
+metrics:
+  updated: '2020-12-24T10:54:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

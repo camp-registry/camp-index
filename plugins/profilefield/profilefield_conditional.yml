@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-06-20T19:58:04Z'
+  stars: 8
+  forks: 9
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: The conditional profile field plugin is an advanced version of the dropdown
+  menu profile field type in which you can decide to hide/show some other profile
+  fields or even make them required based on the value selected for this field.

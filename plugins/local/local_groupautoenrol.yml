@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: This plugin is closed - See https://github.com/pascal-my/moodle-admin_tool_groupautoenrol
+metrics:
+  updated: '2016-03-18T15:14:00Z'
+  stars: 0
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle report plugin that lets you easily create simple reports that can
   be expressed as a single SQL query
+metrics:
+  updated: '2019-07-02T20:31:22.558Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

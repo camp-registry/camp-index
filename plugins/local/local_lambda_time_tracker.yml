@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: MIT
+metrics:
+  updated: '2021-04-20T20:48:31Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin periodically executes an ajax call to register user presence
+  in course. The plugin has a user presence check alert notification popup window
+  which will pause the ajax calls until the user clicks the button registering them
+  as still here in which the alert window will close and the user c

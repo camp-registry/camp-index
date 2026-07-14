@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Whatsapp integration in Moodle as messaging service
 license: GPL-3.0
+metrics:
+  updated: '2022-07-28T16:19:14Z'
+  stars: 6
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

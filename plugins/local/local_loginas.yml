@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A quick way of logging in as another user, and a quick way to return to your
   private account
+metrics:
+  updated: '2026-06-03T14:29:09Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

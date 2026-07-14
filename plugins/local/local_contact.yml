@@ -10,3 +10,10 @@ summary: Contact Form is a Moodle plugin that allows your site to process inform
   submitted through HTML forms to the site's support email address. For premium support,
   contact us at https://www.tngconsulting.ca/contact
 license: GPL-3.0
+metrics:
+  updated: '2026-05-16T01:22:12Z'
+  stars: 22
+  forks: 14
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

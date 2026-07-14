@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-09T14:16:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle 5.0+ advanced grading method plugin that provides flexible score
+  ranges within rubric levels, similar to Google Classroom's rubric functionality.

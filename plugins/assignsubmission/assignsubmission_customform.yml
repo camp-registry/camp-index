@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
+metrics:
+  updated: '2026-02-02T13:01:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: Place in /mod/assign/submission/

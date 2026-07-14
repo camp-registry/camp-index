@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Enrolment plugin for moodle 2.4. Lookup for some user field to allow enrolment.
+metrics:
+  updated: '2013-03-15T16:10:41Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

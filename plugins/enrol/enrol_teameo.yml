@@ -9,3 +9,10 @@ releases: []
 license: Apache-2.0
 summary: This plugin facilitates seamless synchronization of enrollments between Teameo
   & Classeo Plugin and your student information system (SIS) in real-time.
+metrics:
+  updated: '2025-05-26T13:28:48Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

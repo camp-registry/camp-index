@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A new question type for Moodle - drag and drop images and / or text drag
   items onto an image background
+metrics:
+  updated: '2015-08-21T11:35:41Z'
+  stars: 17
+  forks: 14
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

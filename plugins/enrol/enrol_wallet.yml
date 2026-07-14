@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: Enrollment using wallet credit with coupons and using payments gateways with
   restrictions.
+metrics:
+  updated: '2026-05-14T16:42:06Z'
+  stars: 5
+  forks: 1
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'

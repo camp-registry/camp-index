@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: The Azure AD B2C Connect plugin provides registering of a new user and single-sign-on
   functionality using configurable identity providers, scope and custom policies of
   Azure B2C.
+metrics:
+  updated: '2023-11-23T16:23:28Z'
+  stars: 2
+  forks: 9
+  open-issues: 23
+  archived: false
+  checked: '2026-07-11'

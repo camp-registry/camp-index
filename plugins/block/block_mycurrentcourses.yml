@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: 'A Moodle block that lists users'' current course progress. For a course
   to show up, it must: i) have completion enabled, ii) the user must be enrolled,
   and iii) the user has yet to complete the course.'
+metrics:
+  updated: '2016-03-09T15:16:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

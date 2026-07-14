@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-02T12:48:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Process Feedback Local Moodle plugin is a student-centered writing process
+  tracking tool for Moodle assignments and forums. It records edits in students’ browsers,
+  storing them locally in the browser's database.

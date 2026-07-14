@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin which enhances the functionality of Moodle's page header navbar.
 license: GPL-3.0
+metrics:
+  updated: '2026-07-04T20:39:31Z'
+  stars: 13
+  forks: 7
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

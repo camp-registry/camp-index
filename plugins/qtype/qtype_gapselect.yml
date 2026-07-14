@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: The Gap-select question type for Moodle 2.1+
+metrics:
+  updated: '2015-08-26T22:14:31Z'
+  stars: 17
+  forks: 16
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

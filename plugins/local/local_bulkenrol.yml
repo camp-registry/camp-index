@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin which provides the possibility to bulk enrol a list of users
   who are identified by their e-mail adresses into a course.
+metrics:
+  updated: '2026-07-04T20:56:33Z'
+  stars: 7
+  forks: 23
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

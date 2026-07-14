@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-10'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-22T17:18:34Z'
+  stars: 16
+  forks: 36
+  open-issues: 53
+  archived: false
+  checked: '2026-07-11'
+summary: Edwiser Course Formats block plugin for Moodle

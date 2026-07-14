@@ -9,3 +9,10 @@ releases: []
 summary: Fork of questionnaire moodle plugin review some parts and add a new question
   type "teacherselect"
 license: GPL-3.0
+metrics:
+  updated: '2022-07-01T17:53:55Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A four option multiple true-false question type for moodle, as introduced
   by Krebs (1997). Kprime questions consist of an item stem and four corresponding
   statements or options.
+metrics:
+  updated: '2026-03-05T07:53:38Z'
+  stars: 0
+  forks: 9
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

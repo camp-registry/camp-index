@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: atto plugin
+metrics:
+  updated: '2023-12-22T10:08:22Z'
+  stars: 8
+  forks: 11
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

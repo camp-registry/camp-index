@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A plugin to track the status of enrolled & completed course of student.
+metrics:
+  updated: '2021-08-18T14:58:15Z'
+  stars: 6
+  forks: 4
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

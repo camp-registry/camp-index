@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Like standard cohort enrol but filters the list of available cohorts using
   several techniques.
+metrics:
+  updated: '2026-06-01T12:31:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The plugin searches for inactive cohorts and checks whether the course start
   date has passed. If both conditions are met, the cohort is activated and synchronised.
+metrics:
+  updated: '2025-10-27T16:20:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

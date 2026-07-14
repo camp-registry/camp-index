@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Native spaced repetition for Moodle. Built on the Leitner method – no extra
   login, no external tools, GDPR compliant
+metrics:
+  updated: '2026-03-31T20:24:05Z'
+  stars: 0
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

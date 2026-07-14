@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This question type is used as common statement of a Quiz module. It allows
   to create random variables to be used by qtype_programmedresp.
+metrics:
+  updated: '2016-06-30T14:09:12Z'
+  stars: 1
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

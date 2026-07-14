@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: A moodle plugin to force individual email subscription on selected forums.
+metrics:
+  updated: '2019-04-11T15:51:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle TinylMCE plugin for building 2D structures and reaction scheme.  Requires
   filter_marvintinymcestudent
+metrics:
+  updated: '2014-09-27T23:45:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

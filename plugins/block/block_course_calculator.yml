@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle block plugin that provides basic and scientific calculators for course
   and activity pages. Designed to stay available in block regions while learners work
   in Moodle.
+metrics:
+  updated: '2026-06-06T11:00:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

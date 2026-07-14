@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A plug in that adds a setting to quizzes to allow the display of grades by
   question category.
+metrics:
+  updated: '2013-04-09T12:07:51Z'
+  stars: 4
+  forks: 8
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

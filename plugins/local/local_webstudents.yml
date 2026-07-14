@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-01-22T17:09:58Z'
+  stars: 1
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin integrates Moodle with an external microservice to register students
+  automatically in Moodle. It fetches user data in JSON format, including an optional
+  second email field. This field can be enabled or disabled via the Moodle settings.
+  Additionally, the plugin includes a scheduled task t

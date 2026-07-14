@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle report plugin.
+metrics:
+  updated: '2026-05-07T10:22:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

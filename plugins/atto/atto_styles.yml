@@ -9,3 +9,10 @@ releases: []
 summary: Moodle Atto plugin which lets the administrator provide custom CSS classes
   which can afterwards be applied by users to block and inline text in Atto
 license: GPL-3.0
+metrics:
+  updated: '2026-07-05T10:06:17Z'
+  stars: 14
+  forks: 13
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

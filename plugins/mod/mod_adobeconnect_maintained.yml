@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: The Adobe Connect / Moodle integration.
 license: GPL-3.0
+metrics:
+  updated: '2026-05-11T11:52:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 21
+  archived: false
+  checked: '2026-07-11'

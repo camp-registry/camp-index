@@ -11,3 +11,10 @@ summary: Moodle question bank subplugin that hides multiple-choice answer option
   the question stem before making a selection. The delay is a pedagogical nudge, not
   an anti-cheat mechanism.
 license: GPL-3.0
+metrics:
+  updated: '2026-07-07T20:49:00Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

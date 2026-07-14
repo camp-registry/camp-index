@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A Moodle plugin that allows students to control their own enrolment while
   syncing courses from an external enrolment DB. Modified from the core Moodle external
   database enrol plugin.
+metrics:
+  updated: '2016-04-28T20:14:58Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

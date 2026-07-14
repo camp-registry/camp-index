@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-10-30T14:37:53Z'
+  stars: 0
+  forks: 1
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: Este plugin fue desarrollado por el equipo de formación docente PROMACE Jujuy,
+  Argentina.

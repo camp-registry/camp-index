@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Shows the days remaining in the user's course enrolment
+metrics:
+  updated: '2013-01-02T22:03:47Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

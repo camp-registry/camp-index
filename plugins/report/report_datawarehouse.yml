@@ -10,3 +10,10 @@ summary: How to design an extensible data warehouse – Set a foundation to tran
   custom log data out of a LMS to a data warehouse in order to empower researchers
   to perform learning analysis
 license: GPL-3.0
+metrics:
+  updated: '2026-05-08T08:53:56Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

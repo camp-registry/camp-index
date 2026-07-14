@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Allow your students to submit a task by finding a QR Code out in the wild.
+metrics:
+  updated: '2018-09-14T16:47:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

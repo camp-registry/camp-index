@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Group self selection module - NOTE: this module is not maintained because
   of the lack of funding.'
+metrics:
+  updated: '2014-04-17T03:17:50Z'
+  stars: 20
+  forks: 38
+  open-issues: 5
+  archived: true
+  checked: '2026-07-11'

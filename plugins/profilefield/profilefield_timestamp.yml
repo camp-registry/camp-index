@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A user profile field type that shows a timestamp both as human readable and
   unix time format.
+metrics:
+  updated: '2022-02-17T08:55:54Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

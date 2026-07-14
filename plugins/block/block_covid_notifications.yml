@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-01-23T22:24:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'
+summary: The COVID Notification Block allows students to upload COVID proof of vaccination
+  that will be sent to selected roles for review. Once approved by selected role the
+  student will be assigned to custom site-wide badge.

@@ -9,3 +9,10 @@ releases: []
 summary: This plugin allows sorting a list of options by preference of the user, instead
   of just selecting one.
 license: GPL-3.0
+metrics:
+  updated: '2024-10-11T13:05:49Z'
+  stars: 3
+  forks: 0
+  open-issues: 19
+  archived: false
+  checked: '2026-07-11'

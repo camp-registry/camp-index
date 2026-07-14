@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Plugin to quickly generate courses and users to experimentation with Local
   Inlinetrainer
+metrics:
+  updated: '2018-03-19T00:37:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

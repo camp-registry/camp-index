@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle local plugin that highlights recently added and recently modified
   activities and resources directly on the course page
+metrics:
+  updated: '2026-06-15T05:59:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

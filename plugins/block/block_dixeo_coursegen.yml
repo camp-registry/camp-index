@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-05T16:24:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Effortlessly create complete Moodle courses using the power of AI. The Dixeo
+  Course Generator helps administrators and educators turn a simple course description
+  and optional supporting files into a fully functional, ready-to-use Moodle course
+  in just a few clicks.

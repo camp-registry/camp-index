@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle block to groupings users depending of the task to do. The formed
   groups has diversity in gender, personality and intelligence.
+metrics:
+  updated: '2022-12-05T03:29:19Z'
+  stars: 0
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

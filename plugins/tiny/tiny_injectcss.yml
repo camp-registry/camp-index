@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is a mirror of our internal GitLab repository. Pullrequest will not
   be merged directly.
+metrics:
+  updated: '2026-06-23T11:22:20Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

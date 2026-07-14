@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Wiris Quizzes - Matching question type
+metrics:
+  updated: '2026-06-25T14:04:30Z'
+  stars: 1
+  forks: 3
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

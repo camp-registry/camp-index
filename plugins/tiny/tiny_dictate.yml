@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A TinyMCE plugin for Moodle 5 to enable Speech to Text (dictation) entry
   into editors.
+metrics:
+  updated: '2026-02-25T03:53:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

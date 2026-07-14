@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: The Vocabulary activity (mod_vocab) plugin for Moodle
+metrics:
+  updated: '2025-07-13T09:03:55Z'
+  stars: 3
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

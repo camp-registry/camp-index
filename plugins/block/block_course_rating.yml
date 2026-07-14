@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-08T22:58:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Este é um plugin de bloco para o Moodle que permite aos estudantes avaliarem
+  os cursos com notas de 1 a 5 estrelas e deixarem comentários textuais sobre a sua
+  experiência.

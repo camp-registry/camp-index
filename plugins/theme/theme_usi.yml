@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-11T02:05:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: themeusi merupakan child theme dari Boost yang digunakan untuk menyimpan
+  seluruh kustomisasi tampilan LMS dalam bentuk plugin Moodle. Dengan pendekatan ini,
+  perubahan tampilan tidak lagi bergantung pada konfigurasi Raw SCSS maupun Additional
+  HTML di Theme Boost, sehingga proses pemeliharaan, backup,

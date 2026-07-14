@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Amanote Worksheet module for Moodle (http://moodle.org/)
+metrics:
+  updated: '2026-06-18T16:37:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

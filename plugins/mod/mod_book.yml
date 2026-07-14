@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Book module for Moodle - NOTE: this module is not maintained because of
   the lack of funding, please use the version included in Moodle 2.3 instead.'
+metrics:
+  updated: '2025-10-26T13:19:12Z'
+  stars: 37
+  forks: 9
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

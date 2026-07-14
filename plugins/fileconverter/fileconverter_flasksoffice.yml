@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This Moodle plugin uses a separat Linux server with Flask and LibreOffice
   for converting documents.
+metrics:
+  updated: '2026-01-24T17:05:49Z'
+  stars: 4
+  forks: 3
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

@@ -10,3 +10,10 @@ summary: 'The plugin works on several aspects of gamification: avatar choice, sc
   control, level control, rank and list of classified and all configuration of these
   options in the configuration of the block.'
 license: GPL-3.0
+metrics:
+  updated: '2025-10-22T16:41:06Z'
+  stars: 17
+  forks: 7
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

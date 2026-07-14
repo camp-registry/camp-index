@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-10'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2017-06-14T13:34:52Z'
+  stars: 13
+  forks: 7
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: The Inspire plugin implements open source, transparent next-generation learning
+  analytics using machine learning backends that go beyond simple descriptive analytics
+  to provide predictions of learner success, and ultimately diagnosis and prescriptions
+  (advisements) to learners and teachers. From Moo

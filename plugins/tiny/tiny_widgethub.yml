@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Create, insert and share widget components easily in TinyMCE editor.
+metrics:
+  updated: '2026-06-30T08:33:15Z'
+  stars: 2
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

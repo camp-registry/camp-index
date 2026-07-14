@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The iROCKET Helpdesk block is a Moodle block that provides iROCKET helpdesk
   contact information, and a link to the TOS.
+metrics:
+  updated: '2017-05-16T21:44:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

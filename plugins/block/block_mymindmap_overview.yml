@@ -11,3 +11,10 @@ summary: The mymindmap_overview block otherwise presents the courses in the dash
   Everyone knows the block myoverview which presents in a paginated form the courses
   which one is registered in the dashboard. But the block mymindmap_overview has the
   advantage of seeing all its courses on one page and bein
+metrics:
+  updated: '2025-04-16T11:49:29Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

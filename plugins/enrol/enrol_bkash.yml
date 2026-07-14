@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-02-16T09:31:36Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: bKash Limited (bKash) is a Bank-led Mobile Financial Service Provider in
+  Bangladesh operating under the license and approval of the Central Bank (Bangladesh
+  Bank) as a subsidiary of BRAC Bank Limited. bKash provides safe, convenient and
+  easy ways to make payments and money transfer services via mobi

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-04T07:44:35Z'
+  stars: 1
+  forks: 1
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: Adds a block with an ON/OFF toggle that controls the visibility of Moodle
+  messaging interface elements within a course/module context.

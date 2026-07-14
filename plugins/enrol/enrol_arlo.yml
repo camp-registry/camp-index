@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-03T09:11:19Z'
+  stars: 6
+  forks: 16
+  open-issues: 25
+  archived: false
+  checked: '2026-07-11'
+summary: Arlo for Moodle - enrolment plugin

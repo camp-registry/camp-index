@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-11-01T18:22:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: Stoodle is a plugin for Moodle, an open-source learning management system,
+  that can be utilized by any users of Moodle, including students and teachers. Stoodle
+  allows students to study for their courses directly through their course management
+  system without having to use a third party website.

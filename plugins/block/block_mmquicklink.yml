@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A block for administrators, managers and teachers to simplify navigation
   in Moodle. Contains easy access links to most used functions. Block's content is
   based on user's role &amp; capabilities and page context.
+metrics:
+  updated: '2024-06-11T06:27:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

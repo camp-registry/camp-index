@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-07-13T17:24:22Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The Atto Image Plugin for Moodle, originally developed to facilitate image
+  insertion and manipulation in the text editor, has been enhanced with AI-powered
+  capabilities. This extended version now offers automatic alt text generation using
+  OpenAI-compatible Language Models

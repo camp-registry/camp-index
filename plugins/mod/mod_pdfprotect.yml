@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-29T19:37:28Z'
+  stars: 5
+  forks: 5
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This is a Moodle module developed to provide an extra layer of security for
+  PDF files, preventing users from downloading, printing, or copying the content of
+  the PDF. It is ideal for protecting sensitive material and preventing unauthorized
+  sharing of documents.

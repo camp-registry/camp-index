@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: FastPix video platform integration for Moodle — admin plugin providing global
   settings, REST API client, signed playback token issuance, and inbound webhook handling.
   Foundation for the FastPix × Moodle plugin suite.
+metrics:
+  updated: '2026-06-16T12:52:48Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

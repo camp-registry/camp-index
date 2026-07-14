@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Resource plugin for Moodle 2.0. Should not be used on 2.3+.
+metrics:
+  updated: '2017-04-06T08:46:33Z'
+  stars: 2
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

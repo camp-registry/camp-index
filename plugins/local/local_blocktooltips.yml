@@ -11,3 +11,10 @@ summary: 'A Moodle 4.5+ plugin that helps course editors manage blocks.  Tooltip
   Adds an info icon in the "Add a block" modal with custom descriptions.  Visibility
   indicator: Shows an eye icon (visible/hidden for students) on course blocks during
   edit mode.'
+metrics:
+  updated: '2026-06-24T09:02:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

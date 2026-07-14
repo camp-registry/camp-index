@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle admin tool to suspend and delete based on their account creation date.
 license: GPL-3.0
+metrics:
+  updated: '2026-04-30T05:16:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

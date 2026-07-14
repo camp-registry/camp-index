@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: '[RETIRED] Moodle plugin which automatically hides courses which have not
   been accessed for a long time.'
+metrics:
+  updated: '2020-01-14T16:30:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

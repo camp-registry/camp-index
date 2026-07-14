@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-04T08:26:20Z'
+  stars: 4
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Permission Dashboard (Who is who) provides an admin-focused dashboard to
+  help diagnose role/capability assignments and prepare for conflict checks. The initial
+  release scaffolds the UI and settings as a foundation for further features.

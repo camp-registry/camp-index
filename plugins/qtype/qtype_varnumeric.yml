@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A new question type for Moodle - for numeric questions with variable and
   expression evaluation
+metrics:
+  updated: '2025-07-02T17:18:29Z'
+  stars: 4
+  forks: 14
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

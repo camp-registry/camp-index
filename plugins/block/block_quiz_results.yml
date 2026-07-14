@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Quiz results block that was removed from standard package in Moodle 4.0
+metrics:
+  updated: '2022-03-23T07:44:20Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: MWA Analytics Dashboard
+metrics:
+  updated: '2026-06-18T12:58:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle admin report. It show a list of courses and the enrolled users percent
   that completed the course.
+metrics:
+  updated: '2019-04-24T05:04:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

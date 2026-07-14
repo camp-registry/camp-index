@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: HR plugin for Atto
+metrics:
+  updated: '2022-07-15T13:43:12Z'
+  stars: 1
+  forks: 7
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

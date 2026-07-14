@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-07T08:20:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle activity that lets participants submit a video for grading. Videos
+  are uploaded to or chosen from an external Stream platform (via the localstream
+  plugin). Teachers view submissions and grade them on a dedicated grading page with
+  thumbnails, grades, and feedback.

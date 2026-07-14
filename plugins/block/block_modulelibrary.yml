@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-26T19:40:31Z'
+  stars: 1
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle block plugin that lets you use a template course or template modules
+  as a library, and copy modules (activities/resources) from that template into your
+  current course.

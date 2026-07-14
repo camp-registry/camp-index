@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin to display the list of all requests, let the user add itself
   to a already requested course, remove onself.
+metrics:
+  updated: '2021-04-06T16:36:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

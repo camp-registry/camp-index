@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-03-25T03:37:25Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Moodle can scan different files with different virus scanners, but some virus
+  scanners don't scan files if they can't read them.

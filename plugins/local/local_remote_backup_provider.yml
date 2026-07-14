@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: '[SEEKING MAINTAINER] Local plugin which allows restoring courses from a
   remote Moodle instance into your current instance.'
+metrics:
+  updated: '2021-05-05T08:36:00Z'
+  stars: 4
+  forks: 7
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

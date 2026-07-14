@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Local type plugin for note taking in Moodle. Developped by StudiUM Team at
   Montreal University (Université de Montréal).
+metrics:
+  updated: '2025-01-14T13:47:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

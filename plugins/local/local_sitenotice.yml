@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-09-29T06:26:13Z'
+  stars: 5
+  forks: 6
+  open-issues: 24
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin displays notices to users.

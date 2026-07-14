@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-01-22T17:46:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Moodle plugin that integrates Skill5 learning platform with Moodle through
+  LTI 1.3, enabling seamless access to Skill5 courses and content directly from Moodle
+  courses.

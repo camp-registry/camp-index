@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Provides AMD compatible jQuery Fancybox for Moodle
+metrics:
+  updated: '2019-04-22T19:23:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

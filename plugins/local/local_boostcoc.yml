@@ -9,3 +9,10 @@ releases: []
 summary: Moodle plugin which adds support for filtering courses with block_course_overview_campus
   to the mycourses list in Boost's nav drawer
 license: GPL-3.0
+metrics:
+  updated: '2020-11-18T10:30:24Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

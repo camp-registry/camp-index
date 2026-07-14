@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-04T22:43:20Z'
+  stars: 1
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: messagekopereemail is a Moodle message output based on messageemail, created
+  to allow full customization of the email sent by Moodle, while also applying a base
+  template to standardize visual identity.

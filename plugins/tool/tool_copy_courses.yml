@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This plugin enables bulk duplication of courses on a platform using predefined
   settings, allowing administrators to quickly replicate entire courses, including
   structure and content, without manual recreation.
+metrics:
+  updated: '2026-06-03T02:37:22Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

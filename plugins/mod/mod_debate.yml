@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: Debate is a moodle activity which allows students to debate in a given topic
   inside moodle.
+metrics:
+  updated: '2023-05-03T02:42:39Z'
+  stars: 2
+  forks: 3
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

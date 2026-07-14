@@ -11,3 +11,10 @@ summary: Complemento local de Moodle que detecta a los estudiantes inactivos en 
   cursos y les envía una notificación (correo electrónico emergente) para animarlos
   a retomar sus estudios. Admite plantillas de correo electrónico personalizadas,
   configurables desde el panel de administración.
+metrics:
+  updated: '2026-06-22T18:47:14Z'
+  stars: 1
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

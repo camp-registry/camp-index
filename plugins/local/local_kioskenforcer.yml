@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Kiosk enforcer: supervised lab/exam access control for Moodle (per-seat-IP
   deployments).'
+metrics:
+  updated: '2026-07-10T03:51:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

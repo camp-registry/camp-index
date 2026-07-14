@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ACE Dashboards
+metrics:
+  updated: '2021-11-25T02:43:57Z'
+  stars: 0
+  forks: 7
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

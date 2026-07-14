@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A "save-only" question type intended for use with psuedo-questions, like
   Partner questions.
+metrics:
+  updated: '2014-08-18T22:27:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

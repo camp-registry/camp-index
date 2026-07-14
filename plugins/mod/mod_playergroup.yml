@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: PlayerGroup lets students autonomously form their own groups directly from
   the activity page — no teacher intervention needed. It replaces manual group assignment
   with a self-service experience that works for any course format.
+metrics:
+  updated: '2026-07-09T11:27:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

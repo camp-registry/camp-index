@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Activity Filter is designed to help to select suitable activities. With the
   help of the AI subsystem, user requests are processed and suitable activities are
   selected.
+metrics:
+  updated: '2026-06-11T12:18:09Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

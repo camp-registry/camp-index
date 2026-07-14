@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle 4.5+ report plugin — tracks student interactions with every course
   resource and activity
+metrics:
+  updated: '2026-07-07T10:39:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

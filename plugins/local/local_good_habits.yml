@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Help track habits over time in Moodle. A quick guide is available here:
   https://www.youtube.com/watch?v=t5myhN3wvAc'
+metrics:
+  updated: '2021-04-19T14:57:39Z'
+  stars: 1
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

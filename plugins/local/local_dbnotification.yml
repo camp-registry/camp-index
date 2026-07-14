@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-05-01T06:15:50Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin extends an option in database module settings, allowing course
+  editor to consider whether each database module in a course will trigger and send
+  a notification to other in the course when there is a new entry created.

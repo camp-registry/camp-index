@@ -11,3 +11,10 @@ summary: The Pin User Block lets Moodle admins and teachers display up to two cu
   badges next to users' names based on profile field conditions. Only visible to users
   with the appropriate capability, it enhances course management with efficient styling
   and dynamic CSS loading.
+metrics:
+  updated: '2026-06-21T18:44:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

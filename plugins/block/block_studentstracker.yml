@@ -9,3 +9,10 @@ releases: []
 summary: Moodle plugin tracking users that didn't access a course for some days. It
   aims to provide a tool to help the teachers preventing students from dropping out.
 license: GPL-3.0
+metrics:
+  updated: '2026-07-06T15:22:17Z'
+  stars: 7
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

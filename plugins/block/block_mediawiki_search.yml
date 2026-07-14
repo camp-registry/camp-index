@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This block for Moodle 2.x provides a search box for a specified mediawiki
   installation
+metrics:
+  updated: '2012-11-21T23:42:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

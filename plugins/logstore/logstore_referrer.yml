@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: similar to standard logstore plugin, but stores the http referrer in the
   table when we have it.
+metrics:
+  updated: '2023-11-14T02:13:10Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

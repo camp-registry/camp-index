@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Allows users to create or update Zoom Meeting activities at a specified time
   for every week of a course
+metrics:
+  updated: '2025-01-31T15:59:16Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

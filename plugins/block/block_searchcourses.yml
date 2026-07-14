@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2018-06-08T15:44:46Z'
+  stars: 3
+  forks: 7
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: moodle-blocksearchcourses

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: moodle-block_rbreport
+metrics:
+  updated: '2026-06-10T08:03:33Z'
+  stars: 3
+  forks: 4
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

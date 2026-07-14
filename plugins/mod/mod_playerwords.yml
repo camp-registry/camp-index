@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: PlayerWords is a word-guessing vocabulary activity for Moodle. Students guess
   a hidden word letter-by-letter within a configurable number of attempts, receiving
   colour-coded and symbol feedback on each guess.
+metrics:
+  updated: '2026-07-11T18:43:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

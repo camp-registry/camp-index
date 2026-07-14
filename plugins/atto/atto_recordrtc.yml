@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple atto editor plugin for Moodle that enables audio and video annotation
   anywhere the editor can be used
+metrics:
+  updated: '2020-12-25T05:21:25Z'
+  stars: 2
+  forks: 8
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

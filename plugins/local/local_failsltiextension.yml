@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Provides a moodle plugin, that extends the LTI api with data security operations
   for deleting
+metrics:
+  updated: '2023-03-28T12:20:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

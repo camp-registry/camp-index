@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-09T18:42:40Z'
+  stars: 0
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: The Absence Request plugin is a local Moodle plugin that allows students
+  to submit absence requests for courses they are enrolled in. Teachers are notified
+  of these requests and can view them in a consolidated report. Faculty administrators
+  can also view reports of absence requests for their faculty

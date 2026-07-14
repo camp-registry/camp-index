@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Dataform is an enhanced counterpart of the standard Database activity
   module
+metrics:
+  updated: '2021-01-20T22:45:50Z'
+  stars: 17
+  forks: 19
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

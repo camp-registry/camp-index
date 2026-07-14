@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: An enhanced bulk user upload tool featuring customizable template generation,
   advanced custom profile field validation, enrollment date restrictions, and detailed
   email reporting.
+metrics:
+  updated: '2026-06-15T07:45:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

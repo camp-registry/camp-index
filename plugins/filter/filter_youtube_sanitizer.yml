@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-02-04T04:05:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin allows you to embed YouTube videos without compromising the privacy
+  of the site visitor. Data will only be sent to Google by the browser once you actually
+  click on a video.

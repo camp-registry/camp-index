@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle Plugin for cleaning some user profile fields
 license: GPL-3.0
+metrics:
+  updated: '2018-05-24T13:47:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

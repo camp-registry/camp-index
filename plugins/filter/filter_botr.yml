@@ -9,3 +9,10 @@ releases: []
 license: LGPL-3.0
 summary: this filter turns FW (bitsontherun) video links into videos using signed
   links to prevent leeching
+metrics:
+  updated: '2019-11-01T08:15:03Z'
+  stars: 2
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

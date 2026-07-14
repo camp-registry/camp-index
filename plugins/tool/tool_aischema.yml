@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Export Moodle's complete database schema in formats optimised for AI agents
+metrics:
+  updated: '2026-06-29T13:04:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

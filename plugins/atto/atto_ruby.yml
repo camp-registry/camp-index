@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Ruby support for Atto.
+metrics:
+  updated: '2015-08-13T03:15:03Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: true
+  checked: '2026-07-11'

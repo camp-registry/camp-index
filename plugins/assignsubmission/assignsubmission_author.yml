@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-07-16T16:27:54Z'
+  stars: 0
+  forks: 1
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'
+summary: This extension for moodle is intented to be residing in folder

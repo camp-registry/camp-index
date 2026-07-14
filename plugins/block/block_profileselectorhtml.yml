@@ -9,3 +9,10 @@ releases: []
 license: GPL-2.0
 summary: A block that distrbutes HTML against rules on standard or custom profile
   values
+metrics:
+  updated: '2026-04-03T10:32:33Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

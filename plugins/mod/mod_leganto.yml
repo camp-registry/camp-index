@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle resource module which enables teachers to embed selected citations
   from associated ExLibris Leganto reading lists directly into their course content
+metrics:
+  updated: '2025-10-20T12:12:12Z'
+  stars: 0
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

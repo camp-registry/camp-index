@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2021-12-15T10:04:02Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin provides a message processor for Mattermost. A Mattermost site
+  can configure the mattermost notification plugin to be used for message outputs.
+  Then, any Moodle user who is a member of that Mattermost site can configure their
+  account to enable/disable Mattermost notifications and receive

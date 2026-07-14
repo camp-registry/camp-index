@@ -11,3 +11,10 @@ summary: Branch Office User Upload is a Moodle local plugin that delegates user 
   to the people closest to the data. Designated branch representatives upload a simple
   CSV of employees, see a colour-coded preview, and confirm — and the plugin enforces
   that they can only ever touch users belonging t
+metrics:
+  updated: '2026-06-08T13:59:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

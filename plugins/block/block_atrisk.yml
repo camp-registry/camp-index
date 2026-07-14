@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: 'A Moodle block that shows teachers, inside the course, which students may
   be falling behind and why: no recent activity, missed assignment or quiz deadlines,
   grades trending down, or stalled progress.'
+metrics:
+  updated: '2026-06-10T18:10:12Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

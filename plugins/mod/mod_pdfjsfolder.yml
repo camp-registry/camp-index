@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: PDF.js Folder is a Moodle plugin intended to make sure that added PDFs always
   open in the browser
+metrics:
+  updated: '2013-12-03T12:19:26Z'
+  stars: 2
+  forks: 7
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

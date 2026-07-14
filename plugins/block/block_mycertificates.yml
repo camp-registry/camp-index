@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-09-19T20:11:27Z'
+  stars: 2
+  forks: 5
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin displays the user's issued certificates. Currently displaying
+  certificates from Simple Certificate and Custom Certificate modules.

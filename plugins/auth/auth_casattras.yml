@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A CAS (SSO) authentication module for Moodle that uses releaseed attributes
   rather than LDAP for user-information.
+metrics:
+  updated: '2025-10-16T00:25:48Z'
+  stars: 12
+  forks: 16
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple matrix question splitting a set of question to a set of possible
   answers (question grid)
+metrics:
+  updated: '2025-05-05T07:41:09Z'
+  stars: 2
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

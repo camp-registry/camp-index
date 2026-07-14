@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: A plugin that adds a configurable help menu to Moodle's navigation bar.
 license: GPL-3.0
+metrics:
+  updated: '2026-04-17T17:10:16Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

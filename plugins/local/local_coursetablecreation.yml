@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: OLD:local scheduled task script to create managed courses - UoG specific
+metrics:
+  updated: '2017-08-08T08:14:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

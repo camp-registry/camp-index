@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block that can display the section of the course branch of the global navigation
   in a hierarchical structure.
+metrics:
+  updated: '2012-09-29T01:46:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

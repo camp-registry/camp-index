@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Configure answering times per question / page in a quiz
+metrics:
+  updated: '2026-04-14T13:22:45Z'
+  stars: 2
+  forks: 4
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

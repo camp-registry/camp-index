@@ -9,3 +9,10 @@ releases: []
 license: GPL-2.0
 summary: Enable teacher to auto create moodle courses using data from external sources
   like database, json and csv files
+metrics:
+  updated: '2026-06-22T07:50:33Z'
+  stars: 3
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

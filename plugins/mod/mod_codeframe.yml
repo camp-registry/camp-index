@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A smart, responsive iframe/HTML wrapper activity module for Moodle 4.x/5.x
   with automatic completion tracking for custom HTML5 packages and Genially.
+metrics:
+  updated: '2026-07-07T00:01:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

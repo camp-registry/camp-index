@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Slightly updated version of the Planet eStream repository plugin (originally
   download from https://moodle.org/plugins/view.php?plugin=repository_planetestream)
+metrics:
+  updated: '2014-02-21T16:23:21Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

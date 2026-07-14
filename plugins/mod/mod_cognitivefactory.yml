@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: (unfinished) A module that deals with cognitive operators on a set of colleted
   statements, used for brainstorming, or discovering of the cognitive capabilities
   of human intelligence.
+metrics:
+  updated: '2023-10-24T13:22:12Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

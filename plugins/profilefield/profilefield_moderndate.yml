@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for User Profile Field that allows handling dates in a single
   modern control, avoiding drop-down lists that complicate the interface.
+metrics:
+  updated: '2026-05-18T05:21:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

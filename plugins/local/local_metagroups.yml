@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle local plugin to synchronize meta-course groups
+metrics:
+  updated: '2025-10-16T19:14:31Z'
+  stars: 9
+  forks: 15
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

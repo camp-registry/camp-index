@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T15:57:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Conference Scheduler — a Moodle activity that turns the accepted submissions
+  from modconfprogram into a drag-and-drop time × room schedule, with autoscheduling
+  and print/export support.

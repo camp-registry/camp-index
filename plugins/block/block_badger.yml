@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle block to allow recognition of achievement through badges. Promotes
   student engagement/motivation through reward of Open Badges - http://openbadges.org/en-US/
+metrics:
+  updated: '2013-02-17T09:46:09Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

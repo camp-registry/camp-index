@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-02-29T17:35:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The Moodle Block Plugin named "Google Search" integrates Google Custom Search
+  functionality directly into your Moodle platform. This plugin allows users to search
+  the web using Google's search engine within the Moodle environment. Users can input
+  their search queries and retrieve relevant search res

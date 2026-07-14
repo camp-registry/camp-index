@@ -9,3 +9,10 @@ releases: []
 license: Apache-2.0
 summary: A simple ORM, with a Unit of Work, to easily save cascading data from Moodle
   Forms, using Moodle Entities, through single database transactions.
+metrics:
+  updated: '2023-05-15T20:09:49Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

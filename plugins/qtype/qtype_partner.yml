@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Lab partner selection pseudo-question type for Moodle 2.1+; intended to be
   used with the Quiz Sync local plugin.
+metrics:
+  updated: '2012-08-14T00:44:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

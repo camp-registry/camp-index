@@ -11,3 +11,10 @@ summary: A plugin for Learning Analytics. The intention is to provide a learning
   (LA) overview for Coursecreator's, Teachers and Students as well. Lytix is the main
   plugin with several widgets. Each widget is a subplugin and can be added or removed
   accordingly. Each platform we support uses a diffe
+metrics:
+  updated: '2026-05-05T14:20:27Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

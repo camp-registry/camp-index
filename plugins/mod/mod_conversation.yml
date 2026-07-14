@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Students can practice speaking directly with an AI chatbot, preparing for
   real-life conversations.
+metrics:
+  updated: '2026-05-14T16:13:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

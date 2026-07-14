@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Short demo of how to use the moodle-local_vuejs plugin with your own vuejs
   projects.
+metrics:
+  updated: '2023-01-01T15:18:51Z'
+  stars: 4
+  forks: 2
+  open-issues: 24
+  archived: false
+  checked: '2026-07-11'

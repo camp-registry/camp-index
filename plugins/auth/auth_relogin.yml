@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: In moodle websites, as the browser closed the user not logged in any more
   even if the session is not expired, this plugin provide auto login mechanism to
   re-login the users with unexpired sessions.
+metrics:
+  updated: '2025-07-29T01:37:35Z'
+  stars: 4
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

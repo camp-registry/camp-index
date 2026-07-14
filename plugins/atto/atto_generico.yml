@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: An Atto Companion for the Generico Filter
+metrics:
+  updated: '2018-09-04T08:49:15Z'
+  stars: 7
+  forks: 3
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

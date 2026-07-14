@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Contentmodifier includes custom renderers allowing to modify moodle's main
   html-content
+metrics:
+  updated: '2025-05-21T11:48:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

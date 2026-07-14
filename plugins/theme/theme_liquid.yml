@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-03T13:40:21Z'
+  stars: 0
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: Liquid is a sleek, modern, and highly customizable Moodle theme designed
+  to elevate the user experience. With an automatic dark mode and a streamlined front
+  page featuring configurable sliders and FAQ blocks, Liquid offers a polished and
+  sophisticated aesthetic while enhancing Moodle’s core function

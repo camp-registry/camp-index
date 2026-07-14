@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Collapsed Topics course format for Moodle.
 license: GPL-3.0
+metrics:
+  updated: '2026-04-19T18:09:11Z'
+  stars: 34
+  forks: 66
+  open-issues: 14
+  archived: false
+  checked: '2026-07-11'

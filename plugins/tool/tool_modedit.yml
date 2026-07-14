@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Provides edit links to all activities and resources on a page. This is useful
   if there's some content that has broken the page layout.
+metrics:
+  updated: '2025-08-15T08:02:02Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

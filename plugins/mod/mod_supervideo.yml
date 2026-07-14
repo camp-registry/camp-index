@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-18T15:59:06Z'
+  stars: 12
+  forks: 14
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: A module designed to simplify embedding YouTube, Vimeo, and Google Drive
+  videos in the Moodle environment.

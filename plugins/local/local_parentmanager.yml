@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Local plugin designed to facilitate the association between students and
   their parents (or mentors)
+metrics:
+  updated: '2026-04-14T13:35:04Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

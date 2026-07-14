@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-29T17:07:03Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin makes use of the CI/CD capabilities implemented by Catalyst Moodle
+  Workflows. It relies solely in the version.php file to analyze and run automated
+  tests for the various supported Moodle versions.

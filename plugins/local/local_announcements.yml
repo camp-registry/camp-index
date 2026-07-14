@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-01T01:04:42Z'
+  stars: 3
+  forks: 1
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: An announcements system (developed as a local plugin) that allows for advanced
+  and complex audience targeting. Used as the primary means of daily communication
+  and tailored to the requirements of Canberra Grammar School. A companion block also
+  exists for displaying latest announcements within course

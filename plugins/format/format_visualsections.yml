@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Visual sections format for moodle
+metrics:
+  updated: '2022-12-07T01:27:54Z'
+  stars: 1
+  forks: 0
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Example Moodle block that shows the questions in a course that have been
   flagged.
+metrics:
+  updated: '2014-02-24T09:34:24Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

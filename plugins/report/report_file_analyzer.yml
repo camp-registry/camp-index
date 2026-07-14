@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Display info about and analyze moodle files and repo. View or download any
   files.
+metrics:
+  updated: '2023-10-13T04:41:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

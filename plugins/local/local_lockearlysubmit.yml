@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Automatically lock assignment submissions made *before* the due date once
   the due date has passed, to prevent students from overriding early submissions.
   Also unlocks submissions if an extension is granted.
+metrics:
+  updated: '2025-08-22T07:30:46Z'
+  stars: 0
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

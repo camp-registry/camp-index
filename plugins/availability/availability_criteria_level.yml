@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Restrict course activity & resources by assignment rubric grade/level
+metrics:
+  updated: '2023-01-24T20:54:38Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

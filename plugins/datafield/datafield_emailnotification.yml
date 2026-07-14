@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A data field type component to moodle. Send a email notification when a record
   is created or updated.
+metrics:
+  updated: '2023-12-28T06:48:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

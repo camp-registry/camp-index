@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle plugin which can publish SNS messages on a particular events
+metrics:
+  updated: '2026-03-09T10:27:28Z'
+  stars: 0
+  forks: 4
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

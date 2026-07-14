@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-15T15:22:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A utility plugin that provides a unified interface for making LLM requests
+  across multiple Moodle AI backends. Other plugins (such as qtypeaitext) can use
+  this bridge to send prompts to whichever AI backend is configured, without needing
+  to implement backend-specific code themselves.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is a moodle 2.5 repository which connect with your private MediaDrop
   installations
+metrics:
+  updated: '2014-02-28T05:56:02Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

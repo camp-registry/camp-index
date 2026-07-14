@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: qtype proforma (a moodle-plugin for programming exercises)
+metrics:
+  updated: '2026-05-27T05:52:35Z'
+  stars: 2
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

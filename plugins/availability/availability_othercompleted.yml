@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin allow to restrict access of activities and resources in your
   course based on other course completion.
+metrics:
+  updated: '2024-06-10T14:28:27Z'
+  stars: 7
+  forks: 17
+  open-issues: 23
+  archived: false
+  checked: '2026-07-11'

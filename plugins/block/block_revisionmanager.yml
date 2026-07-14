@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-10-02T14:45:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin aims to introduce Active Recalling in a courses. Students will
+  be able to tag how much they are comfortable with each content. Then they will will
+  be able to mark when they should review each material.

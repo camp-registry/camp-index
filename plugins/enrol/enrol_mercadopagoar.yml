@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle enrolment plugin for Mercado Pago Argentina (ARS), based on mpcheckoutpro
   (Colombia).
+metrics:
+  updated: '2026-06-02T14:52:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

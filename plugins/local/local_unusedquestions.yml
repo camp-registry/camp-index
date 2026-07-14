@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Extends the Moodle question bank to find questions which are / are not used
   in a quiz.
+metrics:
+  updated: '2017-04-30T09:12:54Z'
+  stars: 1
+  forks: 8
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

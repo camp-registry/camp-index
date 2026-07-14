@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle local plugin User Sync Csv repository
+metrics:
+  updated: '2016-08-04T18:54:58Z'
+  stars: 0
+  forks: 5
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

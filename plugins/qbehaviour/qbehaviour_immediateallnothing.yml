@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A question behaviour like Immediate feedback except all questions are graded
   all-or-nothing
+metrics:
+  updated: '2021-02-06T20:26:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

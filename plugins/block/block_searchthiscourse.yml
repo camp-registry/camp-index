@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A block for deep searching a course's resources (modules) for keyword/s.
+metrics:
+  updated: '2013-05-14T13:15:00Z'
+  stars: 2
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

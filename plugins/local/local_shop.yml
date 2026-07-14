@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: core plugin for a moodle integrated shop system. this is the community version
+metrics:
+  updated: '2017-03-17T14:58:04Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

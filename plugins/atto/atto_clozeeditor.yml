@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Plugin for the Atto text editor of Moodle LMS to create cloze questions more
   easy like the CLOZE editor plugin for TinyMCE
+metrics:
+  updated: '2016-08-11T13:23:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 summary: 'CodeRunner: A moodle quiz question type that runs student-submitted program
   code in a sandbox to check if it satisfies a given set of tests.'
 license: GPL-2.0
+metrics:
+  updated: '2026-07-09T01:35:47Z'
+  stars: 239
+  forks: 146
+  open-issues: 42
+  archived: false
+  checked: '2026-07-11'

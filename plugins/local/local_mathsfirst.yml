@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Enable to limited public access to a restricted number of short Moodle Quiz
   activities to assess their readiness for selected courses. Intended for prospective
   Massey students.
+metrics:
+  updated: '2026-03-07T23:45:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

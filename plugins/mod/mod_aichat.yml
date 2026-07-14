@@ -9,3 +9,10 @@ releases: []
 summary: With this plugin for Moodle, your platform users can chat with a Large Language
   Model such as GPT.
 license: GPL-3.0
+metrics:
+  updated: '2025-11-18T07:16:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

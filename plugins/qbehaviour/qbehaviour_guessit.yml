@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Question behaviour for the guessit question type only (Adaptive mode with
   help)
+metrics:
+  updated: '2026-04-29T08:55:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

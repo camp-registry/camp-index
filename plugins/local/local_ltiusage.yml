@@ -11,3 +11,10 @@ summary: The LTI Usage plugin is a Moodle local plugin that provides administrat
   and managers with a comprehensive report on Learning Tools Interoperability (LTI)
   activities across the entire site. This plugin helps institutions track and manage
   their LTI tool usage effectively.
+metrics:
+  updated: '2025-12-09T14:40:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

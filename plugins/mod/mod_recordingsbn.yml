@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Blindside Networks integration of BigBlueButton for Moodle. This is an Activity
   Module for playback recording administration
+metrics:
+  updated: '2019-01-08T17:00:24Z'
+  stars: 16
+  forks: 14
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

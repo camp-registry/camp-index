@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Webservice plugin for moodle. It extend the SOAP server. This server generate
   WSDL with full documented array
+metrics:
+  updated: '2015-11-03T09:50:38Z'
+  stars: 1
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-09-03T15:09:49Z'
+  stars: 7
+  forks: 6
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin adds joy and fun to your Moodle platform by displaying confetti
+  effects when certain events occur.

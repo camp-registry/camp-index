@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: TinyMCE editor plugin for Moodle™ that allows inserting Video Lesson content
   directly into the text editor.
+metrics:
+  updated: '2026-07-09T07:33:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

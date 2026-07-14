@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: Moodle plugin which provides API functions as well as general settings for
   all Opencast plugins for Moodle and which is required by them.
+metrics:
+  updated: '2026-06-23T03:28:51Z'
+  stars: 17
+  forks: 12
+  open-issues: 18
+  archived: false
+  checked: '2026-07-11'

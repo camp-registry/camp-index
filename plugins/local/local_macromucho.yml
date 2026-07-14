@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin that allows easy and fast bulk creation of multiple choice
   questions of different question types.
+metrics:
+  updated: '2020-02-27T10:35:48Z'
+  stars: 1
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

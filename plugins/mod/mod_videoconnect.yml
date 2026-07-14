@@ -11,3 +11,10 @@ summary: This module allows users to upload a video as a resource, which is then
   uploaded to their Vimeo account through a scheduled task. If you already know the
   video ID, you can enter it directly. When rendering the video, if the upload process
   is still ongoing, Vimeo displays a message indi
+metrics:
+  updated: '2024-11-30T15:51:03Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

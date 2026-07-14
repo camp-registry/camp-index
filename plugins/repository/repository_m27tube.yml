@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An interim replacement for the official Moodle 2.7 bundled youtube repository,
   using the new YouTube APIs
+metrics:
+  updated: '2015-09-06T18:11:48Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

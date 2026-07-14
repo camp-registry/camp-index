@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle plugin for Wooflash (https://www.wooflash.com)
+metrics:
+  updated: '2026-05-21T15:34:25Z'
+  stars: 0
+  forks: 4
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

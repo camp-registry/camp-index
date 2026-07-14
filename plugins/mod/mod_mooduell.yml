@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Player vs. Player Game using Moodle Quiz Questions (Multiplayer Oriented
   Online DUELL)
+metrics:
+  updated: '2026-07-02T13:51:01Z'
+  stars: 2
+  forks: 4
+  open-issues: 28
+  archived: false
+  checked: '2026-07-11'

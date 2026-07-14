@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This Moodle filter adds fullscreen functionality to images in book or any
   other activities. When enabled, it adds a fullscreen icon to the top-right corner
   of every image, allowing users to view the image in fullscreen mode.
+metrics:
+  updated: '2025-07-14T15:07:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

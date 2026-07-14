@@ -11,3 +11,10 @@ summary: A plugin for Moodle that displays all of a teacher's unmarked work from
   the site in one block. The interface is an expandable AJAX-loading tree (course
   -> activity -> user), which provides a pop-up when a user is clicked, which allows
   the work to be marked without leaving the page.
+metrics:
+  updated: '2016-07-07T14:44:11Z'
+  stars: 12
+  forks: 11
+  open-issues: 1
+  archived: true
+  checked: '2026-07-11'

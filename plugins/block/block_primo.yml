@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle block plugin for searching libraries based on ExLibris Primo search
   engine.
+metrics:
+  updated: '2016-06-05T13:27:00Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

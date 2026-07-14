@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle plugin that allows multiple graders for assignments
+metrics:
+  updated: '2025-12-17T13:13:17Z'
+  stars: 5
+  forks: 7
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

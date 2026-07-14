@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-22T19:44:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin uses Babel + Moodle’s built-in Grunt AMD builder to compile React
+  .jsx files into Moodle-compatible AMD modules — without needing Vite or Webpack.

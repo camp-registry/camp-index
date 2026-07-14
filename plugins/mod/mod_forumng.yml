@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ForumNG forum module for Moodle
+metrics:
+  updated: '2026-06-29T09:20:59Z'
+  stars: 19
+  forks: 19
+  open-issues: 25
+  archived: false
+  checked: '2026-07-11'

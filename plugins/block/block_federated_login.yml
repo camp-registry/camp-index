@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A login block to help users at multiple institutions manage their 'default
   home'
+metrics:
+  updated: '2018-06-08T16:41:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

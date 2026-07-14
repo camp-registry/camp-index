@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-10-09T23:56:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Because this plugin requires a theme based on boost and will not work with
+  themes based on bootstrapbase, and that Moodle 3.7 will not have support for themes
+  based on bootstrapbase, I will only maintain a version of this plugin for Moodle
+  3.7+ moving forward. This also means that I have deleted the

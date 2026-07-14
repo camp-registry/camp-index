@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Filter for attaching slider created in block_slider to content in Moodle.
+metrics:
+  updated: '2025-10-09T21:34:27Z'
+  stars: 0
+  forks: 1
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle plugin where teachers can upload a wide variety of multimedia texts
   which participants can then annotate.
+metrics:
+  updated: '2023-12-11T17:33:23Z'
+  stars: 1
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

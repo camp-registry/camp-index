@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Justify align for Moodle atto editor https://moodle.org/plugins/atto_justify
+metrics:
+  updated: '2026-02-19T17:59:59Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

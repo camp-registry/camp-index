@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Submission plugin for the new assignment type (2.3) for Moodle. Simulates
   an ongoing email exchange.
+metrics:
+  updated: '2021-09-15T13:04:12Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

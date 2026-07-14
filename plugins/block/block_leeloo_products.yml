@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-10-26T11:22:45Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This block allows admin to show the Leeloo LXP products in Moodle, they can
+  sell whatever prodcuts they have on Leeloo LXP. the purchase process happens inside
+  popup so user dont leave the moodle site.

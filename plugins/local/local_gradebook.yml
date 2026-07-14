@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Local plugin to make more user-friendly the calculation of moodle grades
+metrics:
+  updated: '2017-07-06T14:46:40Z'
+  stars: 2
+  forks: 1
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

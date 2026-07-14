@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block that provides selective MNET access links depending on some profile
   fields attached to each MNET node in the environment
+metrics:
+  updated: '2025-11-26T11:26:05Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

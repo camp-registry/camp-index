@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that gives all students a short time to answer a question,
   before displaying the results to the class
+metrics:
+  updated: '2026-04-24T15:03:20Z'
+  stars: 14
+  forks: 15
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

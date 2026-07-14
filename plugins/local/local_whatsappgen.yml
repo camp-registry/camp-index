@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: This is a moodle plugin to create WhatsApp messages for the course participants
 license: GPL-3.0
+metrics:
+  updated: '2025-12-02T03:57:40Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

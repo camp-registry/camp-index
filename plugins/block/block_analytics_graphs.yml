@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Learning analytics Moodle plugin - graphs to help teachers.
 license: GPL-3.0
+metrics:
+  updated: '2026-05-28T17:21:03Z'
+  stars: 18
+  forks: 16
+  open-issues: 13
+  archived: false
+  checked: '2026-07-11'

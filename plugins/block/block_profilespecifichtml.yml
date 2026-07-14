@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block that provides distinct content wether some value you have in a predefined
   custom fiedl in your profile
+metrics:
+  updated: '2026-06-01T11:28:46Z'
+  stars: 3
+  forks: 3
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

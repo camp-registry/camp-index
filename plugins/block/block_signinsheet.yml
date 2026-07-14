@@ -11,3 +11,10 @@ summary: This block can be added to a course page to automatically generate cour
   sign in sheets for students. A custom logo and field can be added to the generated
   sheet. Printer Friendly option is also available. Current version of the plugin
   for Moodle 3.5.
+metrics:
+  updated: '2018-11-01T23:10:03Z'
+  stars: 3
+  forks: 7
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-05-30T09:01:03Z'
+  stars: 4
+  forks: 4
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'
+summary: A block to display of courses from the global list of courses.

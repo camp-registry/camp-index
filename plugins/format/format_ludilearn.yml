@@ -9,3 +9,10 @@ releases: []
 summary: Ludilearn is an innovative course format for Moodle that aims to improve
   learner success through adaptive gamification.
 license: GPL-3.0
+metrics:
+  updated: '2026-06-22T09:48:24Z'
+  stars: 3
+  forks: 3
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

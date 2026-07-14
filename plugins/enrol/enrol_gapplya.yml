@@ -11,3 +11,10 @@ summary: '"Enrolment Request" is a powerful, enterprise-grade enrollment plugin 
   Moodle. It allows institutions to manage course applications with dynamic custom
   forms, strict approval workflows, and comprehensive audit trails.  This plugin is
   a majorly extended and completely refactored version of the ori'
+metrics:
+  updated: '2026-04-22T15:02:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

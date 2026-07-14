@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-01T10:18:50Z'
+  stars: 4
+  forks: 4
+  open-issues: 25
+  archived: false
+  checked: '2026-07-11'
+summary: DeepLer is a local Moodle plugin that provides automatic machine translation
+  or text improvement (not available with ©DeepL free api accounts) using the ©DeepL
+  Pro Translation api.

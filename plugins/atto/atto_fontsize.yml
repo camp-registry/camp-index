@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Font Size plugin for the Moodle Atto Editor
+metrics:
+  updated: '2023-09-19T14:17:19Z'
+  stars: 3
+  forks: 15
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

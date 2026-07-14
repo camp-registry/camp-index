@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: a non real world module for teaching about Moodle dev in the MoodleBites
   course
+metrics:
+  updated: '2017-11-09T01:03:28Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

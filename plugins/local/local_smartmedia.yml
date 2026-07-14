@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle LMS Smartmedia local plugin
+metrics:
+  updated: '2025-11-16T23:40:54Z'
+  stars: 7
+  forks: 5
+  open-issues: 49
+  archived: false
+  checked: '2026-07-11'

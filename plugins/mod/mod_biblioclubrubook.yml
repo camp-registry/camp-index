@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Книга из ЭБС Biblioclub
+metrics:
+  updated: '2024-07-16T12:43:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Facetoface Module for Moodle 2.0 and above
+metrics:
+  updated: '2026-04-10T06:35:33Z'
+  stars: 8
+  forks: 60
+  open-issues: 54
+  archived: false
+  checked: '2026-07-11'

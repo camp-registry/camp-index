@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-06-06T12:58:37Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Este é um protótipo de interface para relatório de evasão. Trata-se de um
+  plugin desenvolvido para o Moodle no contexto de um projeto de Mestrado. Para conhecer
+  mais sobre o projeto vá em https://dspace.ifrs.edu.br/handle/123456789/1935.

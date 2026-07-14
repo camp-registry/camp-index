@@ -10,3 +10,10 @@ summary: O local_suap é um plugin local do Moodle responsável pelo núcleo da 
   entre o AVA (Ambiente Virtual de Aprendizagem) e o SUAP (Sistema Unificado de Administração
   Pública), realizando a sincronização bidirecional de dados acadêmicos.
 license: GPL-3.0
+metrics:
+  updated: '2026-06-25T14:08:22Z'
+  stars: 3
+  forks: 2
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

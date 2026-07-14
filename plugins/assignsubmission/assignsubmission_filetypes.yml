@@ -11,3 +11,10 @@ summary: When creating an assignment, teachers should have the option to restric
   the types of files students may submit. When a student edits their submission, the
   filepicker should not allow files to be uploaded that do not match the specified
   filetypes.
+metrics:
+  updated: '2014-12-08T13:51:42Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

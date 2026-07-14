@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle availability method that allows restricting access to a module based
   on its own completion status
+metrics:
+  updated: '2025-07-14T15:10:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

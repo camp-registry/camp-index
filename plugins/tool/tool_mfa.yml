@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Multi-Factor Authentication Moodle plugin with flexible support for TOTP,
   Email, IP and more
+metrics:
+  updated: '2026-06-04T23:33:39Z'
+  stars: 35
+  forks: 40
+  open-issues: 99
+  archived: false
+  checked: '2026-07-11'

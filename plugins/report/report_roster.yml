@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple Moodle report which displays the user pictures for everyone enrolled
   in a given course.
+metrics:
+  updated: '2025-12-12T14:21:16Z'
+  stars: 2
+  forks: 7
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

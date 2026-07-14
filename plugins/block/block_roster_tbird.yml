@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 summary: A modified course roster block for Moodle 2.3+
+metrics:
+  updated: '2014-06-23T23:03:52Z'
+  stars: 1
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

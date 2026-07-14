@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: SmartsBridge resources block allowing the inclusion of help files and glossaries
   without the need for a course
+metrics:
+  updated: '2015-06-15T12:17:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An accessibility plugin that allows users to customize the visual appearance
   of a Moodle to suit individual preferences.
+metrics:
+  updated: '2025-09-27T07:32:32Z'
+  stars: 3
+  forks: 6
+  open-issues: 17
+  archived: false
+  checked: '2026-07-11'

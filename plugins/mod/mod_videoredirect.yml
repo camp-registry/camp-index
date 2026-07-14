@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-08-27T21:28:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Loads a video frame that can redirect you to another page when video ends.
+  It relies on VideoJS plugin, but also allows to play Vimeo videos.

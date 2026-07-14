@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Check your installed plugins compatibility in every Moodle version
+metrics:
+  updated: '2020-05-21T18:17:37Z'
+  stars: 1
+  forks: 2
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

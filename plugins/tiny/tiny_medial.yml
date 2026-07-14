@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle TinyMCE 6+ Editor Plugin for MEDIAL
+metrics:
+  updated: '2026-05-26T11:30:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

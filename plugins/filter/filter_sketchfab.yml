@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Automatic Sketchfab embedding based on URLs.
+metrics:
+  updated: '2015-07-16T09:46:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: true
+  checked: '2026-07-11'

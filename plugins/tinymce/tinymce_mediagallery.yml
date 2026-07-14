@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2014-07-01T05:08:55Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: When used in conjuction with the filter plugin (http://github.com/netspotau/moodle-filtermediagallery)
+  this plugin allows you to have carousels of a gallery or galleries displayed in
+  your course in labels and such.

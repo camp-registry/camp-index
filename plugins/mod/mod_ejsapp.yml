@@ -9,3 +9,10 @@ releases: []
 summary: A Moodle activity module for embedding EJS applications. Embed virtual and/or
   remote laboratories into Moodle with just a few clicks!
 license: GPL-3.0
+metrics:
+  updated: '2020-07-04T00:04:16Z'
+  stars: 12
+  forks: 5
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

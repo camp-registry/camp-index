@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Resource Stats is a Moodle local plugin that tracks and displays access statistics
   for course modules directly on the course page.
+metrics:
+  updated: '2026-06-20T17:43:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle local plugin: welcome emails for newly-created users (depends on
   auth_magiclink v3.2+)'
+metrics:
+  updated: '2026-07-07T14:44:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

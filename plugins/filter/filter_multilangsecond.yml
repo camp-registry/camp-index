@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A more flexible version of Moodle multilang filter.
+metrics:
+  updated: '2025-10-28T10:26:29Z'
+  stars: 1
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle plugin which offers a new form element for Moodle forms. The form
   element is a file upload field, which uploads one file as multiple small chunks.
   While uploading the form element shows a progress bar to the user.
+metrics:
+  updated: '2026-01-23T10:37:24Z'
+  stars: 6
+  forks: 8
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

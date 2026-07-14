@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This local module allows a teacher to download all files uploaded by teachers
   to a given course in Moodle.
+metrics:
+  updated: '2026-03-31T13:50:06Z'
+  stars: 1
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Simple clean 2 column theme
+metrics:
+  updated: '2014-07-04T11:38:03Z'
+  stars: 18
+  forks: 32
+  open-issues: 26
+  archived: false
+  checked: '2026-07-11'

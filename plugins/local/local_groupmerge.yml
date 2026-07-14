@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-11T07:56:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin allows teachers to link Moodle course groups together so that
+  members of selected source groups are automatically synchronised into a target group.
+  When members are later added to or removed from a source group, the target group
+  is updated in real-time via event observers. Two synchronis

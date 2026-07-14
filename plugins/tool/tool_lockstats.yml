@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle cron / task API lock statistics admin tool
+metrics:
+  updated: '2025-04-16T01:23:14Z'
+  stars: 6
+  forks: 13
+  open-issues: 23
+  archived: false
+  checked: '2026-07-11'

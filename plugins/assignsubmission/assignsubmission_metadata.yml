@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Submission Sub plugin which adds extra metadata field for assignment submissions
+metrics:
+  updated: '2013-09-06T18:46:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

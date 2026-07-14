@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-03T12:38:17Z'
+  stars: 0
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'
+summary: STACK Math Editor is a Moodle local plugin that adds a visual MathQuill-based
+  formula editor to STACK question answer inputs in quiz attempts, quiz review, and
+  STACK question preview contexts.

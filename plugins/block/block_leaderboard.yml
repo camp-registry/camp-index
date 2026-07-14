@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-01-10T01:14:29Z'
+  stars: 0
+  forks: 3
+  open-issues: 17
+  archived: false
+  checked: '2026-07-11'
+summary: The leaderboard is designed so that you can combine students into groups
+  and then rank their groups based on the amount of good study habits they take part
+  in. These include doing assignments and quizzes early, attempting quizzes multiple
+  times, posting and responding on a forum, and participating i

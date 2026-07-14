@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: With this moodle plugin you can easily create courses based on course templates.
   The plugin also can be used to easily duplicate courses.
+metrics:
+  updated: '2024-04-02T18:52:05Z'
+  stars: 12
+  forks: 10
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A Moodle admin tool plugin that integrates with the UptimeRobot monitoring
   service (free or paid) to monitor your Moodle site's availability, cron health,
   and maintenance mode status.
+metrics:
+  updated: '2026-01-02T16:40:21Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

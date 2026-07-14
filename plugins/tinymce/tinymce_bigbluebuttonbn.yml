@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A TinyMCE editor plugin that allows to add an audio/video annotation using
   BigBlueButton
+metrics:
+  updated: '2016-09-06T17:57:33Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

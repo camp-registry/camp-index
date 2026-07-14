@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Question bank to Word converter
+metrics:
+  updated: '2025-04-24T10:51:19Z'
+  stars: 10
+  forks: 12
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'

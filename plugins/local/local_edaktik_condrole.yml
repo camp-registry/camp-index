@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin enables Moodle roles to be automatically assigned to users in
   defined contexts.
+metrics:
+  updated: '2019-09-11T14:24:55Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

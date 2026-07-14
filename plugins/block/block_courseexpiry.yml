@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Block for use on dashboard that shows if courses are scheduled for deletion
   by local_courseexpiry
+metrics:
+  updated: '2025-10-28T19:12:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

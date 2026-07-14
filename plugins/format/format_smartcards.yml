@@ -11,3 +11,10 @@ summary: SmartCards (format_smartcards) is a Moodle course format that renders a
   as a grid of buttons/cards while reusing native cm_info availability logic — replacing
   the button-image + stealth-activity workaround without losing restriction reasons
   or open/close dates.
+metrics:
+  updated: '2026-07-10T15:43:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

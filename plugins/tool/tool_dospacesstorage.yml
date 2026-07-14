@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-11-06T16:27:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A lightweight Moodle admin tool plugin that replaces local file storage with
+  DigitalOcean Spaces object storage. Designed for cloud deployments with ephemeral
+  disks (like DigitalOcean App Platform).

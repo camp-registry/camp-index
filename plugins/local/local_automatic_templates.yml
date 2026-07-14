@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A local plugin to automatically restore template backups into "blank" courses
   within Moodle
+metrics:
+  updated: '2026-07-08T21:06:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

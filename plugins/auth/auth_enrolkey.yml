@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Much simpler 1-step registration and enrolment using course enrol keys
+metrics:
+  updated: '2025-01-05T23:08:57Z'
+  stars: 12
+  forks: 20
+  open-issues: 23
+  archived: false
+  checked: '2026-07-11'

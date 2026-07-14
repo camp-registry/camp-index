@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'RETIRED: A clone of Moodle''s mod_resource (''File''), but with an additional
   feature to set a deadline.'
+metrics:
+  updated: '2017-01-20T15:34:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: add users to default cohort in order to manage self-enroll on critical courses.
+metrics:
+  updated: '2018-01-09T15:03:08Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

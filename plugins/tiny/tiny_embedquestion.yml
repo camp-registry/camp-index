@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A TinyMCE editor plugin for use with the embed questions filter.
+metrics:
+  updated: '2026-06-25T09:17:19Z'
+  stars: 0
+  forks: 9
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

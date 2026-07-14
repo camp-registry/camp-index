@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Enhance your Moodle site with dynamic Open Graph metadata. Automatically
   generate and customize Open Graph tags for courses, pages, and other content to
   improve social media sharing and search engine visibility.
+metrics:
+  updated: '2025-05-19T21:45:17Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

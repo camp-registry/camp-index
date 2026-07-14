@@ -11,3 +11,10 @@ summary: The Flipbook activity module lets users with capabilities add a PDF fro
   upload or from a direct URL and display it in the course as an interactive magazine-style
   viewer with page-turn animation (PDF.js + PageFlip). Optional download link for
   the original PDF.
+metrics:
+  updated: '2026-04-15T10:09:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

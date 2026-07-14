@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A quiz access rule plugin for integrating with Save Exam Browser version
   2.0+
+metrics:
+  updated: '2024-03-02T12:10:26Z'
+  stars: 31
+  forks: 31
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

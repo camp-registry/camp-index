@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-23T13:52:48Z'
+  stars: 0
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: The basic Calculator is a straightforward calculator with the most common
+  operators such as plus,

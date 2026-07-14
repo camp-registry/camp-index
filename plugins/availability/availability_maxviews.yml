@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An availability condition for Moodle that limits the number of views of an
   activity by users
+metrics:
+  updated: '2026-04-30T13:14:26Z'
+  stars: 6
+  forks: 9
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

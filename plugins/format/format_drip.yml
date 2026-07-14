@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Drips course content based on enrollment start date, e.g. every week a new
   topic.
+metrics:
+  updated: '2025-01-06T08:18:59Z'
+  stars: 1
+  forks: 2
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

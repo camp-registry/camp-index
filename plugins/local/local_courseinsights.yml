@@ -11,3 +11,10 @@ summary: Course Insights is a Moodle reporting plugin that gives administrators 
   managers a clear overview of enrolments, course completion, assignments, quizzes,
   grades, teachers and recent activity. It includes live filters, charts, server-side
   sorting, pagination, CSV export and optional caching for la
+metrics:
+  updated: '2026-07-11T15:08:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

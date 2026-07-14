@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Subpage module allows you to add Moodle activities onto inner page within
   course
+metrics:
+  updated: '2024-07-01T08:45:51Z'
+  stars: 21
+  forks: 15
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

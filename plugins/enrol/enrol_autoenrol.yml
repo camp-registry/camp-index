@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Auto enrol plugin for Moodle.  Forked from markward/enrol_autoenrol and reorganised
   for direct cloning in Moodle tree
+metrics:
+  updated: '2026-07-07T07:18:02Z'
+  stars: 16
+  forks: 28
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: New version of the Attendance module for Moodle 2.4 and higher. (replaces
   mod_attforblock)
+metrics:
+  updated: '2019-07-02T20:31:21.094Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 summary: '[ARCHIVE] Starting Moodle 3.6, our plugin ships with Moodle! :tada: Use
   this:'
 license: GPL-3.0
+metrics:
+  updated: '2019-05-13T15:21:44Z'
+  stars: 8
+  forks: 7
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

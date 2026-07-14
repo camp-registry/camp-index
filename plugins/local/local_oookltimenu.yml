@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-25T08:47:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: OOOK LTI course menu (localoookltimenu) adds an OOOK item to Moodle course
+  secondary navigation and launches a configured LTI 1.3 tool from that menu.

@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-05T09:18:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A TinyMCE editor plugin for Moodle that extends the original Components for
+  Learning (C4L) with an enhanced authoring experience. It opens a modal with a WYSIWYG
+  editable view of the editor content, constrained to a readable column width, and
+  provides a full set of C4L visual components designed exp

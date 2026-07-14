@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This Moodle plugin allows teachers to hide questions that have been correctly
   answered in previous attempts. This can be useful in preventing students from seeing
   the correct answers and encourages them to attempt the questions again.
+metrics:
+  updated: '2025-05-30T13:27:37Z'
+  stars: 1
+  forks: 5
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

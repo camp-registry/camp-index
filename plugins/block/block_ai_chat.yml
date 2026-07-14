@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-08T14:29:19Z'
+  stars: 15
+  forks: 13
+  open-issues: 14
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin provides a frontend to converse with defined AI's from localaimanager.

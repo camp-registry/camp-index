@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A question type for Moodle which calculates the correct response through
   a PHP function. It works with qtype_linkerdesc.
+metrics:
+  updated: '2018-02-26T18:26:09Z'
+  stars: 4
+  forks: 0
+  open-issues: 27
+  archived: true
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Official repository for GeoGebra (https://www.geogebra.org) module for Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-06-23T06:40:10Z'
+  stars: 20
+  forks: 20
+  open-issues: 20
+  archived: false
+  checked: '2026-07-11'

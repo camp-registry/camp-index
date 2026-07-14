@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-01T16:09:22Z'
+  stars: 3
+  forks: 4
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'
+summary: toolguidance helps editing teachers decide what to add or improve in a Moodle

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2021-06-23T12:11:03Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: The swipe feedback activity is a fun and simple activity where users can
+  provide feedback on images, text or videos, displayed on a deck of cards that can
+  be swiped right if liked, or swiped left if disliked.

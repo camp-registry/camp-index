@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2015-06-30T13:16:15Z'
+  stars: 1
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: Question search module for Moodle (http://moodle.org/) - Copyright (C) 2014
+  Ray Morris

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This an extention for the Moodle plugin 'Registration' (moodle-mod_registration).
   It gives all editors the possibility to show the number of submissions of a registration
   on any moodle page.
+metrics:
+  updated: '2015-09-09T14:48:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

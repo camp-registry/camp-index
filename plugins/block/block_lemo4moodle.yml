@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: lemo4moodle is an addon for the learning platform Moodle.
+metrics:
+  updated: '2021-05-13T11:47:06Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

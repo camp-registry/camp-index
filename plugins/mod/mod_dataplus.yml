@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An alternative database module that stores data for each instance in a standalone
   SQLite3 database.
+metrics:
+  updated: '2016-09-20T09:48:45Z'
+  stars: 4
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

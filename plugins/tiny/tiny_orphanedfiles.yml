@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-08-29T10:29:29Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A plugin for Moodle's TinyMCE editor to help clean up orphaned files that
+  are no longer used in the editor content.

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-17T08:43:11Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This course format allows you to use learningmaps (https://moodle.org/plugins/modlearningmap)
+  as the main page of your course. It requires modlearningmap to be installed (at
+  least version 0.9.9).

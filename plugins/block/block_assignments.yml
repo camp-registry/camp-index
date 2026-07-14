@@ -9,3 +9,10 @@ releases: []
 license: GPL-2.0
 summary: A plugin for the learning platform Moodle that shows graded and open assignments
   in one block.
+metrics:
+  updated: '2015-11-29T13:13:48Z'
+  stars: 1
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

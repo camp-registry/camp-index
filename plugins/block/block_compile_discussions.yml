@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block to select a forum and then output a compilation of all discussions
   in that forum
+metrics:
+  updated: '2015-02-06T23:46:03Z'
+  stars: 1
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

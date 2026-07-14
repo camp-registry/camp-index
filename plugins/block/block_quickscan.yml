@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: QuickScan Dyslexia Screening block for Moodle 2.3+
+metrics:
+  updated: '2025-10-20T16:16:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

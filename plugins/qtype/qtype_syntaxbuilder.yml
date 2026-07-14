@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: SYNTAXBAUER (‘syntax builder’) is designed for the syntactic analysis of
   (German) sentences, which is a common practice in linguistic studies.
+metrics:
+  updated: '2026-02-10T14:54:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

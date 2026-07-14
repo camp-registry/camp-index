@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: MuTMS  Multi-tenancy plugin for Moodle™ LMS
 license: GPL-3.0
+metrics:
+  updated: '2026-06-05T19:02:08Z'
+  stars: 3
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -11,3 +11,10 @@ summary: The CogniSpark Authoring Tool Plugin integrates the AI-powered CogniSpa
   platform with Moodle, allowing users to create interactive eLearning content directly
   within Moodle. Features include automated content creation, multimedia integration,
   and translation, streamlining course development and enh
+metrics:
+  updated: '2024-10-08T08:57:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

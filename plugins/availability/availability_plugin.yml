@@ -9,3 +9,10 @@ releases: []
 summary: Moodle availability plugin which lets users restrict resources and activities
   based on the existence of a particular plugin
 license: GPL-3.0
+metrics:
+  updated: '2025-10-20T13:34:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

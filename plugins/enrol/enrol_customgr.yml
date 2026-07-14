@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin add choose group to the self enrollment. It is based in the enrol_self
   plugin.
+metrics:
+  updated: '2024-09-24T06:20:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A simple navigation block to use in moodle courses, that work like a webpage.
+metrics:
+  updated: '2019-06-14T12:06:21Z'
+  stars: 4
+  forks: 4
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

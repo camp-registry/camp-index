@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle report plugin to display upgrade history
+metrics:
+  updated: '2026-02-27T12:45:02Z'
+  stars: 4
+  forks: 2
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

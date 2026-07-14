@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Markdown friendly editor for Moodle
 license: GPL-3.0
+metrics:
+  updated: '2025-03-02T12:35:23Z'
+  stars: 17
+  forks: 5
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

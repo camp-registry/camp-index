@@ -9,3 +9,10 @@ releases: []
 summary: Theme for moodle 3.11 and later versions. This theme is a boost child theme.
   It adds some cool new features.
 license: GPL-3.0
+metrics:
+  updated: '2026-07-02T08:39:47Z'
+  stars: 4
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

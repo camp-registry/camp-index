@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Simple moodle block to allow community upload and revolving display of banners
   in a moodle block
+metrics:
+  updated: '2013-01-13T12:05:12Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

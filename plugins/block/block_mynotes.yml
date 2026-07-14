@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: MIT
+metrics:
+  updated: '2018-01-12T15:03:42Z'
+  stars: 1
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: Mynotes Block

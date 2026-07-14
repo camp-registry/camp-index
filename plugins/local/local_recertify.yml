@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin for course re-certification (completion reset, supervisor
   notifications, participants overview).
+metrics:
+  updated: '2026-04-17T12:30:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

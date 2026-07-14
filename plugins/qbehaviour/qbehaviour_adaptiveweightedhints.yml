@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: An extension of the Weighted Adaptive behavior which allows hints.
+metrics:
+  updated: '2014-08-18T22:20:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

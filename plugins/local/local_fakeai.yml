@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-31T21:26:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Test-only Moodle plugin exposing an OpenAI-compatible chat completions endpoint
+  whose responses are scripted from the chat message itself. Used in the automated
+  test suite of LMSCloud AI Agent to drive toolaiagent (and any other consumer of
+  aiprovideropenaicompatible — also on the Moodle plugins dir

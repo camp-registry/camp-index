@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Experimental block to open Moodle activities in an iframe (rather than a
   new page)
+metrics:
+  updated: '2012-03-03T11:48:08Z'
+  stars: 3
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

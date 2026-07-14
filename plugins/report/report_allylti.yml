@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-02T17:04:38Z'
+  stars: 2
+  forks: 11
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'
+summary: The Ally reporting tool (reportallylti) provides a site wide accessibility
+  report which can be broken down by course.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple Moodle local plugin that allows students and other course participants
   to view, filter and download the course files that are available to them.
+metrics:
+  updated: '2022-08-23T23:17:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

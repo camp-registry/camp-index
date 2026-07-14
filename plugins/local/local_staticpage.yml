@@ -10,3 +10,10 @@ summary: Moodle plugin which displays static information pages which exist outsi
   any course, imprint or faq pages for example, complete with Moodle navigation and
   theme
 license: GPL-3.0
+metrics:
+  updated: '2026-07-05T06:39:59Z'
+  stars: 47
+  forks: 30
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

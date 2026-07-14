@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-10-26T11:22:32Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Add an awesome responsive FAQ section to your home page, dashboard or static
+  pages Manage all settings in a single page, right from your Leeloo LXP theme back
+  end.

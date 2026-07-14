@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This report lists activities, by type, in your site that contain flash-based
   content.
+metrics:
+  updated: '2026-07-06T06:13:21Z'
+  stars: 3
+  forks: 7
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

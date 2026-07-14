@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Integration of Augmented Reality, Virtual Reality and 360 Serious Game content
   into Moodle in the context of the eDeffinum project
+metrics:
+  updated: '2025-12-15T07:49:50Z'
+  stars: 1
+  forks: 2
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'

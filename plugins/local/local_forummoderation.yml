@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A plugin to provide a "report to moderator" functionality within a Moodle
   forum. This will give the user the ability to flag forum posts for review for numerous
   reasons.
+metrics:
+  updated: '2025-07-04T14:35:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Learning Science Spreadsheet Question type for Moodle
+metrics:
+  updated: '2016-11-23T13:58:25Z'
+  stars: 1
+  forks: 3
+  open-issues: 4
+  archived: true
+  checked: '2026-07-11'

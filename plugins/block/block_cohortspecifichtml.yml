@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This HTML block provides the possibility to selectively display the block
   to members of specific cohorts.
+metrics:
+  updated: '2026-07-05T14:03:03Z'
+  stars: 7
+  forks: 2
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

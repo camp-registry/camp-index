@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Jabber message notification that was removed from standard package in Moodle
   4.0
+metrics:
+  updated: '2022-03-23T11:26:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

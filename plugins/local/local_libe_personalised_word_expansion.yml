@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: LGPL-3.0
+metrics:
+  updated: '2016-10-14T17:09:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin was developed within the virtual learning environment LIBE, which
+  provides inquiry-based learning for the acquisition of key information processing
+  skills in ICT (literacy, numeracy, computer and information literacy, and problem
+  solving). The system is specially designed for low achievi

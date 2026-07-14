@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Front end for Generative AI tools. Part of the Cria suite of servers
+metrics:
+  updated: '2024-06-19T13:28:11Z'
+  stars: 4
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

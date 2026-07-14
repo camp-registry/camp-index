@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
+metrics:
+  updated: '2026-05-15T09:31:59Z'
+  stars: 29
+  forks: 28
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'
+summary: The Moodle Proctoring plugin is a Quiz Access plugin designed to capture
+  a user's picture via webcam to identify the individual attempting the Moodle quiz.
+  It automatically captures images from the user's webcam at 30-second intervals (or
+  any configurable time gap) and stores them as PNG files. Admi

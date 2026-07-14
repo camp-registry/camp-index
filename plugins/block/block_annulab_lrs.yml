@@ -11,3 +11,10 @@ summary: This block for Moodle gives access to a user’s own historical data se
   the moodle's logstore_xapi and tincanlaunch plugins to the LRS of Annulab in a graphical
   format and data table. It requires a free subscription at https://lrsdata.com. The
   LRS enables anyone who is connected to import his/her
+metrics:
+  updated: '2021-04-07T06:34:29Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

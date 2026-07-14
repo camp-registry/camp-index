@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: record load average / login users / response time / disk space in 5min interval
   and display chart for check system load
+metrics:
+  updated: '2022-11-01T14:28:42Z'
+  stars: 3
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

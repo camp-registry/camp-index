@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle profile field menu selection where key/value pairs are pulled from
   an SQL statement
+metrics:
+  updated: '2015-07-08T03:21:03Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

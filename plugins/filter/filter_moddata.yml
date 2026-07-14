@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-04T08:55:53Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: A simple filter allowing the use of the moddata plugin to allow usage of
+  data sets in Moodle. These data sets are mapped to users using course groups.

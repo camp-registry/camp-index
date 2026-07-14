@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This block integrates a Mistral AI conversational agent directly into a Moodle
   course. Students can chat with the agent from within the course page, and teachers
   can configure which agent to use, upload reference documents, and manage usage quotas.
+metrics:
+  updated: '2026-07-07T03:05:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

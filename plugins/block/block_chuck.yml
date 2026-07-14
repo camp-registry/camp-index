@@ -9,3 +9,10 @@ releases: []
 license: MIT
 summary: A Moodle block that displays Chuck Norris facts. Works in the Moodle App
   too.
+metrics:
+  updated: '2026-01-14T01:24:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-26T23:02:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Created by Marcus Green. Report to display a breakdown of rubric grading
+  for assignments that use the Rubric advanced grading method. Each student appears
+  as a single row, with the rubric criteria spread across columns showing the score,
+  level definition and grader feedback for each criterion alongs
