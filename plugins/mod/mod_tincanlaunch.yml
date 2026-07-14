@@ -4,7 +4,7 @@ maintainers:
 - name: David Pesce
   github: davidpesce
 security-contact: https://github.com/davidpesce/moodle-mod_tincanlaunch/security/advisories/new
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
