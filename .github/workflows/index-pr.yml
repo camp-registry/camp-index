@@ -17,7 +17,7 @@ name: Index PR verification
 on:
   pull_request:
     paths:
-      - "index/plugins/**"
+      - "plugins/**"
 
 jobs:
   changed:
@@ -34,7 +34,7 @@ jobs:
         name: List changed index entries as a JSON matrix
         run: |
           entries=$(git diff --name-only --diff-filter=ACM \
-              origin/${{ github.base_ref }}...HEAD -- 'index/plugins/**/*.yml' \
+              origin/${{ github.base_ref }}...HEAD -- 'plugins/**/*.yml' \
             | jq -R -s -c 'split("\n") | map(select(length > 0))')
           echo "entries=$entries" >> "$GITHUB_OUTPUT"
           echo "Changed entries: $entries"
@@ -58,7 +58,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet ./tools
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.1.0"
 
       - name: Validate entry
         run: camp validate "${{ matrix.entry }}"
@@ -113,7 +113,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet ./tools
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.1.0"
 
       - name: Check out plugin source at the newest recorded release
         run: |

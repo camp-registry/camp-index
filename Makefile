@@ -12,7 +12,7 @@
 # (localhost), while the tool_camp Moodle client fetches from inside its
 # container (host.docker.internal). Both resolve to the same nginx.
 
-CAMP        ?= tools/.venv/bin/camp
+CAMP        ?= camp
 SITE_URL    ?= http://localhost:8471
 CLIENT_URL  ?= http://host.docker.internal:8471
 LISTINGS    ?=
@@ -20,8 +20,8 @@ LISTINGS    ?=
 .PHONY: up down dist logs restart
 
 dist: ## Regenerate the served site + Composer metadata from the index
-	$(CAMP) site index $(SITE_URL) dist/site $(if $(LISTINGS),--listings $(LISTINGS),)
-	$(CAMP) composer index $(CLIENT_URL) dist/packages.json
+	$(CAMP) site . $(SITE_URL) dist/site $(if $(LISTINGS),--listings $(LISTINGS),)
+	$(CAMP) composer . $(CLIENT_URL) dist/packages.json
 
 up: ## Start (or recreate) the persistent preview container
 	docker compose up -d
