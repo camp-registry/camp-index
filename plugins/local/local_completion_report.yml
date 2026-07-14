@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-02-01T11:16:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Moodle local plugin that provides a detailed report of all user course completion
+  statuses across the entire Moodle site, from the Site administration menu Reports
+  tab.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Allow teachers to manage quiz attempt states. Closing non-submitted attempts,
   re-open others
+metrics:
+  updated: '2021-03-16T13:27:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

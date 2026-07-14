@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Restrict access to any Moodle activity or resource behind a Stripe payment.
   Students pay once and gain immediate access. Teachers and admins always bypass the
   restriction.
+metrics:
+  updated: '2026-05-07T20:02:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

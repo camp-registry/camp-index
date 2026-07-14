@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: Plugin para o Moodle para gerência e envio de frequência para o SUAP.
+metrics:
+  updated: '2023-06-29T17:56:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

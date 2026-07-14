@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-08-03T18:46:41Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Loom allows users to record their screen, camera, or both at the same time.

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-08-15T14:12:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This script checks whether the Moodle cron tasks are running properly. A
+  task does not if

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2016-02-01T20:38:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This is technical plugin, used by question types with advanced hints (like
+  Preg or CorrectWriting) to work in quizzes with interactive behaviour.

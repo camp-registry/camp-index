@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-06-24T13:34:18Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: The EduSynch E-Proctoring Plugin provides automated supervision for tests
+  taken through Moodle. EduSynch E-Proctoring uses a host of tools available through
+  Google Chrome combined with machine learning to prevent students from going down
+  the path of academic dishonesty before they do.

@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Get an overview of course payments in Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-03-09T13:34:16Z'
+  stars: 3
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A mod_customcert element plugin for Moodle that renders a student's assignment
   feedback comments onto PDF certificates.
+metrics:
+  updated: '2026-04-08T11:05:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

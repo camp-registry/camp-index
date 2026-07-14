@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle admin report. Show the list of courses and some information about
   these.
+metrics:
+  updated: '2023-02-02T06:04:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

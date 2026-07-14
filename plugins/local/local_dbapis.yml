@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-16T09:51:36Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This is a sample plugin used in Moodle Academy courses for educational purposes
+  only.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin to limit the access to a course module according to the content
   of a student's stash
+metrics:
+  updated: '2025-11-28T02:51:12Z'
+  stars: 4
+  forks: 8
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

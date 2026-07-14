@@ -10,3 +10,10 @@ summary: Student files can be collected via the Openbook resource folder activit
   Teacher's files can also be collected. All those files are then made available to
   students, for instance during a computer based exam.
 license: GPL-3.0
+metrics:
+  updated: '2026-06-10T07:49:42Z'
+  stars: 2
+  forks: 2
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

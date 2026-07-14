@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle resource that allows allows teacher to create resource link into specific
   eCampus ebook and page. Requires block_ecampus_tbird
+metrics:
+  updated: '2014-06-09T19:43:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Import Learning Designer LDJ files into a Moodle course
+metrics:
+  updated: '2019-09-14T08:57:30Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

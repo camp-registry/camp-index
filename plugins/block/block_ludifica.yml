@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A block to implement a gamification strategy in site level.
+metrics:
+  updated: '2025-01-10T20:19:52Z'
+  stars: 0
+  forks: 5
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

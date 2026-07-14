@@ -9,3 +9,10 @@ releases: []
 license: MIT
 summary: Moodle local plugin made to manage courses bookmarks and to intuitively display
   all user's courses in a Moodle block.
+metrics:
+  updated: '2021-08-13T10:52:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

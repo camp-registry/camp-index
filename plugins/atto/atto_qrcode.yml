@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle atto-qrcode is a atto sub plugin. This plugin will enable editor to
   insert QR code in atto editor.
+metrics:
+  updated: '2021-09-06T11:32:34Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: overrides grade lock and override flags when a user gets 80% or more in a
   quiz
+metrics:
+  updated: '2021-02-23T23:47:23Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

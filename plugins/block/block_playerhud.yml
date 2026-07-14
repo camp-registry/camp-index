@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: PlayerHUD introduces structured gamification to Moodle courses through XP,
   levels, inventory, and ranking. Teachers define progression thresholds and engagement
   rules, while students may choose to participate.
+metrics:
+  updated: '2026-07-11T17:01:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

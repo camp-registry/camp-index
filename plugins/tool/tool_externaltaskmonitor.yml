@@ -9,3 +9,10 @@ releases: []
 summary: An admin tool plugin for Moodle that exposes scheduled task information via
   the external services API.
 license: GPL-3.0
+metrics:
+  updated: '2026-04-27T23:56:39Z'
+  stars: 0
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Adds a Filter to Moodle to automatically embed an H5P-content in textfields
+metrics:
+  updated: '2025-04-22T13:00:24Z'
+  stars: 5
+  forks: 7
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

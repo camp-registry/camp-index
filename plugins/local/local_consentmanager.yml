@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin — GDPR/TTDSG-compliant consent manager that blocks third-party
   iframes until per-category consent
+metrics:
+  updated: '2026-07-09T06:53:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

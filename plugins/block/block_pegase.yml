@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Block tool for Moodle to enrol students in a course with PEGASE. Requires
   WSScol enrol method.
+metrics:
+  updated: '2026-07-01T08:18:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

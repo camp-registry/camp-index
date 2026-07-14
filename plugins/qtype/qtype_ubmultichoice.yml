@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Question type for Moodle. A multichoice question with a button to deselect
   all answers in a question.
+metrics:
+  updated: '2014-10-07T11:59:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

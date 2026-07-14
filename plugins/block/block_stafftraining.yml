@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Manages creation of staff trainings, enrolments to these trainings, feedback
   et certification
+metrics:
+  updated: '2018-05-14T08:37:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

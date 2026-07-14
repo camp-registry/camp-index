@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: Chatwoot Chat integration with Moodle
+metrics:
+  updated: '2025-03-09T13:48:35Z'
+  stars: 4
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

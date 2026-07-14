@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for administrators to easily roll out configuration settings
   for core and plugins
+metrics:
+  updated: '2024-05-08T14:53:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Import a Word file into a Lesson
+metrics:
+  updated: '2025-04-25T10:54:39Z'
+  stars: 2
+  forks: 2
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

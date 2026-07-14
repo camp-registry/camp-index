@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-04T20:53:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Custom Home Page Redirect (localcustomhome) is an essential tool designed
+  to take full control of your Moodle instance's front door. It seamlessly redirects
+  users from the default Moodle front page (site-index) to a beautiful custom URL
+  of your choice.

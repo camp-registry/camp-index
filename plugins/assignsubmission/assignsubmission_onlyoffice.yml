@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle ONLYOFFICE Document Server online editor integration
+metrics:
+  updated: '2026-05-21T06:49:04Z'
+  stars: 1
+  forks: 6
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

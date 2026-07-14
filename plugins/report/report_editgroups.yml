@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This 'report' is actually a tool to let you edit all the groups in a course
   on one page.
+metrics:
+  updated: '2025-08-21T15:23:29Z'
+  stars: 4
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

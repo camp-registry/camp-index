@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This plugin serves as a database and plan for all learning activities in
   the organziation, where such activities are organized for a more structured learning
   program.
+metrics:
+  updated: '2017-06-05T06:39:05Z'
+  stars: 7
+  forks: 12
+  open-issues: 14
+  archived: false
+  checked: '2026-07-11'

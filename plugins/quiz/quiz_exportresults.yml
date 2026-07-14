@@ -11,3 +11,10 @@ summary: A moodle plugin that generates multiple .odt files for your quiz result
   and provides them for download as a zip archive. The user can decide what results
   the export should contain. With groupmode enabled a enormous exportfilter is added
   and allows a more accurate export. The user is able to modifie
+metrics:
+  updated: '2022-07-02T14:37:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

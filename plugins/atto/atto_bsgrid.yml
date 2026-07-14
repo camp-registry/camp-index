@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-05-16T08:23:04Z'
+  stars: 5
+  forks: 18
+  open-issues: 15
+  archived: true
+  checked: '2026-07-11'
+summary: Peter Feigl - Lead Developer - Javascript / php

@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-18T13:42:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Tomax TomaETest Assessment Studio is part of Tomax VIX platform  empowering
+  users to develop formative assessment activities. This plugin seamlessly interacts
+  with TomaETest Assessment Studio, facilitating the creation, modification, and monitoring
+  of formative assessment tasks.

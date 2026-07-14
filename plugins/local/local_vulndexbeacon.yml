@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The VulnDex Beacon for Moodle automatically collects version and system information
   and transmits it to the VulnDex platform.
+metrics:
+  updated: '2026-04-23T21:40:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

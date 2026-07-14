@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle 2.4 TinyMCE plugin to display 2D Chemical reaction schemes and structures
   with MarvinView (Chemaxon)
+metrics:
+  updated: '2013-04-02T01:47:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

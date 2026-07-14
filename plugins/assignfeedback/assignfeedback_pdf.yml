@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Along with moodle-assignsubmission_pdf, this plugin allows students to submit
   their work as a PDF, then have the teacher annotate it online, before returning
   the marked PDF to the student.
+metrics:
+  updated: '2023-08-22T17:13:06Z'
+  stars: 3
+  forks: 4
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: »Philosophers' Quiz« game for Moodle, made with Vue.js
 license: GPL-3.0
+metrics:
+  updated: '2023-03-28T12:55:26Z'
+  stars: 5
+  forks: 3
+  open-issues: 28
+  archived: false
+  checked: '2026-07-11'

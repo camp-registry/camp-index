@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle activity module for creating efficient work groups using recent research
   in teamology.
+metrics:
+  updated: '2024-03-18T01:25:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

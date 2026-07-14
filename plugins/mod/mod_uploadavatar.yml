@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-07-02T07:02:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: 'This plugin allows the authorized person to create the gallery for the teacher
+  and student to upload their avatar only once and these avatar will be displayed
+  in the two rows, first row will be of teachers/admin avatar and the second one for
+  students , also user can view the avatar in slide view or '

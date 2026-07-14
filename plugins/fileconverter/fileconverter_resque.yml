@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-13T17:06:24Z'
+  stars: 1
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin converts files using unoconv, but rather than assuming that the
+  front end servers will have unoconv, it uses redis to queue conversions for worker
+  machines to pickup and actually convert.

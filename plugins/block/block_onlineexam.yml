@@ -9,3 +9,10 @@ releases: []
 summary: The evasys Moodle Block allows students to display links to evaexam online
   exams on their home page, which are available for them to participate.
 license: GPL-3.0
+metrics:
+  updated: '2022-09-13T18:32:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A Moodle plugin that creates a section in the students profile that allows
   them to check which organizations they are affiliated with - and places them in
   the appropriate cohorts.
+metrics:
+  updated: '2019-05-21T19:23:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

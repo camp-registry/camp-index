@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-12-04T15:56:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: BG Widget is a Moodle plugin that allows users to communicate with BotGenes
+  bots directly from a block on their Moodle site. This plugin is ideal for educational
+  institutions and organizations looking to integrate chatbot capabilities into their
+  learning platform.

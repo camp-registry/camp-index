@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Quiz report plugin for the Moodle LMS, showing an overview of the time elapsed
   since the last interaction of each student with the Moodle server during a quiz
+metrics:
+  updated: '2026-05-01T12:05:12Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-01-06T00:44:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle text filter that enables embedding LTI (Learning Tools Interoperability)
+  external tools using simple tag syntax within course content.

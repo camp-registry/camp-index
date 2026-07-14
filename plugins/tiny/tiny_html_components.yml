@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-06T19:17:52Z'
+  stars: 0
+  forks: 4
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'
+summary: Tiny plugin to insert HTML components

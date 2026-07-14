@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Enrolment on course completion
 license: GPL-3.0
+metrics:
+  updated: '2026-06-11T07:30:31Z'
+  stars: 14
+  forks: 18
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

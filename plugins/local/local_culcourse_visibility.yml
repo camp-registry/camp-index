@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-06-25T15:42:21Z'
+  stars: 2
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: CUL Course Visibility local plugin

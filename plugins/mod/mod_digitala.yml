@@ -11,3 +11,10 @@ summary: 'DigiTala is a Moodle plugin for assessing L2 Finnish and Swedish speec
   automatically. Cite as: "von Zansen, A., Alanen, T., Al-Ghezi, R., Erkkilä, J.,
   Harjunpää, T., Heijala, M., Kallio, H. (2022). DigiTala Moodle plugin. https://github.com/aalto-speech/moodle-mod_digitala
   "'
+metrics:
+  updated: '2022-05-05T09:52:07Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

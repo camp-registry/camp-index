@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle Filter for showing activity completion on hyperlinked images in your
   course description.
+metrics:
+  updated: '2025-10-21T02:06:29Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

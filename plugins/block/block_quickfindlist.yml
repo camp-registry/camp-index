@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle block providing a quick method of searching users
+metrics:
+  updated: '2025-04-11T12:26:33Z'
+  stars: 6
+  forks: 17
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

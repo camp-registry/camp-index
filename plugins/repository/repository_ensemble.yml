@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Ensemble Video Moodle Repository Plugin
+metrics:
+  updated: '2020-08-12T15:30:54Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

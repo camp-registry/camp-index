@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Realtime metrics for Moodle
+metrics:
+  updated: '2026-07-10T09:14:19Z'
+  stars: 0
+  forks: 2
+  open-issues: 32
+  archived: false
+  checked: '2026-07-11'

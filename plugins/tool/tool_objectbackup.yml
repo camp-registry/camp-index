@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Allow your eggs (backups) to be stored in two different baskets, allowing
   for true "external" storage that does not use the same storage as your main site.
+metrics:
+  updated: '2026-06-09T07:43:58Z'
+  stars: 2
+  forks: 2
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

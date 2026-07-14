@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A professional academic support ticket system for Moodle with assignment,
   internal notes, and feedback features.
+metrics:
+  updated: '2026-05-21T18:06:46Z'
+  stars: 0
+  forks: 1
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Engage your students! Gamify your courses by hiding objects for your students
   to find.
+metrics:
+  updated: '2022-10-04T10:48:28Z'
+  stars: 9
+  forks: 22
+  open-issues: 15
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Two column course format for Moodle LMS
+metrics:
+  updated: '2026-07-01T06:48:46Z'
+  stars: 7
+  forks: 4
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

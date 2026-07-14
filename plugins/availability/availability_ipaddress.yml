@@ -10,3 +10,10 @@ summary: Enhance activity security by restricting access based on IP address. Th
   plugin allows you to control the availability of any chosen activity, making it
   accessible only to users from specified IP addresses.
 license: GPL-3.0
+metrics:
+  updated: '2026-04-04T19:38:43Z'
+  stars: 3
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

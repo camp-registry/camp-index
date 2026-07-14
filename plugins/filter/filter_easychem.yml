@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle 2.6+ filter that implements easychem.js
+metrics:
+  updated: '2015-01-13T01:44:58Z'
+  stars: 2
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

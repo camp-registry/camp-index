@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle PayPal enrolment method with extra ability to show/hide depending
   on enrolment in other courses.
+metrics:
+  updated: '2015-09-11T18:24:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

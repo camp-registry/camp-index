@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Seasonal Effects displays animated visual particle effects (e.g. snow, leaves,
   sunbeams) on the home page and dashboard. It can automatically adjust to the season
   or be configured manually.
+metrics:
+  updated: '2026-06-11T12:21:13Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

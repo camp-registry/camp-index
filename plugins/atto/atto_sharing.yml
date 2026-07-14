@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-09-26T11:50:22Z'
+  stars: 0
+  forks: 3
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: Moodle Atto Sharing is an atto sub-plugin to easily create and integrate
+  Social Sharing button to Moodle atto editor.

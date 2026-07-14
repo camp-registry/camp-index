@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The course certificate module provides an opportunity for learners to celebrate
   achievements by obtaining certificates.
+metrics:
+  updated: '2026-06-10T07:59:01Z'
+  stars: 16
+  forks: 20
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

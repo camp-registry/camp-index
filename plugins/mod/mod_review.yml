@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle activity plugin allows students to rate the course and to give their
   reviews on it.
+metrics:
+  updated: '2020-09-15T23:20:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

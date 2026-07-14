@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle module to enable teachers to embed selected resource items from
   associated Talis Aspire lists directly into their course content.
+metrics:
+  updated: '2023-11-23T11:08:21Z'
+  stars: 2
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

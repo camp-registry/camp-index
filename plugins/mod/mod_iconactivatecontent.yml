@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle activity plugin for embedding content from other websites in a GDPR-compliant
   way
+metrics:
+  updated: '2023-01-24T13:14:43Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

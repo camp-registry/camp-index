@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This block lists any courses you have in common (i.e. you are both enrolled
   in) with the user whose profile you are viewing
+metrics:
+  updated: '2021-05-14T12:20:52Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

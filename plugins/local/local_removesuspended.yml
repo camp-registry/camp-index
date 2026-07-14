@@ -11,3 +11,10 @@ summary: Remove suspended users from groups. This creates a scheduled task to ch
   the log table for recent user enrollment updates (ie a user being suspended from
   a course), removes suspended users from groups within that course and emails instructors
   with the details.
+metrics:
+  updated: '2019-12-11T02:55:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

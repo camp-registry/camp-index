@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2017-06-01T13:50:49Z'
+  stars: 4
+  forks: 5
+  open-issues: 5
+  archived: true
+  checked: '2026-07-11'
+summary: 'Name: NED - Tabs Course Foramt'

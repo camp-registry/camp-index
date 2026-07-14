@@ -11,3 +11,10 @@ summary: mod_openchat is a ready to use Moodle activity plugin that enables stud
   to chat with an open-source large language model. Currently, the plugin communicates
   only with the API of OpenWebUI. Thus, all models available on OpenWebUI can be selected
   for chat communication.
+metrics:
+  updated: '2025-11-03T10:18:57Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

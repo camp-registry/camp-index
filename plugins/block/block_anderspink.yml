@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle plugin block for Anders Pink
+metrics:
+  updated: '2021-05-09T14:07:40Z'
+  stars: 4
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

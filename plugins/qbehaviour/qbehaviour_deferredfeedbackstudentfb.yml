@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: like qbehaviour_deferredfeedback, but students can give feedback to the question
   or report errors
+metrics:
+  updated: '2022-03-12T15:47:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

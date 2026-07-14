@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-03T14:45:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Vous êtes sur la page de la version 4.5.0 du plugin Rapport Assessment Path,
+  dernière version compatible avec Moodle 4.5.

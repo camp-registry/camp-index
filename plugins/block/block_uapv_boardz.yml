@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Simple bloc moodle qui permet d'afficher la page Boardz correspondante au
   cours.
+metrics:
+  updated: '2026-05-26T14:28:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

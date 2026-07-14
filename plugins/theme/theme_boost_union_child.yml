@@ -9,3 +9,10 @@ releases: []
 summary: Boost Union Child is a boilerplate for enhancing Boost Union with custom
   or local functionality
 license: GPL-3.0
+metrics:
+  updated: '2026-06-14T18:01:39Z'
+  stars: 11
+  forks: 9
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

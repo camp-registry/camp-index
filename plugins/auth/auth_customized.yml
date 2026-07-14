@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An auth component based in auth_email component with parameters to customize
   the user signup process.
+metrics:
+  updated: '2026-04-05T23:36:51Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

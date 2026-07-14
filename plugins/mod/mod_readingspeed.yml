@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle activity module to improve reading speed
 license: GPL-3.0
+metrics:
+  updated: '2019-10-31T00:49:36Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

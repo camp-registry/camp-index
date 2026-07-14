@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2015-05-08T11:13:29Z'
+  stars: 6
+  forks: 5
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'
+summary: Superscript/subscript editor

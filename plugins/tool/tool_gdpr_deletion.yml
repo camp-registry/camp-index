@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Plugin to Delete users GDPR EU conform.
+metrics:
+  updated: '2024-02-05T06:39:32Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

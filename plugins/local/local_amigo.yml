@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Moodle amigo observes your activity across the whole session, analyses
   it and pokes you about different stuff that affects you.
+metrics:
+  updated: '2019-03-15T13:11:12Z'
+  stars: 8
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Self-assessment surveys with review
+metrics:
+  updated: '2019-06-12T07:45:10Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

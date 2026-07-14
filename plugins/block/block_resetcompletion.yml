@@ -9,3 +9,10 @@ releases: []
 summary: Moodle block for resetting competion of a single user (while logged-in-as
   them)
 license: GPL-3.0
+metrics:
+  updated: '2024-09-30T02:28:03Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

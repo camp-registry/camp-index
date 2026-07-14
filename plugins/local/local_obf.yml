@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: OBF plugin for Moodle learning platform
+metrics:
+  updated: '2026-05-06T09:36:32Z'
+  stars: 0
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

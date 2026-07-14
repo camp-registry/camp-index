@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-05-06T11:13:48Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Enrolment in Moodle using Bitcoin payment gateway for paid courses

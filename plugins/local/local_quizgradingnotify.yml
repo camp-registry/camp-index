@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that will notify teachers in a course when there is a quiz
   that requires manual grading.
+metrics:
+  updated: '2026-06-24T06:29:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

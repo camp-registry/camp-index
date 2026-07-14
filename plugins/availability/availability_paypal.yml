@@ -9,3 +9,10 @@ releases: []
 summary: An Availability Condition for Moodle to require a PayPal payment to access
   activities and resources.
 license: GPL-3.0
+metrics:
+  updated: '2026-02-02T19:36:26Z'
+  stars: 12
+  forks: 7
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

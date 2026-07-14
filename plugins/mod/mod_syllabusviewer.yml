@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Part of the mod_syllabus plugin, views posted syllabi and assorted data.
+metrics:
+  updated: '2022-11-17T17:09:58Z'
+  stars: 0
+  forks: 1
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

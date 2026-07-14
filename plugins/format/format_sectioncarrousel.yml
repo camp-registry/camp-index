@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Section Carrousel course format plugin for Moodle 5.2
+metrics:
+  updated: '2026-06-15T12:40:37Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

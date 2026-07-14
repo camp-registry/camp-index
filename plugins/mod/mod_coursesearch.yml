@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle activity module that enables teachers to add a search bar to courses,
   allowing students to search through course content.
+metrics:
+  updated: '2026-07-07T13:36:59Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

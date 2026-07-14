@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Stateful question type, i.e. STACK with state where the students answer can
   be used to change the state of the question typically to set the parameters of a
   follow-up question.
+metrics:
+  updated: '2024-11-21T08:47:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

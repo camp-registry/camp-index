@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 'Moodle Course Format: GPS Free'
+metrics:
+  updated: '2016-04-07T08:22:01Z'
+  stars: 1
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

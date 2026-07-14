@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A Moodle block that creates an alternative course upload and restore interface
   for Moodle Site to ease user uploading and submitting their courses to Moodle Site
   from their mbz course files.
+metrics:
+  updated: '2021-04-08T10:44:01Z'
+  stars: 2
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

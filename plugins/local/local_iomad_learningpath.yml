@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-09-08T14:27:45Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: The local IOMAD learning paths plugin provides the underlying class functions
+  for managing the IOMAD learning paths feature.

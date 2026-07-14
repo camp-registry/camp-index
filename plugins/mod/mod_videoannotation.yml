@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Video Annotation
+metrics:
+  updated: '2020-04-15T23:09:15Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

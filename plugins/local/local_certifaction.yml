@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle plugin that makes your documents tamper-proof on the blockchain.
+metrics:
+  updated: '2026-06-08T20:22:42Z'
+  stars: 1
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

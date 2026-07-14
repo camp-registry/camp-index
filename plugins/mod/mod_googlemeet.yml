@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: Google Meet resource module plugin for Moodle 3.7+
+metrics:
+  updated: '2024-07-23T08:05:41Z'
+  stars: 25
+  forks: 23
+  open-issues: 36
+  archived: false
+  checked: '2026-07-11'

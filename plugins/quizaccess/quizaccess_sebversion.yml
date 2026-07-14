@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Access rule plugin for the Moodle LMS allowing teachers to enforce a minimum
   version of the Safe Exam Browser for their quiz.
+metrics:
+  updated: '2026-04-30T12:38:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

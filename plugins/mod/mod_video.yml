@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-09-19T22:59:49Z'
+  stars: 2
+  forks: 2
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'
+summary: Easily embed and track videos from Vimeo, YouTube, a URL, or your repositories.

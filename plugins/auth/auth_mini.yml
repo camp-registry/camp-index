@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle Mini Registration (with Possibility of Extending data asked to users,
   Email-self registration and Enrolment key)
+metrics:
+  updated: '2021-03-19T17:12:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

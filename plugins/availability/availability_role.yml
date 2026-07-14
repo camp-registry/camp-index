@@ -9,3 +9,10 @@ releases: []
 summary: Moodle availability plugin which lets users restrict resources, activities
   and sections based on roles
 license: GPL-3.0
+metrics:
+  updated: '2026-07-04T20:55:16Z'
+  stars: 8
+  forks: 14
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

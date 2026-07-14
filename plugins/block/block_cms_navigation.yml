@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A menu block to access CMS volumes from the internal CMS add-on
+metrics:
+  updated: '2026-04-03T10:18:57Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

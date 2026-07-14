@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle question type plugin. Student can click-select regions on an Venn's
   diagram.
+metrics:
+  updated: '2012-05-16T09:00:18Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: https://moodle.org/plugins/filter_ubicast
+metrics:
+  updated: '2025-05-08T12:27:04Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

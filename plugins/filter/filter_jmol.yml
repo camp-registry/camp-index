@@ -11,3 +11,10 @@ summary: Jmol/JSmol filter for embedding interactive 3D chemical structures in t
   Moodle course management system. The master branch uses JSmol, the HTML5/JavaScript
   version, tested with Moodle 2.3.x and later versions. The MOODLE_2_STABLE branch
   uses the Jmol Java applet with Moodle 2.0.x and later version
+metrics:
+  updated: '2022-12-23T11:08:51Z'
+  stars: 8
+  forks: 21
+  open-issues: 16
+  archived: false
+  checked: '2026-07-11'

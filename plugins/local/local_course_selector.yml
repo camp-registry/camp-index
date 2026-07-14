@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-09-08T14:27:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: Built on the core Moodle course selector classes, the local IOMAD course
+  selectors plugin provides the multi-tenant course

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2021-05-19T14:52:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A basic user profile adds a special profile field for the Akdini ID, and
+  only allows users to see it who have the profilefield/akindiid:view permission.

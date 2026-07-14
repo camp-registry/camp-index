@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-01T01:02:29Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This is a Moodle plugin that facilitates the backup and restoration process
+  of courses. The plugin performs backups of Moodle courses and automatically transfers
+  them to a configured FTP server, as well as organizes the backups by Moodle categories,
+  making backup management more efficient. The plugi

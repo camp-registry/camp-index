@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle local Dashboard to navigate across various entities
+metrics:
+  updated: '2016-04-25T22:11:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

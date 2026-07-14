@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: That is a report plugin that helps the admin to known how the Moodle modules
   are being used by users (e.g. as forum, as file repositories or as activities repositories).
+metrics:
+  updated: '2020-07-09T13:38:01Z'
+  stars: 2
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

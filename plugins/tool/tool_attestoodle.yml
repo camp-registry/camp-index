@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle plugin to manage milestones in a training and edit learners certificates
+metrics:
+  updated: '2025-02-05T11:28:09Z'
+  stars: 11
+  forks: 2
+  open-issues: 23
+  archived: false
+  checked: '2026-07-11'

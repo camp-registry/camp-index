@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: Edwiser Bridge 3.x Moodle <-> Wordpress Auto-linker (Moodle plugin)
+metrics:
+  updated: '2023-11-30T15:46:31Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

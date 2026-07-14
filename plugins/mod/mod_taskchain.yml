@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: TaskChain activity module for Moodle >= 2.0
+metrics:
+  updated: '2026-03-04T03:55:20Z'
+  stars: 5
+  forks: 7
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

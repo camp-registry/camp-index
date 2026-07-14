@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: It's NOT RECOMMENDED to install version below 2.2.6 (MOODLE_31), due a security
   issues  See more in README
+metrics:
+  updated: '2026-05-28T07:45:43Z'
+  stars: 19
+  forks: 47
+  open-issues: 66
+  archived: false
+  checked: '2026-07-11'

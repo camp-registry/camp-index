@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle authentication plugin for secure Single Sign-On using signed JWTs
   (with nonce/jti replay protection, JWKS or PEM key validation, and detailed event
   logging).
+metrics:
+  updated: '2025-12-11T09:11:12Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

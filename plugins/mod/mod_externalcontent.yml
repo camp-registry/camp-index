@@ -11,3 +11,10 @@ summary: 'The module enables a teacher to create a resource using the text edito
   resource can display text, images, sound, video and web links.  Advantages of using
   the External content module rather than the standard page module is that optionally
   if the content links to an external site that records '
+metrics:
+  updated: '2023-07-24T13:40:27Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

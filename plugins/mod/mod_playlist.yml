@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The playlist resource plugin provides a way to save a list of rtmp URLs which
   can then be referenced by the rtmp filter.
+metrics:
+  updated: '2017-03-03T19:14:57Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

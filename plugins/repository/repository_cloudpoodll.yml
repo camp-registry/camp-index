@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle repository plugin for adding /editing images (and eventually audio
   and video)
+metrics:
+  updated: '2025-11-20T04:28:05Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle question type plugin. Student needs to write a set theory formula
   that corresponds to shown Venn's diagram
+metrics:
+  updated: '2012-05-16T08:59:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

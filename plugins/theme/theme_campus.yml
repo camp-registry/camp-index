@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle theme for onlinecampus
+metrics:
+  updated: '2023-10-24T19:33:29Z'
+  stars: 4
+  forks: 4
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

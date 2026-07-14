@@ -9,3 +9,10 @@ releases: []
 summary: An admin tool plugin for Moodle that provides a set of custom API endpoints
   used for reporting in the UCSF School of Medicine (SOM).
 license: GPL-3.0
+metrics:
+  updated: '2026-05-01T12:05:44Z'
+  stars: 1
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

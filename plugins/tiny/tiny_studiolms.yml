@@ -11,3 +11,10 @@ summary: StudioLMS is a TinyMCE 6 sub-plugin for Moodle that brings a Canva/Noti
   authoring experience directly into the course editor. Teachers open a native TinyMCE
   modal and inject rich instructional design blocks — cards, accordions, callout boxes,
   resource libraries and more — without writing a si
+metrics:
+  updated: '2026-06-22T13:11:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

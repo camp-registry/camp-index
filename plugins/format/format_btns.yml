@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin is designed for Moodle 4.2 and above, developed due to the incompatibility
   of format_buttons with these versions
+metrics:
+  updated: '2024-10-12T02:40:45Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

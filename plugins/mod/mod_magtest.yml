@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Multitrack magazine type test
+metrics:
+  updated: '2026-04-03T14:47:29Z'
+  stars: 3
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This is a plugin that uses LLM to provide written feedback on quiz results
   within Moodle courses. The development of this plugin is supported by a 2024 research
   and development grant from the Moodle Association of Japan.
+metrics:
+  updated: '2026-04-18T03:33:26Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

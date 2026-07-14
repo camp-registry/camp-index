@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle AIText question type that uses a Large Language Model for feedback
+metrics:
+  updated: '2026-07-08T12:11:12Z'
+  stars: 32
+  forks: 29
+  open-issues: 18
+  archived: false
+  checked: '2026-07-11'

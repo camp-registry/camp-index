@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: Moodle local plugin made to simply create a course without all possible options.
+metrics:
+  updated: '2021-08-09T09:29:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

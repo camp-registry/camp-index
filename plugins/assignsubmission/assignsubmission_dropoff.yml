@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Assignment Submission plugin for handling physical submission of work to
   a Moodle assignment
+metrics:
+  updated: '2015-04-01T21:43:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

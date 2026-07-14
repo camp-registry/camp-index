@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A quiz access-rule plugin that ask the student to provide something for indentity
   check
+metrics:
+  updated: '2014-08-21T14:25:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

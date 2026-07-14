@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-03T12:15:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: A companion block for the Course Control Hub (localcoursectrl) Moodle plugin.
+  The block displays upcoming course activity dates directly on the course page and
+  lets editing teachers open the Course Control Hub shift workflow without leaving
+  the course.

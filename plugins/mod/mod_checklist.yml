@@ -9,3 +9,10 @@ releases: []
 summary: Checklist plugin for Moodle - allows a teacher to create a checklist for
   their students to tick-off
 license: GPL-3.0
+metrics:
+  updated: '2026-04-24T15:05:39Z'
+  stars: 25
+  forks: 76
+  open-issues: 32
+  archived: false
+  checked: '2026-07-11'

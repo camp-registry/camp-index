@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle block where the students can access, share and export artefacts
   of learning with an structure given by a course manager.
+metrics:
+  updated: '2021-06-02T13:52:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

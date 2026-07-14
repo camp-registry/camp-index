@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-30T13:03:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin is designed to simplify the editing of STACK Maths related questions
+  by novice authors. You can see more about the  STACK question type here

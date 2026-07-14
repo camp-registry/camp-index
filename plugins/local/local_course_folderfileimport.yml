@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: moodle 课程中，根据选择的excel数据导入自动建立文件夹并添加引用AliyunOSS文件，以及文件夹添加文件后上传到AliyunOSS
+metrics:
+  updated: '2021-09-15T01:24:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

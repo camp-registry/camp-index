@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Online Audio Recording assignment submission plugin for Moodle >= 2.3
+metrics:
+  updated: '2019-02-13T10:47:10Z'
+  stars: 8
+  forks: 9
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

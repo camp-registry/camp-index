@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin that surfaces issued-but-unclaimed Credentium digital
   credentials in the Moodle UI and lets users claim them. Companion to local_credentium.
+metrics:
+  updated: '2026-07-06T15:57:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

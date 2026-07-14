@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A module for teaching and handling technical project management using an
   IEEE procedure.
+metrics:
+  updated: '2026-06-01T12:41:57Z'
+  stars: 4
+  forks: 2
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

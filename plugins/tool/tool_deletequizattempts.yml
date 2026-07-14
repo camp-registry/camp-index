@@ -9,3 +9,10 @@ releases: []
 summary: Moodle admin tool to manually delete all quiz attempts from all students
   in all courses
 license: GPL-3.0
+metrics:
+  updated: '2024-06-13T08:58:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

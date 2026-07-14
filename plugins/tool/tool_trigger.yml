@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: 'Like IFTTT for Moodle: events to trigger external services. https://moodle.org/plugins/tool_trigger'
+metrics:
+  updated: '2026-05-12T23:49:31Z'
+  stars: 47
+  forks: 29
+  open-issues: 77
+  archived: false
+  checked: '2026-07-11'

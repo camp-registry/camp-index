@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Panopto repository plugin for Moodle, compulsory part of Panopto resource
   module.
+metrics:
+  updated: '2025-08-15T10:06:02Z'
+  stars: 0
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

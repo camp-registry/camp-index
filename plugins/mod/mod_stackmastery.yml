@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: 'Adaptive formative mastery activity for Moodle + STACK: BKT mastery tracking
   and an RL-trained policy pick each next question. Mirror of the stack-question-forge
   monorepo.'
+metrics:
+  updated: '2026-07-03T15:28:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

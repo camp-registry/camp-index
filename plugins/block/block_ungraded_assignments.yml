@@ -11,3 +11,10 @@ summary: The plugin displays all ungraded assignments and quizzes that need your
   Clicking on any item takes you directly to its grading page. As soon as a learner
   submits an assignment or completes a quiz containing manually graded questions (such
   as essays), it will automatically appear on your D
+metrics:
+  updated: '2026-07-08T15:55:48Z'
+  stars: 1
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Export_csvcomponentgrades is a plugin that exports grades from an assignment
   for the following grading methods, Rubric and Marking Guide, into a CSV file.
+metrics:
+  updated: '2022-02-11T14:46:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

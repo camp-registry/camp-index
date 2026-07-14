@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle activity module for embedding FenomioStream video player with authentication,
   media browser, and completion tracking.
+metrics:
+  updated: '2026-03-06T20:32:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

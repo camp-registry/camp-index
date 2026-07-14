@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Quiz report plugin to let users edit just the quiz dates, but no other settings.
+metrics:
+  updated: '2026-02-27T08:00:12Z'
+  stars: 1
+  forks: 6
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

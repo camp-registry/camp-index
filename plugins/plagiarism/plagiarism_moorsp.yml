@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Really Simple Plagiarism tool
+metrics:
+  updated: '2016-08-10T00:52:53Z'
+  stars: 2
+  forks: 5
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

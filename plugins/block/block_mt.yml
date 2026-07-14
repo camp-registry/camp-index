@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: Source code for Moodle plugin - MotTEC - Motivation Techniques
+metrics:
+  updated: '2023-01-06T21:02:21Z'
+  stars: 1
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

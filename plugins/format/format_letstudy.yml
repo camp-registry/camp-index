@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A modern Moodle course format plugin with 10 visual layouts, progress tracking,
   animations, and per-course colour customisation.
+metrics:
+  updated: '2026-06-25T13:56:17.277Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

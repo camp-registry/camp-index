@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This Moodle block allows each teacher to create a Welcome Area that will
   automatically be displayed in each of her courses in which this block is displayed.
   A version history of each teacher's Welcome Area content is maintained.
+metrics:
+  updated: '2015-02-18T12:39:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

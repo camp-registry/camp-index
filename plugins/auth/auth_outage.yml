@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Planned, graduated user and admin friendly moodle outages
+metrics:
+  updated: '2026-06-18T02:00:29Z'
+  stars: 19
+  forks: 37
+  open-issues: 87
+  archived: false
+  checked: '2026-07-11'

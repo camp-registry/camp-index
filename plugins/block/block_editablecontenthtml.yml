@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple HTML block variant that allows non editing roles to edit content
   based on a dedicated capability.
+metrics:
+  updated: '2026-06-01T13:55:55Z'
+  stars: 3
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

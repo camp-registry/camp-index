@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A quick Moodle 2.x block to count the number of modules / resources (not
   only the 'resource' module) being used in a course, and in all courses.
+metrics:
+  updated: '2012-10-15T10:24:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -10,3 +10,10 @@ summary: Moodle 3.x Boost child theme which is intended to meet the needs of uni
   campuses and adds several features and improvements ––– for Moodle 4.x please use
   our Theme Boost Union
 license: GPL-3.0
+metrics:
+  updated: '2024-01-06T20:41:40Z'
+  stars: 39
+  forks: 23
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

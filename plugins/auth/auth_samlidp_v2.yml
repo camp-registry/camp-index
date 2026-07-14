@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-09-07T09:40:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: 'This is a plugin that makes Moodle an Identity Provider site: other application
+  can use Moodle as a login portal. Its absoultelly based on otatarintseva''s moodle-authsamlidp.
+  It''s been made compatible with php8.0. You can follow the original instructions
+  to configure it.'

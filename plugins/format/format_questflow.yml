@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-18T07:50:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: QuestFlow is a premium, gamified course format for Moodle that transforms
+  standard linear courses into engaging, interactive "Vertical Timeline" journeys.
+  It eliminates the traditional "Scroll of Death," increasing student engagement through
+  visual micro-goals and immediate progression feedback.

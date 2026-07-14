@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: MIT
+metrics:
+  updated: '2024-07-18T09:47:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This authentication plugin allows users to be automatically logged in, if
+  a specific paramter is set in the Moodle URL.

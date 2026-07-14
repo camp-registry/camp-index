@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle text filter plugin that displays questions from the question bank
   embedded in the page.
+metrics:
+  updated: '2026-06-25T08:43:38Z'
+  stars: 14
+  forks: 29
+  open-issues: 23
+  archived: false
+  checked: '2026-07-11'

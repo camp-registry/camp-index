@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Simple ToDo list block for Moodle demonstrating some advanced coding techniques
+metrics:
+  updated: '2018-07-15T12:15:17Z'
+  stars: 8
+  forks: 7
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

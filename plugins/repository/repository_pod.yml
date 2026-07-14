@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-02-10T14:42:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'
+summary: repository pod is a moodle repository plugin that enable to create file resource
+  linked by reference to an external POD v2 server

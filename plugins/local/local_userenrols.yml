@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin to make user enrollments and group assignments from an
   imported CSV file.
+metrics:
+  updated: '2022-09-26T10:19:32Z'
+  stars: 1
+  forks: 10
+  open-issues: 5
+  archived: true
+  checked: '2026-07-11'

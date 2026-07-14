@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Dash - A modern, customizable Moodle 5.1.1 theme with dark mode, front page
   blocks, and comprehensive admin settings
+metrics:
+  updated: '2025-12-16T18:29:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

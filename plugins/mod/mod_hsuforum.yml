@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-13T17:18:46Z'
+  stars: 13
+  forks: 47
+  open-issues: 47
+  archived: false
+  checked: '2026-07-11'
+summary: Open forums enhance Moodle Forums by providing teachers and students with
+  quick,

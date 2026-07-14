@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-11-11T14:31:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The Warpwire Plugin for Moodle allows your users to insert protected Warpwire
+  assets into any content item for which the WYSIWYG editor is available.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block allowing you to create appointments between a teacher and a student,
   which will be added to both users' calendars.
+metrics:
+  updated: '2013-04-13T09:29:39Z'
+  stars: 8
+  forks: 5
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

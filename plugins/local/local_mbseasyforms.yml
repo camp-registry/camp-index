@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-23T15:18:57Z'
+  stars: 2
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin provides an optional simplification of forms like course and
+  activity creation.

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle plugin tied with gradingform_multigraders that enables mass publishing
   of grades
+metrics:
+  updated: '2023-10-10T16:00:15Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

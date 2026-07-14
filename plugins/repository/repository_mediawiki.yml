@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle repository to search and use content from any mediawiki installation.
   Based on moodle's repository_wikimedia.
+metrics:
+  updated: '2019-07-23T15:08:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

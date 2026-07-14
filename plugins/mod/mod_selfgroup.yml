@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Selfgroup activity module for Moodle
+metrics:
+  updated: '2016-04-28T16:10:23Z'
+  stars: 1
+  forks: 1
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

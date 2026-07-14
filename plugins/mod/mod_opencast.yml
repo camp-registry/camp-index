@@ -11,3 +11,10 @@ summary: Moodle activity plugin which can be used to display and view Opencast e
   and series in Moodle. Teachers can link the activity to an existing Opencast episode
   or series and an embedded player allows students to watch these videos directly
   in Moodle.
+metrics:
+  updated: '2026-06-19T06:10:38Z'
+  stars: 6
+  forks: 10
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

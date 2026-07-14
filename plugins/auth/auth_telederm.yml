@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: BSD-3-Clause
 summary: A custom Moodle 2.x authentication plugin for telederm.org.
+metrics:
+  updated: '2016-12-12T18:43:33Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

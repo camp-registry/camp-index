@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A course format for Moodle. This course format displays sections with only
   an image and an optional text on the course homepage. Users don’t see the detail
   of the section, for instance, resources or activities.
+metrics:
+  updated: '2026-04-24T10:46:42Z'
+  stars: 1
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

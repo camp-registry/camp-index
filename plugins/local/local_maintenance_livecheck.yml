@@ -9,3 +9,10 @@ releases: []
 summary: Moodle plugin which shows the Moodle maintenance announcement even if there
   is no full page load
 license: GPL-3.0
+metrics:
+  updated: '2026-07-04T20:39:00Z'
+  stars: 8
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

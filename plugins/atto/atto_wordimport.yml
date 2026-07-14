@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Import Word file contents into Moodle Atto text box
+metrics:
+  updated: '2025-04-28T11:41:31Z'
+  stars: 2
+  forks: 8
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

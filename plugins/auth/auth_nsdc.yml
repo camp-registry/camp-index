@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle authentication plugin to integrate with NSDC's eSkillIndia eLearning
   aggregator (https://nsdcindia.org).
+metrics:
+  updated: '2021-03-23T14:31:05Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

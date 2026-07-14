@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Forum Keywords Report extract keywords from all posts in am Moodle Forum
   and generate a word cloud
+metrics:
+  updated: '2025-12-08T01:25:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

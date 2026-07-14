@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle Authentication module which uses an external database with a salted
   password
+metrics:
+  updated: '2020-11-24T13:44:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

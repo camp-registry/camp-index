@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Quick navigation - local plugin for Moodle 3.x
 license: GPL-3.0
+metrics:
+  updated: '2026-07-03T14:30:19Z'
+  stars: 6
+  forks: 2
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

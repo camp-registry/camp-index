@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: LGPL-3.0
+metrics:
+  updated: '2024-06-18T05:27:15Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This theme is fluid 3 columns with a dark design.

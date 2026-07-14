@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A local plugin for Moodle that reports on the course completion status of
   different users across the courses in which they are enrolled.
+metrics:
+  updated: '2021-03-12T09:44:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

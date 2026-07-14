@@ -11,3 +11,10 @@ summary: This moodle block can be integrated in the course context. If it is dis
   by a teacher a code can be generated. This code can be entered by other users on
   their dashboard (if the block is shown!) and allows those users to enrol directly
   into that course.
+metrics:
+  updated: '2025-08-28T09:21:28Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

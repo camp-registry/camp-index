@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Moodle Nugget plugin simplifies the integration of reusable online micro-content
   into course spaces on a Moodle platform.
+metrics:
+  updated: '2026-05-12T20:58:46Z'
+  stars: 3
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

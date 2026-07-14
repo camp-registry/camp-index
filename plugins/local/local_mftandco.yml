@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: This plugin implements Memcyco technologies for Moodle 4.x
+metrics:
+  updated: '2025-04-08T05:34:37Z'
+  stars: 0
+  forks: 1
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

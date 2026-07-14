@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Display the list of course modules in that course along with course module
   id
+metrics:
+  updated: '2021-06-16T08:08:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

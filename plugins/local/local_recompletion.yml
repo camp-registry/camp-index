@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Allows course recompletion
+metrics:
+  updated: '2026-07-07T03:12:26Z'
+  stars: 34
+  forks: 57
+  open-issues: 35
+  archived: false
+  checked: '2026-07-11'

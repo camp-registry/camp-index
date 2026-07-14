@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Block plugin based on an existing local plugin.  The Greetings local plugin
   (local_greetings) allows users to post and view greeting messages
+metrics:
+  updated: '2026-02-23T13:33:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-09-05T19:41:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The Metagroup plugin allows teachers who are using course meta links and
+  groups (which are automatically synced through the enrolment plugin) to automatically
+  sync metacourse enrolments into a metacourse group.

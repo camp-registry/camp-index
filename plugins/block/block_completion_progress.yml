@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: A time management tool for students using activity completion
 license: GPL-3.0
+metrics:
+  updated: '2026-06-30T05:51:16Z'
+  stars: 19
+  forks: 71
+  open-issues: 28
+  archived: false
+  checked: '2026-07-11'

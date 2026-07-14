@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-28T05:31:46Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A responsive timetable block. Displays periods for the current day to students
+  and staff. This block is highly tailored to the requirements of CGS and relies on
+  Synergetic (SIS) for timetable data.

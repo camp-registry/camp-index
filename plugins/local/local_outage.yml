@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Complimentary plugin for auth_outage to make it compatible with Moodle 27-29
   & Totara
+metrics:
+  updated: '2018-10-02T22:30:26Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

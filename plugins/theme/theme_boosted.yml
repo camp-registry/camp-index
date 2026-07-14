@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-07-16T18:23:53Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: Boosted is a theme for moodle 4.0 and higher, based in Boost and developed
+  to create an amazing design easily.

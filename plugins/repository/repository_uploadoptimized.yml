@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle Moot DACH 2026 DevCamp Moodle repository plugin that will resize /
   optimize files during upload
+metrics:
+  updated: '2026-06-30T11:57:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

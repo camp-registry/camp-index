@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A plugin of the 'Local' type for Moodle LMS which basically is an event handler.
   When enabled, it's listening to assign file uploads events and renames the uploaded
   files according to specific rules.
+metrics:
+  updated: '2021-01-15T13:19:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

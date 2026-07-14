@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Vitero integration activity module for Moodle 2.x
+metrics:
+  updated: '2026-03-27T15:56:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

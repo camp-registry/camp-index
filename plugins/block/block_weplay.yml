@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is Moodle plugin of type block for increasing the learners motivation
   during their education
+metrics:
+  updated: '2020-05-12T06:41:05Z'
+  stars: 1
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

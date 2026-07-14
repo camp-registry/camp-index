@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-24T00:24:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: This Moodle block helps institutions manage program curricula, map external
+  courses to Moodle courses, and let students track curriculum progress directly inside
+  Moodle.

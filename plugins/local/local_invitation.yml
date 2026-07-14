@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-14T13:25:49Z'
+  stars: 1
+  forks: 4
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: With this plugin you can invite users, who do not have an account, to your
+  course.

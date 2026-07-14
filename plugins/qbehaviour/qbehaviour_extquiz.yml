@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: New behaviour plugin currently for moodle 2.4 , soon as possible for the
   newest moodle version. Has been developed to work with ExtendedQuiz module only
+metrics:
+  updated: '2014-09-17T07:29:17Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

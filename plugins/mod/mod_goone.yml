@@ -11,3 +11,10 @@ summary: GO1 provides a content library of learning resources that can be added 
   any new or existing Moodle course to suit your training needs. GO1 provides interactive
   content, videos, documents and full-length, multi-component courses. Topics covered
   by GO1 include professional development, compliance, s
+metrics:
+  updated: '2025-07-01T04:36:38Z'
+  stars: 2
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

@@ -11,3 +11,10 @@ summary: Plugin ZIP Exporter allows administrators to download installed Moodle 
   as ZIP files directly from the Moodle interface.  The plugin provides a simple interface
   to select a plugin type (mod, etc), choose an installed plugin, and export its source
   code as a ZIP archive. This is useful for back
+metrics:
+  updated: '2026-03-09T16:03:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

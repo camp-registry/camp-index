@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Adds smart google analytics to Moodle
+metrics:
+  updated: '2013-08-30T14:27:03Z'
+  stars: 0
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

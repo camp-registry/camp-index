@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-04-17T00:31:14Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Plugin allows you to display chunk of HTML code on any page of your Moodle.
+  The Help center is hidden until users click on "Help" button.

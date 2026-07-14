@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle™ activity module providing video lesson functionality with completion
   tracking and analytics.
+metrics:
+  updated: '2026-07-09T07:31:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

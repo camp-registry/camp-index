@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple modification of the "My overview" block in Moodle, allowing you
   to filter courses by name
+metrics:
+  updated: '2022-07-01T12:03:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

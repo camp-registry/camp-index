@@ -11,3 +11,10 @@ summary: 'WARNING: This plugin is deprecated.           The last maintained vers
   of the Plugin will be for Moodle 3.9. After 3.9 we won''t maintain the plugin any
   further. The reason behind that is that now you can achieve similar functionality
   using the core Course Overview Block and its new filtering capa'
+metrics:
+  updated: '2020-08-18T13:20:15Z'
+  stars: 5
+  forks: 3
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

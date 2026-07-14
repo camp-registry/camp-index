@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle plugin that allows administrators to recursively lock or unlock a
   grade category and all its subcategories and grade items, using an idnumber field
   as the identifier
+metrics:
+  updated: '2026-05-28T20:12:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

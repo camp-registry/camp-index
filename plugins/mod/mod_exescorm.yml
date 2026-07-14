@@ -9,3 +9,10 @@ releases: []
 summary: Activity-type Moodle module to create and edit SCORM packages with eXeLearning
   (online).
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T08:57:33Z'
+  stars: 8
+  forks: 4
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

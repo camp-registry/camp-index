@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: MoodleNet admin tool plugin for Moodle. The official MoodleNet product is
   out of support, please use this plugin on your own risk,
+metrics:
+  updated: '2026-03-05T03:18:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

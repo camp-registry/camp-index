@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-26T10:45:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Longpage or mod-longpage is a Moodle (Activity) plugin for providing long
+  and structured texts in HTML for courses paired up with functions to navigate, annotate
+  and co-read the text with other users. Longpage can be seen as an replacement of
+  the Moodle core Page plugin providing users with extra fu

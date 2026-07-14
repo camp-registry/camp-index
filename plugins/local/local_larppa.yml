@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Lärppä is Moodle local plugin used with learning analytics
+metrics:
+  updated: '2022-04-05T16:13:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle quiz access rule plugin that requires students to enter a Time-based
   One-Time Password (TOTP) before they can start a quiz attempt.
+metrics:
+  updated: '2025-10-04T16:49:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

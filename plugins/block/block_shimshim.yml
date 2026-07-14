@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: a demonstration of AMD/Shim issue in 3.8
+metrics:
+  updated: '2019-12-11T23:51:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

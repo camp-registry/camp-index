@@ -11,3 +11,10 @@ summary: The block provides an overview of student grades, based on the course g
   report. This plugin allows the course editor to select the activities that make
   up the evaluation group, which will be shown! It allows students to monitor the
   progress of the activities as well as the grades acquired.
+metrics:
+  updated: '2023-02-03T15:18:11Z'
+  stars: 2
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

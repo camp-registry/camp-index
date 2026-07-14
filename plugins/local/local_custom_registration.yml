@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin has been developed to allow administrators to add user fields
   to the registration form.
+metrics:
+  updated: '2021-08-10T11:53:16Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A tool to allow teachers to enrol existing users to their courses using CSV
   files (without bothering the admins)
+metrics:
+  updated: '2026-07-09T07:55:56Z'
+  stars: 5
+  forks: 11
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

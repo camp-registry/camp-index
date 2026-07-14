@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This local plugin adds a 'editor on/off' action link in the user's profile
   section of the settings block
+metrics:
+  updated: '2015-07-30T14:14:06Z'
+  stars: 1
+  forks: 2
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

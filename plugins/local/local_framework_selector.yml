@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-09-08T14:27:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: The local IOMAD framework selector provides the classes to build search and
+  select form elements (like the core Moodle user and course

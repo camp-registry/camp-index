@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-18T06:27:41Z'
+  stars: 1
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin has been developed to integrate Moodle and Percipio. It provides
+  importing courses from Percipio into Moodle via API. It allows users to self enroll
+  themselves into an imported Percipio course and then launch the Tin Can course from
+  Moodle. Also, it consumes users' score/tracking informa

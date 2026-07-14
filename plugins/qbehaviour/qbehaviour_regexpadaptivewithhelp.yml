@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: question behaviour for regexp question type only (Adaptive mode with help)
+metrics:
+  updated: '2024-10-08T16:06:54Z'
+  stars: 2
+  forks: 8
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

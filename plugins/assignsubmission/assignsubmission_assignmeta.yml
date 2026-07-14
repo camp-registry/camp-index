@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Allow your students to add metadata to their submissions like a thesisname.
+metrics:
+  updated: '2018-09-15T11:25:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

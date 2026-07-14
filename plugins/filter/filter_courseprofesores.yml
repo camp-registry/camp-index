@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Es un plugin de filtro que integra una lista visualmente atractiva de los
   Profesores del curso, agrupados por roles.
+metrics:
+  updated: '2026-06-04T01:10:41Z'
+  stars: 1
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

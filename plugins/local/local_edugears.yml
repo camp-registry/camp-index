@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle plugin for EduGears AI LTI integration — adds AI-powered educational
   tools (Question Generator, Grading, Tutor, Slides, Worksheets, Study Guides, Lesson
   Planner, AI Assistant) to your Moodle LMS via LTI 1.3 Advantage.
+metrics:
+  updated: '2026-04-11T07:04:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

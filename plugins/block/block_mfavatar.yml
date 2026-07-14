@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Make a avatar with your webcam in Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-06-11T20:56:02Z'
+  stars: 2
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

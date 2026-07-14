@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Profilefield component of Moodle that allows people to inquire about their
   learning style using the Felder-Silverman test and additional variations of it.
+metrics:
+  updated: '2025-02-27T17:18:24Z'
+  stars: 4
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

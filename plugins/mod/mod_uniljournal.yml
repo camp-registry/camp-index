@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-07-02T11:50:02Z'
+  stars: 1
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: Le module Journal d'apprentissage est utilisé pas les étudiants pour créer
+  du contenu individuellement (un journal), et ajouter des commentaires à leur travail.
+  Les enseignants peuvent voir et modifier le travail des étudiants, et y ajouter
+  des commentaires.

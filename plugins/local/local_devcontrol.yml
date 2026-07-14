@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-10-21T09:53:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A comprehensive Moodle local plugin that provides webservice functions and
+  web interface for managing Docker containers, system operations, and development
+  environment tools.

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Simple sentry plugin to mooodle
+metrics:
+  updated: '2026-06-07T00:30:47Z'
+  stars: 8
+  forks: 8
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

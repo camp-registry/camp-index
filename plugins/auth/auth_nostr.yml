@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Nostr authentication plugin for Moodle 5.1 — NIP-07 + NIP-98 login via browser
   extension
+metrics:
+  updated: '2026-07-09T17:34:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
+metrics:
+  updated: '2024-07-11T15:10:06Z'
+  stars: 4
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This block allows your Moodle users to get 24/7 chat support via AWS Claude
+  Anthropic AI. The block offers multiple options for customizing the persona of the
+  AI and the prompt it is given, in order to influence the text it outputs.

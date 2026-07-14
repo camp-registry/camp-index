@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: The dataform entry access block allows adding entry access rules to a Dataform
   activity. The block stores the rule configuration and provides permissions context
   for the rule.
+metrics:
+  updated: '2018-02-01T18:12:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

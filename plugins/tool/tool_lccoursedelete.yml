@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Lifecycle trigger for selecting courses to archive based on user last access
   and course creation date records.
+metrics:
+  updated: '2026-04-16T11:36:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

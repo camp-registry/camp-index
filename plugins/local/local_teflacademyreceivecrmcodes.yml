@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-07-16T15:55:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin adds a web service that receives 'CRM Code' values for students
+  and stores them in a new database table along with the student/course user enrolment
+  id.

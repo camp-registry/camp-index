@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-07-23T08:10:14Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: QUICKOM - The U.S. patent pending decentralized telecom suite for large scale
+  classrooms and conferences (https://quickom.com). This plugin offers tight integration
+  with Moodle, supporting conference creation, synchronization, grading.

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle block plugin which can be used to link Moodle courses to Opencast
   series. Teachers can use this block to upload videos to Moodle which are then transmitted
   to Opencast and processed there afterwards.
+metrics:
+  updated: '2026-06-19T06:10:24Z'
+  stars: 23
+  forks: 28
+  open-issues: 19
+  archived: false
+  checked: '2026-07-11'

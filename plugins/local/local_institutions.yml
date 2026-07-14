@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: MIT
+metrics:
+  updated: '2022-08-13T15:40:58Z'
+  stars: 3
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: 'IMPORTANT: I am no longer maintaining this plugin. However if you require
+  changes to it you can submit a Merge Request and I will gladly have a look into
+  it.'

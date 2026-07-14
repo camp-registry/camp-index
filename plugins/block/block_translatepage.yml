@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Block for Moodle LMS that translates the current page into any language supported
   by Google Translate.
+metrics:
+  updated: '2024-09-20T04:46:51Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

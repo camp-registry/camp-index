@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Add "real time" words count to Moodle Atto editor
+metrics:
+  updated: '2025-10-16T18:39:43Z'
+  stars: 3
+  forks: 5
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

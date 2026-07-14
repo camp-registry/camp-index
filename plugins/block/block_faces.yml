@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Faces Block For Moodle 3.5 - This block allows you to view a list of students
   along with their faces. If you are using Faces for the first time, use https://moodle.org/plugins/block_faces
   to get the latest public version in an easy to install zip format.
+metrics:
+  updated: '2018-11-12T12:08:22Z'
+  stars: 2
+  forks: 4
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

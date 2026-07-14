@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Excel spreadsheet export tool for individual component grades in Marking
   Guides and Rubrics.
+metrics:
+  updated: '2024-02-20T23:28:58Z'
+  stars: 2
+  forks: 13
+  open-issues: 13
+  archived: false
+  checked: '2026-07-11'

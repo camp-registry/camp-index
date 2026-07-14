@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Get roles in moodle via web servide (rest api)
+metrics:
+  updated: '2023-08-20T14:25:06Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle activity based on the 'choice' activity that allows you to specify
   'rich' choices (i.e. images, video, etc).
+metrics:
+  updated: '2017-02-25T17:17:23Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

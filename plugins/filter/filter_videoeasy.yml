@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A customizable filter for adding HTML5 Video Player support to Moodle
+metrics:
+  updated: '2024-10-07T07:47:54Z'
+  stars: 5
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Fill in the blanks question type with very easy to learn syntax
+metrics:
+  updated: '2026-07-08T09:19:20Z'
+  stars: 7
+  forks: 25
+  open-issues: 18
+  archived: false
+  checked: '2026-07-11'

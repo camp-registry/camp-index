@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 'Moodle: A quirky filter to make a round-style menu'
+metrics:
+  updated: '2020-03-11T12:45:00Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A special resource publicaton that can notify students froml changes, stores
   versions and can be remotely fed from an external document system
+metrics:
+  updated: '2017-01-30T11:30:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle local plugin for automating email reminders for calendar events
+metrics:
+  updated: '2025-08-24T07:12:52Z'
+  stars: 30
+  forks: 36
+  open-issues: 33
+  archived: false
+  checked: '2026-07-11'

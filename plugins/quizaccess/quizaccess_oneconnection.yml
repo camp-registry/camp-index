@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-02T15:37:48Z'
+  stars: 0
+  forks: 4
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle quiz access rule plugin that prevents students from continuing a
+  quiz attempt across multiple sessions or devices, ensuring exam integrity by blocking
+  concurrent connections.

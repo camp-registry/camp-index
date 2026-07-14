@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A question type similar to the short answer question type but where responses
   are graded by a web service.
+metrics:
+  updated: '2017-10-18T09:46:37Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

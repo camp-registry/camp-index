@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-01-08T07:45:35Z'
+  stars: 0
+  forks: 2
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: Moodle tiny plugin allowing to add a chemical structure or reaction as an
+  image without the need of any licence.

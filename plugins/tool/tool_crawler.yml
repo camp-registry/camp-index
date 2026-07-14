@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle link crawling robot, find broken, slow and oversized links
+metrics:
+  updated: '2026-06-02T07:11:36Z'
+  stars: 12
+  forks: 18
+  open-issues: 54
+  archived: false
+  checked: '2026-07-11'

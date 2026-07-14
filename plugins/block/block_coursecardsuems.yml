@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Plugin Moodle do tipo bloco para exibir cards de cursos personalizados da
   UEMS Virtual
+metrics:
+  updated: '2026-06-23T16:45:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

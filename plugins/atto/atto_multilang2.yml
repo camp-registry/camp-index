@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: ':globe_with_meridians: A plugin for Atto editor to make easier creation
   of multilingual contents.'
+metrics:
+  updated: '2019-11-25T15:38:49Z'
+  stars: 2
+  forks: 9
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

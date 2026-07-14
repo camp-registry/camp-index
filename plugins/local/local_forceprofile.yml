@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin — Force users to complete their profile before navigating
   the site
+metrics:
+  updated: '2026-03-24T19:55:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

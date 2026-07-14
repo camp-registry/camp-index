@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Poster activity module for Moodle
+metrics:
+  updated: '2025-04-17T12:49:48Z'
+  stars: 5
+  forks: 4
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

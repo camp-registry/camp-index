@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Implement a My Moodle page structured by Programme, Course and Unit
+metrics:
+  updated: '2013-05-29T16:02:14Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Dialogue Module for Moodle
+metrics:
+  updated: '2026-05-08T23:34:10Z'
+  stars: 27
+  forks: 38
+  open-issues: 31
+  archived: false
+  checked: '2026-07-11'

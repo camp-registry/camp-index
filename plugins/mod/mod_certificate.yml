@@ -11,3 +11,10 @@ summary: 'NOTE: This plugin is no longer receiving any new features. Only bug fi
   are being applied. I have been working on a new plugin which can be located at https://github.com/markn86/moodle-mod_customcert
   which allows complete customisation of the PDF via the browser, whereas this plugin
   requires FTP a'
+metrics:
+  updated: '2022-06-30T07:25:04Z'
+  stars: 69
+  forks: 118
+  open-issues: 14
+  archived: true
+  checked: '2026-07-11'

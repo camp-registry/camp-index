@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This local plugin automatically synchronizes cohorts based on predefined
   rules or external data sources, ensuring users are enrolled and managed consistently.
+metrics:
+  updated: '2026-03-12T11:31:00Z'
+  stars: 1
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle local plugin for Minerva -- syncs enrolments and course materials
+metrics:
+  updated: '2026-05-24T20:40:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

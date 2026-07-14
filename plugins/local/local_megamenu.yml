@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2020-07-12T06:20:00Z'
+  stars: 3
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Enhance Boost and Boostrap 4 compatible themes with a mega menu to display
+  courses.

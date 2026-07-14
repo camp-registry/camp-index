@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A plugin for Moodle's TinyMCE that attempts to move legacy files in the text
   area over into the Moodle 2 file system. AKA legacy files go poof
+metrics:
+  updated: '2014-01-20T15:14:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

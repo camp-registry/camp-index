@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2021-02-16T08:10:10Z'
+  stars: 8
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: Ever wondered how to include a core optional profile field on the signup
+  page? Or how to make that field a required field?

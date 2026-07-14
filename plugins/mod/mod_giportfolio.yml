@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Based on the book module, this allows students to create portfolio contributions,
   within a structure set by the teacher.
+metrics:
+  updated: '2024-10-25T19:19:42Z'
+  stars: 4
+  forks: 13
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

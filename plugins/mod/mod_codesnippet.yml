@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A course activity for displaying code snippets conveniently with highlighting,
   while behaving mostly like a label
+metrics:
+  updated: '2019-05-06T10:08:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

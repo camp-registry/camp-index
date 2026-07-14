@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Assessment module for Moodle 2.X, it support teacher, self and peer assessment
   using rubric as grading method.
+metrics:
+  updated: '2020-10-20T02:08:55Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2014-05-21T04:10:19Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin allows users to add a search block for galleries to their courses.
+  This plugin requires the Media collection activity be installed (http://github.com/netspotau/moodle-modmediagallery).

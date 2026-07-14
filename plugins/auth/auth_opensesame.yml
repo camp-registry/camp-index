@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle Auth plugin for logging on as a user by sending in their id (in encrypted
   form) and automatically opening the first activity in the first course they are
   enrolled in.
+metrics:
+  updated: '2017-04-15T03:05:10Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

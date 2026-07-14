@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 summary: Group Members Only emulation using permission overrides and local role assignments
+metrics:
+  updated: '2025-06-03T08:39:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Generic Filter
+metrics:
+  updated: '2026-02-18T03:54:54Z'
+  stars: 10
+  forks: 16
+  open-issues: 37
+  archived: false
+  checked: '2026-07-11'

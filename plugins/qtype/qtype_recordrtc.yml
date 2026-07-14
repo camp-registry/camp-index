@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A manually graded Moodle question type, where the student records a short
   audio response to answer the question asked.
+metrics:
+  updated: '2025-10-03T08:10:22Z'
+  stars: 3
+  forks: 16
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

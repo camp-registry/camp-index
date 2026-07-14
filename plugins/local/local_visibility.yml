@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Plugin to schedule visibility of course websites
 license: GPL-3.0
+metrics:
+  updated: '2021-04-09T02:43:10Z'
+  stars: 2
+  forks: 0
+  open-issues: 6
+  archived: true
+  checked: '2026-07-11'

@@ -11,3 +11,10 @@ summary: 'The Moodle Agent is a plugin that simplifies problem reporting by user
   on Moodle. It allows users to share login information or describe issues, with two
   modes: simple (copy/paste the information) and advanced (send via email). It''s
   a useful tool for facilitating communication between users and tec'
+metrics:
+  updated: '2025-09-22T06:48:11Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

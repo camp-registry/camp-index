@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that allows professors to select custom icons for activities
   and modules.
+metrics:
+  updated: '2025-10-22T10:43:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

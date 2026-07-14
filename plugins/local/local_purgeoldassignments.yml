@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: plugin which allows old assignments and the pdf annotations to be deleted
   from an assignment.
+metrics:
+  updated: '2025-12-04T22:58:31Z'
+  stars: 2
+  forks: 2
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

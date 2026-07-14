@@ -11,3 +11,10 @@ summary: PlayerLand is a Moodle activity module that embeds a playable 2D platfo
   game directly inside a course. Students control Huddy the fox — running, jumping
   and exploring a level — and answer questions by hitting question blocks, just like
   the classic platformers they grew up with.
+metrics:
+  updated: '2026-06-19T18:52:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

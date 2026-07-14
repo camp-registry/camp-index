@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin to automatically convert videos uploaded to the Kaltura streaming
   video platform
+metrics:
+  updated: '2021-05-05T13:41:50Z'
+  stars: 0
+  forks: 2
+  open-issues: 7
+  archived: true
+  checked: '2026-07-11'

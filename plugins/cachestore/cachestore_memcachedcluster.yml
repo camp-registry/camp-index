@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: cachestore_memcachedcluster
+metrics:
+  updated: '2014-05-01T17:13:47Z'
+  stars: 2
+  forks: 0
+  open-issues: 2
+  archived: true
+  checked: '2026-07-11'

@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-26T11:51:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: O módulo Harpia Survey permite que pesquisadores criem experimentos para
+  estudar LLMs (Large Language Models), interajam com eles através de APIs e coletem
+  respostas de pesquisas de qualidade. O módulo oferece uma interface completa para
+  gerenciar experimentos, modelos de IA, páginas de questionário

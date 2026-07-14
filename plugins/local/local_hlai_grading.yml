@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Human Logic AI Grading automates the grading of text-based submissions using
   AI. Teachers can review AI-generated grades and feedback before releasing them to
   students, ensuring quality while reducing grading workload.
+metrics:
+  updated: '2026-03-03T07:51:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

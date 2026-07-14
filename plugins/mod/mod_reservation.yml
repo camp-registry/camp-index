@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Reservation activity module
+metrics:
+  updated: '2025-03-14T15:50:23Z'
+  stars: 7
+  forks: 4
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This moodle plugin can be used to scan the uploaded assignment files using
   clamscan
+metrics:
+  updated: '2024-05-06T09:32:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

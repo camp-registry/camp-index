@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle course checker plugin that improves the quality and eliminate human
   routine tasks in online courses
+metrics:
+  updated: '2025-11-20T14:58:56Z'
+  stars: 5
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

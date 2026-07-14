@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Component that allows users to generate communities in Moodle by linking
   with other users.
+metrics:
+  updated: '2026-03-24T18:55:28Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

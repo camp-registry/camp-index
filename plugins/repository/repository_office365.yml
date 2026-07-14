@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: OneDrive for Business Repo plugin for Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-07-07T09:45:51Z'
+  stars: 13
+  forks: 17
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin providing web-service endpoints for the LiteRT Edge Chrome
   extension (on-device AI grading)
+metrics:
+  updated: '2026-07-01T11:27:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

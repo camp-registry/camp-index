@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-05T22:32:47Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: OttFlix is an innovative solution that not only stores videos and audios
+  but also converts these contents into interactive H5P formats, providing a richer
+  and more engaging learning experience.

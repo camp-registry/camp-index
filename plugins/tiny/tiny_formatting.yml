@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-07-24T14:20:47Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: To make it easy for you to get started with GitLab, here's a list of recommended
+  next steps.

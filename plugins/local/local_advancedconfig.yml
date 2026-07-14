@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-02-13T04:23:26Z'
+  stars: 0
+  forks: 4
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Right now not much. It gives you a different avenue to define config settings

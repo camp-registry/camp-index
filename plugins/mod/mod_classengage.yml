@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A Moodle activity module that enhances in-class engagement through real-time
   interactive quizzes, automatic question generation from slides, and comprehensive
   student analytics.
+metrics:
+  updated: '2026-04-02T16:48:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

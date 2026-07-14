@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Corolair Local plugin for Moodle LMS
+metrics:
+  updated: '2026-06-02T13:58:34Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

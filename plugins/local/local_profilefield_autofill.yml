@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A local Moodle plugin that updates user profile fields based on admin-specified
   rules.
+metrics:
+  updated: '2025-11-11T17:25:22Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

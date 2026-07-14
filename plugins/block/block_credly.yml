@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle block to integrate with the Credly Open Credit API
+metrics:
+  updated: '2023-08-04T01:58:12Z'
+  stars: 5
+  forks: 2
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle activity module the provides support for managing/marking individual
   student blogs hosted on external services.
+metrics:
+  updated: '2018-07-18T23:05:00Z'
+  stars: 7
+  forks: 2
+  open-issues: 47
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Reader module for Moodle >= 2.0
+metrics:
+  updated: '2025-06-28T23:22:41Z'
+  stars: 6
+  forks: 5
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle block that can display notifications between specified start and
   end dates.
+metrics:
+  updated: '2024-05-08T07:02:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

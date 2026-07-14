@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: H5PEventSystem is a theme that provides the possibility to attach events
   to h5p-content.
+metrics:
+  updated: '2024-05-07T08:36:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

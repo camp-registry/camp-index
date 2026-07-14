@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2018-11-22T14:56:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin is a library that includes functionality used in the qtypefreeform
+  plugin and is reusable in other plugins that need to be able to display mathematical
+  formulas and to test equivalence of mathematical expressions.

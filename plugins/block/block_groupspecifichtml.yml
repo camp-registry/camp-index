@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block that provides distinct content wether the moodle group you are in
   the course.
+metrics:
+  updated: '2026-06-01T13:56:04Z'
+  stars: 1
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

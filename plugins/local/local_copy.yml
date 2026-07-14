@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-05T22:34:08Z'
+  stars: 1
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: localcopy is a Moodle plugin that provides a practical and efficient functionality
+  to copy activities or resources from one course and paste them into another, making
+  it easier to reuse content across different courses.

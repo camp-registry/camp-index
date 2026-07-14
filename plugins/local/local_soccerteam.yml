@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The "Moodle Soccer Team Plugin Challenge" aims to assess the developer's
   proficiency in developing Moodle plugins.
+metrics:
+  updated: '2025-05-02T00:02:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

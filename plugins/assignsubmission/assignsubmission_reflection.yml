@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Submission plugin for the new assignment type (2.3) for Moodle. Lets students
   to submit reflection and post comments on other students' reflections.
+metrics:
+  updated: '2018-07-30T15:00:33Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

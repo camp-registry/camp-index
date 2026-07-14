@@ -10,3 +10,10 @@ summary: Moodle plugin which checks for unsent user input in the browser and kee
   the user session alive as long as needed to prevent that user input which is sent
   to the server after the user session has expired will be lost
 license: GPL-3.0
+metrics:
+  updated: '2026-07-05T06:39:32Z'
+  stars: 7
+  forks: 2
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 'Streamdeck: a Netflix-style episode-based course format for Moodle 5.0+'
+metrics:
+  updated: '2026-04-07T10:48:51Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

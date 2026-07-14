@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-11T05:36:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: The SkynetAccessibility Scanner Application is a powerful Accessibility Testing
+  Tool and Accessibility Scanning Software that enables organizations, businesses,
+  government entities, and individuals to proactively scan, monitor, and remediate
+  accessibility compliance issues. It functions as both an A

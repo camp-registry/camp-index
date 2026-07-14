@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Cnerta-Web Plugin iBob pour Moodle
+metrics:
+  updated: '2025-03-05T16:26:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 13
+  archived: false
+  checked: '2026-07-11'

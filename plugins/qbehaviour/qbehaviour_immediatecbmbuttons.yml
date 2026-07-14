@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle question behaviour where selecting the certainty and submitting your
   response is done simultaneously with a single button click.
+metrics:
+  updated: '2013-09-30T14:07:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

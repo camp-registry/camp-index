@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Inherits from Boxnet repository that comes with Moodle 2.6 and up.  Provides
   extra features for SSO integration to box.com, and streamlines the log in process.
+metrics:
+  updated: '2014-06-18T19:27:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

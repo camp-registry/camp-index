@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: This plugin uses the Superhero API to generate users in your Moodle instance
+metrics:
+  updated: '2026-03-02T16:24:22Z'
+  stars: 3
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

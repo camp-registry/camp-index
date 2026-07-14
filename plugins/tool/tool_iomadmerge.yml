@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-04T11:23:20Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The IOMAD merge user accounts plugin is a clone of the toolmerge plugin maintained
+  by Jordi Pujol-Ahulló and Nicolas Dunand. This

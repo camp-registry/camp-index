@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: enrolment plugin for moodle from 2.x to autoenrol in conjunction with the
   open linuxmuster.net school server
+metrics:
+  updated: '2017-11-03T11:09:19Z'
+  stars: 1
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

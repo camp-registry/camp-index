@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This plugin allows to build an internal course database that is taggable
   and searchable via meta information. Any imports are moved to the desired position
   in a course without being mixed with existing resources.
+metrics:
+  updated: '2026-05-19T13:16:14Z'
+  stars: 4
+  forks: 4
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

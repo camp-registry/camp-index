@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: '[RETIRED] A block that displays user enrolments marked as temporary by the
   Temporary Enrolments module.'
+metrics:
+  updated: '2020-01-14T16:28:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

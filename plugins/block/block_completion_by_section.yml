@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is a plugin for Moodle that shows the completion state of every section
   of a course
+metrics:
+  updated: '2016-02-24T18:00:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

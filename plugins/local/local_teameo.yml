@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-19T15:02:04Z'
+  stars: 1
+  forks: 0
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'
+summary: Welcome to the official GitHub repository for the Teameo & Classeo Moodle
+  Local Plugin, a comprehensive solution designed to integrate Student Information
+  Systems (SIS), Microsoft Teams, Microsoft 365, and Azure Active Directory with your
+  Moodle environment. This plugin provides essential web servic

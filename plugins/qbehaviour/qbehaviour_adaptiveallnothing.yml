@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle quiz behaviour that forces questions to be interactively completed
   correctly before any credit is given
+metrics:
+  updated: '2026-04-02T12:18:44Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

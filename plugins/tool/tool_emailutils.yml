@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-03T06:16:20Z'
+  stars: 2
+  forks: 2
+  open-issues: 27
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin is intended to become a place for a suite of semi related email
+  utilities

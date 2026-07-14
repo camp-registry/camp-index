@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Scheduled task to esnure module/course sites are consistent with central
   records
+metrics:
+  updated: '2017-10-13T13:12:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

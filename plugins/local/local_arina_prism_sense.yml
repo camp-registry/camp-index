@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: An AI-powered Moodle plugin for automated curriculum generation and intelligent
   content processing, integrating Arina Prism Sense capabilities directly into the
   LMS.
+metrics:
+  updated: '2026-06-29T10:09:34Z'
+  stars: 7
+  forks: 0
+  open-issues: 23
+  archived: false
+  checked: '2026-07-11'

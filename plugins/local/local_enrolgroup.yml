@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Backport of MDL-58785 to allow external db group sync to be used on older
   versions of Moodle
+metrics:
+  updated: '2024-03-04T12:58:48Z'
+  stars: 1
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-13T16:28:42Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The Open Grader is an alternate grading option that enables you to view,
+  grade, and navigate through student submissions in a simplified, adjustable, two-pane
+  view.

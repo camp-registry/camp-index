@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-02-25T08:06:44Z'
+  stars: 3
+  forks: 6
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Moodle plugin for extended log searching

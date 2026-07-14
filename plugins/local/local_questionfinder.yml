@@ -11,3 +11,10 @@ summary: 'Moodle Local Questionfinder is an extended version of the Question Sea
   module for Moodle - Copyright (C) 2014 Ray Morris, this new module adds several
   search options to the original functionality extended by Tobias Kutzner (Moodle
   Moot DACH 2019: Improve questionbank with better search options fo'
+metrics:
+  updated: '2022-09-23T11:23:41Z'
+  stars: 2
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Accompanying block for the academic year plugin. Provides a block from which
   users can select with year they wish to view courses from.
+metrics:
+  updated: '2016-06-15T13:19:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The moodle course format "Event" is intended to be used for short training
   events. Upon course creation, it creates a corresponding calendar event.
+metrics:
+  updated: '2019-04-15T02:36:14Z'
+  stars: 1
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

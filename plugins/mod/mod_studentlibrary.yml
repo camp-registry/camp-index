@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin is designed to integrate with the Student's Advisor Electronic
   Library System
+metrics:
+  updated: '2025-03-27T14:29:45Z'
+  stars: 0
+  forks: 1
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

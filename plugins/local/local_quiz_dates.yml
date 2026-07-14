@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Change course date - Fournir les dates de début et de fin de passage d'un
   quiz
+metrics:
+  updated: '2022-05-05T12:48:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

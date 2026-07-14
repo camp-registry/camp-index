@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A responsive Moodle course format that displays course sections in a clean
   grid layout for easier visual navigation.
+metrics:
+  updated: '2026-06-20T09:42:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

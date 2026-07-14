@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Internal mail tool for Moodle 2
+metrics:
+  updated: '2022-09-04T10:10:19Z'
+  stars: 0
+  forks: 8
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

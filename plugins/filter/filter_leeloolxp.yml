@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-05-23T06:46:16Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The Leeloo LXP Content Filter allows you to use shortcodes on a page without
+  a { content – region } and display any of the Leeloo LXP Content Plugins from the
+  Suite in the { content – region }.

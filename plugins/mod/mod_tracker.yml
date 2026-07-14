@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Ticketting tracker for Moodle used as user support or bug report
+metrics:
+  updated: '2026-06-18T20:23:43Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

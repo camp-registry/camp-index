@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: the activity for the block ISy Metaselect to embed course recommendations
   into courses
+metrics:
+  updated: '2024-02-14T12:09:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

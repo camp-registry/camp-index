@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-25T18:32:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Stream is a revolutionary video platform tailored for academic institutions,
+  offering seamless integration into existing systems and unprecedented pedagogical
+  optimization. This Moodle plugin facilitates the incorporation of Stream's powerful
+  features directly into your learning management system, e

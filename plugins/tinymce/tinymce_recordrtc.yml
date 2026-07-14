@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A simple tinymce plugin editor for Moodle that enables audio annotation
+metrics:
+  updated: '2023-03-21T04:59:21Z'
+  stars: 7
+  forks: 12
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin aims to identify which group the user belongs to in LDAP authentication
   and apply to it the cohort defined in the plugin settings.
+metrics:
+  updated: '2019-12-18T21:30:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-12T10:51:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The key figures block allows you to display data entered directly in the
+  block parameters. It is mostly used on the home pages of platforms to highlight
+  important figures for visitors.

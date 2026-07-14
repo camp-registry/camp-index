@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Provides practical access to descedant courses of a metacourse
+metrics:
+  updated: '2026-04-03T10:20:43Z'
+  stars: 1
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

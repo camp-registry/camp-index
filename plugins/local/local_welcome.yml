@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin sends a configurable welcome message to new users and notifies
   the admin
+metrics:
+  updated: '2026-02-17T16:12:55Z'
+  stars: 8
+  forks: 14
+  open-issues: 16
+  archived: false
+  checked: '2026-07-11'

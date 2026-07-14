@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: LGPL-2.1
 summary: Moodle Sentry integration plugin
+metrics:
+  updated: '2025-01-13T08:52:51Z'
+  stars: 1
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

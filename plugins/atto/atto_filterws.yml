@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for Atto. It makes it easier to include WebService filter tags
   in the content.
+metrics:
+  updated: '2023-01-17T07:42:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

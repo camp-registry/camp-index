@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Plugin Moodle local que adiciona um filtro por campos personalizados do perfil
   do usuário na página de listagem de participantes (/enrol/index.php)
+metrics:
+  updated: '2026-05-12T16:56:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

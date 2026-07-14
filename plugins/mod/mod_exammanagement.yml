@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle plugin that allows the easy organization of exams in courses and
   makes it possible to manage even large attendance exams with many participants
+metrics:
+  updated: '2026-06-08T10:20:01Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Clone of core weeks format that adds collapsing behaviour to sections.
+metrics:
+  updated: '2022-07-22T09:03:34Z'
+  stars: 0
+  forks: 4
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

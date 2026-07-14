@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Mit der "Feedback Box"-Aktivität können Sie von Ihren Studierenden Feedback
   zu Ihren Lehrveranstaltungen erhalten. Dieses Repository ist der Block für die Aktivität
   "Feedback Box", die auch Voraussetzung für diesen Block ist.
+metrics:
+  updated: '2023-12-12T13:11:28Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2020-09-15T13:31:49Z'
+  stars: 2
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The localwsfileassistant Moodle web service helps accomplishing the task
+  to push files from your 'private files' repository to a

@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-28T18:23:26Z'
+  stars: 3
+  forks: 20
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'
+summary: 'Moodle tracker component: https://github.com/drachels/moodle-modmootyper/issues'

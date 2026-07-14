@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-08T19:55:15Z'
+  stars: 0
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This is a Moodle plugin designed to manage and display disclaimers to users.
+  It provides administrators with the ability to create, edit, and manage disclaimers,
+  as well as track user responses. The plugin is highly customizable and integrates
+  seamlessly with Moodle's existing infrastructure.

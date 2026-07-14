@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Bulk upload for moodle assignments
+metrics:
+  updated: '2019-07-02T07:33:01Z'
+  stars: 3
+  forks: 2
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

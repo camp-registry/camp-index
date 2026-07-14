@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A fork of the onedrive Fileconverter plugin which uses the beta API endpoint
   for file types not yet supported by the stable 1.0 API
+metrics:
+  updated: '2019-02-08T13:51:15Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

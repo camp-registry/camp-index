@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: moodle 3.2+ repository plugin for coursesuite api to publish scorm courses
   into
+metrics:
+  updated: '2019-08-14T04:05:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

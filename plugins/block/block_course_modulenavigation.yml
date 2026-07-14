@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: V2 du block course_modulenavigation
+metrics:
+  updated: '2026-04-17T08:44:30Z'
+  stars: 10
+  forks: 10
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

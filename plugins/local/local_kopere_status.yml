@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-09T23:12:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: 'A Status page for your Moodle: shows whether the platform is online, for
+  how long, for how many consecutive days, and provides a public status page to share
+  with your team and users.'

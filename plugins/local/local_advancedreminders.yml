@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin allows you to set up at the course level notifications with reminders
   if the participant is inactive or has activities pending completion.
+metrics:
+  updated: '2021-01-28T17:17:55Z'
+  stars: 2
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

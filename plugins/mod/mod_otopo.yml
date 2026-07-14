@@ -9,3 +9,10 @@ releases: []
 summary: 'Moodle activity that allows students to self-assess and track their progress
   in a course. Mirror of : https://gitlab.univ-nantes.fr/boiteux-c/moodle-mod_otopo'
 license: GPL-3.0
+metrics:
+  updated: '2026-06-12T14:45:32Z'
+  stars: 4
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

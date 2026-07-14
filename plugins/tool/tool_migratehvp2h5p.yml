@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Tool to migrate mod_hvp to Moodle 3.9 mod_h5pactivity modules
+metrics:
+  updated: '2025-09-30T12:40:47Z'
+  stars: 6
+  forks: 13
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'

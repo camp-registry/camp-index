@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This block helps teachers see that their courses are not visible to students.
   It automatically disappears if the course is set to visible.
+metrics:
+  updated: '2018-02-28T09:26:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

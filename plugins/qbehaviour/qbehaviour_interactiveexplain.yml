@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Interactive (multiple tries) question behaviour with a field for students
   to give explanation of their answer. Requires https://github.com/marcusgreen/moodle-local_qbehaviour_interactiveexplain
+metrics:
+  updated: '2026-04-11T20:24:42Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

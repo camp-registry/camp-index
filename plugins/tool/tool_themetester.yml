@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle Theme Testing tool, with a focus on Bootstrap 3 based themes.
+metrics:
+  updated: '2026-04-13T16:55:44Z'
+  stars: 5
+  forks: 5
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

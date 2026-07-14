@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Block Plugin for Moodle that allows users to create groups and chat with
   eachother to discuss their topics. Requires local_learnincompanions
+metrics:
+  updated: '2026-02-09T08:47:32Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: true
+  checked: '2026-07-11'

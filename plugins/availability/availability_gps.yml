@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Availability Plugin for GPS Locations
+metrics:
+  updated: '2023-10-27T11:20:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

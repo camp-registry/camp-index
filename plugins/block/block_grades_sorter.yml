@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle plugin to add a block to course providing a button to automatically
   sort grades in the same order than activities
+metrics:
+  updated: '2020-07-19T21:54:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

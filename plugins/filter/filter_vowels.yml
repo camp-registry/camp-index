@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Filter for Moodle that changes spaces after vowels into hard space &nbsp;
+metrics:
+  updated: '2020-04-15T22:27:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

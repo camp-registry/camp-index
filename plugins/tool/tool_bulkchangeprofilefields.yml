@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle admin tool to bulk change users's profile fields.
+metrics:
+  updated: '2025-01-06T19:53:31.044Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

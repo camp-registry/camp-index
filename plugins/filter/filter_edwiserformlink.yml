@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is add-on plugin to Edwiser Forms plugin. This helps Moodle admins add
   custom Moodle forms any where on the Moodle site.
+metrics:
+  updated: '2025-07-21T05:48:17Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle question type which allows questions to be built up from parts that
   are other simpler question types.
+metrics:
+  updated: '2025-07-17T12:31:24Z'
+  stars: 4
+  forks: 12
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

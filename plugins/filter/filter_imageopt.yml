@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle image optimiser filter
+metrics:
+  updated: '2024-02-23T05:55:05Z'
+  stars: 7
+  forks: 11
+  open-issues: 31
+  archived: false
+  checked: '2026-07-11'

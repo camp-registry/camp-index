@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle child theme for boost_campus, with bigger header and full-screen
   SCORM page
+metrics:
+  updated: '2022-03-09T05:15:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

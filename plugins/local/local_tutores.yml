@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Rotinas para agrupamento de tutores e seus estudantes.
+metrics:
+  updated: '2026-06-16T01:09:18Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

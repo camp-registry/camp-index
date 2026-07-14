@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-10'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-07T07:37:38Z'
+  stars: 1
+  forks: 7
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: TinyMCE multilanguage plugin

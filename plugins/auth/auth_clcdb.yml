@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Stripped back version of auth_db used solely to synchronise info fields with
   any user (auth type ignored).
+metrics:
+  updated: '2023-04-18T14:19:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

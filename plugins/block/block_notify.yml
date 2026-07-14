@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle block that shows data to logged in students who need to perform
   a task (survey, etc.)
+metrics:
+  updated: '2025-03-04T21:18:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

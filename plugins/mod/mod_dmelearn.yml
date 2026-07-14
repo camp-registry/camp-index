@@ -9,3 +9,10 @@ releases: []
 summary: Moodle Activity Module plugin to add 'Digital Media e-Learning courses' into
   a Moodle Site.
 license: GPL-3.0
+metrics:
+  updated: '2022-04-12T08:21:16Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

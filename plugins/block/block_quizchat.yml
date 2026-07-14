@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Quizchat is a Moodle block plugin that integrates a chat feature within quizzes,
   enabling real-time discussions among students and teachers during the E-test.
+metrics:
+  updated: '2026-02-18T16:22:24Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

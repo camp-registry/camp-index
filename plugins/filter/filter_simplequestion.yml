@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: A simple standalone version of the question filter which inserts a question
   into text anywhere in Moodle.  A link is created which then shows the question preview
   in a popup window.
+metrics:
+  updated: '2018-06-12T00:21:21Z'
+  stars: 3
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

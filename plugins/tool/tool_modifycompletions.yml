@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Used to modify a users course completion timestamp based on an uploaded spreadsheet.
+metrics:
+  updated: '2023-12-21T19:07:55Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

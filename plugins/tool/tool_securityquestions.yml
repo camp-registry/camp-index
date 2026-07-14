@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Allow users to enter security question for more secure self-service password
   recovery
+metrics:
+  updated: '2026-06-24T14:06:27Z'
+  stars: 2
+  forks: 3
+  open-issues: 9
+  archived: false
+  checked: '2026-07-11'

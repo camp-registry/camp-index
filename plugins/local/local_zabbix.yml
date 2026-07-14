@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-06-07T21:01:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin is designed to monitor a Moodle site and send relevant metrics
+  to a Zabbix server. It provides a command-line interface (CLI) for fetching data
+  from the Moodle database and sending it to Zabbix.

@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-20T05:33:48Z'
+  stars: 7
+  forks: 13
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin allows instructors/teachers to create a space for students to
+  submit "galleries". These galleries can be based on images, audio or video. The
+  galleries themselves can be used as part of gradeable assignments when used in conjuction
+  with the media collection submission module (http://gith

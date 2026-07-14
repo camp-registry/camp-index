@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2020-08-09T15:00:31Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin allows teachers to add activities with restriction based on the
+  student course completion progress. For instance, allow access to a certificate
+  activity only when the student completes at least 70% of the course activities.

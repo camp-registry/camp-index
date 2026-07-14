@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Handles the destination of courses at the end of the year, collecting desires
   from teachers and automating the cleanup process.
+metrics:
+  updated: '2022-11-21T22:24:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

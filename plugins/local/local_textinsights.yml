@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A local Moodle plugin that provides AI-powered text analysis capabilities
   through a convenient context menu in course content.
+metrics:
+  updated: '2026-07-10T01:50:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

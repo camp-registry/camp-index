@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: A Moodle plugin for archiving logs and grade history
 license: GPL-3.0
+metrics:
+  updated: '2017-10-31T20:11:59Z'
+  stars: 1
+  forks: 2
+  open-issues: 3
+  archived: true
+  checked: '2026-07-11'

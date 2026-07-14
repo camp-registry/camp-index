@@ -9,3 +9,10 @@ releases: []
 summary: Plugin for Moodle. Allows you to authorize a user by a direct link without
   additional action.
 license: GPL-3.0
+metrics:
+  updated: '2024-05-29T13:25:51Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

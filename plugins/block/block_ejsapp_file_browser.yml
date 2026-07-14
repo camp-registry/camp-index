@@ -9,3 +9,10 @@ releases: []
 summary: A Moodle block for managing experimentation data files when using the EJSApp
   activity module.
 license: GPL-3.0
+metrics:
+  updated: '2020-04-20T12:55:35Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

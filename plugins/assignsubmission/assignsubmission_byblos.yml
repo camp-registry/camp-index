@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Byblos portfolio submissions for mod_assign — submit a page or collection,
   with snapshot / live modes. Requires local_byblos.
+metrics:
+  updated: '2026-05-15T09:14:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

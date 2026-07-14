@@ -9,3 +9,10 @@ releases: []
 summary: Moodle admin tool to extend/reactivate expired editing-teacher enrolments
   (self-service + admin on-behalf), with audit log and optional notification email.
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T03:37:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Nudge plugin for MOODLE and Totara aims to provide a simple way to notify/remind
   users to revisit their course prior to course completion.
+metrics:
+  updated: '2023-05-18T02:39:36Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

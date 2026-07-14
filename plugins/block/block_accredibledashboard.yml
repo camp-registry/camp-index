@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A small Moodle block that allows users to easily see the Accredible certificates
   they've earned and a link to their certificate wallet, right on their dashboard.
+metrics:
+  updated: '2021-10-13T16:05:35Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

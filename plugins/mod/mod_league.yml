@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 'Moodle Plugin: A League of exercises for all students in a course.'
+metrics:
+  updated: '2018-09-17T21:22:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 17
+  archived: false
+  checked: '2026-07-11'

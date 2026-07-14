@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple text input widget that lets users input text with super- and/or
   sub-scripts.
+metrics:
+  updated: '2025-06-23T08:36:41Z'
+  stars: 0
+  forks: 6
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

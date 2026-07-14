@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-11-27T14:18:02Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle activity plugin that allows students to have AI-powered conversations
+  with historical figures. Students can chat with famous people from history, learning
+  about their lives, ideas, and historical contexts through interactive dialogue.

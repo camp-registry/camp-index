@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin providing REST API endpoints for H5P content management (upload,
   list, embed)
+metrics:
+  updated: '2026-01-15T17:09:34Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

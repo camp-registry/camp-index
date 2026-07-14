@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The ClassLink OAuth2 plugin provides single-sign-on functionality with ClassLink
   LaunchPad using configurable identity providers and the scope of ClassLink OAuth2.
+metrics:
+  updated: '2023-02-25T01:46:58Z'
+  stars: 0
+  forks: 2
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Export grades from assignment using advanced grading methods in excel format
+metrics:
+  updated: '2026-06-22T16:17:38Z'
+  stars: 11
+  forks: 14
+  open-issues: 17
+  archived: false
+  checked: '2026-07-11'

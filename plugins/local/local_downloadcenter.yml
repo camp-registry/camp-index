@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Download Center enables teachers and students to download the content
   of selected activities and materials from a course as a ZIP archive.
+metrics:
+  updated: '2026-05-11T13:40:48Z'
+  stars: 5
+  forks: 6
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

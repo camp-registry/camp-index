@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-01-30T09:15:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin adds an MUC store for H5P Library files to improve performance
+  on sites with slow or non local disk file stores.

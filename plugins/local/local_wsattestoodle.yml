@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: LGPL-3.0
 summary: Web Service Attestoodle
+metrics:
+  updated: '2021-06-21T07:23:02Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

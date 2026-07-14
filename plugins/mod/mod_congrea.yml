@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 summary: Congrea Moodle Plugin
+metrics:
+  updated: '2023-04-14T11:08:17Z'
+  stars: 4
+  forks: 20
+  open-issues: 29
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An empty template of a Moodle local plugin with observer on user login, creation
   and modification.
+metrics:
+  updated: '2023-08-10T15:00:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

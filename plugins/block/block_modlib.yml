@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Providing a module library to quickly create predefined section modules
+metrics:
+  updated: '2023-09-25T11:30:29Z'
+  stars: 2
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

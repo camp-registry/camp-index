@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-01-25T07:29:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The Multi Text block is a dashboard landing image tool for institutes . It
+  visually shows what activities/resources a student is supposed to interact with
+  in a course. It is colour-coded so students can quickly see what they have and have
+  not completed/viewed. The block shows activities with activit

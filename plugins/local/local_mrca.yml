@@ -9,3 +9,10 @@ releases: []
 summary: MRCA is a comprehensive risk analysis engine for Moodle installations with
   a multi-layered security and compliance analyzer
 license: GPL-3.0
+metrics:
+  updated: '2026-04-27T09:02:34Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Block Plugin to determine the current user-position
+metrics:
+  updated: '2024-12-14T11:27:09Z'
+  stars: 3
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

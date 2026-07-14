@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle block which provides all functionality of block_login and displays
   additional information (username, avatar, logout button) as soon as the user is
   logged in
+metrics:
+  updated: '2016-11-19T15:36:15Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

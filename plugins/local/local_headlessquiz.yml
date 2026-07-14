@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-05-07T01:59:25Z'
+  stars: 4
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The primary purpose of this plugin is to facilitate running quizzes on Moodle
+  in 'headless' mode i.e. via webservice calls.

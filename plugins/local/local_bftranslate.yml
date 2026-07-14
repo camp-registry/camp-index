@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Plugin Translator by Brickfield allows you to harness AI for plugin translation,
   for Moodle plugins and Moodle Core!
+metrics:
+  updated: '2026-01-19T10:47:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

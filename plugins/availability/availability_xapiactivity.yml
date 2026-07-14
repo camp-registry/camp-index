@@ -9,3 +9,10 @@ releases: []
 summary: Moodle Availability condition to restrict access to an activity or section
   based on a statement in an external Learning Record Store via xAPI.
 license: GPL-3.0
+metrics:
+  updated: '2020-05-04T04:33:29Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

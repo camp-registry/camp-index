@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This plugin automatically assigns a specified role to users who authenticate
   via OpenID Connect (OIDC). It runs as a scheduled task and provides a safe, configurable
   way to manage role assignments.
+metrics:
+  updated: '2025-09-12T13:22:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Sent email audit admin tool for Moodle 5.2 (tool_mailaudit): event-based
   capture of outbound mail with a searchable, exportable, privacy-aware audit.'
+metrics:
+  updated: '2026-07-01T08:09:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

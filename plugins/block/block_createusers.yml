@@ -9,3 +9,10 @@ releases: []
 summary: Moodle block for rapidly creating one or more users, sending their details,
   optionally enrolling them to a course and group
 license: GPL-3.0
+metrics:
+  updated: '2021-04-09T07:49:51Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

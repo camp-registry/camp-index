@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Add-on for Moodle plugin Level up!
+metrics:
+  updated: '2017-10-16T05:20:43Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

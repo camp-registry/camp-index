@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Reporting Dashboard plugin for Moodle - Integration with block_gradetracker
   and block_elbp
+metrics:
+  updated: '2022-02-21T11:26:50Z'
+  stars: 2
+  forks: 0
+  open-issues: 3
+  archived: true
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: Generator of Moodle plugins skeletons
+metrics:
+  updated: '2026-05-27T23:59:43Z'
+  stars: 59
+  forks: 48
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

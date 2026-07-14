@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-07-02T15:08:34Z'
+  stars: 2
+  forks: 4
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'
+summary: The SafeAssign plagiarism plugin (plagiarismsafeassign) provides

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: MIT
+metrics:
+  updated: '2025-03-22T23:10:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This Moodle plugin provides a web service to retrieve questions from a specific
+  quiz attempt.

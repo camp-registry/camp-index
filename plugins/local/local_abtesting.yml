@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that gives users a randomized A/B testing group in their
   profile. Use this to restrict activities to random groups of students.
+metrics:
+  updated: '2017-08-29T21:42:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

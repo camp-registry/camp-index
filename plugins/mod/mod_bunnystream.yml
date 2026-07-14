@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle activity module that embeds Bunny.net Stream videos with Token Authentication,
   TUS direct-upload, encoding webhooks, completion + gradebook integration, and Moodle
   Mobile App support. Full parity with bunny-xblock for Open edX.
+metrics:
+  updated: '2026-05-14T22:39:17Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

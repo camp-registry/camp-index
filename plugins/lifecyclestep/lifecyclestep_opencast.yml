@@ -9,3 +9,10 @@ releases: []
 summary: Moodle subplugin for tool_lifecycle which allows admins to delete Opencast
   videos belonging to a Moodle course when this Moodle course is deleted by tool_lifecycle.
 license: GPL-3.0
+metrics:
+  updated: '2026-05-08T12:40:49Z'
+  stars: 3
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

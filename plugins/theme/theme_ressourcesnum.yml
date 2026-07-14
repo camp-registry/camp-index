@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-08-22T10:47:06Z'
+  stars: 0
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Ressource Numeriques Boost Based theme

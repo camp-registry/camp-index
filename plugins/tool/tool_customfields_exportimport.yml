@@ -9,3 +9,10 @@ releases: []
 summary: Export and import the structure of user profile fields and custom fields
   (course, cohort) in JSON format. Includes CLI support.
 license: GPL-3.0
+metrics:
+  updated: '2025-11-24T10:59:35Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

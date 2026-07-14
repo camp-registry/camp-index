@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle plugin to allow teacher to delete their own courses.
+metrics:
+  updated: '2024-11-07T19:38:42Z'
+  stars: 3
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

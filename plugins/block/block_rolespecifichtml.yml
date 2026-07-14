@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block that provides distinct content wether the role you are assigned to
   in the course
+metrics:
+  updated: '2025-11-26T11:14:18Z'
+  stars: 2
+  forks: 5
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

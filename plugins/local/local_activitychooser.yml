@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A new activity chooser for moodle that let you favorite your most used activities
   and resources
+metrics:
+  updated: '2020-02-28T17:29:08Z'
+  stars: 3
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

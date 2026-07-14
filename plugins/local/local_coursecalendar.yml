@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle local plugin for building per-course, per-semester calendars from
   a reusable blueprint of topics.
+metrics:
+  updated: '2026-06-18T03:21:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

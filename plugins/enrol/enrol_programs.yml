@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-02-27T23:18:42Z'
+  stars: 10
+  forks: 13
+  open-issues: 17
+  archived: false
+  checked: '2026-07-11'
+summary: Programs for Moodle by Open LMS is a set of plugins that implements programs,

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: The admin tool “Global Notification” allows Moodle administrators to communicate
   messages about maintenance or updates globally or to specific groups. Templates
   can be created, and further restrictions can be defined accordingly.
+metrics:
+  updated: '2026-06-11T08:32:08Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

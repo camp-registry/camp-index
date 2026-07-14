@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Manage separately the development of the lams lesson moodle's module included
   into the project's lams sourcecode
+metrics:
+  updated: '2026-05-21T03:31:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

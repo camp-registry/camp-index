@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle的local插件，用于对文件夹、作业等文件的pdf、视频等的在线浏览
+metrics:
+  updated: '2021-09-15T00:57:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

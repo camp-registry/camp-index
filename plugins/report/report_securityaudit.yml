@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The report is an extension of the security report, displaying only the problematic
   elements.
+metrics:
+  updated: '2025-08-11T10:38:19Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

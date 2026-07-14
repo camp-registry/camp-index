@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Activity module for Moodle that allows to run outdoor treasure-chases with
   geolocation and QR codes
+metrics:
+  updated: '2026-05-13T18:53:05Z'
+  stars: 5
+  forks: 9
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

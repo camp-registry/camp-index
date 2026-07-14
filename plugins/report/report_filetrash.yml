@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Utility for viewing and deleting orphaned files from the data and/or backup
   folder
+metrics:
+  updated: '2020-06-19T13:13:41Z'
+  stars: 7
+  forks: 8
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

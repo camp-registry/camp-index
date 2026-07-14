@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: Adding to your Moodle activities (assignment activities) the ability to include
   Snap! projects
+metrics:
+  updated: '2023-03-22T09:36:07Z'
+  stars: 0
+  forks: 2
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'

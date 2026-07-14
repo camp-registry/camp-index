@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-07-11T10:53:56Z'
+  stars: 1
+  forks: 4
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: Unzip the plugin in the moodle .../lib/editor/atto/plugins/ directory.

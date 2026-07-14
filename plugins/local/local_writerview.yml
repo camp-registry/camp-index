@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-29T20:52:26Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A local plugin that transforms the Moodle assignment submission page into
+  a focused writing experience with a Google Docs-ish layout that observes the contraints
+  of Moodle core.

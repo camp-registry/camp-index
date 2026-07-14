@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-08T11:13:10Z'
+  stars: 0
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'
+summary: Moodle free accessibility plugin - All in One Accessibility® is a comprehensive
+  accessibility enhancement tool designed for websites and applications powered by Moodle.
+  This solution makes it easy to provide a more inclusive digital experience by adding
+  an accessibility interface that supports users

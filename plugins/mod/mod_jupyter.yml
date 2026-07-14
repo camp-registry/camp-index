@@ -11,3 +11,10 @@ summary: The Moodle plugin seamlessly integrates Jupyter Notebooks, providing us
   With this powerful integration, students and instructors can engage in interactive
   coding activities and explore diverse programming languages wi
 license: GPL-3.0
+metrics:
+  updated: '2026-03-11T15:06:57Z'
+  stars: 12
+  forks: 9
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

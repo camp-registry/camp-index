@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This filter will replace Sage code in [sage]...[/sage] block with the result
   of calculation in embedded SageMathCell
+metrics:
+  updated: '2018-02-14T15:42:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

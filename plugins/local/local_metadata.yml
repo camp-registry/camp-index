@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-12-22T15:33:51Z'
+  stars: 11
+  forks: 17
+  open-issues: 25
+  archived: false
+  checked: '2026-07-11'
+summary: The “local metadata” plugin has been created to allow extra, “metadata” to
+  be defined and

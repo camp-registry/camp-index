@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Formulas question type for Moodle
+metrics:
+  updated: '2026-07-03T17:31:44Z'
+  stars: 20
+  forks: 31
+  open-issues: 27
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-23T19:26:56Z'
+  stars: 3
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle block plugin that lets teachers and managers copy any course activity
+  or resource to multiple courses in a single operation — eliminating the need to
+  recreate or manually duplicate the same content across courses one at a time.

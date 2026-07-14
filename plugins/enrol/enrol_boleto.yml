@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An enrol plugin for Moodle to generate 'boleto bancário' for users to pay
   to enrol.
+metrics:
+  updated: '2015-12-22T15:37:00Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

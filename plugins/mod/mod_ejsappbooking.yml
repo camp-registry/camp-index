@@ -9,3 +9,10 @@ releases: []
 summary: A Moodle resource module for booking remote lab resources uploaded and managed
   with the EJSApp activity module.
 license: GPL-3.0
+metrics:
+  updated: '2020-04-20T12:55:49Z'
+  stars: 5
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

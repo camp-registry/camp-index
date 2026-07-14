@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Stack question type for Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T15:39:28Z'
+  stars: 162
+  forks: 174
+  open-issues: 119
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Tinymce code highlighting plugin by Ryan Juckett, updated to Moodle 2.6 by
   Carl LeBlond
+metrics:
+  updated: '2017-02-17T14:29:15Z'
+  stars: 1
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

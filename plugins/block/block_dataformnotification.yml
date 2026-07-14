@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: The dataform notification block allows adding custom Dataform notification
   messages to a Dataform activity. The custom notification messages are sent to specified
   recipients on specified Dataform events.
+metrics:
+  updated: '2018-02-01T18:14:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

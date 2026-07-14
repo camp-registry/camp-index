@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Mail log plugin for Totara
+metrics:
+  updated: '2026-07-07T02:53:48Z'
+  stars: 3
+  forks: 7
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

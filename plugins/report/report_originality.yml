@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-28T20:22:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The Originality Report plugin for Moodle provides administrators and teachers
+  with comprehensive analytics and reporting tools to monitor originality scores across
+  courses, assignments, and students. This plugin integrates with Moodle's plagiarism
+  detection system to generate insightful reports that

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A small Moodle local plugin that provides a Moodle-side redirect endpoint
   to start the OAuth2/OIDC login flow while preserving sesskey and wantsurl parameters.
+metrics:
+  updated: '2026-06-03T22:59:03Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

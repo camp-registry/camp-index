@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-01-05T06:58:42Z'
+  stars: 9
+  forks: 4
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin is a fork of the localaiconnector plugin https://github.com/enovation/moodle-localaiconnector
+  created by Irish Moodle partner Ennovation. For custom development and consultancy
+  for this plugin contact Moodle Partner Catalyst EU (https://www.catalyst-eu.net/).

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-25T00:17:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'
+summary: Note this is an unofficial Mediasite plugin. The supported integration is
+  using LTI.

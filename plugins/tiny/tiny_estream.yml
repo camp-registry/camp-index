@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: An updated version of the legacy TinyMCE plugin for eStream by Uniguest for
   Moodle versions 4.5 and above.
+metrics:
+  updated: '2026-06-30T10:54:49Z'
+  stars: 0
+  forks: 3
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'

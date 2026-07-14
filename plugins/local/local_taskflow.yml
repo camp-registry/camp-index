@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Wunderbyte Taskflow plugin
+metrics:
+  updated: '2026-07-10T06:47:42Z'
+  stars: 0
+  forks: 3
+  open-issues: 116
+  archived: false
+  checked: '2026-07-11'

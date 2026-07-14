@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Turnitin Plagiarism plugin for Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-07-08T14:17:47Z'
+  stars: 66
+  forks: 88
+  open-issues: 63
+  archived: false
+  checked: '2026-07-11'

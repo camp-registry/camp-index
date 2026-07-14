@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle Adaptive Quiz Module (archived). See https://moodle.org/plugins/mod_adaptivequiz
   for active forks and releases.
+metrics:
+  updated: '2022-01-31T19:49:45Z'
+  stars: 35
+  forks: 41
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

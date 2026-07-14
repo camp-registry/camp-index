@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: MAJ submissions block for Moodle >= 2.3
+metrics:
+  updated: '2024-01-22T01:52:36Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

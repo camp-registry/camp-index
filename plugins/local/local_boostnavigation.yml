@@ -9,3 +9,10 @@ releases: []
 summary: Moodle plugin which tries to overcome some fixed appearance behaviours of
   Boost's nav drawer in a clean way
 license: GPL-3.0
+metrics:
+  updated: '2024-01-06T20:44:35Z'
+  stars: 38
+  forks: 28
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

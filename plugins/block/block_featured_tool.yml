@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Featured tool is a Moodle block plugin that allows admins to easily display
   information/announcements to teachers.
+metrics:
+  updated: '2025-10-29T12:36:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

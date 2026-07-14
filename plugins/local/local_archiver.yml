@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Automatically backup and delete Moodle course files by category, title, or
   creation date
+metrics:
+  updated: '2022-01-28T18:09:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

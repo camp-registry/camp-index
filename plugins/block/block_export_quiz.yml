@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A plugin for exporting quiz in moodle.
+metrics:
+  updated: '2023-02-21T17:21:24Z'
+  stars: 3
+  forks: 6
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

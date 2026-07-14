@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Monitoring for quiz new attempt, set a new grade automatic when essay is
   used.
+metrics:
+  updated: '2019-01-22T16:31:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

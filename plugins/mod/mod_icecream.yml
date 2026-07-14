@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is a tiny mod that allows admin to copy availability options from activity
   to activity
+metrics:
+  updated: '2017-06-30T01:13:53Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

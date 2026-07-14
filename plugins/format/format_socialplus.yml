@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: socialformat with full section at top - allows activies/resources to be added.
+metrics:
+  updated: '2013-05-21T23:37:22Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

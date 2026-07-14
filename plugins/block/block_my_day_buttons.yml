@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-01T00:00:16Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A custom responsive block visible to Primary School students on the site
+  home and to staff and parents on primary studnet profiles.

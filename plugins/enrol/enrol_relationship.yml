@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Realiza o processo de inscrição em cursos, através do relaltionship de uma
   categoria
+metrics:
+  updated: '2026-06-16T04:29:54Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Course Request Manager Block for Moodle - Current version for Moodle 3.5
+metrics:
+  updated: '2022-06-07T07:37:11Z'
+  stars: 7
+  forks: 20
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin allows Moodle to use Azure Search as the search engine for Moodle's
   Global Search.
+metrics:
+  updated: '2018-08-02T03:44:20Z'
+  stars: 0
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

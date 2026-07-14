@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-01-04T09:29:40Z'
+  stars: 1
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: This block displays a responsive list of icon and text links. Configuration
+  allows adding, deleting and re-ording of links.

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Extends Moodle web services to support identifying and adding LTI activities
+metrics:
+  updated: '2026-01-18T16:06:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

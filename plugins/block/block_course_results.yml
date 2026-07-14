@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2015-04-17T06:00:45Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Course Results block initially developed by Vlas Voloshin

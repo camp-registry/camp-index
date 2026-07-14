@@ -9,3 +9,10 @@ releases: []
 license: MIT
 summary: Repository google images is a Moodle repository plugin to get images from
   Google custom search with image type.
+metrics:
+  updated: '2023-05-05T08:12:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

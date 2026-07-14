@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: https://moodle.org/plugins/block_html_placeholders
+metrics:
+  updated: '2022-06-03T06:32:14Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

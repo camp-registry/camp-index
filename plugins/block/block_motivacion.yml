@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Bloque Moodle que muestra frases motivacionales sobre programación con botón
   para generar nueva frase. PHP 8.2, compatible con cursos, escritorio y página principal.
+metrics:
+  updated: '2026-06-12T07:50:38Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

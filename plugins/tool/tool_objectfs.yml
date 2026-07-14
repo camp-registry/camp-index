@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Object file storage system for Moodle
+metrics:
+  updated: '2026-07-10T01:37:11Z'
+  stars: 100
+  forks: 83
+  open-issues: 187
+  archived: false
+  checked: '2026-07-11'

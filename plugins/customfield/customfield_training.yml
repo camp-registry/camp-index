@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-02-27T23:19:37Z'
+  stars: 0
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: Training value custom field for Moodle by Open LMS is a plugin

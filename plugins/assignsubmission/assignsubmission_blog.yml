@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Submission plugin for the new assignment type (2.3) for Moodle. Lets students
   to make a submission through a blog post, and comment on other posts.
+metrics:
+  updated: '2020-08-04T07:49:39Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

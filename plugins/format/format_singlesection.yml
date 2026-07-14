@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle course format plugin with single section and multiple activities.
+metrics:
+  updated: '2022-01-20T11:44:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Retrieve metadata from VIVO to Moodle platform by using sparql queries.
+metrics:
+  updated: '2023-03-29T16:42:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

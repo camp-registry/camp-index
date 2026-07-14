@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle availability plugin which lets users restrict resources and activities
   with dedication time
+metrics:
+  updated: '2025-11-27T09:42:46Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Selective logstore for Moodle that allows you to define which events you
   log and how long you keep each for
+metrics:
+  updated: '2026-05-12T13:15:33Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This block is a Moodle custom reports builder. You can create custom reports
   without SQL knowledge. It's a tool suitable for admins or teachers.
+metrics:
+  updated: '2021-10-29T14:55:37.274Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

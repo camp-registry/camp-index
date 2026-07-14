@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The 3D Viewer module allows teachers to upload and display 3D models in STL
   format that students can rotate and zoom.
+metrics:
+  updated: '2025-09-25T11:03:02Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

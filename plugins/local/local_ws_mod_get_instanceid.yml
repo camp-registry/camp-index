@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: MIT
+metrics:
+  updated: '2026-02-13T13:38:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin adds a web service to Moodle that retrieves the instance ID and
+  module type from a course module ID (cmid).

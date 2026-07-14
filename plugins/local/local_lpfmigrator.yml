@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is moodle-plugin is intended to assist the migration of lernplattform.schule.at
   to eduvidual.at
+metrics:
+  updated: '2021-06-29T14:06:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

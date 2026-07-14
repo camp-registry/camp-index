@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-02T12:42:18Z'
+  stars: 2
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'
+summary: The Kopere BI plugin was designed to provide visual and interactive data
+  analysis for Moodle environments. It empowers educators and administrators with
+  actionable insights into student performance, engagement, and overall course effectiveness.

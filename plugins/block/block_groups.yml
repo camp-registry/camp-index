@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ':family: A moodle block that displays the groups in which a user is enrolled'
+metrics:
+  updated: '2026-07-08T09:14:11Z'
+  stars: 4
+  forks: 7
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

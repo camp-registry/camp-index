@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Zoola Analytics for Moodle
 license: GPL-3.0
+metrics:
+  updated: '2018-04-04T17:36:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

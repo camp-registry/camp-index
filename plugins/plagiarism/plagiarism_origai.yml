@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Plagiarism plugin for Moodle LMS which allows for metered, on demand usage
   as opposed to "submit by default".
+metrics:
+  updated: '2026-07-02T19:00:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

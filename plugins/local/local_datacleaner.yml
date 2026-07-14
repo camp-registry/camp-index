@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Reduce, filter, and anonymize moodle data for non-prod environments
+metrics:
+  updated: '2026-07-07T06:42:19Z'
+  stars: 22
+  forks: 20
+  open-issues: 58
+  archived: false
+  checked: '2026-07-11'

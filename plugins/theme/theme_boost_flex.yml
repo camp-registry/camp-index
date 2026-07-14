@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Theme Boost Flex is a child theme of Boost. It adds the ability to easy change
   CSS.
+metrics:
+  updated: '2022-01-04T17:05:25Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

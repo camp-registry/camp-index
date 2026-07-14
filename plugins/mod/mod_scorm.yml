@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Modified version of Moodle SCORM from 2.4.1 for use with the Experience API
   for Moodle and TIN CAN published packages.
+metrics:
+  updated: '2015-10-13T15:20:09Z'
+  stars: 16
+  forks: 12
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

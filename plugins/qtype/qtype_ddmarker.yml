@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: question type for Moodle - drag and drop markers with text label onto an
   image background
+metrics:
+  updated: '2015-11-20T10:28:05Z'
+  stars: 14
+  forks: 14
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

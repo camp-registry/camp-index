@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'GraphChecker: Moodle plugin that automatically grades graph answers, based
   on CodeRunner'
+metrics:
+  updated: '2022-08-17T15:23:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 33
+  archived: false
+  checked: '2026-07-11'

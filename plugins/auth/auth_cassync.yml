@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Authentication plugin for Moodle to synchronize attributes between a CAS
   and Moodle
+metrics:
+  updated: '2021-02-12T13:41:22Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

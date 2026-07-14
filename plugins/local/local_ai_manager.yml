@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T04:49:02Z'
+  stars: 27
+  forks: 21
+  open-issues: 20
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin provides a fully functional AI backend. It can be used as alternative
+  choice for the AI subsystem which is being shipped with Moodle 4.5. The AI manager
+  provides the key feature of being a multi-tenant AI backend which is the main reason
+  you should be using this plugin for providing AI f

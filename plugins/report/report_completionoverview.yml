@@ -11,3 +11,10 @@ summary: The course completion overview report is a simple reporting tool based 
   the existing course completion report. This plugin allows the Moodle Admin and system
   level Managers to view course completion tracking information from a centralised
   location rather than having to access each course individua
+metrics:
+  updated: '2021-04-23T19:45:03Z'
+  stars: 1
+  forks: 5
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

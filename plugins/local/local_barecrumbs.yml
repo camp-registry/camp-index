@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: '[RETIRED] Local Moodle plugin that unlinks category breadcrumbs for hidden
   categories.'
+metrics:
+  updated: '2018-09-18T04:27:59Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: true
+  checked: '2026-07-11'

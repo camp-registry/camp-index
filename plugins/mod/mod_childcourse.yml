@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-18T15:04:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: 'modchildcourse adds a Moodle activity of type "Child course": when clicked,
+  the student is redirected to another course (the "child course") and, optionally,
+  the plugin performs automatic enrolment in the child course and keeps incremental
+  synchronization of grades and completion.'

@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-02-16T12:57:02Z'
+  stars: 4
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Delete old quiz and question attempts Moodle plugin

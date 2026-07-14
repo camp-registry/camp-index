@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle repository for the Open Source Physics library of EJS models in Compadre.
 license: GPL-3.0
+metrics:
+  updated: '2018-09-01T15:05:51Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

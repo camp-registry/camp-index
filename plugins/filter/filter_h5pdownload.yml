@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Filter that adds a button under H5P elements, displaying licencing informations.
+metrics:
+  updated: '2024-07-15T14:48:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

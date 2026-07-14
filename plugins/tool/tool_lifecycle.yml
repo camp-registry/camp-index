@@ -9,3 +9,10 @@ releases: []
 summary: ':recycle: Extensible Moodle plugin for managing course life cycles, e.g.,
   deprovisioning'
 license: GPL-3.0
+metrics:
+  updated: '2026-07-06T13:19:27Z'
+  stars: 26
+  forks: 41
+  open-issues: 41
+  archived: false
+  checked: '2026-07-11'

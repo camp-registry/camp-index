@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Weather is a Moodle block to show the weather of the user using the geolocation.
   This shows the realtime weather of the user by getting the geolocation from their
   browser.
+metrics:
+  updated: '2020-12-24T16:04:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

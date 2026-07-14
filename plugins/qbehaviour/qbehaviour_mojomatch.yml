@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: qbehaviour_mojomatch is a question behavior plugin that allows Moodle questions
   to pull dynamic challenge question answers from TopoMojo labs during a live lab
   attempt.
+metrics:
+  updated: '2026-06-10T02:03:16Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

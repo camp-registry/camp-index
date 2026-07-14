@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle Activity Module which enables SSO from Moodle to People Alchemy's
   Alchemy Assistant platform . The Alchemy Assistant is a breakthrough support resource
   that provides day-by-day support on every area of workplace learning.
+metrics:
+  updated: '2018-08-22T10:05:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

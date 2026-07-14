@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2023-03-03T14:27:48Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin extends the default export functionalities of a forum module,
+  allowing user to customise the group-related settings, as well as permissions to
+  access data of each group in forums.

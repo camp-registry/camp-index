@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A "queued" version of the Weighted Adaptive question type designed to allow
   grading of questions which must be graded by a work queue.
+metrics:
+  updated: '2014-08-18T22:13:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

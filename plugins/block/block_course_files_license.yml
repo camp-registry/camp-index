@@ -9,3 +9,10 @@ releases: []
 license: GPL-2.0
 summary: A Moodle block that allow teachers to identified licenses/copyright of the
   files their are using on his course
+metrics:
+  updated: '2016-04-11T17:11:57Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

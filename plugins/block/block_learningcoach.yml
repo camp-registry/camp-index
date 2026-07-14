@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: BLock Learning Coach for Moodle
+metrics:
+  updated: '2023-01-21T00:25:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 11
+  archived: false
+  checked: '2026-07-11'

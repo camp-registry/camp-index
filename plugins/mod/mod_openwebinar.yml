@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: MoodleFreak - Plugin that allow live webcast with chat and file sharing on
   a moodle environment
+metrics:
+  updated: '2019-11-23T16:25:42Z'
+  stars: 4
+  forks: 2
+  open-issues: 1
+  archived: true
+  checked: '2026-07-11'

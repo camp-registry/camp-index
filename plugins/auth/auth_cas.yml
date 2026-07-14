@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: CAS Server (SSO) Authentication Plugin for Moodle
+metrics:
+  updated: '2025-02-10T07:28:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

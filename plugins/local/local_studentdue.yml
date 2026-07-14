@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-21T14:31:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: localstudentdue is a Moodle local plugin focused only on the student experience.
+  It shows upcoming due dates with visual urgency, filters completed activities, and
+  adds a small navbar button so students can see their pending work from anywhere
+  in Moodle.

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2021-10-06T01:39:26Z'
+  stars: 5
+  forks: 0
+  open-issues: 18
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin is designed to provide a Continuous Professional Development
+  logbook functionality to core Moodle.

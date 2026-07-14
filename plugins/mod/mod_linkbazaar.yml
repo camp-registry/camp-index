@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is a Moodle activity plugin that allows students to submit links to
   useful resources. Students votes are used to order them.
+metrics:
+  updated: '2013-09-09T04:28:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

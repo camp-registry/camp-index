@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Leeloo LXP AI Data Filter allows you to use shortcodes to show the content
   created from LeelooLXP AI.
+metrics:
+  updated: '2023-11-15T08:53:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

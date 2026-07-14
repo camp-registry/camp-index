@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-10-14T10:49:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Media plugin for Kinescope service - a plugin that makes it easy to add videos
+  from the Kinescope service by inserting a link to Kinescope video in any text editor.

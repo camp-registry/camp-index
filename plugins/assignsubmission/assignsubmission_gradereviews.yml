@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A plugin similar to the submission comments but with permission support to
   allow to see/delete comments.
+metrics:
+  updated: '2018-10-26T07:29:06Z'
+  stars: 1
+  forks: 4
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

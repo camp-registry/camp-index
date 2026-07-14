@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: local plugin to set standard settings, migrate dates and extensions between
   moodle and ext Db
+metrics:
+  updated: '2018-06-04T07:13:47Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

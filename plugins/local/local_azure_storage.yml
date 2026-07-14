@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle plugin containing the Microsoft Azure Storage SDK for PHP.
+metrics:
+  updated: '2025-06-17T04:57:20Z'
+  stars: 3
+  forks: 2
+  open-issues: 2
+  archived: true
+  checked: '2026-07-11'

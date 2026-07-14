@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle filter that auto-generates a table of contents based on html headings
   tags
+metrics:
+  updated: '2023-03-31T22:31:56Z'
+  stars: 1
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle webGL game activity plugin with Azure blob storage and  AWS s3 webGL
   content upload and Moodle File API.
+metrics:
+  updated: '2021-10-07T08:45:56Z'
+  stars: 4
+  forks: 4
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

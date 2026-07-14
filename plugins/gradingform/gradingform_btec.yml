@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: BTEC grading with Refer, Pass, Merit, Distinction. Each level requires all
   previous level be achieved
+metrics:
+  updated: '2026-04-06T16:38:29Z'
+  stars: 3
+  forks: 6
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

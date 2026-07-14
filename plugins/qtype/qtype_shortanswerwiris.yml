@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Wiris Quizzes - Short-Answer question type
+metrics:
+  updated: '2026-06-25T14:05:39Z'
+  stars: 2
+  forks: 5
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

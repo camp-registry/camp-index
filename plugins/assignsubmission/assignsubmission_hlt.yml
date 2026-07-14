@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A submission plugin for the Moodle assignment module that allows us to set
   a "set date" and "due date" calendar event in the student's calendar.
+metrics:
+  updated: '2018-08-23T13:14:42Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

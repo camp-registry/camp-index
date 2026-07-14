@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: The ME CustomCert Bulk Download enables administrators to download as a ZIP
   archive site wide certificates issued by Custom certificate plugin according to
   a configurable naming scheme as a ZIP archive.
+metrics:
+  updated: '2025-05-19T15:14:25Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This Moodle plugin allows using the WebRTC for a video conference between
   two people with webcam sharing, screen sharing, file sharing and instant messaging
+metrics:
+  updated: '2014-09-29T11:50:24Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: Moodle Atto plugin which allows to embed LTI resources through Deep Linking.
+metrics:
+  updated: '2023-07-03T07:14:43Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

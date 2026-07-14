@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Plugin to enable Moodle to issue badges via the Lancaster University Badges
   API
+metrics:
+  updated: '2015-11-04T09:54:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

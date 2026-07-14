@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ':bug: Local Moodle plugin providing issue tracking for Moodle questions'
+metrics:
+  updated: '2023-08-21T08:00:14Z'
+  stars: 2
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-07-11'

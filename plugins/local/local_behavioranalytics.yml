@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Behaviour Analytics for Moodle – detect suspicious logins, failed attempts,
   and abnormal activity; compute user risk scores and trigger automatic mitigation.
+metrics:
+  updated: '2025-11-14T09:11:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

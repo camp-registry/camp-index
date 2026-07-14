@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: A kanban board activity for moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T05:36:13Z'
+  stars: 13
+  forks: 8
+  open-issues: 15
+  archived: false
+  checked: '2026-07-11'

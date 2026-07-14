@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-02-03T23:07:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin provides an AI-powered analysis report for Moodle quiz submissions,
+  leveraging AI to analyze student comments and generate insights about quiz performance.

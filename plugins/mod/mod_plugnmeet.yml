@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Plug-N-Meet conference integration with Moodle
+metrics:
+  updated: '2026-07-10T23:18:17Z'
+  stars: 3
+  forks: 4
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

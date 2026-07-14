@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Turnitin Direct plugin (version 2) for Moodle
+metrics:
+  updated: '2026-06-29T13:27:58Z'
+  stars: 37
+  forks: 69
+  open-issues: 63
+  archived: false
+  checked: '2026-07-11'

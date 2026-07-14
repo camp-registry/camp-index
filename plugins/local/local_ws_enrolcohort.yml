@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle webservice functions to add a cohort enrolment instance to a course,
   update and delete a cohort enrolment instance, and get cohort enrolment instances
+metrics:
+  updated: '2022-07-24T21:45:36Z'
+  stars: 10
+  forks: 8
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

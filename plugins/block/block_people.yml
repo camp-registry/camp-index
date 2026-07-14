@@ -9,3 +9,10 @@ releases: []
 summary: Moodle block which displays all teachers of a course with contact quicklinks,
   as well as a quicklink to the participants list
 license: GPL-3.0
+metrics:
+  updated: '2026-07-04T20:38:10Z'
+  stars: 13
+  forks: 11
+  open-issues: 10
+  archived: false
+  checked: '2026-07-11'

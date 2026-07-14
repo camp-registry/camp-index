@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-04-22T08:49:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-11'
+summary: If you want to use the Proctorio extension in your Moodle but you have a
+  custom theme or you are using an adaptive quiz that changes the appearance of your
+  Moodle, this plugin can help you to insert the selectors that are different from
+  default Moodle selectors, and enable using proctorio in your Mo

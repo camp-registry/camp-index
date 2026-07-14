@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: TinyMCE superscript and subscript button plugin for Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-05-01T14:33:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

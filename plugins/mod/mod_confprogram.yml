@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-10T15:57:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Conference Program (the vetting plugin) — a Moodle activity that takes submissions
+  from modconfsubmissions through a reviewer workflow, then publishes the accepted
+  programme.

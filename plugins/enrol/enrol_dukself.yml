@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Users that enrolled themself in a course will be suspended automatically
   after completion to make user management easier.
+metrics:
+  updated: '2018-09-21T22:01:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

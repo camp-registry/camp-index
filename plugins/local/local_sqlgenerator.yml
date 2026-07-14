@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Generate sql statements from Moodle install to be used in generating ER diagrams
+metrics:
+  updated: '2026-05-18T21:18:02Z'
+  stars: 12
+  forks: 10
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

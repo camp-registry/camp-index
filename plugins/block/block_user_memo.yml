@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A small utility allowing students to take some personal notes on course pages
   and append them to their blog if opened
+metrics:
+  updated: '2025-11-26T11:25:29Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

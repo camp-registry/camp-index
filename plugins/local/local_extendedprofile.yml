@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Add informations to the profile page: Course followed, course teached, table
   of courses, graph of the connexion time'
+metrics:
+  updated: '2018-10-02T14:21:56Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

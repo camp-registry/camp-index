@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Deprecated!!! Please consider for moodle the use of https://github.com/schulportalhessen/moodle-tiny_orphanedfiles
+metrics:
+  updated: '2025-06-23T07:56:16Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

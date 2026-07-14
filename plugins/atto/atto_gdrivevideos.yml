@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2020-12-30T09:38:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: 'This is a plugin that allows to embed a video from google drive directly
+  in the Atto Editor. The main features are:'

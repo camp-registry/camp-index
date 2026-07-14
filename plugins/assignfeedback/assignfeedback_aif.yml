@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-06T15:41:36Z'
+  stars: 4
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'
+summary: An assignment feedback plugin for Moodle that leverages AI/LLM systems to
+  automatically generate

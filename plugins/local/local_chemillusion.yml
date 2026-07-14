@@ -9,3 +9,10 @@ releases: []
 summary: ChemIllusion Study Tools — privacy-aware chemistry study plugin for Moodle
   (local_chemillusion)
 license: GPL-3.0
+metrics:
+  updated: '2026-06-24T04:37:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

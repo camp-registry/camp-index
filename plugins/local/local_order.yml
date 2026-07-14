@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle Local Plugin - Order : Customizable registry pages and course orders
   management'
+metrics:
+  updated: '2014-02-28T21:30:23Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

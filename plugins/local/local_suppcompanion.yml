@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-09-04T13:46:13Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This local plugin defines some external functions and uses these and some
+  core external functions in a webservice for the Support Chat Prototype https://github.com/MoodleNRW/multiagentragsystem
+  (DevCamp @MoodleMootDACH 2024).

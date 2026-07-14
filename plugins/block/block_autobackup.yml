@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Block providing action links to both a metadata database and to activity
   download
+metrics:
+  updated: '2013-09-17T10:22:36Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

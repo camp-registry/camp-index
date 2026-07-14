@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-01T02:08:43Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: blockskillscard is a Moodle block that displays a user's completed competency/course-related
+  records as a compact block on Moodle pages. In the Moodle UI the block title is
+  shown as Skills card.

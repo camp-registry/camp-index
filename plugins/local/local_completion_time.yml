@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin for course activity/resource to set auto completion only
   to those manual completion activity/resource  after certain time which is defined
+metrics:
+  updated: '2024-08-25T14:08:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-12T06:50:23Z'
+  stars: 6
+  forks: 1
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'
+summary: 'Moodle plugin allowing the teacher to ask a chemistry related question in
+  which the expected answer is a chemical structure. The student will answer by drawing
+  the response. The specificity of the plugin is that is allows for soft grading:
+  the grade is computed based on the similarity between the ex'

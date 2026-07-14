@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin adds a button to the Atto Text Editor to allow teachers and students
   to insert phonetic and linguistic symbols.
+metrics:
+  updated: '2026-06-22T11:08:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

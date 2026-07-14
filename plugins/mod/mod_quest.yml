@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Activity module to engage your students in a competitive game.
+metrics:
+  updated: '2025-08-27T11:23:39Z'
+  stars: 5
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

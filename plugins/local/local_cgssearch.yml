@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-03-13T01:04:05Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A local plugin that synchronises an index of documents from external systems,
+  as well as quick link (custom block) and user information, so that Moodle can index,
+  search and display these as results via Moodle's Global Search. The plugin consumes
+  external site data via custom API endpoints built int

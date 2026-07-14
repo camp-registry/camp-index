@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Opaque question type for Moodle. Allows Moodle to use any other question
   engine via a web-service link.
+metrics:
+  updated: '2022-06-28T13:28:04Z'
+  stars: 7
+  forks: 12
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

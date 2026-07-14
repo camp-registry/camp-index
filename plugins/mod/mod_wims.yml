@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: An activity binding Wims exercices into Moodle
+metrics:
+  updated: '2016-05-18T16:37:14Z'
+  stars: 1
+  forks: 3
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

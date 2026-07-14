@@ -11,3 +11,10 @@ summary: 'Plugin Replacer allows administrators to upload a Moodle plugin ZIP fi
   and either:  - Install it (if not currently installed), or   - Replace the existing
   installed version.  This plugin works in specific scenarios where you don''t have
   enough control to keep updating or installing plugins.'
+metrics:
+  updated: '2026-02-24T19:28:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A quiz 'report' add-on for Moodle, like the nomal manual grading report,
   but which lets you grade one student at a time, rather than one question at a time.
+metrics:
+  updated: '2026-01-12T12:48:46Z'
+  stars: 4
+  forks: 10
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

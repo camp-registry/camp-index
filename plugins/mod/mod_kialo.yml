@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Kialo Integration
+metrics:
+  updated: '2026-06-26T13:40:41Z'
+  stars: 3
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

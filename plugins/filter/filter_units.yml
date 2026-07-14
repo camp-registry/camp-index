@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A moodle filter for rendering a list of courses from the current category
   that contain a specific unittype custom attribute.
+metrics:
+  updated: '2022-03-17T03:10:23Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: That is a report plugin that helps the admin to known how the Moodle question
   types are being used by users (e.g. as essay, true/false, etc).
+metrics:
+  updated: '2021-01-29T16:24:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

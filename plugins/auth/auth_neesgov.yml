@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Auth plugin for organising simple one way SSO(single sign on) between moodle
   and gov.br.
+metrics:
+  updated: '2026-03-18T14:39:44Z'
+  stars: 8
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

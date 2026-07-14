@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A modern template for Moodle 3.5 based on Moodle HQs NEWMODULE.
+metrics:
+  updated: '2019-10-04T02:18:41Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

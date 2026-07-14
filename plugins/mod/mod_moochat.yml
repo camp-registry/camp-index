@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Create full-featured AI chat activities in your course. Display inline on
   course page or as separate activity. Includes avatars, rate limiting, and custom
   personalities. Uses Moodle's core AI - no external setup needed.
+metrics:
+  updated: '2026-04-28T17:14:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

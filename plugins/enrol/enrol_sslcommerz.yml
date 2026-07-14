@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: SSLCOMMERZ enrollment plugin for Moodle
+metrics:
+  updated: '2022-04-22T10:18:09Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

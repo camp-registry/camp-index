@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-03-26T10:59:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: SERIAL 3 is a Learning Analytics Dashboard for Moodle. It offers a set of
+  widgets that teachers can enable for their courses. Students then select, arrange,
+  and configure the widgets that are most relevant to them, creating a personalized
+  dashboard.

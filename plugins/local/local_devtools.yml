@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin that adds a Developer Tools dropdown to the top navigation
   bar for authorized users.
+metrics:
+  updated: '2026-03-05T18:26:06Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

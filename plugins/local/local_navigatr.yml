@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Navigatr Moodle Plugin connects your Moodle courses directly to the Navigatr
   platform, allowing automatic badge issuance when learners complete courses.
+metrics:
+  updated: '2026-07-04T21:06:31Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

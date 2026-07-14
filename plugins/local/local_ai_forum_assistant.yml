@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: Moodle plugin that integrates OpenAI-based AI assistant for forum discussions.
+metrics:
+  updated: '2025-11-07T01:06:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

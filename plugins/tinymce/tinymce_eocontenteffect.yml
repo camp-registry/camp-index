@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle TinyMCE Plugin that inserts JS/YUI3 effects (Hide word, section etc.)
+metrics:
+  updated: '2014-12-27T15:03:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

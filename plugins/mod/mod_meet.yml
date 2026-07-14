@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Univates integration of Google Meet for Moodle. This is an Activity Module
   for meeting administration.
+metrics:
+  updated: '2020-07-31T12:27:29Z'
+  stars: 3
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

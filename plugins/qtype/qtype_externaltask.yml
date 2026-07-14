@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2019-06-04T09:52:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin allows for external tasks to be included in a quiz, followed
+  by manual grading.

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Viewermecaobj is a simple filter wich allows to create an interactive STL
   viewer by replacing a stl (moodle) url in an text editor by a viewer of this STL
   object.
+metrics:
+  updated: '2020-01-10T12:51:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Automatically sync new and existing Moodle users to MailChimp list(s). PR's
   are welcome!
+metrics:
+  updated: '2024-09-16T14:27:03Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

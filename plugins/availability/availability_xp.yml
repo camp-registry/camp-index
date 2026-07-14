@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle plugin to restrict access to an activity by experience level.
+metrics:
+  updated: '2026-04-20T15:00:11Z'
+  stars: 9
+  forks: 8
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

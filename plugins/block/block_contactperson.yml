@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-02-06T13:50:41Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The moodle-blockcontactperson plugin allows you to include a contact person
+  block in your Moodle course. This facilitates direct communication between course
+  participants and the assigned contact persons.

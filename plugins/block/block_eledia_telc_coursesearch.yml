@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block plugin for the dashboard to search courses that are available for
   all users.
+metrics:
+  updated: '2026-01-29T11:21:52Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -11,3 +11,10 @@ summary: Local Course Catalog is a Moodle local plugin for creating category-bas
   catalog landing pages with a clean, manageable admin workflow. It lets administrators
   define custom catalog pages, control visibility, and optionally expose selected
   pages in the primary navigation.
+metrics:
+  updated: '2026-04-03T06:40:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

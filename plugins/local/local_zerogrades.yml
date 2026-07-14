@@ -11,3 +11,10 @@ summary: Automatically enters zeroes as grade overrides for assign, forum, and q
   activities without submissions. Contains two methods for autograding forums based
   on wordcount and number of posts or based on joining a Zoom meeting activity in
   the same course section / week as the forum.
+metrics:
+  updated: '2025-08-12T15:51:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

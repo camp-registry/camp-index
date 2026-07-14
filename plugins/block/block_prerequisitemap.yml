@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-07-06T18:36:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle block plugin that displays a student-facing learning pathway, showing
+  completed, in-progress, available, and locked courses based on prerequisite relationships
+  defined by the availabilityprerequisite condition.

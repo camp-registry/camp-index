@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: 'Mad Libs block (block_madlibs): Moodle plugin that allows users to add a
   block to their dashboard that will display a random user-submitted Mad Lib.'
+metrics:
+  updated: '2021-07-26T04:31:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

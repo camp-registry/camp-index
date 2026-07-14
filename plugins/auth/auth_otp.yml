@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle auth_otp is a One time password (OTP) based authentication plugin.
+metrics:
+  updated: '2022-09-15T06:34:15Z'
+  stars: 6
+  forks: 4
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'

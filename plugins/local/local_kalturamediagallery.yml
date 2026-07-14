@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2020-11-16T18:05:22Z'
+  stars: 0
+  forks: 4
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: This repository contains part of the v3.x Moodle extension of Kaltura which
+  is not based on KAF and is not the latest version.

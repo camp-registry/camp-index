@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2022-08-11T00:47:01Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: This repository has been archived and no longer will be supported. Please
+  see

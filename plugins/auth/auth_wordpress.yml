@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple Moodle authentication plugin that authenticates against a WordPress
   installation on the same server.
+metrics:
+  updated: '2017-05-18T12:25:14Z'
+  stars: 7
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

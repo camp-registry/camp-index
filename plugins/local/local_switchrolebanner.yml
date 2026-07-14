@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle plugin that displays a banner in courses to notify users with site
   roles when they are viewing a course they have roles in and allows them to quickly
   switch roles.
+metrics:
+  updated: '2025-01-24T00:18:58Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

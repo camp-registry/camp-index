@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Sample plugin for Moodle tracker. Allowing plugin developer to add additional
   capabilities to delete activity.
+metrics:
+  updated: '2022-07-14T02:43:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

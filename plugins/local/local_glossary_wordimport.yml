@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2025-04-23T15:28:56Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
+summary: This plugin extends the core Glossary to support importing glossary entries
+  from a Word file

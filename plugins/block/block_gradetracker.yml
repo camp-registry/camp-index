@@ -9,3 +9,10 @@ releases: []
 license: Apache-2.0
 summary: Qualification tracking plugin for Moodle - track students at qual/unit/criteria
   level
+metrics:
+  updated: '2021-12-10T18:46:48Z'
+  stars: 1
+  forks: 0
+  open-issues: 16
+  archived: true
+  checked: '2026-07-11'

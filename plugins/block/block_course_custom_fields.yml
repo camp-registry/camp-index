@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
+metrics:
+  updated: '2017-09-15T10:44:52Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: Course META block for moodle 3.1 Created By Norbert Czirjak

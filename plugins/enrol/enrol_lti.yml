@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: This is a personal version of the moodle plugin 'enrol_lti' with enhancements
+metrics:
+  updated: '2022-06-29T09:39:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

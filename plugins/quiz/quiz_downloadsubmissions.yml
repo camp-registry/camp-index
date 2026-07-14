@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-03-25T18:41:48Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: The ‘Download essay submission’ plugin offers users a convenient way by which
+  teachers can download quiz essay attachments submitted by students in response to
+  quiz essay questions.

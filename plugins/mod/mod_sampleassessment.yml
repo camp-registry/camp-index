@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle 2.X module which allow teacher to upload sample files and let students
   assess them using rubric. "Assessment" module must be installed first.
+metrics:
+  updated: '2020-10-20T02:10:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

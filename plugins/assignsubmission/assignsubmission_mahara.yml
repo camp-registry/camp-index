@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Mahara assignment submission plugin for Moodle 2.3+. This is a dev repo,
   for the latest release check the link.
+metrics:
+  updated: '2015-12-17T16:45:43Z'
+  stars: 5
+  forks: 19
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

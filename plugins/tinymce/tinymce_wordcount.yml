@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle sub-plugin to override the word counting rules in the standard TinyMCE
   wordcount plugin to make them consistent with Moodle's own word count function.
+metrics:
+  updated: '2014-06-11T09:08:39Z'
+  stars: 1
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

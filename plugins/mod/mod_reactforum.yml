@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: This is a version of the Moodle Forum plugin that allows buttons to be added
   for users to click and clicks tallied. The master has now been upgraded for Moodle
   3.8
+metrics:
+  updated: '2020-04-16T21:56:44Z'
+  stars: 4
+  forks: 4
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

@@ -7,3 +7,12 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2013-08-02T23:00:33Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'
+summary: The Syllabus plug-in for Moodle is an easy-to-use feature which allows for
+  the

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Provides an "Activity" module to display the most recent post(s) to the News
   forum at the top of a course.
+metrics:
+  updated: '2014-09-29T15:54:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

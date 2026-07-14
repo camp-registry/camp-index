@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-24T18:45:17Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Built with similar concepts and architecture as the Interactive Video plugin,
+  Flexbook lets you create interactive content such as quizzes, games, and learning
+  activities. It is a flexible and powerful tool that can be used to create engaging
+  and interactive learning experiences for your students.

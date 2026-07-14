@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: 'Babelium: interactive video and audio recording assignment plugin for Moodle.
   It allows students to record their voices and/or their faces (using their microphones
   and webcams) and get evaluations from the grades assessment module by teacher.'
+metrics:
+  updated: '2018-01-19T10:03:58Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

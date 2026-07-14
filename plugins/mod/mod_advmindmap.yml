@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Mindmap plugin for Moodle 2.X with additional features, original module developed
   by ekpenso.com
+metrics:
+  updated: '2016-06-21T04:07:32Z'
+  stars: 3
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

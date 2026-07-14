@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Extends block course_overview in that way, that it shows recent changes in
   subscribed courses.
+metrics:
+  updated: '2014-11-25T16:20:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

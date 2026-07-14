@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This is a fork of Matt Petro's repository that stores the local_autoconfig
   plugin
+metrics:
+  updated: '2019-05-08T20:40:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: true
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: A local Moodle plugin to force individual email subscription to select discussions.
+metrics:
+  updated: '2019-02-05T14:58:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

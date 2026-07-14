@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle quiz access rule that allows students that missed the close date to
   still review the general feedback
+metrics:
+  updated: '2018-07-07T23:24:55Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

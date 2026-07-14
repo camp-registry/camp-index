@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: An accessory fimlter to include a cms page into other label locations
+metrics:
+  updated: '2016-09-27T23:33:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: '** Note** this is now in Moodle core as of 2.6.  Moodle Admin Tools plugin
   for basic upload of course outlines, and applying templates using Moodle course
   backup files'
+metrics:
+  updated: '2013-10-21T18:39:09Z'
+  stars: 21
+  forks: 12
+  open-issues: 11
+  archived: true
+  checked: '2026-07-11'

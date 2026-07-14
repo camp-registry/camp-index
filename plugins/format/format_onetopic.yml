@@ -8,3 +8,10 @@ discovered: '2026-07-10'
 releases: []
 summary: Course format Onetopic to LMS Moodle
 license: GPL-3.0
+metrics:
+  updated: '2026-07-09T22:07:06Z'
+  stars: 19
+  forks: 52
+  open-issues: 22
+  archived: false
+  checked: '2026-07-11'

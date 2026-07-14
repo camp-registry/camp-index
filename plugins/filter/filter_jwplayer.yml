@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle (<=3.1) filter that allows using JW Player for playing HTML5 and flash
   content.
+metrics:
+  updated: '2017-09-08T14:55:10Z'
+  stars: 5
+  forks: 6
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: This plugin allows the user to embed YuJa content in the TinyMCE editor in
   Moodle. Requries YuJa Moodle Media Chooser (https://github.com/yujacorp/yuja-moodle-media-chooser)
+metrics:
+  updated: '2023-12-15T15:44:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A submodule of the widgets that interfaces with the qmul_messaging plugin.
+metrics:
+  updated: '2018-06-04T10:14:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A block that allows opening access to students in a User Mnet Host access
   controlled Moodle NETwork
+metrics:
+  updated: '2025-11-26T11:08:34Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

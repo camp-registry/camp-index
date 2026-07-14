@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-05-18T06:53:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'
+summary: TrustGrade is an AI-powered assessment plugin for Moodle that enhances the
+  grading experience by automatically generating personalized quiz questions based
+  on student submissions. The plugin helps instructors create fair, comprehensive
+  assessments while saving time and ensuring academic integrity.

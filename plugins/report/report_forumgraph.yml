@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Forum Graph Report analyse interactions in a single Forum activity and
   create a force-directed graph.
+metrics:
+  updated: '2026-02-05T01:54:43Z'
+  stars: 5
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

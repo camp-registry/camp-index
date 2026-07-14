@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Card Box activity can help your students memorize vocabulary, technical
   terms, formulas and definitions.
+metrics:
+  updated: '2026-02-04T08:40:42Z'
+  stars: 3
+  forks: 4
+  open-issues: 14
+  archived: false
+  checked: '2026-07-11'

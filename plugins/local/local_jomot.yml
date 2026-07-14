@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-28T10:56:55Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: When a student submits an assignment, the plugin automatically builds a quiz
+  tailored to their work and puts it in the course. It uses the AIText question type
+  which gives feedback and marks on free text responses.

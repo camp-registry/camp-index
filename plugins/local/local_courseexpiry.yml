@@ -11,3 +11,10 @@ summary: Ziel ist die Entwicklung eines neuen Plugins, welches in regelmäßigen
   alle veralteten Kurse ermittelt und die Personen mit Trainerrecht auffordert festzulegen,
   ob die Kurse behalten werden sollen. Es muss erforderlich sein, dass die Trainer/innen
   aktiv bekunden, dass der Kurs behalten werd
+metrics:
+  updated: '2025-10-28T19:17:36Z'
+  stars: 3
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

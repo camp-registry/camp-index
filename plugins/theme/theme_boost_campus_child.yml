@@ -10,3 +10,10 @@ license: GPL-3.0
 summary: Moodle Boost Campus child theme which delivers the full Boost Campus features,
   but can be configured with different brand colors or adding additional SCSS to support
   corporate identity purposes of certain institutions on campus.
+metrics:
+  updated: '2024-01-06T20:42:44Z'
+  stars: 4
+  forks: 2
+  open-issues: 0
+  archived: true
+  checked: '2026-07-11'

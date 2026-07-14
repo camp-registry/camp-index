@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: OrbitQube Moodle plugin moodle-local_oqotp (seeded from oq-lms-plugins monorepo
   SSOT)
+metrics:
+  updated: '2026-06-24T13:45:11.076Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple implementation of a lesson type module with questions from the question
   bank.
+metrics:
+  updated: '2021-09-29T01:03:06Z'
+  stars: 1
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

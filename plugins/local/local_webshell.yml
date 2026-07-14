@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: The Webshell plugin for Moodle allows administrators to execute commands
   directly from the Moodle interface.
+metrics:
+  updated: '2025-04-16T17:26:12Z'
+  stars: 3
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Ordering question type for Moodle >= 2.1
+metrics:
+  updated: '2023-12-06T02:52:40Z'
+  stars: 5
+  forks: 26
+  open-issues: 12
+  archived: false
+  checked: '2026-07-11'

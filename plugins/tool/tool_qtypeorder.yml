@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Admin tool to convert "order" questions to "ordering" questions in Moodle
   >= 2.3
+metrics:
+  updated: '2019-11-10T07:16:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

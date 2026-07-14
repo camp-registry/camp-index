@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle™ text filter for rendering and embedding Video Lesson content inside
   course areas and activity descriptions.
+metrics:
+  updated: '2026-07-09T07:33:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

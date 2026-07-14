@@ -7,3 +7,14 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2026-06-29T11:45:37Z'
+  stars: 1
+  forks: 0
+  open-issues: 8
+  archived: false
+  checked: '2026-07-11'
+summary: A Moodle question type for practising double-entry bookkeeping. Students
+  record one or more journal entries (Buchungssätze) by picking debit and credit accounts
+  from a course-scoped chart of accounts and entering amounts. Grading is weighted
+  per field, with an optional all-or-nothing mode and an opt

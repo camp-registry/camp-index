@@ -7,3 +7,11 @@ status: active
 discovered: '2026-07-10'
 releases: []
 license: GPL-3.0
+metrics:
+  updated: '2024-02-13T21:00:58Z'
+  stars: 12
+  forks: 13
+  open-issues: 7
+  archived: false
+  checked: '2026-07-11'
+summary: moodle-themelearnr

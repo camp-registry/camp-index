@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 summary: Moodle course sorting block
+metrics:
+  updated: '2015-01-17T12:05:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

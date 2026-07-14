@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that provides a web service to enable the posting and retrieval
   of 'employability skill' blog entries and to report statistics.
+metrics:
+  updated: '2024-04-11T07:45:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

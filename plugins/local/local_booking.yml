@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle local plugin for instructor led session booking
+metrics:
+  updated: '2026-07-09T17:05:23Z'
+  stars: 7
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

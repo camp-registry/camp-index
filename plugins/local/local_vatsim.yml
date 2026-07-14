@@ -9,3 +9,10 @@ releases: []
 license: AGPL-3.0
 summary: This Plugin for Moodle is designed to assist in the upgrade of members to
   P0
+metrics:
+  updated: '2026-03-19T07:38:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

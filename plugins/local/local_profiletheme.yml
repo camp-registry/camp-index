@@ -9,3 +9,10 @@ releases: []
 summary: Moodle plugin which lets admins deliver a certain theme based on a user's
   custom profile field
 license: GPL-3.0
+metrics:
+  updated: '2026-07-04T20:57:40Z'
+  stars: 4
+  forks: 5
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Outcome of the spontaneous DevCamp at the MoodleMoot 2018 in Germany about
   the Moodle Analytics API
+metrics:
+  updated: '2018-03-15T14:15:48Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

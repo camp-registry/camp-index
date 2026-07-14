@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle Crossword question type plugin will help teacher or course administrator
   to create crossword puzzle question for quizzes.
+metrics:
+  updated: '2022-07-12T05:59:01Z'
+  stars: 2
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-11'

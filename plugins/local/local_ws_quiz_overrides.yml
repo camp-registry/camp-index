@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin that create un external web service to create, update
   or delete a quiz overrides base on the userid, quizid and a multiplier
+metrics:
+  updated: '2023-02-15T11:27:02Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

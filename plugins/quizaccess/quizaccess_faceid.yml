@@ -7,3 +7,13 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: Apache-2.0
+metrics:
+  updated: '2025-11-24T14:36:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'
+summary: Plugin de Moodle para control de acceso a cuestionarios mediante verificación
+  biométrica facial en tiempo real. Utiliza reconocimiento facial y detección anti-spoofing
+  para autenticar la identidad de estudiantes antes de iniciar exámenes.

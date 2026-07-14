@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Activité qui affiche des définitions de glossaire choisis dans un ou plusieurs
   glossaire parent donnés
+metrics:
+  updated: '2023-02-13T10:08:06Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-11'

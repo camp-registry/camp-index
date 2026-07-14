@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: Adaptive behaviour for multi-part questions. Initially intended for use with
   qtype_stack
+metrics:
+  updated: '2022-09-22T09:15:44Z'
+  stars: 6
+  forks: 12
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'

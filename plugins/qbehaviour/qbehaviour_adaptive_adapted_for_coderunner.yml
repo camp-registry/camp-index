@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: The question behaviour required by the Moodle CodeRunner question type.
+metrics:
+  updated: '2026-05-30T23:59:37Z'
+  stars: 7
+  forks: 13
+  open-issues: 1
+  archived: false
+  checked: '2026-07-11'

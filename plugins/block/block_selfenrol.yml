@@ -9,3 +9,10 @@ releases: []
 license: GPL-3.0
 summary: A simple block that show the user's enrollment status, and suggests him to
   (un)enroll
+metrics:
+  updated: '2017-04-11T13:33:29Z'
+  stars: 1
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 🐛 Moodle Question Tracker Block plugin for CAPQuiz
+metrics:
+  updated: '2021-07-22T12:40:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-11'

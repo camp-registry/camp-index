@@ -8,3 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Dashboard Moodle
+metrics:
+  updated: '2026-07-05T12:11:54Z'
+  stars: 29
+  forks: 27
+  open-issues: 2
+  archived: false
+  checked: '2026-07-11'
