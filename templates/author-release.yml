@@ -22,7 +22,7 @@ on:
     tags: ["v*"]
 
 env:
-  CAMP_INDEX_REPO: CAMP-ORG/index        # ← placeholder: the camp index repository
+  CAMP_INDEX_REPO: camp-registry/camp-index  # the camp index repository
   COMPONENT: mod_example                 # ← your frankenstyle component name
   SUPPORTED_MOODLE: "4.5,5.0,5.1,5.2"    # ← branches this release supports
 
