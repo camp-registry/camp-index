@@ -1,8 +1,13 @@
 component: logstore_xapi
 source: https://github.com/xAPI-vle/moodle-logstore_xapi
 maintainers:
+- name: David Pesce
+  github: davidpesce
 - github: xAPI-vle
-tier: 0
+tier: 1
+security-contact: https://github.com/xAPI-vle/moodle-logstore_xapi/security/advisories/new
+labels:
+- fully-free
 status: active
 releases: []
 license: GPL-3.0
