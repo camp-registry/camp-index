@@ -2,12 +2,23 @@ component: mod_cmi5launch
 source: https://github.com/davidpesce/moodle-mod_cmi5launch
 maintainers:
 - github: davidpesce
-tier: 1
+tier: 2
 security-contact: https://github.com/davidpesce/moodle-mod_cmi5launch/security/advisories/new
 labels:
 - fully-free
 - commercial-support-available
 status: active
-releases: []
+releases:
+- version: 1.1.0
+  tag: v1.1.0
+  commit: d6ec871d1310dc618f2fec4b8f379ecc76f8fb7f
+  moodle-version: 2025070116
+  supported-moodle:
+  - '4.3'
+  zip-sha256: c037b762a67f551d5193a6c172ec069eeee6baabd8cb31f974e1c7fab507a804
+  published: '2026-07-15T16:26:10Z'
+  released: '2025-07-01T20:21:52Z'
+  php-min: 8.0.0
 license: Apache-2.0
-summary: Launch and track cmi5 content packages in Moodle courses via a cmi5-conformant LRS.
+summary: Launch and track cmi5 content packages in Moodle courses via a cmi5-conformant
+  LRS.
