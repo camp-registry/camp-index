@@ -56,8 +56,8 @@ jobs:
           "
           # Land human visitors on the browse site; keep machine paths at root.
           cat > dist/index.html <<'EOF'
-          <!DOCTYPE html><meta http-equiv="refresh" content="0; url=/site/">
-          <link rel="canonical" href="/site/"><title>camp</title>
+          <!DOCTYPE html><meta http-equiv="refresh" content="0; url=site/">
+          <title>camp</title>
           EOF
           touch dist/.nojekyll
 
