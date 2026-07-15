@@ -44,12 +44,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.1.5"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.1.6"
 
       - name: Generate the distribution tree
         run: |
           camp site . "$BASE_URL" dist/site
           camp composer . "$BASE_URL" dist/packages.json
+          camp artifacts . dist/artifacts
           python -c "
           import camp, pathlib, shutil
           shutil.copytree(pathlib.Path(camp.__file__).parent / 'schema', 'dist/schema')
