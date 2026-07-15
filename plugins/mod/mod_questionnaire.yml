@@ -2,7 +2,12 @@ component: mod_questionnaire
 source: https://github.com/PoetOS/moodle-mod_questionnaire
 maintainers:
 - github: PoetOS
-tier: 0
+- github: mchurchward
+tier: 1
+security-contact: https://github.com/PoetOS/moodle-mod_questionnaire/security/advisories
+labels:
+- fully-free
+- donation-supported
 status: active
 discovered: '2026-07-10'
 releases: []
