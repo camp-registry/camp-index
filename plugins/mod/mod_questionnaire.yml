@@ -10,7 +10,7 @@ labels:
 - donation-supported
 status: active
 discovered: '2026-07-10'
-releases: [v5.0.3,v4.4.0]
+releases: []
 summary: Questionnaire module for Moodle - Contributed module
 license: GPL-3.0
 metrics:
