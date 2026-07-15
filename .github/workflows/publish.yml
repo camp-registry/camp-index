@@ -48,16 +48,19 @@ jobs:
 
       - name: Generate the distribution tree
         run: |
-          camp site . "$BASE_URL" dist/site
+          # The browse site lives at the tree root: / is the browse page,
+          # /plugin/... the detail pages, machine paths alongside.
+          camp site . "$BASE_URL" dist
           camp composer . "$BASE_URL" dist/packages.json
           camp artifacts . dist/artifacts
           python -c "
           import camp, pathlib, shutil
           shutil.copytree(pathlib.Path(camp.__file__).parent / 'schema', 'dist/schema')
           "
-          # Land human visitors on the browse site; keep machine paths at root.
-          cat > dist/index.html <<'EOF'
-          <!DOCTYPE html><meta http-equiv="refresh" content="0; url=site/">
+          # Transitional: /site/ served the browse page for the first day.
+          mkdir -p dist/site
+          cat > dist/site/index.html <<'EOF'
+          <!DOCTYPE html><meta http-equiv="refresh" content="0; url=../">
           <title>camp</title>
           EOF
           touch dist/.nojekyll
