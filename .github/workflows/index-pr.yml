@@ -121,15 +121,27 @@ jobs:
         run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.1.7"
 
       - name: Check out plugin source at the newest recorded release
+        env:
+          MOODLE_BRANCH_CODE: ${{ matrix.moodle-branch }}
         run: |
           python - "${{ matrix.entry }}" <<'EOF'
-          import subprocess, sys, yaml
+          import os, re, subprocess, sys, yaml
           entry = yaml.safe_load(open(sys.argv[1]))
           if not entry["releases"]:
-              print("tier 0 / no releases; nothing to check")
+              print("tier 0/1 / no releases; nothing to check")
               open("skip-plugin-checks", "w").close()
               sys.exit(0)
           release = entry["releases"][-1]
+          # Only test branches the release declares support for: a plugin
+          # requiring Moodle 5.0+ cannot install into 4.5, and that is a
+          # fact about its supported range, not a defect.
+          m = re.fullmatch(r"MOODLE_(\d+)(\d{2})_STABLE", os.environ["MOODLE_BRANCH_CODE"])
+          branch = f"{int(m.group(1))}.{int(m.group(2))}"
+          supported = release.get("supported-moodle", [])
+          if supported and branch not in supported:
+              print(f"release supports {supported}; {branch} not in range — skipping this leg")
+              open("skip-plugin-checks", "w").close()
+              sys.exit(0)
           subprocess.run(["git", "clone", entry["source"], "plugin"], check=True)
           subprocess.run(["git", "-C", "plugin", "checkout", release["commit"]], check=True)
           EOF
