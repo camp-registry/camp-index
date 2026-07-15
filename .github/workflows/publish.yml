@@ -1,0 +1,76 @@
+# Publish the rendered repository (RFC §4.5) on every index change.
+#
+# Generates the distribution tree from the index — the browse website,
+# Composer metadata, the advisory feed, and the JSON Schemas at /schema/
+# (so the schemas' $id URLs resolve) — and deploys it to GitHub Pages.
+#
+# Pages is the interim origin while the artifact tree is empty. When
+# verified releases start landing, the origin moves to a host that can
+# serve large artifact trees and offer rsync for mirrors (MIRRORING.md);
+# this workflow's generate step stays the same and only the deploy step
+# changes.
+
+name: Publish site + repository metadata
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "plugins/**"
+      - "advisories/**"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+env:
+  BASE_URL: https://camp-registry.org
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.1.0"
+
+      - name: Generate the distribution tree
+        run: |
+          camp site . "$BASE_URL" dist/site
+          camp composer . "$BASE_URL" dist/packages.json
+          python -c "
+          import camp, pathlib, shutil
+          shutil.copytree(pathlib.Path(camp.__file__).parent / 'schema', 'dist/schema')
+          "
+          # Land human visitors on the browse site; keep machine paths at root.
+          cat > dist/index.html <<'EOF'
+          <!DOCTYPE html><meta http-equiv="refresh" content="0; url=/site/">
+          <link rel="canonical" href="/site/"><title>camp</title>
+          EOF
+          touch dist/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
