@@ -177,3 +177,15 @@ jobs:
       - name: Check upgrade savepoints
         if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
         run: moodle-plugin-ci savepoints
+
+  result:
+    # Stable-name aggregate for branch protection: matrix job names vary
+    # per changed entry, so protection requires this one check instead.
+    name: Index PR verification result
+    needs: [changed, registry, plugin-checks]
+    if: always()
+    runs-on: ubuntu-24.04
+    steps:
+      - name: All required jobs succeeded or were skipped
+        run: |
+          [ "${{ contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled') }}" = "false" ]
