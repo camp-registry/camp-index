@@ -3,14 +3,25 @@ source: https://github.com/PoetOS/moodle-mod_questionnaire
 maintainers:
 - github: PoetOS
 - github: mchurchward
-tier: 1
+tier: 2
 security-contact: https://github.com/PoetOS/moodle-mod_questionnaire/security/advisories
 labels:
 - fully-free
 - donation-supported
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: 5.0.3
+  tag: v5.0.3
+  commit: 3c4b719b1a6d1ace17cc66d3bfff1e194a8b0250
+  moodle-version: 2025041402
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 728eda6a1c5dbb2f208e591cd20a8c91ded99ee68bbb871304bfde076d867f64
+  published: '2026-07-15T17:21:12Z'
+  released: '2026-05-22T15:51:03Z'
 summary: Questionnaire module for Moodle - Contributed module
 license: GPL-3.0
 metrics:
