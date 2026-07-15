@@ -12,3 +12,5 @@ labels:
 status: active
 releases: []
 license: GPL-3.0
+summary: A Moodle plugin to send xAPI statements to an LRS using events in the Moodle
+  logstore.

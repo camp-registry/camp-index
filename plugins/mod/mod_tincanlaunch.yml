@@ -2,7 +2,13 @@ component: mod_tincanlaunch
 source: https://github.com/davidpesce/moodle-mod_tincanlaunch
 maintainers:
 - github: davidpesce
-tier: 0
+tier: 1
+security-contact: https://github.com/davidpesce/moodle-mod_tincanlaunch/security/advisories/new
+labels:
+- fully-free
+- commercial-support-available
 status: active
 releases: []
 license: GPL-3.0
+summary: A Moodle plugin that allows the launching of xAPI content using the Rustici
+  Launch Method.

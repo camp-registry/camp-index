@@ -74,6 +74,7 @@ jobs:
 
       - name: Install ClamAV
         run: |
+          sudo apt-get update
           sudo apt-get install -y --no-install-recommends clamav
           sudo systemctl stop clamav-freshclam || true
           sudo freshclam || true
