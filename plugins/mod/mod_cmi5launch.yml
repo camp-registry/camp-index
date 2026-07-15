@@ -10,4 +10,12 @@ labels:
 status: active
 releases: []
 license: Apache-2.0
-summary: Launch and track cmi5 content packages in Moodle courses via a cmi5-conformant LRS.
+summary: Launch and track cmi5 content packages in Moodle courses via a cmi5-conformant
+  LRS.
+metrics:
+  updated: '2026-05-15T14:31:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 9
+  archived: false
+  checked: '2026-07-15'

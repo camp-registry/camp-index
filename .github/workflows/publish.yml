@@ -47,13 +47,47 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.1.7"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.0"
+
+      - name: Setup PHP (code checks)
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.3"
+          coverage: none
+          tools: composer
+
+      - name: Install Moodle Code Checker
+        run: |
+          composer global config --no-interaction allow-plugins.dealerdirect/phpcodesniffer-composer-installer true
+          composer global require --quiet moodlehq/moodle-cs
+          echo "$(composer global config bin-dir --absolute --quiet)" >> "$GITHUB_PATH"
 
       - name: Generate the distribution tree
         run: |
+          # Per-version code-check summaries (published at /checks/ for
+          # transparency; also feeds the site's chips and badges).
+          camp checks . dist/checks
+
+          # Ingest listing manifests + screenshots from each released
+          # plugin's repo at the ledger commit (pinned, sanitized).
+          mkdir -p "$RUNNER_TEMP/listings"
+          python - "$RUNNER_TEMP/listings" <<'EOF'
+          import pathlib, subprocess, sys, tempfile, yaml
+          out = sys.argv[1]
+          for p in sorted(pathlib.Path("plugins").glob("*/*.yml")):
+              e = yaml.safe_load(p.read_text())
+              if not e["releases"] or e.get("status") == "delisted":
+                  continue
+              with tempfile.TemporaryDirectory() as td:
+                  subprocess.run(["git", "clone", "-q", e["source"], td + "/src"],
+                                 check=True)
+                  subprocess.run(["camp", "ingest", str(p), "--source", td + "/src",
+                                  "--out", out])
+          EOF
+
           # The browse site lives at the tree root: / is the browse page,
           # /plugin/... the detail pages, machine paths alongside.
-          camp site . "$BASE_URL" dist
+          camp site . "$BASE_URL" dist --listings "$RUNNER_TEMP/listings" --checks dist/checks
           camp composer . "$BASE_URL" dist/packages.json
           camp artifacts . dist/artifacts
           python -c "
