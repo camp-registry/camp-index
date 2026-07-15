@@ -2,7 +2,13 @@ component: block_kamaleon
 source: https://github.com/bambuco/moodle-block_kamaleon
 maintainers:
 - github: bambuco
-tier: 0
+- github: davidherney
+tier: 1
+security-contact: https://github.com/bambuco/moodle-block_kamaleon/security/advisories/new
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
 status: active
 discovered: '2026-07-11'
 releases: []
