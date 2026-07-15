@@ -171,8 +171,13 @@ jobs:
         if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
         run: moodle-plugin-ci phplint
 
-      - name: Moodle Code Checker
+      - name: Moodle Code Checker (warn-only, D23)
+        # Style findings are quality signals, not trust signals: the floor
+        # hard-blocks what affects trust (parse errors, structure, ledger
+        # verification, malware); code style is surfaced here and judged by
+        # humans at Tier 3 review.
         if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
+        continue-on-error: true
         run: moodle-plugin-ci phpcs --max-warnings 0
 
       - name: Validate plugin structure
