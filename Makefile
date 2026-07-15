@@ -20,7 +20,7 @@ LISTINGS    ?=
 .PHONY: up down dist logs restart
 
 dist: ## Regenerate the served site + Composer metadata from the index
-	$(CAMP) site . $(SITE_URL) dist/site $(if $(LISTINGS),--listings $(LISTINGS),)
+	$(CAMP) site . $(SITE_URL) dist $(if $(LISTINGS),--listings $(LISTINGS),)
 	$(CAMP) composer . $(CLIENT_URL) dist/packages.json
 
 up: ## Start (or recreate) the persistent preview container
