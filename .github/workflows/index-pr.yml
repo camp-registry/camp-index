@@ -93,10 +93,14 @@ jobs:
         entry: ${{ fromJSON(needs.changed.outputs.entries) }}
         # The registry targets Moodle 4.5 LTS through 5.2+ (docs/DESIGN.md D7).
         # The static trust-floor checks are Moodle-version-light, so the matrix
-        # covers the endpoints of that range: oldest supported LTS + newest
-        # stable. PHP 8.2 is valid across the whole range.
+        # covers the endpoints of that range. PHP is paired per branch:
+        # Moodle 5.2 requires PHP >= 8.3.
         moodle-branch: [MOODLE_405_STABLE, MOODLE_502_STABLE]
-        php: ["8.2"]
+        include:
+          - moodle-branch: MOODLE_405_STABLE
+            php: "8.2"
+          - moodle-branch: MOODLE_502_STABLE
+            php: "8.3"
     services:
       postgres:
         image: postgres:15
