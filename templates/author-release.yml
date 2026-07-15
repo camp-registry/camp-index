@@ -70,6 +70,10 @@ jobs:
         with:
           token: ${{ secrets.CAMP_INDEX_TOKEN }}
           path: index-repo
+          # Most authors don't have write access to the index. Fork
+          # camp-registry/camp-index once (keep the fork's default branch in
+          # sync is NOT required), then uncomment with your fork:
+          # push-to-fork: YOUR-GITHUB-USERNAME/camp-index
           branch: release/${{ env.COMPONENT }}-${{ github.ref_name }}
           commit-message: "${{ env.COMPONENT }}: release ${{ github.ref_name }}"
           title: "${{ env.COMPONENT }}: release ${{ github.ref_name }}"
