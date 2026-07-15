@@ -1,0 +1,33 @@
+name: Removal request
+description: "Ask for a discovered listing to be removed — no questions asked (RFC §4.4)."
+title: "Removal request: <component>"
+labels: ["removal-request"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Discovered (Tier 0) listings are search results built from public
+        sources. If you maintain the plugin and want its listing removed,
+        say so below — the listing will be removed, no questions asked.
+        A reason is welcome but never required.
+  - type: input
+    id: component
+    attributes:
+      label: Component
+      description: "The plugin's frankenstyle name, e.g. mod_example"
+      placeholder: mod_example
+    validations:
+      required: true
+  - type: checkboxes
+    id: maintainer
+    attributes:
+      label: Confirmation
+      options:
+        - label: "I maintain this plugin (the registry will check the request comes from someone who controls the source repository)"
+          required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Anything you want us to know (optional)
+    validations:
+      required: false
