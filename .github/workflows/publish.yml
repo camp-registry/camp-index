@@ -58,10 +58,14 @@ jobs:
           shutil.copytree(pathlib.Path(camp.__file__).parent / 'schema', 'dist/schema')
           "
           # Transitional: /site/ served the browse page for the first day.
+          # A plain link, not an auto-redirect: day-one visitors may still
+          # have the old root page (which pointed here) in browser cache,
+          # and two instant redirects aimed at each other loop.
           mkdir -p dist/site
           cat > dist/site/index.html <<'EOF'
-          <!DOCTYPE html><meta http-equiv="refresh" content="0; url=../">
-          <title>camp</title>
+          <!DOCTYPE html><title>camp</title>
+          <p>The site moved to the domain root:
+          <a href="https://camp-registry.org/">camp-registry.org</a></p>
           EOF
           touch dist/.nojekyll
 
