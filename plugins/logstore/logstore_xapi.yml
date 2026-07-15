@@ -8,6 +8,7 @@ tier: 1
 security-contact: https://github.com/xAPI-vle/moodle-logstore_xapi/security/advisories/new
 labels:
 - fully-free
+- commercial-support-available
 status: active
 releases: []
 license: GPL-3.0
