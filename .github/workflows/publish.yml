@@ -20,6 +20,9 @@ on:
       - "advisories/**"
       - ".github/workflows/publish.yml"
   workflow_dispatch:
+  schedule:
+    - cron: "23 5 * * *"   # daily: keeps generated-at-publish data fresh
+                            # (relative dates, health dots, fetched badges)
 
 permissions:
   contents: read
