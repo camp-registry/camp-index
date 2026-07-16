@@ -24,6 +24,32 @@ releases:
   zip-sha256: f3a90401bcd9ccc48f10f5729840591bf08f03a599d5625893ad535aef8ffe8e
   published: '2026-07-15T16:26:09Z'
   released: '2026-02-23T21:30:07Z'
+- version: 5.0.0
+  tag: v5.0.0
+  commit: 1fc1646d66e9747f49d39ece898e1d1b039130c8
+  moodle-version: 2026021701
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: 2b119421a4d612f73d7adc3945cd1006f006ff97f4467b26c3edd0caff12064c
+  published: '2026-07-16T23:36:46Z'
+  released: '2026-02-17T23:01:26Z'
+- version: 4.9.0
+  tag: v4.9.0
+  commit: 3b5f4e30436b36990f02f529b0e5a3bee6bbcd8c
+  moodle-version: 2026021700
+  supported-moodle:
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  zip-sha256: d443f695b07f885874e75ba79f8aa58484593ea6e2dc42425d8d1654b40d8f13
+  published: '2026-07-16T23:36:46Z'
+  released: '2026-02-17T21:19:14Z'
 license: GPL-3.0
 summary: A Moodle plugin to send xAPI statements to an LRS using events in the Moodle
   logstore.
