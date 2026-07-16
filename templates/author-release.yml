@@ -20,6 +20,8 @@ name: Publish release to camp
 on:
   push:
     tags: ["v*"]
+  workflow_dispatch: {}   # backfill an old release: run at the existing tag
+                          #   gh workflow run camp-release.yml --ref v1.1.0
 
 env:
   CAMP_INDEX_REPO: camp-registry/camp-index  # the camp index repository
