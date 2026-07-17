@@ -25,19 +25,57 @@ jobs:
     runs-on: ubuntu-24.04
     outputs:
       entries: ${{ steps.diff.outputs.entries }}
+      checks: ${{ steps.diff.outputs.checks }}
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - id: diff
-        name: List changed index entries as a JSON matrix
+        name: List changed entries and added releases as JSON matrices
+        env:
+          BASE_REF: ${{ github.base_ref }}
         run: |
           entries=$(git diff --name-only --diff-filter=ACM \
               origin/${{ github.base_ref }}...HEAD -- 'plugins/**/*.yml' \
             | jq -R -s -c 'split("\n") | map(select(length > 0))')
           echo "entries=$entries" >> "$GITHUB_OUTPUT"
           echo "Changed entries: $entries"
+
+          # Every release a PR adds gets its own moodle-plugin-ci legs on
+          # the registry-target endpoint branches it declares support for
+          # (D7) — not just the ledger-last release, which for a backfill
+          # PR is an arbitrary one of several. A release supporting
+          # neither endpoint gets no leg (registry checks still verify
+          # it); that is a fact about its supported range, not a defect.
+          python3 - "$entries" <<'EOF'
+          import json, os, subprocess, sys, yaml
+          ENDPOINTS = [("MOODLE_405_STABLE", "4.5", "8.2"),
+                       ("MOODLE_502_STABLE", "5.2", "8.3")]
+          base = "origin/" + os.environ["BASE_REF"]
+          checks = []
+          for path in json.loads(sys.argv[1]):
+              head = yaml.safe_load(open(path))
+              shown = subprocess.run(["git", "show", f"{base}:{path}"],
+                                     capture_output=True, text=True)
+              prior = yaml.safe_load(shown.stdout) if shown.returncode == 0 else None
+              known = {str(r["version"]) for r in (prior or {}).get("releases") or []}
+              for r in head.get("releases") or []:
+                  if str(r["version"]) in known:
+                      continue
+                  legs = [(code, php) for code, branch, php in ENDPOINTS
+                          if branch in (r.get("supported-moodle") or [])]
+                  if not legs:
+                      print(f"{path} {r['version']}: supported range covers no "
+                            "registry-endpoint branch; no moodle-plugin-ci leg")
+                  checks.extend({"entry": path, "source": head["source"],
+                                 "version": str(r["version"]), "commit": r["commit"],
+                                 "moodle-branch": code, "php": php}
+                                for code, php in legs)
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              out.write("checks=" + json.dumps(checks) + "\n")
+          print("Release check legs:", json.dumps(checks, indent=2))
+          EOF
 
   registry:
     name: Registry checks
@@ -58,7 +96,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.8"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.9"
 
       - name: Validate entry
         run: camp validate "${{ matrix.entry }}"
@@ -83,24 +121,17 @@ jobs:
         run: camp scan-malware --entry "${{ matrix.entry }}" --require-engine
 
   plugin-checks:
-    name: moodle-plugin-ci
+    # One leg per (release added by this PR) x (registry-target endpoint
+    # branch the release supports) — see the changed job. PHP is paired
+    # per branch there: Moodle 5.2 requires PHP >= 8.3.
+    name: moodle-plugin-ci (${{ matrix.entry }}, ${{ matrix.version }}, ${{ matrix.moodle-branch }})
     needs: [changed, registry]
-    if: needs.changed.outputs.entries != '[]'
+    if: needs.changed.outputs.checks != '[]'
     runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
-        entry: ${{ fromJSON(needs.changed.outputs.entries) }}
-        # The registry targets Moodle 4.5 LTS through 5.2+ (docs/DESIGN.md D7).
-        # The static trust-floor checks are Moodle-version-light, so the matrix
-        # covers the endpoints of that range. PHP is paired per branch:
-        # Moodle 5.2 requires PHP >= 8.3.
-        moodle-branch: [MOODLE_405_STABLE, MOODLE_502_STABLE]
-        include:
-          - moodle-branch: MOODLE_405_STABLE
-            php: "8.2"
-          - moodle-branch: MOODLE_502_STABLE
-            php: "8.3"
+        include: ${{ fromJSON(needs.changed.outputs.checks) }}
     services:
       postgres:
         image: postgres:16
@@ -118,36 +149,14 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.8"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.9"
 
-      - name: Check out plugin source at the newest recorded release
-        env:
-          MOODLE_BRANCH_CODE: ${{ matrix.moodle-branch }}
+      - name: Check out plugin source at the release under test
         run: |
-          python - "${{ matrix.entry }}" <<'EOF'
-          import os, re, subprocess, sys, yaml
-          entry = yaml.safe_load(open(sys.argv[1]))
-          if not entry["releases"]:
-              print("tier 0/1 / no releases; nothing to check")
-              open("skip-plugin-checks", "w").close()
-              sys.exit(0)
-          release = entry["releases"][-1]
-          # Only test branches the release declares support for: a plugin
-          # requiring Moodle 5.0+ cannot install into 4.5, and that is a
-          # fact about its supported range, not a defect.
-          m = re.fullmatch(r"MOODLE_(\d+)(\d{2})_STABLE", os.environ["MOODLE_BRANCH_CODE"])
-          branch = f"{int(m.group(1))}.{int(m.group(2))}"
-          supported = release.get("supported-moodle", [])
-          if supported and branch not in supported:
-              print(f"release supports {supported}; {branch} not in range — skipping this leg")
-              open("skip-plugin-checks", "w").close()
-              sys.exit(0)
-          subprocess.run(["git", "clone", entry["source"], "plugin"], check=True)
-          subprocess.run(["git", "-C", "plugin", "checkout", release["commit"]], check=True)
-          EOF
+          git clone "${{ matrix.source }}" plugin
+          git -C plugin checkout --detach "${{ matrix.commit }}"
 
       - name: Setup PHP
-        if: ${{ hashFiles('skip-plugin-checks') == '' }}
         uses: shivammathur/setup-php@v2
         with:
           php-version: ${{ matrix.php }}
@@ -155,7 +164,6 @@ jobs:
           coverage: none
 
       - name: Initialise moodle-plugin-ci
-        if: ${{ hashFiles('skip-plugin-checks') == '' }}
         run: |
           composer create-project -n --no-dev --prefer-dist moodlehq/moodle-plugin-ci ci ^4
           echo $(cd ci/bin; pwd) >> $GITHUB_PATH
@@ -163,24 +171,23 @@ jobs:
           sudo locale-gen en_AU.UTF-8
 
       - name: Install plugin into a fresh Moodle
-        if: ${{ hashFiles('skip-plugin-checks') == '' }}
         run: moodle-plugin-ci install --plugin ./plugin --db-host=127.0.0.1
         env:
           DB: pgsql
           MOODLE_BRANCH: ${{ matrix.moodle-branch }}
 
       - name: Disclosure-label heuristics (warn-only, RFC §4.7)
-        if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
+        if: ${{ !cancelled() }}
         run: |
           declared=$(python -c "import sys,yaml; print(','.join(yaml.safe_load(open(sys.argv[1])).get('labels',[])))" "${{ matrix.entry }}")
           camp lint-labels plugin ${declared:+--declared "$declared"}
 
       - name: Basic security lint (warn-only, RFC §4.2)
-        if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
+        if: ${{ !cancelled() }}
         run: camp audit plugin
 
       - name: PHP Lint
-        if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
+        if: ${{ !cancelled() }}
         run: moodle-plugin-ci phplint
 
       - name: Moodle Code Checker (warn-only, D23)
@@ -188,16 +195,16 @@ jobs:
         # hard-blocks what affects trust (parse errors, structure, ledger
         # verification, malware); code style is surfaced here and judged by
         # humans at Tier 3 review.
-        if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
+        if: ${{ !cancelled() }}
         continue-on-error: true
         run: moodle-plugin-ci phpcs --max-warnings 0
 
       - name: Validate plugin structure
-        if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
+        if: ${{ !cancelled() }}
         run: moodle-plugin-ci validate
 
       - name: Check upgrade savepoints
-        if: ${{ hashFiles('skip-plugin-checks') == '' && !cancelled() }}
+        if: ${{ !cancelled() }}
         run: moodle-plugin-ci savepoints
 
   result:
