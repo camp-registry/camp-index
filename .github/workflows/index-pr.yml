@@ -96,7 +96,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@46b4fe5ff67d57777727155b948ac13900421f70"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.9"
 
       - name: Validate entry
         run: camp validate "${{ matrix.entry }}"
@@ -149,7 +149,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@46b4fe5ff67d57777727155b948ac13900421f70"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.9"
 
       - name: Check out plugin source at the release under test
         run: |
