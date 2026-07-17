@@ -1,3 +1,4 @@
+# Backfill PR: adds 5.0.0 and 4.9.0 below the existing 5.0.1 record.
 component: logstore_xapi
 source: https://github.com/xAPI-vle/moodle-logstore_xapi
 maintainers:
