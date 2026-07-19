@@ -1,0 +1,37 @@
+# Manual archive operations (D22): bootstrap the append-only artifact
+# archive, or re-run a deposit/audit outside the publish cycle. The
+# publish pipeline runs deposit+audit on every trigger once the serving
+# cutover lands; this workflow exists for the bootstrap and for humans.
+
+name: Artifact archive (deposit + audit)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deposit:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools (archive extra)
+        run: pip install --quiet "camp-tools[archive] @ git+https://github.com/camp-registry/camp-tools@v0.2.15"
+
+      - name: Deposit every ledger release
+        env:
+          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
+          B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
+        run: camp deposit . --bucket "${{ vars.B2_BUCKET }}" --endpoint "${{ vars.B2_ENDPOINT }}"
+
+      - name: Audit the archive against the ledger
+        env:
+          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
+          B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
+        run: camp archive-audit . --bucket "${{ vars.B2_BUCKET }}" --endpoint "${{ vars.B2_ENDPOINT }}"
