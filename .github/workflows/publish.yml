@@ -47,7 +47,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools[screenshots] @ git+https://github.com/camp-registry/camp-tools@v0.2.12"
+        run: pip install --quiet "camp-tools[screenshots] @ git+https://github.com/camp-registry/camp-tools@v0.2.13"
 
       - name: Setup PHP (code checks)
         uses: shivammathur/setup-php@v2
@@ -87,7 +87,8 @@ jobs:
 
           # The browse site lives at the tree root: / is the browse page,
           # /plugin/... the detail pages, machine paths alongside.
-          camp site . "$BASE_URL" dist --listings "$RUNNER_TEMP/listings" --checks dist/checks
+          camp site . "$BASE_URL" dist --listings "$RUNNER_TEMP/listings" --checks dist/checks \
+            --reviews https://mdlshield.com/api/reviews/published
           camp composer . "$BASE_URL" dist/packages.json
           camp artifacts . dist/artifacts
           python -c "
