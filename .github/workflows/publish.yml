@@ -47,7 +47,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools[screenshots] @ git+https://github.com/camp-registry/camp-tools@v0.2.13"
+        run: pip install --quiet "camp-tools[screenshots] @ git+https://github.com/camp-registry/camp-tools@v0.2.14"
 
       - name: Setup PHP (code checks)
         uses: shivammathur/setup-php@v2
@@ -65,30 +65,26 @@ jobs:
       - name: Generate the distribution tree
         run: |
           # Per-version code-check summaries (published at /checks/ for
-          # transparency; also feeds the site's chips and badges).
-          camp checks . dist/checks
+          # transparency; also feeds the site's chips and badges). Results
+          # are commit-deterministic: the previous publish is the cache,
+          # so only new releases are actually analyzed.
+          camp checks . dist/checks --reuse "$BASE_URL/checks"
 
           # Ingest listing manifests + screenshots from each released
           # plugin's repo at the ledger commit (pinned, sanitized).
-          mkdir -p "$RUNNER_TEMP/listings"
-          python - "$RUNNER_TEMP/listings" <<'EOF'
-          import pathlib, subprocess, sys, tempfile, yaml
-          out = sys.argv[1]
-          for p in sorted(pathlib.Path("plugins").glob("*/*.yml")):
-              e = yaml.safe_load(p.read_text())
-              if not e["releases"] or e.get("status") == "delisted":
-                  continue
-              with tempfile.TemporaryDirectory() as td:
-                  subprocess.run(["git", "clone", "-q", e["source"], td + "/src"],
-                                 check=True)
-                  subprocess.run(["camp", "ingest", str(p), "--source", td + "/src",
-                                  "--out", out])
-          EOF
+          # Entries unchanged since the last publish are refetched from
+          # the live site (pin re-checked) instead of cloned.
+          camp ingest-all . --out "$RUNNER_TEMP/listings" --reuse "$BASE_URL"
 
           # The browse site lives at the tree root: / is the browse page,
           # /plugin/... the detail pages, machine paths alongside.
           camp site . "$BASE_URL" dist --listings "$RUNNER_TEMP/listings" --checks dist/checks \
             --reviews https://mdlshield.com/api/reviews/published
+          # Publish the ingested listings + manifest so the next publish
+          # can reuse them (screenshots already ship at /shots/).
+          mkdir -p dist/listings
+          find "$RUNNER_TEMP/listings" -maxdepth 1 -type f -exec cp {} dist/listings/ \;
+
           camp composer . "$BASE_URL" dist/packages.json
           camp artifacts . dist/artifacts
           python -c "

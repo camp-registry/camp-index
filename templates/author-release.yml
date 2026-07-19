@@ -50,7 +50,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.13"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.14"
 
       - name: Require a listing manifest
         run: camp scaffold plugin --check
