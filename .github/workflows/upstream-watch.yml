@@ -1,0 +1,60 @@
+# Weekly: compare our Moodle-branch table against moodle/moodle's actual
+# stable branches. A new branch (e.g. 5.3) files ONE issue carrying the
+# ready-made BRANCHES row — the human step is adding it and shipping.
+
+name: Upstream Moodle watch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "11 4 * * 1"   # Mondays
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.18"
+
+      - name: Check branch table against upstream
+        id: check
+        run: |
+          set +e
+          out=$(camp check-moodle-branches 2>&1)
+          code=$?
+          echo "$out"
+          {
+            echo "findings<<CAMPEOF"
+            echo "$out"
+            echo "CAMPEOF"
+          } >> "$GITHUB_OUTPUT"
+          exit $code
+
+      - name: File the issue (once)
+        if: failure() && steps.check.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search "New Moodle branch detected in:title" --json number --jq 'length')
+          if [ "$existing" -gt 0 ]; then
+            echo "issue already open; not duplicating"
+            exit 0
+          fi
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "New Moodle branch detected upstream" \
+            --body "The weekly upstream watch found stable branches missing from \`camp/moodleversions.py\`:
+
+          \`\`\`
+          ${{ steps.check.outputs.findings }}
+          \`\`\`
+
+          Add the suggested row(s) to \`BRANCHES\`, review the index-pr matrix endpoints and anything else branch-aware, and ship. (VORDER derives automatically.)"

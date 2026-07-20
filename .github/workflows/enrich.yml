@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.17"
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.18"
 
       - name: Refresh the stalest entries
         env:
