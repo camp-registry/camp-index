@@ -1,0 +1,55 @@
+# Daily metrics refresh (rolling): re-fetches upstream metrics for the
+# ~400 stalest entries, detects repository renames (tier 0 sources are
+# auto-canonicalized; claimed entries are flagged in metrics.renamed-to,
+# never rewritten), and pushes the result directly to main as the
+# camp-registry-automation app — the one non-human on main's push
+# allowlist. Full catalog turnover: about two weeks.
+
+name: Metrics refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "47 3 * * *"   # before the daily publish, so it ships fresh data
+
+permissions:
+  contents: read           # pushes use the app token, not GITHUB_TOKEN
+
+jobs:
+  enrich:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Mint app token
+        id: app
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.AUTOMATION_APP_ID }}
+          private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app.outputs.token }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.17"
+
+      - name: Refresh the stalest entries
+        env:
+          GITHUB_TOKEN: ${{ steps.app.outputs.token }}
+        run: camp enrich . --stale-days 14 --limit 400
+
+      - name: Push refreshed metrics
+        run: |
+          if git diff --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "camp project"
+          git config user.email "noreply@camp-registry.org"
+          git add plugins
+          git commit -m "metrics refresh (scheduled)"
+          git push origin main

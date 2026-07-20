@@ -22,7 +22,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools (archive extra)
-        run: pip install --quiet "camp-tools[archive] @ git+https://github.com/camp-registry/camp-tools@v0.2.16"
+        run: pip install --quiet "camp-tools[archive] @ git+https://github.com/camp-registry/camp-tools@v0.2.17"
 
       - name: Deposit every ledger release
         env:
