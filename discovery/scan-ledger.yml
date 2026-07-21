@@ -24037,10 +24037,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   jpahullo/moodle-tool_mergeusers:
-    outcome: exists
-    detail: component tool_mergeusers already registered (first-come, RFC §8)
+    outcome: written
+    detail: listed as tool_mergeusers
     first-seen: '2026-07-10'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-21'
   jpducassou/moodle-auth_soap:
     outcome: written
     detail: listed as auth_soap
