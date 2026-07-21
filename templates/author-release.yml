@@ -26,7 +26,12 @@ on:
 env:
   CAMP_INDEX_REPO: camp-registry/camp-index  # the camp index repository
   COMPONENT: mod_example                 # ← your frankenstyle component name
-  SUPPORTED_MOODLE: "4.5,5.0,5.1,5.2"    # ← branches this release supports
+  # Optional override — leave empty (recommended) and camp reads the
+  # supported range from your version.php at the tag: the
+  # $plugin->supported range when declared, else the single branch
+  # $plugin->requires maps to. Set it only when version.php can't say
+  # what you mean (e.g. a non-contiguous set like "4.1,4.4").
+  SUPPORTED_MOODLE: ""
 
 jobs:
   publish:
@@ -65,7 +70,7 @@ jobs:
           plugintype="${COMPONENT%%_*}"
           camp release "index-repo/plugins/${plugintype}/${COMPONENT}.yml" \
             "${GITHUB_REF_NAME}" --source ./plugin \
-            --supported-moodle "${SUPPORTED_MOODLE}"
+            ${SUPPORTED_MOODLE:+--supported-moodle "${SUPPORTED_MOODLE}"}
 
       - name: Open index pull request
         uses: peter-evans/create-pull-request@v6
