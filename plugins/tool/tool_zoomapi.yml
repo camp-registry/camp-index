@@ -2,7 +2,10 @@ component: tool_zoomapi
 source: https://github.com/jrchamp/moodle-tool_zoomapi
 maintainers:
 - github: jrchamp
-tier: 0
+tier: 1
+security-contact: https://github.com/jrchamp/moodle-tool_zoomapi/security/advisories/new
+labels:
+- external-account
 status: active
 discovered: '2026-07-11'
 releases: []
