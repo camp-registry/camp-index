@@ -2,7 +2,10 @@ component: editor_marklar
 source: https://github.com/mudrd8mz/moodle-editor_marklar
 maintainers:
 - github: mudrd8mz
-tier: 0
+tier: 1
+security-contact: https://github.com/mudrd8mz/moodle-editor_marklar/security/advisories
+labels:
+- fully-free
 status: active
 discovered: '2026-07-10'
 releases: []
