@@ -18,6 +18,7 @@ on:
   pull_request:
     paths:
       - "plugins/**"
+      - "advisories/**"
 
 jobs:
   changed:
@@ -26,6 +27,7 @@ jobs:
     outputs:
       entries: ${{ steps.diff.outputs.entries }}
       checks: ${{ steps.diff.outputs.checks }}
+      advisories: ${{ steps.diff.outputs.advisories }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -41,6 +43,12 @@ jobs:
             | jq -R -s -c 'split("\n") | map(select(length > 0))')
           echo "entries=$entries" >> "$GITHUB_OUTPUT"
           echo "Changed entries: $entries"
+
+          advisories=$(git diff --name-only --diff-filter=ACM \
+              origin/${{ github.base_ref }}...HEAD -- 'advisories/*.yml' \
+            | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          echo "advisories=$advisories" >> "$GITHUB_OUTPUT"
+          echo "Changed advisories: $advisories"
 
           # Every release a PR adds gets its own moodle-plugin-ci legs on
           # the registry-target endpoint branches it declares support for
@@ -96,7 +104,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.20"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.21"
 
       - name: Validate entry
         run: camp validate "${{ matrix.entry }}"
@@ -119,6 +127,32 @@ jobs:
 
       - name: Malware scan (RFC §4.2 step 5 — hard failure on detection)
         run: camp scan-malware --entry "${{ matrix.entry }}" --require-engine
+
+  advisories:
+    # Advisory files (RFC §5.3): schema validation, flat-layout placement
+    # (the filename is the registry-global id — see camp-tools advisory.py),
+    # and the component-exists cross-check. Id collisions between concurrent
+    # PRs surface as git add/add conflicts on the same path, so no explicit
+    # uniqueness check is needed here.
+    name: Advisory checks
+    needs: changed
+    if: needs.changed.outputs.advisories != '[]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.21"
+
+      - name: Validate advisories
+        run: |
+          camp validate-advisory ${{ join(fromJSON(needs.changed.outputs.advisories), ' ') }} --index-dir .
 
   plugin-checks:
     # One leg per (release added by this PR) x (registry-target endpoint
@@ -149,7 +183,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.20"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.21"
 
       - name: Check out plugin source at the release under test
         run: |
@@ -211,7 +245,7 @@ jobs:
     # Stable-name aggregate for branch protection: matrix job names vary
     # per changed entry, so protection requires this one check instead.
     name: Index PR verification result
-    needs: [changed, registry, plugin-checks]
+    needs: [changed, registry, advisories, plugin-checks]
     if: always()
     runs-on: ubuntu-24.04
     steps:
