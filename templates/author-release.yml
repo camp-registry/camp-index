@@ -75,6 +75,10 @@ jobs:
       - name: Open index pull request
         uses: peter-evans/create-pull-request@v6
         with:
+          # CAMP_INDEX_TOKEN must be a CLASSIC personal access token with
+          # the public_repo scope. Fine-grained tokens can't be scoped to
+          # camp-registry, so they push your branch fine and then 403 on
+          # this step — opening the PR against the upstream index.
           token: ${{ secrets.CAMP_INDEX_TOKEN }}
           path: index-repo
           # Most authors don't have write access to the index. Fork
