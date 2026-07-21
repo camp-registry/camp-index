@@ -2,7 +2,10 @@ component: mod_zoom
 source: https://github.com/jrchamp/moodle-mod_zoom
 maintainers:
 - github: jrchamp
-tier: 0
+tier: 1
+security-contact: https://github.com/jrchamp/moodle-mod_zoom/security/advisories/new
+labels:
+- external-account
 status: active
 discovered: '2026-07-11'
 releases: []
