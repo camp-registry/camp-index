@@ -1,0 +1,17 @@
+id: CAMP-2026-0003
+component: logstore_xapi
+title: XSS via unescaped LRS response in admin reports
+severity: medium
+affected-versions: <5.0.3
+fixed-in: 5.0.3
+revoke: false
+published: '2026-07-21T20:29:50Z'
+timeline:
+  fix-released: '2026-07-20'
+description: >
+  The LRS response body and, in the historic report, the username were
+  written into HTML table cells without escaping. A malicious or
+  compromised LRS could execute script in the browser of a manager or
+  administrator viewing the reports. Fixed in 5.0.3, which escapes both.
+  Administrators should upgrade to 5.0.3 or later; sites pointing at an
+  untrusted or shared LRS should treat this with elevated priority.

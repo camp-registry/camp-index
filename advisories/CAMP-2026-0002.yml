@@ -1,0 +1,19 @@
+id: CAMP-2026-0002
+component: logstore_xapi
+title: TLS certificate verification disabled for LRS connection
+severity: high
+affected-versions: <5.0.3
+fixed-in: 5.0.3
+revoke: false
+published: '2026-07-21T20:29:50Z'
+timeline:
+  fix-released: '2026-07-20'
+description: >
+  The plugin sent xAPI statements with CURLOPT_SSL_VERIFYPEER disabled,
+  so an attacker able to intercept traffic between Moodle and the LRS
+  could read learner activity data in transit, capture the LRS username
+  and password from the Basic auth header, and tamper with responses.
+  Fixed in 5.0.3, which enables certificate verification by default —
+  including on upgraded sites that have not revisited the settings page.
+  Administrators should upgrade to 5.0.3 or later and consider rotating
+  LRS credentials if interception is a concern for their network path.

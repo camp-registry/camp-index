@@ -1,0 +1,19 @@
+id: CAMP-2026-0001
+component: logstore_xapi
+title: Failed-event report readable without capability check
+severity: medium
+affected-versions: <5.0.3
+fixed-in: 5.0.3
+revoke: false
+published: '2026-07-21T20:29:49Z'
+timeline:
+  fix-released: '2026-07-20'
+description: >
+  report.php gated access inside a switch whose default branch performed
+  no capability check, so any authenticated user could read the
+  failed-event log via report.php?id=2&run=1, bypassing the
+  logstore/xapi:viewerrorlog capability. The exposure was limited to
+  operational metadata (event names, error categories, timestamps); no
+  personal data was exposed and no state could be changed. Fixed in
+  5.0.3, which rejects unknown report IDs. Administrators should upgrade
+  to 5.0.3 or later; no database or configuration changes are required.
