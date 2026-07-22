@@ -2,7 +2,10 @@ component: local_cohortmembership
 source: https://github.com/tkorner/moodle-local_cohortmembership
 maintainers:
 - github: tkorner
-tier: 0
+security-contact: https://github.com/tkorner/moodle-local_cohortmembership/security/advisories/new
+tier: 1
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,4 +17,3 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: 'Manages cohort memberships via CSV: add users to cohorts, remove them, or'
