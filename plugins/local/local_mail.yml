@@ -1,13 +1,16 @@
 component: local_mail
-source: https://gitlab.com/TorrijaConLeche/moodle-local-mail-fixed-xss
+source: https://gitlab.com/moodle-local_mail/moodle-local_mail
 maintainers:
-- gitlab: TorrijaConLeche
-tier: 0
+- gitlab: moodle-local_mail
+security-contact: https://gitlab.com/moodle-local_mail/moodle-local_mail/-/work_items/new
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: Fixed XSS vulnerability in the plugin
+summary: Internal course messaging with a webmail-like interface
+labels:
+- fully-free
 metrics:
   updated: '2023-06-27T21:10:06.985Z'
   stars: 0
