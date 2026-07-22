@@ -10,10 +10,8 @@
 #   4. opens a pull request against the camp index with the new release
 #      appended to your plugin's entry.
 #
-# NOTE (Stage: pre-launch): CAMP_INDEX_REPO below is a placeholder until the
-# public index repository exists. Trusted publishing (OIDC, RFC §4.3) will
-# replace the personal-access-token PR flow before launch; this template is
-# the bootstrap version.
+# NOTE: the personal-access-token PR flow is the bootstrap mechanism; it
+# will be replaced by trusted publishing (OIDC, RFC §4.3 / DESIGN.md D11).
 
 name: Publish release to camp
 
