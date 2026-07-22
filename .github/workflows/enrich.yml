@@ -1,4 +1,4 @@
-# Daily metrics refresh (rolling): re-fetches upstream metrics for the
+# Daily metrics refresh (rolling).: re-fetches upstream metrics for the
 # ~400 stalest entries, detects repository renames (tier 0 sources are
 # auto-canonicalized; claimed entries are flagged in metrics.renamed-to,
 # never rewritten), and pushes the result directly to main as the
