@@ -2,14 +2,28 @@ component: tool_moodlebox
 source: https://github.com/moodlebox/moodle-tool_moodlebox
 maintainers:
 - github: martignoni
-tier: 1
+tier: 2
 security-contact: https://github.com/moodlebox/moodle-tool_moodlebox/security
 labels:
 - fully-free
 - donation-supported
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: 3.3.0
+  tag: v3.3.0
+  commit: d7f92cbc255386da56bb50f6342038f505d21670
+  moodle-version: 2026072200
+  supported-moodle:
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 76cea1e36cea78f8128b194aab632d5d67bad7f1d9d09d428e6de665fd940f57
+  published: '2026-07-22T19:40:01Z'
+  released: '2026-07-22T19:34:49Z'
+  listing-sha256: 4265684e86104b2ab3bdc3c3e27a0f3e81ae2205fd98d76f5f3364f937968a75
 summary: A Moodle plugin providing a GUI to the administration of a MoodleBox
 license: GPL-3.0
 metrics:
