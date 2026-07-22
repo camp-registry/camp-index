@@ -14,11 +14,13 @@
 
 name: Index PR verification
 
+# No paths filter, deliberately: "Index PR verification result" is a
+# required status check, and a filtered-out workflow never reports, so a
+# PR touching only workflows/docs would hang at "Expected" forever. The
+# changed job costs a few seconds; every irrelevant job skips on its
+# empty matrix and the result gate still reports green.
 on:
   pull_request:
-    paths:
-      - "plugins/**"
-      - "advisories/**"
 
 jobs:
   changed:
