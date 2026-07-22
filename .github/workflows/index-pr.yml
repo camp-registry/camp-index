@@ -87,6 +87,47 @@ jobs:
           print("Release check legs:", json.dumps(checks, indent=2))
           EOF
 
+  collision-warn:
+    # Claim-time tripwire (camp-docs NAMESPACE.md): when a PR touches an
+    # entry whose component has a recorded name-collision in the scan
+    # ledger, surface the rival repository as a warning annotation and in
+    # the job summary. Warn-only by design: continue-on-error keeps even a
+    # crash here from gating the PR, and fork PRs run with a read-only
+    # token, so the surfaces are annotations, never comments.
+    name: Component name-collision warning
+    needs: changed
+    if: needs.changed.outputs.entries != '[]'
+    continue-on-error: true
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.23"
+
+      - name: Check changed components against the collision ledger
+        env:
+          ENTRIES: ${{ needs.changed.outputs.entries }}
+        run: |
+          for entry in $(echo "$ENTRIES" | jq -r '.[]'); do
+            component=$(basename "$entry" .yml)
+            out=$(camp check-collisions . --component "$component")
+            if echo "$out" | grep -q '^name-collision:'; then
+              echo "::warning title=Name collision on ${component}::A different repository also declares ${component}; resolve per NAMESPACE.md before approving a claim or source change."
+              { echo "### Name collision: \`${component}\`"
+                echo '```'
+                echo "$out" | grep '^name-collision:'
+                echo '```'
+                echo "A different repository also declares this component."
+                echo "Resolve per [NAMESPACE.md](https://github.com/camp-registry/camp-docs/blob/main/NAMESPACE.md) before approving a claim or source change."
+              } >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
+
   registry:
     name: Registry checks
     needs: changed
