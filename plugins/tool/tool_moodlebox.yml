@@ -1,8 +1,12 @@
 component: tool_moodlebox
 source: https://github.com/moodlebox/moodle-tool_moodlebox
 maintainers:
-- github: moodlebox
-tier: 0
+- github: martignoni
+tier: 1
+security-contact: https://github.com/moodlebox/moodle-tool_moodlebox/security
+labels:
+- fully-free
+- donation-supported
 status: active
 discovered: '2026-07-10'
 releases: []
