@@ -47,7 +47,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.23"
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.24"
 
       # inputs are empty on schedule runs; the fallbacks keep the cron
       # behavior identical to the dispatch defaults. 45-day recheck on a
