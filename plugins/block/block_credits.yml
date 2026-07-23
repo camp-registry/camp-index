@@ -2,9 +2,12 @@ component: block_credits
 source: https://github.com/branchup/moodle-block_credits
 maintainers:
 - github: branchup
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
+security-contact: https://github.com/branchup/moodle-block_credits/security
+labels:
+  - fully-free
 releases: []
 license: GPL-3.0
 summary: Moodle plugin to manage user credits.
