@@ -1,0 +1,17 @@
+component: theme_anomaly
+source: https://github.com/moodlehq/moodle-theme_anomaly
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Anomaly theme
+metrics:
+  updated: '2014-04-14T03:52:58Z'
+  stars: 2
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

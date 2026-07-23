@@ -1,0 +1,17 @@
+component: theme_uog_hicont_yloblu
+source: https://github.com/roglos/moodle-theme_uog_hicont_yloblu
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Hi Contrast yellow on blue variation of theme
+metrics:
+  updated: '2016-11-17T09:41:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

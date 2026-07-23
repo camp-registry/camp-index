@@ -1,0 +1,18 @@
+component: quiz_copyattempt
+source: https://github.com/bumoodle/moodle-quiz_copyattempt
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Quiz report which allows attempts to be copied from one user to another;
+  useful for manually synchronizing partner quizzes.
+metrics:
+  updated: '2012-10-20T17:18:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

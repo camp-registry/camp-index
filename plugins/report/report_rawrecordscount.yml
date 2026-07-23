@@ -1,0 +1,17 @@
+component: report_rawrecordscount
+source: https://github.com/stronk7/moodle-report_rawrecordscount
+maintainers:
+- github: stronk7
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: One simple 2.2 and upwards report counting log entries by student
+metrics:
+  updated: '2013-05-12T18:54:43Z'
+  stars: 4
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

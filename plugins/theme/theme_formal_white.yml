@@ -1,0 +1,17 @@
+component: theme_formal_white
+source: https://github.com/andreabix/moodle-theme_formal_white
+maintainers:
+- github: andreabix
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Formal white theme
+metrics:
+  updated: '2014-04-14T03:46:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-07-23'

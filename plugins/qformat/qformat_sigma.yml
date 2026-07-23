@@ -1,0 +1,18 @@
+component: qformat_sigma
+source: https://github.com/KQMATH/moodle-qformat_sigma
+maintainers:
+- github: KQMATH
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle question import/export format plugin for converting SIGMA- to STACK-questions
+  and vice versa
+metrics:
+  updated: '2018-07-27T18:10:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

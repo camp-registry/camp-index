@@ -1,0 +1,17 @@
+component: tool_httpsreplace
+source: https://github.com/open-lms-open-source/moodle-tool_httpsreplace
+maintainers:
+- github: open-lms-open-source
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: No longer updated, because it is distributed with Moodle 3.4 or later.
+metrics:
+  updated: '2018-01-12T16:05:34Z'
+  stars: 2
+  forks: 1
+  open-issues: 2
+  archived: true
+  checked: '2026-07-23'

@@ -1,0 +1,19 @@
+component: booktool_exportepub
+source: https://github.com/HaakonME/moodle-booktool_exportepub
+maintainers:
+- github: HaakonME
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: 'Lucimoo EPUB import/export add-ons for the Moodle book module. Lucimoo consists
+  of two add-ons for the Moodle book module: * The "exportepub" add-on provides functionality
+  to export book module books as EPUB ebooks. Original developer: Ordbrand'
+metrics:
+  updated: '2016-08-17T06:44:50Z'
+  stars: 2
+  forks: 4
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

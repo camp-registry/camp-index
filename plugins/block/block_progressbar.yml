@@ -1,0 +1,17 @@
+component: block_progressbar
+source: https://github.com/vandrei/Moodle-Assignment_Progressbar
+maintainers:
+- github: vandrei
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Progressbars for student Assignments
+metrics:
+  updated: '2013-04-10T14:43:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

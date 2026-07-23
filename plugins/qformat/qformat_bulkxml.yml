@@ -1,0 +1,17 @@
+component: qformat_bulkxml
+source: https://github.com/unikent/moodle-qformat_bulkxml
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+summary: Bulk XML question format
+metrics:
+  updated: '2016-08-22T10:16:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

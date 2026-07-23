@@ -1,0 +1,17 @@
+component: workshopallocation_group
+source: https://github.com/joshuata/moodle-workshopallocation_group
+maintainers:
+- github: joshuata
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Allocates moodle workshops to different groups
+metrics:
+  updated: '2018-01-15T22:17:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

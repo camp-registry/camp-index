@@ -1,0 +1,17 @@
+component: tool_sdctools
+source: https://github.com/vaughany/moodle-tool_sdctools
+maintainers:
+- github: vaughany
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Tools for SDC admins, all in one place.
+metrics:
+  updated: '2016-02-11T09:15:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

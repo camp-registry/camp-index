@@ -1,0 +1,17 @@
+component: format_highlight
+source: https://github.com/eduridden/moodle-courseformat_highlight
+maintainers:
+- github: eduridden
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Highlighted Topics Format
+metrics:
+  updated: '2012-08-15T00:27:45Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

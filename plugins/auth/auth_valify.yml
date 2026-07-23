@@ -1,0 +1,17 @@
+component: auth_valify
+source: https://github.com/amanjain1992/valify-moodle
+maintainers:
+- github: amanjain1992
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: Apache-2.0
+summary: moodle library for two factor authorization either via SMS , Email or Voice
+metrics:
+  updated: '2017-06-22T06:03:31Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

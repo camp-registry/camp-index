@@ -1,0 +1,17 @@
+component: theme_futurum
+source: https://github.com/jerab/moodle-theme_futurum
+maintainers:
+- github: jerab
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Custom theme for project SPS Futurum
+metrics:
+  updated: '2017-08-31T15:05:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,16 @@
+component: mod_recommendation
+source: https://github.com/lionphilips/moodle-plugin-recommendation
+maintainers:
+- github: lionphilips
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2016-08-26T20:46:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

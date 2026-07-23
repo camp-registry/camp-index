@@ -1,0 +1,17 @@
+component: theme_magazine
+source: https://github.com/moodlehq/moodle-theme_magazine
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Magazin theme
+metrics:
+  updated: '2017-11-16T08:47:25Z'
+  stars: 0
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

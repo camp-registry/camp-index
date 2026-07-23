@@ -1,0 +1,17 @@
+component: dataformfield_crossword
+source: https://github.com/itamart/moodle-dataformfield_crossword
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A Dataform field that generates and displays a crossword.
+metrics:
+  updated: '2016-01-03T00:19:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

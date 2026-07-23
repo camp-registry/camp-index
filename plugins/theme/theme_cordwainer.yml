@@ -1,0 +1,17 @@
+component: theme_cordwainer
+source: https://github.com/gjb2048/moodle-theme_cordwainer
+maintainers:
+- github: gjb2048
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Theme designers bootstrap inspection theme
+metrics:
+  updated: '2013-12-14T15:51:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

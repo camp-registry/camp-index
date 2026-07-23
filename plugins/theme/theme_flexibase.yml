@@ -1,0 +1,20 @@
+component: theme_flexibase
+source: https://github.com/roelmann/moodle-theme_flexibase
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: NOTE - Versions from the Moodle plugins database will be found in the STABLE
+  branches of this repository. The Master branch is development work and not guaranteed
+  at any point - It should only ever be used on a development/test environment. The
+  MASTER branch is now being developed on Mdl3.1 and whil
+metrics:
+  updated: '2018-05-15T21:14:50Z'
+  stars: 7
+  forks: 8
+  open-issues: 8
+  archived: false
+  checked: '2026-07-23'

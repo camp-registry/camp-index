@@ -1,0 +1,18 @@
+component: theme_starter
+source: https://github.com/rdeber/moodle-starter-theme
+maintainers:
+- github: rdeber
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: 'Moodle 3.5 Boost child theme with custom gulp build process: live reload,
+  browsersync, scss processing, autoprefixer, linting, etc..'
+metrics:
+  updated: '2018-10-31T18:57:53Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

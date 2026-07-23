@@ -1,0 +1,17 @@
+component: tool_sentiment_forum
+source: https://github.com/mattporritt/moodle-tool_sentiment_forum
+maintainers:
+- github: mattporritt
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Sentiment analysis for Moodle Forum activites
+metrics:
+  updated: '2018-01-27T05:12:51Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

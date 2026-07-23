@@ -1,0 +1,17 @@
+component: report_dailyusage
+source: https://github.com/noverkill/moodle-report_dailyusage
+maintainers:
+- github: noverkill
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle Daily Report Plugin
+metrics:
+  updated: '2013-09-02T14:44:05Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

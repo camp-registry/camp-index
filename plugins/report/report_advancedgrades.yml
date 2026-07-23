@@ -1,0 +1,17 @@
+component: report_advancedgrades
+source: https://github.com/marcusgreen/moodle-report_advancedgrades
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Export individual grades from Marking Guides, Rubrics and BTEC marking
+metrics:
+  updated: '2016-05-12T19:41:57Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

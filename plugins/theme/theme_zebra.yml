@@ -1,0 +1,17 @@
+component: theme_zebra
+source: https://github.com/daniure/Zebra_4_Moodle_2
+maintainers:
+- github: daniure
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Port of Moodle 1.9 theme Zebra to Moodle 2.0
+metrics:
+  updated: '2012-05-17T14:23:43Z'
+  stars: 0
+  forks: 8
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

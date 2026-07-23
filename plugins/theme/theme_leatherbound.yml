@@ -1,0 +1,17 @@
+component: theme_leatherbound
+source: https://github.com/moodlehq/moodle-theme_leatherbound
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Leatherbound theme
+metrics:
+  updated: '2018-03-18T14:41:22Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

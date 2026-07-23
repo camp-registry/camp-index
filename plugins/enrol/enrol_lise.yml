@@ -1,0 +1,18 @@
+component: enrol_lise
+source: https://github.com/blink38/moodle-lise
+maintainers:
+- github: blink38
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: plugin use to synchronise group from local postgresql database to moodle
+  cohorts
+metrics:
+  updated: '2016-07-22T12:51:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

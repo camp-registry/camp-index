@@ -1,0 +1,16 @@
+component: theme_booster
+source: https://github.com/roelmann/moodle-theme_booster
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2016-12-01T15:13:11Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

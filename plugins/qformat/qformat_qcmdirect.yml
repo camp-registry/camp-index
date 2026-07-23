@@ -1,0 +1,19 @@
+component: qformat_qcmdirect
+source: https://github.com/jmvedrine/moodle-qformat_qcmdirect
+maintainers:
+- github: jmvedrine
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: QCM Direct is a software for creating MCQ paper tests and correct them using
+  a scanner. This softawre is published by NEOPTEC (http://www.neoptec.com). This
+  Moodle plugin permit import and export of questions created by this software..
+metrics:
+  updated: '2014-08-29T18:21:56Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

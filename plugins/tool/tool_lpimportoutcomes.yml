@@ -1,0 +1,17 @@
+component: tool_lpimportoutcomes
+source: https://github.com/moodlehq/moodle-tool_lpimportoutcomes
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Tool to import outcomes into a competency framework
+metrics:
+  updated: '2016-04-28T12:02:47Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

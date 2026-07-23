@@ -1,0 +1,17 @@
+component: block_learning_group
+source: https://github.com/TUM-MZ/moodle_learning-group
+maintainers:
+- github: TUM-MZ
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle 2.4+ learning group plugin.
+metrics:
+  updated: '2016-05-06T09:37:36Z'
+  stars: 0
+  forks: 1
+  open-issues: 9
+  archived: false
+  checked: '2026-07-23'

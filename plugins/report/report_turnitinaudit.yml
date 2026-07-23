@@ -1,0 +1,17 @@
+component: report_turnitinaudit
+source: https://github.com/unikent/moodle-report_turnitinaudit
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle Turnitin Audit Report
+metrics:
+  updated: '2015-06-05T10:21:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

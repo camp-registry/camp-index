@@ -1,0 +1,17 @@
+component: block_fn_marking
+source: https://github.com/aaronhardy/moodlefn-marking
+maintainers:
+- github: aaronhardy
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Updated moodlefn-marking for Moodle 2.6
+metrics:
+  updated: '2014-10-02T14:37:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

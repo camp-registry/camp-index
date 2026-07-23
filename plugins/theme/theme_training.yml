@@ -1,0 +1,17 @@
+component: theme_training
+source: https://github.com/michael-milette/moodle-theme_training
+maintainers:
+- github: michael-milette
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A simple clean theme for Moodle 3.1+
+metrics:
+  updated: '2018-05-22T04:35:00Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

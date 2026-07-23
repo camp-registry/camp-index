@@ -1,0 +1,16 @@
+component: theme_wsetsso
+source: https://github.com/wset/moodle-theme_wsetsso
+maintainers:
+- github: wset
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2016-05-11T12:23:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

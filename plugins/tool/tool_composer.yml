@@ -1,0 +1,17 @@
+component: tool_composer
+source: https://github.com/micaherne/moodle-tool_composer
+maintainers:
+- github: micaherne
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+summary: Experimental tool for merging composer dependencies across a Moodle installation.
+metrics:
+  updated: '2016-09-16T21:57:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

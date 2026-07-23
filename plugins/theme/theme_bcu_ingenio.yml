@@ -1,0 +1,17 @@
+component: theme_bcu_ingenio
+source: https://github.com/xavigaya/moodle-theme-bcu_ingenio
+maintainers:
+- github: xavigaya
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle's BCU child theme
+metrics:
+  updated: '2016-09-30T20:22:18Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

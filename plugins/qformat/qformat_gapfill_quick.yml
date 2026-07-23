@@ -1,0 +1,18 @@
+component: qformat_gapfill_quick
+source: https://github.com/marcusgreen/moodle-qformat_gapfill_quick
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Format for quickly importing gapfill questions created in a text file, similar
+  principle to the GIFT format
+metrics:
+  updated: '2015-11-11T19:49:44Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: theme_morecandy
+source: https://github.com/lazydaisy/moodle-theme_morecandy
+maintainers:
+- github: lazydaisy
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A new Moodle theme based on the More theme, but with added candy.
+metrics:
+  updated: '2017-07-09T16:22:50Z'
+  stars: 2
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-07-23'

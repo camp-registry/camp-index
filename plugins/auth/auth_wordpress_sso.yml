@@ -1,0 +1,17 @@
+component: auth_wordpress_sso
+source: https://github.com/bernardpeh/moodle_wordpress_sso
+maintainers:
+- github: bernardpeh
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle authentication plugin to allow authentication against wordpress DB
+metrics:
+  updated: '2012-09-28T00:29:14Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

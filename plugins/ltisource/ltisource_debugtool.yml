@@ -1,0 +1,16 @@
+component: ltisource_debugtool
+source: https://github.com/open-lms-open-source/moodle-ltisource_debugtool
+maintainers:
+- github: open-lms-open-source
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2018-09-10T23:13:53Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

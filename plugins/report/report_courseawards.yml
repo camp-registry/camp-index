@@ -1,0 +1,17 @@
+component: report_courseawards
+source: https://github.com/vaughany/moodle-report_courseawards
+maintainers:
+- github: vaughany
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Course Awards report for Moodle 2.x.
+metrics:
+  updated: '2013-05-20T10:47:26Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

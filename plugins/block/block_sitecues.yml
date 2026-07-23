@@ -1,0 +1,17 @@
+component: block_sitecues
+source: https://github.com/sitecues/sitecues-moodle-plugin
+maintainers:
+- github: sitecues
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin to implement SItecues.
+metrics:
+  updated: '2016-07-01T13:20:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

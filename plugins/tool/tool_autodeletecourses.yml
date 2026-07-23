@@ -1,0 +1,17 @@
+component: tool_autodeletecourses
+source: https://github.com/CSAffluents/moodle-tool_autodeletecourses
+maintainers:
+- github: CSAffluents
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Old courses removal tool for Moodle
+metrics:
+  updated: '2015-03-10T02:46:07Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

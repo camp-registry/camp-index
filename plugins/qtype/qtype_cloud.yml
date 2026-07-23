@@ -1,0 +1,18 @@
+component: qtype_cloud
+source: https://github.com/cbrucks/Moodle_Rackspace_Cloud_Question_Type
+maintainers:
+- github: cbrucks
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle question type.  Spins up and manages cloud assets for walk through
+  purposes.
+metrics:
+  updated: '2013-03-01T23:12:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

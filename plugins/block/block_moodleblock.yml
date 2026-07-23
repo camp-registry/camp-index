@@ -1,0 +1,18 @@
+component: block_moodleblock
+source: https://github.com/mattrice/moodleblock
+maintainers:
+- github: mattrice
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A block which allows for quick navigation to certain areas.  Based off of
+  the moodlebar plug-in, by Lewis Carr. https://tracker.moodle.org/browse/CONTRIB-1797
+metrics:
+  updated: '2017-07-13T16:03:52Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

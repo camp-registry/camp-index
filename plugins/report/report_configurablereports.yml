@@ -1,0 +1,18 @@
+component: report_configurablereports
+source: https://github.com/nadavkav/moodle-report_configurablereports
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Display list of reports from the "Configurable reports" block on the Administration
+  block, under "course > reports".
+metrics:
+  updated: '2014-01-13T00:10:16Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

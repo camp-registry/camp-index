@@ -1,0 +1,19 @@
+component: theme_stellar
+source: https://github.com/LafColITS/moodle-theme_stellar
+maintainers:
+- github: LafColITS
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Stellar is a child theme Bootstrap for Moodle (https://github.com/bmbrands/theme_bootstrap).
+  Its design is based on the earlier fixed-width Cosmic and Rocket themes. It was
+  developed by Lafayette College ITS.
+metrics:
+  updated: '2016-12-09T13:30:54Z'
+  stars: 1
+  forks: 0
+  open-issues: 5
+  archived: true
+  checked: '2026-07-23'

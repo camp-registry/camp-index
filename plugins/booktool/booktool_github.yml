@@ -1,0 +1,17 @@
+component: booktool_github
+source: https://github.com/djplaner/moodle-booktool_github
+maintainers:
+- github: djplaner
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+summary: Connect a Book resource to github to allow sharing and collaborative use.
+metrics:
+  updated: '2015-12-14T23:17:59Z'
+  stars: 2
+  forks: 3
+  open-issues: 28
+  archived: false
+  checked: '2026-07-23'

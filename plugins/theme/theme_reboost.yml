@@ -1,0 +1,16 @@
+component: theme_reboost
+source: https://github.com/bmbrands/moodle-theme_reboost
+maintainers:
+- github: bmbrands
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2018-05-09T17:54:42Z'
+  stars: 1
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-23'

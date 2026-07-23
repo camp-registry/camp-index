@@ -1,0 +1,17 @@
+component: block_attendance_tracker
+source: https://github.com/DarkaOnLine/moodle-time-attendance-tracker
+maintainers:
+- github: DarkaOnLine
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle time tracker and attendance journal generator
+metrics:
+  updated: '2015-10-30T09:08:26Z'
+  stars: 3
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

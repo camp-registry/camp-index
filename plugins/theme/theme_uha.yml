@@ -1,0 +1,17 @@
+component: theme_uha
+source: https://github.com/halbo5/moodle-theme_uha
+maintainers:
+- github: halbo5
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Theme based on boost for UHA (university from Mulhouse)
+metrics:
+  updated: '2017-11-30T17:37:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

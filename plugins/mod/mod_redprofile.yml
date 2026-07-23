@@ -1,0 +1,18 @@
+component: mod_redprofile
+source: https://github.com/loqman/moodle_redprofile
+maintainers:
+- github: loqman
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: MIT
+summary: Moodle plugin that creates a separate page to show custom user profile fields
+  to users
+metrics:
+  updated: '2014-07-28T10:30:07Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

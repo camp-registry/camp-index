@@ -1,0 +1,17 @@
+component: auth_notifylogin
+source: https://github.com/ifigueroap/moodle-notifylogin
+maintainers:
+- github: ifigueroap
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Simple Moodle plugin to send emails upon succesful logins and logouts
+metrics:
+  updated: '2013-07-24T21:34:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

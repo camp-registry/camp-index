@@ -1,0 +1,16 @@
+component: theme_cubic
+source: https://github.com/bensampaio/moodle-theme_cubic
+maintainers:
+- github: bensampaio
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: MIT
+metrics:
+  updated: '2016-12-11T16:36:11Z'
+  stars: 4
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

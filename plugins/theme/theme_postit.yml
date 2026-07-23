@@ -1,0 +1,17 @@
+component: theme_postit
+source: https://github.com/lazydaisy/moodle-theme_postit
+maintainers:
+- github: lazydaisy
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A Moodle theme based on Aardvark Post-IT
+metrics:
+  updated: '2015-11-16T03:01:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

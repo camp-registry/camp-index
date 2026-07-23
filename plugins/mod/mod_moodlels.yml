@@ -1,0 +1,17 @@
+component: mod_moodlels
+source: https://github.com/mariajosefrancolugo/moodle-ls
+maintainers:
+- github: mariajosefrancolugo
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Plugin de cuestionarios de estilos de aprendizaje para la plataforma Moodle
+metrics:
+  updated: '2018-09-23T21:58:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

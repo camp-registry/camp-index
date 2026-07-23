@@ -1,0 +1,17 @@
+component: mod_conceptmap
+source: https://github.com/dimitara/moodle-concept-map
+maintainers:
+- github: dimitara
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: MIT
+summary: Moodle plugin for Concept Map functionality
+metrics:
+  updated: '2016-02-23T06:48:48Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,18 @@
+component: report_assignaudit
+source: https://github.com/TestValleySchool/moodle-report-assignaudit
+maintainers:
+- github: TestValleySchool
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A report plugin for Moodle that allows users to verify that assignments are
+  being created regularly.
+metrics:
+  updated: '2017-02-09T16:21:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

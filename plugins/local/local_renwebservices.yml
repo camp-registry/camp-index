@@ -1,0 +1,17 @@
+component: local_renwebservices
+source: https://github.com/evanhurd/moodle-renwebservices
+maintainers:
+- github: evanhurd
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: moodle-renwebservices
+metrics:
+  updated: '2016-11-07T17:06:51Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

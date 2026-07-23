@@ -1,0 +1,18 @@
+component: theme_kittv
+source: https://github.com/jerab/moodle-theme_kittv
+maintainers:
+- github: jerab
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Custom theme for moodle installation version 2.3 and later for KITTV PedF
+  UK (moodle.it.pedf.cuni.cz)
+metrics:
+  updated: '2014-11-28T12:58:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

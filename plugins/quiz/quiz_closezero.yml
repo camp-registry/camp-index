@@ -1,0 +1,17 @@
+component: quiz_closezero
+source: https://github.com/bumoodle/moodle-quiz_closezero
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A Moodle report which allows closing and zeroing of quiz attempts
+metrics:
+  updated: '2015-10-05T15:46:39Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,16 @@
+component: theme_caixa
+source: https://github.com/murilotimo/moodle-theme_caixa
+maintainers:
+- github: murilotimo
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2017-06-08T03:50:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

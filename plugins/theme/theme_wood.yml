@@ -1,0 +1,18 @@
+component: theme_wood
+source: https://github.com/eduridden/moodle-theme_wood
+maintainers:
+- github: eduridden
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A Bootstrap based theme for Moodle 2 recreating the classic 1.9 Wood theme
+  with a modern twist
+metrics:
+  updated: '2013-08-09T11:10:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

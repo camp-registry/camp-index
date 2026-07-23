@@ -1,0 +1,17 @@
+component: report_my_report
+source: https://github.com/shinotra/moodle-report_my_report
+maintainers:
+- github: shinotra
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodleのレポートプラグインのスケルトン的なアレ
+metrics:
+  updated: '2016-12-03T03:26:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

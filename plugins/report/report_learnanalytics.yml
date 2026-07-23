@@ -1,0 +1,16 @@
+component: report_learnanalytics
+source: https://github.com/bobpuffer/moodle-report_learnanalytics
+maintainers:
+- github: bobpuffer
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2014-05-30T20:58:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-07-23'

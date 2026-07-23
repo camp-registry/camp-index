@@ -1,0 +1,17 @@
+component: mod_resultmanager
+source: https://github.com/pasanlive/moodle_result_manager
+maintainers:
+- github: pasanlive
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: Apache-2.0
+summary: Result management moodle module
+metrics:
+  updated: '2014-09-14T20:48:01Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

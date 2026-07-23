@@ -1,0 +1,17 @@
+component: theme_mytheme
+source: https://github.com/eduridden/moodle-theme_mytheme
+maintainers:
+- github: eduridden
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: This is used ONLY for training in my workshops
+metrics:
+  updated: '2014-02-21T11:39:44Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: theme_glostest
+source: https://github.com/roglos/moodle-theme_glostest
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: testing and development version of main theme
+metrics:
+  updated: '2017-07-31T10:21:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

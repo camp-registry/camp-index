@@ -1,0 +1,17 @@
+component: booktool_validator
+source: https://github.com/IPA-Lets-Study-Together/moodle-booktool_validator
+maintainers:
+- github: IPA-Lets-Study-Together
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: 'REQ02: Image and table validation for Book plugin'
+metrics:
+  updated: '2015-02-11T13:51:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: theme_adminlte
+source: https://github.com/Multisistemas/moodle-theme_adminlte
+maintainers:
+- github: Multisistemas
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Theme for moodle platform based on adminlte bootstrap library.
+metrics:
+  updated: '2017-06-26T16:50:17Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-07-23'

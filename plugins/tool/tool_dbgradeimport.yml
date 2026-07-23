@@ -1,0 +1,17 @@
+component: tool_dbgradeimport
+source: https://github.com/CSAffluents/moodle-tool_dbgradeimport
+maintainers:
+- github: CSAffluents
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: External database grade import tool for Moodle
+metrics:
+  updated: '2015-07-01T13:12:16Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

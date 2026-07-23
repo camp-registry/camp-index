@@ -1,0 +1,17 @@
+component: qtype_qportugol
+source: https://github.com/vitormarcelino/qPortugolMoodle
+maintainers:
+- github: vitormarcelino
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Question Type para o LMS Moodle da Linguagem Portugol
+metrics:
+  updated: '2017-10-21T17:13:57Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

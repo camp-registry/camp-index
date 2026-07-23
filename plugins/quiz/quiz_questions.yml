@@ -1,0 +1,17 @@
+component: quiz_questions
+source: https://github.com/ceadUTB/moodle-quiz_questions
+maintainers:
+- github: ceadUTB
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: Apache-2.0
+summary: Report of questions for a quiz activity
+metrics:
+  updated: '2018-05-04T19:55:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

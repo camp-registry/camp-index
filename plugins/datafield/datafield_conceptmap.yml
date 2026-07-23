@@ -1,0 +1,17 @@
+component: datafield_conceptmap
+source: https://github.com/atmin/moodle-concept-map
+maintainers:
+- github: atmin
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: concept map visual editor'
+metrics:
+  updated: '2017-02-25T22:20:43Z'
+  stars: 1
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-07-23'

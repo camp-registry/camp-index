@@ -1,0 +1,17 @@
+component: report_ilbsplit
+source: https://github.com/interlegis/moodle-report_ilbsplit
+maintainers:
+- github: interlegis
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+summary: Uma rotina para transferir alunos de um curso para outro (dividir turmas)
+metrics:
+  updated: '2015-09-23T15:09:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

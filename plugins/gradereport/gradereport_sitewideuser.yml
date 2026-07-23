@@ -1,0 +1,17 @@
+component: gradereport_sitewideuser
+source: https://github.com/elearningstudio/moodle-gradereport_sitewideuser
+maintainers:
+- github: elearningstudio
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Site Wide User report filterable by course category / course
+metrics:
+  updated: '2017-02-08T02:11:55Z'
+  stars: 0
+  forks: 4
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

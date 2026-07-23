@@ -1,0 +1,17 @@
+component: tool_resetmymoodle
+source: https://github.com/cescobedo/moodle-tool_resetmymoodle
+maintainers:
+- github: cescobedo
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle Admin Tool to Reset MyMoodle
+metrics:
+  updated: '2016-02-26T07:16:25Z'
+  stars: 3
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

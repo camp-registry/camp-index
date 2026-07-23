@@ -1,0 +1,17 @@
+component: theme_shiny
+source: https://github.com/xow/moodle-theme_shiny
+maintainers:
+- github: xow
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: It's not really shiny
+metrics:
+  updated: '2017-06-14T02:08:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

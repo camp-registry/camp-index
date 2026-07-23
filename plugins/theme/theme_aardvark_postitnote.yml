@@ -1,0 +1,16 @@
+component: theme_aardvark_postitnote
+source: https://github.com/lazydaisy/moodle-theme_aardvark_postitnote
+maintainers:
+- github: lazydaisy
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2016-12-11T18:36:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

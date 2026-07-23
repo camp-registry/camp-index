@@ -1,0 +1,18 @@
+component: qformat_imsqti21
+source: https://github.com/jmvedrine/moodle-qformat_imsqti21
+maintainers:
+- github: jmvedrine
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: IMS QTI created by Laurent Opprecht from Geneva University updated to run
+  with Moodle 2.9 and 3.0
+metrics:
+  updated: '2015-12-02T21:47:37Z'
+  stars: 1
+  forks: 6
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

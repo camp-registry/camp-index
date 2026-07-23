@@ -1,0 +1,17 @@
+component: tool_targetgrades
+source: https://github.com/marxjohnson/moodle-tool_targetgrades
+maintainers:
+- github: marxjohnson
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Successor to moodle-report_targetgrades as of moodle 2.2
+metrics:
+  updated: '2013-04-04T14:15:53Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

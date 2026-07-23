@@ -1,0 +1,17 @@
+component: theme_kent
+source: https://github.com/unikent/moodle-theme_kent
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Kent Moodle Theme
+metrics:
+  updated: '2016-04-12T11:16:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-23'

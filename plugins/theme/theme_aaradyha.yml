@@ -1,0 +1,20 @@
+component: theme_aaradyha
+source: https://github.com/lazydaisy/moodle-theme_aaradyha
+maintainers:
+- github: lazydaisy
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Aaradyha is built on Base theme, which means that any future CSS updates,
+  in Base theme, will be picked up automatically by this theme, with the exception
+  of pagelayout.css. This is because of the specific layout of this theme, that it
+  was necessary to EXCLUDE base theme's pagelayout.css.  That said
+metrics:
+  updated: '2017-01-04T10:44:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

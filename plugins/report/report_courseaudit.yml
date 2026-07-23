@@ -1,0 +1,18 @@
+component: report_courseaudit
+source: https://github.com/tonyjbutler/moodle-report_courseaudit
+maintainers:
+- github: tonyjbutler
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Course quality audit report plugin for Moodle 2.x (requires https://github.com/tonyjbutler/moodle-block_course_rating
+  to display results)
+metrics:
+  updated: '2013-10-08T18:12:38Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: theme_conel
+source: https://github.com/noverkill/moodle-theme_conel
+maintainers:
+- github: noverkill
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Conel moodle theme
+metrics:
+  updated: '2013-09-09T12:18:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

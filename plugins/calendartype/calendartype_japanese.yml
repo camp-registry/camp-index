@@ -1,0 +1,17 @@
+component: calendartype_japanese
+source: https://github.com/abgreeve/moodle-calendartype_japanese
+maintainers:
+- github: abgreeve
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Japanese calendar plugin using the Emperor's reign as the year.
+metrics:
+  updated: '2018-05-11T07:51:06Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,18 @@
+component: local_imtt
+source: https://github.com/Markonis/imtt-moodle
+maintainers:
+- github: Markonis
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: This is a simple Moodle plugin to enable communication and data synchronization
+  with external services. Eventually it will become something like the IFTTT service.
+metrics:
+  updated: '2017-06-14T10:14:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,16 @@
+component: calendartype_thai
+source: https://github.com/ekachai-sing/moodle-calendartype_thai
+maintainers:
+- github: ekachai-sing
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2014-09-29T08:45:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

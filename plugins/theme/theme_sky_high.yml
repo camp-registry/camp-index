@@ -1,0 +1,17 @@
+component: theme_sky_high
+source: https://github.com/moodlehq/moodle-theme_sky_high
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Sky high theme
+metrics:
+  updated: '2014-04-14T03:54:00Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

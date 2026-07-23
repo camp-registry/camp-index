@@ -1,0 +1,18 @@
+component: theme_rackspace_anomaly
+source: https://github.com/cbrucks/Moodle_Rackspace_Anomaly_Template
+maintainers:
+- github: cbrucks
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: moodle theme based on anomaly customized to accomodate a larger right column
+  that will fit the facebook chat block plugin
+metrics:
+  updated: '2013-02-27T05:26:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: theme_essential_gourmet
+source: https://github.com/eduridden/moodle-theme_essential_gourmet
+maintainers:
+- github: eduridden
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+summary: A modification of Essential with different styling.
+metrics:
+  updated: '2014-03-24T05:07:12Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

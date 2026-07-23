@@ -1,0 +1,16 @@
+component: gradereport_laegrader
+source: https://github.com/CLAMP-IT/moodle-report_laegrader
+maintainers:
+- github: CLAMP-IT
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2012-10-22T18:14:17Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

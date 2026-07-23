@@ -1,0 +1,16 @@
+component: theme_usaid
+source: https://github.com/HatfieldConsultants/pops_toolkit_usaid_moodle_theme
+maintainers:
+- github: HatfieldConsultants
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2017-01-07T00:18:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

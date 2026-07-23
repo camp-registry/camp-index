@@ -1,0 +1,17 @@
+component: theme_shafla
+source: https://github.com/shafla/moodle-theme_shafla
+maintainers:
+- github: shafla
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Shafla Team Moodle Theme
+metrics:
+  updated: '2017-01-17T09:50:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

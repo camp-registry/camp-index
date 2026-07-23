@@ -1,0 +1,18 @@
+component: report_accessibility
+source: https://github.com/nadavkav/moodle-report_accessibility
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Generate a content accessibility report, using AXE JS accessibility (ally)
+  HTML checker on course front page content
+metrics:
+  updated: '2017-07-07T10:48:10Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

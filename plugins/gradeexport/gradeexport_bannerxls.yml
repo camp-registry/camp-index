@@ -1,0 +1,17 @@
+component: gradeexport_bannerxls
+source: https://github.com/ericmerrill/moodle-gradexport_bannerxls
+maintainers:
+- github: ericmerrill
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Plugin to export Banner XE grade file
+metrics:
+  updated: '2015-07-23T21:13:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

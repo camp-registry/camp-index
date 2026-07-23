@@ -1,0 +1,17 @@
+component: tool_servercron
+source: https://github.com/Mukudu/moodle-tool_servercron
+maintainers:
+- github: Mukudu
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle Local Plugin to manage Webserver cron jobs on *nix type servers
+metrics:
+  updated: '2012-08-03T13:39:44Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

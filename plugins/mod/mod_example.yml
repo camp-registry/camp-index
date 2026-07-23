@@ -1,0 +1,18 @@
+component: mod_example
+source: https://github.com/davosmith/moodle-example
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Very simple example plugin, created for a presentation at the UK Moodle Moot
+  2014
+metrics:
+  updated: '2014-02-21T12:16:31Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

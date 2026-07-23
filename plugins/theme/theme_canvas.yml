@@ -1,0 +1,16 @@
+component: theme_canvas
+source: https://github.com/lazydaisy/moodle-theme_canvas
+maintainers:
+- github: lazydaisy
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2017-09-18T07:04:06Z'
+  stars: 0
+  forks: 4
+  open-issues: 6
+  archived: false
+  checked: '2026-07-23'

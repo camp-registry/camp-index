@@ -1,0 +1,17 @@
+component: gradereport_marking
+source: https://github.com/iandavidwild/moodle-gradebook-marking-report
+maintainers:
+- github: iandavidwild
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A Moodle course gradebook marking report to support anonymous double marking.
+metrics:
+  updated: '2013-02-13T23:02:37Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: mod_appear
+source: https://github.com/alokkumar341987/moodle-appear
+maintainers:
+- github: alokkumar341987
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Create a room and talk together
+metrics:
+  updated: '2015-07-19T12:44:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: tool_managecategories
+source: https://github.com/NHoumadi/moodle-tool_managecategories
+maintainers:
+- github: NHoumadi
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for managing course categories and category managers
+metrics:
+  updated: '2017-07-13T14:26:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

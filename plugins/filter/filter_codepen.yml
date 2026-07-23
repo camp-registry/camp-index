@@ -1,0 +1,17 @@
+component: filter_codepen
+source: https://github.com/thedannywahl/moodle2-codepen-textfilter
+maintainers:
+- github: thedannywahl
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A text filter for embedding Pens from codepen.io
+metrics:
+  updated: '2014-01-07T13:38:36Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

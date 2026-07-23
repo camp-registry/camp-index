@@ -1,0 +1,17 @@
+component: report_analytics
+source: https://github.com/ankitagarwal/moodle-report_analytics
+maintainers:
+- github: ankitagarwal
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Analytics report for Moodle
+metrics:
+  updated: '2015-03-12T03:13:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

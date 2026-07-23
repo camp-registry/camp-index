@@ -1,0 +1,18 @@
+component: mod_seguimiento
+source: https://github.com/jeysonvr/plugin-seguimiento_moodle
+maintainers:
+- github: jeysonvr
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Plugin (Extensión) para seguimiento de estudiantes y docentes, y envío de
+  alertas tempranas de acuerdo a parámetros configurables.
+metrics:
+  updated: '2018-01-19T17:19:43Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

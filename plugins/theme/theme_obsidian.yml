@@ -1,0 +1,17 @@
+component: theme_obsidian
+source: https://github.com/nrobbins/moodle_theme_obsidian
+maintainers:
+- github: nrobbins
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A high-contrast theme for Moodle 2.2 with extra block regions
+metrics:
+  updated: '2012-10-08T18:48:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

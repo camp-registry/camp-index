@@ -1,0 +1,18 @@
+component: block_get_certificate
+source: https://github.com/interlegis/moodle_get_certificate
+maintainers:
+- github: interlegis
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+summary: Moodle block to students access and print certificates of courses that are
+  concluded.
+metrics:
+  updated: '2016-08-03T20:19:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: theme_page
+source: https://github.com/vfremaux/moodle-theme_page
+maintainers:
+- github: vfremaux
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Some resource for integrting the Page format into existing themes
+metrics:
+  updated: '2015-06-18T09:38:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

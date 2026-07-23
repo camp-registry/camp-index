@@ -1,0 +1,17 @@
+component: antivirus_mimescanner
+source: https://github.com/ioannischristofis/moodle-mime-scanner
+maintainers:
+- github: ioannischristofis
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A MIME scanner for Moodle
+metrics:
+  updated: '2018-03-23T08:45:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

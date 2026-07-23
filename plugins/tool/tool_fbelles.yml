@@ -1,0 +1,17 @@
+component: tool_fbelles
+source: https://github.com/fbelles/moodle-tool_fbelles
+maintainers:
+- github: fbelles
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle Course Development Task I - Create a plugin
+metrics:
+  updated: '2018-09-17T10:33:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

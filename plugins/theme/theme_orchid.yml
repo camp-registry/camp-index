@@ -1,0 +1,16 @@
+component: theme_orchid
+source: https://github.com/Rishadi/moodle-theme_orchid
+maintainers:
+- github: Rishadi
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2017-01-30T10:13:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

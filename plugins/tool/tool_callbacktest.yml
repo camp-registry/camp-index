@@ -1,0 +1,17 @@
+component: tool_callbacktest
+source: https://github.com/brendanheywood/moodle-tool_callbacktest
+maintainers:
+- github: brendanheywood
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Tests for callbacks
+metrics:
+  updated: '2017-01-18T04:10:47Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

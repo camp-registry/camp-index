@@ -1,0 +1,18 @@
+component: local_wizardcategories
+source: https://github.com/cjcruzrivera/moodle-wizard_categories
+maintainers:
+- github: cjcruzrivera
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Plugin for moodle that facilitates the creation, modification and deletion
+  of categories and qualification items of a course
+metrics:
+  updated: '2018-08-01T18:22:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

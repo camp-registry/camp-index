@@ -1,0 +1,17 @@
+component: tool_massaction
+source: https://github.com/unikent/moodle-tool_massaction
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Mass actions admin tool
+metrics:
+  updated: '2015-06-05T10:13:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

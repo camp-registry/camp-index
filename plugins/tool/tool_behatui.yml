@@ -1,0 +1,17 @@
+component: tool_behatui
+source: https://github.com/marinaglancy/moodle-tool_behatui
+maintainers:
+- github: marinaglancy
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Tool for changing a theme and making screenshot in behat
+metrics:
+  updated: '2013-05-02T01:11:02Z'
+  stars: 8
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

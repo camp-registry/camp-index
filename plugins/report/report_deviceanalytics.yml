@@ -1,0 +1,17 @@
+component: report_deviceanalytics
+source: https://github.com/0x4Dark/moodle-report_deviceanalytics
+maintainers:
+- github: 0x4Dark
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Analytics Plugin for user device analytics
+metrics:
+  updated: '2017-08-25T12:44:14Z'
+  stars: 1
+  forks: 5
+  open-issues: 10
+  archived: true
+  checked: '2026-07-23'

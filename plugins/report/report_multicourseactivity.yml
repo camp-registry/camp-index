@@ -1,0 +1,16 @@
+component: report_multicourseactivity
+source: https://github.com/atlet/Moodle-Report_MulticourseActivity
+maintainers:
+- github: atlet
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+metrics:
+  updated: '2016-01-18T07:25:59Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

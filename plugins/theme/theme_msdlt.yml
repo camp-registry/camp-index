@@ -1,0 +1,17 @@
+component: theme_msdlt
+source: https://github.com/whanrott/moodle_theme_msdlt
+maintainers:
+- github: whanrott
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A moodle theme for the MSDLT team
+metrics:
+  updated: '2016-03-18T10:29:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

@@ -1,0 +1,20 @@
+component: mod_checkskill
+source: https://github.com/jfruitet/moodle_checkskill
+maintainers:
+- github: jfruitet
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: CheckSkill is a CheckList fork. I have made additions to the original code
+  to get some new functionnalities so I renamed it. Users may comment their tasks
+  / skills, add documents and import outcomes as lists of skills. Furthemore they
+  can export their lists to Mahara.
+metrics:
+  updated: '2015-12-13T17:56:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

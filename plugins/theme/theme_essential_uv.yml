@@ -1,0 +1,17 @@
+component: theme_essential_uv
+source: https://github.com/cjcruzrivera/moodle-theme_essential_uv
+maintainers:
+- github: cjcruzrivera
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Essential theme univalle's version
+metrics:
+  updated: '2018-09-03T22:45:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

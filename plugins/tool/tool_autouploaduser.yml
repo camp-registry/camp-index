@@ -1,0 +1,18 @@
+component: tool_autouploaduser
+source: https://github.com/michael-milette/moodle-tool_autouploaduser
+maintainers:
+- github: michael-milette
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Scheduled bulk user registration (add/update) from a comma separated (CSV)
+  file.
+metrics:
+  updated: '2018-07-03T18:09:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

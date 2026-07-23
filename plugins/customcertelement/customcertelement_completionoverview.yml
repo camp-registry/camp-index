@@ -1,0 +1,17 @@
+component: customcertelement_completionoverview
+source: https://github.com/dmitriim/moodle-customcertelement_completionoverview
+maintainers:
+- github: dmitriim
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Completion overview element for Custom certificate plugin https://moodle.org/plugins/mod_customcert
+metrics:
+  updated: '2018-07-20T04:41:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: engagementindicator_attendance
+source: https://github.com/danmarsden/moodle-engagementindicator_attendance
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: engagementindicator plugin for attendance module
+metrics:
+  updated: '2016-05-09T22:09:12Z'
+  stars: 4
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

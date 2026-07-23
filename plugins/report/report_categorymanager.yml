@@ -1,0 +1,18 @@
+component: report_categorymanager
+source: https://github.com/buwzim/moodle-report-category-manager
+maintainers:
+- github: buwzim
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: This report lets users be able to see who is a category manager in the current
+  course category.
+metrics:
+  updated: '2018-04-23T09:26:03Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

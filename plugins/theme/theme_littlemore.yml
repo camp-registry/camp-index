@@ -1,0 +1,17 @@
+component: theme_littlemore
+source: https://github.com/jagobrown/moodle-theme_littlemore
+maintainers:
+- github: jagobrown
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Bootstrap based Moodle (More) Theme
+metrics:
+  updated: '2014-07-10T20:56:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

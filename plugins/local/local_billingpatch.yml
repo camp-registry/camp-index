@@ -1,0 +1,17 @@
+component: local_billingpatch
+source: https://github.com/valentineus/moodle-billingpatch
+maintainers:
+- github: valentineus
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle patch system for internal use.
+metrics:
+  updated: '2017-12-12T18:41:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

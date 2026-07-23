@@ -1,0 +1,18 @@
+component: quiz_papercopy
+source: https://github.com/bumoodle/moodle-quiz_papercopy
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Paper Copy quiz report for Moodle- allows an instructor to create and grade
+  printable copies of Moodle Quizzes
+metrics:
+  updated: '2015-07-01T16:08:26Z'
+  stars: 1
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-07-23'

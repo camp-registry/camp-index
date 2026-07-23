@@ -1,0 +1,18 @@
+component: format_singlemod
+source: https://github.com/danmarsden/moodle-courseformat_singlemod
+maintainers:
+- github: danmarsden
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Generic version of SCORM format that allows any module to display if module
+  adds a function _course_format_display()
+metrics:
+  updated: '2012-01-10T08:29:32Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

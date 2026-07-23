@@ -1,0 +1,17 @@
+component: local_tagger
+source: https://github.com/RyanNutt/moodle-tagger
+maintainers:
+- github: RyanNutt
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+summary: An attempt at making question tagging a little more useful in Moodle
+metrics:
+  updated: '2015-04-05T20:21:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-07-23'

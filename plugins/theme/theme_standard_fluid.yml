@@ -1,0 +1,17 @@
+component: theme_standard_fluid
+source: https://github.com/freshbreeze/Moodle_Themes_Standard-Fluid
+maintainers:
+- github: freshbreeze
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Extends a standard moodle theme to a fluid template
+metrics:
+  updated: '2013-02-01T11:26:27Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

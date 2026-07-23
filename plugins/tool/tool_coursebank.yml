@@ -1,0 +1,17 @@
+component: tool_coursebank
+source: https://github.com/catalyst/moodle-tool_coursebank
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: CourseBank is a cloud backup service for Moodle courses
+metrics:
+  updated: '2018-09-23T23:43:10Z'
+  stars: 3
+  forks: 5
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

@@ -1,0 +1,16 @@
+component: report_engagement
+source: https://github.com/dannyliu-mq/moodle-report_engagement
+maintainers:
+- github: dannyliu-mq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2016-05-31T05:02:43Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

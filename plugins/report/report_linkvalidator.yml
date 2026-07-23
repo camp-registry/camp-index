@@ -1,0 +1,17 @@
+component: report_linkvalidator
+source: https://github.com/PeloNZ/moodle-report_linkvalidator
+maintainers:
+- github: PeloNZ
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle report for validating links within course activities.
+metrics:
+  updated: '2014-04-03T22:33:08Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

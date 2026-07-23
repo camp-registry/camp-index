@@ -1,0 +1,16 @@
+component: theme_lernstar
+source: https://github.com/dasistwas/moodle-theme_lernstar
+maintainers:
+- github: dasistwas
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2014-07-27T14:06:55Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

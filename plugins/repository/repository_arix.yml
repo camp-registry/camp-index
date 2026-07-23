@@ -1,0 +1,17 @@
+component: repository_arix
+source: https://github.com/antaresprojectgmbh/arix-moodle
+maintainers:
+- github: antaresprojectgmbh
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle Antares repository
+metrics:
+  updated: '2017-10-18T11:02:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

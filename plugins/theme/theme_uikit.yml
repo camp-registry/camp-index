@@ -1,0 +1,17 @@
+component: theme_uikit
+source: https://github.com/eduramiba/moodle-theme-uikit
+maintainers:
+- github: eduramiba
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: UIKit theme for Moodle ⛺
+metrics:
+  updated: '2016-02-12T16:30:58Z'
+  stars: 2
+  forks: 1
+  open-issues: 10
+  archived: false
+  checked: '2026-07-23'

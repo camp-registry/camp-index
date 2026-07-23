@@ -1,0 +1,17 @@
+component: quiz_cheattracking
+source: https://github.com/sachintharajith/moodle-activity_cheattracking
+maintainers:
+- github: sachintharajith
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Track cheating in Online Moodle Quizzes
+metrics:
+  updated: '2012-03-23T18:18:56Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

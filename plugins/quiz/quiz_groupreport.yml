@@ -1,0 +1,16 @@
+component: quiz_groupreport
+source: https://github.com/martinvivek/moodle_quiz_groupreport
+maintainers:
+- github: martinvivek
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2016-10-12T20:04:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

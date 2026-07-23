@@ -1,0 +1,17 @@
+component: theme_pencil
+source: https://github.com/roelmann/moodle-theme_pencil
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A minimalist child of Waxed (maybe able to make more minimal!)
+metrics:
+  updated: '2017-10-03T17:22:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

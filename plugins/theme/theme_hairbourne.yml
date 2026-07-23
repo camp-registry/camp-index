@@ -1,0 +1,16 @@
+component: theme_hairbourne
+source: https://github.com/gjb2048/moodle-theme_hairbourne
+maintainers:
+- github: gjb2048
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2016-03-26T20:23:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

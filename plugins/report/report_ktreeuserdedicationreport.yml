@@ -1,0 +1,16 @@
+component: report_ktreeuserdedicationreport
+source: https://github.com/KtreeOpenSource/moodle--Reports-_-KTree-User-Dedication-Report--2.6
+maintainers:
+- github: KtreeOpenSource
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2015-07-02T19:24:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-07-23'

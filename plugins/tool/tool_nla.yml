@@ -1,0 +1,17 @@
+component: tool_nla
+source: https://github.com/mattporritt/moodle-tool_nla
+maintainers:
+- github: mattporritt
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Native Learning Analytics (NLA) for the Moodle LMS
+metrics:
+  updated: '2017-12-03T05:56:12Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

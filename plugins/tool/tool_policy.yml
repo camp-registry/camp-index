@@ -1,0 +1,18 @@
+component: tool_policy
+source: https://github.com/moodlehq/moodle-tool_policy
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin allowing to manage various policy documents that users have
+  to accept with to use the site.
+metrics:
+  updated: '2018-09-07T08:40:26Z'
+  stars: 2
+  forks: 7
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

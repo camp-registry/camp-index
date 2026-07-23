@@ -1,0 +1,17 @@
+component: queue_beanstalk
+source: https://github.com/unikent/moodle-queue_beanstalk
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Beanstalkd Queue
+metrics:
+  updated: '2016-04-15T09:58:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

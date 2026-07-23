@@ -1,0 +1,17 @@
+component: theme_fsgs
+source: https://github.com/roelmann/moodle-theme_fsgs
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A clone of Chris' Fordson theme for Brian Rigwald
+metrics:
+  updated: '2017-10-02T21:15:04Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

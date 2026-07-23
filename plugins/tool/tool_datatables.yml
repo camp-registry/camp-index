@@ -1,0 +1,17 @@
+component: tool_datatables
+source: https://github.com/fredcy/moodle-tool_datatables
+maintainers:
+- github: fredcy
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin providing DataTables features to HTML tables
+metrics:
+  updated: '2017-03-10T16:38:31Z'
+  stars: 3
+  forks: 3
+  open-issues: 4
+  archived: false
+  checked: '2026-07-23'

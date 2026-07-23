@@ -1,0 +1,17 @@
+component: filter_streaming
+source: https://github.com/bumoodle/moodle-filter_streaming
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A modified version of the JWPlayer filter for use at Binghamton University
+metrics:
+  updated: '2013-08-22T20:08:01Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

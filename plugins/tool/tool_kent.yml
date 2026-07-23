@@ -1,0 +1,17 @@
+component: tool_kent
+source: https://github.com/unikent/moodle-tool_kent
+maintainers:
+- github: unikent
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Kent Moodle tools - DEPRECATED
+metrics:
+  updated: '2016-02-18T16:19:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

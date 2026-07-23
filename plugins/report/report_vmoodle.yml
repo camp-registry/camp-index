@@ -1,0 +1,17 @@
+component: report_vmoodle
+source: https://github.com/ken4ward/moodle-report_vmoodle
+maintainers:
+- github: ken4ward
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A report extension to VMoodle
+metrics:
+  updated: '2018-10-08T14:29:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

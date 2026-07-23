@@ -1,0 +1,17 @@
+component: theme_bumoodle
+source: https://github.com/bumoodle/moodle-theme_bumoodle
+maintainers:
+- github: bumoodle
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Binghamton University theme for Moodle
+metrics:
+  updated: '2014-08-20T04:43:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

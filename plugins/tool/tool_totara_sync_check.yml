@@ -1,0 +1,16 @@
+component: tool_totara_sync_check
+source: https://github.com/catalyst/moodle-tool_totara_sync_check
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2018-04-30T04:16:45Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

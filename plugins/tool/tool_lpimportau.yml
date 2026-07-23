@@ -1,0 +1,16 @@
+component: tool_lpimportau
+source: https://github.com/damyon/moodle-tool_lpimportau
+maintainers:
+- github: damyon
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2016-04-14T11:53:26Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

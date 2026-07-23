@@ -1,0 +1,18 @@
+component: tool_oauth2owncloud
+source: https://github.com/learnweb/moodle-tool_oauth2owncloud
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: '[ARCHIVE] 🔐  Admin Tool for using ownCloud''s OAuth 2.0 implementation in
+  Moodle'
+metrics:
+  updated: '2017-08-08T13:09:30Z'
+  stars: 2
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-23'

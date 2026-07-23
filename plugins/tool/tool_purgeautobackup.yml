@@ -1,0 +1,17 @@
+component: tool_purgeautobackup
+source: https://github.com/CSAffluents/moodle-tool_purgeautobackup
+maintainers:
+- github: CSAffluents
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: This tool purge all the external auto backup files from deleted courses
+metrics:
+  updated: '2015-08-04T09:08:25Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: report_groupgen
+source: https://github.com/oliverguenther/moodle-groupgen
+maintainers:
+- github: oliverguenther
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A simple plugin for creating groups based on timeslices
+metrics:
+  updated: '2012-02-07T20:55:23Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

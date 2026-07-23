@@ -1,0 +1,17 @@
+component: qformat_qml
+source: https://github.com/lucisgit/moodle-qformat_qml
+maintainers:
+- github: lucisgit
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Import Questionmark QML files into the Moodle question bank.
+metrics:
+  updated: '2018-11-13T10:10:48Z'
+  stars: 3
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

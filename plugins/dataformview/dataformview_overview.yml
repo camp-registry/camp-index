@@ -1,0 +1,19 @@
+component: dataformview_overview
+source: https://github.com/itamart/moodle-dataformview_overview
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: This is a minimal Dataform view add-on which can be used for displaying activity
+  information in the Course overview block. This view type extends the grid type and
+  as such has the same layout and behavior as the grid type.
+metrics:
+  updated: '2016-05-15T23:56:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: theme_clean_brg4
+source: https://github.com/8bitcoderookie/moodle-theme_clean_brg4
+maintainers:
+- github: 8bitcoderookie
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: Apache-2.0
+summary: Moodle Theme based on Bootstrap based clean standard theme
+metrics:
+  updated: '2015-12-11T00:26:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

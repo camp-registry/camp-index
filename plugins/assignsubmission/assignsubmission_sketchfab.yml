@@ -1,0 +1,17 @@
+component: assignsubmission_sketchfab
+source: https://github.com/jethac/moodle-assign-submission-sketchfab
+maintainers:
+- github: jethac
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Sketchfab submission plugin for Moodle 2.7+.
+metrics:
+  updated: '2014-10-01T17:08:17Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-07-23'

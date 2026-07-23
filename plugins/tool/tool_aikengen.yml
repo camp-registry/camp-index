@@ -1,0 +1,17 @@
+component: tool_aikengen
+source: https://github.com/jaymal/moodle-tool_aikengen
+maintainers:
+- github: jaymal
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: An aiken file format generoator
+metrics:
+  updated: '2016-07-30T10:16:09Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

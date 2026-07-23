@@ -1,0 +1,18 @@
+component: tool_capexplorer
+source: https://github.com/simoncoggins/moodle-tool_capexplorer
+maintainers:
+- github: simoncoggins
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Capability Explorer is Moodle plugin to help explain how Moodle's capability
+  system works.
+metrics:
+  updated: '2017-09-09T11:00:32Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: tool_lpimportcsv
+source: https://github.com/moodlehq/moodle-tool_lpimportcsv
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: CSV Import and Export for Competency Frameworks
+metrics:
+  updated: '2016-05-24T04:31:20Z'
+  stars: 1
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

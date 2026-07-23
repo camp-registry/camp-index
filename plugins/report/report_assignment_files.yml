@@ -1,0 +1,18 @@
+component: report_assignment_files
+source: https://github.com/RussellEngland/moodle-report_assignment_files
+maintainers:
+- github: RussellEngland
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-2.0
+summary: 'Moodle report : List all assignment files for all courses and / or user
+  https://moodle.org/plugins/view.php?plugin=report_assignment_files'
+metrics:
+  updated: '2013-10-05T20:47:59Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

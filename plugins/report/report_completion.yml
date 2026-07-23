@@ -1,0 +1,18 @@
+component: report_completion
+source: https://github.com/jgsmitty/Moodle-Force-Completion
+maintainers:
+- github: jgsmitty
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Allows use of Moodle completion report to force completion status of individual
+  users and activities.
+metrics:
+  updated: '2013-02-25T16:08:27Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: theme_sdc2013
+source: https://github.com/vaughany/moodle-theme_sdc2013
+maintainers:
+- github: vaughany
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Our in-development theme for 2.5 for Sept 2013 onwards.
+metrics:
+  updated: '2013-07-18T09:21:16Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

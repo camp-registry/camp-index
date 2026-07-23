@@ -1,0 +1,17 @@
+component: gradereport_gradesgg
+source: https://github.com/cjcruzrivera/moodle-gradereport_gradesgg
+maintainers:
+- github: cjcruzrivera
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Plugin for moodle that generate grades grafics
+metrics:
+  updated: '2018-09-04T04:53:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

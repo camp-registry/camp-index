@@ -1,0 +1,16 @@
+component: report_tincan
+source: https://github.com/garemoko/moodle-report_tincan
+maintainers:
+- github: garemoko
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2015-01-06T16:31:57Z'
+  stars: 2
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-07-23'

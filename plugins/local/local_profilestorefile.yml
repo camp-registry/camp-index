@@ -1,0 +1,17 @@
+component: local_profilestorefile
+source: https://github.com/prg3/moodle_profilestorefile
+maintainers:
+- github: prg3
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: This uses a call back in Moodle to write dump data to a set of files.
+metrics:
+  updated: '2018-08-06T22:53:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

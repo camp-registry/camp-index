@@ -1,0 +1,17 @@
+component: block_iclicker
+source: https://github.com/azeckoski/iclicker-moodle2-integrate
+maintainers:
+- github: azeckoski
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: i>clicker Moodle 2.x Integrate plugin
+metrics:
+  updated: '2016-05-10T20:09:54Z'
+  stars: 0
+  forks: 4
+  open-issues: 3
+  archived: false
+  checked: '2026-07-23'

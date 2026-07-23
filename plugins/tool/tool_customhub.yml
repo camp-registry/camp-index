@@ -1,0 +1,18 @@
+component: tool_customhub
+source: https://github.com/moodlehq/moodle-tool_customhub
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Allows to register and publish courses with custom hubs in Moodle 3.4.1 and
+  above
+metrics:
+  updated: '2017-11-24T02:44:33Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

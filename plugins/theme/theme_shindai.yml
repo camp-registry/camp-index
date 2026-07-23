@@ -1,0 +1,17 @@
+component: theme_shindai
+source: https://github.com/eALPS/moodle-theme_shindai
+maintainers:
+- github: eALPS
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: 信州大学用Moodleテーマ
+metrics:
+  updated: '2013-09-05T10:37:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

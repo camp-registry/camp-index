@@ -1,0 +1,17 @@
+component: gradereport_newgradereport
+source: https://github.com/danielneis/moodle-gradereport_newgradereport
+maintainers:
+- github: danielneis
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A grade report template for Moodle based on http://docs.moodle.org/dev/Gradebook_reports
+metrics:
+  updated: '2017-10-22T22:30:22Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

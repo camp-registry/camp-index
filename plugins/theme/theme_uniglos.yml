@@ -1,0 +1,17 @@
+component: theme_uniglos
+source: https://github.com/roglos/moodle-theme_uniglos
+maintainers:
+- github: roglos
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Theme for University of Gloucestershire
+metrics:
+  updated: '2016-10-27T13:48:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-07-23'

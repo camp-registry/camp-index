@@ -1,0 +1,17 @@
+component: tool_datacert
+source: https://github.com/interlegis/moodle-tool_datacert
+maintainers:
+- github: interlegis
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Plugin para alterar data de certificados
+metrics:
+  updated: '2018-06-06T21:28:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

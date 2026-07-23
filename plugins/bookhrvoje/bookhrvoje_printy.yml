@@ -1,0 +1,17 @@
+component: bookhrvoje_printy
+source: https://github.com/IPA-Lets-Study-Together/moodle-bookhrvoje_printy
+maintainers:
+- github: IPA-Lets-Study-Together
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: 'ACT1: TESTING - BOOK SUBPLUGIN'
+metrics:
+  updated: '2014-03-11T13:24:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

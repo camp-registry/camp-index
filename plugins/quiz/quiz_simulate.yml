@@ -1,0 +1,18 @@
+component: quiz_simulate
+source: https://github.com/jamiepratt/moodle-quiz_simulate
+maintainers:
+- github: jamiepratt
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Moodle quiz report plug in that allows the upload of a csv file to simulate
+  student quiz attempts.
+metrics:
+  updated: '2014-05-21T07:48:58Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

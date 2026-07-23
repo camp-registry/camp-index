@@ -1,0 +1,17 @@
+component: gradeexport_externalsystem
+source: https://github.com/antonio-c-mariani/moodle-gradeexport-externalsystem
+maintainers:
+- github: antonio-c-mariani
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Export grades from Moodle to an external system
+metrics:
+  updated: '2016-11-09T22:29:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: report_wordcloud
+source: https://github.com/nadavkav/moodle-report_wordcloud
+maintainers:
+- github: nadavkav
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Uses wordcloud2.js to display WordCloud of Moodle forum posts
+metrics:
+  updated: '2017-01-28T09:46:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

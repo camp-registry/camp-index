@@ -1,0 +1,17 @@
+component: theme_tresipunt
+source: https://github.com/3iPunt/tresipunt_moodle_theme
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: This theme is based on Boost theme
+metrics:
+  updated: '2017-08-23T07:28:17Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

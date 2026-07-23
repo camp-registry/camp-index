@@ -1,0 +1,16 @@
+component: theme_boost_child
+source: https://github.com/Saitaku/moodle_boost_child_theme
+maintainers:
+- github: Saitaku
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2017-07-14T03:28:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

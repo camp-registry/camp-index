@@ -1,0 +1,18 @@
+component: theme_cleantheme
+source: https://github.com/shashitechno/moodle-theme_cleantheme
+maintainers:
+- github: shashitechno
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: moodle-theme_cleantheme shows how the results evaluted from course search
+  plugin are displayed. It is based on bootstrap clean theme.
+metrics:
+  updated: '2013-10-05T17:34:53Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

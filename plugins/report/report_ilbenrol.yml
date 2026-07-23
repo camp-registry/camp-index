@@ -1,0 +1,17 @@
+component: report_ilbenrol
+source: https://github.com/interlegis/moodle_report_ilbenrol
+maintainers:
+- github: interlegis
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Report para confirmação de matrícula para cursos com tutoria
+metrics:
+  updated: '2018-10-16T16:54:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

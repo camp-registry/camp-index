@@ -1,0 +1,17 @@
+component: tool_dravek
+source: https://github.com/dravek/moodle-tool_dravek
+maintainers:
+- github: dravek
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: To Do list Moodle plugin
+metrics:
+  updated: '2018-08-09T14:18:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

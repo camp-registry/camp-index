@@ -1,0 +1,16 @@
+component: theme_solent2017
+source: https://github.com/erovskib/moodle-theme_solent2017
+maintainers:
+- github: erovskib
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2018-02-21T10:25:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

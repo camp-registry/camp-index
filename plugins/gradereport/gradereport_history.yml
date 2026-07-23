@@ -1,0 +1,16 @@
+component: gradereport_history
+source: https://github.com/netspotau/moodle-gradereport_history
+maintainers:
+- github: netspotau
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2014-07-10T06:19:19Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

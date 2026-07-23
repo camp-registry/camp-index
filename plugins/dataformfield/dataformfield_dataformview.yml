@@ -1,0 +1,18 @@
+component: dataformfield_dataformview
+source: https://github.com/itamart/moodle-dataformfield_dataformview
+maintainers:
+- github: itamart
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A dataformfield plugin for Moodle dataform module that displays the content
+  of a selected dataform view with optional filtering based on entry content.
+metrics:
+  updated: '2015-10-10T08:22:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

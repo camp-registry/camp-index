@@ -1,0 +1,18 @@
+component: theme_stageone
+source: https://github.com/roelmann/moodle-theme_stageone
+maintainers:
+- github: roelmann
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: VERY minimalist child theme for theme_boost. No settings - development starter
+  only.
+metrics:
+  updated: '2017-03-23T22:37:45Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

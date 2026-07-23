@@ -1,0 +1,18 @@
+component: local_inventory
+source: https://github.com/fenilo/moodle_inventory
+maintainers:
+- github: fenilo
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Este repo contiene un plugin local de moodle dedicado a el inventario de
+  laboratorios
+metrics:
+  updated: '2015-05-18T17:41:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

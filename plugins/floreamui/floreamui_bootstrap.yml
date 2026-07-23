@@ -1,0 +1,18 @@
+component: floreamui_bootstrap
+source: https://github.com/AVADOLearning/moodle-floreamui_bootstrap
+maintainers:
+- github: AVADOLearning
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Bringing Bootstrap to developers that care more about their users than being
+  able to change the underlying frontend framework
+metrics:
+  updated: '2018-08-06T11:54:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

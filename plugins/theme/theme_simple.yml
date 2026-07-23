@@ -1,0 +1,17 @@
+component: theme_simple
+source: https://github.com/freshbreeze/Moodle_Themes_Simple_2.2
+maintainers:
+- github: freshbreeze
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Simple moodle theme, follows the best practice of responsive web design.
+metrics:
+  updated: '2013-03-04T16:43:36Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'

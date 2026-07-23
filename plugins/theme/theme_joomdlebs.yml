@@ -1,0 +1,17 @@
+component: theme_joomdlebs
+source: https://github.com/3-bits/moodle-theme_joomdlebs
+maintainers:
+- github: 3-bits
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: moodle theme for Joomdle sites based in Bootstrap
+metrics:
+  updated: '2018-05-14T21:56:22Z'
+  stars: 2
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-07-23'

@@ -1,0 +1,17 @@
+component: qformat_qtitwo
+source: https://github.com/jmvedrine/moodle-qformat_qtitwo
+maintainers:
+- github: jmvedrine
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: Updated version of Brian King IMS QTI 2.0 question exporter for Moodle
+metrics:
+  updated: '2018-05-09T16:55:10Z'
+  stars: 4
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'
