@@ -1,8 +1,12 @@
 component: report_benchmark
 source: https://github.com/mikasmart/moodle-report_benchmark
 maintainers:
+- github: martignoni
 - github: mikasmart
-tier: 0
+tier: 1
+security-contact: https://github.com/mikasmart/moodle-report_benchmark/security
+labels:
+- fully-free
 status: active
 discovered: '2026-07-10'
 releases: []
