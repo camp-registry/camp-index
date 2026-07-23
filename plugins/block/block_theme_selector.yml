@@ -2,7 +2,10 @@ component: block_theme_selector
 source: https://github.com/gjbarnard/moodle-block_theme_selector
 maintainers:
 - github: gjbarnard
-tier: 0
+security-contact: https://github.com/gjbarnard/moodle-block_theme_selector/security/advisories/new
+labels:
+- fully-free
+tier: 1
 status: active
 discovered: '2026-07-23'
 releases: []
