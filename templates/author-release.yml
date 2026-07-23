@@ -10,10 +10,9 @@
 #   4. opens a pull request against the camp index with the new release
 #      appended to your plugin's entry.
 #
-# NOTE: the personal-access-token PR flow is the bootstrap mechanism. It is
-# being replaced by registry-side publishing (an hourly tag watcher plus an
-# instant "publish release" issue form on camp-index), after which this
-# workflow becomes an optional fast path and the token can be retired.
+# NOTE: the personal-access-token PR flow is the bootstrap mechanism. A
+# registry-side publishing design that would retire the token is under
+# discussion (camp-registry/camp-index#66).
 
 name: Publish release to camp
 
