@@ -96,4 +96,8 @@ jobs:
           git config user.name "camp project"
           git config user.email "noreply@camp-registry.org"
           git commit -m "discovery scan (scheduled)"
+          # main moves during a multi-hour sweep (enrich, claims, release
+          # PRs); replay our commit on top so the push isn't rejected as
+          # non-fast-forward. Anonymous read works on a public repo.
+          git pull --rebase origin main
           git push "https://x-access-token:${{ steps.push-app.outputs.token }}@github.com/${{ github.repository }}.git" HEAD:main
