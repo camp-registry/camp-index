@@ -2275,10 +2275,11 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   FMCorz/moodle-filter_stash:
-    outcome: exists
-    detail: component filter_stash already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#53)
+    component: filter_stash
     first-seen: '2026-07-10'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-23'
   FMCorz/moodle-local_xp:
     outcome: exists
     detail: component local_xp already registered (first-come, RFC §8)
@@ -2295,10 +2296,12 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   FMCorz/moodle-webservice_restful:
-    outcome: exists
-    detail: component webservice_restful already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#52, name handed to the
+      production plugin)
+    component: webservice_restful
     first-seen: '2026-07-10'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-23'
   FPVirtual/fp-virtual-plugin-edicion-materiales:
     outcome: needs-review
     detail: declares local_educaaragon but repo name does not correspond; human sign-off
@@ -14545,10 +14548,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   catalyst/moodle-webservice_restful:
-    outcome: exists
-    detail: component webservice_restful already indexed this run
+    outcome: written
+    detail: listed as webservice_restful
     first-seen: '2026-07-10'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-23'
   catalyst/moodle_tool_blocksmanager:
     outcome: written
     detail: listed as tool_blocksmanager
@@ -28004,21 +28007,58 @@ repos:
     detail: listed as format_tabbedtopics
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
+  marxjohnson/moodle-block_course_appointments:
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#43)
+    component: block_course_appointments
+    first-seen: '2026-07-23'
+    last-checked: '2026-07-23'
+  marxjohnson/moodle-block_lanonly:
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#47)
+    component: block_lanonly
+    first-seen: '2026-07-23'
+    last-checked: '2026-07-23'
   marxjohnson/moodle-block_messageteacher:
     outcome: exists
     detail: component block_messageteacher already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  marxjohnson/moodle-block_metalink:
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#44)
+    component: block_metalink
+    first-seen: '2026-07-23'
+    last-checked: '2026-07-23'
+  marxjohnson/moodle-block_papercut:
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#42)
+    component: block_papercut
+    first-seen: '2026-07-23'
+    last-checked: '2026-07-23'
+  marxjohnson/moodle-block_parentseve:
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#45)
+    component: block_parentseve
+    first-seen: '2026-07-23'
+    last-checked: '2026-07-23'
+  marxjohnson/moodle-block_tutorlink:
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#46)
+    component: block_tutorlink
+    first-seen: '2026-07-23'
+    last-checked: '2026-07-23'
   marxjohnson/moodle-local_activitypub:
     outcome: exists
     detail: component local_activitypub already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   marxjohnson/moodle-local_configeditor:
-    outcome: exists
-    detail: component local_configeditor already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#48)
+    component: local_configeditor
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-23'
   marxjohnson/moodle-local_progressreview:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master

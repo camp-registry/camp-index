@@ -1,17 +1,17 @@
 component: webservice_restful
-source: https://github.com/FMCorz/moodle-webservice_restful
+source: https://github.com/catalyst/moodle-webservice_restful
 maintainers:
-- github: FMCorz
+- github: catalyst
 tier: 0
 status: active
-discovered: '2026-07-10'
+discovered: '2026-07-23'
 releases: []
-summary: RESTful web service API for Moodle
 license: GPL-3.0
+summary: A REStful webservice plugin for Moodle LMS
 metrics:
-  updated: '2017-09-28T13:18:59Z'
-  stars: 15
-  forks: 7
-  open-issues: 0
+  updated: '2025-10-13T23:53:11Z'
+  stars: 40
+  forks: 32
+  open-issues: 18
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-23'
