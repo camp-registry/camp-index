@@ -32519,6 +32519,11 @@ repos:
     detail: listed as tool_simpletool
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
+  gjbarnard/moodle-block_theme_selector:
+    outcome: written
+    detail: listed as block_theme_selector
+    first-seen: '2026-07-23'
+    last-checked: '2026-07-23'
   gjbarnard/moodle-filter_synhi:
     outcome: exists
     detail: component filter_synhi already registered (first-come, RFC §8)

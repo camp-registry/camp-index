@@ -1,0 +1,17 @@
+component: block_theme_selector
+source: https://github.com/gjbarnard/moodle-block_theme_selector
+maintainers:
+- github: gjbarnard
+tier: 0
+status: active
+discovered: '2026-07-23'
+releases: []
+license: GPL-3.0
+summary: A block to quickly change themes. Great for theme developers!
+metrics:
+  updated: '2026-04-24T12:59:36Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-07-23'
