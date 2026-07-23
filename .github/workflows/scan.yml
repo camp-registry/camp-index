@@ -38,9 +38,12 @@ jobs:
           app-id: ${{ vars.AUTOMATION_APP_ID }}
           private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
 
+      # No persisted credentials: the job-start token expires after one
+      # hour and a full sweep runs longer, so the push authenticates with
+      # a fresh token minted at push time instead.
       - uses: actions/checkout@v4
         with:
-          token: ${{ steps.app.outputs.token }}
+          persist-credentials: false
 
       - uses: actions/setup-python@v5
         with:
@@ -73,6 +76,16 @@ jobs:
           --recheck-days ${{ inputs.recheck-days || '45' }}
           ${{ inputs.dry-run == 'true' && '--dry-run' || '' }}
 
+      # App installation tokens live one hour; a multi-hour sweep outlives
+      # the token minted at job start (the first real run died exactly
+      # here), so the push gets its own freshly minted token.
+      - name: Mint push token
+        id: push-app
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.AUTOMATION_APP_ID }}
+          private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+
       - name: Push new listings and ledger
         run: |
           git add plugins discovery
@@ -83,4 +96,4 @@ jobs:
           git config user.name "camp project"
           git config user.email "noreply@camp-registry.org"
           git commit -m "discovery scan (scheduled)"
-          git push origin main
+          git push "https://x-access-token:${{ steps.push-app.outputs.token }}@github.com/${{ github.repository }}.git" HEAD:main
