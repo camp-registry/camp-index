@@ -1,0 +1,32 @@
+name: Publish release
+description: "Ask the registry to publish a tagged release of your claimed plugin right now. Instant, no token or CI setup needed."
+title: "Publish: <component> <tag>"
+labels: ["publish-release"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        This works for **claimed** plugins (Tier 1+) and the request must
+        come from a GitHub account listed under the entry's `maintainers`.
+        The tag must already be pushed to the listed source repository.
+        The registry validates the request, builds the release record, and
+        opens the release PR itself; you'll get a comment here with the
+        result within a few minutes. Alternative paths: do nothing (the
+        registry checks claimed repositories for new tags hourly) or run
+        your own release workflow (AUTHORS.md Step 2).
+  - type: input
+    id: component
+    attributes:
+      label: Component
+      description: "The plugin's frankenstyle name"
+      placeholder: mod_example
+    validations:
+      required: true
+  - type: input
+    id: tag
+    attributes:
+      label: Tag
+      description: "The git tag to publish, exactly as pushed"
+      placeholder: v1.2.3
+    validations:
+      required: true

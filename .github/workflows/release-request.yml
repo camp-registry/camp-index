@@ -1,0 +1,190 @@
+# Instant, tokenless publishing (#66): a maintainer files a
+# "Publish release" issue (component + tag), this workflow validates it,
+# runs the release flow registry-side, opens the release PR as the
+# automation app, and reports back on the issue.
+#
+# Decisions recorded on #66: the bot replies and closes autonomously,
+# both on success and on clear-cut validation failure (with the reason).
+# Unexpected internal errors leave the issue open under needs-human.
+#
+# Trust model: nothing here bypasses verification. Repository ownership
+# was proven at claim time, the tag must exist in the listed source
+# repository, and the resulting PR goes through the same independent
+# index-pr rebuild/verify gate as any other release PR before a human
+# merges it.
+
+name: Publish-release requests
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  request:
+    if: contains(github.event.issue.labels.*.name, 'publish-release')
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.27"
+
+      - name: Validate the request
+        id: check
+        env:
+          BODY: ${{ github.event.issue.body }}
+          AUTHOR: ${{ github.event.issue.user.login }}
+        run: |
+          python3 - <<'EOF'
+          import os, re, subprocess, sys
+
+          import yaml
+
+          def out(key, value):
+              with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+                  fh.write(f"{key}={value}\n")
+
+          def refuse(reason):
+              out("verdict", "refused")
+              out("reason", reason)
+              sys.exit(0)
+
+          body = os.environ["BODY"]
+          author = os.environ["AUTHOR"].lower()
+
+          def field(name):
+              m = re.search(rf"### {name}\s*\n+([^\n]+)", body)
+              return m.group(1).strip() if m else ""
+
+          component = field("Component")
+          tag = field("Tag")
+          out("component", component)
+          out("tag", tag)
+
+          if not re.fullmatch(r"[a-z][a-z0-9]*_[a-z][a-z0-9_]*", component):
+              refuse(f"`{component or '(empty)'}` is not a frankenstyle component name.")
+          if not re.fullmatch(r"[A-Za-z0-9._/-]+", tag or ""):
+              refuse("The tag field is empty or contains characters a git tag cannot.")
+
+          path = f"plugins/{component.split('_', 1)[0]}/{component}.yml"
+          if not os.path.exists(path):
+              refuse(f"No listing exists for `{component}`.")
+          entry = yaml.safe_load(open(path))
+
+          if entry.get("tier", 0) < 1:
+              refuse(f"`{component}` is not claimed yet (Tier 0). Claiming comes first "
+                     "so the registry knows who is authorized to publish: see AUTHORS.md Step 1.")
+
+          handles = [str(m.get("github", "")).lower()
+                     for m in entry.get("maintainers", []) if isinstance(m, dict)]
+          if author not in [h for h in handles if h]:
+              refuse(f"@{os.environ['AUTHOR']} is not listed under `maintainers` for "
+                     f"`{component}`, and only listed maintainers can request publication. "
+                     "If you should be, claim ownership first (AUTHORS.md Step 1).")
+
+          if any(str(r.get("tag", "")) == tag for r in entry.get("releases") or []):
+              refuse(f"`{tag}` is already recorded in the `{component}` release ledger; "
+                     "releases are immutable, so re-publishing a tag is never needed. "
+                     "Fix mistakes by tagging a new version.")
+
+          source = entry.get("source", "")
+          out("source", source)
+          out("entry", path)
+          probe = subprocess.run(["git", "ls-remote", "--tags", source, f"refs/tags/{tag}"],
+                                 capture_output=True, text=True, timeout=60)
+          if probe.returncode != 0:
+              refuse(f"Could not reach the listed source repository ({source}).")
+          if not probe.stdout.strip():
+              refuse(f"Tag `{tag}` does not exist in {source}. Push the tag first, "
+                     "then request again.")
+
+          out("verdict", "ok")
+          EOF
+
+      - name: Close refused requests with the reason
+        if: steps.check.outputs.verdict == 'refused'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REASON: ${{ steps.check.outputs.reason }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} \
+            --repo ${{ github.repository }} \
+            --body "Request refused: ${REASON}
+
+          (Automated validation, per the registry-side publishing design, #66.)"
+          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
+
+      - name: Clone the source at the tag
+        if: steps.check.outputs.verdict == 'ok'
+        run: |
+          git clone --branch "${{ steps.check.outputs.tag }}" \
+            "${{ steps.check.outputs.source }}" /tmp/plugin
+
+      - name: Compute and append the release record
+        if: steps.check.outputs.verdict == 'ok'
+        run: |
+          camp release "${{ steps.check.outputs.entry }}" \
+            "${{ steps.check.outputs.tag }}" --source /tmp/plugin
+
+      - name: Mint app token
+        if: steps.check.outputs.verdict == 'ok'
+        id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ vars.AUTOMATION_APP_ID }}
+          private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+
+      # The app (not GITHUB_TOKEN) must open the PR: PRs created with the
+      # workflow's own token never trigger other workflows, so the required
+      # index-pr verification would sit at "Expected" forever.
+      - name: Open the release PR
+        if: steps.check.outputs.verdict == 'ok'
+        id: pr
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ steps.app.outputs.token }}
+          branch: release-request/${{ steps.check.outputs.component }}-${{ steps.check.outputs.tag }}
+          commit-message: "${{ steps.check.outputs.component }}: release ${{ steps.check.outputs.tag }}"
+          title: "${{ steps.check.outputs.component }}: release ${{ steps.check.outputs.tag }}"
+          body: |
+            Release requested by a listed maintainer in #${{ github.event.issue.number }};
+            record computed registry-side (#66). camp CI will independently
+            rebuild the artifact from the tag and verify the recorded hashes
+            before this can merge.
+
+      - name: Report success and close
+        if: steps.check.outputs.verdict == 'ok'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} \
+            --repo ${{ github.repository }} \
+            --body "Done: release PR opened as #${{ steps.pr.outputs.pull-request-number }}.
+          It merges once registry CI has independently rebuilt and verified
+          the artifact from your tag. (Automated, per #66.)"
+          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
+
+      # Internal errors are not the requester's fault: keep the issue open
+      # and flag it instead of closing (decision 2 covers clear-cut
+      # validation refusals only).
+      - name: Flag unexpected failures for a human
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} \
+            --repo ${{ github.repository }} \
+            --body "Something went wrong on the registry side while processing
+          this request (not a problem with your input). Leaving this open for
+          a human to investigate. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          gh label create needs-human --repo ${{ github.repository }} --force 2>/dev/null || true
+          gh issue edit ${{ github.event.issue.number }} \
+            --repo ${{ github.repository }} --add-label needs-human
