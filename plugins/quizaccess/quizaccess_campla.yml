@@ -15,3 +15,4 @@ metrics:
   archived: false
   checked: '2026-07-11'
 summary: moodle-quizarchivecampla
+security: https://github.com/lucaboesch/moodle-quizaccess_campla/security
