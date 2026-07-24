@@ -15322,10 +15322,11 @@ repos:
     first-seen: '2026-07-24'
     last-checked: '2026-07-24'
   adamjenkins/moodle-tool_imageoptimize:
-    outcome: written
-    detail: listed as tool_imageoptimize
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#87, renamed to tool_imageoptimizer)
+    component: tool_imageoptimize
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-24'
   adamjenkins/moodle-tool_imageoptimizer:
     outcome: written
     detail: listed as tool_imageoptimizer
