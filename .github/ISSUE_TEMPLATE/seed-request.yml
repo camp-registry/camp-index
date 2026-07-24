@@ -1,0 +1,44 @@
+name: Seed request
+description: "Ask for a missing plugin to be added as a discovered (Tier 0) listing."
+title: "Seed request: <component>"
+labels: ["seed-request"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Use this when your plugin should be in the index but isn't: the
+        repository was created after the last discovery sweep, or it is a
+        GitHub-flagged fork (which automatic discovery skips; common after
+        a maintainer takeover). The registry runs a targeted scan that
+        performs the standard acceptance checks and seeds the listing,
+        which you can then claim (AUTHORS.md Step 1). There is no need to
+        hand-write an index entry.
+  - type: input
+    id: component
+    attributes:
+      label: Component
+      description: "The plugin's frankenstyle name, e.g. mod_example"
+      placeholder: mod_example
+    validations:
+      required: true
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      description: "The plugin's public source repository URL"
+      placeholder: https://github.com/you/moodle-mod_example
+    validations:
+      required: true
+  - type: checkboxes
+    id: eligibility
+    attributes:
+      label: Eligibility
+      options:
+        - label: "The repository is public, GPL-family licensed, and has a version.php at its root declaring this component"
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything you want us to know (optional)
+    validations:
+      required: false
