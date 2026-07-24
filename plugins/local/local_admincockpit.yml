@@ -1,0 +1,20 @@
+component: local_admincockpit
+source: https://github.com/tkorner/moodle-local_admincockpit
+maintainers:
+- github: tkorner
+security-contact: https://github.com/tkorner/moodle-local_admincockpit/security/advisories/new
+tier: 1
+labels:
+- fully-free
+status: active
+discovered: '2026-07-24'
+releases: []
+summary: 'Admin overview page for Moodle: per-school user/course metrics, health signals with click-through actions, and admin shortcuts'
+license: GPL-3.0
+metrics:
+  updated: '2026-07-23T14:33:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-24'
