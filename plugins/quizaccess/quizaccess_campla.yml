@@ -2,11 +2,13 @@ component: quizaccess_campla
 source: https://github.com/lucaboesch/moodle-quizaccess_campla
 maintainers:
 - github: lucaboesch
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-10'
 releases: []
 license: GPL-3.0
+labels:
+- fully-free
 metrics:
   updated: '2026-04-29T05:55:47Z'
   stars: 0
@@ -15,4 +17,4 @@ metrics:
   archived: false
   checked: '2026-07-11'
 summary: Moodle quiz access plugin to allow for easy configuration of CAMPLA exams.
-security: https://github.com/lucaboesch/moodle-quizaccess_campla/security
+security-contact: https://github.com/lucaboesch/moodle-quizaccess_campla/security/advisories/new
