@@ -2,10 +2,24 @@ component: quizaccess_campla
 source: https://github.com/lucaboesch/moodle-quizaccess_campla
 maintainers:
 - github: lucaboesch
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v5.2-r1
+  tag: main
+  commit: b887ff4ee2081a0c24d8df123edc1288392ba9d8
+  moodle-version: 2026033101
+  supported-moodle:
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 692a484055ad7c591f0d488027052eaa0f1653ceb0665e6c6e69e07122d81acb
+  published: '2026-07-24T14:36:52Z'
+  released: '2026-07-24T14:35:03Z'
+  listing-sha256: 52d224b7193d2d522cfcc2462e4d33d2fd2467810b4a241748ceba9bf8af3dbe
 license: GPL-3.0
 labels:
 - fully-free
