@@ -1,14 +1,17 @@
 component: block_configurable_reports
-source: https://gitlab.com/angela-araujo/moodle-block_configurablereports
+source: https://github.com/jleyva/moodle-block_configurablereports
 maintainers:
-- gitlab: angela-araujo
-tier: 0
+- github: jleyva
+tier: 1
+security-contact: https://github.com/jleyva/moodle-block_configurablereports/issues/new
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: This block is a Moodle custom reports builder. You can create custom reports
   without SQL knowledge. It's a tool suitable for admins or teachers.
+labels:
+- fully-free
 metrics:
   updated: '2021-10-29T14:55:37.274Z'
   stars: 0
