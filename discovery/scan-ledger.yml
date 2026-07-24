@@ -43120,15 +43120,17 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lucaboesch/moodle-local_ws_fileassistant:
-    outcome: exists
-    detail: component local_ws_fileassistant already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#92, superseded by local_rsync)
+    component: local_ws_fileassistant
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-24'
   lucaboesch/moodle-local_ws_pocketcampus:
-    outcome: written
-    detail: listed as local_ws_pocketcampus
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#89)
+    component: local_ws_pocketcampus
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-24'
   lucaboesch/moodle-mod_openbook:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -43147,10 +43149,11 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   lucaboesch/moodle-quiz_datawarehouse:
-    outcome: written
-    detail: listed as quiz_datawarehouse
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#90, renamed successor)
+    component: quiz_datawarehouse
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-24'
   lucaboesch/moodle-quizaccess_antiai:
     outcome: written
     detail: listed as quizaccess_antiai
@@ -43162,11 +43165,12 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lucaboesch/moodle-quizaccess_safeexambrowser:
-    outcome: exists
-    detail: component quizaccess_safeexambrowser already registered (first-come, RFC
-      §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#88, superseded by core
+      SEB support)
+    component: quizaccess_safeexambrowser
     first-seen: '2026-07-10'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-24'
   lucaboesch/moodle-quizaccess_sebserver_v1:
     outcome: name-collision
     detail: independent repository declaring quizaccess_sebserver, held by https://github.com/ethz-let/moodle-quizaccess_sebserver;
@@ -43180,10 +43184,11 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   lucaboesch/moodle-tiny_bfhfontcolor:
-    outcome: written
-    detail: listed as tiny_bfhfontcolor
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#91, replaced by tiny_fontcolor)
+    component: tiny_bfhfontcolor
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-24'
   lucaboesch/moodle_local_noactivitiesnotemptyactualcourses:
     outcome: exists
     detail: component local_noactivitiesnotemptyactualcourses already registered (first-come,
