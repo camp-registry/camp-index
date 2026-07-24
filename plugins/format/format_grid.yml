@@ -1,8 +1,13 @@
 component: format_grid
-source: https://github.com/unitec-moodle/moodle_311_plugin_course_format_grid
+source: https://github.com/gjbarnard/moodle-format_grid
 maintainers:
-- github: unitec-moodle
-tier: 0
+- github: gjbarnard
+security-contact: https://github.com/gjbarnard/moodle-format_grid/security/advisories/new
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
