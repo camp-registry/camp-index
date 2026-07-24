@@ -3,12 +3,28 @@ source: https://github.com/LdesignMedia/moodle-local_commander
 maintainers:
 - github: LdesignMedia
 security-contact: https://github.com/LdesignMedia/moodle-local_commander/security/advisories/new
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: 5.1.3
+  tag: v5.1.3
+  commit: a661bd261d6453be9d9ebf84bd7eae39f0533e48
+  moodle-version: 2026070302
+  supported-moodle:
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: 0a459916e3bb5b8c6d4fe3710a545ffbc1586335cbee194745930cbb59c80b1c
+  published: '2026-07-24T13:22:40Z'
+  released: '2026-07-24T11:46:24Z'
+  listing-sha256: b56dbfb45ded99302eae838ce64b1dc6644bc4c5c1b069d6423f70526b3f43d8
 summary: Quick navigation - local plugin for Moodle 3.x
 license: GPL-3.0
 metrics:
