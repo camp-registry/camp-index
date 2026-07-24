@@ -2,11 +2,15 @@ component: mod_jitsi
 source: https://github.com/SergioComeron/moodle-mod_jitsi
 maintainers:
 - github: SergioComeron
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-10'
+security-contact: https://github.com/SergioComeron/moodle-mod_jitsi/security
+labels:
+  - fully-free
+  - external-account
 releases: []
-summary: Plugin Jitsi viceoconference for Moodle
+summary: Jitsi videoconference plugin for Moodle
 license: GPL-3.0
 metrics:
   updated: '2026-07-10T17:16:14Z'
