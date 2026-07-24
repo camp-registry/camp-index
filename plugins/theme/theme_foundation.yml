@@ -2,7 +2,12 @@ component: theme_foundation
 source: https://github.com/gjbarnard/moodle-theme_foundation
 maintainers:
 - github: gjbarnard
-tier: 0
+security-contact: https://github.com/gjbarnard/moodle-theme_foundation/security/advisories/new
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+tier: 1
 status: active
 discovered: '2026-07-10'
 releases: []
