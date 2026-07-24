@@ -1,0 +1,16 @@
+component: tool_imageoptimizer
+source: https://github.com/adamjenkins/moodle-tool_imageoptimizer
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-24'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-07-13T04:56:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-24'

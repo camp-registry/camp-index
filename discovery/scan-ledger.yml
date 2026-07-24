@@ -15316,11 +15316,26 @@ repos:
     detail: listed as tool_activitydates
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
+  adamjenkins/moodle-tool_gradesort:
+    outcome: written
+    detail: listed as tool_gradesort
+    first-seen: '2026-07-24'
+    last-checked: '2026-07-24'
   adamjenkins/moodle-tool_imageoptimize:
     outcome: written
     detail: listed as tool_imageoptimize
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
+  adamjenkins/moodle-tool_imageoptimizer:
+    outcome: written
+    detail: listed as tool_imageoptimizer
+    first-seen: '2026-07-24'
+    last-checked: '2026-07-24'
+  adamjenkins/moodle-tool_timelocker:
+    outcome: written
+    detail: listed as tool_timelocker
+    first-seen: '2026-07-24'
+    last-checked: '2026-07-24'
   adamjenkins/moodle-tool_videooptimize:
     outcome: written
     detail: listed as tool_videooptimize

@@ -1,0 +1,17 @@
+component: tool_timelocker
+source: https://github.com/adamjenkins/moodle-tool_timelocker
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-24'
+releases: []
+license: GPL-3.0
+summary: A tool for scheduling the locking of grades in a course gradebook.
+metrics:
+  updated: '2026-07-17T08:48:03Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-24'
