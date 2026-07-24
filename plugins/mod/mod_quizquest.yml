@@ -2,7 +2,7 @@ component: mod_quizquest
 source: https://github.com/adamjenkins/moodle-mod_quizquest
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -15,3 +15,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
+security-contact: https://github.com/adamjenkins/moodle-mod_quizquest/security
+labels:
+- fully-free

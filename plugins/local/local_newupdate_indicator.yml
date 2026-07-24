@@ -2,7 +2,7 @@ component: local_newupdate_indicator
 source: https://github.com/adamjenkins/moodle-local_newupdate_indicator
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -16,3 +16,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
+security-contact: https://github.com/adamjenkins/moodle-local_newupdate_indicator/security
+labels:
+- fully-free

@@ -2,7 +2,7 @@ component: tiny_timezone
 source: https://github.com/adamjenkins/moodle-tiny_timezone
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -15,3 +15,6 @@ metrics:
   archived: false
   checked: '2026-07-11'
 summary: Timezone date/time (Tiny editor plugin)
+security-contact: https://github.com/adamjenkins/moodle-tiny_timezone/security
+labels:
+- fully-free

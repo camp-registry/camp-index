@@ -2,7 +2,7 @@ component: block_worldclock
 source: https://github.com/adamjenkins/moodle-block_worldclock
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -15,3 +15,6 @@ metrics:
   archived: false
   checked: '2026-07-11'
 summary: A Moodle block that displays the current time in multiple timezones. It can
+security-contact: https://github.com/adamjenkins/moodle-block_worldclock/security
+labels:
+- fully-free
