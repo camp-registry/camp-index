@@ -2,13 +2,29 @@ component: filter_shortcodes
 source: https://github.com/branchup/moodle-filter_shortcodes
 maintainers:
 - github: branchup
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/branchup/moodle-filter_shortcodes/security
 labels:
-  - fully-free
-releases: []
+- fully-free
+releases:
+- version: 1.1.3
+  tag: v1.1.3
+  commit: 9ec9ca2ae5873c2be42696c97d0ab8195fcf504b
+  moodle-version: 2026041800
+  supported-moodle:
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 888adf6b8bdfdf2a380ef1aeef8e0dd608d93f4de1471ce2e28e0d17641eabb3
+  published: '2026-07-25T05:21:15Z'
+  released: '2026-04-18T00:19:49Z'
 license: GPL-3.0
 summary: Enables users to easily inject and modify content using shortcodes provided
   by other Moodle plugins.
