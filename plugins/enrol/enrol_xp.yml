@@ -2,14 +2,30 @@ component: enrol_xp
 source: https://github.com/branchup/moodle-enrol_xp
 maintainers:
 - github: branchup
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-10'
 security-contact: https://github.com/branchup/moodle-enrol_xp/security
 labels:
-  - fully-free
-  - commercial-support-available
-releases: []
+- fully-free
+- commercial-support-available
+releases:
+- version: 1.0.7
+  tag: v1.0.7
+  commit: 6e7bc3a6dbb24c732994bc09ba2cfa17ef9e8c5a
+  moodle-version: 2026042000
+  supported-moodle:
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 7aba6e879af8ff8e0b921188c394c273d194ceb243af802939f8595e0d828f49
+  published: '2026-07-25T05:37:14Z'
+  released: '2026-04-20T14:53:05Z'
 summary: Enrol users in courses when a certain level from Level up! is attained.
 license: GPL-3.0
 metrics:
