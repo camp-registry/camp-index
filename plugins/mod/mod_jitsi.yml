@@ -2,14 +2,24 @@ component: mod_jitsi
 source: https://github.com/SergioComeron/moodle-mod_jitsi
 maintainers:
 - github: SergioComeron
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-10'
 security-contact: https://github.com/SergioComeron/moodle-mod_jitsi/security
 labels:
-  - fully-free
-  - external-account
-releases: []
+- fully-free
+- external-account
+releases:
+- version: 5.4.0
+  tag: v5.4.0
+  commit: c67fc9f371a2012d44f1848fa9aa86bd48d44a79
+  moodle-version: 2026072501
+  supported-moodle:
+  - '4.5'
+  zip-sha256: acf64deb1ed9dba490d7672fd82a39391ae6a334200408ea59c2821f874ab734
+  published: '2026-07-25T07:26:18Z'
+  released: '2026-07-25T07:05:08Z'
+  listing-sha256: 88cc96bb7be5d41839458b37a1b2d5ff0402f8ea7936da824fc00166d8d41ba5
 summary: Jitsi videoconference plugin for Moodle
 license: GPL-3.0
 metrics:
