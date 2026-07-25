@@ -2,10 +2,23 @@ component: block_openbook
 source: https://github.com/lucaboesch/moodle-block_openbook
 maintainers:
 - github: lucaboesch
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v5.2-r4
+  tag: main
+  commit: 563d5c608c02dfd9dc82e3e34f06bf06982705fa
+  moodle-version: 2026052600
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 0b744dfa2db2992a9d5bf76354c4a2be41fb801ff9755f37c7bcbc16209bb7c1
+  published: '2026-07-25T13:26:31Z'
+  released: '2026-07-25T11:19:40Z'
+  listing-sha256: ad8b4e69ba63757b54236391dac5ea3c45c1a774883db7344e8a16d16b50ca09
 license: GPL-3.0
 metrics:
   updated: '2026-05-26T16:39:59Z'
@@ -14,7 +27,8 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: The Openbook Resource Block provides links to files provided by a Openbook Resource Folder (mod_openbook).
+summary: The Openbook Resource Block provides links to files provided by a Openbook
+  Resource Folder (mod_openbook).
 security-contact: https://github.com/lucaboesch/moodle-block_openbook/security/advisories/new
 labels:
 - fully-free
