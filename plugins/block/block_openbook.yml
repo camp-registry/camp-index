@@ -2,7 +2,7 @@ component: block_openbook
 source: https://github.com/lucaboesch/moodle-block_openbook
 maintainers:
 - github: lucaboesch
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,4 +14,7 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: Openbook Resource Block
+summary: The Openbook Resource Block provides links to files provided by a Openbook Resource Folder (mod_openbook).
+security-contact: https://github.com/lucaboesch/moodle-block_openbook/security/advisories/new
+labels:
+- fully-free
