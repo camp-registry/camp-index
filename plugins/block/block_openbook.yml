@@ -1,7 +1,8 @@
 component: block_openbook
 source: https://github.com/lucaboesch/moodle-block_openbook
 maintainers:
-- github: lucaboesch
+- name: Luca Bösch
+  github: lucaboesch
 tier: 2
 status: active
 discovered: '2026-07-11'
