@@ -5,6 +5,9 @@ maintainers:
 tier: 0
 status: active
 discovered: '2026-07-11'
+security-contact: https://github.com/justinhunt/moodle-mod_minilesson/security
+labels: 
+ - paid-service
 releases: []
 license: GPL-3.0
 summary: Poodll Mini Lesson
