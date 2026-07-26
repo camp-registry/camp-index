@@ -2,15 +2,30 @@ component: mod_minilesson
 source: https://github.com/justinhunt/moodle-mod_minilesson
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/justinhunt/moodle-mod_minilesson/security/advisories/new
 labels:
-  - paid-service
-  - external-account
-  - commercial-support-available
-releases: []
+- paid-service
+- external-account
+- commercial-support-available
+releases:
+- version: 1.1.45
+  tag: v1.1.45
+  commit: ac671a317be1f1716e6aa9302a26fe71ced34e7b
+  moodle-version: 2026072600
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: be38d92938c351692497a65f78936ec1ff8510a6e82232786c5bf0d2117e9baa
+  published: '2026-07-26T13:27:58Z'
+  released: '2026-07-26T13:25:36Z'
+  listing-sha256: a910f11c0b02bc773bd306578f65ec91a40de836d34eb58fe4e04b738d0e38ba
 license: GPL-3.0
 summary: Poodll Mini Lesson
 metrics:
