@@ -2,7 +2,10 @@ component: mod_kahoodle
 source: https://github.com/marinaglancy/moodle-mod_kahoodle
 maintainers:
 - github: marinaglancy
-tier: 0
+tier: 1
+security-contact: https://github.com/marinaglancy/moodle-mod_kahoodle/security/advisories
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
