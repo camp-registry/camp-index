@@ -11,6 +11,7 @@ releases: []
 license: GPL-3.0
 labels:
 - freemium
+- external-account
 - commercial-support-available
 metrics:
   updated: '2026-06-21T13:00:32Z'
