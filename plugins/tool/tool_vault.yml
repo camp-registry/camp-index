@@ -4,10 +4,23 @@ maintainers:
 - github: lmscloud-io
 - github: marinaglancy
 security-contact: https://github.com/lmscloud-io/moodle-tool_vault/security/advisories
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 4.5.2
+  tag: v4.5.2
+  commit: 2eaec6078bd7fd75fb0297deb8fbd630a2b3b47e
+  moodle-version: 2026072600
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 2eb7f42bcb84ec92e259612ec98c1053761e0dd19a5fd9569dad856c9ed1c935
+  published: '2026-07-26T17:35:12Z'
+  released: '2026-07-26T17:00:32Z'
+  listing-sha256: f2a85e3ff1743dc92d56c69b9c519f95a8bac27d9575e813c987c882abdf1fcc
 license: GPL-3.0
 labels:
 - freemium
