@@ -1,8 +1,11 @@
 component: tool_courserating
-source: https://github.com/harble/moodle_tool_courserating
+source: https://github.com/marinaglancy/moodle_tool_courserating
 maintainers:
-- github: harble
-tier: 0
+- github: marinaglancy
+tier: 1
+security-contact: https://github.com/marinaglancy/moodle-tool_courserating/security/advisories
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
