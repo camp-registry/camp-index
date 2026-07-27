@@ -1,7 +1,8 @@
 component: tool_moodlebox
 source: https://github.com/moodlebox/moodle-tool_moodlebox
 maintainers:
-- github: martignoni
+- name: Nicolas Martignoni
+  github: martignoni
 tier: 2
 security-contact: https://github.com/moodlebox/moodle-tool_moodlebox/security
 labels:
