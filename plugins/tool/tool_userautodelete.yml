@@ -2,12 +2,11 @@ component: tool_userautodelete
 source: https://github.com/ngandrass/moodle-tool_userautodelete
 maintainers:
 - github: ngandrass
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-10'
 releases: []
-summary: A Moodle plugin that manages the full lifecycle of Moodle user accounts using
-  freely configurable, multistep workflows.
+summary: Automatically manages the full lifecycle of Moodle user accounts using freely configurable, multistep workflows. Various filters and actions are available and can easily be extended by custom subplugins.
 license: GPL-3.0
 metrics:
   updated: '2026-07-09T09:51:59Z'
@@ -16,3 +15,9 @@ metrics:
   open-issues: 2
   archived: false
   checked: '2026-07-11'
+security-contact: https://github.com/ngandrass/moodle-tool_userautodelete/security
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+
