@@ -3,10 +3,24 @@ source: https://github.com/marinaglancy/moodle-format_flexsections
 maintainers:
 - github: marinaglancy
 security-contact: https://github.com/marinaglancy/moodle-format_flexsections/security
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: 4.1.6
+  tag: v4.1.6
+  commit: 7b9de9382635a81fc5657e0999aef285110ec2b1
+  moodle-version: 2024120803
+  supported-moodle:
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  zip-sha256: c1cab90dea114764320f0758784f9726588106988e423b22993c69b04f095ae4
+  published: '2026-07-27T08:01:32Z'
+  released: '2026-07-26T22:18:07Z'
+  listing-sha256: ea7386fed5aec6c09b003b74201a9da6a4ce32be92b5c9c83450302edefddb35
 license: GPL-3.0
 labels:
 - fully-free
@@ -17,4 +31,5 @@ metrics:
   open-issues: 21
   archived: false
   checked: '2026-07-11'
-summary: 'Organises course content in any number of sections that can be nested. Each section can be displayed on the same page or on a separate page'
+summary: Organises course content in any number of sections that can be nested. Each
+  section can be displayed on the same page or on a separate page
