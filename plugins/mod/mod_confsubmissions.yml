@@ -2,7 +2,7 @@ component: mod_confsubmissions
 source: https://github.com/adamjenkins/moodle-mod_confsubmissions
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -15,3 +15,6 @@ metrics:
   archived: false
   checked: '2026-07-11'
 summary: Conference Submissions — a Moodle activity for running a call for abstracts.
+security-contact: https://github.com/adamjenkins/moodle-mod_confsubmissions/security
+labels:
+- fully-free

@@ -2,7 +2,7 @@ component: mod_confscheduler
 source: https://github.com/adamjenkins/moodle-mod_confscheduler
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -17,3 +17,6 @@ metrics:
 summary: Conference Scheduler — a Moodle activity that turns the accepted submissions
   from modconfprogram into a drag-and-drop time × room schedule, with autoscheduling
   and print/export support.
+security-contact: https://github.com/adamjenkins/moodle-mod_confscheduler/security
+labels:
+- fully-free
