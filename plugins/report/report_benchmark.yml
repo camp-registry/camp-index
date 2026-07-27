@@ -3,13 +3,33 @@ source: https://github.com/mikasmart/moodle-report_benchmark
 maintainers:
 - github: martignoni
 - github: mikasmart
-tier: 1
+tier: 2
 security-contact: https://github.com/mikasmart/moodle-report_benchmark/security
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v1.5.4
+  tag: master
+  commit: 5b82922dd14d28d015149c251e8bb723f551db62
+  moodle-version: 2026022600
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: 7c4225788d1fc5c60a5021b69eecef8b00112b6aac17766ddc5d4842192a1a21
+  published: '2026-07-27T07:30:00Z'
+  released: '2026-07-23T18:04:36Z'
+  listing-sha256: dc71b309951763af9fc1d16f213ad448f57f412cd4010229894684d7caab14fa
 summary: Moodle Plugins Repository
 license: GPL-3.0
 metrics:
