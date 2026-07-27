@@ -15,7 +15,7 @@ metrics:
   open-issues: 13
   archived: false
   checked: '2026-07-11'
-security-conhttps://github.com/ngandrass/moodle-quiz_archiver/security
+security-contact: https://github.com/ngandrass/moodle-quiz_archiver/security
 labels:
 - fully-free
 - donation-supported
