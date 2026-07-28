@@ -9,9 +9,22 @@ labels:
 - fully-free
 - commercial-support-available
 status: active
-releases: []
+releases:
+- version: v1.64
+  tag: v1.64
+  commit: db386bdec3400f9bcd89fcbedb1f6194327a16cc
+  moodle-version: 2023041301
+  supported-moodle:
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  zip-sha256: 6c0bacf64b41d8b20cf9099e83a5829714a99478c3429465af3aa94b6c32a39e
+  listing-sha256: 6ae72eabae998d33d2a577ee5479b6da5d27069b8012961c4bf1da4fd2203aa5
+  published: '2026-07-28T19:50:54Z'
+  released: '2026-07-28T19:43:44Z'
 license: GPL-3.0
-summary: A Moodle plugin that allows the launching of xAPI content using the Rustici
+summary: >-
+  A Moodle plugin that allows the launching of xAPI content using the Rustici
   Launch Method.
 metrics:
   updated: '2026-05-15T14:32:44Z'
