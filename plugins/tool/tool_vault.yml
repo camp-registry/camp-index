@@ -21,6 +21,26 @@ releases:
   published: '2026-07-26T17:35:12Z'
   released: '2026-07-26T17:00:32Z'
   listing-sha256: f2a85e3ff1743dc92d56c69b9c519f95a8bac27d9575e813c987c882abdf1fcc
+- version: 3.9.19
+  tag: v3.9.19
+  commit: 396e197aca56031180eee7bd4228ab3a9ab46070
+  moodle-version: 2026030203
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: acb80552938e349d1569882ea6aa079bff5cf406811d2425279d3996167400c3
+  published: '2026-07-28T13:14:29Z'
+  released: '2026-07-26T17:09:16Z'
+  listing-sha256: f2a85e3ff1743dc92d56c69b9c519f95a8bac27d9575e813c987c882abdf1fcc
 license: GPL-3.0
 labels:
 - freemium
