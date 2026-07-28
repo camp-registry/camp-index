@@ -30,6 +30,27 @@ releases:
   published: '2026-07-27T07:30:00Z'
   released: '2026-07-23T18:04:36Z'
   listing-sha256: dc71b309951763af9fc1d16f213ad448f57f412cd4010229894684d7caab14fa
+- version: v1.5.5
+  tag: v1.5.5
+  commit: b25aa64796543a548b0f4ee43a3936a1c47b414e
+  moodle-version: 2026072700
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: b8fdd929eb59f3b7a8a42e85aa2018e1504152eb3e37739ef358c77868d39a54
+  published: '2026-07-28T16:28:32Z'
+  released: '2026-07-27T14:41:54Z'
+  listing-sha256: dc71b309951763af9fc1d16f213ad448f57f412cd4010229894684d7caab14fa
 summary: Moodle Plugins Repository
 license: GPL-3.0
 metrics:
