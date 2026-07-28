@@ -2,7 +2,7 @@ component: block_oerexchangeshares
 source: https://github.com/adamjenkins/moodle-block_oerexchangeshares
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-27'
 releases: []
@@ -14,3 +14,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-27'
+security-contact: https://github.com/adamjenkins/moodle-block_oerexchangeshares/security
+labels:
+- fully-free
