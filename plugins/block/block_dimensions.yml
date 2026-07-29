@@ -7,7 +7,7 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: A Moodle block plugin that turns the learner's active learning plans into a dashboard of visual cards: learning plan cards with a competency progress trail, and competency cards giving direct access to each competency's courses.
+summary: "A Moodle block plugin that turns the learner's active learning plans into a dashboard of visual cards: learning plan cards with a competency progress trail, and competency cards giving direct access to each competency's courses."
 metrics:
   updated: '2026-07-13T20:31:43Z'
   stars: 0
