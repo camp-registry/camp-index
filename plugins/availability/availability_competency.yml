@@ -2,7 +2,7 @@ component: availability_competency
 source: https://github.com/uaiblaine/moodle-availability_competency
 maintainers:
 - github: uaiblaine
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -16,3 +16,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-27'
+security-contact: https://github.com/uaiblaine/moodle-availability_competency/security
+labels:
+- fully-free
