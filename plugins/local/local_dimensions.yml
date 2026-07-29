@@ -2,12 +2,12 @@ component: local_dimensions
 source: https://github.com/uaiblaine/moodle-local_dimensions
 maintainers:
 - github: uaiblaine
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: See your learning path in a new dimension.
+summary: This plugin for Moodle expands the native competency framework with new visual interfaces, admin panels, and full custom fields support, all without creating new database tables.
 metrics:
   updated: '2026-07-12T02:17:08Z'
   stars: 1
@@ -15,3 +15,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
+security-contact: https://github.com/uaiblaine/moodle-local_dimensions/security
+labels:
+- fully-free
