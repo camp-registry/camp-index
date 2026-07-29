@@ -3,10 +3,22 @@ source: https://github.com/adamjenkins/moodle-local_oerexchange
 source-repo-id: 1304614077
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-27'
-releases: []
+releases:
+- version: 1.0.1
+  tag: v1.0.1
+  commit: 384d3001245e177752db918496561d4ca47bed4c
+  moodle-version: 2026072901
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: a330ad35a4db2994bb988f21349e00d1bf4617b8e5f585742e6af06708891d84
+  listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
+  published: '2026-07-29T09:39:08Z'
+  released: '2026-07-29T09:22:42Z'
 license: GPL-3.0
 summary: An exchange plugin to enable Open Educational Resource sharing
 metrics:
