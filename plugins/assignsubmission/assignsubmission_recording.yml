@@ -1,5 +1,6 @@
 component: assignsubmission_recording
 source: https://github.com/adamjenkins/moodle-assignsubmission_recording
+source-repo-id: 1269704604
 maintainers:
 - github: adamjenkins
 tier: 1

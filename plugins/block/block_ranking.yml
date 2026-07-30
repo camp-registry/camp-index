@@ -14,4 +14,7 @@ metrics:
   forks: 19
   open-issues: 10
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: MOODLE_32
+    date: '2016-12-07T20:27:19Z'
+  checked: '2026-07-29'

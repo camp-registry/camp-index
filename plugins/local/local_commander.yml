@@ -1,5 +1,6 @@
 component: local_commander
 source: https://github.com/LdesignMedia/moodle-local_commander
+source-repo-id: 126647267
 maintainers:
 - github: LdesignMedia
 security-contact: https://github.com/LdesignMedia/moodle-local_commander/security/advisories/new

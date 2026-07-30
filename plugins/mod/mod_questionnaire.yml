@@ -1,5 +1,6 @@
 component: mod_questionnaire
 source: https://github.com/PoetOS/moodle-mod_questionnaire
+source-repo-id: 3139914
 maintainers:
 - github: PoetOS
 - github: mchurchward

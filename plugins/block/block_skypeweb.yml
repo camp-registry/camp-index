@@ -11,7 +11,10 @@ summary: Skype block for Moodle
 metrics:
   updated: '2023-06-13T17:54:34Z'
   stars: 7
-  forks: 12
+  forks: 11
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.7.0.0
+    date: '2019-07-29T22:15:37Z'
+  checked: '2026-07-29'

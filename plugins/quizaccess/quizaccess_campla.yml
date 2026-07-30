@@ -1,5 +1,6 @@
 component: quizaccess_campla
 source: https://github.com/lucaboesch/moodle-quizaccess_campla
+source-repo-id: 872855914
 maintainers:
 - name: Luca Bösch
   github: lucaboesch

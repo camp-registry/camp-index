@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2023090700'
+    date: '2023-09-07T23:07:18Z'
+  checked: '2026-07-29'
 summary: A block containing shortcuts to course reports.

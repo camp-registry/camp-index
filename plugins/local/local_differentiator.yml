@@ -1,5 +1,6 @@
 component: local_differentiator
 source: https://github.com/lucaboesch/moodle-local_differentiator
+source-repo-id: 153530863
 maintainers:
 - name: Luca Bösch
   github: lucaboesch

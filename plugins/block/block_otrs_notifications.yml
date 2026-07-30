@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: moodle-block_otrs_notifications-1.0
+    date: '2015-10-20T10:41:19Z'
+  checked: '2026-07-29'
 summary: OTRS Notifications Block

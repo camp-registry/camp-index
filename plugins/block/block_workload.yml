@@ -10,9 +10,9 @@ summary: Moodle block plugin for student workload recording with statistics and 
   management
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T14:35:01Z'
+  updated: '2026-07-16T06:15:13Z'
   stars: 0
   forks: 0
-  open-issues: 5
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-30'

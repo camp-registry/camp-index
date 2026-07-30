@@ -11,7 +11,10 @@ summary: Moodle block plugin to recommend courses to users.
 metrics:
   updated: '2026-04-10T21:15:38Z'
   stars: 5
-  forks: 0
-  open-issues: 0
+  forks: 1
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.2.0
+    date: '2026-04-10T21:15:38Z'
+  checked: '2026-07-29'

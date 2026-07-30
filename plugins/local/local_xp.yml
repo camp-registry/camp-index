@@ -1,5 +1,6 @@
 component: local_xp
 source: https://github.com/FMCorz/moodle-local_xp
+source-repo-id: 98981682
 maintainers:
 - github: FMCorz
 tier: 1
@@ -7,7 +8,7 @@ status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/FMCorz/moodle-local_xp/security
 labels:
-  - commercial-support-available
+- commercial-support-available
 releases: []
 license: GPL-3.0
 summary: Add-on for Moodle plugin Level up!

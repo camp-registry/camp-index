@@ -1,5 +1,6 @@
 component: enrol_xp
 source: https://github.com/branchup/moodle-enrol_xp
+source-repo-id: 125036529
 maintainers:
 - github: branchup
 tier: 2

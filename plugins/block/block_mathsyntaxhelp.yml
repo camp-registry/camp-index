@@ -1,5 +1,6 @@
 component: block_mathsyntaxhelp
 source: https://github.com/ngandrass/moodle-block_mathsyntaxhelp
+source-repo-id: 1089562385
 maintainers:
 - github: ngandrass
 tier: 1

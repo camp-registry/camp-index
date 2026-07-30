@@ -1,5 +1,6 @@
 component: tool_activitydates
 source: https://github.com/adamjenkins/moodle-tool_activitydates
+source-repo-id: 1297402625
 maintainers:
 - github: adamjenkins
 tier: 1

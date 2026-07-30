@@ -2,7 +2,7 @@ component: local_course_checker
 source: https://github.com/ffhs/moodle-local_course_checker
 maintainers:
 - github: ffhs
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -18,3 +18,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
+security-contact: https://github.com/ffhs/moodle-local_course_checker/security
+labels:
+- fully-free

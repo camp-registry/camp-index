@@ -1,0 +1,20 @@
+id: CAMP-2026-0005
+component: report_benchmark
+title: Defective publication record, withdrawn (not a security issue)
+severity: low
+affected-versions: =v1.5.4
+fixed-in: v1.5.5
+revoke: true
+published: '2026-07-29T00:00:00Z'
+description: >
+  Not a vulnerability. The v1.5.4 release record was published from a
+  workflow run whose ref was the default branch rather than a tag, so
+  the ledger recorded tag "master" at the then-current commit. The
+  recorded artifact hash is intact and the archived ZIP matches it,
+  but the record references a moveable ref and can never verify again,
+  and the maintainer's real v1.5.4 tag points at a different commit
+  than what was published. The version is withdrawn from installation
+  channels; v1.5.5, built at an immutable tag, supersedes it. Sites
+  that installed v1.5.4 got code identical to the archived artifact
+  and should simply upgrade to v1.5.5. Tooling now refuses non-tag
+  refs at publication (camp-tools#15).

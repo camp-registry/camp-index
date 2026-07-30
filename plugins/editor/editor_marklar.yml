@@ -1,5 +1,6 @@
 component: editor_marklar
 source: https://github.com/mudrd8mz/moodle-editor_marklar
+source-repo-id: 52563408
 maintainers:
 - github: mudrd8mz
 tier: 2
@@ -25,9 +26,9 @@ releases:
 summary: Markdown friendly editor for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2025-03-02T12:35:23Z'
+  updated: '2026-07-29T23:18:49Z'
   stars: 17
   forks: 5
   open-issues: 6
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-30'

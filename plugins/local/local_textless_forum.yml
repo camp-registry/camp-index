@@ -1,5 +1,6 @@
 component: local_textless_forum
 source: https://github.com/adamjenkins/moodle-local_textless_forum
+source-repo-id: 1261782619
 maintainers:
 - github: adamjenkins
 tier: 1

@@ -9,9 +9,12 @@ releases: []
 summary: Buy (enrol) a course with credits
 license: GPL-3.0
 metrics:
-  updated: '2025-04-30T10:00:27Z'
+  updated: '2026-07-22T06:22:03Z'
   stars: 6
   forks: 6
-  open-issues: 4
+  open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.2-r1
+    date: '2025-04-30T10:00:27Z'
+  checked: '2026-07-30'

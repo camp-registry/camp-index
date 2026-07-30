@@ -1,5 +1,6 @@
 component: availability_xp
 source: https://github.com/FMCorz/moodle-availability_xp
+source-repo-id: 18986717
 maintainers:
 - github: FMCorz
 tier: 2

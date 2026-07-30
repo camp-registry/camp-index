@@ -1,5 +1,5 @@
 component: block_recommendation
-source: https://github.com/suap-moodletheme-suite/moodle-block_recommendation
+source: https://github.com/moodle-by-kelsoncm/block_recommendation
 maintainers:
 - github: suap-moodletheme-suite
 tier: 0
@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle recommendation block plugin
 metrics:
-  updated: '2026-07-08T22:41:28Z'
+  updated: '2026-07-17T21:34:33Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.1.03
+    date: '2026-07-08T22:37:24Z'
+  checked: '2026-07-29'

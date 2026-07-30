@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle site info block
 metrics:
-  updated: '2026-07-08T22:50:04Z'
+  updated: '2026-07-17T21:34:36Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 0.1.03
+    date: '2026-06-26T18:24:19Z'
+  checked: '2026-07-29'

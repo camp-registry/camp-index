@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: The OU's workflow block for Moodle.
 metrics:
-  updated: '2026-04-23T07:56:13Z'
+  updated: '2026-07-15T09:03:13Z'
   stars: 11
   forks: 11
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-30'

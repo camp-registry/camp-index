@@ -1,5 +1,6 @@
 component: theme_adaptable
 source: https://github.com/gjbarnard/moodle-theme_adaptable
+source-repo-id: 577304221
 maintainers:
 - github: gjbarnard
 security-contact: https://github.com/gjbarnard/moodle-theme_adaptable/security/advisories/new

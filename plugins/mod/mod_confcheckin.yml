@@ -1,5 +1,6 @@
 component: mod_confcheckin
 source: https://github.com/adamjenkins/moodle-mod_confcheckin
+source-repo-id: 1288188372
 maintainers:
 - github: adamjenkins
 tier: 1

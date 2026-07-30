@@ -1,0 +1,19 @@
+id: CAMP-2026-0006
+component: block_openbook
+title: Defective publication record, withdrawn (not a security issue)
+severity: low
+affected-versions: =v5.2-r4
+revoke: true
+published: '2026-07-29T00:00:00Z'
+description: >
+  Not a vulnerability. The v5.2-r4 release record was published from a
+  workflow run whose ref was the default branch rather than a tag, so
+  the ledger recorded tag "main" at the then-current commit. The
+  recorded artifact hash is intact and the archived ZIP matches it,
+  but the record references a moveable ref and can never verify again,
+  and the maintainer's real v5.2-r4 tag points at a different commit
+  than what was published. The version is withdrawn from installation
+  channels. Sites that installed v5.2-r4 got code identical to the
+  archived artifact and can stay on it until the maintainer publishes
+  a release built at an immutable tag. Tooling now refuses non-tag
+  refs at publication (camp-tools#15).

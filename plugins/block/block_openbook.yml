@@ -1,5 +1,6 @@
 component: block_openbook
 source: https://github.com/lucaboesch/moodle-block_openbook
+source-repo-id: 1103356074
 maintainers:
 - name: Luca Bösch
   github: lucaboesch
@@ -20,15 +21,32 @@ releases:
   published: '2026-07-25T13:26:31Z'
   released: '2026-07-25T11:19:40Z'
   listing-sha256: ad8b4e69ba63757b54236391dac5ea3c45c1a774883db7344e8a16d16b50ca09
+- version: v5.2-r5
+  tag: v5.2-r5
+  commit: c70886cf7d5fdc702d662007dd58de92c34e904c
+  moodle-version: 2026052900
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: cf9469b9558e2d418cdfb86f566700e41ce81e938cdac303019d7e476fc50bfd
+  listing-sha256: ad8b4e69ba63757b54236391dac5ea3c45c1a774883db7344e8a16d16b50ca09
+  published: '2026-07-29T18:11:54Z'
+  released: '2026-07-29T18:10:53Z'
 license: GPL-3.0
 metrics:
-  updated: '2026-05-26T16:39:59Z'
+  updated: '2026-07-25T11:19:51Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: The Openbook Resource Block provides links to files provided by a Openbook
+  latest-release:
+    tag: v5.2-r3
+    date: '2026-04-28T07:15:30Z'
+  checked: '2026-07-29'
+summary: >-
+  The Openbook Resource Block provides links to files provided by a Openbook
   Resource Folder (mod_openbook).
 security-contact: https://github.com/lucaboesch/moodle-block_openbook/security/advisories/new
 labels:

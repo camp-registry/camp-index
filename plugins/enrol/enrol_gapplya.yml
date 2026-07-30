@@ -12,9 +12,12 @@ summary: '"Enrolment Request" is a powerful, enterprise-grade enrollment plugin 
   forms, strict approval workflows, and comprehensive audit trails.  This plugin is
   a majorly extended and completely refactored version of the ori'
 metrics:
-  updated: '2026-04-22T15:02:27Z'
+  updated: '2026-07-17T09:31:47Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v.1.2.0
+    date: '2026-07-17T08:55:05Z'
+  checked: '2026-07-30'

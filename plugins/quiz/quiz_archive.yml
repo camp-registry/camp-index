@@ -1,5 +1,6 @@
 component: quiz_archive
 source: https://github.com/bfh/moodle-quiz_archive
+source-repo-id: 137848676
 maintainers:
 - github: bfh
 tier: 1

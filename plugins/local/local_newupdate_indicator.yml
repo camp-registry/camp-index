@@ -1,5 +1,6 @@
 component: local_newupdate_indicator
 source: https://github.com/adamjenkins/moodle-local_newupdate_indicator
+source-repo-id: 1262650321
 maintainers:
 - github: adamjenkins
 tier: 1

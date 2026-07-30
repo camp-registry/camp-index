@@ -1,0 +1,86 @@
+# camp release pipeline for GitLab-hosted plugins — copy into your
+# .gitlab-ci.yml (or `include:` it). Publishing to camp then means:
+#   git tag v1.2.3 && git push origin v1.2.3
+#
+# No token, no secrets, no GitHub account. On every version tag the job
+# builds the canonical ZIP and release record with camp tools (the
+# identical code path camp CI verifies against), proves this pipeline's
+# identity with a signed OIDC id_token from GitLab, and the camp publish
+# service opens the release PR on the index.
+#
+# Publishing authorization is your claimed listing: the service checks
+# that this project is the listed source of your entry, by permanent
+# project id. camp CI still independently rebuilds and verifies
+# everything from the public tag, and a human merges.
+#
+# gitlab.com only: self-hosted instances mint their own identities, so
+# their tokens are not accepted (camp-index#66).
+
+camp-release:
+  image: python:3.12
+  rules:
+    - if: $CI_COMMIT_TAG =~ /^v/
+  id_tokens:
+    CAMP_OIDC_TOKEN:
+      aud: camp-publish
+  variables:
+    CAMP_INDEX_REPO_URL: https://github.com/camp-registry/camp-index.git
+    CAMP_PUBLISH_URL: https://publish.camp-registry.org/publish
+    # Optional overrides — with them empty (recommended), everything is
+    # read from your version.php at the tag. Set SUPPORTED_MOODLE only
+    # when version.php can't say what you mean (e.g. "4.1,4.4").
+    COMPONENT: ""
+    SUPPORTED_MOODLE: ""
+  script:
+    - pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.35"
+    - git clone --quiet --depth 1 "$CAMP_INDEX_REPO_URL" index-repo
+    - |
+      if [ -z "${COMPONENT}" ]; then
+        COMPONENT=$(sed -nE 's/.*\$plugin->component[[:space:]]*=[[:space:]]*.?([a-z][a-z0-9_]*).?[[:space:]]*;.*/\1/p' version.php | head -1)
+      fi
+      if [ -z "${COMPONENT}" ]; then
+        echo "COMPONENT is empty and \$plugin->component was not found in version.php — set one of them" >&2
+        exit 1
+      fi
+      export COMPONENT
+      echo "component: ${COMPONENT}"
+    - camp scaffold . --check
+    - camp lint-labels . || true
+    - camp audit . || true
+    - |
+      plugintype="${COMPONENT%%_*}"
+      camp release "index-repo/plugins/${plugintype}/${COMPONENT}.yml" \
+        "${CI_COMMIT_TAG}" --source . \
+        ${SUPPORTED_MOODLE:+--supported-moodle "${SUPPORTED_MOODLE}"}
+    - |
+      python3 <<'EOF'
+      import json, os, sys, urllib.request, yaml
+
+      component = os.environ["COMPONENT"]
+      tag = os.environ["CI_COMMIT_TAG"]
+      path = f"index-repo/plugins/{component.split('_')[0]}/{component}.yml"
+      with open(path) as f:
+          record = yaml.safe_load(f)["releases"][-1]
+      assert record["tag"] == tag, "computed record is not for this tag"
+
+      body = json.dumps({
+          "token": os.environ["CAMP_OIDC_TOKEN"],
+          "component": component, "tag": tag, "record": record,
+      }).encode()
+      req = urllib.request.Request(
+          os.environ["CAMP_PUBLISH_URL"], data=body,
+          headers={"Content-Type": "application/json",
+                   "User-Agent": f"camp-release ({component})"})
+      try:
+          out = json.load(urllib.request.urlopen(req))
+      except urllib.error.HTTPError as e:
+          raw = e.read().decode(errors="replace")
+          try:
+              out = json.loads(raw)
+              msg = f"({out.get('code')}): {out.get('message')}"
+          except ValueError:
+              msg = f"HTTP {e.code}: {raw[:200]}"
+          print(f"camp publish refused {msg}", file=sys.stderr)
+          sys.exit(1)
+      print("Release PR:", out["pr"])
+      EOF

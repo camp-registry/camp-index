@@ -1,5 +1,6 @@
 component: format_topcoll
 source: https://github.com/gjbarnard/moodle-format_topcoll
+source-repo-id: 2405541
 maintainers:
 - github: gjbarnard
 security-contact: https://github.com/gjbarnard/moodle-format_topcoll/security/advisories/new

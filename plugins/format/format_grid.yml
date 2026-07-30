@@ -1,5 +1,6 @@
 component: format_grid
 source: https://github.com/gjbarnard/moodle-format_grid
+source-repo-id: 3452804
 maintainers:
 - github: gjbarnard
 security-contact: https://github.com/gjbarnard/moodle-format_grid/security/advisories/new

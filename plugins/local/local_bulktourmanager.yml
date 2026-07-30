@@ -1,5 +1,6 @@
 component: local_bulktourmanager
 source: https://github.com/adamjenkins/moodle-local_bulktourmanager
+source-repo-id: 1292339872
 maintainers:
 - github: adamjenkins
 tier: 1

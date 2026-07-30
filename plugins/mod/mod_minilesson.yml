@@ -1,5 +1,6 @@
 component: mod_minilesson
 source: https://github.com/justinhunt/moodle-mod_minilesson
+source-repo-id: 270502746
 maintainers:
 - github: justinhunt
 tier: 2

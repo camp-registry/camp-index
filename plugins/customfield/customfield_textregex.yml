@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Textregex customfield plugin allows to have a short text input field with
   regex validation. Enabling to ensure a valid format of the field data.
 metrics:
-  updated: '2026-05-19T16:51:27Z'
+  updated: '2026-07-27T20:51:43Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.2
+    date: '2026-07-27T20:51:43Z'
+  checked: '2026-07-30'

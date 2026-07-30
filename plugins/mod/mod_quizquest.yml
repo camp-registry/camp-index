@@ -1,5 +1,6 @@
 component: mod_quizquest
 source: https://github.com/adamjenkins/moodle-mod_quizquest
+source-repo-id: 1297316787
 maintainers:
 - github: adamjenkins
 tier: 1

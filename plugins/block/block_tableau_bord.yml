@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.81_temp
+    date: '2020-09-03T13:03:42Z'
+  checked: '2026-07-29'
 summary: Moodle - blocktableaubord

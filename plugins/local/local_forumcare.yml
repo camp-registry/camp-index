@@ -1,5 +1,6 @@
 component: local_forumcare
 source: https://github.com/adamjenkins/moodle-local_forumcare
+source-repo-id: 1279732438
 maintainers:
 - github: adamjenkins
 tier: 1

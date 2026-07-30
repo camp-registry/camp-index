@@ -13,5 +13,8 @@ metrics:
   forks: 10
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.4.10
+    date: '2024-08-28T12:33:15Z'
+  checked: '2026-07-29'
 summary: moodle-blockoppiamobileexport

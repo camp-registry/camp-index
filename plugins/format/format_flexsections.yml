@@ -1,5 +1,6 @@
 component: format_flexsections
 source: https://github.com/marinaglancy/moodle-format_flexsections
+source-repo-id: 6608721
 maintainers:
 - github: marinaglancy
 security-contact: https://github.com/marinaglancy/moodle-format_flexsections/security

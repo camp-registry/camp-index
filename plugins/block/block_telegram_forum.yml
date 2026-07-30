@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.0
+    date: '2025-11-21T16:28:39Z'
+  checked: '2026-07-30'
 summary: INSTALLATION WITH GIT

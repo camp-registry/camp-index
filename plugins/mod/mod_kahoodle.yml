@@ -1,5 +1,6 @@
 component: mod_kahoodle
 source: https://github.com/marinaglancy/moodle-mod_kahoodle
+source-repo-id: 1048959939
 maintainers:
 - github: marinaglancy
 tier: 1

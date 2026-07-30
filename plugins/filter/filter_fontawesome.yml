@@ -1,7 +1,7 @@
 component: filter_fontawesome
-source: https://github.com/dirkcgrunwald/moodle-filter_fontawesome
+source: https://github.com/ffhs/moodle-filter_fontawesome
 maintainers:
-- github: dirkcgrunwald
+- github: ffhs
 tier: 0
 status: active
 discovered: '2026-07-11'
@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle font awesome
 metrics:
-  updated: '2018-05-15T21:16:20Z'
-  stars: 0
-  forks: 0
+  updated: '2026-06-17T09:35:13Z'
+  stars: 2
+  forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r1
+    date: '2026-06-17T09:38:55Z'
+  checked: '2026-07-29'

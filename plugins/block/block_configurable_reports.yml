@@ -1,5 +1,6 @@
 component: block_configurable_reports
 source: https://github.com/jleyva/moodle-block_configurablereports
+source-repo-id: 2558927
 maintainers:
 - github: jleyva
 tier: 1

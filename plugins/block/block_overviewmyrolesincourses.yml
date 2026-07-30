@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.0.2
+    date: '2026-04-21T19:12:27Z'
+  checked: '2026-07-29'
 summary: 'A: How to use'

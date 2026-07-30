@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.13.1.0
+    date: '2026-04-13T12:15:18Z'
+  checked: '2026-07-29'
 summary: Oxford Brookes University Learning Analytics Blocks Plugin for Moodle

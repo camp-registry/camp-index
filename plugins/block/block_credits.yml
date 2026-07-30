@@ -1,5 +1,6 @@
 component: block_credits
 source: https://github.com/branchup/moodle-block_credits
+source-repo-id: 692742507
 maintainers:
 - github: branchup
 tier: 1

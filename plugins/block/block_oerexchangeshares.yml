@@ -1,11 +1,24 @@
 component: block_oerexchangeshares
 source: https://github.com/adamjenkins/moodle-block_oerexchangeshares
+source-repo-id: 1304795555
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-27'
-releases: []
+releases:
+- version: 1.0.1
+  tag: v1.0.1
+  commit: b8441ed4f2ac2a7d7e37d495182f994f05cfceb5
+  moodle-version: 2026072901
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 49a25532206d17ce853a97c8600d0635fe5280e065c7a904ab47a1c6008103b0
+  listing-sha256: f9f155f4eb5abf824b4f487d183d47119b5e9669b3fc447d435ece5789877dac
+  published: '2026-07-29T09:37:12Z'
+  released: '2026-07-29T09:22:42Z'
 license: GPL-3.0
 metrics:
   updated: '2026-07-27T03:32:45Z'

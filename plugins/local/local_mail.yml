@@ -1,5 +1,6 @@
 component: local_mail
 source: https://gitlab.com/moodle-local_mail/moodle-local_mail
+source-repo-id: 12302287
 maintainers:
 - gitlab: moodle-local_mail
 security-contact: https://gitlab.com/moodle-local_mail/moodle-local_mail/-/work_items/new

@@ -1,5 +1,6 @@
 component: local_archiving
 source: https://github.com/ngandrass/moodle-local_archiving
+source-repo-id: 951396408
 maintainers:
 - github: ngandrass
 tier: 1
@@ -20,4 +21,3 @@ labels:
 - fully-free
 - donation-supported
 - commercial-support-available
-

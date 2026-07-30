@@ -1,5 +1,6 @@
 component: logstore_xapi
 source: https://github.com/davidpesce/moodle-logstore_xapi
+source-repo-id: 36794007
 maintainers:
 - name: David Pesce
   github: davidpesce

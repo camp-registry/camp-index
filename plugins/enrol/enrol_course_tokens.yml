@@ -10,9 +10,9 @@ license: AGPL-3.0
 summary: Create single-use tokens. Then new students can create an account and enroll
   with these tokens.
 metrics:
-  updated: '2026-07-11T13:12:45Z'
+  updated: '2026-07-29T06:30:20Z'
   stars: 1
   forks: 1
   open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-30'

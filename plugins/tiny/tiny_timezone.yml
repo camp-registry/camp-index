@@ -1,5 +1,6 @@
 component: tiny_timezone
 source: https://github.com/adamjenkins/moodle-tiny_timezone
+source-repo-id: 1278237338
 maintainers:
 - github: adamjenkins
 tier: 1

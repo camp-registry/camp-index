@@ -12,9 +12,12 @@ summary: The plugin displays all ungraded assignments and quizzes that need your
   submits an assignment or completes a quiz containing manually graded questions (such
   as essays), it will automatically appear on your D
 metrics:
-  updated: '2026-07-08T15:55:48Z'
+  updated: '2026-07-13T14:58:02Z'
   stars: 1
   forks: 0
-  open-issues: 2
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2.1
+    date: '2026-07-13T14:58:02Z'
+  checked: '2026-07-30'

@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1
+    date: '2021-08-15T13:19:17Z'
+  checked: '2026-07-30'
 summary: Guest Cohort is an enrolment plugin for Moodle that mixes the features

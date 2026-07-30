@@ -1,12 +1,15 @@
 component: quiz_archiver
 source: https://github.com/ngandrass/moodle-quiz_archiver
+source-repo-id: 673403863
 maintainers:
 - github: ngandrass
 tier: 1
 status: active
 discovered: '2026-07-10'
 releases: []
-summary: Archives quiz attempts as PDF and HTML files fully automated and asynchronously for long-term storage independent of Moodle. Backups of both the quiz and the whole course can optionally be included.
+summary: Archives quiz attempts as PDF and HTML files fully automated and asynchronously
+  for long-term storage independent of Moodle. Backups of both the quiz and the whole
+  course can optionally be included.
 license: GPL-3.0
 metrics:
   updated: '2026-05-22T07:20:53Z'
@@ -20,4 +23,3 @@ labels:
 - fully-free
 - donation-supported
 - commercial-support-available
-

@@ -1,5 +1,6 @@
 component: mod_zoom
 source: https://github.com/jrchamp/moodle-mod_zoom
+source-repo-id: 38715441
 maintainers:
 - github: jrchamp
 tier: 1

@@ -1,5 +1,6 @@
 component: filter_shortcodes
 source: https://github.com/branchup/moodle-filter_shortcodes
+source-repo-id: 132399137
 maintainers:
 - github: branchup
 tier: 2

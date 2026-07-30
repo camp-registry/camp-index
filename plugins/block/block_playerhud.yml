@@ -11,9 +11,12 @@ summary: PlayerHUD introduces structured gamification to Moodle courses through 
   levels, inventory, and ranking. Teachers define progression thresholds and engagement
   rules, while students may choose to participate.
 metrics:
-  updated: '2026-07-11T17:01:19Z'
-  stars: 0
+  updated: '2026-07-29T03:24:55Z'
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.8.0
+    date: '2026-07-28T21:46:15Z'
+  checked: '2026-07-29'

@@ -1,0 +1,52 @@
+name: Release withdrawal or record correction
+description: "Ask for a published release record to be withdrawn or corrected (RFC §5.3)."
+title: "Release correction: <component> <version>"
+labels: ["release-correction"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Release records are append-only: once published they are never
+        edited or deleted, so a defective or unwanted record is
+        withdrawn by a published advisory instead. Common cases: a
+        release was published from a branch instead of a tag and now
+        fails verification, a record no longer matches your
+        repository, or you want a version removed from installation
+        channels. The registry verifies the request against your
+        repository and the release ledger, publishes the advisory, and
+        links it here. The archived artifact is preserved either way.
+        A withdrawn version name is retired; publish the superseding
+        release under a new version.
+  - type: input
+    id: component
+    attributes:
+      label: Component
+      description: "The plugin's frankenstyle name, e.g. mod_example"
+      placeholder: mod_example
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: "The release version as listed on the registry, e.g. v1.2.3"
+      placeholder: v1.2.3
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: What is wrong with the record
+      description: >
+        If a verification check pointed you here, paste its failure
+        line. Otherwise describe what you want withdrawn or corrected
+        and why.
+    validations:
+      required: true
+  - type: checkboxes
+    id: maintainer
+    attributes:
+      label: Confirmation
+      options:
+        - label: "I am a listed maintainer of this plugin (the registry will check the request comes from someone who controls the source repository)"
+          required: true

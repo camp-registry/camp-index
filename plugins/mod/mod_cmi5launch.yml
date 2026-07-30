@@ -1,5 +1,6 @@
 component: mod_cmi5launch
 source: https://github.com/davidpesce/moodle-mod_cmi5launch
+source-repo-id: 1191819206
 maintainers:
 - github: davidpesce
 tier: 1

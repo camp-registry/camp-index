@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.5.0
+    date: '2025-04-03T14:45:32Z'
+  checked: '2026-07-30'
 summary: Vous êtes sur la page de la version 4.5.0 du plugin Rapport Assessment Path,
   dernière version compatible avec Moodle 4.5.

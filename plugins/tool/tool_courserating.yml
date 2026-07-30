@@ -1,5 +1,6 @@
 component: tool_courserating
 source: https://github.com/marinaglancy/moodle-tool_courserating
+source-repo-id: 500046619
 maintainers:
 - github: marinaglancy
 tier: 1

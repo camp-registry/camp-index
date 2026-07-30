@@ -1,5 +1,6 @@
 component: format_noticebd
 source: https://github.com/gjb2048/moodle-format_noticebd
+source-repo-id: 6491693
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-format_noticebd/security/advisories/new

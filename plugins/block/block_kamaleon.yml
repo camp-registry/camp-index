@@ -1,5 +1,6 @@
 component: block_kamaleon
 source: https://github.com/bambuco/moodle-block_kamaleon
+source-repo-id: 745345964
 maintainers:
 - github: bambuco
 - github: davidherney
@@ -20,4 +21,4 @@ metrics:
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-07-15'
+  checked: '2026-07-30'

@@ -1,5 +1,6 @@
 component: theme_foundation
 source: https://github.com/gjbarnard/moodle-theme_foundation
+source-repo-id: 152734855
 maintainers:
 - github: gjbarnard
 security-contact: https://github.com/gjbarnard/moodle-theme_foundation/security/advisories/new

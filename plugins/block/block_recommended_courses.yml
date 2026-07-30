@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: 'Moodle Block Plugin - Recommended Courses with interactive slider (multilingual:
   DE/EN/UK)'
 metrics:
-  updated: '2026-01-12T10:11:21Z'
+  updated: '2026-07-23T07:01:06Z'
   stars: 2
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.1.0
+    date: '2026-07-23T06:35:38Z'
+  checked: '2026-07-29'

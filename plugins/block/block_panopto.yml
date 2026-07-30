@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-29'
 summary: This is a block for Moodle 2, that allows courses in Moodle to link directly
   to Panopto folders, and to display recordings in the sidebar. It also allows for
   SSO between Moodle and Panopto, and automatically syncs user permissions between

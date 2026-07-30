@@ -1,5 +1,6 @@
 component: mod_confscheduler
 source: https://github.com/adamjenkins/moodle-mod_confscheduler
+source-repo-id: 1287836690
 maintainers:
 - github: adamjenkins
 tier: 1

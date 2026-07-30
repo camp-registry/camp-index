@@ -1,5 +1,6 @@
 component: mod_confprogram
 source: https://github.com/adamjenkins/moodle-mod_confprogram
+source-repo-id: 1287836149
 maintainers:
 - github: adamjenkins
 tier: 1

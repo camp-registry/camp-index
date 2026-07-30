@@ -1,5 +1,6 @@
 component: enrol_coursecompleted
 source: https://github.com/ewallah/moodle-enrol_coursecompleted
+source-repo-id: 113969651
 maintainers:
 - github: ewallah
 tier: 1
@@ -13,9 +14,9 @@ releases: []
 summary: Enrolment on course completion
 license: GPL-3.0
 metrics:
-  updated: '2026-06-11T07:30:31Z'
+  updated: '2026-07-24T16:25:59Z'
   stars: 14
-  forks: 18
-  open-issues: 1
+  forks: 19
+  open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-30'

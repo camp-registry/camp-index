@@ -1,5 +1,6 @@
 component: tool_realtime
 source: https://github.com/marinaglancy/moodle-tool_realtime
+source-repo-id: 265896441
 maintainers:
 - github: marinaglancy
 tier: 1
@@ -10,7 +11,9 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: Add real-time server-to-browser communication to your plugins via WebSockets or polling. Send notifications from PHP, receive events in JavaScript, no page reloads needed.
+summary: Add real-time server-to-browser communication to your plugins via WebSockets
+  or polling. Send notifications from PHP, receive events in JavaScript, no page reloads
+  needed.
 metrics:
   updated: '2026-03-06T18:44:28Z'
   stars: 7

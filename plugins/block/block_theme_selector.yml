@@ -1,5 +1,6 @@
 component: block_theme_selector
 source: https://github.com/gjbarnard/moodle-block_theme_selector
+source-repo-id: 38828990
 maintainers:
 - github: gjbarnard
 security-contact: https://github.com/gjbarnard/moodle-block_theme_selector/security/advisories/new

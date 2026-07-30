@@ -1,5 +1,6 @@
 component: block_xp
 source: https://github.com/FMCorz/moodle-block_xp
+source-repo-id: 17739056
 maintainers:
 - github: FMCorz
 tier: 2
@@ -65,8 +66,8 @@ summary: A gamification plugin for Moodle allowing learners to gain experience p
   and level up.
 metrics:
   updated: '2026-04-20T16:37:34Z'
-  stars: 162
+  stars: 160
   forks: 52
   open-issues: 16
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-30'

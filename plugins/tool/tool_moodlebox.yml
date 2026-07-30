@@ -1,5 +1,6 @@
 component: tool_moodlebox
 source: https://github.com/moodlebox/moodle-tool_moodlebox
+source-repo-id: 58201827
 maintainers:
 - name: Nicolas Martignoni
   github: martignoni

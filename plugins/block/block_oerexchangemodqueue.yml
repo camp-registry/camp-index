@@ -1,11 +1,24 @@
 component: block_oerexchangemodqueue
 source: https://github.com/adamjenkins/moodle-block_oerexchangemodqueue
+source-repo-id: 1304788732
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-27'
-releases: []
+releases:
+- version: 1.0.1
+  tag: v1.0.1
+  commit: ee12f931a8a7fa679a04c62479714b962f2ae118
+  moodle-version: 2026072901
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: e2d8b30dc95b4a482b27aa7ee5b9890ae8ae78cd20450d38fb872d12ea26ea52
+  listing-sha256: 6150bb8b3259ac474a77e59e4cfb334bd4b0f1d44c79dbb252878936ccef4260
+  published: '2026-07-29T09:36:59Z'
+  released: '2026-07-29T09:22:42Z'
 license: GPL-3.0
 metrics:
   updated: '2026-07-27T03:32:40Z'

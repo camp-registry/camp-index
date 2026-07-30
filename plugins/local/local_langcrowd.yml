@@ -1,5 +1,6 @@
 component: local_langcrowd
 source: https://github.com/adamjenkins/moodle-local_langcrowd
+source-repo-id: 1271082621
 maintainers:
 - github: adamjenkins
 tier: 1

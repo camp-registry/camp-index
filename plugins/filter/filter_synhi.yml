@@ -1,5 +1,6 @@
 component: filter_synhi
 source: https://github.com/gjbarnard/moodle-filter_synhi
+source-repo-id: 284098501
 maintainers:
 - github: gjbarnard
 security-contact: https://github.com/gjbarnard/moodle-filter_synhi/security/advisories/new

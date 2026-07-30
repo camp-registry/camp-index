@@ -1,5 +1,6 @@
 component: tool_zoomapi
 source: https://github.com/jrchamp/moodle-tool_zoomapi
+source-repo-id: 1244655261
 maintainers:
 - github: jrchamp
 tier: 1

@@ -31444,6 +31444,11 @@ repos:
     detail: listed as block_course_checker
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
+  ffhs/moodle-block_course_checker_info:
+    outcome: written
+    detail: listed as block_course_checker_info
+    first-seen: '2026-07-29'
+    last-checked: '2026-07-29'
   ffhs/moodle-local_course_checker:
     outcome: exists
     detail: component local_course_checker already registered (first-come, RFC §8)

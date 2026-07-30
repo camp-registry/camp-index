@@ -1,5 +1,6 @@
 component: mod_jitsi
 source: https://github.com/SergioComeron/moodle-mod_jitsi
+source-repo-id: 126054095
 maintainers:
 - github: SergioComeron
 tier: 2

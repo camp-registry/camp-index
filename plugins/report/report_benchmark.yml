@@ -1,5 +1,6 @@
 component: report_benchmark
 source: https://github.com/mikasmart/moodle-report_benchmark
+source-repo-id: 61737447
 maintainers:
 - github: martignoni
 - github: mikasmart

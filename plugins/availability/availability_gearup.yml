@@ -1,5 +1,6 @@
 component: availability_gearup
 source: https://github.com/branchup/moodle-availability_gearup
+source-repo-id: 603435158
 maintainers:
 - github: branchup
 tier: 2

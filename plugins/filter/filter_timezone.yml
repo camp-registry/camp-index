@@ -1,5 +1,6 @@
 component: filter_timezone
 source: https://github.com/adamjenkins/moodle-filter_timezone
+source-repo-id: 1278237635
 maintainers:
 - github: adamjenkins
 tier: 1

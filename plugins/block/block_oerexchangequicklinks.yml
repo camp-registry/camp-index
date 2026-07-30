@@ -1,11 +1,24 @@
 component: block_oerexchangequicklinks
 source: https://github.com/adamjenkins/moodle-block_oerexchangequicklinks
+source-repo-id: 1304789700
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-27'
-releases: []
+releases:
+- version: 1.0.1
+  tag: v1.0.1
+  commit: bebc5db80dd384a6c3332e6cf1fac9de862731cc
+  moodle-version: 2026072901
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 932f78cac823931d10b536edd8820541f7b64696402cd9049cb8a975fa857a97
+  listing-sha256: afa05cc900be7e81347ed770656f8a9f401cfd505b8e383294370826f9f8819d
+  published: '2026-07-29T09:37:23Z'
+  released: '2026-07-29T09:22:42Z'
 license: GPL-3.0
 metrics:
   updated: '2026-07-27T03:32:43Z'
