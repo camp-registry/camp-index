@@ -1,15 +1,14 @@
 component: theme_eadtraining
 source: https://github.com/EduardoKrausME/moodle-theme_eadtraining
+security-contact: 'https://github.com/EduardoKrausME/moodle-theme_eadtraining/issues'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: Boost Training is a responsive and highly configurable Moodle theme, based
-  on the Boost theme, focused on accessibility, institutional visual identity, and
-  full interface customization.
+summary: 'Clean, accessible academic theme packed with customization options.'
 metrics:
   updated: '2026-06-24T19:08:46Z'
   stars: 0

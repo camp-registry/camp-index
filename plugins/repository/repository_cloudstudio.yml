@@ -1,8 +1,9 @@
 component: repository_cloudstudio
 source: https://github.com/eadtech-moodle/moodle-repository_cloudstudio
+security-contact: 'https://github.com/eadtech-moodle/moodle-repository_cloudstudio/issues'
 maintainers:
 - github: eadtech-moodle
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,7 +15,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: The CloudStudio File Repository plugin simplifies the integration of files
-  stored in CloudStudio directly into the Moodle platform. This plugin provides educators
-  and administrators with a seamless, efficient way to access and use their files,
-  such as videos, PDFs, images, and other content, directl
+summary: 'Access your CloudStudio library through the platform file picker.'

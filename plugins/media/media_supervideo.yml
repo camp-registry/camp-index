@@ -1,8 +1,9 @@
 component: media_supervideo
 source: https://github.com/EduardoKrausME/moodle-media_supervideo
+security-contact: 'https://github.com/EduardoKrausME/moodle-media_supervideo/issues'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,5 +15,4 @@ metrics:
   open-issues: 1
   archived: false
   checked: '2026-07-11'
-summary: This is a filter for Moodle that automatically transforms video links hosted
-  on the platform into beautiful players, just like SuperVídeo.
+summary: 'Play video links using the modern SuperVideo player.'

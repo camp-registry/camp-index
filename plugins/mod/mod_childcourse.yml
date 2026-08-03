@@ -1,8 +1,9 @@
 component: mod_childcourse
 source: https://github.com/EduardoKrausME/moodle-mod_childcourse
+security-contact: 'https://github.com/EduardoKrausME/moodle-mod_childcourse/issues'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,7 +15,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: 'modchildcourse adds a Moodle activity of type "Child course": when clicked,
-  the student is redirected to another course (the "child course") and, optionally,
-  the plugin performs automatic enrolment in the child course and keeps incremental
-  synchronization of grades and completion.'
+summary: 'Organize related courses and present access to child courses as an activity.'

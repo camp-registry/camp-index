@@ -1,8 +1,9 @@
 component: local_helpdesk
 source: https://github.com/EduardoKrausME/moodle-local_helpdesk
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_helpdesk/issues'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,6 +15,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: This plugin provides a ticketing system for managing support requests. It
-  allows users to create and track tickets while enabling administrators and support
-  teams to manage and respond efficiently.
+summary: 'Integrated help desk and knowledge base for the platform.'

@@ -1,5 +1,6 @@
 component: repository_pandavideo
 source: https://github.com/panda-moodle/moodle-repository_pandavideo
+security-contact: 'https://github.com/panda-moodle/moodle-repository_pandavideo/issues'
 maintainers:
 - github: panda-moodle
 tier: 0
@@ -14,4 +15,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: This repository is part of the Panda Video integration plugin suite for Moodle.
+summary: 'Find and add your Panda Video library through the file picker.'

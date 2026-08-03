@@ -1,8 +1,9 @@
 component: local_kopere_mobile
 source: https://github.com/EduardoKrausME/moodle-local_kopere_mobile
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_mobile/issues'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,7 +15,4 @@ metrics:
   open-issues: 1
   archived: false
   checked: '2026-07-11'
-summary: The Kopere APP Mobile has been carefully designed to provide a unique and
-  powerful experience for accessing Moodle on your mobile device. Imagine the ease
-  of accessing your courses and educational content with impressive smoothness, even
-  when you’re offline! 🌍✈️
+summary: 'Integrations and features that bring a mobile experience to your platform.'

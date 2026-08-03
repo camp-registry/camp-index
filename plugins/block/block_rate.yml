@@ -1,0 +1,21 @@
+component: block_rate
+source: https://github.com/EduardoKrausME/moodle-block_rate
+security-contact: 'https://github.com/EduardoKrausME/moodle-block_rate/issues'
+maintainers:
+  - github: EduardoKrausME
+tier: 1
+status: active
+discovered: '2026-07-11'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-07-04T01:27:34Z'
+  stars: 2
+  forks: 10
+  open-issues: 1
+  archived: false
+  latest-release:
+    tag: 1.3.6
+    date: '2026-07-04T01:27:38Z'
+  checked: '2026-08-02'
+summary: 'Collect quick star ratings and track student feedback.'

@@ -1,8 +1,9 @@
 component: message_kopereemail
 source: https://github.com/EduardoKrausME/moodle-message_kopereemail
+security-contact: 'https://github.com/EduardoKrausME/moodle-message_kopereemail/issues'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,6 +15,4 @@ metrics:
   open-issues: 3
   archived: false
   checked: '2026-07-11'
-summary: messagekopereemail is a Moodle message output based on messageemail, created
-  to allow full customization of the email sent by Moodle, while also applying a base
-  template to standardize visual identity.
+summary: 'Email messaging channel with additional communication features.'

@@ -1,8 +1,9 @@
 component: local_kopere_wpbridge
 source: https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge/issues'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,4 +15,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: Bridge between WooCommerce and Moodle.
+summary: 'Connect the platform to WordPress and simplify workflows between the systems.'

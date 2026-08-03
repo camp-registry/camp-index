@@ -1,8 +1,9 @@
 component: theme_eadflix
 source: https://github.com/EduardoKrausME/moodle-theme_eadflix
+security-contact: 'https://github.com/EduardoKrausME/moodle-theme_eadflix/issues'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,5 +15,5 @@ metrics:
   open-issues: 2
   archived: false
   checked: '2026-07-11'
-summary: Integration with VLibras for automatic translation into Brazilian Sign Language
+summary: 'Immersive streaming-inspired theme designed to showcase your courses.'
   (Portuguese only)

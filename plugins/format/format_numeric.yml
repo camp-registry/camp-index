@@ -2,8 +2,8 @@ component: format_numeric
 source: https://github.com/EduardoKrausME/moodle-course_format_numeric
 maintainers:
 - github: EduardoKrausME
-tier: 0
-status: active
+tier: 1
+status: inactive
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
@@ -13,5 +13,5 @@ metrics:
   stars: 0
   forks: 0
   open-issues: 5
-  archived: false
+  archived: true
   checked: '2026-08-01'
