@@ -1,16 +1,17 @@
 component: local_geniai
-source: https://github.com/DrKat0m/Geniai_Base_Plugin
+source: https://github.com/EduardoKrausME/moodle-local_geniai
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_geniai/security'
 maintainers:
-- github: DrKat0m
-tier: 0
+- github: EduardoKrausME
+tier: 1
+labels:
+  - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: EDURA is an AI-powered Moodle plugin designed to help train pre-service teachers
-  in active listening strategies, supporting families of children who use Augmentative
-  & Alternative Communication (AAC). Through simulated conversations and feedback,
-  the tool creates a hands-on, impactful training exper
+summary: 'Artificial intelligence features that support content creation and learning.'
 metrics:
   updated: '2025-06-02T02:38:08Z'
   stars: 1

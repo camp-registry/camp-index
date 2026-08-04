@@ -1,8 +1,11 @@
 component: local_copy
 source: https://github.com/EduardoKrausME/moodle-local_copy
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_copy/security'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -13,10 +16,5 @@ metrics:
   forks: 1
   open-issues: 4
   archived: false
-  latest-release:
-    tag: 1.1.12
-    date: '2025-10-29T22:25:46Z'
-  checked: '2026-08-03'
-summary: localcopy is a Moodle plugin that provides a practical and efficient functionality
-  to copy activities or resources from one course and paste them into another, making
-  it easier to reuse content across different courses.
+  checked: '2026-07-11'
+summary: 'Copy and paste activities and resources between courses with just a few clicks.'

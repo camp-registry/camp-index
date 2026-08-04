@@ -1,8 +1,11 @@
 component: local_kopere_sitemap
 source: https://github.com/EduardoKrausME/moodle-local_kopere_sitemap
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_sitemap/security'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,6 +17,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: localkoperesitemap is a Moodle plugin that automatically generates a public
-  XML sitemap for the site and adds a reference to the sitemap in the <head> of all
-  Moodle pages.
+summary: 'Generate an organized public sitemap to improve navigation and discovery.'

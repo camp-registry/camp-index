@@ -1,8 +1,11 @@
 component: mod_scicalc
 source: https://github.com/EduardoKrausME/moodle-mod_scicalc
+security-contact: 'https://github.com/EduardoKrausME/moodle-mod_scicalc/security'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,5 +17,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: modscicalc adds a modern, lightweight, responsive Scientific Calculator activity
-  to a course, built in JavaScript (client-side) with a clean UI.
+summary: 'Scientific calculator available as an activity within courses.'

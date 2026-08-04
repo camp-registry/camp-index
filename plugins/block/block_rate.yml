@@ -1,13 +1,15 @@
 component: block_rate
 source: https://github.com/EduardoKrausME/moodle-block_rate
+security-contact: 'https://github.com/EduardoKrausME/moodle-block_rate/security'
 maintainers:
-- github: EduardoKrausME
-tier: 0
+  - github: EduardoKrausME
+tier: 1
+labels:
+  - fully-free
 status: active
-discovered: '2026-08-03'
+discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: Course ratings block for Moodle
 metrics:
   updated: '2026-08-03T11:39:05Z'
   stars: 0
@@ -15,3 +17,4 @@ metrics:
   open-issues: 1
   archived: false
   checked: '2026-08-03'
+summary: 'Collect quick star ratings and track student feedback.'

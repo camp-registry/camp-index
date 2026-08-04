@@ -1,13 +1,17 @@
 component: media_videofront
 source: https://github.com/Videofront/moodle-media_videofront
+security-contact: 'https://github.com/videofront/moodle-media_videofront/security'
 maintainers:
 - github: Videofront
-tier: 0
+tier: 1
+labels:
+  - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: Plugin para Moodle para adição rápida de vídeos da Videoteca
+summary: 'Player that embeds VideoFront videos directly into content.'
 metrics:
   updated: '2020-04-24T16:55:32Z'
   stars: 0

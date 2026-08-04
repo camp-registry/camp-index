@@ -1,8 +1,12 @@
 component: mod_pandavideo
 source: https://github.com/panda-moodle/moodle-mod_pandavideo
+security-contact: 'https://github.com/panda-moodle/moodle-mod_pandavideo/security'
 maintainers:
 - github: panda-moodle
-tier: 0
+tier: 1
+labels:
+  - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,4 +18,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: Integrate videos from Panda Video directly into your Moodle!
+summary: 'Activity with secure playback, progress tracking, and completion for Panda videos.'

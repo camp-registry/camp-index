@@ -1,8 +1,11 @@
 component: local_rewards
 source: https://github.com/EduardoKrausME/moodle-local_rewards
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_rewards/security'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []

@@ -1,8 +1,12 @@
 component: mod_eadmeeting
 source: https://github.com/Videofront/moodle-mod_eadmeeting
+security-contact: 'https://github.com/Videofront/moodle-mod_eadmeeting/security'
 maintainers:
 - github: Videofront
-tier: 0
+tier: 1
+labels:
+  - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []

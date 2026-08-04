@@ -1,8 +1,12 @@
 component: mod_geniai
 source: https://github.com/EduardoKrausME/moodle-mod_geniai
+security-contact: 'https://github.com/EduardoKrausME/moodle-mod_geniai/security'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
+labels:
+  - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []

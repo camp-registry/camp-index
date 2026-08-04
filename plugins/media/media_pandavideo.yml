@@ -1,8 +1,12 @@
 component: media_pandavideo
 source: https://github.com/panda-moodle/moodle-media_pandavideo
+security-contact: 'https://github.com/panda-moodle/moodle-media_pandavideo/security'
 maintainers:
 - github: panda-moodle
-tier: 0
+tier: 1
+labels:
+  - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,4 +18,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: Easily embed Panda Video media into your Moodle content!
+summary: 'Turn Panda Video links into players embedded in content.'

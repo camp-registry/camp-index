@@ -1,8 +1,12 @@
 component: media_cloudstudio
 source: https://github.com/eadtech-moodle/moodle-media_cloudstudio
+security-contact: 'https://github.com/eadtech-moodle/moodle-media_cloudstudio/security'
 maintainers:
 - github: eadtech-moodle
-tier: 0
+tier: 1
+labels:
+  - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,6 +18,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: The Moodle Media CloudStudio integrates the CloudStudio player into any area
-  of Moodle, providing a simple and efficient way to embed CloudStudio videos in pages,
-  activities, and other resources.
+summary: 'Automatically embed CloudStudio videos in text and pages.'

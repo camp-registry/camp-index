@@ -1,8 +1,11 @@
 component: local_kopere_bi
 source: https://github.com/EduardoKrausME/moodle-local_kopere_bi
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_bi/security'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,6 +17,4 @@ metrics:
   open-issues: 5
   archived: false
   checked: '2026-07-11'
-summary: The Kopere BI plugin was designed to provide visual and interactive data
-  analysis for Moodle environments. It empowers educators and administrators with
-  actionable insights into student performance, engagement, and overall course effectiveness.
+summary: 'More than 100 dashboards and reports for intelligent data management.'

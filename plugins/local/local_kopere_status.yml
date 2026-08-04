@@ -1,8 +1,11 @@
 component: local_kopere_status
 source: https://github.com/EduardoKrausME/moodle-local_kopere_status
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_status/security'
 maintainers:
 - github: EduardoKrausME
-tier: 0
+tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,6 +17,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: 'A Status page for your Moodle: shows whether the platform is online, for
-  how long, for how many consecutive days, and provides a public status page to share
-  with your team and users.'
+summary: 'Monitor services, availability, and technical indicators in real time.'

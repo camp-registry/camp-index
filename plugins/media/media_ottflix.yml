@@ -1,8 +1,12 @@
 component: media_ottflix
 source: https://github.com/OttFlix/moodle-media_ottflix
+security-contact: 'https://github.com/OttFlix/moodle-media_ottflix/security'
 maintainers:
 - github: OttFlix
-tier: 0
+tier: 1
+labels:
+  - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -14,6 +18,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: OttFlix is an innovative solution that not only stores videos and audios
-  but also converts these contents into interactive H5P formats, providing a richer
-  and more engaging learning experience.
+summary: 'Embed OttFlix videos in content with secure automatic playback.'
