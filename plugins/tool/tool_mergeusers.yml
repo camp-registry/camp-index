@@ -2,7 +2,9 @@ component: tool_mergeusers
 source: https://github.com/jpahullo/moodle-tool_mergeusers
 maintainers:
 - github: jpahullo
-security-contact: jordi.pujol@urv.cat
+labels:
+- fully-free
+security-contact: https://github.com/jpahullo/moodle-tool_mergeusers/security/advisories/new
 tier: 1
 status: active
 discovered: '2026-07-11'
