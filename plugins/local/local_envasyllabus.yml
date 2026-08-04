@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-04'
 summary: 1. Log in to your Moodle site as an admin and go to Site administration >
+dependencies:
+  local_competvetsuivi: any
+  customfield_sprogramme: any

@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T15:08:46Z'
+  updated: '2026-07-30T07:31:58Z'
   stars: 4
   forks: 7
   open-issues: 12
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.8.0
+    date: '2025-02-06T04:28:46Z'
+  checked: '2026-08-04'
 summary: This is the birth version of Edwiser Reports.

@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  checked: '2026-08-04'
 summary: The local IOMAD email plugin provides the functionality that allows IOMAD
   email templates to be configured per tenant.
+dependencies:
+  local_iomad: 2024090401

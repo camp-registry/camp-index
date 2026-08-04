@@ -15,4 +15,6 @@ metrics:
   forks: 1
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-04'
+dependencies:
+  enrol_database: 2020110900

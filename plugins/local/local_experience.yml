@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: This moodle plugin can customize the UI of moodle according to users' experience.
 metrics:
-  updated: '2026-05-21T12:35:56Z'
+  updated: '2026-07-27T11:03:42Z'
   stars: 1
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-04'

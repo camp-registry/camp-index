@@ -14,3 +14,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-08-03'
+summary: This project is example code showing how you can use the Moodle forms API
+  along with Javascript and AJAX in a Moodle plugin to create a dynamic dropdown list
+  tat pulls data from moodle depending on the selction of a dropdown in a Moodle form.

@@ -11,7 +11,10 @@ summary: Environment bar, never forget what server you're on again.
 metrics:
   updated: '2026-07-06T07:48:41Z'
   stars: 7
-  forks: 8
-  open-issues: 39
+  forks: 7
+  open-issues: 38
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2020092800'
+    date: '2020-09-28T07:46:00Z'
+  checked: '2026-08-04'

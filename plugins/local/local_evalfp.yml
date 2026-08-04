@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Moodle plugin for competency-based assessment in Spanish Vocational Education
   and Training (FP).
 metrics:
-  updated: '2026-07-10T20:06:51Z'
+  updated: '2026-08-02T17:57:39Z'
   stars: 0
-  forks: 0
-  open-issues: 0
+  forks: 1
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-04'

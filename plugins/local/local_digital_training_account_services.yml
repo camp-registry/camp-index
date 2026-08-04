@@ -13,4 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-04'
+dependencies:
+  logstore_last_viewed_course_module: any
+  logstore_last_updated_course_module: any
+  local_metadata: any
+  local_metadata_tools: any

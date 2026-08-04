@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-04'
 summary: This plugin belongs to a set of plugins. Please find the documentation in
   the repository of blockedutrader.
+dependencies:
+  block_edutrader: 2020061600

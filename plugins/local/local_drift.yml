@@ -13,5 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-04'
 summary: Site administrators have the option to receive notifications
+dependencies:
+  local_mr: any

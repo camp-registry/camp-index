@@ -15,4 +15,7 @@ metrics:
   forks: 3
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-04'
+dependencies:
+  local_edusupport: 2021060200
+  local_table_sql: 2025112600

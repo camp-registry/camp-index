@@ -7,14 +7,19 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: This plugin for Moodle expands the native competency framework with new visual interfaces, admin panels, and full custom fields support, all without creating new database tables.
+summary: This plugin for Moodle expands the native competency framework with new visual
+  interfaces, admin panels, and full custom fields support, all without creating new
+  database tables.
 metrics:
-  updated: '2026-07-12T02:17:08Z'
+  updated: '2026-08-01T02:09:26Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0
+    date: '2026-07-11T14:04:24Z'
+  checked: '2026-08-04'
 security-contact: https://github.com/uaiblaine/moodle-local_dimensions/security
 labels:
 - fully-free

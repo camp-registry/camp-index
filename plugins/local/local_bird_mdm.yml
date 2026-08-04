@@ -14,3 +14,4 @@ metrics:
   open-issues: 1
   archived: false
   checked: '2026-08-03'
+summary: Provides endpoints for serving bird metadata as XML
