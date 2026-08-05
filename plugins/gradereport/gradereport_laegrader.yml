@@ -1,5 +1,5 @@
 component: gradereport_laegrader
-source: https://github.com/CLAMP-IT/moodle-report_laegrader
+source: https://github.com/bobpuffer/moodle-gradereport_laegrader
 maintainers:
 - github: CLAMP-IT
 tier: 0
@@ -8,10 +8,10 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2012-10-22T18:14:17Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
+  updated: '2014-04-08T15:00:41Z'
+  stars: 5
+  forks: 5
+  open-issues: 5
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-08-05'
 summary: 1. Remove any pre-existing versions of the laegrader report
