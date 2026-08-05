@@ -1,5 +1,5 @@
 component: assignsubmission_mahara
-source: https://github.com/lucisgit/moodle-assignsubmission_mahara
+source: https://github.com/MaharaProject/moodle-assignsubmission_mahara
 maintainers:
 - github: lucisgit
 tier: 0
@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Mahara assignment submission plugin for Moodle 2.3+. This is a dev repo,
   for the latest release check the link.
 metrics:
-  updated: '2015-12-17T16:45:43Z'
-  stars: 5
-  forks: 19
-  open-issues: 1
-  archived: false
-  checked: '2026-07-26'
+  updated: '2023-11-17T00:12:51Z'
+  stars: 4
+  forks: 9
+  open-issues: 20
+  archived: true
+  latest-release:
+    tag: release-1.3-2018053100
+    date: '2018-06-15T10:08:01Z'
+  checked: '2026-08-05'
