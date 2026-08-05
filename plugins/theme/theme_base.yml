@@ -1,5 +1,5 @@
 component: theme_base
-source: https://github.com/dennisoliveira/moodle-theme_base
+source: https://github.com/lazydaisy/moodle-theme_base
 maintainers:
 - github: dennisoliveira
 tier: 0
@@ -8,9 +8,9 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2018-09-17T23:26:41Z'
+  updated: '2021-07-16T13:37:30Z'
   stars: 0
-  forks: 0
-  open-issues: 0
+  forks: 5
+  open-issues: 7
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-08-05'
