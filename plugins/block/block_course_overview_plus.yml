@@ -1,5 +1,5 @@
 component: block_course_overview_plus
-source: https://github.com/KieranRBriggs/moodle2_block_course_overview_plus
+source: https://github.com/jimmy57/moodle-block_course_overview_plus
 maintainers:
 - github: KieranRBriggs
 tier: 0
@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Course Overview Plus
 metrics:
-  updated: '2013-04-15T07:55:30Z'
-  stars: 0
-  forks: 0
+  updated: '2012-11-16T18:50:00Z'
+  stars: 6
+  forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-05'
