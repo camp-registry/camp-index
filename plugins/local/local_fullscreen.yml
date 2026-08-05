@@ -1,5 +1,5 @@
 component: local_fullscreen
-source: https://github.com/OliverJKent/moodle-fullscreen
+source: https://bitbucket.org/uonmoodle/moodle-local_fullscreen
 maintainers:
 - github: OliverJKent
 tier: 0
@@ -7,11 +7,4 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2019-02-20T11:16:35Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-08-03'
 summary: The 'Fullscreen toggle button' local plugin was developed by
