@@ -1,5 +1,5 @@
 component: local_aceengine
-source: https://gitlab.com/b82a9a13/moodle-local_aceengine
+source: https://gitlab.com/letstudygroup/moodle-local_aceengine
 maintainers:
 - gitlab: b82a9a13
 tier: 0
@@ -8,9 +8,9 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-04-02T16:40:45.461Z'
+  updated: '2026-04-02T16:46:08.747Z'
   stars: 0
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-01'
+  checked: '2026-08-05'
