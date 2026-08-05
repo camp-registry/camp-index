@@ -1,5 +1,5 @@
 component: auth_joomdle
-source: https://github.com/TELELAB/moodle-auth_joomdle
+source: https://github.com/aduranterres/auth_joomdle
 maintainers:
 - github: TELELAB
 tier: 0
@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 metrics:
-  updated: '2016-05-09T18:26:52Z'
-  stars: 0
-  forks: 0
+  updated: '2026-08-05T11:32:57Z'
+  stars: 1
+  forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-05'
 summary: This directoty must be in /moodle/auth (Este directorio debe ir en /moodle/auth)
