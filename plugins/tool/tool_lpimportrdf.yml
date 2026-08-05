@@ -1,5 +1,5 @@
 component: tool_lpimportrdf
-source: https://github.com/damyon/moodle-tool_lpimportrdf
+source: https://github.com/moodlehq/moodle-tool_lpimportrdf
 maintainers:
 - github: damyon
 tier: 0
@@ -8,9 +8,12 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2016-05-09T08:05:16Z'
+  updated: '2017-08-25T01:10:11Z'
   stars: 2
-  forks: 2
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  latest-release:
+    tag: v1.0
+    date: '2016-05-09T08:08:12Z'
+  checked: '2026-08-05'
