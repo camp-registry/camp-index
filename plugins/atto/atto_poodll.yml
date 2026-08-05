@@ -1,5 +1,5 @@
 component: atto_poodll
-source: https://github.com/udir-moodle/atto_poodll
+source: https://github.com/justinhunt/moodle-atto_poodll
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T16:31:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2019-07-18T04:59:39Z'
+  stars: 2
+  forks: 5
+  open-issues: 2
   archived: false
-  checked: '2026-07-26'
+  latest-release:
+    tag: v3.1.2
+    date: '2019-07-18T04:59:39Z'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
