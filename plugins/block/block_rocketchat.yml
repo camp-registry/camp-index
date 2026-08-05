@@ -1,5 +1,5 @@
 component: block_rocketchat
-source: https://github.com/drjansen/moodle-block_rocketchat_alternate
+source: https://github.com/adpe/moodle-block_rocketchat
 maintainers:
 - github: drjansen
 tier: 0
@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T09:34:38Z'
-  stars: 0
+  updated: '2026-06-15T07:14:30Z'
+  stars: 1
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-05'
 summary: This repository contains the block/UI side of a two-part Moodle + Rocket.Chat
   integration.
