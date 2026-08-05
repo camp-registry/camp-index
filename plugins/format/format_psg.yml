@@ -1,5 +1,5 @@
 component: format_psg
-source: https://github.com/Behaviour-Analytics/moodle-format_psg
+source: https://github.com/VIP-Research-Group/moodle-format_psg
 maintainers:
 - github: Behaviour-Analytics
 tier: 0
@@ -10,11 +10,11 @@ license: GPL-3.0
 summary: Personalised Study Guide, an adaptive Moodle course format plugin to replace
   the Topics format
 metrics:
-  updated: '2022-06-12T22:17:25Z'
+  updated: '2022-06-12T18:22:21Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-08-01'
+  checked: '2026-08-05'
 dependencies:
   block_behaviour: 2022022400
