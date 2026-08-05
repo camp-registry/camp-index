@@ -1,5 +1,5 @@
 component: block_panopto
-source: https://github.com/sleitao/moodle-blocks-panopto
+source: https://github.com/Panopto/Moodle-2.0-plugin-for-Panopto
 maintainers:
 - github: sleitao
 tier: 0
@@ -8,12 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-07-09T15:53:57Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-07-30T13:35:43Z'
+  stars: 20
+  forks: 45
+  open-issues: 40
   archived: false
-  checked: '2026-07-29'
+  latest-release:
+    tag: '2026073000'
+    date: '2026-07-30T13:35:43Z'
+  checked: '2026-08-05'
 summary: This is a block for Moodle 2, that allows courses in Moodle to link directly
   to Panopto folders, and to display recordings in the sidebar. It also allows for
   SSO between Moodle and Panopto, and automatically syncs user permissions between
