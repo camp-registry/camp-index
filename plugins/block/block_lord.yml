@@ -1,5 +1,5 @@
 component: block_lord
-source: https://github.com/Behaviour-Analytics/moodle-block_lord
+source: https://github.com/VIP-Research-Group/moodle-block_lord
 maintainers:
 - github: Behaviour-Analytics
 tier: 0
@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Learning Object Relation Discovery (LORD) plugin for Moodle LMS
 metrics:
-  updated: '2022-06-12T22:15:35Z'
-  stars: 3
+  updated: '2023-03-06T21:10:39Z'
+  stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-05'
