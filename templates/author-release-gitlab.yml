@@ -32,12 +32,12 @@ camp-release:
     COMPONENT: ""
     SUPPORTED_MOODLE: ""
   script:
-    - pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.44"
+    - pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.45"
     # stale-copy nudge; never fails the run (camp-tools#35)
     - |
       current=$(curl -s --max-time 5 -A "camp-release" https://camp-registry.org/version.json | sed -nE 's/.*"camp-tools": *"([0-9.]+)".*/\1/p')
-      if [ -n "$current" ] && [ "v$current" != "v0.2.44" ]; then
-        echo "NOTICE: this pipeline pins camp-tools v0.2.44 but the current release is v${current}; refresh your copy from templates/author-release-gitlab.yml in camp-registry/camp-index."
+      if [ -n "$current" ] && [ "v$current" != "v0.2.45" ]; then
+        echo "NOTICE: this pipeline pins camp-tools v0.2.45 but the current release is v${current}; refresh your copy from templates/author-release-gitlab.yml in camp-registry/camp-index."
       fi
     - git clone --quiet --depth 1 "$CAMP_INDEX_REPO_URL" index-repo
     - |
