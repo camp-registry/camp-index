@@ -1,0 +1,884 @@
+# Crosscheck review verdicts (camp-tools#32): one record per component a
+# human reviewed against the old directory's mapping. Each verdict pins
+# the exact pair it was decided for; if either the listing's source or
+# the directory mapping changes, the pair stops matching and the row
+# resurfaces in the crosscheck queues on its own. Seeded 2026-08-05 from
+# the camp-tools#14 review (89 repoints executed separately; repointed
+# rows classify as match and need no record here).
+
+assignfeedback_structured:
+  camp: https://github.com/tonyjbutler/moodle-assignfeedback_structured
+  decided: '2026-08-05'
+  directory: https://github.com/lucisgit/moodle-assignfeedback_structured
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+assignsubmission_gradereviews:
+  camp: https://github.com/mouneyrac/moodle-assignsubmission_gradereviews
+  decided: '2026-08-05'
+  directory: https://github.com/gjb2048/moodle-assignsubmission_gradereviews
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+assignsubmission_mediagallery:
+  camp: https://github.com/open-lms-open-source/moodle-assignsubmission_mediagallery
+  decided: '2026-08-05'
+  directory: https://github.com/netspotau/moodle-assignsubmission_mediagallery
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+atto_mediagallery:
+  camp: https://github.com/open-lms-open-source/moodle-atto_mediagallery
+  decided: '2026-08-05'
+  directory: https://github.com/netspotau/moodle-atto_mediagallery
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+atto_multilang2:
+  camp: https://github.com/eljulians/moodle-atto_multilang2
+  decided: '2026-08-05'
+  directory: https://github.com/kepaurzelai/moodle-atto_multilang2
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+auth_drupalservices:
+  camp: https://github.com/vfremaux/moodle-auth_drupalservices
+  decided: '2026-08-05'
+  directory: https://github.com/cannod/moodle-drupalservices
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+availability_enrolmentmethod:
+  camp: https://github.com/elearnity/moodle-availability_enrolmentmethod
+  decided: '2026-08-05'
+  directory: https://github.com/jcorel/moodle-availability_enrolmentmethod
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+availability_gps:
+  camp: https://github.com/center-for-learning-management/moodle-availability_gps
+  decided: '2026-08-05'
+  directory: https://github.com/rschrenk/moodle-availability_gps
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+availability_mobileapp:
+  camp: https://github.com/moodlehq/moodle-availability_mobileapp
+  decided: '2026-08-05'
+  directory: https://github.com/jleyva/moodle-availability_mobileapp
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+availability_othercompleted:
+  camp: https://github.com/modernlms/moodle-availability_othercompleted
+  decided: '2026-08-05'
+  directory: https://github.com/mudotmy/moodle-availability_othercompleted
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_accessibility:
+  camp: https://github.com/brickfieldprojects/moodle-block_accessibility
+  decided: '2026-08-05'
+  directory: https://github.com/learningtechnologyservices/moodle-block_accessibility
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_advnotifications:
+  camp: https://github.com/learningworks/moodle-block_advnotifications
+  decided: '2026-08-05'
+  directory: https://github.com/zpottie/moodle-block_advnotifications
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_alphabees:
+  camp: https://github.com/alphabees-25/moodle-block_alphabees
+  decided: '2026-08-05'
+  directory: https://github.com/lerdweg/moodle-block_alphabees
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_applications_list:
+  camp: https://github.com/bensampaio/moodle-block_applications_list
+  decided: '2026-08-05'
+  directory: https://github.com/anakin88/moodle-block_applications_list
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_badgeawarder:
+  camp: https://github.com/brickfield/moodle-block_badgeawarder
+  decided: '2026-08-05'
+  directory: https://github.com/learningtechnologyservices/moodle-block_badgeawarder
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_blc_modules:
+  camp: https://github.com/terus-technology/moodle-block_blcmodules
+  decided: '2026-08-05'
+  directory: https://github.com/teruselearning/moodle-block_blcmodules
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_cmanager:
+  camp: https://github.com/kylegoslin/moodle-block_cmanager
+  decided: '2026-08-05'
+  directory: https://github.com/michael-milette/moodle-block_cmanager
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_course_menu:
+  camp: https://github.com/patrickthibaudeau/moodle-block_course_menu
+  decided: '2026-08-05'
+  directory: https://github.com/netsapiensis/moodle-block_course_menu
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_course_search:
+  camp: https://github.com/psa-corporate-learning-branch/moodle-course-search
+  decided: '2026-08-05'
+  directory: https://github.com/oohoo/moodle-block_course_search
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_courseaward_medal:
+  camp: https://github.com/ulcc/moodle-block_courseaward_medal
+  decided: '2026-08-05'
+  directory: https://github.com/vaughany/moodle-courseawards
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_courseaward_vote:
+  camp: https://github.com/ulcc/moodle-block_courseaward_vote
+  decided: '2026-08-05'
+  directory: https://github.com/vaughany/moodle-courseawards
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_download_certificates:
+  camp: https://github.com/manieer/moodle-block_download_certificates
+  decided: '2026-08-05'
+  directory: https://github.com/e-learningtouch/moodle-block_download_certificates
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_edureportbook:
+  camp: https://github.com/center-for-learning-management/moodle-block_edureportbook
+  decided: '2026-08-05'
+  directory: https://github.com/rschrenk/moodle-block_edureportbook
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_enrolmenttimer:
+  camp: https://github.com/hyukudan/moodle-block_enrolmenttimer
+  decided: '2026-08-05'
+  directory: https://github.com/learningworks/moodle-block_enrolmenttimer
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_fastnav:
+  camp: https://github.com/lesterhuis-training-en-consultancy/moodle-block_fastnav
+  decided: '2026-08-05'
+  directory: https://github.com/mfreaknl/moodle-block_fastnav
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_flexpagemod:
+  camp: https://github.com/open-lms-open-source/moodle-block_flexpagemod
+  decided: '2026-08-05'
+  directory: https://github.com/moodlerooms/moodle-block_flexpagemod
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_flexpagenav:
+  camp: https://github.com/open-lms-open-source/moodle-block_flexpagenav
+  decided: '2026-08-05'
+  directory: https://github.com/moodlerooms/moodle-block_flexpagenav
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_fn_marking:
+  camp: https://github.com/ned-code/moodle-block_marking_manager
+  decided: '2026-08-05'
+  directory: https://github.com/fernandooliveira/moodle-block_marking_manager
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_fn_myprogress:
+  camp: https://github.com/nadavkav/moodlefn-myprogress
+  decided: '2026-08-05'
+  directory: https://github.com/fernandooliveira/moodle-block_myprogress
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_gchat:
+  camp: https://github.com/bensampaio/moodle-block_gchat
+  decided: '2026-08-05'
+  directory: https://github.com/anakin88/moodle-block_gchat
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_gps:
+  camp: https://github.com/center-for-learning-management/moodle-block_gps
+  decided: '2026-08-05'
+  directory: https://github.com/rschrenk/moodle-block_gps
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_intelligent_learning:
+  camp: https://github.com/open-lms-open-source/moodle-block_intelligent_learning
+  decided: '2026-08-05'
+  directory: https://github.com/ellucianmoodleintegration/moodle-block_intelligent_learning
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_logreport:
+  camp: https://github.com/naveenkumar-7/moodle-block_logreport
+  decided: '2026-08-05'
+  directory: https://github.com/mnaveenkumar/moodle-block_logreport
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_mediagallery:
+  camp: https://github.com/open-lms-open-source/moodle-block_mediagallery
+  decided: '2026-08-05'
+  directory: https://github.com/netspotau/moodle-block_mediagallery
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_mfavatar:
+  camp: https://github.com/ldesignmedia/moodle-block_mfavatar
+  decided: '2026-08-05'
+  directory: https://github.com/mfreaknl/moodle-block_mfavatar
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_multiblock:
+  camp: https://github.com/catalyst/moodle-block_multiblock
+  decided: '2026-08-05'
+  directory: https://github.com/arantor/moodle-block_multiblock
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_myprogress:
+  camp: https://github.com/willianmano/moodle-block_myprogress
+  decided: '2026-08-05'
+  directory: https://github.com/e-learningtouch/moodle-block_myprogress
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_online_users_map:
+  camp: https://github.com/ewallah/moodle-block_online_users_map
+  decided: '2026-08-05'
+  directory: https://github.com/alexlittle/moodle-block_online_users_map
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_open_courses:
+  camp: https://github.com/stemiwe/moodle-block_open_courses
+  decided: '2026-08-05'
+  directory: https://github.com/webers-technikum-wien/moodle-block_open_courses
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_poll:
+  camp: https://github.com/open-lms-open-source/moodle-block_poll
+  decided: '2026-08-05'
+  directory: https://github.com/netspotau/moodle-block_poll
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_quickset:
+  camp: https://github.com/appalachianstate/moodle-block_quickset
+  decided: '2026-08-05'
+  directory: https://github.com/bobpuffer/moodle-block_quickset
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_recommend_course:
+  camp: https://github.com/justaddwater-in/moodle-block_recommend_course
+  decided: '2026-08-05'
+  directory: https://github.com/justaddwater-dev/moodle-block-recommend_course
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_resetcompletion:
+  camp: https://github.com/frumbert/block_resetcompletion
+  decided: '2026-08-05'
+  directory: https://github.com/ajhpark/reset-completion
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_section:
+  camp: https://github.com/nrobbins/moodle_block_section
+  decided: '2026-08-05'
+  directory: https://github.com/andil-elearning/moodle-block_section
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_side_bar:
+  camp: https://github.com/jfilip/moodle-block_side_bar
+  decided: '2026-08-05'
+  directory: https://github.com/fernandooliveira/moodle-block_sidebar
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_slideshow:
+  camp: https://github.com/bobopinna/moodle-blocks_slideshow
+  decided: '2026-08-05'
+  directory: https://github.com/moodleboy/moodle-block_slideshow
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_sms:
+  camp: https://github.com/labsmobile/sms-moodle
+  decided: '2026-08-05'
+  directory: https://github.com/3ilogiclms/moodle-block_sms
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_stash:
+  camp: https://github.com/fmcorz/moodle-block_stash
+  decided: '2026-08-05'
+  directory: https://github.com/abgreeve/moodle-block_stash
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_todo:
+  camp: https://github.com/mudrd8mz/moodle-block_todo
+  decided: '2026-08-05'
+  directory: https://github.com/davewoloszyn/moodle-block_todo
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_user_bookmarks:
+  camp: https://github.com/gurvinder-singh/moodle-block_user_bookmarks
+  decided: '2026-08-05'
+  directory: https://github.com/bbz-ict/moodle-user_bookmarks
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_user_favorites:
+  camp: https://github.com/lesterhuis-training-en-consultancy/moodle-block-user_favorites
+  decided: '2026-08-05'
+  directory: https://github.com/ldesignmedia/moodle-block-user_favorites
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+block_userinfo:
+  camp: https://github.com/ewallah/moodle_block-userinfo
+  decided: '2026-08-05'
+  directory: https://github.com/fbotti/moodle-block_userinfo
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+cachestore_memcachecluster:
+  camp: https://github.com/ericmerrill/moodle-cachestore_memcachecluster
+  decided: '2026-08-05'
+  directory: https://github.com/merrill-oakland/cachestore_memcachecluster
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+cachestore_memcachedcluster:
+  camp: https://github.com/ericmerrill/moodle-cachestore_memcachedcluster
+  decided: '2026-08-05'
+  directory: https://github.com/merrill-oakland/cachestore_memcachedcluster
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+enrol_groupsync:
+  camp: https://github.com/elearnity/moodle-enrol_groupsync
+  decided: '2026-08-05'
+  directory: https://github.com/moodlehq/moodle-enrol_groupsync
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+enrol_idlist2:
+  camp: https://github.com/jbaenaugr/moodle-enrol_idlist2
+  decided: '2026-08-05'
+  directory: https://github.com/javima/moodle-enrol_idlist2
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_camo:
+  camp: https://github.com/alex-rowe/moodle-filter_camo
+  decided: '2026-08-05'
+  directory: https://github.com/agrowe/moodle-filter_camo
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_codepen:
+  camp: https://github.com/thedannywahl/moodle2-codepen-textfilter
+  decided: '2026-08-05'
+  directory: https://github.com/ak4t0sh/moodle-filter_codepen
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_coins:
+  camp: https://github.com/nczirjak-acdh/moodle_filters_coins_updated
+  decided: '2026-08-05'
+  directory: https://github.com/dvillareal22/moodle-filter-coins
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_ecli:
+  camp: https://github.com/ssr-online/moodle-filter_ecli
+  decided: '2026-08-05'
+  directory: https://github.com/joostvanderborg/moodle-filter_ecli
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_ensemble:
+  camp: https://github.com/panopto/ev-moodle-filter_ensemble
+  decided: '2026-08-05'
+  directory: https://github.com/jmpease/moodle-filter_ensemble
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_gurls:
+  camp: https://github.com/ned-code/moodle-filter_gurls
+  decided: '2026-08-05'
+  directory: https://github.com/fernandooliveira/moodle-filter_gurls
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_h5p:
+  camp: https://github.com/center-for-learning-management/moodle-filter_h5p
+  decided: '2026-08-05'
+  directory: https://github.com/rschrenk/moodle-filter_h5p
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_mediagallery:
+  camp: https://github.com/open-lms-open-source/moodle-filter_mediagallery
+  decided: '2026-08-05'
+  directory: https://github.com/netspotau/moodle-filter_mediagallery
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_oembed:
+  camp: https://github.com/catalyst/moodle-filter_oembed
+  decided: '2026-08-05'
+  directory: https://github.com/PoetOS/moodle-filter_oembed
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+filter_ubicast:
+  camp: https://github.com/ndunand/moodle-filter_ubicast
+  decided: '2026-08-05'
+  directory: https://github.com/ubicastteam/moodle-filter_ubicast
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+format_flexpage:
+  camp: https://github.com/open-lms-open-source/moodle-format_flexpage
+  decided: '2026-08-05'
+  directory: https://github.com/moodlerooms/moodle-format_flexpage
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+format_fntabs:
+  camp: https://github.com/ned-code/moodle-format_fntabs
+  decided: '2026-08-05'
+  directory: https://github.com/fernandooliveira/moodle-format_fntabs
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+format_folderview:
+  camp: https://github.com/open-lms-open-source/moodle-format_folderview
+  decided: '2026-08-05'
+  directory: https://github.com/blackboard-open-source/moodle-format_folderview
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+gradingform_checklist:
+  camp: https://github.com/open-lms-open-source/moodle-gradingform_checklist
+  decided: '2026-08-05'
+  directory: https://github.com/moodlerooms/moodle-gradingform_checklist
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_analytics:
+  camp: https://github.com/dbezemer/moodle-local_analytics
+  decided: '2026-08-05'
+  directory: https://github.com/bmbrands/moodle-local_analytics
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_applications:
+  camp: https://github.com/bensampaio/moodle-local_applications
+  decided: '2026-08-05'
+  directory: https://github.com/anakin88/moodle-local_applications
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_chunkupload:
+  camp: https://github.com/opencast-moodle/moodle-local_chunkupload
+  decided: '2026-08-05'
+  directory: https://github.com/learnweb/moodle-local_chunkupload
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_googleanalytics:
+  camp: https://github.com/jhoopes/moodle-local_googleanalytics
+  decided: '2026-08-05'
+  directory: https://github.com/bmbrands/moodle-local_analytics
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_institutions:
+  camp: https://github.com/bensampaio/moodle-local_institutions
+  decided: '2026-08-05'
+  directory: https://github.com/anakin88/moodle-local_institutions
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_jquery:
+  camp: https://github.com/bumoodle/moodle-local_jquery
+  decided: '2026-08-05'
+  directory: https://github.com/johntron/moodle-jquery-plugin
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_loginas:
+  camp: https://github.com/bmbrands/moodle-local_loginas
+  decided: '2026-08-05'
+  directory: https://github.com/itamart/moodle-local_loginas
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_macromucho:
+  camp: https://github.com/stemiwe/moodle-local_macromucho
+  decided: '2026-08-05'
+  directory: https://github.com/webers-technikum-wien/moodle-local_macromucho
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_metasync:
+  camp: https://github.com/willylee/moodle-local_metasync
+  decided: '2026-08-05'
+  directory: https://github.com/lafcolits/moodle-local_metasync
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_och5pcore:
+  camp: https://github.com/opencast-moodle/moodle-local_och5pcore
+  decided: '2026-08-05'
+  directory: https://github.com/elan-ev/moodle-local_och5pcore
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_searchquestions:
+  camp: https://github.com/sensei-hacker/moodle_local_searchquestions
+  decided: '2026-08-05'
+  directory: https://github.com/morrisr2/moodle_local_searchquestions
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_sqlquerybuilder:
+  camp: https://github.com/dpfahl-ms/moodle-local_sqlquerybuilder
+  decided: '2026-08-05'
+  directory: https://github.com/golem28/moodle-local_sqlquerybuilder
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_syslogger:
+  camp: https://github.com/bbusschots-mu/moodle-local_syslogger
+  decided: '2026-08-05'
+  directory: https://github.com/bbusschots-nuim/moodle-local_syslogger
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_unifiedgrader:
+  camp: https://github.com/mkpelletier/moodle-local_unifiedgrader
+  decided: '2026-08-05'
+  directory: https://github.com/sats-seminary/moodle-local_unifiedgrader
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_unusedquestions:
+  camp: https://github.com/sensei-hacker/moodle_local_unusedquestions
+  decided: '2026-08-05'
+  directory: https://github.com/morrisr2/moodle_local_unusedquestions
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_userenrols:
+  camp: https://github.com/appalachianstate/moodle-local_userenrols
+  decided: '2026-08-05'
+  directory: https://github.com/woolardfa/moodle-local_userenrols
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+local_userinfosync:
+  camp: https://github.com/isakic/moodle-local_userinfosync
+  decided: '2026-08-05'
+  directory: https://github.com/dasistwas/moodle-local_userinfosync
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+media_jwplayer:
+  camp: https://github.com/lucisgit/moodle-media_jwplayer
+  decided: '2026-08-05'
+  directory: https://github.com/kabalin/moodle-media_jwplayer
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+message_pushover:
+  camp: https://github.com/jsnfwlr/moodle-message_pushover
+  decided: '2026-08-05'
+  directory: https://github.com/phalacee/moodle-message_pushover
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_adaptivequiz:
+  camp: https://github.com/middlebury/moodle-mod_adaptivequiz
+  decided: '2026-08-05'
+  directory: https://github.com/vtos/moodle-mod_adaptivequiz
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_certificate:
+  camp: https://github.com/mdjnelson/moodle-mod_certificate
+  decided: '2026-08-05'
+  directory: https://github.com/markn86/moodle-mod_certificate
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_confman:
+  camp: https://github.com/center-for-learning-management/moodle-mod_confman
+  decided: '2026-08-05'
+  directory: https://github.com/rschrenk/moodle-mod_confman
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_congrea:
+  camp: https://github.com/congrea/moodle-mod_congrea
+  decided: '2026-08-05'
+  directory: https://github.com/vidyamantra/moodle-mod_congrea
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_gamoteca:
+  camp: https://github.com/jacdsouza/moodle-mod_gamoteca
+  decided: '2026-08-05'
+  directory: https://github.com/gamoteca/gamoteca-moodle-lti-plugin
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_icontent:
+  camp: https://github.com/leorenis/moodle-mod_icontent
+  decided: '2026-08-05'
+  directory: https://github.com/drachels/moodle-mod_icontent
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_leganto:
+  camp: https://github.com/tonyjbutler/moodle-mod_leganto
+  decided: '2026-08-05'
+  directory: https://github.com/lucisgit/moodle-mod_leganto
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_mediagallery:
+  camp: https://github.com/open-lms-open-source/moodle-mod_mediagallery
+  decided: '2026-08-05'
+  directory: https://github.com/netspotau/moodle-mod_mediagallery
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_newsletter:
+  camp: https://github.com/Wunderbyte-GmbH/moodle-mod_newsletter
+  decided: '2026-08-05'
+  directory: https://github.com/dasistwas/moodle-mod_newsletter
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_pcast:
+  camp: https://github.com/sbourget/moodle-mod_pcast
+  decided: '2026-08-05'
+  directory: https://github.com/ldesignmedia/moodle-mod_pcast
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_pdfjsfolder:
+  camp: https://github.com/lemonad/moodle-mod_pdfjsfolder
+  decided: '2026-08-05'
+  directory: https://github.com/a-camacho/moodle-mod_pdfjsfolder
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_qpractice:
+  camp: https://github.com/jayeshanandani/moodle-mod_qpractice
+  decided: '2026-08-05'
+  directory: https://github.com/marcusgreen/moodle-mod_qpractice
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_registration:
+  camp: https://github.com/innocampus/moodle-mod_registration
+  decided: '2026-08-05'
+  directory: https://github.com/curupira/moodle-mod_registration
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_swiftquiz:
+  camp: https://github.com/swiftquiz-team/moodle-mod_swiftquiz
+  decided: '2026-08-05'
+  directory: https://github.com/justlorain/moodle-mod_swiftquiz
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_teambuilder:
+  camp: https://github.com/open-lms-open-source/moodle-mod_teambuilder
+  decided: '2026-08-05'
+  directory: https://github.com/netspotau/moodle-mod_teambuilder
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_virtualpc:
+  camp: https://github.com/cvuma/moodle-mod_virtualpc
+  decided: '2026-08-05'
+  directory: https://github.com/evltuma/moodle-mod_virtualpc
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_webexactivity:
+  camp: https://github.com/ericmerrill/moodle-mod_webexactivity
+  decided: '2026-08-05'
+  directory: https://github.com/merrill-oakland/moodle-mod_webexactivity
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+mod_wims:
+  camp: https://github.com/vfremaux/moodle-mod_wims
+  decided: '2026-08-05'
+  directory: https://github.com/suipnice/moodle-mod_wims
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+plagiarism_copycheck:
+  camp: https://github.com/gerie-alards/copycheck-plagiarism-plugin-for-moodle
+  decided: '2026-08-05'
+  directory: https://github.com/onno-schuit/copycheck
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+plagiarism_safeassign:
+  camp: https://github.com/blackboard-learn/moodle-plagiarism_safeassign
+  decided: '2026-08-05'
+  directory: https://github.com/open-lms-open-source/moodle-plagiarism_safeassign
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+plagiarism_urkund:
+  camp: https://github.com/danmarsden/moodle-plagiarism_urkund
+  decided: '2026-08-05'
+  directory: https://github.com/jprietolopez/moodle-plagiarism_urkund
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+profilefield_multiselect:
+  camp: https://github.com/catalyst/moodle-profilefield_multiselect
+  decided: '2026-08-05'
+  directory: https://github.com/nitinwaves/moodle-profilefield_multiselect
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+qbehaviour_adaptivehints:
+  camp: https://github.com/saylordotorg/moodle-qbehaviour_adaptivehints
+  decided: '2026-08-05'
+  directory: https://bitbucket.org/oasychev/moodle-plugins
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+qbehaviour_adaptivehintsnopenalties:
+  camp: https://github.com/saylordotorg/moodle-qbehaviour_adaptivehintsnopenalties
+  decided: '2026-08-05'
+  directory: https://bitbucket.org/oasychev/moodle-plugins
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+qbehaviour_interactivehints:
+  camp: https://github.com/saylordotorg/moodle-qbehaviour_interactivehints
+  decided: '2026-08-05'
+  directory: https://bitbucket.org/oasychev/moodle-plugins
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+qformat_printout:
+  camp: https://github.com/stemiwe/moodle-qformat_printout
+  decided: '2026-08-05'
+  directory: https://github.com/webers-technikum-wien/moodle-qformat_printout
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+qtype_multichoiceset:
+  camp: https://github.com/jmvedrine/moodle-qtype_multichoiceset
+  decided: '2026-08-05'
+  directory: https://github.com/ecampbell/moodle-qtype_multichoiceset
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+qtype_poasquestion:
+  camp: https://github.com/saylordotorg/moodle-qtype_poasquestion
+  decided: '2026-08-05'
+  directory: https://bitbucket.org/oasychev/moodle-plugins
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+quiz_randomsummary:
+  camp: https://github.com/studium/moodle-quiz_randomsummary
+  decided: '2026-08-05'
+  directory: https://github.com/danmarsden/moodle-quiz_randomsummary
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+report_allylti:
+  camp: https://github.com/anthology-ally/moodle-report_allylti
+  decided: '2026-08-05'
+  directory: https://github.com/open-lms-open-source/moodle-report_allylti
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+report_deviceanalytics:
+  camp: https://github.com/0x4dark/moodle-report_deviceanalytics
+  decided: '2026-08-05'
+  directory: https://github.com/markheumueller/moodle-report_deviceanalytics
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+report_overviewstats:
+  camp: https://github.com/dualcube/moodle-report_overviewstats
+  decided: '2026-08-05'
+  directory: https://github.com/mudrd8mz/moodle-report_overviewstats
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+repository_bitbucket:
+  camp: https://github.com/robertmarsal/moodle-repository_bitbucket
+  decided: '2026-08-05'
+  directory: https://github.com/robertboloc/moodle-repository_bitbucket
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+repository_ensemble:
+  camp: https://github.com/panopto/ev-moodle-repository_ensemble
+  decided: '2026-08-05'
+  directory: https://github.com/ensemblevideo/moodle-repository_ensemble
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+repository_searchable:
+  camp: https://github.com/jpahullo/moodle-repository_searchable
+  decided: '2026-08-05'
+  directory: https://github.com/sred-urv/moodle-repository_searchable
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+smsgateway_twilio:
+  camp: https://github.com/safatshahin/moodle-smsgateway_twilio
+  decided: '2026-08-05'
+  directory: https://github.com/santoshndev/moodle-smsgateway_twilio
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+theme_afterburner:
+  camp: https://github.com/moodlehq/moodle-theme_afterburner
+  decided: '2026-08-05'
+  directory: https://github.com/lazydaisy/moodle-theme_afterburner
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+theme_arialist:
+  camp: https://github.com/moodlehq/moodle-theme_arialist
+  decided: '2026-08-05'
+  directory: https://github.com/lazydaisy/moodle-theme_arialist
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+theme_campus:
+  camp: https://github.com/wunderbyte-gmbh/moodle-theme_campus
+  decided: '2026-08-05'
+  directory: https://github.com/dasistwas/moodle-theme_campus
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+theme_cubic:
+  camp: https://github.com/bensampaio/moodle-theme_cubic
+  decided: '2026-08-05'
+  directory: https://github.com/anakin88/moodle-theme_cubic
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+theme_elegance:
+  camp: https://github.com/eduridden/moodle-theme_elegance
+  decided: '2026-08-05'
+  directory: https://github.com/bmbrands/moodle-theme_elegance
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+theme_flexpage:
+  camp: https://github.com/open-lms-open-source/moodle-theme_flexpage
+  decided: '2026-08-05'
+  directory: https://github.com/moodlerooms/moodle-theme_flexpage
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+theme_moodlebook:
+  camp: https://github.com/eduridden/moodle-theme_moodlebook
+  decided: '2026-08-05'
+  directory: https://github.com/coursebit/moodle-theme_social
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+theme_serenity:
+  camp: https://github.com/moodlehq/moodle-theme_serenity
+  decided: '2026-08-05'
+  directory: https://github.com/lazydaisy/moodle-theme_serenity
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tiny_corrections:
+  camp: https://github.com/nicoalexh/moodle-tiny_corrections
+  decided: '2026-08-05'
+  directory: https://github.com/ndunand/moodle-tiny_corrections
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tiny_fontfamily:
+  camp: https://github.com/mediamaisteri/moodle-tiny_fontfamily
+  decided: '2026-08-05'
+  directory: https://github.com/finspire-fi/moodle-tiny_fontfamily
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tiny_fontsize:
+  camp: https://github.com/mediamaisteri/moodle-tiny_fontsize
+  decided: '2026-08-05'
+  directory: https://github.com/finspire-fi/moodle-tiny_fontsize
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tiny_translations:
+  camp: https://github.com/andrewnicols/moodle-tiny_translations
+  decided: '2026-08-05'
+  directory: https://github.com/moodleacademy/moodle-tiny_translations
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tinymce_clozeeditor:
+  camp: https://github.com/andiglombitza/moodle-tinymce_clozeeditor
+  decided: '2026-08-05'
+  directory: https://github.com/germanvaleroelizondo/moodle-tinymce_clozeeditor
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tinymce_mediagallery:
+  camp: https://github.com/open-lms-open-source/moodle-tinymce_mediagallery
+  decided: '2026-08-05'
+  directory: https://github.com/netspotau/moodle-tinymce_mediagallery
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tool_adhoc:
+  camp: https://github.com/vfremaux/moodle-tool_adhoc
+  decided: '2026-08-05'
+  directory: https://github.com/unikent/moodle-tool_adhoc
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tool_coursesearch:
+  camp: https://github.com/shashitechno/moodle-tool_coursesearch
+  decided: '2026-08-05'
+  directory: https://github.com/shashirepo/moodle-tool_coursesearch
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tool_coursesummary:
+  camp: https://github.com/wcln/moodle-tool_coursesummary
+  decided: '2026-08-05'
+  directory: https://github.com/colinbernard/moodle-tool_coursesummary
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tool_crawler:
+  camp: https://github.com/catalyst/moodle-tool_crawler
+  decided: '2026-08-05'
+  directory: https://github.com/central-queensland-uni/moodle-tool_crawler
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tool_quizpasschange:
+  camp: https://github.com/wcln/moodle-tool_quizpasschange
+  decided: '2026-08-05'
+  directory: https://github.com/colinbernard/moodle-tool-quizpasschange
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tool_rebuildcoursecache:
+  camp: https://github.com/alex-rowe/moodle-tool_rebuildcoursecache
+  decided: '2026-08-05'
+  directory: https://github.com/agrowe/moodle-tool_rebuildcoursecache
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
+tool_themetester:
+  camp: https://github.com/open-lms-open-source/moodle-tool_themetester
+  decided: '2026-08-05'
+  directory: https://github.com/davidscotson/moodle-tool_themetester
+  record: https://github.com/camp-registry/camp-tools/issues/14
+  verdict: keep
