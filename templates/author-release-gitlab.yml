@@ -32,7 +32,7 @@ camp-release:
     COMPONENT: ""
     SUPPORTED_MOODLE: ""
   script:
-    - pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.39"
+    - pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.40"
     - git clone --quiet --depth 1 "$CAMP_INDEX_REPO_URL" index-repo
     - |
       if [ -z "${COMPONENT}" ]; then
