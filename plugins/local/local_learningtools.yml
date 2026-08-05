@@ -1,5 +1,5 @@
 component: local_learningtools
-source: https://github.com/futuresea-dev/Moodle-Learning-Tools
+source: https://github.com/bdecentgmbh/moodle-local_learningtools
 maintainers:
 - github: futuresea-dev
 tier: 0
@@ -10,9 +10,12 @@ summary: Learning Tools provides the learner with a set of useful tools, like bo
   or notes.
 license: GPL-3.0
 metrics:
-  updated: '2025-01-06T16:27:23Z'
+  updated: '2026-06-13T22:29:57Z'
   stars: 4
-  forks: 0
-  open-issues: 0
+  forks: 5
+  open-issues: 7
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.3-r4
+    date: '2026-06-12T13:29:04Z'
+  checked: '2026-08-05'
