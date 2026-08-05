@@ -1,5 +1,5 @@
 component: block_behaviour
-source: https://github.com/Behaviour-Analytics/moodle-block_behaviour
+source: https://github.com/VIP-Research-Group/moodle-block_behaviour
 maintainers:
 - github: Behaviour-Analytics
 tier: 0
@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Behaviour analytics plugin for Moodle LMS.
 metrics:
-  updated: '2023-03-03T15:52:37Z'
-  stars: 2
-  forks: 1
-  open-issues: 10
+  updated: '2023-03-17T19:47:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-05'
