@@ -55,7 +55,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools[screenshots,archive] @ git+https://github.com/camp-registry/camp-tools@v0.2.47"
+        run: pip install --quiet "camp-tools[screenshots,archive] @ git+https://github.com/camp-registry/camp-tools@v0.2.48"
 
       - name: Setup PHP (code checks)
         uses: shivammathur/setup-php@v2
@@ -70,6 +70,29 @@ jobs:
           composer global require --quiet moodlehq/moodle-cs
           echo "$(composer global config bin-dir --absolute --quiet)" >> "$GITHUB_PATH"
 
+      # Moodle grunt rig for the AMD rebuild verdicts (camp-tools#4): a
+      # pinned checkout with node_modules, cached across publishes; a
+      # cache miss costs one clone plus npm ci. When the branch or node
+      # version here moves, bump CHECKER_VERSION in camp-tools with it —
+      # rebuild verdicts are only deterministic against a fixed rig.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Restore Moodle rig
+        id: rig-cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/moodle-rig
+          key: moodle-rig-MOODLE_405_STABLE-node22-v1
+
+      - name: Build Moodle rig
+        if: steps.rig-cache.outputs.cache-hit != 'true'
+        run: |
+          git clone --quiet --depth 1 --branch MOODLE_405_STABLE \
+            https://github.com/moodle/moodle "$RUNNER_TEMP/moodle-rig"
+          cd "$RUNNER_TEMP/moodle-rig" && npm ci --no-audit --no-fund
+
       - name: Generate the distribution tree
         env:
           B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
@@ -81,7 +104,8 @@ jobs:
           # transparency; also feeds the site's chips and badges). Results
           # are commit-deterministic: the previous publish is the cache,
           # so only new releases are actually analyzed.
-          camp checks . dist/checks --reuse "$BASE_URL/checks"
+          camp checks . dist/checks --reuse "$BASE_URL/checks" \
+            --moodle-rig "$RUNNER_TEMP/moodle-rig"
 
           # Ingest listing manifests + screenshots from each released
           # plugin's repo at the ledger commit (pinned, sanitized).
