@@ -1,5 +1,5 @@
 component: local_deletecourse
-source: https://github.com/MathieuDomingo/moodle-local_deletecourse
+source: https://github.com/bhardwaj-amit/moodle-local_deletecourse
 maintainers:
 - github: MathieuDomingo
 tier: 0
@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Small local plugin to add a delete button in the course administration menu
 metrics:
-  updated: '2018-12-19T07:12:59Z'
-  stars: 1
+  updated: '2025-07-29T06:48:59Z'
+  stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-05'
