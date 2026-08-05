@@ -1,5 +1,5 @@
 component: local_autogroup
-source: https://gitlab.com/artem-zaloga/moodle-local_autogroup
+source: https://github.com/emmarichardson/local_autogroup
 maintainers:
 - gitlab: artem-zaloga
 tier: 0
@@ -8,9 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2023-12-06T16:34:36.441Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2025-05-06T18:44:30Z'
+  stars: 7
+  forks: 20
+  open-issues: 21
   archived: false
-  checked: '2026-08-02'
+  latest-release:
+    tag: 2.8.2
+    date: '2023-04-06T09:08:55Z'
+  checked: '2026-08-05'
