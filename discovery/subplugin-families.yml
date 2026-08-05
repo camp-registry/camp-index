@@ -1,0 +1,61 @@
+# Established third-party subplugin families (camp-tools#16): one record
+# per family approved by human review. A prefix listed here is a known
+# plugin type — the scanner lists its members like any core type, and the
+# site renders the recorded name. First contact with a prefix NOT in this
+# file parks in needs-review and files a "New subplugin family detected"
+# issue; establishing it means adding a record here (parent, name,
+# established date, the review issue's URL).
+#
+# Grandfathering batch established 2026-08-05 (registry lead approval),
+# review record: https://github.com/camp-registry/camp-tools/issues/16
+
+customcertelement:
+  parent: mod_customcert
+  name: Certificate elements
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+lifecyclestep:
+  parent: tool_lifecycle
+  name: Course life cycle steps
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+lifecycletrigger:
+  parent: tool_lifecycle
+  name: Course life cycle triggers
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+dataformfield:
+  parent: mod_dataform
+  name: Dataform fields
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+dataformview:
+  parent: mod_dataform
+  name: Dataform views
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+capquizreport:
+  parent: mod_capquiz
+  name: CAPQuiz reports
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+msocialconnector:
+  parent: mod_msocial
+  name: MSocial connectors
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+msocialview:
+  parent: mod_msocial
+  name: MSocial views
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+engagementindicator:
+  parent: mod_engagement
+  name: Engagement indicators
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
+dhimport:
+  parent: local_datahub
+  name: Data Hub import plugins
+  established: "2026-08-05"
+  issue: https://github.com/camp-registry/camp-tools/issues/16
