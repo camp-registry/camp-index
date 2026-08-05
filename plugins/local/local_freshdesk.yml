@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle Freshdesk Widget Plugin
 metrics:
-  updated: '2026-06-11T08:39:32Z'
+  updated: '2026-08-04T04:53:39Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.4.8
+    date: '2026-08-03T09:57:01Z'
+  checked: '2026-08-05'

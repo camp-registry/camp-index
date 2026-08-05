@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
 summary: This Moodle plugin (local type) allows you to schedule automatic show/hide
   actions for gradebook categories in one or multiple courses, based on flexible rules
   to be executed at a specific date and time.

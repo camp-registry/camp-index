@@ -13,6 +13,8 @@ metrics:
   forks: 1
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
 summary: This plugin extends the core Glossary to support importing glossary entries
   from a Word file
+dependencies:
+  booktool_wordimport: 2025042300

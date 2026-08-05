@@ -12,9 +12,12 @@ summary: Information Centre enables the management and display of information wi
   as well as for defining message categories and visibility options based on user
   roles.
 metrics:
-  updated: '2026-06-12T13:22:36Z'
+  updated: '2026-07-15T08:09:49Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.0.3
+    date: '2026-07-15T08:09:49Z'
+  checked: '2026-08-05'

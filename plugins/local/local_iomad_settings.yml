@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  checked: '2026-08-05'
 summary: The IOMAD local settings plugin provides configuration options for the IOMAD
   suite of plugins.
+dependencies:
+  local_iomad: 2024090401

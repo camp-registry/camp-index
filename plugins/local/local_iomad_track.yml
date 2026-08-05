@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  checked: '2026-08-05'
 summary: The local IOMAD track plugin provides the automation for recording information
   which is used by the IOMAD reports.
+dependencies:
+  local_iomad: 2024090401

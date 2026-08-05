@@ -1,21 +1,24 @@
 component: local_geniai
 source: https://github.com/EduardoKrausME/moodle-local_geniai
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_geniai/security'
+security-contact: https://github.com/EduardoKrausME/moodle-local_geniai/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - external-account
-  - paid-service
+- external-account
+- paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: 'Artificial intelligence features that support content creation and learning.'
+summary: Artificial intelligence features that support content creation and learning.
 metrics:
-  updated: '2025-06-02T02:38:08Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
+  updated: '2026-08-03T11:38:59Z'
+  stars: 8
+  forks: 5
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 3.0.1
+    date: '2026-07-10T12:00:49Z'
+  checked: '2026-08-05'

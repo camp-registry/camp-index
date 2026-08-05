@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.1.0
+    date: '2025-12-22T09:48:16Z'
+  checked: '2026-08-05'
 summary: Limit the ability to create posts / reply in a forum module.

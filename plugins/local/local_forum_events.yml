@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  checked: '2026-08-05'
 summary: Moodle plugin that hooks into the Moodle Events API and sends the events
   via forum.

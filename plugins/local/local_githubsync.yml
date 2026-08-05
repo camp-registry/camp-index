@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin that syncs course content from a GitHub repository
 metrics:
-  updated: '2026-06-20T03:22:05Z'
+  updated: '2026-08-01T03:26:01Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.5.0
+    date: '2026-02-07T03:37:14Z'
+  checked: '2026-08-05'
