@@ -1,5 +1,5 @@
 component: tool_groupautoenrol
-source: https://github.com/pascal-my/moodle-admin_tool_groupautoenrol
+source: https://github.com/LdesignMedia/moodle-tool_groupautoenrol
 maintainers:
 - github: pascal-my
 tier: 0
@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: This plugin is closed, see https://github.com/Lesterhuis-Training-en-Consultancy/moodle-tool_groupautoenrol
 metrics:
-  updated: '2025-09-03T14:39:14Z'
+  updated: '2026-06-24T18:22:59Z'
   stars: 0
-  forks: 2
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 5.1.1
+    date: '2026-06-24T18:23:00Z'
+  checked: '2026-08-05'
