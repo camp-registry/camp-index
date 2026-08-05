@@ -1,5 +1,5 @@
 component: format_letstudy
-source: https://gitlab.com/cborn1/moodle-format_letstudy
+source: https://gitlab.com/letstudygroup/moodle-format_letstudy
 maintainers:
 - gitlab: cborn1
 tier: 0
@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: A modern Moodle course format plugin with 10 visual layouts, progress tracking,
   animations, and per-course colour customisation.
 metrics:
-  updated: '2026-06-25T13:56:17.277Z'
+  updated: '2026-07-02T19:33:11.045Z'
   stars: 0
-  forks: 0
+  forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-08-01'
+  checked: '2026-08-05'
