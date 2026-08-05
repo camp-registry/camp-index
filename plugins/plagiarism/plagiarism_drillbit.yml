@@ -1,5 +1,5 @@
 component: plagiarism_drillbit
-source: https://github.com/Rutujakarnuk/https-github.com-drillbit-dev-moodle-plagiarism_drillbit
+source: https://github.com/drillbit-dev/moodle-plagiarism_drillbit
 maintainers:
 - github: Rutujakarnuk
 tier: 0
@@ -8,9 +8,9 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-03-06T06:04:59Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2024-10-17T18:29:58Z'
+  stars: 3
+  forks: 1
+  open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
