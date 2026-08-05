@@ -1,5 +1,5 @@
 component: fileconverter_onedrive
-source: https://github.com/center-for-learning-management/moodle-fileconverter_onedrive
+source: https://bitbucket.org/uonmoodle/moodle-fileconverter_onedrive
 maintainers:
 - github: center-for-learning-management
 tier: 0
@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Fork from https://bitbucket.org/uonmoodle/moodle-fileconverter_onedrive/src/master/
-metrics:
-  updated: '2021-10-08T14:21:25Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-07-31'
