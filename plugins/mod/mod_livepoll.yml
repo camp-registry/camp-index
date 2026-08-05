@@ -1,5 +1,5 @@
 component: mod_livepoll
-source: https://github.com/dvdcastro/moodle-mod_livepoll
+source: https://github.com/open-lms-open-source/moodle-mod_livepoll
 maintainers:
 - github: dvdcastro
 tier: 0
@@ -9,9 +9,9 @@ releases: []
 license: AGPL-3.0
 summary: Moodle Live Poll plugin
 metrics:
-  updated: '2021-03-26T20:15:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: true
-  checked: '2026-07-11'
+  updated: '2026-07-22T20:43:31Z'
+  stars: 2
+  forks: 4
+  open-issues: 3
+  archived: false
+  checked: '2026-08-05'
