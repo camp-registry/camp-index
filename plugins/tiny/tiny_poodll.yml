@@ -1,5 +1,5 @@
 component: tiny_poodll
-source: https://github.com/udir-moodle/tiny_poodll
+source: https://github.com/justinhunt/moodle-tiny_poodll
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T16:57:34Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-07-27T23:56:24Z'
+  stars: 1
+  forks: 1
+  open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.13
+    date: '2026-04-20T04:22:58Z'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
