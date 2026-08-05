@@ -1,5 +1,5 @@
 component: theme_rocket
-source: https://github.com/eduridden/moodle-theme_rocket
+source: https://github.com/dualcube/moodle-theme_rocket
 maintainers:
 - github: eduridden
 tier: 0
@@ -11,9 +11,9 @@ summary: Rocket is a professional high customisable theme for those who wish the
   Moodle site to look less "moodley". It is a fixed width theme with multiple block
   locations.
 metrics:
-  updated: '2013-07-09T02:28:14Z'
-  stars: 19
-  forks: 5
-  open-issues: 1
+  updated: '2023-02-10T12:32:26Z'
+  stars: 0
+  forks: 8
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
