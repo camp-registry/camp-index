@@ -1,5 +1,5 @@
 component: mod_readaloud
-source: https://github.com/udir-moodle/mod_readaloud
+source: https://github.com/justinhunt/moodle-mod_readaloud
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T17:12:59Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-07-27T05:15:24Z'
+  stars: 5
+  forks: 3
+  open-issues: 9
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.1.29
+    date: '2026-06-12T07:31:14Z'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
