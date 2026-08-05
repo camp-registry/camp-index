@@ -1,5 +1,5 @@
 component: tiny_wiris
-source: https://github.com/udir-moodle/tiny_wiris
+source: https://github.com/wiris/moodle-tiny_wiris
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T16:57:46Z'
-  stars: 0
-  forks: 0
+  updated: '2026-06-01T07:41:06Z'
+  stars: 5
+  forks: 6
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v.8.11.0
+    date: '2026-04-21T11:40:36Z'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
