@@ -1,5 +1,5 @@
 component: tool_certificate
-source: https://gitlab.com/stronk7/moodle-tool_certificate
+source: https://github.com/moodleworkplace/moodle-tool_certificate
 maintainers:
 - gitlab: stronk7
 tier: 0
@@ -8,9 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2022-06-15T17:21:07.636Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-06-10T07:53:02Z'
+  stars: 17
+  forks: 36
+  open-issues: 11
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.0.0
+    date: '2022-04-20T17:47:24Z'
+  checked: '2026-08-05'
