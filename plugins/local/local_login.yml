@@ -1,5 +1,5 @@
 component: local_login
-source: https://github.com/michael-milette/moodle-local_login
+source: https://github.com/catalyst/moodle-local_login
 maintainers:
 - github: michael-milette
 tier: 0
@@ -11,9 +11,9 @@ summary: Login to a local Moodle account even when the site is configured to onl
   allow logins using OAuth2 or other authentication. For premium support, contact
   us at https://www.tngconsulting.ca/contact
 metrics:
-  updated: '2024-10-04T03:37:19Z'
-  stars: 6
-  forks: 2
-  open-issues: 0
+  updated: '2026-04-15T07:35:39Z'
+  stars: 5
+  forks: 5
+  open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
