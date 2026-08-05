@@ -1,5 +1,5 @@
 component: quiz_downloadsubmissions
-source: https://github.com/patrickthibaudeau/moodle-quiz-report_downloadsubmissions
+source: https://github.com/IITBombayWeb/moodle-quiz_downloadsubmissions
 maintainers:
 - github: patrickthibaudeau
 tier: 0
@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2024-03-25T18:41:48Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
+  updated: '2024-08-05T09:45:46Z'
+  stars: 6
+  forks: 16
+  open-issues: 20
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
 summary: The ‘Download essay submission’ plugin offers users a convenient way by which
   teachers can download quiz essay attachments submitted by students in response to
   quiz essay questions.
