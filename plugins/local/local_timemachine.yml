@@ -1,5 +1,5 @@
 component: local_timemachine
-source: https://github.com/emdalton/moodle-local_timemachine
+source: https://github.com/zmoodle/moodle-local_timemachine
 maintainers:
 - github: emdalton
 tier: 0
@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: A plugin to use on testing sites that rolls dates forward, based on the anonymise
   plugin
 metrics:
-  updated: '2019-11-04T16:46:20Z'
+  updated: '2025-12-02T12:34:59Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
