@@ -1,5 +1,5 @@
 component: report_tuteur
-source: https://github.com/Le-Mans-Universite/moodle-report_tuteur
+source: https://github.com/mleconte/tuteur
 maintainers:
 - github: Le-Mans-Universite
 tier: 0
@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Help tutor's action by colorizing new student's response.
 metrics:
-  updated: '2022-04-27T08:58:50Z'
-  stars: 0
+  updated: '2020-05-25T06:17:58Z'
+  stars: 1
   forks: 0
-  open-issues: 0
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0
+    date: '2020-05-25T06:15:32Z'
+  checked: '2026-08-05'
