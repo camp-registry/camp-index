@@ -1,5 +1,5 @@
 component: portfolio_evernote
-source: https://github.com/Kavedin/moodle-portfolio_evernote35
+source: https://github.com/thatsvishalhere/moodle-portfolio_evernote
 maintainers:
 - github: Kavedin
 tier: 0
@@ -8,9 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2023-12-08T08:46:54Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2014-02-02T15:15:48Z'
+  stars: 2
+  forks: 1
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.0
+    date: '2013-10-16T05:52:37Z'
+  checked: '2026-08-05'
