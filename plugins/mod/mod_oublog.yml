@@ -1,5 +1,5 @@
 component: mod_oublog
-source: https://github.com/GEveloper/mod_oublog-advanced
+source: https://github.com/moodleou/moodle-mod_oublog
 maintainers:
 - github: GEveloper
 tier: 0
@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Project goal is to improve Moodle's default mod_oublog plugin.
 metrics:
-  updated: '2021-11-01T11:16:17Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-06-29T09:21:24Z'
+  stars: 32
+  forks: 29
+  open-issues: 85
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
