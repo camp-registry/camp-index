@@ -1,5 +1,5 @@
 component: local_pg
-source: https://github.com/harble/moodle_local_pg
+source: https://github.com/fmido88/moodle-local_pg
 maintainers:
 - github: harble
 tier: 0
@@ -8,11 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-02T11:44:48Z'
+  updated: '2026-03-23T02:36:30Z'
   stars: 0
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.1
+    date: '2025-07-14T23:16:22Z'
+  checked: '2026-08-05'
 summary: Custom pages for moodle, with multilangs, custom contexts, blocks, selectable
   layout, custom js and css for each page, easy url and more.
