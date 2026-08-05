@@ -1,5 +1,5 @@
 component: filter_poodll
-source: https://github.com/udir-moodle/filter_poodll
+source: https://github.com/justinhunt/moodle-filter_poodll
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T17:02:55Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-05-29T05:32:26Z'
+  stars: 6
+  forks: 17
+  open-issues: 23
   archived: false
-  checked: '2026-07-31'
+  latest-release:
+    tag: v3.1.92
+    date: '2026-04-20T06:02:42Z'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
