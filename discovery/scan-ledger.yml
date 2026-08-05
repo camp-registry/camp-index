@@ -58707,10 +58707,11 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
   marxjohnson/moodle-tool_targetgrades:
-    outcome: exists
-    detail: component tool_targetgrades already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#203)
+    component: tool_targetgrades
     first-seen: '2026-07-23'
-    last-checked: '2026-08-03'
+    last-checked: '2026-08-05'
   marxjohnson/moodle_admin-uploadcourse.php:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
