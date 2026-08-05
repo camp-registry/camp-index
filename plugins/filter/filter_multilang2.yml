@@ -1,5 +1,5 @@
 component: filter_multilang2
-source: https://github.com/udir-moodle/filter_multilang2
+source: https://github.com/iarenaza/moodle-filter_multilang2
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T16:52:06Z'
-  stars: 0
-  forks: 0
+  updated: '2026-04-19T09:59:26Z'
+  stars: 8
+  forks: 18
   open-issues: 0
   archived: false
-  checked: '2026-07-31'
+  latest-release:
+    tag: 2.0.5.2
+    date: '2025-04-17T19:02:03Z'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
