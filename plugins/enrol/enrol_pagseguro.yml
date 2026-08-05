@@ -1,5 +1,5 @@
 component: enrol_pagseguro
-source: https://github.com/AgattiTech/moodle_pagseguro_transparente
+source: https://github.com/danielneis/moodle-enrol_pagseguro
 maintainers:
 - github: AgattiTech
 tier: 0
@@ -8,10 +8,10 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2021-03-22T20:13:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2021-02-15T16:39:07Z'
+  stars: 14
+  forks: 10
+  open-issues: 4
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-05'
 summary: Plugin de inscrição via PagSeguro para o Moodle
