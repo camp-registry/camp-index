@@ -1,5 +1,5 @@
 component: qtype_crossword
-source: https://github.com/eLearning-BS23/moodle-qtype_crossword
+source: https://github.com/moodleou/moodle-qtype_crossword
 maintainers:
 - github: eLearning-BS23
 tier: 0
@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Moodle Crossword question type plugin will help teacher or course administrator
   to create crossword puzzle question for quizzes.
 metrics:
-  updated: '2022-07-12T05:59:01Z'
-  stars: 2
-  forks: 1
-  open-issues: 4
+  updated: '2026-07-17T03:40:57Z'
+  stars: 0
+  forks: 7
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
