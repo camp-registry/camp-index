@@ -1,5 +1,5 @@
 component: auth_basic
-source: https://gitlab.com/aspark21snow/moodle-auth_basic
+source: https://github.com/catalyst/moodle-auth_basic
 maintainers:
 - gitlab: aspark21snow
 tier: 0
@@ -8,9 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2020-10-22T22:12:15.702Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-07-24T14:27:09Z'
+  stars: 7
+  forks: 8
+  open-issues: 12
   archived: false
-  checked: '2026-07-26'
+  latest-release:
+    tag: '2020101300'
+    date: '2020-10-13T05:54:12Z'
+  checked: '2026-08-05'
