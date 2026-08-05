@@ -1,5 +1,5 @@
 component: theme_fordson
-source: https://gitlab.com/viet-do/moodle-theme_fordson
+source: https://github.com/dbnschools/moodle-theme_fordson
 maintainers:
 - gitlab: viet-do
 tier: 0
@@ -8,9 +8,9 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2023-06-27T15:29:03.800Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2022-02-02T09:58:24Z'
+  stars: 41
+  forks: 38
+  open-issues: 37
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
