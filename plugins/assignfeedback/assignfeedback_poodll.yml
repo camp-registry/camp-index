@@ -1,5 +1,5 @@
 component: assignfeedback_poodll
-source: https://github.com/udir-moodle/assignfeedback_poodll
+source: https://github.com/justinhunt/moodle-assignfeedback_poodll
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T16:24:19Z'
+  updated: '2021-11-11T06:10:00Z'
   stars: 0
-  forks: 0
-  open-issues: 0
+  forks: 4
+  open-issues: 2
   archived: false
-  checked: '2026-07-26'
+  latest-release:
+    tag: v3.1.030
+    date: '2021-11-11T06:10:00Z'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
