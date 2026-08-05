@@ -1,5 +1,5 @@
 component: mod_aichat
-source: https://github.com/surlabs/AIChatForMoodle
+source: https://github.com/bycs-lp/moodle-mod_aichat
 maintainers:
 - github: surlabs
 tier: 0
@@ -10,9 +10,12 @@ summary: With this plugin for Moodle, your platform users can chat with a Large 
   Model such as GPT.
 license: GPL-3.0
 metrics:
-  updated: '2025-11-18T07:16:14Z'
-  stars: 0
-  forks: 0
+  updated: '2026-05-08T06:38:24Z'
+  stars: 2
+  forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.3
+    date: '2026-05-08T06:38:25Z'
+  checked: '2026-08-05'
