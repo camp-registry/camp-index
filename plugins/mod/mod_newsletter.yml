@@ -1,5 +1,5 @@
 component: mod_newsletter
-source: https://gitlab.com/uvedtb/moodle-mod_newsletter
+source: https://github.com/Wunderbyte-GmbH/moodle-mod_newsletter
 maintainers:
 - gitlab: uvedtb
 tier: 0
@@ -8,9 +8,9 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-11-14T12:21:47.557Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2024-07-24T13:34:09Z'
+  stars: 6
+  forks: 7
+  open-issues: 7
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
