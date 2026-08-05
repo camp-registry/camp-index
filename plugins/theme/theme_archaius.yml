@@ -1,5 +1,5 @@
 component: theme_archaius
-source: https://github.com/arborrow/moodle-theme_archaius
+source: https://github.com/dmuneras/moodle-theme_archaius
 maintainers:
 - github: arborrow
 tier: 0
@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Anole theme - beta version
 metrics:
-  updated: '2013-03-17T22:52:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2017-01-30T19:12:09Z'
+  stars: 5
+  forks: 9
+  open-issues: 12
   archived: false
-  checked: '2026-07-23'
+  latest-release:
+    tag: v1.4.7
+    date: '2015-12-04T13:13:42Z'
+  checked: '2026-08-05'
