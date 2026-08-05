@@ -1,5 +1,5 @@
 component: assignsubmission_onlinepoodll
-source: https://github.com/udir-moodle/assignsubmission_onlinepoodll
+source: https://github.com/justinhunt/moodle-assign_submission_onlinepoodll
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T16:30:15Z'
+  updated: '2025-04-25T08:21:12Z'
   stars: 0
-  forks: 0
-  open-issues: 0
+  forks: 5
+  open-issues: 2
   archived: false
-  checked: '2026-07-26'
+  latest-release:
+    tag: v3.1.13
+    date: '2023-12-08T05:36:19Z'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
