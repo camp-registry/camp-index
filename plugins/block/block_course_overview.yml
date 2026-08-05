@@ -1,5 +1,5 @@
 component: block_course_overview
-source: https://github.com/catalyst/moodle-block_course_overview
+source: https://github.com/thepurpleblob/moodle-block_course_overview
 maintainers:
 - github: catalyst
 tier: 0
@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2019-10-28T00:18:44Z'
+  updated: '2020-07-28T09:30:18Z'
   stars: 1
-  forks: 1
-  open-issues: 0
+  forks: 9
+  open-issues: 17
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-05'
 summary: Course overview (legacy) block for Moodle
