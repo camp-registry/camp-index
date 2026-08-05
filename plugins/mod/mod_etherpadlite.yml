@@ -1,5 +1,5 @@
 component: mod_etherpadlite
-source: https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_etherpadlite
+source: https://github.com/moodlehu/moodle-mod_etherpadlite
 maintainers:
 - gitlab: dne-elearning/moodle-magistere
 tier: 0
@@ -8,9 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2024-01-08T11:15:05.844Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-01-24T14:49:03Z'
+  stars: 20
+  forks: 27
+  open-issues: 21
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: MOODLE27.2
+    date: '2015-06-03T19:17:22Z'
+  checked: '2026-08-05'
