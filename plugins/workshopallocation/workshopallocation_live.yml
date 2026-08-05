@@ -1,5 +1,5 @@
 component: workshopallocation_live
-source: https://github.com/ninelanterns/moodle-workshopallocation_live
+source: https://gitlab.com/albertgasset/moodle-workshopallocation_live
 maintainers:
 - github: ninelanterns
 tier: 0
@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Allocation method for Moodle Workshop that automatically allocates for review
   submissions made during the assessment phase.
 metrics:
-  updated: '2021-01-15T01:10:45Z'
-  stars: 1
+  updated: '2025-04-14T20:14:31.897Z'
+  stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-05'
