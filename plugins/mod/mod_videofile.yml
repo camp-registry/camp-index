@@ -1,5 +1,5 @@
 component: mod_videofile
-source: https://github.com/ewallah/moodle-mod_videofile
+source: https://github.com/lemonad/moodle-mod_videofile
 maintainers:
 - github: ewallah
 tier: 0
@@ -8,9 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2019-08-11T20:39:31Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-07-11'
+  updated: '2020-11-30T13:04:06Z'
+  stars: 10
+  forks: 17
+  open-issues: 19
+  archived: false
+  latest-release:
+    tag: v1.06
+    date: '2015-06-11T16:34:56Z'
+  checked: '2026-08-05'
