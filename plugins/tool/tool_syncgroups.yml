@@ -1,5 +1,5 @@
 component: tool_syncgroups
-source: https://github.com/UFSC/moodle-tool_syncgroups
+source: https://github.com/danielneis/moodle-tool_syncgroups
 maintainers:
 - github: UFSC
 tier: 0
@@ -11,9 +11,9 @@ summary: With this plugin you can synchronize groups and groups members between 
   courses, in a way that a course A will be a mirror of course B. Only users that
   are already enrolled are added as group members.
 metrics:
-  updated: '2019-04-29T21:12:06Z'
-  stars: 1
-  forks: 3
+  updated: '2025-09-04T17:30:23Z'
+  stars: 3
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-05'
