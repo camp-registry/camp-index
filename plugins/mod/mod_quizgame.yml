@@ -1,5 +1,5 @@
 component: mod_quizgame
-source: https://github.com/tonussi/moodle-mod_quizgame-multiplayer-competitive
+source: https://github.com/xow/moodle-mod_quizgame
 maintainers:
 - github: tonussi
 tier: 0
@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A QuizGame Alternative for Moodle
 metrics:
-  updated: '2020-03-10T17:17:21Z'
-  stars: 6
-  forks: 1
-  open-issues: 0
+  updated: '2026-01-03T07:35:03Z'
+  stars: 8
+  forks: 9
+  open-issues: 22
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.1-r1
+    date: '2023-01-27T21:45:36Z'
+  checked: '2026-08-05'
