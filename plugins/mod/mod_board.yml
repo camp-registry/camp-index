@@ -1,5 +1,5 @@
 component: mod_board
-source: https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_board
+source: https://github.com/brickfield/moodle-mod_board
 maintainers:
 - gitlab: dne-elearning/moodle-magistere
 tier: 0
@@ -8,9 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2024-01-23T13:42:32.278Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-07-24T11:17:05Z'
+  stars: 7
+  forks: 30
+  open-issues: 36
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.405.00
+    date: '2025-09-08T16:53:47Z'
+  checked: '2026-08-05'
