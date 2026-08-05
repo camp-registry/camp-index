@@ -1,5 +1,5 @@
 component: filter_sectionnames
-source: https://github.com/ewallah/moodle-filter_sectionnames
+source: https://github.com/Syxton/moodle-filter_sectionnames
 maintainers:
 - github: ewallah
 tier: 0
@@ -8,12 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-11T08:11:29Z'
+  updated: '2025-07-03T17:33:47Z'
   stars: 0
-  forks: 0
-  open-issues: 0
+  forks: 1
+  open-issues: 1
   archived: false
-  checked: '2026-08-01'
+  latest-release:
+    tag: v5.0
+    date: '2025-07-03T17:33:47Z'
+  checked: '2026-08-05'
 summary: Faculty had been creating hard links to jump from section to section if need
   be.  From year to year this has caused issues with links to past courses that the
   current student did not have access to.
