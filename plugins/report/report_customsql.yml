@@ -1,5 +1,5 @@
 component: report_customsql
-source: https://gitlab.com/rrusso33/moodle-report_customsql
+source: https://github.com/moodleou/moodle-report_customsql
 maintainers:
 - gitlab: rrusso33
 tier: 0
@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: A Moodle report plugin that lets you easily create simple reports that can
   be expressed as a single SQL query
 metrics:
-  updated: '2019-07-02T20:31:22.558Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-02-16T16:09:41Z'
+  stars: 58
+  forks: 113
+  open-issues: 44
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-05'
