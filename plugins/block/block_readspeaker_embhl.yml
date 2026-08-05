@@ -1,5 +1,5 @@
 component: block_readspeaker_embhl
-source: https://github.com/udir-moodle/block_readspeaker_embhl
+source: https://github.com/andstenberg-rs/moodle-block_readspeaker_embhl
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T16:51:55Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-05-27T13:58:58Z'
+  stars: 1
+  forks: 2
+  open-issues: 4
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-05'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
