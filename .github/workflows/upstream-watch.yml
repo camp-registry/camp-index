@@ -30,18 +30,21 @@ jobs:
           set +e
           out=$(camp check-moodle-branches 2>&1)
           code=$?
-          # Standard-components drift (camp-tools#25) rides the same weekly
-          # cadence and the same issue; either table drifting files it.
+          # Standard-components drift (camp-tools#25) and plugin-type
+          # drift (camp-tools#16) ride the same weekly cadence and the
+          # same issue; any table drifting files it.
           out2=$(camp check-standard-plugins 2>&1)
           code2=$?
-          out=$(printf '%s\n%s' "$out" "$out2")
+          out3=$(camp check-plugin-types 2>&1)
+          code3=$?
+          out=$(printf '%s\n%s\n%s' "$out" "$out2" "$out3")
           echo "$out"
           {
             echo "findings<<CAMPEOF"
             echo "$out"
             echo "CAMPEOF"
           } >> "$GITHUB_OUTPUT"
-          if [ $code -ne 0 ] || [ $code2 -ne 0 ]; then exit 1; fi
+          if [ $code -ne 0 ] || [ $code2 -ne 0 ] || [ $code3 -ne 0 ]; then exit 1; fi
           exit 0
 
       - name: File the issue (once)
@@ -63,4 +66,4 @@ jobs:
           ${{ steps.check.outputs.findings }}
           \`\`\`
 
-          For a new stable branch: add the suggested row(s) to \`BRANCHES\` in \`camp/moodleversions.py\`, review the index-pr matrix endpoints and anything else branch-aware. For standard-components drift: review the diff and refresh with \`camp check-standard-plugins --write\` (camp-tools#25). Ship as usual. (VORDER derives automatically.)"
+          For a new stable branch: add the suggested row(s) to \`BRANCHES\` in \`camp/moodleversions.py\`, review the index-pr matrix endpoints and anything else branch-aware. For standard-components drift: review the diff and refresh with \`camp check-standard-plugins --write\` (camp-tools#25). For plugin-type drift: refresh with \`camp check-plugin-types --write\` and name any new type in the display overlay (camp-tools#16; the tests enforce it). Ship as usual. (VORDER derives automatically.)"
