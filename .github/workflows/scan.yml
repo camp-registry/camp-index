@@ -26,6 +26,7 @@ on:
 
 permissions:
   contents: read           # pushes use the app token, not GITHUB_TOKEN
+  issues: write            # family-establishment issues (camp-tools#16)
 
 jobs:
   scan:
@@ -101,3 +102,35 @@ jobs:
           # non-fast-forward. Anonymous read works on a public repo.
           git pull --rebase origin main
           git push "https://x-access-token:${{ steps.push-app.outputs.token }}@github.com/${{ github.repository }}.git" HEAD:main
+
+      # First contact with an unknown plugin-type prefix parks its members
+      # in needs-review instead of auto-listing (camp-tools#16). Each new
+      # family gets ONE issue, and that issue thread is the establishment
+      # record: the review's verdict and the subplugin-families.yml commit
+      # both point back at it. Dedup searches all issue states so a
+      # reviewed-and-rejected family is not re-filed every month;
+      # established families drop out of the report by themselves.
+      - name: File family-establishment issues
+        if: inputs.dry-run != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          camp unknown-type-families . | while IFS=$'\t' read -r prefix count repos detail; do
+            existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state all \
+              --search "\"New subplugin family detected: $prefix\" in:title" \
+              --json number --jq 'length')
+            if [ "$existing" -gt 0 ]; then
+              echo "$prefix: issue exists; skipping"
+              continue
+            fi
+            members=$(echo "$repos" | tr ',' '\n' | sed 's/^/- /')
+            gh issue create --repo "$GITHUB_REPOSITORY" \
+              --title "New subplugin family detected: $prefix" \
+              --body "The discovery scan met components with the unknown plugin-type prefix \`$prefix\` and parked them in needs-review instead of listing them (scanner evidence: $detail).
+
+          Members waiting:
+
+          $members
+
+          This needs one family-establishment review (camp-registry/camp-tools#16): decide whether \`$prefix\` is a subplugin family meant for separate distribution. Independent authors publishing members from their own repositories is the usual positive signal; members that only live inside the parent's repository are internal decomposition and do not list. To establish, add a record for \`$prefix\` (parent, display name, this issue's URL) to \`discovery/subplugin-families.yml\` and close this issue; parked members relist automatically on the next scan's recheck window. To reject, close with the reason; the members stay parked."
+          done
