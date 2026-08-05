@@ -1,5 +1,5 @@
 component: format_weeksrev
-source: https://github.com/dherna/moodle-format_weeksrev
+source: https://github.com/ak4t0sh/moodle-format_weeksrev
 maintainers:
 - github: dherna
 tier: 0
@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2016-03-04T09:17:50Z'
+  updated: '2026-05-18T21:22:31Z'
   stars: 0
-  forks: 0
-  open-issues: 0
+  forks: 3
+  open-issues: 3
   archived: false
-  checked: '2026-08-01'
+  latest-release:
+    tag: 4.0.0
+    date: '2025-10-27T13:49:17Z'
+  checked: '2026-08-05'
 summary: This is the Moodle 2.4+ version
