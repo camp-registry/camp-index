@@ -4,7 +4,7 @@ source-repo-id: 745345964
 maintainers:
 - github: bambuco
 - github: davidherney
-tier: 1
+tier: 2
 security-contact: https://github.com/bambuco/moodle-block_kamaleon/security/advisories/new
 labels:
 - fully-free
@@ -12,7 +12,19 @@ labels:
 - commercial-support-available
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 4.5.1
+  tag: v4.5.1
+  commit: bd148b59c7854da04666350b4dd9317637c39e97
+  moodle-version: 2026052000
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: 6ec715aed338da70160c587f420f8520ab5a3b677ad91fc189a775aef7edf410
+  listing-sha256: cc5a3339e7f82257d8df86435c44414b4e6c0107e626ab8f841029be1eeb013b
+  published: '2026-08-06T04:14:59Z'
+  released: '2026-08-06T04:13:41Z'
 license: GPL-3.0
 summary: A block to display content from different sources and with different designs.
 metrics:
