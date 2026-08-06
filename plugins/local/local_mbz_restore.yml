@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
 summary: Ein Moodle-Plugin, das einen Webservice für die Wiederherstellung von Kursen
   aus MBZ-Backup-Dateien bereitstellt. Das Plugin ermöglicht die vollständige Kontrolle
   über alle Wiederherstellungsoptionen und ist für die Verwendung mit Python-Skripten

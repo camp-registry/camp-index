@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
 summary: This Moodle plugin adds a new predictive model to identify students that
   are likely to miss assignment due dates. The model automatically generates insights
   for teachers about these students.

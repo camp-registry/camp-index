@@ -1,20 +1,23 @@
 component: local_kopere_wpbridge
 source: https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge/security'
+security-contact: https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-30T13:27:57Z'
+  updated: '2026-08-03T11:37:14Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Connect the platform to WordPress and simplify workflows between the systems.'
+  latest-release:
+    tag: 1.5.4
+    date: '2026-03-30T11:42:15Z'
+  checked: '2026-08-06'
+summary: Connect the platform to WordPress and simplify workflows between the systems.

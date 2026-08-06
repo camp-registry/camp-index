@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
 summary: This plugin handles the authenticated API calls to sync the content plugins
   data from Leeloo LXP to Moodle LMS.

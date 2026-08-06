@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Official Moodle plugin for MoodleConnect - Automatically sync Moodle events
   to external tools.
 metrics:
-  updated: '2026-04-21T08:29:10Z'
+  updated: '2026-07-23T09:32:07Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'

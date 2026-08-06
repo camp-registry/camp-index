@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle Plugin listcoursefiles
 metrics:
-  updated: '2026-05-14T16:53:39Z'
+  updated: '2026-07-29T06:01:01Z'
   stars: 2
   forks: 3
-  open-issues: 3
+  open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.5.0
+    date: '2025-03-06T06:55:06Z'
+  checked: '2026-08-06'

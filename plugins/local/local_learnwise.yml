@@ -8,12 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-02T08:48:29Z'
-  stars: 0
+  updated: '2026-07-30T14:06:45Z'
+  stars: 1
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.4.4a
+    date: '2026-07-30T14:06:45Z'
+  checked: '2026-08-06'
 summary: This plugin allows you to set up and configure the LearnWise AI assistant
   (https://www.learnwise.ai/) for your Moodle site. Learn more about LearnWise at
   https://www.learnwise.ai/how-it-works.

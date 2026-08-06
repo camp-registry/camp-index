@@ -1,20 +1,25 @@
 component: local_kopere_mobile
 source: https://github.com/EduardoKrausME/moodle-local_kopere_mobile
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_mobile/security'
+security-contact: https://github.com/EduardoKrausME/moodle-local_kopere_mobile/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T11:05:47Z'
+  updated: '2026-08-03T11:37:41Z'
   stars: 1
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
-summary: 'Integrations and features that bring a mobile experience to your platform.'
+  latest-release:
+    tag: 1.2.17
+    date: '2025-04-24T16:34:26Z'
+  checked: '2026-08-06'
+summary: Integrations and features that bring a mobile experience to your platform.
+dependencies:
+  local_kopere_dashboard: 2026052400

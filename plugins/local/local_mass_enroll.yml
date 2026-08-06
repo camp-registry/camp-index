@@ -12,7 +12,10 @@ summary: A tool to allow teachers to enrol existing users to their courses using
 metrics:
   updated: '2026-07-09T07:55:56Z'
   stars: 5
-  forks: 11
+  forks: 12
   open-issues: 7
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 4.2.2
+    date: '2026-01-28T08:54:36Z'
+  checked: '2026-08-06'

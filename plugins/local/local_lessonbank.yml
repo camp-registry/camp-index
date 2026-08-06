@@ -14,4 +14,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
+dependencies:
+  mod_minilesson: any
+  local_modcustomfields: any
+  customfield_multiselect: any
+  customfield_picture: any

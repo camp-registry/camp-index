@@ -1,20 +1,23 @@
 component: local_kopere_status
 source: https://github.com/EduardoKrausME/moodle-local_kopere_status
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_status/security'
+security-contact: https://github.com/EduardoKrausME/moodle-local_kopere_status/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-09T23:12:43Z'
+  updated: '2026-08-03T11:37:47Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Monitor services, availability, and technical indicators in real time.'
+  latest-release:
+    tag: 0.0.5
+    date: '2026-01-06T23:58:50Z'
+  checked: '2026-08-06'
+summary: Monitor services, availability, and technical indicators in real time.

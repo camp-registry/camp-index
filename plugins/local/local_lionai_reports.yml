@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.6.1
+    date: '2024-11-04T06:34:12Z'
+  checked: '2026-08-06'
 summary: LionAI Reports simplifies report generation in Moodle by enabling administrators
   to effortlessly write natural language queries, instantly converting them into SQL
   SELECT queries. Preview, edit, and export reports in various formats for seamless

@@ -17,3 +17,4 @@ metrics:
     tag: 2.8.2
     date: '2023-04-06T09:08:55Z'
   checked: '2026-08-05'
+summary: Automatically assigns enrolled users on a course into groups

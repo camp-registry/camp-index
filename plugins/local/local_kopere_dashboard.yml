@@ -1,20 +1,24 @@
 component: local_kopere_dashboard
 source: https://github.com/EduardoKrausME/moodle-local-kopere_dashboard
-security-contact: 'https://github.com/EduardoKrausME/moodle-local-kopere_dashboard/security'
+security-contact: https://github.com/EduardoKrausME/moodle-local-kopere_dashboard/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: 'Modern administrative dashboard that makes platform management simpler, faster, and smarter.'
+summary: Modern administrative dashboard that makes platform management simpler, faster,
+  and smarter.
 metrics:
-  updated: '2026-07-05T12:11:54Z'
+  updated: '2026-08-03T11:37:10Z'
   stars: 29
   forks: 27
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 3.0.19
+    date: '2026-07-16T17:38:31Z'
+  checked: '2026-08-06'

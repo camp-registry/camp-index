@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 metrics:
   updated: '2026-07-01T16:01:56Z'
-  stars: 0
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
 summary: Companion plugin that enhances modlesson with zero core modifications.

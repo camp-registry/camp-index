@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
 summary: This script checks whether the Moodle cron tasks are running properly. A
   task does not if

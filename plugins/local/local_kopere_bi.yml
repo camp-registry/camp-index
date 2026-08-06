@@ -1,20 +1,25 @@
 component: local_kopere_bi
 source: https://github.com/EduardoKrausME/moodle-local_kopere_bi
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_bi/security'
+security-contact: https://github.com/EduardoKrausME/moodle-local_kopere_bi/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-02T12:42:18Z'
+  updated: '2026-08-03T11:38:18Z'
   stars: 2
-  forks: 0
-  open-issues: 5
+  forks: 1
+  open-issues: 3
   archived: false
-  checked: '2026-07-11'
-summary: 'More than 100 dashboards and reports for intelligent data management.'
+  latest-release:
+    tag: 3.0.4
+    date: '2026-07-15T00:53:49Z'
+  checked: '2026-08-06'
+summary: More than 100 dashboards and reports for intelligent data management.
+dependencies:
+  local_kopere_dashboard: 2026052400
