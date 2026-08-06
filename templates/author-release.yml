@@ -76,7 +76,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.49"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.50"
 
       # Stale template copies are the recurring failure mode (they have
       # broken releases before); this nudge compares the copy's pin
@@ -86,8 +86,8 @@ jobs:
         continue-on-error: true
         run: |
           current=$(curl -s --max-time 5 -A "camp-release" https://camp-registry.org/version.json | sed -nE 's/.*"camp-tools": *"([0-9.]+)".*/\1/p')
-          if [ -n "$current" ] && [ "v$current" != "v0.2.49" ]; then
-            echo "::warning::This workflow pins camp-tools v0.2.49 but the current release is v${current}. Refresh your copy from templates/author-release.yml in camp-registry/camp-index."
+          if [ -n "$current" ] && [ "v$current" != "v0.2.50" ]; then
+            echo "::warning::This workflow pins camp-tools v0.2.50 but the current release is v${current}. Refresh your copy from templates/author-release.yml in camp-registry/camp-index."
           fi
 
       - name: Resolve component name

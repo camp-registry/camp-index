@@ -125,7 +125,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.49"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.50"
 
       - name: Check changed components against the collision ledger
         env:
@@ -165,7 +165,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.49"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.50"
 
       - name: Validate entry
         run: camp validate "${{ matrix.entry }}"
@@ -213,7 +213,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.49"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.50"
 
       - name: Validate advisories
         run: |
@@ -248,7 +248,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.49"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.50"
 
       - name: Check out plugin source at the release under test
         run: |
