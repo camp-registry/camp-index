@@ -1,12 +1,13 @@
 component: mod_geniai
 source: https://github.com/EduardoKrausME/moodle-mod_geniai
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_geniai/security'
+source-repo-id: 951616182
+security-contact: https://github.com/EduardoKrausME/moodle-mod_geniai/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - external-account
-  - paid-service
+- external-account
+- paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -17,5 +18,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 2.3.7
+    date: '2025-10-30T13:57:13Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: Beautiful certificate plugin for Moodle

@@ -1,5 +1,6 @@
 component: format_onetopic
 source: https://github.com/davidherney/moodle-format_onetopic
+source-repo-id: 29445941
 maintainers:
 - github: bambuco
 - github: davidherney
@@ -23,6 +24,7 @@ metrics:
   latest-release:
     tag: v5.0.4
     date: '2026-02-01T07:44:06Z'
-  checked: '2026-08-01'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 dependencies:
   format_topics: 2025100600

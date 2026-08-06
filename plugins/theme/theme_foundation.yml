@@ -20,6 +20,10 @@ metrics:
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: V405.1.0
+    date: '2025-06-11T12:28:40Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 dependencies:
   theme_boost: 2025041400

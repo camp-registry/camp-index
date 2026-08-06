@@ -55,9 +55,13 @@ releases:
 summary: Moodle Plugins Repository
 license: GPL-3.0
 metrics:
-  updated: '2026-02-26T09:27:18Z'
+  updated: '2026-07-30T07:35:15Z'
   stars: 24
   forks: 21
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.5.5
+    date: '2026-07-27T14:44:30Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

@@ -1,20 +1,25 @@
 component: mod_childcourse
 source: https://github.com/EduardoKrausME/moodle-mod_childcourse
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_childcourse/security'
+source-repo-id: 1150962250
+security-contact: https://github.com/EduardoKrausME/moodle-mod_childcourse/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-18T15:04:53Z'
+  updated: '2026-08-03T11:38:25Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Organize related courses and present access to child courses as an activity.'
+  latest-release:
+    tag: 2.1.1
+    date: '2026-06-18T15:04:57Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Organize related courses and present access to child courses as an activity.

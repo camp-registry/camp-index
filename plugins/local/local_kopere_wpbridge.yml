@@ -1,5 +1,6 @@
 component: local_kopere_wpbridge
 source: https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge
+source-repo-id: 1177272699
 security-contact: https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge/security
 maintainers:
 - github: EduardoKrausME
@@ -20,4 +21,5 @@ metrics:
     tag: 1.5.4
     date: '2026-03-30T11:42:15Z'
   checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: Connect the platform to WordPress and simplify workflows between the systems.

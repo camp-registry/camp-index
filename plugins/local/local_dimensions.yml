@@ -1,5 +1,6 @@
 component: local_dimensions
 source: https://github.com/uaiblaine/moodle-local_dimensions
+source-repo-id: 1162825620
 maintainers:
 - github: uaiblaine
 tier: 1
@@ -11,7 +12,7 @@ summary: This plugin for Moodle expands the native competency framework with new
   interfaces, admin panels, and full custom fields support, all without creating new
   database tables.
 metrics:
-  updated: '2026-08-01T02:09:26Z'
+  updated: '2026-08-05T15:55:27Z'
   stars: 1
   forks: 0
   open-issues: 0
@@ -19,7 +20,8 @@ metrics:
   latest-release:
     tag: v1.0
     date: '2026-07-11T14:04:24Z'
-  checked: '2026-08-04'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/uaiblaine/moodle-local_dimensions/security
 labels:
 - fully-free

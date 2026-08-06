@@ -1,5 +1,6 @@
 component: local_kopere_bi
 source: https://github.com/EduardoKrausME/moodle-local_kopere_bi
+source-repo-id: 864093260
 security-contact: https://github.com/EduardoKrausME/moodle-local_kopere_bi/security
 maintainers:
 - github: EduardoKrausME
@@ -20,6 +21,7 @@ metrics:
     tag: 3.0.4
     date: '2026-07-15T00:53:49Z'
   checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: More than 100 dashboards and reports for intelligent data management.
 dependencies:
   local_kopere_dashboard: 2026052400

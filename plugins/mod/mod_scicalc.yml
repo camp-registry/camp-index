@@ -1,20 +1,25 @@
 component: mod_scicalc
 source: https://github.com/EduardoKrausME/moodle-mod_scicalc
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_scicalc/security'
+source-repo-id: 1152123534
+security-contact: https://github.com/EduardoKrausME/moodle-mod_scicalc/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-11T01:18:16Z'
+  updated: '2026-08-03T11:39:10Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Scientific calculator available as an activity within courses.'
+  latest-release:
+    tag: 1.0.6
+    date: '2026-02-11T01:15:35Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Scientific calculator available as an activity within courses.

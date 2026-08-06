@@ -1,20 +1,25 @@
 component: media_supervideo
 source: https://github.com/EduardoKrausME/moodle-media_supervideo
-security-contact: 'https://github.com/EduardoKrausME/moodle-media_supervideo/security'
+source-repo-id: 916345007
+security-contact: https://github.com/EduardoKrausME/moodle-media_supervideo/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-05T22:32:24Z'
+  updated: '2026-08-03T11:37:02Z'
   stars: 0
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
-summary: 'Play video links using the modern SuperVideo player.'
+  latest-release:
+    tag: 1.7.7
+    date: '2025-10-30T01:54:11Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Play video links using the modern SuperVideo player.

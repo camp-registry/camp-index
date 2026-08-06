@@ -1,20 +1,25 @@
 component: theme_degrade
 source: https://github.com/EduardoKrausME/moodle-theme_degrade
-security-contact: 'https://github.com/EduardoKrausME/moodle-theme_degrade/security'
+source-repo-id: 122006609
+security-contact: https://github.com/EduardoKrausME/moodle-theme_degrade/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: 'Elegant, responsive, and customizable theme with a distinctive visual identity.'
+summary: Elegant, responsive, and customizable theme with a distinctive visual identity.
 metrics:
-  updated: '2026-06-24T19:10:05Z'
+  updated: '2026-08-06T11:39:53Z'
   stars: 4
   forks: 2
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 9.7.1
+    date: '2026-08-06T11:39:59Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

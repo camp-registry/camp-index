@@ -9,12 +9,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T15:57:39Z'
+  updated: '2026-08-04T03:43:32Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: Conference Submissions — a Moodle activity for running a call for abstracts.
 security-contact: https://github.com/adamjenkins/moodle-mod_confsubmissions/security
 labels:

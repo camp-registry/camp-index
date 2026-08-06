@@ -1,5 +1,6 @@
 component: block_course_checker_info
 source: https://github.com/ffhs/moodle-block_course_checker_info
+source-repo-id: 1089623171
 maintainers:
 - github: ffhs
 tier: 1
@@ -16,7 +17,11 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  latest-release:
+    tag: v5.0-r1
+    date: '2025-11-13T14:13:34Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-block_course_checker_info/security
 labels:
 - fully-free

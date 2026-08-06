@@ -1,20 +1,25 @@
 component: theme_eadtraining
 source: https://github.com/EduardoKrausME/moodle-theme_eadtraining
-security-contact: 'https://github.com/EduardoKrausME/moodle-theme_eadtraining/security'
+source-repo-id: 1002377299
+security-contact: https://github.com/EduardoKrausME/moodle-theme_eadtraining/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: 'Clean, accessible academic theme packed with customization options.'
+summary: Clean, accessible academic theme packed with customization options.
 metrics:
-  updated: '2026-06-24T19:08:46Z'
+  updated: '2026-08-06T11:39:44Z'
   stars: 0
   forks: 1
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 9.7.1
+    date: '2026-08-06T11:39:48Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

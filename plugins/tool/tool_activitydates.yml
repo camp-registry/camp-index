@@ -10,12 +10,13 @@ releases: []
 license: GPL-3.0
 summary: Bulk editing and driprelease of Activity Dates
 metrics:
-  updated: '2026-07-11T16:26:11Z'
+  updated: '2026-08-04T03:44:02Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-tool_activitydates/security
 labels:
 - fully-free

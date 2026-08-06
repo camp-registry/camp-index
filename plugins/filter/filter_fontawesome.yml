@@ -1,5 +1,6 @@
 component: filter_fontawesome
 source: https://github.com/ffhs/moodle-filter_fontawesome
+source-repo-id: 150375755
 maintainers:
 - github: ffhs
 tier: 1
@@ -17,7 +18,8 @@ metrics:
   latest-release:
     tag: v5.2-r1
     date: '2026-06-17T09:38:55Z'
-  checked: '2026-07-29'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-filter_fontawesome/security
 labels:
 - fully-free

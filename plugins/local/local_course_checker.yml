@@ -1,5 +1,6 @@
 component: local_course_checker
 source: https://github.com/ffhs/moodle-local_course_checker
+source-repo-id: 1089598936
 maintainers:
 - github: ffhs
 tier: 1
@@ -20,7 +21,8 @@ metrics:
   latest-release:
     tag: v5.0-r1
     date: '2025-11-20T13:58:32Z'
-  checked: '2026-08-03'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-local_course_checker/security
 labels:
 - fully-free

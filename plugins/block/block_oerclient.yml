@@ -21,12 +21,13 @@ releases:
   released: '2026-07-29T09:22:42Z'
 license: GPL-3.0
 metrics:
-  updated: '2026-07-27T03:32:35Z'
+  updated: '2026-08-04T03:44:15Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-block_oerclient/security
 labels:
 - fully-free

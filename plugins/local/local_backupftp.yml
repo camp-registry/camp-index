@@ -1,23 +1,25 @@
 component: local_backupftp
 source: https://github.com/EduardoKrausME/moodle-local_backupftp
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_backupftp/security'
+source-repo-id: 916090231
+security-contact: https://github.com/EduardoKrausME/moodle-local_backupftp/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-01T01:02:29Z'
+  updated: '2026-08-06T11:31:07Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
   latest-release:
-    tag: 2.2.5
-    date: '2026-07-01T01:02:33Z'
-  checked: '2026-08-02'
-summary: 'Automate course backups and securely send them to external servers.'
+    tag: 2.2.8
+    date: '2026-08-06T10:56:29Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Automate course backups and securely send them to external servers.

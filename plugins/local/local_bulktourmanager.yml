@@ -10,12 +10,12 @@ releases: []
 license: GPL-3.0
 summary: Upload, download, and delete user tours in bulk.
 metrics:
-  updated: '2026-07-12T15:16:54Z'
+  updated: '2026-08-04T03:43:43Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-02'
+  checked: '2026-08-06'
 security-contact: https://github.com/adamjenkins/moodle-local_bulktourmanager/security
 labels:
 - fully-free

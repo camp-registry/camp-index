@@ -1,5 +1,6 @@
 component: local_geniai
 source: https://github.com/EduardoKrausME/moodle-local_geniai
+source-repo-id: 751330126
 security-contact: https://github.com/EduardoKrausME/moodle-local_geniai/security
 maintainers:
 - github: EduardoKrausME
@@ -14,11 +15,12 @@ license: GPL-3.0
 summary: Artificial intelligence features that support content creation and learning.
 metrics:
   updated: '2026-08-03T11:38:59Z'
-  stars: 8
+  stars: 9
   forks: 5
   open-issues: 2
   archived: false
   latest-release:
     tag: 3.0.1
     date: '2026-07-10T12:00:49Z'
-  checked: '2026-08-05'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

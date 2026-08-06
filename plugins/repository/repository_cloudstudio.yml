@@ -1,21 +1,26 @@
 component: repository_cloudstudio
 source: https://github.com/eadtech-moodle/moodle-repository_cloudstudio
-security-contact: 'https://github.com/eadtech-moodle/moodle-repository_cloudstudio/security'
+source-repo-id: 894077731
+security-contact: https://github.com/eadtech-moodle/moodle-repository_cloudstudio/security
 maintainers:
 - github: eadtech-moodle
 tier: 1
 labels:
-  - external-account
-  - paid-service
+- external-account
+- paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-05T22:32:40Z'
+  updated: '2026-08-03T11:37:06Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Access your CloudStudio library through the platform file picker.'
+  latest-release:
+    tag: 1.0.13
+    date: '2025-01-09T20:36:37Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Access your CloudStudio library through the platform file picker.

@@ -1,20 +1,25 @@
 component: message_kopereemail
 source: https://github.com/EduardoKrausME/moodle-message_kopereemail
-security-contact: 'https://github.com/EduardoKrausME/moodle-message_kopereemail/security'
+source-repo-id: 1149700993
+security-contact: https://github.com/EduardoKrausME/moodle-message_kopereemail/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-04T22:43:20Z'
-  stars: 1
+  updated: '2026-08-03T11:36:41Z'
+  stars: 2
   forks: 1
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
-summary: 'Email messaging channel with additional communication features.'
+  latest-release:
+    tag: 1.0.7
+    date: '2026-05-04T22:43:23Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Email messaging channel with additional communication features.

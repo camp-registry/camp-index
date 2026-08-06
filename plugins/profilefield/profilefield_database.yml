@@ -1,20 +1,25 @@
 component: profilefield_database
 source: https://github.com/EduardoKrausME/moodle-profilefield_database
-security-contact: 'https://github.com/EduardoKrausME/moodle-profilefield_database/security'
+source-repo-id: 913973465
+security-contact: https://github.com/EduardoKrausME/moodle-profilefield_database/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-05T22:32:03Z'
+  updated: '2026-08-03T11:36:34Z'
   stars: 2
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Create profile fields connected to information stored in the database.'
+  latest-release:
+    tag: 1.1.11
+    date: '2025-11-03T13:15:23Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Create profile fields connected to information stored in the database.

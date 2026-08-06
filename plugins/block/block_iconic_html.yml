@@ -1,5 +1,6 @@
 component: block_iconic_html
 source: https://github.com/gjb2048/moodle-block_iconic_html
+source-repo-id: 28267313
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-block_iconic_html/security/advisories/new
@@ -16,5 +17,5 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-07-28'
+  checked: '2026-08-06'
 summary: Introduction

@@ -16,6 +16,7 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_langcrowd/security
 labels:
 - fully-free

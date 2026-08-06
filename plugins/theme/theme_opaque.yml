@@ -1,5 +1,6 @@
 component: theme_opaque
 source: https://github.com/gjb2048/moodle-theme_opaque
+source-repo-id: 46938639
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-theme_opaque/security/advisories/new
@@ -18,4 +19,4 @@ metrics:
   forks: 1
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  checked: '2026-08-06'

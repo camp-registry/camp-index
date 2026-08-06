@@ -1,21 +1,26 @@
 component: repository_pandavideo
 source: https://github.com/panda-moodle/moodle-repository_pandavideo
-security-contact: 'https://github.com/panda-moodle/moodle-repository_pandavideo/security'
+source-repo-id: 1022370943
+security-contact: https://github.com/panda-moodle/moodle-repository_pandavideo/security
 maintainers:
 - github: panda-moodle
 tier: 1
 labels:
-  - external-account
-  - paid-service
+- external-account
+- paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-05T22:32:44Z'
+  updated: '2026-08-03T11:37:20Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Find and add your Panda Video library through the file picker.'
+  latest-release:
+    tag: 1.0.13
+    date: '2025-11-19T11:02:10Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Find and add your Panda Video library through the file picker.

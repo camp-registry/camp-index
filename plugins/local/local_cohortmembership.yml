@@ -32,7 +32,7 @@ releases:
   listing-sha256: 2756459400c319bd9257e4774bd709e6bdebda2f9f57406f7b91e5db77888646
 license: GPL-3.0
 metrics:
-  updated: '2026-07-29T10:18:47Z'
+  updated: '2026-08-06T01:28:39Z'
   stars: 2
   forks: 1
   open-issues: 0
@@ -40,4 +40,5 @@ metrics:
   latest-release:
     tag: v1.0.3
     date: '2026-07-23T04:05:19Z'
-  checked: '2026-08-03'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

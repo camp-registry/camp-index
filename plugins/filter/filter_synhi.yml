@@ -18,9 +18,10 @@ metrics:
   updated: '2026-04-24T13:04:06Z'
   stars: 3
   forks: 4
-  open-issues: 1
+  open-issues: 2
   archived: false
   latest-release:
     tag: V500.1.2
     date: '2026-04-24T13:04:47Z'
-  checked: '2026-08-01'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

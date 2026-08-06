@@ -1,5 +1,6 @@
 component: local_helpdesk
 source: https://github.com/EduardoKrausME/moodle-local_helpdesk
+source-repo-id: 935076913
 security-contact: https://github.com/EduardoKrausME/moodle-local_helpdesk/security
 maintainers:
 - github: EduardoKrausME
@@ -19,7 +20,8 @@ metrics:
   latest-release:
     tag: 2.4.4
     date: '2026-07-05T12:11:55Z'
-  checked: '2026-08-05'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: Integrated help desk and knowledge base for the platform.
 dependencies:
   local_kopere_dashboard: 2026070500

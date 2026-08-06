@@ -1,5 +1,6 @@
 component: format_slimtopics
 source: https://github.com/gjb2048/moodle-format_slimtopics
+source-repo-id: 4273026
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-format_slimtopics/security/advisories/new
@@ -16,5 +17,5 @@ metrics:
   forks: 1
   open-issues: 0
   archived: true
-  checked: '2026-08-01'
+  checked: '2026-08-06'
 summary: Introduction

@@ -1,21 +1,26 @@
 component: media_pandavideo
 source: https://github.com/panda-moodle/moodle-media_pandavideo
-security-contact: 'https://github.com/panda-moodle/moodle-media_pandavideo/security'
+source-repo-id: 1022370772
+security-contact: https://github.com/panda-moodle/moodle-media_pandavideo/security
 maintainers:
 - github: panda-moodle
 tier: 1
 labels:
-  - external-account
-  - paid-service
+- external-account
+- paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-05T22:32:32Z'
+  updated: '2026-08-03T11:36:57Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Turn Panda Video links into players embedded in content.'
+  latest-release:
+    tag: 1.0.13
+    date: '2025-11-19T11:00:59Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Turn Panda Video links into players embedded in content.

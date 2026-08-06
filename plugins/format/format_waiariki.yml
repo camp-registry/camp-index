@@ -1,5 +1,6 @@
 component: format_waiariki
 source: https://github.com/gjb2048/moodle-format_waiariki
+source-repo-id: 20193094
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-format_waiariki/security/advisories/new
@@ -17,4 +18,4 @@ metrics:
   forks: 1
   open-issues: 0
   archived: true
-  checked: '2026-08-01'
+  checked: '2026-08-06'

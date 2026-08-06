@@ -21,7 +21,8 @@ metrics:
   latest-release:
     tag: v1.2.0
     date: '2026-04-01T14:36:40Z'
-  checked: '2026-07-28'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/ngandrass/moodle-block_mathsyntaxhelp/security
 labels:
 - fully-free

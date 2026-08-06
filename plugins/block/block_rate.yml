@@ -1,11 +1,12 @@
 component: block_rate
 source: https://github.com/EduardoKrausME/moodle-block_rate
-security-contact: 'https://github.com/EduardoKrausME/moodle-block_rate/security'
+source-repo-id: 637886817
+security-contact: https://github.com/EduardoKrausME/moodle-block_rate/security
 maintainers:
-  - github: EduardoKrausME
+- github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -16,5 +17,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-08-03'
-summary: 'Collect quick star ratings and track student feedback.'
+  latest-release:
+    tag: 2.0.7
+    date: '2026-02-05T14:00:18Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Collect quick star ratings and track student feedback.

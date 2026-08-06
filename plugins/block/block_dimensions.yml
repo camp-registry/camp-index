@@ -1,5 +1,6 @@
 component: block_dimensions
 source: https://github.com/uaiblaine/moodle-block_dimensions
+source-repo-id: 1162831406
 maintainers:
 - github: uaiblaine
 tier: 1
@@ -11,7 +12,7 @@ summary: 'A Moodle block plugin that turns the learner''s active learning plans 
   a dashboard of visual cards: learning plan cards with a competency progress trail,
   and competency cards giving direct access to each competency''s courses.'
 metrics:
-  updated: '2026-07-13T20:31:43Z'
+  updated: '2026-08-05T15:55:12Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -19,7 +20,8 @@ metrics:
   latest-release:
     tag: v2.0
     date: '2026-07-13T20:45:27Z'
-  checked: '2026-07-27'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/uaiblaine/moodle-block_dimensions/security
 labels:
 - fully-free

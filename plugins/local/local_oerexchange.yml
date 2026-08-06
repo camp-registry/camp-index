@@ -94,12 +94,13 @@ releases:
 license: GPL-3.0
 summary: An exchange plugin to enable Open Educational Resource sharing
 metrics:
-  updated: '2026-07-27T03:32:51Z'
+  updated: '2026-08-04T03:44:32Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_oerexchange/security
 labels:
 - fully-free

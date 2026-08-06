@@ -1,20 +1,25 @@
 component: mod_certificatebeautiful
 source: https://github.com/EduardoKrausME/moodle-mod_certificatebeautiful
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_certificatebeautiful/security'
+source-repo-id: 753769875
+security-contact: https://github.com/EduardoKrausME/moodle-mod_certificatebeautiful/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-04-28T00:47:34Z'
+  updated: '2026-08-03T11:36:54Z'
   stars: 5
-  forks: 2
+  forks: 3
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
-summary: 'Visual editor for creating professional, fully customized certificates.'
+  latest-release:
+    tag: 3.2.5
+    date: '2026-04-28T00:46:24Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Visual editor for creating professional, fully customized certificates.

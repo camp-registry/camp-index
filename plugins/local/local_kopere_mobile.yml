@@ -1,5 +1,6 @@
 component: local_kopere_mobile
 source: https://github.com/EduardoKrausME/moodle-local_kopere_mobile
+source-repo-id: 813625744
 security-contact: https://github.com/EduardoKrausME/moodle-local_kopere_mobile/security
 maintainers:
 - github: EduardoKrausME
@@ -20,6 +21,7 @@ metrics:
     tag: 1.2.17
     date: '2025-04-24T16:34:26Z'
   checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: Integrations and features that bring a mobile experience to your platform.
 dependencies:
   local_kopere_dashboard: 2026052400

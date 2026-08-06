@@ -1,20 +1,26 @@
 component: theme_boost_magnific
 source: https://github.com/EduardoKrausME/moodle-theme_boost_magnific
-security-contact: 'https://github.com/EduardoKrausME/moodle-theme_boost_magnific/security'
+source-repo-id: 104630371
+security-contact: https://github.com/EduardoKrausME/moodle-theme_boost_magnific/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: 'Modern, highly configurable theme designed to transform the visual experience of courses.'
+summary: Modern, highly configurable theme designed to transform the visual experience
+  of courses.
 metrics:
-  updated: '2026-06-24T19:10:12Z'
-  stars: 3
+  updated: '2026-08-06T11:39:39Z'
+  stars: 4
   forks: 3
   open-issues: 6
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 9.7.1
+    date: '2026-08-06T11:39:44Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

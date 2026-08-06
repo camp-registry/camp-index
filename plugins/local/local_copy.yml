@@ -1,5 +1,6 @@
 component: local_copy
 source: https://github.com/EduardoKrausME/moodle-local_copy
+source-repo-id: 856462290
 security-contact: https://github.com/EduardoKrausME/moodle-local_copy/security
 maintainers:
 - github: EduardoKrausME
@@ -19,5 +20,6 @@ metrics:
   latest-release:
     tag: 1.1.12
     date: '2025-10-29T22:25:46Z'
-  checked: '2026-08-05'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: Copy and paste activities and resources between courses with just a few clicks.

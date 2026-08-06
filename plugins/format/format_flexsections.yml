@@ -46,6 +46,7 @@ metrics:
   latest-release:
     tag: v4.0.4
     date: '2023-07-02T20:42:34Z'
-  checked: '2026-08-01'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: Organises course content in any number of sections that can be nested. Each
   section can be displayed on the same page or on a separate page

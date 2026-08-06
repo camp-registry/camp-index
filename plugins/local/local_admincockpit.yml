@@ -47,9 +47,13 @@ summary: 'Admin overview page for Moodle: per-school user/course metrics, health
   with click-through actions, and admin shortcuts'
 license: GPL-3.0
 metrics:
-  updated: '2026-07-23T14:33:05Z'
+  updated: '2026-08-06T01:28:31Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 2
   archived: false
-  checked: '2026-07-24'
+  latest-release:
+    tag: v2.2.3
+    date: '2026-08-03T08:22:46Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

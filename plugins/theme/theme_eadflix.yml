@@ -1,20 +1,25 @@
 component: theme_eadflix
 source: https://github.com/EduardoKrausME/moodle-theme_eadflix
-security-contact: 'https://github.com/EduardoKrausME/moodle-theme_eadflix/security'
+source-repo-id: 1021491287
+security-contact: https://github.com/EduardoKrausME/moodle-theme_eadflix/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-24T19:09:46Z'
+  updated: '2026-08-03T11:38:54Z'
   stars: 1
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
-summary: 'Immersive streaming-inspired theme designed to showcase your courses.'
+  latest-release:
+    tag: 9.6.2
+    date: '2026-06-24T19:09:49Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Immersive streaming-inspired theme designed to showcase your courses.

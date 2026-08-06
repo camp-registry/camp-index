@@ -1,20 +1,25 @@
 component: mod_pdfprotect
 source: https://github.com/EduardoKrausME/moodle-mod_pdfprotect
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_pdfprotect/security'
+source-repo-id: 895555461
+security-contact: https://github.com/EduardoKrausME/moodle-mod_pdfprotect/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-29T19:37:28Z'
+  updated: '2026-08-03T11:38:37Z'
   stars: 5
   forks: 5
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
-summary: 'Publish PDF documents with additional protection and control features.'
+  latest-release:
+    tag: 3.3.0
+    date: '2026-06-29T19:37:32Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Publish PDF documents with additional protection and control features.

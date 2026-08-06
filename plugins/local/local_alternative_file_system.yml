@@ -1,17 +1,18 @@
 component: local_alternative_file_system
 source: https://github.com/EduardoKrausME/moodle-local_alternative_file_system
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_alternative_file_system/security'
+source-repo-id: 783053246
+security-contact: https://github.com/EduardoKrausME/moodle-local_alternative_file_system/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-04T01:27:34Z'
+  updated: '2026-08-03T11:36:31Z'
   stars: 2
   forks: 10
   open-issues: 1
@@ -19,5 +20,6 @@ metrics:
   latest-release:
     tag: 1.3.6
     date: '2026-07-04T01:27:38Z'
-  checked: '2026-08-02'
-summary: 'Store files on external services and optimize the platform infrastructure.'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Store files on external services and optimize the platform infrastructure.

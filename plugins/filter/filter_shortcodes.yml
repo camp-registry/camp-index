@@ -35,4 +35,5 @@ metrics:
   forks: 8
   open-issues: 1
   archived: false
-  checked: '2026-08-01'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

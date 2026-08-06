@@ -12,12 +12,16 @@ summary: Automatically manages the full lifecycle of Moodle user accounts using 
   can easily be extended by custom subplugins.
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T09:51:59Z'
+  updated: '2026-07-27T15:47:41Z'
   stars: 9
   forks: 5
-  open-issues: 2
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.4.0
+    date: '2026-07-26T14:57:34Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/ngandrass/moodle-tool_userautodelete/security
 labels:
 - fully-free

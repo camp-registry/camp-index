@@ -1,5 +1,6 @@
 component: theme_cordwainer
 source: https://github.com/gjb2048/moodle-theme_cordwainer
+source-repo-id: 13928667
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-theme_cordwainer/security/advisories/new
@@ -17,6 +18,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-07-23'
+  checked: '2026-08-06'
 dependencies:
   theme_bootstrapbase: 2013110500

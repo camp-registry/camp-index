@@ -1,5 +1,6 @@
 component: local_pluginsfetcher
 source: https://github.com/ffhs/moodle-local_pluginsfetcher
+source-repo-id: 198904908
 maintainers:
 - github: ffhs
 tier: 1
@@ -14,7 +15,11 @@ metrics:
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r1
+    date: '2026-06-17T11:27:56Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-local_pluginsfetcher/security
 labels:
 - fully-free

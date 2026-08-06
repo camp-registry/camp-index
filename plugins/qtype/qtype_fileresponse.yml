@@ -1,5 +1,6 @@
 component: qtype_fileresponse
 source: https://github.com/bfh/moodle-qtype_fileresponse
+source-repo-id: 36060240
 maintainers:
 - name: Bern University of Applied Sciences
   github: bfh
@@ -28,12 +29,16 @@ releases:
 license: GPL-3.0
 summary: moodle-qtype_fileresponse
 metrics:
-  updated: '2026-02-12T15:45:10Z'
+  updated: '2026-07-30T16:44:25Z'
   stars: 0
   forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r1
+    date: '2026-07-29T20:45:52Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/bfh/moodle-qtype_fileresponse/security/advisories/new
 labels:
 - fully-free

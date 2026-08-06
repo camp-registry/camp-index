@@ -13,9 +13,13 @@ releases: []
 license: GPL-3.0
 summary: A reusable library for Moodle that simplifies Zoom API integrations.
 metrics:
-  updated: '2026-06-24T13:59:42Z'
+  updated: '2026-07-30T19:24:42Z'
   stars: 1
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-07-30T19:24:42Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

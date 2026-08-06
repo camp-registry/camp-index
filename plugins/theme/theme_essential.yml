@@ -1,5 +1,6 @@
 component: theme_essential
 source: https://github.com/gjb2048/moodle-theme_essential
+source-repo-id: 21438158
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-theme_essential/security/advisories/new
@@ -18,4 +19,7 @@ metrics:
   forks: 116
   open-issues: 36
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: V3.6.1.0
+    date: '2019-04-16T19:08:24Z'
+  checked: '2026-08-06'

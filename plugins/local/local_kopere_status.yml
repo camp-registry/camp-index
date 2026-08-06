@@ -1,5 +1,6 @@
 component: local_kopere_status
 source: https://github.com/EduardoKrausME/moodle-local_kopere_status
+source-repo-id: 1067425312
 security-contact: https://github.com/EduardoKrausME/moodle-local_kopere_status/security
 maintainers:
 - github: EduardoKrausME
@@ -20,4 +21,5 @@ metrics:
     tag: 0.0.5
     date: '2026-01-06T23:58:50Z'
   checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: Monitor services, availability, and technical indicators in real time.

@@ -12,11 +12,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-01T06:57:29Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-04-17T19:28:41Z'
+  stars: 2
+  forks: 9
+  open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.4
+    date: '2023-07-28T17:44:30Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: '"Course ratings" plugin allows students to add ratings and reviews to the
   courses,'

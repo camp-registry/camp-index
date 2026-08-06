@@ -1,21 +1,27 @@
 component: mod_pandavideo
 source: https://github.com/panda-moodle/moodle-mod_pandavideo
-security-contact: 'https://github.com/panda-moodle/moodle-mod_pandavideo/security'
+source-repo-id: 1023106863
+security-contact: https://github.com/panda-moodle/moodle-mod_pandavideo/security
 maintainers:
 - github: panda-moodle
 tier: 1
 labels:
-  - external-account
-  - paid-service
+- external-account
+- paid-service
 status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-05T22:33:45Z'
+  updated: '2026-08-03T11:38:42Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: 'Activity with secure playback, progress tracking, and completion for Panda videos.'
+  latest-release:
+    tag: 1.0.13
+    date: '2025-11-19T10:59:36Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
+summary: Activity with secure playback, progress tracking, and completion for Panda
+  videos.

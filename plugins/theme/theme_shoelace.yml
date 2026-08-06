@@ -1,5 +1,6 @@
 component: theme_shoelace
 source: https://github.com/gjb2048/moodle-theme_shoelace
+source-repo-id: 9646266
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-theme_shoelace/security/advisories/new
@@ -17,6 +18,9 @@ metrics:
   forks: 6
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: V3.1.1.0
+    date: '2016-10-18T16:38:25Z'
+  checked: '2026-08-06'
 dependencies:
   theme_bootstrapbase: 2018120300

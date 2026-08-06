@@ -1,11 +1,12 @@
 component: local_rewards
 source: https://github.com/EduardoKrausME/moodle-local_rewards
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_rewards/security'
+source-repo-id: 1191732323
+security-contact: https://github.com/EduardoKrausME/moodle-local_rewards/security
 maintainers:
 - github: EduardoKrausME
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -16,5 +17,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.2
+    date: '2026-06-29T16:50:32Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 summary: A Moodle local plugin that connects digital rewards to activity completion.

@@ -15,11 +15,15 @@ releases: []
 summary: Adaptable theme for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-11T11:42:16Z'
+  updated: '2026-07-24T12:03:05Z'
   stars: 9
-  forks: 21
+  forks: 19
   open-issues: 7
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: V502.1.2
+    date: '2026-07-11T11:49:47Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 dependencies:
   theme_boost: 2025100600

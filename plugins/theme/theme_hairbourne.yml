@@ -1,5 +1,6 @@
 component: theme_hairbourne
 source: https://github.com/gjb2048/moodle-theme_hairbourne
+source-repo-id: 54280823
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-theme_hairbourne/security/advisories/new
@@ -16,4 +17,4 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-07-23'
+  checked: '2026-08-06'

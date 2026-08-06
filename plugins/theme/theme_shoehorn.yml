@@ -1,5 +1,6 @@
 component: theme_shoehorn
 source: https://github.com/gjb2048/moodle-theme_shoehorn
+source-repo-id: 17520105
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-theme_shoehorn/security/advisories/new
@@ -17,4 +18,7 @@ metrics:
   forks: 6
   open-issues: 3
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: V3.0.1.4
+    date: '2016-09-22T17:45:18Z'
+  checked: '2026-08-06'

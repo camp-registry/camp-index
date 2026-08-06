@@ -28,9 +28,10 @@ releases:
 license: GPL-3.0
 summary: A block to display content from different sources and with different designs.
 metrics:
-  updated: '2026-05-20T06:06:20Z'
+  updated: '2026-08-06T04:14:43Z'
   stars: 0
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-07-30'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

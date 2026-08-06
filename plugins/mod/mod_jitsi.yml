@@ -24,9 +24,13 @@ releases:
 summary: Jitsi videoconference plugin for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T17:16:14Z'
+  updated: '2026-08-06T11:44:11Z'
   stars: 43
-  forks: 36
-  open-issues: 1
+  forks: 35
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.4.0
+    date: '2026-07-25T07:05:24Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci

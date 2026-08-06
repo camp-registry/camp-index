@@ -1,5 +1,6 @@
 component: format_weekcoll
 source: https://github.com/gjb2048/moodle-format_weekcoll
+source-repo-id: 2525465
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-format_weekcoll/security/advisories/new
@@ -17,4 +18,4 @@ metrics:
   forks: 4
   open-issues: 0
   archived: true
-  checked: '2026-08-01'
+  checked: '2026-08-06'

@@ -1,5 +1,6 @@
 component: format_columns
 source: https://github.com/gjb2048/moodle-format_columns
+source-repo-id: 6653941
 maintainers:
 - github: gjb2048
 security-contact: https://github.com/gjb2048/moodle-format_columns/security/advisories/new
@@ -19,5 +20,5 @@ metrics:
   latest-release:
     tag: V3.0.1.1
     date: '2016-03-13T17:34:03Z'
-  checked: '2026-08-01'
+  checked: '2026-08-06'
 summary: Introduction

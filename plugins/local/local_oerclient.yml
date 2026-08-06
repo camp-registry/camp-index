@@ -70,12 +70,13 @@ releases:
 license: GPL-3.0
 summary: A client plugin to enable communication with an OER Exchange site
 metrics:
-  updated: '2026-07-27T03:32:48Z'
+  updated: '2026-08-04T03:44:29Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_oerclient/security
 labels:
 - fully-free

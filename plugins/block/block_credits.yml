@@ -13,9 +13,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin to manage user credits.
 metrics:
-  updated: '2024-09-03T07:29:22Z'
+  updated: '2026-07-31T07:44:53Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-06'

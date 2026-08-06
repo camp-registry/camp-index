@@ -10,12 +10,13 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin that allows forums to be set to require recording audio/video.
 metrics:
-  updated: '2026-06-16T13:10:31Z'
+  updated: '2026-08-04T03:43:54Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_textless_forum/security
 labels:
 - fully-free

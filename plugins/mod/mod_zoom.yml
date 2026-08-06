@@ -13,9 +13,13 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for Zoom meeting
 metrics:
-  updated: '2026-05-28T15:11:36Z'
-  stars: 68
-  forks: 114
+  updated: '2026-07-22T07:44:07Z'
+  stars: 67
+  forks: 115
   open-issues: 44
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.5.0
+    date: '2026-04-16T15:55:17Z'
+  checked: '2026-08-06'
+  ci: moodle-plugin-ci
