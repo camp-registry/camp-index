@@ -1,8 +1,12 @@
 component: local_profilefield_autofill
 source: https://github.com/davidpesce/moodle-local_profilefield_autofill
 maintainers:
-- github: davidpesce
-tier: 0
+- name: David Pesce
+  github: davidpesce
+tier: 1
+security-contact: https://github.com/davidpesce/moodle-local_profilefield_autofill/security/advisories/new
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
