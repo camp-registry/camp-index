@@ -65,6 +65,7 @@ jobs:
           base = "origin/" + os.environ["BASE_REF"]
           checks = []
           bad = []
+          src_changes = []
           for path in json.loads(sys.argv[1]):
               # A malformed changed file must fail as one readable line, not
               # a traceback (#156); keep checking the rest before exiting.
@@ -83,6 +84,21 @@ jobs:
               shown = subprocess.run(["git", "show", f"{base}:{path}"],
                                      capture_output=True, text=True)
               prior = yaml.safe_load(shown.stdout) if shown.returncode == 0 else None
+              # Source-change tripwire (warn-only): a PR that modifies an
+              # existing entry's source is a repoint — the human identity
+              # checkpoint — even when it arrives inside a claim. Nothing
+              # else surfaces that in review, so annotate the diff line.
+              if isinstance(prior, dict) and prior.get("source") != head.get("source"):
+                  line = next((n + 1 for n, text in
+                               enumerate(open(path).read().splitlines())
+                               if text.startswith("source:")), 1)
+                  component = os.path.basename(path)[:-4]
+                  print(f"::warning file={path},line={line},"
+                        f"title=Source changed on {component}::"
+                        f"{prior.get('source')} -> {head.get('source')} — a source "
+                        "change is a repoint; verify ownership per the repoints "
+                        "runbook before approving, even within a claim.")
+                  src_changes.append((component, prior.get("source"), head.get("source")))
               known = {str(r["version"]) for r in (prior or {}).get("releases") or []}
               for r in head.get("releases") or []:
                   if str(r["version"]) in known:
@@ -96,6 +112,16 @@ jobs:
                                  "version": str(r["version"]), "commit": r["commit"],
                                  "moodle-branch": code, "php": php}
                                 for code, php in legs)
+          if src_changes:
+              with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as s:
+                  s.write("### Source changes (repoints)\n\n")
+                  for component, old, new in src_changes:
+                      s.write(f"- `{component}`: {old} → {new}\n")
+                  s.write("\nA source change moves the entry's publishing "
+                          "identity. Verify ownership per the [repoints "
+                          "runbook](https://github.com/camp-registry/camp-docs/"
+                          "blob/main/runbooks/repoints.md) before approving, "
+                          "even when the change arrives inside a claim.\n")
           if bad:
               for msg in bad:
                   print(f"::error::{msg}")
