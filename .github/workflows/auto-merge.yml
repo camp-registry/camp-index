@@ -1,0 +1,318 @@
+# Auto-merge for machine-verified PRs (camp-index#210).
+#
+# Two eligibility classes, each re-derived here independently of the
+# PR itself (ROLES.md: the dividing line is what the checks
+# establish, not who authored the change):
+#
+# RELEASE (phase 1): the PR was opened by the publisher app and every
+# commit was committed by it (authors are the plugin maintainers, per
+# the attribution rule); the diff is a pure release append on one
+# existing entry (plus the tier 1 to 2 carry on a first release). The
+# publisher already authenticated the release with an OIDC token only
+# CI of the listed repository can mint, and Index PR verification
+# rebuilt the tag and compared hashes; the merge click verifies
+# nothing further.
+#
+# CLAIM (phase 2): a human-authored PR that raises exactly one entry
+# from tier 0 to tier 1, adds maintainers and contact/label data,
+# and changes nothing else — no source change, no release changes.
+# Proof of repository control is the authorship match: the PR author
+# IS the owner of the user-owned source repository, or a public
+# member of the owning organization. Claims that fail the match, or
+# whose component carries a name-collision record in the scan
+# ledger, fall through to the human path (the runbooks' judgment
+# residue: org repos with private membership, collisions, repoints
+# inside claims).
+#
+# In both classes: Index PR verification must have concluded green
+# for the exact head SHA, and the PR must be open, not draft, and
+# not labeled `hold` — the admin brake. Anything ineligible is left
+# untouched for the normal human path; this workflow never blocks a
+# merge, it only performs eligible ones. The merge uses the
+# automation app token (the ruleset bypass actor) pinned to the
+# expected head SHA, so a commit landing after verification — a
+# rolling-branch append, a claim revision — fails the merge
+# harmlessly and the next verification run retries.
+#
+# Security note: this workflow runs with base-repo privileges but
+# never executes PR content — it only reads git blobs (fetched via
+# the pull/N/head ref, which works for fork PRs too) and parses YAML
+# with safe_load.
+
+name: Auto-merge verified PRs
+
+on:
+  workflow_run:
+    workflows: ["Index PR verification"]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      pr:
+        description: "PR number to evaluate (checks are re-verified)"
+        required: true
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write            # the auto-merged audit label
+
+concurrency:
+  group: auto-merge
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Resolve candidate PR and classify
+        id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+          DISPATCH_PR: ${{ inputs.pr }}
+        run: |
+          set -euo pipefail
+          BOT="camp-registry-publisher[bot]"
+          skip() { echo "$1"; echo "class=none" >> "$GITHUB_OUTPUT"; exit 0; }
+
+          if [ -n "${DISPATCH_PR:-}" ]; then
+            pr_json=$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${DISPATCH_PR}")
+          else
+            # workflow_run.pull_requests is unreliable; resolve by head
+            # SHA (the endpoint sees fork PRs too).
+            pr_json=$(gh api "repos/${GITHUB_REPOSITORY}/commits/${HEAD_SHA}/pulls" --jq '
+              [.[] | select(.state == "open" and .base.ref == "main")] | first // empty')
+            [ -n "$pr_json" ] || skip "no open PR targeting main for ${HEAD_SHA}"
+          fi
+          num=$(echo "$pr_json"    | jq -r .number)
+          sha=$(echo "$pr_json"    | jq -r .head.sha)
+          author=$(echo "$pr_json" | jq -r .user.login)
+          bot_author=$(echo "$pr_json" | jq -r '.user.type == "Bot"')
+          draft=$(echo "$pr_json"  | jq -r .draft)
+          state=$(echo "$pr_json"  | jq -r .state)
+          hold=$(echo "$pr_json"   | jq -r '[.labels[].name] | contains(["hold"])')
+          echo "PR #${num} head ${sha} author ${author} draft ${draft} hold ${hold}"
+
+          [ "$state" = "open" ] || skip "not eligible: PR not open"
+          [ "$draft" != "true" ] || skip "not eligible: draft (admin brake)"
+          [ "$hold" != "true" ] || skip "not eligible: hold label (admin brake)"
+
+          if [ "$author" = "$BOT" ]; then
+            cls=release
+            # Every commit must be committed by the publisher app — a
+            # branch a human pushed to is not machine-authored,
+            # whatever the PR author field says.
+            foreign=$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${num}/commits" --paginate \
+              --jq '[.[] | select((.committer.login // "") != "'"${BOT}"'")] | length')
+            [ "$foreign" = "0" ] || skip "not eligible: ${foreign} commit(s) not committed by ${BOT}"
+          else
+            cls=claim
+            # Bots other than the publisher never auto-merge.
+            [ "$bot_author" = "false" ] || skip "not eligible: unexpected bot author"
+          fi
+
+          # On dispatch, re-verify the required check for this exact
+          # SHA (the workflow_run path already ran green to get here).
+          if [ -n "${DISPATCH_PR:-}" ]; then
+            ok=$(gh api "repos/${GITHUB_REPOSITORY}/commits/${sha}/check-runs" \
+              --jq '[.check_runs[] | select(.name == "Index PR verification result"
+                                            and .conclusion == "success")] | length')
+            [ "$ok" != "0" ] || skip "not eligible: required check not green for ${sha}"
+          fi
+
+          {
+            echo "class=${cls}"
+            echo "pr=${num}"
+            echo "sha=${sha}"
+            echo "author=${author}"
+          } >> "$GITHUB_OUTPUT"
+
+      - uses: actions/checkout@v7
+        if: steps.gate.outputs.class != 'none'
+        with:
+          fetch-depth: 0
+
+      - name: Verify the diff matches its class
+        id: diff
+        if: steps.gate.outputs.class != 'none'
+        env:
+          HEAD_SHA: ${{ steps.gate.outputs.sha }}
+          PR_NUM: ${{ steps.gate.outputs.pr }}
+          CLASS: ${{ steps.gate.outputs.class }}
+        run: |
+          git fetch -q origin "pull/${PR_NUM}/head"
+          [ "$(git rev-parse FETCH_HEAD)" = "${HEAD_SHA}" ] || {
+            echo "head moved since verification; the next run will retry"
+            echo "eligible=false" >> "$GITHUB_OUTPUT"; exit 0; }
+          python3 - <<'EOF'
+          import os, re, subprocess, sys, yaml
+
+          def out(eligible, reason, component=""):
+              with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+                  fh.write(f"eligible={'true' if eligible else 'false'}\n")
+                  fh.write(f"component={component}\n")
+              print(reason)
+              sys.exit(0)
+
+          def show(ref, path):
+              r = subprocess.run(["git", "show", f"{ref}:{path}"],
+                                 capture_output=True, text=True)
+              return r.stdout if r.returncode == 0 else None
+
+          cls = os.environ["CLASS"]
+          sha = os.environ["HEAD_SHA"]
+          base_ref = os.environ.get("BASE_REF", "origin/main")
+          base = subprocess.run(["git", "merge-base", base_ref, sha],
+                                capture_output=True, text=True).stdout.strip()
+          files = subprocess.run(["git", "diff", "--name-only", f"{base}..{sha}"],
+                                 capture_output=True, text=True).stdout.split()
+          if len(files) != 1 or not re.fullmatch(r"plugins/[^/]+/[^/]+\.yml", files[0]):
+              out(False, f"not eligible: changed files {files}")
+          path = files[0]
+
+          base_text = show(base, path)
+          if base_text is None:
+              out(False, "not eligible: entry does not exist on main")
+          head_text = show(sha, path)
+          try:
+              b, h = yaml.safe_load(base_text), yaml.safe_load(head_text)
+          except yaml.YAMLError as e:
+              out(False, f"not eligible: YAML error ({e})")
+          if not isinstance(b, dict) or not isinstance(h, dict):
+              out(False, "not eligible: entry is not a mapping")
+          component = h.get("component") or ""
+
+          if cls == "release":
+              if set(h) != set(b):
+                  out(False, f"not eligible: key set changed ({sorted(set(h) ^ set(b))})")
+              br, hr = b.get("releases") or [], h.get("releases") or []
+              if len(hr) <= len(br) or hr[:len(br)] != br:
+                  out(False, "not eligible: releases are not a pure append")
+              for rec in hr[len(br):]:
+                  if not isinstance(rec, dict) or not {"version", "tag", "commit"} <= set(rec):
+                      out(False, "not eligible: malformed appended release record")
+              for key in set(b) - {"releases", "tier"}:
+                  if b[key] != h[key]:
+                      out(False, f"not eligible: {key} changed")
+              if b.get("tier") != h.get("tier"):
+                  if not (b.get("tier") == 1 and h.get("tier") == 2 and not br):
+                      out(False, f"not eligible: tier {b.get('tier')} -> {h.get('tier')}")
+              out(True, f"eligible release: {path} appends {len(hr) - len(br)} release(s)",
+                  component)
+
+          # Claim class: tier 0 -> 1 on an existing entry, maintainers
+          # added, contact/label data allowed, NOTHING else — a source
+          # change or release edit is never auto-merged.
+          if b.get("tier", 0) != 0 or h.get("tier") != 1:
+              out(False, f"not eligible: tier {b.get('tier', 0)} -> {h.get('tier')}, not a claim")
+          if b.get("source") != h.get("source"):
+              out(False, "not eligible: source changed (repoint, human review)")
+          maints = h.get("maintainers")
+          if not (isinstance(maints, list) and maints
+                  and all(isinstance(m, dict) and m.get("github") for m in maints)):
+              out(False, "not eligible: maintainers missing or lack github handles")
+          ALLOWED = {"tier", "maintainers", "security-contact", "labels"}
+          for key in set(b) | set(h):
+              if key in ALLOWED:
+                  continue
+              if b.get(key, None) != h.get(key, None) or (key in b) != (key in h):
+                  out(False, f"not eligible: {key} changed")
+          out(True, f"eligible claim: {path}", component)
+          EOF
+
+      - name: Verify proof of repository control (claims)
+        id: control
+        if: steps.gate.outputs.class == 'claim' && steps.diff.outputs.eligible == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AUTHOR: ${{ steps.gate.outputs.author }}
+          HEAD_SHA: ${{ steps.gate.outputs.sha }}
+        run: |
+          set -euo pipefail
+          path=$(git diff --name-only "$(git merge-base origin/main "${HEAD_SHA}")..${HEAD_SHA}" | head -1)
+          source=$(git show "${HEAD_SHA}:${path}" | python3 -c 'import sys, yaml; print(yaml.safe_load(sys.stdin)["source"])')
+          echo "source: ${source} / author: ${AUTHOR}"
+          case "$source" in
+            https://github.com/*) ;;
+            *) echo "proof=false" >> "$GITHUB_OUTPUT"
+               echo "not eligible: authorship match only supports github.com sources"; exit 0 ;;
+          esac
+          owner=$(echo "$source" | cut -d/ -f4)
+          if [ "$(echo "$owner" | tr '[:upper:]' '[:lower:]')" = "$(echo "$AUTHOR" | tr '[:upper:]' '[:lower:]')" ]; then
+            echo "proof of control: author owns the source repository"
+            echo "proof=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if gh api "orgs/${owner}/public_members/${AUTHOR}" --silent 2>/dev/null; then
+            echo "proof of control: author is a public member of ${owner}"
+            echo "proof=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          echo "not eligible: no public authorship match (human review)"
+          echo "proof=false" >> "$GITHUB_OUTPUT"
+
+      - name: Check the component against the collision ledger (claims)
+        id: collision
+        if: steps.control.outputs.proof == 'true'
+        env:
+          COMPONENT: ${{ steps.diff.outputs.component }}
+        run: |
+          set -euo pipefail
+          pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.50"
+          if camp check-collisions . --component "${COMPONENT}" | grep -q '^name-collision:'; then
+            echo "not eligible: name-collision record on ${COMPONENT} (human review per NAMESPACE.md)"
+            echo "clear=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "clear=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Decide
+        id: decide
+        if: steps.gate.outputs.class != 'none'
+        env:
+          CLASS: ${{ steps.gate.outputs.class }}
+          DIFF_OK: ${{ steps.diff.outputs.eligible }}
+          PROOF: ${{ steps.control.outputs.proof }}
+          CLEAR: ${{ steps.collision.outputs.clear }}
+        run: |
+          if [ "$CLASS" = "release" ] && [ "$DIFF_OK" = "true" ]; then
+            echo "merge=true" >> "$GITHUB_OUTPUT"
+          elif [ "$CLASS" = "claim" ] && [ "$DIFF_OK" = "true" ] \
+               && [ "$PROOF" = "true" ] && [ "$CLEAR" = "true" ]; then
+            echo "merge=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "merge=false" >> "$GITHUB_OUTPUT"
+            echo "left for the human path"
+          fi
+
+      - name: Mint app token
+        id: app
+        if: steps.decide.outputs.merge == 'true'
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ vars.AUTOMATION_APP_ID }}
+          private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+
+      - name: Merge as a registry act
+        if: steps.decide.outputs.merge == 'true'
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+          PR: ${{ steps.gate.outputs.pr }}
+          SHA: ${{ steps.gate.outputs.sha }}
+        run: |
+          set -euo pipefail
+          gh api -X PUT "repos/${GITHUB_REPOSITORY}/pulls/${PR}/merge" \
+            -f merge_method=merge -f sha="${SHA}"
+          # Same-repo release branches are deleted; fork heads are the
+          # claimant's own and are left alone.
+          headrepo=$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR}" --jq .head.repo.full_name)
+          if [ "$headrepo" = "${GITHUB_REPOSITORY}" ]; then
+            branch=$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR}" --jq .head.ref)
+            gh api -X DELETE "repos/${GITHUB_REPOSITORY}/git/refs/heads/${branch}" || true
+          fi
+
+      - name: Apply audit label
+        if: steps.decide.outputs.merge == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ steps.gate.outputs.pr }}
+        run: gh pr edit "${PR}" --repo "${GITHUB_REPOSITORY}" --add-label auto-merged || true
