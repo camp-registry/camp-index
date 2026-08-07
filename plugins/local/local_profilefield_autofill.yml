@@ -1,5 +1,6 @@
 component: local_profilefield_autofill
 source: https://github.com/davidpesce/moodle-local_profilefield_autofill
+source-repo-id: 1087198828
 maintainers:
 - name: David Pesce
   github: davidpesce
