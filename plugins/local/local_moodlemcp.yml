@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.1.0
+    date: '2026-04-24T04:21:29Z'
+  checked: '2026-08-07'
 summary: Turn a Moodle site into a remote MCP (Model Context Protocol) server with
   OAuth 2.1 authorization, so users can connect Claude.ai (or any other MCP client)
   and ask the LLM to read their Moodle data — courses, assignments, grades, forums,

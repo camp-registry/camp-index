@@ -11,7 +11,10 @@ summary: MS Account Local plugin for Moodle LMS
 metrics:
   updated: '2023-06-13T17:54:36Z'
   stars: 7
-  forks: 10
+  forks: 9
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.1.0.0
+    date: '2016-07-25T05:00:50Z'
+  checked: '2026-08-07'

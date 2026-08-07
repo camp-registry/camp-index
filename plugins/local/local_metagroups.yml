@@ -14,4 +14,6 @@ metrics:
   forks: 15
   open-issues: 10
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-07'
+dependencies:
+  enrol_meta: 2022112800

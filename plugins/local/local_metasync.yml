@@ -13,5 +13,7 @@ metrics:
   forks: 5
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-07'
 summary: Moodle Meta-course Group Synchronization
+dependencies:
+  enrol_meta: 2013110500

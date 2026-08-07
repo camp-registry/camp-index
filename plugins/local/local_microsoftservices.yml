@@ -11,7 +11,14 @@ license: GPL-3.0
 metrics:
   updated: '2023-06-13T17:54:34Z'
   stars: 12
-  forks: 8
+  forks: 7
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: v30.0.0.7
+    date: '2016-07-19T03:25:49Z'
+  checked: '2026-08-07'
+dependencies:
+  block_microsoft: 2016062005
+  local_msaccount: 2016062000
+  filter_oembed: 2016062001

@@ -13,4 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.2
+    date: '2021-08-27T04:21:19Z'
+  checked: '2026-08-07'
+dependencies:
+  mod_data: any

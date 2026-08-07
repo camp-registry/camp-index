@@ -15,4 +15,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  latest-release:
+    tag: moodle20_v0.9.6
+    date: '2016-02-24T12:50:48Z'
+  checked: '2026-08-07'
