@@ -1,0 +1,70 @@
+# Anchors freshly claimed entries: when a claim PR merges, the new
+# Tier 1+ entry is missing source-repo-id (the OIDC trusted-publishing
+# identity anchor, camp-index#66) until the daily metrics refresh
+# reaches it — up to two weeks at the 14-day staleness window, during
+# which a tokenless release from the repo would arrive unanchored.
+# This sweep closes that gap to minutes: on every human push touching
+# plugins/, fill the anchor for any Tier 1+ entry missing it.
+#
+# The sweep only ever fills BLANKS — it never rewrites an existing
+# anchor. Changing an anchor is the source-repoint case and stays a
+# deliberate human act (the OIDC soft-stop), so this automation cannot
+# be leveraged to re-anchor an entry to a different repository.
+#
+# The actor guard skips pushes made by the automation app itself:
+# the daily metrics refresh, the discovery scan (new entries are
+# Tier 0, nothing to anchor), and this workflow's own anchor commit —
+# which would otherwise re-trigger one harmless no-op run.
+
+name: Anchor repo ids
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "plugins/**"
+
+permissions:
+  contents: read           # pushes use the app token, not GITHUB_TOKEN
+
+jobs:
+  anchor:
+    if: github.actor != 'camp-registry-automation[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Mint app token
+        id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ vars.AUTOMATION_APP_ID }}
+          private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v7
+        with:
+          token: ${{ steps.app.outputs.token }}
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.50"
+
+      - name: Anchor unanchored Tier 1+ entries
+        env:
+          GITHUB_TOKEN: ${{ steps.app.outputs.token }}
+        run: camp fill-repo-ids .
+
+      - name: Push anchors
+        run: |
+          if git diff --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "camp project"
+          git config user.email "noreply@camp-registry.org"
+          git add plugins
+          git commit -m "anchor source-repo-id for newly claimed entries"
+          git pull --rebase origin main
+          git push origin main
