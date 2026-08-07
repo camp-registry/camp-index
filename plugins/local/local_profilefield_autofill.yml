@@ -4,16 +4,31 @@ source-repo-id: 1087198828
 maintainers:
 - name: David Pesce
   github: davidpesce
-tier: 1
-security-contact: https://github.com/davidpesce/moodle-local_profilefield_autofill/security/advisories/new
+tier: 2
+security-contact: >-
+  https://github.com/davidpesce/moodle-local_profilefield_autofill/security/advisories/new
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.2.3
+  tag: v1.2.3
+  commit: bf0b535a5d49d405251c79b13085a5b31bf0ee67
+  moodle-version: 2026080601
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: b67f2168ccd62ed6f3213bf95af6df4156de1d632f60099774ba245a4338c219
+  listing-sha256: 507d145c2c6087729a3ea14086cd31dee8c63da809289783d564c4f94f940083
+  published: '2026-08-07T18:35:52Z'
+  released: '2026-08-07T18:29:47Z'
 license: GPL-3.0
-summary: A local Moodle plugin that updates user profile fields based on admin-specified
-  rules.
+summary: >-
+  A local Moodle plugin that updates user profile fields based on
+  admin-specified rules.
 metrics:
   updated: '2025-11-11T17:25:22Z'
   stars: 0
