@@ -8,11 +8,16 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2024-08-21T07:49:12Z'
+  updated: '2026-08-07T16:56:43Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.4.1.0
+    date: '2026-08-07T16:56:43Z'
+  checked: '2026-08-08'
 summary: This README would normally document whatever steps are necessary to get your
   application up and running.
+dependencies:
+  local_obu_group_manager: 2024060401

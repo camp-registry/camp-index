@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-02-27T23:16:42Z'
+  updated: '2026-07-27T23:02:32Z'
   stars: 2
   forks: 7
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-08'
 summary: 'This plugin is required by the following plugins published by Open LMS:'

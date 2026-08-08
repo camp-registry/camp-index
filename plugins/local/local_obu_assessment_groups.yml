@@ -13,6 +13,12 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.0.2
+    date: '2024-09-10T08:24:15Z'
+  checked: '2026-08-08'
 summary: This README would normally document whatever steps are necessary to get your
   application up and running.
+dependencies:
+  local_obu_assessment_extensions: 2024071701
+  local_obu_group_manager: 2024060401

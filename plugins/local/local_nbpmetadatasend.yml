@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-08'
 summary: Local plugin to send selected course meta data defined by Project Trainspot
   to Mein Bildungsraum Datenraum /Trainspot Datenraum.
+dependencies:
+  local_ildmeta: 2022110800

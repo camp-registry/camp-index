@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-08'
 summary: localmsteams is a local Moodle plugin that manages appointments backed by
   Moodle calendar events and can create Microsoft Teams meetings through Microsoft
   Graph.

@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-01-17T10:36:27Z'
+  updated: '2026-07-13T12:28:18Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-08'
 summary: 'Plugin Name: localmultistepform'

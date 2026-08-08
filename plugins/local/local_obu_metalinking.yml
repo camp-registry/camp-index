@@ -14,4 +14,12 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.1.3
+    date: '2024-11-07T09:05:26Z'
+  checked: '2026-08-08'
+dependencies:
+  enrol_meta: 2022112800
+  local_obu_group_manager: 2024072902
+  local_obu_attendance_events: 2024100901
+  local_obu_metalinking_events: 2024100901

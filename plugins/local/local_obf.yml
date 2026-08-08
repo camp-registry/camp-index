@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: OBF plugin for Moodle learning platform
 metrics:
-  updated: '2026-05-06T09:36:32Z'
+  updated: '2026-07-30T11:02:55Z'
   stars: 0
-  forks: 5
-  open-issues: 2
+  forks: 6
+  open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-08'

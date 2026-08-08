@@ -14,4 +14,9 @@ metrics:
   forks: 64
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2.0
+    date: '2026-07-07T09:44:14Z'
+  checked: '2026-08-08'
+dependencies:
+  auth_oidc: 2026042000

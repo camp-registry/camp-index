@@ -10,9 +10,15 @@ summary: Moodle plugin which helps to integrate Opencast videos into the Moodle 
   third party plugin (mod_hvp).
 license: GPL-3.0
 metrics:
-  updated: '2026-06-11T13:05:15Z'
+  updated: '2026-07-23T08:51:13Z'
   stars: 3
   forks: 5
-  open-issues: 4
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.0-r2
+    date: '2026-07-23T08:51:13Z'
+  checked: '2026-08-08'
+dependencies:
+  mod_hvp: 2024112100
+  tool_opencast: 2025080103

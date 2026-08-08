@@ -10,9 +10,14 @@ summary: Moodle plugin which helps to integrate Opencast videos into the Moodle 
   core.
 license: GPL-3.0
 metrics:
-  updated: '2026-06-18T23:52:50Z'
+  updated: '2026-07-23T09:28:55Z'
   stars: 4
   forks: 1
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.0-r2
+    date: '2026-07-23T09:28:55Z'
+  checked: '2026-08-08'
+dependencies:
+  tool_opencast: 2025080103

@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.2.1
+    date: '2026-03-31T11:41:36Z'
+  checked: '2026-08-08'
 summary: A Moodle local plugin that replaces the standard "My courses" page with a
   view that groups the user's enrolled courses by category, featuring collapsible
   sections, course cards with images, and completion progress bars.

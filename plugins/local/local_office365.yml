@@ -14,4 +14,13 @@ metrics:
   forks: 20
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2.0
+    date: '2026-07-07T09:44:57Z'
+  checked: '2026-08-08'
+dependencies:
+  auth_oidc: 2026042000
+  block_microsoft: 2026042000
+  local_o365: 2026042000
+  repository_office365: 2026042000
+  theme_boost_o365teams: 2026042000
