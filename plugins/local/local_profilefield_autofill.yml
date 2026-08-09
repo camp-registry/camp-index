@@ -5,8 +5,7 @@ maintainers:
 - name: David Pesce
   github: davidpesce
 tier: 2
-security-contact: >-
-  https://github.com/davidpesce/moodle-local_profilefield_autofill/security/advisories/new
+security-contact: https://github.com/davidpesce/moodle-local_profilefield_autofill/security/advisories/new
 labels:
 - fully-free
 status: active
@@ -26,13 +25,16 @@ releases:
   published: '2026-08-07T18:35:52Z'
   released: '2026-08-07T18:29:47Z'
 license: GPL-3.0
-summary: >-
-  A local Moodle plugin that updates user profile fields based on
-  admin-specified rules.
+summary: A local Moodle plugin that updates user profile fields based on admin-specified
+  rules.
 metrics:
-  updated: '2025-11-11T17:25:22Z'
+  updated: '2026-08-07T18:35:36Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.2.3
+    date: '2026-08-07T18:36:09Z'
+  checked: '2026-08-09'
+  ci: moodle-plugin-ci

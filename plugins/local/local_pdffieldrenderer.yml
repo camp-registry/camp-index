@@ -14,4 +14,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-09'
+dependencies:
+  theme_contentmodifier: 2024041700
+  customfield_file: 2022031800
+  local_pdfjsrenderer: 2022101100

@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-04-29T23:28:13Z'
+  updated: '2026-07-22T20:42:17Z'
   stars: 9
   forks: 18
   open-issues: 12
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-09'
 summary: Provides a Moodle lock factory class for locking with Redis.

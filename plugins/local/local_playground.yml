@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-09'
 summary: Playground is a Moodle local plugin that allows instructors to quickly create
   temporary "playground" courses without requiring administrator intervention. These
   courses are designed as safe spaces for instructors to prepare content, test new

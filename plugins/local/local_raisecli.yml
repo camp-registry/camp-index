@@ -13,8 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-09'
 summary: This plugin defines a service with functions used by the RAISE Moodle CLI
   tool to help automate management tasks on instances. The service itself includes
   built-in functions as well as a few custom service functions implemented in this
   plugin.
+dependencies:
+  local_raise: 2022102100

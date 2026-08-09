@@ -11,9 +11,12 @@ summary: Help students study better without leaving Moodle. QuickNote lets learn
   capture quotes, write notes in a native sidebar, and jump right back to the original
   text.
 metrics:
-  updated: '2026-07-07T16:09:00Z'
+  updated: '2026-08-09T01:06:43Z'
   stars: 1
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 0.9.0
+    date: '2026-08-06T00:31:22Z'
+  checked: '2026-08-09'

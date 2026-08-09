@@ -13,7 +13,10 @@ metrics:
   forks: 2
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.1-checks
+    date: '2023-11-22T07:09:02Z'
+  checked: '2026-08-09'
 summary: This plugin allows you to set start and end dates for user activation, via
   their user profile field. When we specify a start date or end date on a given user
   profile, the user is suspended when the date is out of range.

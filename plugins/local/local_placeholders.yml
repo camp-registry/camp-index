@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-09'
 summary: Placeholders depends on the Shortcodes filter plugin to create shortcodes
   to bring live data into course content.
+dependencies:
+  filter_shortcodes: 2024090500
+  theme_boost: 2024100700

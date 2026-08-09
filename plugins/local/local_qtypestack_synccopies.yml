@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-09'
 summary: The STACK question type allows you to answer math questions with algebraic
+dependencies:
+  qtype_stack: 2020120600
