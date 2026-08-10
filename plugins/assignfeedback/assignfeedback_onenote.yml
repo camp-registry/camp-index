@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: v5.2.0
     date: '2026-07-07T09:46:10Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  local_onenote: 2026042000

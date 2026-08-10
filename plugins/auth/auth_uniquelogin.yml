@@ -14,4 +14,7 @@ metrics:
   forks: 3
   open-issues: 2
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  mod_forum: any
+  mod_data: 2010020300

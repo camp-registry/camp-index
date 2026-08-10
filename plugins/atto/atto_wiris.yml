@@ -18,4 +18,6 @@ metrics:
   latest-release:
     tag: v8.8.3
     date: '2025-03-18T11:42:26Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  filter_wiris: 2025041400

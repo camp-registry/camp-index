@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: Planet eStream ATTO Moodle Plugin
+dependencies:
+  assignsubmission_estream: any
+  filter_planetestream: 2015072300

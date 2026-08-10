@@ -13,7 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: This is the <a href="https://docs.moodle.org/dev/Atto">Atto</a> plugin for
   moodle which will display an echo360 button which when pressed would display video
   options from the user's library.
+dependencies:
+  filter_echo360: 2020060601

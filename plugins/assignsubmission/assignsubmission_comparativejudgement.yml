@@ -11,9 +11,9 @@ metrics:
   updated: '2026-05-28T09:10:31Z'
   stars: 5
   forks: 5
-  open-issues: 4
+  open-issues: 5
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: 'This module extends the moodle assignment to provide support for comparative
   judgement (CJ).  Comparative judgement is an approach to assessment that offers
   an alternative to traditional marking, and this module has been specifically designed

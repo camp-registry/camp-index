@@ -16,7 +16,9 @@ metrics:
   latest-release:
     tag: v0.0.1
     date: '2026-06-16T13:24:00Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: Process Feedback Assignment Submission is a Moodle assignment submission
   plugin for receiving, storing, and presenting Process Feedback data with assignment
   submissions.
+dependencies:
+  local_processfeedback: 2026061600

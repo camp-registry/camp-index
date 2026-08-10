@@ -18,4 +18,6 @@ metrics:
   latest-release:
     tag: v3.10-r1
     date: '2020-11-16T14:45:15Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  mod_collabora: 2024103000

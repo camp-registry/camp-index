@@ -12,6 +12,8 @@ metrics:
   updated: '2026-07-24T13:06:34Z'
   stars: 0
   forks: 3
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  assignsubmission_noto: 2024050200

@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: '2015091800'
     date: '2015-09-18T10:30:53Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  filter_oembed: 2017050100

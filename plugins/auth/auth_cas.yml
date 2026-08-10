@@ -10,8 +10,10 @@ license: GPL-3.0
 summary: CAS Server (SSO) Authentication Plugin for Moodle
 metrics:
   updated: '2025-02-10T07:28:25Z'
-  stars: 0
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  auth_ldap: 2024100100

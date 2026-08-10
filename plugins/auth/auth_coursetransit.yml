@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle Wordpress Integration plugin to sell courses via WooCommerce.
 metrics:
-  updated: '2026-06-18T16:08:17Z'
+  updated: '2026-08-07T13:47:31Z'
   stars: 3
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'

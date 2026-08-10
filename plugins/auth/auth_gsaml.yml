@@ -13,5 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: Open LMS and Google have worked together to build a state-of-the-art integration.
+dependencies:
+  local_mr: 2024121800

@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: v2.0.0
     date: '2020-03-26T11:15:18Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  block_gradetracker: 2020031900

@@ -15,4 +15,6 @@ metrics:
   forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
+dependencies:
+  mod_hvp: 2016051302

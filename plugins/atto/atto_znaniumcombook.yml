@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: Book from znanium.ru
+dependencies:
+  block_znanium_com: 2024040300
+  mod_znaniumcombook: 2024040300

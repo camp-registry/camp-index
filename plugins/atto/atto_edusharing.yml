@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: edu-sharing atto plugin
+dependencies:
+  mod_edusharing: 2021100601

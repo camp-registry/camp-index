@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: This is an atto plugin for Moodle which is a drop-in replacement for the
   default attolink plugin.

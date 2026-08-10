@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: An assignment submission plugin for Moodle that requires students to declare
   whether they used generative AI tools when completing their assignment.

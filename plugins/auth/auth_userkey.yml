@@ -12,10 +12,10 @@ summary: Log in to Moodle using one time user key based login URL. Auth plugin f
 metrics:
   updated: '2025-12-22T23:21:56Z'
   stars: 89
-  forks: 59
-  open-issues: 19
+  forks: 60
+  open-issues: 20
   archived: false
   latest-release:
     tag: '2022081901'
     date: '2022-08-19T03:43:59Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'

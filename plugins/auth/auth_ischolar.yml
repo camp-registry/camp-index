@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: The iScholar <> Moodle Authentication integration aims to allow students
   and teachers to directly access Moodle from their own iScholar interfaces. This
   guide will demonstrate, step-by-step, the procedures for install, activate and deactivate

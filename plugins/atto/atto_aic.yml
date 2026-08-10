@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.3
     date: '2024-03-26T08:42:34Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: Atto Editor plugin to integrate CHATGPT to create content and available to
   role based restrictive audience

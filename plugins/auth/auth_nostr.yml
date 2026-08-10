@@ -11,11 +11,11 @@ summary: Nostr authentication plugin for Moodle 5.1 — NIP-07 + NIP-98 login vi
   extension
 metrics:
   updated: '2026-07-21T19:00:03Z'
-  stars: 0
+  stars: 2
   forks: 0
   open-issues: 3
   archived: false
   latest-release:
     tag: v0.1.4
     date: '2026-07-21T19:07:36Z'
-  checked: '2026-07-26'
+  checked: '2026-08-10'

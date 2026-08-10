@@ -13,5 +13,7 @@ metrics:
   forks: 4
   open-issues: 4
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: Unzip the plugin in the moodle .../lib/editor/atto/plugins/ directory.
+dependencies:
+  filter_translations: 2021110901

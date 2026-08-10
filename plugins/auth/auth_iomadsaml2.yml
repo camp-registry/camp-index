@@ -13,6 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: The IOMAD SAML2 plugin is a clone of the optional authsaml2 plugin - https://moodle.org/plugins/authiomadsaml2
   - with provision for per
+dependencies:
+  local_iomad: 2026010100

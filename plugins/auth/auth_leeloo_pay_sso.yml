@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-26'
+  checked: '2026-08-10'
 summary: This plugin enables your users to purchase products seamlessly with your
   Leeloo LXP.
+dependencies:
+  auth_leeloolxp_tracking_sso: 2021030901
