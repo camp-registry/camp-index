@@ -3,7 +3,7 @@ source: https://github.com/Matheu46/moodle-local_quicknote
 maintainers:
   - github: Matheu46
 security-contact: https://github.com/Matheu46/moodle-local_quicknote/security/advisories/new
-disclosure-labels:
+labels:
   - fully-free
 tier: 1
 status: active
