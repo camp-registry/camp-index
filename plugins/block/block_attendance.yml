@@ -13,6 +13,8 @@ metrics:
   forks: 30
   open-issues: 2
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: The Attendance block supplements the Attendance activity and is supported
   and maintained by Dan Marsden http://danmarsden.com
+dependencies:
+  mod_attendance: 2025111000

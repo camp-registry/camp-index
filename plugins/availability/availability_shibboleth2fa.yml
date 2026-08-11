@@ -8,14 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-18T15:27:01Z'
+  updated: '2026-07-30T14:46:26Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
   latest-release:
-    tag: v1.0.0
-    date: '2024-10-30T15:32:06Z'
-  checked: '2026-07-27'
+    tag: v2.0.0
+    date: '2026-07-30T08:58:21Z'
+  checked: '2026-08-11'
 summary: Moodle availability plugin which lets users restrict activities and sections
   with shibboleth two-factor authentication (2FA).

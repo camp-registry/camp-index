@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v0.3
     date: '2026-07-20T04:35:06Z'
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: Provides a restriction for activities or sections by user. In contrast to
   doing

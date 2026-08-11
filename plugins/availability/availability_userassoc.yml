@@ -13,5 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: 'Moodle 4.5 availability condition plugin: availabilityuserassoc'
+dependencies:
+  profilefield_text: 2024100700

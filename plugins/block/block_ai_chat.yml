@@ -8,13 +8,16 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-27T04:10:54Z'
+  updated: '2026-08-08T05:44:20Z'
   stars: 16
   forks: 13
-  open-issues: 13
+  open-issues: 14
   archived: false
   latest-release:
     tag: v3.3
     date: '2026-07-23T08:35:45Z'
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: This plugin provides a frontend to converse with defined AI's from localaimanager.
+dependencies:
+  local_ai_manager: 2026102300
+  tiny_ai: 2025071200

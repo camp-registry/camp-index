@@ -16,6 +16,8 @@ metrics:
   latest-release:
     tag: 4.2.0
     date: '2025-05-13T12:58:43Z'
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: Dieses Plugin implementiert eine availability condition für die Adler-Raum-Logik
   (requiredSpacesToEnter, bspw (5)v((7)^(4))).
+dependencies:
+  local_logging: any

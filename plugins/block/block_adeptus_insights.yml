@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-01-21T08:31:48Z'
-  checked: '2026-07-27'
+  checked: '2026-08-11'
+dependencies:
+  report_adeptus_insights: 2026011200

@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: v1.3
     date: '2025-09-07T19:28:04Z'
-  checked: '2026-07-27'
+  checked: '2026-08-11'
+dependencies:
+  mod_lti: 2023100400

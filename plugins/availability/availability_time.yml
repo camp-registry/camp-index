@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v0.2.1
     date: '2025-10-11T06:22:56Z'
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: Provides a restriction for activities or sections by time.

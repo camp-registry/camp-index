@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: This block displays a responsive list of icon and text links with visibility
   filtering based on "CampusRoles" custom profile field. Configuration allows adding,
   deleting and re-ording of links. This block can be added to the Site home page.

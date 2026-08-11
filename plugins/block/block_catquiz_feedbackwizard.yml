@@ -14,4 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-11'
+dependencies:
+  mod_adaptivequiz: 2024031502
+  local_catquiz: 2024062800

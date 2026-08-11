@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: The Export Book Chapters Block is a Moodle block plugin that provides a convenient
   way for users to download book chapters in PDF format directly from their course.
+dependencies:
+  mod_book: 2020061500

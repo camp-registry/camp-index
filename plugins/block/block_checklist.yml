@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: 4.1.0.1
     date: '2026-04-24T14:58:31Z'
-  checked: '2026-07-27'
+  checked: '2026-08-11'
+dependencies:
+  mod_checklist: 2019061900

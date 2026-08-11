@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Availability plugin for Moodle making it possible to restrict access to activities
   and sections by IP address.
 metrics:
-  updated: '2026-06-16T08:50:49Z'
+  updated: '2026-07-29T10:43:12Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-27'
+  latest-release:
+    tag: v1.1.0
+    date: '2026-07-30T08:58:42Z'
+  checked: '2026-08-11'

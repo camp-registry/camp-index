@@ -13,7 +13,7 @@ metrics:
   forks: 3
   open-issues: 1
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: A Moodle block plugin that lets teachers and managers copy any course activity
   or resource to multiple courses in a single operation — eliminating the need to
   recreate or manually duplicate the same content across courses one at a time.

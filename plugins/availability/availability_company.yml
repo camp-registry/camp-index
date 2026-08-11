@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-27'
+  checked: '2026-08-11'
 summary: The IOMAD company availability plugin restricts access to course content,
   based on the company a user is associated with.
+dependencies:
+  local_iomad: 2026010100
