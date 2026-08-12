@@ -80612,6 +80612,11 @@ repos:
     detail: component local_cohortmembership already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
+  tkorner/moodle-qbank_tagassistant:
+    outcome: written
+    detail: listed as qbank_tagassistant
+    first-seen: '2026-08-12'
+    last-checked: '2026-08-12'
   tlakdev/aavr_moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
