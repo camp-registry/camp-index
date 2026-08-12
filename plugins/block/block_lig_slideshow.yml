@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Block slideshow for moodle
 metrics:
-  updated: '2026-06-23T21:01:38Z'
+  updated: '2026-08-05T17:24:45Z'
   stars: 0
   forks: 0
   open-issues: 7
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'

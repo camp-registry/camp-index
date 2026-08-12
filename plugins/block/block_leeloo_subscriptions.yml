@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: +This block allows admin to show the Leeloo LXP subscription plans in Moodle,
   they can sell whatever subscription they have on Leeloo LXP. the purchase process
   happens inside popup so user dont leave the moodle site.
+dependencies:
+  auth_leeloo_pay_sso: 2020022105
+  local_leeloolxpcontentapi: 2021031907

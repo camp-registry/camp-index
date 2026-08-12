@@ -13,4 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  local_kaltura: 2022112803
+  local_kalturamediagallery: 2022112803

@@ -8,10 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-10-10T23:45:42Z'
+  updated: '2026-07-31T12:38:32Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: 'This block is designed for teachers and managers who want to:'
+dependencies:
+  local_customgradingform_renderer: 2024051800

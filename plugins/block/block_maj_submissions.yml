@@ -14,4 +14,11 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  datafield_action: any
+  datafield_admin: any
+  datafield_constant: any
+  datafield_report: any
+  datafield_template: any
+  tool_createusers: any

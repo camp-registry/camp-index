@@ -13,6 +13,8 @@ metrics:
   forks: 3
   open-issues: 1
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: This plugin is part of the ePortfolio collection and requires localeportfolio
   to work.
+dependencies:
+  local_eportfolio: any

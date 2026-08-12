@@ -13,4 +13,7 @@ metrics:
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  mod_engagement: 2012031400
+  report_engagement: 2013043000

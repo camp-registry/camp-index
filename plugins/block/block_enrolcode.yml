@@ -12,7 +12,7 @@ summary: This moodle block can be integrated in the course context. If it is dis
   their dashboard (if the block is shown!) and allows those users to enrol directly
   into that course.
 metrics:
-  updated: '2025-08-28T09:21:28Z'
+  updated: '2026-08-06T14:08:05Z'
   stars: 0
   forks: 1
   open-issues: 3
@@ -20,4 +20,4 @@ metrics:
   latest-release:
     tag: v1.6
     date: '2025-04-02T12:23:00Z'
-  checked: '2026-07-28'
+  checked: '2026-08-12'

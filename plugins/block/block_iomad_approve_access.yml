@@ -13,6 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: The IOMAD approve access block is used by company managers to approve or
   deny access requests from their users to attend training event activities.
+dependencies:
+  local_iomad: 2026010100

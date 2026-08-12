@@ -13,6 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: This block allows admin to show Courses which are paid in grid/list view.
   User can purchase them via Leeloo LXP inside popup. and can get enrolled in them.
+dependencies:
+  auth_leeloo_pay_sso: 2020022105
+  tool_leeloo_courses_sync: 2019062700
+  local_leeloolxpcontentapi: 2021031907

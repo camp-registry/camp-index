@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: MWA Analytics Dashboard
 metrics:
-  updated: '2026-07-27T00:37:10Z'
-  stars: 0
+  updated: '2026-08-11T14:15:16Z'
+  stars: 2
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v3.1.7
-    date: '2026-07-27T00:37:11Z'
-  checked: '2026-07-28'
+    tag: v3.5
+    date: '2026-08-11T09:59:25Z'
+  checked: '2026-08-12'

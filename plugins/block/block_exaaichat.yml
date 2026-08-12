@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-19T14:33:49Z'
+  updated: '2026-08-06T11:26:09Z'
   stars: 3
   forks: 1
   open-issues: 4
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: Use contextualized Moodle course data—such as gradebook information, username,
   and other fields—to enrich AI responses. These can be injected using dynamic placeholders.

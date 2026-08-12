@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: The IOMAD company admin block provides the main IOMAD dashboard for all tenant
   management activities and actions.
+dependencies:
+  local_iomad: 2026010100

@@ -14,4 +14,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  local_iomad: 2026010100

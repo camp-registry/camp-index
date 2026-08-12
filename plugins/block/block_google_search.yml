@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Easily integrate a customizable Google search bar into course pages, dashboards,
   or homepages.
 metrics:
-  updated: '2026-07-04T14:56:27Z'
+  updated: '2026-08-03T07:56:06Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 5
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'

@@ -9,9 +9,11 @@ releases: []
 summary: MuTMS My programs block for Moodle™ LMS
 license: GPL-3.0
 metrics:
-  updated: '2026-06-05T18:47:00Z'
+  updated: '2026-08-09T19:13:40Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  tool_mulib: 2026080845

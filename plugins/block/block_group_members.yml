@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v4.1.02
     date: '2023-04-28T13:19:32Z'
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: Display the list of the course group members in a course. This leads to the
   participant

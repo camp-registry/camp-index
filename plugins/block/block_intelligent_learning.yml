@@ -15,4 +15,10 @@ metrics:
   forks: 14
   open-issues: 1
   archived: true
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  local_mr: 2016012600
+  mod_assign: any
+  mod_assignment: any
+  mod_quiz: any
+  mod_lesson: any

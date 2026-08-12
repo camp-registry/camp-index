@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: v5.2.0
     date: '2026-07-07T09:42:39Z'
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  local_o365: 2026042000

@@ -14,4 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  local_kent: 2015060500
+  local_notifications: 2015062400

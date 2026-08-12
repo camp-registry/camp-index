@@ -13,4 +13,7 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  mod_learnanalytics: 2012031400
+  report_learnanalytics: 2013043000

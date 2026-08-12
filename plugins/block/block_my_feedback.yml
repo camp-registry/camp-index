@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 3
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: This block shows students recent feedback across moodle courses.
+dependencies:
+  local_assess_type: 2024091300
+  report_feedback_tracker: 2026042100

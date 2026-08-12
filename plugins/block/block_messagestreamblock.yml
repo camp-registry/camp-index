@@ -9,9 +9,11 @@ releases: []
 license: GPL-3.0
 summary: provides a new block. This block shows the messagestream
 metrics:
-  updated: '2025-12-08T14:39:03Z'
+  updated: '2026-08-04T08:31:41Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  local_nmstream: 2025052309

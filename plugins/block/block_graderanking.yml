@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v0.1.2
     date: '2024-10-25T07:14:48Z'
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: This simple plugin adds a block that displays a ranking of a grade category.

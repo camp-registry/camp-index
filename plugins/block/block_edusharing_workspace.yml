@@ -8,10 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-17T06:47:58Z'
+  updated: '2026-08-06T07:07:54Z'
   stars: 0
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: edu-sharing block workspace
+dependencies:
+  mod_edusharing: 2026061600

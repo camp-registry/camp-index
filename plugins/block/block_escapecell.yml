@@ -16,4 +16,6 @@ metrics:
   latest-release:
     tag: '2.0'
     date: '2021-05-06T12:24:57Z'
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  mod_escapecell: 2020011001

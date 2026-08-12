@@ -20,4 +20,6 @@ metrics:
   latest-release:
     tag: 1.0.25
     date: '2016-09-14T08:59:52Z'
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  mod_assign: 2015051100

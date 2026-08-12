@@ -18,4 +18,6 @@ metrics:
   latest-release:
     tag: '1.4'
     date: '2019-11-21T16:40:44Z'
-  checked: '2026-07-28'
+  checked: '2026-08-12'
+dependencies:
+  mod_ejsapp: 2017021301

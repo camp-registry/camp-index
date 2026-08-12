@@ -8,7 +8,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T06:16:43Z'
+  updated: '2026-07-28T07:27:44Z'
   stars: 6
   forks: 6
   open-issues: 13
@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v2.1.3
     date: '2026-04-22T17:16:17Z'
-  checked: '2026-07-28'
+  checked: '2026-08-12'
 summary: Edwiser Site Monitor plugin for Moodle
