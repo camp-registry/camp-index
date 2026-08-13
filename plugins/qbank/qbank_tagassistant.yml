@@ -2,7 +2,7 @@ component: qbank_tagassistant
 source: https://github.com/tkorner/moodle-qbank_tagassistant
 maintainers:
 - github: tkorner
-security-contact: https://github.com/tkorner/moodle-qbank_tagassistant/security/advisories/new
+security-contact: https://github.com/tkorner/moodle-qbank_tagassistan/security/advisories/new
 tier: 1
 labels:
 - fully-free
