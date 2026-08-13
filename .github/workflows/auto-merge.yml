@@ -20,9 +20,10 @@
 # IS the owner of the user-owned source repository, or a public
 # member of the owning organization. Claims that fail the match, or
 # whose component carries a name-collision record in the scan
-# ledger, fall through to the human path (the runbooks' judgment
-# residue: org repos with private membership, collisions, repoints
-# inside claims).
+# ledger, or whose security-contact URL points outside the entry's
+# own source repository, fall through to the human path (the
+# runbooks' judgment residue: org repos with private membership,
+# collisions, repoints inside claims, off-repo contact URLs).
 #
 # In both classes: Index PR verification must have concluded green
 # for the exact head SHA, and the PR must be open, not draft, and
@@ -79,10 +80,14 @@ jobs:
           if [ -n "${DISPATCH_PR:-}" ]; then
             pr_json=$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${DISPATCH_PR}")
           else
-            # workflow_run.pull_requests is unreliable; resolve by head
-            # SHA (the endpoint sees fork PRs too).
-            pr_json=$(gh api "repos/${GITHUB_REPOSITORY}/commits/${HEAD_SHA}/pulls" --jq '
-              [.[] | select(.state == "open" and .base.ref == "main")] | first // empty')
+            # workflow_run.pull_requests is unreliable, and the
+            # commits/{sha}/pulls endpoint returns [] for fork heads
+            # when queried on the base repo — every web-editor claim
+            # arrives from a fork, so resolving through it meant the
+            # claim class never fired. Scan the open PRs against main
+            # for the head SHA instead; the open set is always small.
+            pr_json=$(gh api "repos/${GITHUB_REPOSITORY}/pulls?state=open&base=main&per_page=100" \
+              --paginate --jq "[.[] | select(.head.sha == \"${HEAD_SHA}\")][0] // empty")
             [ -n "$pr_json" ] || skip "no open PR targeting main for ${HEAD_SHA}"
           fi
           num=$(echo "$pr_json"    | jq -r .number)
@@ -218,6 +223,18 @@ jobs:
                   continue
               if b.get(key, None) != h.get(key, None) or (key in b) != (key in h):
                   out(False, f"not eligible: {key} changed")
+          # A security-contact URL must live under the entry's own
+          # source repository — a URL pointing anywhere else (another
+          # repo, an external site) may be legitimate but is a human
+          # judgment. Email contacts have no repo to mismatch and the
+          # schema already validated their shape.
+          contact = h.get("security-contact") or ""
+          if contact.lower().startswith(("http://", "https://")):
+              src = (h.get("source") or "").rstrip("/").lower()
+              norm = contact.rstrip("/").lower()
+              if not (norm == src or norm.startswith(src + "/")):
+                  out(False, "not eligible: security-contact URL is outside "
+                             "the source repository (human review)")
           out(True, f"eligible claim: {path}", component)
           EOF
 
