@@ -1,0 +1,26 @@
+name: moosh
+display-name: Moosh
+summary: 'Moosh stands for MOOdle SHell. A command-line tool for performing the most
+  common Moodle administration tasks: creating users and courses, managing plugins,
+  running maintenance jobs, and scripting anything an admin would otherwise click
+  through. Runs outside the Moodle instance it manages.'
+category: cli
+source: https://github.com/tmuras/moosh
+source-repo-id: 6603614
+homepage: https://moosh-online.com
+install:
+- composer
+- phar
+- git
+license: GPL-3.0
+first-seen: '2026-08-12'
+metrics:
+  updated: '2026-08-04T08:36:16Z'
+  stars: 257
+  forks: 189
+  open-issues: 39
+  archived: false
+  latest-release:
+    tag: '1.27'
+    date: '2025-02-08T17:13:14Z'
+  checked: '2026-08-13'

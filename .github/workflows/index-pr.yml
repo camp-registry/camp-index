@@ -30,6 +30,7 @@ jobs:
       entries: ${{ steps.diff.outputs.entries }}
       checks: ${{ steps.diff.outputs.checks }}
       advisories: ${{ steps.diff.outputs.advisories }}
+      utilities: ${{ steps.diff.outputs.utilities }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -51,6 +52,12 @@ jobs:
             | jq -R -s -c 'split("\n") | map(select(length > 0))')
           echo "advisories=$advisories" >> "$GITHUB_OUTPUT"
           echo "Changed advisories: $advisories"
+
+          utilities=$(git diff --name-only --diff-filter=ACM \
+              origin/${{ github.base_ref }}...HEAD -- 'utilities/*.yml' \
+            | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          echo "utilities=$utilities" >> "$GITHUB_OUTPUT"
+          echo "Changed utilities: $utilities"
 
           # Every release a PR adds gets its own moodle-plugin-ci legs on
           # the registry-target endpoint branches it declares support for
@@ -245,6 +252,30 @@ jobs:
         run: |
           camp validate-advisory ${{ join(fromJSON(needs.changed.outputs.advisories), ' ') }} --index-dir .
 
+  utility-checks:
+    # Utilities listings (camp-docs#4): schema validation plus the
+    # monitorability fence and placement invariants. Pointer-only, so
+    # there is nothing to rebuild, scan, or verify beyond the file.
+    name: Utility checks
+    needs: changed
+    if: needs.changed.outputs.utilities != '[]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.51"
+
+      - name: Validate utility listings
+        run: |
+          camp validate ${{ join(fromJSON(needs.changed.outputs.utilities), ' ') }}
+
   plugin-checks:
     # One leg per (release added by this PR) x (registry-target endpoint
     # branch the release supports) — see the changed job. PHP is paired
@@ -336,7 +367,7 @@ jobs:
     # Stable-name aggregate for branch protection: matrix job names vary
     # per changed entry, so protection requires this one check instead.
     name: Index PR verification result
-    needs: [changed, registry, advisories, plugin-checks]
+    needs: [changed, registry, advisories, utility-checks, plugin-checks]
     if: always()
     runs-on: ubuntu-24.04
     steps:

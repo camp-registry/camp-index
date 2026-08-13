@@ -1,0 +1,25 @@
+name: moodle-plugin-ci
+display-name: Moodle Plugin CI
+summary: 'Runs Moodle plugin analysis checks and test suites under CI: PHPUnit, Behat,
+  code checker, PHPDoc checks, mustache lint and more, against a matrix of Moodle
+  and PHP versions. The de facto CI harness for plugin authors, and the tool behind
+  camp''s own multi-version check legs.'
+category: ci
+source: https://github.com/moodlehq/moodle-plugin-ci
+source-repo-id: 275850361
+homepage: https://moodlehq.github.io/moodle-plugin-ci/
+install:
+- composer
+- phar
+license: GPL-3.0
+first-seen: '2026-08-12'
+metrics:
+  updated: '2026-08-07T10:17:37Z'
+  stars: 64
+  forks: 57
+  open-issues: 70
+  archived: false
+  latest-release:
+    tag: 4.5.11
+    date: '2026-08-07T10:18:14Z'
+  checked: '2026-08-13'
