@@ -1,0 +1,25 @@
+name: mdlcode
+display-name: MDLCode
+summary: 'VS Code and PHPStorm/IntelliJ IDEA extension for Moodle plugin development:
+  wizards generate the boilerplate for common plugin types and features, with Moodle-aware
+  assistance and language-file tooling such as unused-string detection. Built by LMSCloud;
+  closed source, with a free tier.'
+category: ide
+source: https://github.com/lmscloud-io/mdlcode-docs
+source-repo-id: 650341787
+homepage: https://mdlcode.dev
+install:
+- vscode-marketplace
+- jetbrains-marketplace
+release-channel: openvsx:LMSCloud/mdlcode
+license: Proprietary
+closed-source: true
+labels:
+- freemium
+first-seen: '2026-08-13'
+metrics:
+  checked: '2026-08-13'
+  latest-release:
+    tag: 1.6.4
+    url: https://open-vsx.org/extension/LMSCloud/mdlcode
+    date: '2026-08-04T17:07:26.188512Z'

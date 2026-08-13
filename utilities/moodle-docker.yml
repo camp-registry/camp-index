@@ -1,0 +1,19 @@
+name: moodle-docker
+display-name: Moodle Docker
+summary: 'A Docker environment for Moodle developers: a compose stack with PHP, database,
+  Behat/Selenium, and mail runners preconfigured for running a Moodle site and its
+  test suites locally. The standard development environment for core and plugin work.'
+category: docker
+source: https://github.com/moodlehq/moodle-docker
+source-repo-id: 89355460
+install:
+- git
+license: GPL-3.0
+first-seen: '2026-08-12'
+metrics:
+  updated: '2026-07-30T01:45:28Z'
+  stars: 560
+  forks: 337
+  open-issues: 56
+  archived: false
+  checked: '2026-08-13'
