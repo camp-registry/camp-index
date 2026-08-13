@@ -1,0 +1,43 @@
+name: Utility listing request
+description: Propose an ecosystem tool (not a Moodle plugin) for a pointer-only listing
+title: "Utility listing request: <tool name>"
+labels: [utilities]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Utilities are pointer-only listings for established tools that operate or develop Moodle but are not installable plugins (RFC §4.8). Nothing is hosted or verified; the listing records the tool's canonical home. If your tool has a frankenstyle component name, it is a plugin — use the plugin claim flow instead.
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: Public repository
+      description: The source repository, or for closed-source tools the public docs/issue-tracker repository.
+    validations:
+      required: true
+  - type: input
+    id: channel
+    attributes:
+      label: Where are releases published?
+      description: GitHub/GitLab releases, or a marketplace/registry (e.g. Open VSX). The registry must be able to monitor this channel automatically.
+    validations:
+      required: true
+  - type: textarea
+    id: footprint
+    attributes:
+      label: Community footprint
+      description: Evidence of established use — old directory listing, adoption, docs, talks.
+    validations:
+      required: true
+  - type: checkboxes
+    id: relationship
+    attributes:
+      label: Your relationship to the tool
+      options:
+        - label: I maintain this tool
+        - label: I am proposing someone else's tool (the registry will ask the maintainer before listing)
