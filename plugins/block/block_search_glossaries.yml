@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: '$Id: README.txt,v 1.1 2005/11/29 20:15:09 stronk7 Exp $'
+dependencies:
+  mod_glossary: 2012061700

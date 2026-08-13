@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: moodle-block_rbreport
 metrics:
-  updated: '2026-06-10T08:03:33Z'
+  updated: '2026-08-11T20:57:40Z'
   stars: 3
   forks: 5
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'

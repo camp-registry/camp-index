@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Student MyGrades plugin for Moodle
 metrics:
-  updated: '2026-07-27T16:43:12Z'
+  updated: '2026-08-12T11:10:56Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'

@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: v1.2.2c
     date: '2022-09-02T17:02:42Z'
-  checked: '2026-07-29'
+  checked: '2026-08-13'
+dependencies:
+  mod_quest: any

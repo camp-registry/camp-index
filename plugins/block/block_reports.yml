@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: '2023090700'
     date: '2023-09-07T23:07:18Z'
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: A block containing shortcuts to course reports.

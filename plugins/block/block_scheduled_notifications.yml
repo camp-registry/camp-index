@@ -18,4 +18,6 @@ metrics:
   latest-release:
     tag: v2.1.0
     date: '2024-05-08T07:02:06Z'
-  checked: '2026-07-29'
+  checked: '2026-08-13'
+dependencies:
+  local_scheduled_notifications: 2019060100

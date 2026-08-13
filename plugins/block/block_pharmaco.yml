@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: https://travis-ci.org/call-learning/moodle-blockpharmaco.svg?branch=master
+dependencies:
+  local_pharmaco: any

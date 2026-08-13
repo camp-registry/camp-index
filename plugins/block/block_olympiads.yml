@@ -13,4 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'
+dependencies:
+  mod_forum: 2022041900

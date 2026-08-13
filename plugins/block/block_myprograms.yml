@@ -13,5 +13,7 @@ metrics:
   forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: This block is part of Programs for Moodle by Open LMS,
+dependencies:
+  enrol_programs: 2024010800

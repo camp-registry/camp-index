@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.4
     date: '2026-03-18T14:44:23Z'
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: 'The Social Comments block for Moodle makes learning more engaging by adding
   the following features (among others):'

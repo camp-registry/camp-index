@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: Moodle recommendation block plugin
 metrics:
-  updated: '2026-07-17T21:34:33Z'
+  updated: '2026-08-04T19:23:44Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: v0.1.03
     date: '2026-07-08T22:37:24Z'
-  checked: '2026-07-29'
+  checked: '2026-08-13'

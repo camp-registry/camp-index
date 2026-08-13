@@ -13,5 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: MY COURSES BLOCK PLUGIN
+dependencies:
+  tool_siteperf: 2015072000

@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: Highlight your Content Marketing Articles!
+dependencies:
+  local_leeloolxpcontentapi: 2021031907

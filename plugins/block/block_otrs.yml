@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: moodle-block_otrs-1.0
     date: '2015-10-20T10:51:59Z'
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: OTRS Help Desk Block

@@ -13,7 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: Add an awesome responsive FAQ section to your home page, dashboard or static
   pages Manage all settings in a single page, right from your Leeloo LXP theme back
   end.
+dependencies:
+  local_leeloolxpcontentapi: 2021031907

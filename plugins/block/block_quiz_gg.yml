@@ -13,5 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-29'
+  checked: '2026-08-13'
 summary: Moodle 2.0+ block allowing quiz group grading
+dependencies:
+  mod_quiz: 2016051900
