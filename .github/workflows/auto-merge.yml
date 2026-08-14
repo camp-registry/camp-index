@@ -33,7 +33,11 @@
 # automation app token (the ruleset bypass actor) pinned to the
 # expected head SHA, so a commit landing after verification — a
 # rolling-branch append, a claim revision — fails the merge
-# harmlessly and the next verification run retries.
+# harmlessly and the next verification run retries. One precondition
+# is checked before merging: if main gained workflow-file commits
+# since the PR's merge-base, GitHub requires workflows:write to
+# merge, which the app deliberately lacks — such PRs are labeled
+# needs-human-merge and left for the human path (camp-index#221).
 #
 # Security note: this workflow runs with base-repo privileges but
 # never executes PR content — it only reads git blobs (fetched via
@@ -301,16 +305,55 @@ jobs:
             echo "left for the human path"
           fi
 
+      # GitHub requires workflows:write on the merging token when the
+      # PR is behind its base and the base gained workflow-file
+      # changes in the meantime (support-confirmed, undocumented on
+      # the endpoint: github.com/orgs/community/discussions/194847).
+      # The automation app deliberately does not hold workflows:write
+      # — contents:write cannot touch .github/workflows/, and that
+      # platform fence is worth more than the merge click it costs
+      # here (camp-index#221). The condition never clears on retry
+      # (main keeps the commits), so route to a human loudly instead
+      # of failing red or skipping silently. Release trains touch the
+      # workflow pins, so any PR open across a train lands here.
+      - name: Check for workflow drift since the PR's base
+        id: drift
+        if: steps.decide.outputs.merge == 'true'
+        env:
+          HEAD_SHA: ${{ steps.gate.outputs.sha }}
+        run: |
+          set -euo pipefail
+          git fetch -q origin main
+          mb=$(git merge-base origin/main "${HEAD_SHA}")
+          drifted=$(git diff --name-only "${mb}..origin/main" -- .github/workflows/)
+          if [ -n "$drifted" ]; then
+            echo "workflow files changed on main since this PR's merge-base:"
+            echo "$drifted"
+            echo "clear=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "clear=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Route to human merge (workflow drift)
+        if: steps.decide.outputs.merge == 'true' && steps.drift.outputs.clear == 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ steps.gate.outputs.pr }}
+        run: |
+          echo "eligible, but merging would need workflows:write on the app token;"
+          echo "labeling PR #${PR} for human merge (this does not clear on retry)"
+          gh pr edit "${PR}" --repo "${GITHUB_REPOSITORY}" --add-label needs-human-merge || true
+
       - name: Mint app token
         id: app
-        if: steps.decide.outputs.merge == 'true'
+        if: steps.decide.outputs.merge == 'true' && steps.drift.outputs.clear == 'true'
         uses: actions/create-github-app-token@v3
         with:
           app-id: ${{ vars.AUTOMATION_APP_ID }}
           private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
 
       - name: Merge as a registry act
-        if: steps.decide.outputs.merge == 'true'
+        if: steps.decide.outputs.merge == 'true' && steps.drift.outputs.clear == 'true'
         env:
           GH_TOKEN: ${{ steps.app.outputs.token }}
           PR: ${{ steps.gate.outputs.pr }}
@@ -328,7 +371,7 @@ jobs:
           fi
 
       - name: Apply audit label
-        if: steps.decide.outputs.merge == 'true'
+        if: steps.decide.outputs.merge == 'true' && steps.drift.outputs.clear == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           PR: ${{ steps.gate.outputs.pr }}
