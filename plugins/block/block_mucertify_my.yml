@@ -1,5 +1,6 @@
 component: block_mucertify_my
 source: https://github.com/mutms/moodle-block_mucertify_my
+source-repo-id: 965919085
 security-contact: https://github.com/mutms/moodle-block_mucertify_my/security
 maintainers:
 - github: mutms

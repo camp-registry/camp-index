@@ -1,5 +1,6 @@
 component: tool_muhome
 source: https://github.com/mutms/moodle-tool_muhome
+source-repo-id: 1126924833
 security-contact: https://github.com/mutms/moodle-tool_muhome/security
 maintainers:
 - github: mutms

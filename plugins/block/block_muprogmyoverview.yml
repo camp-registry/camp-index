@@ -1,5 +1,6 @@
 component: block_muprogmyoverview
 source: https://github.com/mutms/moodle-block_muprogmyoverview
+source-repo-id: 1117111784
 security-contact: https://github.com/mutms/moodle-block_muprogmyoverview/security
 maintainers:
 - github: mutms

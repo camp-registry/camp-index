@@ -1,5 +1,6 @@
 component: tool_mutenancy
 source: https://github.com/mutms/moodle-tool_mutenancy
+source-repo-id: 962381171
 security-contact: https://github.com/mutms/moodle-tool_mutenancy/security
 maintainers:
 - github: mutms

@@ -1,5 +1,6 @@
 component: tool_mupwned
 source: https://github.com/mutms/moodle-tool_mupwned
+source-repo-id: 1040152075
 security-contact: https://github.com/mutms/moodle-tool_mupwned/security
 maintainers:
 - github: mutms

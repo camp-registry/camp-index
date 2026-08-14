@@ -1,5 +1,6 @@
 component: tool_muprog
 source: https://github.com/mutms/moodle-tool_muprog
+source-repo-id: 964644675
 security-contact: https://github.com/mutms/moodle-tool_muprog/security
 maintainers:
 - github: mutms

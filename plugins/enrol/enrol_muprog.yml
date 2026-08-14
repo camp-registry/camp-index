@@ -1,5 +1,6 @@
 component: enrol_muprog
 source: https://github.com/mutms/moodle-enrol_muprog
+source-repo-id: 963867592
 security-contact: https://github.com/mutms/moodle-enrol_muprog/security
 maintainers:
 - github: mutms

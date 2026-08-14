@@ -1,5 +1,6 @@
 component: tool_murelation
 source: https://github.com/mutms/moodle-tool_murelation
+source-repo-id: 1055418980
 security-contact: https://github.com/mutms/moodle-tool_murelation/security
 maintainers:
 - github: mutms

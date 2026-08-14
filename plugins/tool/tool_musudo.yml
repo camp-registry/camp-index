@@ -1,5 +1,6 @@
 component: tool_musudo
 source: https://github.com/mutms/moodle-tool_musudo
+source-repo-id: 997716436
 security-contact: https://github.com/mutms/moodle-tool_musudo/security
 maintainers:
 - github: mutms

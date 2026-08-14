@@ -1,5 +1,6 @@
 component: tool_mulib
 source: https://github.com/mutms/moodle-tool_mulib
+source-repo-id: 962380958
 security-contact: https://github.com/mutms/moodle-tool_mulib/security
 maintainers:
 - github: mutms

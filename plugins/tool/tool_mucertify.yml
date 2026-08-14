@@ -1,5 +1,6 @@
 component: tool_mucertify
 source: https://github.com/mutms/moodle-tool_mucertify
+source-repo-id: 965439376
 security-contact: https://github.com/mutms/moodle-tool_mucertify/security
 maintainers:
 - github: mutms

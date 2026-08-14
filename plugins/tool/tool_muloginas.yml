@@ -1,5 +1,6 @@
 component: tool_muloginas
 source: https://github.com/mutms/moodle-tool_muloginas
+source-repo-id: 993313503
 security-contact: https://github.com/mutms/moodle-tool_muloginas/security
 maintainers:
 - github: mutms

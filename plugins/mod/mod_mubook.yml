@@ -1,5 +1,6 @@
 component: mod_mubook
 source: https://github.com/mutms/moodle-mod_mubook
+source-repo-id: 1083649411
 security-contact: https://github.com/mutms/moodle-mod_mubook/security
 maintainers:
 - github: mutms

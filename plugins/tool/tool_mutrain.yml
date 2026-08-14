@@ -1,5 +1,6 @@
 component: tool_mutrain
 source: https://github.com/mutms/moodle-tool_mutrain
+source-repo-id: 967380733
 security-contact: https://github.com/mutms/moodle-tool_mutrain/security
 maintainers:
 - github: mutms

@@ -1,5 +1,6 @@
 component: tool_mucatalog
 source: https://github.com/mutms/moodle-tool_mucatalog
+source-repo-id: 1179715508
 security-contact: https://github.com/mutms/moodle-tool_mucatalog/security
 maintainers:
 - github: mutms

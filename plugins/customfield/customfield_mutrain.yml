@@ -1,5 +1,6 @@
 component: customfield_mutrain
 source: https://github.com/mutms/moodle-customfield_mutrain
+source-repo-id: 967336946
 security-contact: https://github.com/mutms/moodle-customfield_mutrain/security
 maintainers:
 - github: mutms
