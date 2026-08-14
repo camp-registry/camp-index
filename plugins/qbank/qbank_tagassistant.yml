@@ -4,12 +4,22 @@ source-repo-id: 1324600042
 maintainers:
 - github: tkorner
 security-contact: https://github.com/tkorner/moodle-qbank_tagassistant/security/advisories/new
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-08-12'
-releases: []
+releases:
+- version: v3.0.3
+  tag: v3.0.3
+  commit: 7e467d81e70bd9e02c7634786bba5ec2d964ffc8
+  moodle-version: 2026080803
+  supported-moodle:
+  - '5.1'
+  zip-sha256: c1fa67d8226af87729d8609d41c4b221627bd1fa404af8a32e382fc4d673eb08
+  listing-sha256: 42fe1c94a71c458948913c6972d724da717d07f9b57ebebfd3b8d902949ba7d6
+  published: '2026-08-14T07:22:24Z'
+  released: '2026-08-14T07:22:06Z'
 license: GPL-3.0
 metrics:
   updated: '2026-08-08T20:06:19Z'
