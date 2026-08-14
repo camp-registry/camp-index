@@ -1,8 +1,12 @@
 component: tool_musudo
 source: https://github.com/mutms/moodle-tool_musudo
+security-contact: https://github.com/mutms/moodle-tool_musudo/security
 maintainers:
 - github: mutms
-tier: 0
+- github: skodak
+tier: 1
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []

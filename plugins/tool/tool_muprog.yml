@@ -1,8 +1,12 @@
 component: tool_muprog
 source: https://github.com/mutms/moodle-tool_muprog
+security-contact: https://github.com/mutms/moodle-tool_muprog/security
 maintainers:
 - github: mutms
-tier: 0
+- github: skodak
+tier: 1
+labels:
+- fully-free
 status: active
 discovered: '2026-07-10'
 releases: []
