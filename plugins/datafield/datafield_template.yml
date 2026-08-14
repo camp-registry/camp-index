@@ -10,8 +10,10 @@ license: GPL-3.0
 summary: TEMPLATE field type for the Database activity in Moodle >= 2.3
 metrics:
   updated: '2025-04-05T04:17:04Z'
-  stars: 2
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-30'
+  checked: '2026-08-14'
+dependencies:
+  datafield_admin: any

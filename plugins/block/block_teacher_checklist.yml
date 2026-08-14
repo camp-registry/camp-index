@@ -11,7 +11,7 @@ summary: Teacher Checklist is a Moodle block that helps teachers track the quali
   of their course setup. It combines automatic issue detection with a manual to-do
   list so nothing slips through the cracks before students arrive.
 metrics:
-  updated: '2026-07-20T15:53:02Z'
+  updated: '2026-08-13T19:55:02Z'
   stars: 1
   forks: 0
   open-issues: 0
@@ -19,4 +19,4 @@ metrics:
   latest-release:
     tag: v1.3.1
     date: '2026-07-03T19:18:03Z'
-  checked: '2026-07-30'
+  checked: '2026-08-14'

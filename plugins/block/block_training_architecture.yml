@@ -13,6 +13,8 @@ metrics:
   forks: 1
   open-issues: 6
   archived: false
-  checked: '2026-07-30'
+  checked: '2026-08-14'
 summary: This plugin is dependent on the localtrainingarchitecture plugin because
   it displays the architecture defined with it.
+dependencies:
+  local_training_architecture: 2024062400

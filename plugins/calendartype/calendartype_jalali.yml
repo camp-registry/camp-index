@@ -11,8 +11,10 @@ metrics:
   updated: '2021-01-13T05:59:33Z'
   stars: 13
   forks: 7
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-07-30'
+  checked: '2026-08-14'
 summary: The Jalali calendar (also known as the Modern Iranian calendar or the Solar
   hijri calendar) is a solar calendar which is the official calendar in Iran and Afghanistan.
+dependencies:
+  calendartype_gregorian: any

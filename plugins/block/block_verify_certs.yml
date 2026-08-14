@@ -11,11 +11,11 @@ summary: The block allows to verify all certificates installed in your Moodle us
   a single form.
 metrics:
   updated: '2025-10-16T05:40:58Z'
-  stars: 2
+  stars: 3
   forks: 2
   open-issues: 4
   archived: false
   latest-release:
     tag: '2024061800'
     date: '2024-06-18T12:08:29Z'
-  checked: '2026-07-30'
+  checked: '2026-08-14'

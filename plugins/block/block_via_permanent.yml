@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-30'
+  checked: '2026-08-14'
 summary: The Via Permanent Bloc can only be used if you have the Via activity module.
+dependencies:
+  mod_via: 2022060701

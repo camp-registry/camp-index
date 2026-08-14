@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-30'
+  checked: '2026-08-14'
 summary: blocktimetableblock is a Moodle dashboard block that displays timetable data
   provided by the Timetable Digital local plugin.
+dependencies:
+  local_timetable: 2026041803

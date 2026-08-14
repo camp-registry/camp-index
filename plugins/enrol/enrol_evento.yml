@@ -17,4 +17,6 @@ metrics:
   latest-release:
     tag: v1.2-beta
     date: '2018-05-16T14:41:43Z'
-  checked: '2026-07-30'
+  checked: '2026-08-14'
+dependencies:
+  local_evento: 2017062606

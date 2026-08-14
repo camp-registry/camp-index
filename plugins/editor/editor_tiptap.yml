@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: A TipTap editor plugin for Moodle
 metrics:
-  updated: '2026-05-07T20:49:51Z'
+  updated: '2026-08-04T19:23:50Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-30'
+  checked: '2026-08-14'

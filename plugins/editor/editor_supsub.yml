@@ -13,5 +13,7 @@ metrics:
   forks: 5
   open-issues: 5
   archived: false
-  checked: '2026-07-30'
+  checked: '2026-08-14'
 summary: Superscript/subscript editor
+dependencies:
+  editor_tinymce: any
