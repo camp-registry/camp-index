@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: This simple filter allows users to add css to their content, without switching
   to code-view. It also provides pre-made css-classes to visually enhance basic text
   areas.

@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v2026070700
     date: '2026-07-07T06:36:27Z'
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: Filter plugin for Moodle to use multilanguage capable FAQ- and helptexts
   by use of patterns.

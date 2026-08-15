@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: The Leeloo LXP Content Filter allows you to use shortcodes on a page without
   a { content – region } and display any of the Leeloo LXP Content Plugins from the
   Suite in the { content – region }.

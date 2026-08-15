@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: The aim of this plugin is to add a multi column footer to the Moodle site
   running Boost Union with some dynamic elements.
+dependencies:
+  theme_boost_union: 2025100614

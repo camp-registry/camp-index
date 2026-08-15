@@ -9,9 +9,9 @@ releases: []
 license: AGPL-3.0
 summary: A Libre Office document converter for Moodle leveraging AWS Lambda
 metrics:
-  updated: '2026-07-20T10:33:12Z'
+  updated: '2026-08-12T12:57:55Z'
   stars: 25
   forks: 18
-  open-issues: 21
+  open-issues: 23
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'

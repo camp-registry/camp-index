@@ -13,5 +13,7 @@ metrics:
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: // This file is part of Moodle - http://moodle.org/
+dependencies:
+  assignsubmission_estream: any

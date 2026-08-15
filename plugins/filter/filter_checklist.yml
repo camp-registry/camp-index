@@ -14,4 +14,6 @@ metrics:
   forks: 3
   open-issues: 3
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
+dependencies:
+  mod_checklist: 2022012200

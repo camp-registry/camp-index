@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 5
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: This plugin extends the default Markdown filter in Moodle by adding support
   for git-style quotes, such as [!NOTE], [!TIP], [!IMPORTANT], and [!WARNING]. It
   also applies custom styles to standard blockquotes, providing better visual distinction

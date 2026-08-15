@@ -18,4 +18,6 @@ metrics:
   latest-release:
     tag: v6.2.2
     date: '2026-05-14T16:42:07Z'
-  checked: '2026-07-31'
+  checked: '2026-08-15'
+dependencies:
+  enrol_manual: any

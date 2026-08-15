@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Generico Two
 metrics:
-  updated: '2026-07-29T14:12:44Z'
+  updated: '2026-08-04T08:45:49Z'
   stars: 1
   forks: 2
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-07-31'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-08-04T08:45:49Z'
+  checked: '2026-08-15'

@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: The IOMAD license enrolment type plugin provides restricted enrolment to
   users within companies where the site administrator controls how
+dependencies:
+  local_iomad: 2026010100

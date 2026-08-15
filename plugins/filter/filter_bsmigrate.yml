@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: A Moodle text filter that automatically migrates Bootstrap 4 CSS classes
   and data attributes to their Bootstrap 5 equivalents during HTML content rendering.

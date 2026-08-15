@@ -15,4 +15,7 @@ metrics:
   forks: 2
   open-issues: 2
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
+dependencies:
+  auth_ldap: any
+  enrol_cohort: any

@@ -8,10 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T07:16:55Z'
+  updated: '2026-08-05T12:58:01Z'
   stars: 0
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: The edu-sharing filter displays embedded edu-sharing content.
+dependencies:
+  mod_edusharing: 2026070900

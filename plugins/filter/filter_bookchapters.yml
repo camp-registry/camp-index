@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v5.0
     date: '2025-07-03T17:32:57Z'
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: Faculty had been creating hard links to chapters inside book activities.  From
   year to year this has caused issues with links to past courses that the current
   student did not have access to.

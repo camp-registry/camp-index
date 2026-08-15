@@ -13,7 +13,9 @@ metrics:
   forks: 4
   open-issues: 2
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: When used in conjuction with the TinyMCE plugin (http://github.com/netspotau/moodle-tinymcemediagallery)
   this plugin allows you to have carousels of a gallery or galleries displayed in
   your course in labels and such.
+dependencies:
+  mod_mediagallery: 2014010400

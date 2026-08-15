@@ -8,11 +8,16 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-19T14:50:13Z'
+  updated: '2026-08-13T21:13:24Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-31'
+  latest-release:
+    tag: v0.1.4
+    date: '2026-08-13T21:13:33Z'
+  checked: '2026-08-15'
 summary: This plugin adds a Moodle MFA factor that sends one-time pass codes through
   administrator-defined secure messenger options.
+dependencies:
+  tool_mfa: 2024100700

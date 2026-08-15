@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-31'
+  checked: '2026-08-15'
 summary: A Moodle text filter that enables embedding LTI (Learning Tools Interoperability)
   external tools using simple tag syntax within course content.
