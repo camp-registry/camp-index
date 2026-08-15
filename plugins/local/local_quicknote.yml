@@ -6,14 +6,25 @@ maintainers:
 security-contact: https://github.com/Matheu46/moodle-local_quicknote/security/advisories/new
 labels:
 - fully-free
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 0.9.2
+  tag: 0.9.2
+  commit: 5d4742f94b894c3ad3bebfb6509a1b31de9f167e
+  moodle-version: 2026081500
+  supported-moodle:
+  - '4.2'
+  zip-sha256: f1ddeab41dd08b0c16584bd19d97dfc99a77c4c50e87d337c2932cfe848924c8
+  listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
+  published: '2026-08-15T21:45:04Z'
+  released: '2026-08-15T21:26:40Z'
 license: GPL-3.0
-summary: Help students study better without leaving Moodle. QuickNote lets learners
-  capture quotes, write notes in a native sidebar, and jump right back to the original
-  text.
+summary: >-
+  Help students study better without leaving Moodle. QuickNote lets learners
+  capture quotes, write notes in a native sidebar, and jump right back to the
+  original text.
 metrics:
   updated: '2026-08-09T01:06:43Z'
   stars: 1
