@@ -1,10 +1,15 @@
 component: mod_solo
 source: https://github.com/justinhunt/moodle-mod_solo
 maintainers:
-- github: udir-moodle
-tier: 0
+- github: justinhunt
+tier: 1
 status: active
 discovered: '2026-07-11'
+security-contact: https://github.com/justinhunt/moodle-mod_solo/security/advisories/new
+labels:
+- paid-service
+- external-account
+- commercial-support-available
 releases: []
 license: GPL-3.0
 metrics:
