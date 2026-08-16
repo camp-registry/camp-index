@@ -1,5 +1,6 @@
 component: mod_readaloud
 source: https://github.com/justinhunt/moodle-mod_readaloud
+source-repo-id: 36919121
 maintainers:
 - github: justinhunt
 tier: 1

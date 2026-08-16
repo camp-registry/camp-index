@@ -1,10 +1,11 @@
 component: local_h5pthemer
 source: https://github.com/Matheu46/moodle-local_h5pthemer
+source-repo-id: 1282558335
 maintainers:
 - github: Matheu46
 security-contact: https://github.com/Matheu46/moodle-local_h5pthemer/security/advisories/new
 labels:
-  - fully-free
+- fully-free
 tier: 1
 status: active
 discovered: '2026-07-11'
