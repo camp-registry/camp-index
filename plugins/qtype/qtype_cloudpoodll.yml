@@ -1,5 +1,6 @@
 component: qtype_cloudpoodll
 source: https://github.com/justinhunt/moodle-qtype_cloudpoodll
+source-repo-id: 188049003
 maintainers:
 - github: justinhunt
 tier: 1
