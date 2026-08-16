@@ -1,5 +1,6 @@
 component: filter_poodll
 source: https://github.com/justinhunt/moodle-filter_poodll
+source-repo-id: 19263516
 maintainers:
 - github: justinhunt
 tier: 1
