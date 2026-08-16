@@ -1,10 +1,15 @@
 component: tiny_poodll
 source: https://github.com/justinhunt/moodle-tiny_poodll
 maintainers:
-- github: udir-moodle
-tier: 0
+- github: justinhunt
+tier: 1
 status: active
 discovered: '2026-07-11'
+security-contact: https://github.com/justinhunt/moodle-tiny_poodll/security/advisories/new
+labels:
+- paid-service
+- external-account
+- commercial-support-available
 releases: []
 license: GPL-3.0
 metrics:
