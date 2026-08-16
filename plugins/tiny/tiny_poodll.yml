@@ -1,5 +1,6 @@
 component: tiny_poodll
 source: https://github.com/justinhunt/moodle-tiny_poodll
+source-repo-id: 656409861
 maintainers:
 - github: justinhunt
 tier: 1
