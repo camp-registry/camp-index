@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v0.0.8
     date: '2024-02-29T11:01:24Z'
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 summary: This course format redirects to courses that metalink the current one.

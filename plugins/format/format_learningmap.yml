@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v0.1.1
     date: '2025-04-17T08:43:11Z'
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 summary: This course format allows you to use learningmaps (https://moodle.org/plugins/modlearningmap)
   as the main page of your course. It requires modlearningmap to be installed (at
   least version 0.9.9).

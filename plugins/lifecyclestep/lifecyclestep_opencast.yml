@@ -15,7 +15,7 @@ metrics:
   forks: 2
   open-issues: 3
   archived: false
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 dependencies:
   tool_lifecycle: 2026012001
   tool_opencast: 2025080103

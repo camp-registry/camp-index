@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 summary: This plugin is part of a set of plugins belonging to the socialwall course
   format (https://github.com/synergylearning/moodle-formatsocialwall).
 dependencies:

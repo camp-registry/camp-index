@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Two column course format for Moodle LMS
 metrics:
-  updated: '2026-07-29T00:45:54Z'
+  updated: '2026-08-07T00:03:22Z'
   stars: 7
   forks: 4
   open-issues: 7
   archived: false
-  checked: '2026-08-01'
+  checked: '2026-08-16'

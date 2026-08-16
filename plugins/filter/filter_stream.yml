@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 summary: This is the Stream filter plugin for Moodle 3.x and better.
 dependencies:
   mod_stream: 2024060700

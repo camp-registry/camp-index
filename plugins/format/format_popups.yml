@@ -18,6 +18,6 @@ metrics:
   latest-release:
     tag: v1.1
     date: '2025-09-24T19:32:51Z'
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 dependencies:
   format_topics: 2021052500

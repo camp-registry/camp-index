@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v0.0.0.1
     date: '2022-07-02T11:21:07Z'
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 dependencies:
   mod_wavefront: 2022050102

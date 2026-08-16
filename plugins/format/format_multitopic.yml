@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: Shows multiple topics per page, with tabbed navigation between pages.
 metrics:
-  updated: '2026-07-29T21:09:54Z'
+  updated: '2026-08-16T03:50:13Z'
   stars: 5
   forks: 7
   open-issues: 18
@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v5.2.0
     date: '2026-07-21T11:29:07Z'
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 dependencies:
   format_topics: 2025041400

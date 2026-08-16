@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 metrics:
   updated: '2025-07-08T08:29:12Z'
-  stars: 8
+  stars: 9
   forks: 11
   open-issues: 65
   archived: false
   latest-release:
     tag: v1.1
     date: '2022-10-06T16:20:40Z'
-  checked: '2026-08-01'
+  checked: '2026-08-16'
 summary: This plugin allows translation of user-generated content in Moodle.
