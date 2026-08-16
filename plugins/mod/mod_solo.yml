@@ -1,5 +1,6 @@
 component: mod_solo
 source: https://github.com/justinhunt/moodle-mod_solo
+source-repo-id: 325976577
 maintainers:
 - github: justinhunt
 tier: 1
