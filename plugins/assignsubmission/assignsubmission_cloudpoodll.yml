@@ -1,5 +1,6 @@
 component: assignsubmission_cloudpoodll
 source: https://github.com/justinhunt/moodle-assignsubmission_cloudpoodll
+source-repo-id: 148744219
 maintainers:
 - github: justinhunt
 tier: 1
