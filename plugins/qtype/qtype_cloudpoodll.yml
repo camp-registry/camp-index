@@ -2,9 +2,14 @@ component: qtype_cloudpoodll
 source: https://github.com/justinhunt/moodle-qtype_cloudpoodll
 maintainers:
 - github: justinhunt
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
+security-contact: https://github.com/justinhunt/moodle-qtype_cloudpoodll/security/advisories/new
+labels:
+- paid-service
+- external-account
+- commercial-support-available
 releases: []
 license: GPL-3.0
 summary: Cloud Poodll Recording Question
