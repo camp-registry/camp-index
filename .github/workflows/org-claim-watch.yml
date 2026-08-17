@@ -1,0 +1,86 @@
+# Organization claim watch: re-runs `camp org-claim` daily for every org
+# enrolled in discovery/org-claims.yml, so manifest edits (new maintainer,
+# changed security contact, label fixes) flow to that org's stamped
+# entries without a new request issue. Enrollment itself is human-gated
+# (org-claims runbook); the sweep's own rules make unattended re-runs
+# safe: only entries stamped `org-claim: <org>` are ever updated,
+# individually claimed entries and stamped-but-now-excluded entries are
+# reported for humans and never touched, and un-claiming never happens
+# automatically. Anything needing a human lands in a dedicated issue.
+
+name: Org claim watch
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "12 4 * * *"   # after the metrics refresh, before the daily publish
+
+permissions:
+  contents: read           # pushes use the app token, not GITHUB_TOKEN
+  issues: write
+
+jobs:
+  sweep:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Mint app token
+        id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ vars.AUTOMATION_APP_ID }}
+          private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v7
+        with:
+          token: ${{ steps.app.outputs.token }}
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.54"
+
+      - name: Sweep enrolled organizations
+        env:
+          GITHUB_TOKEN: ${{ steps.app.outputs.token }}
+        run: camp org-claim . --all-enrolled | tee sweep-report.txt
+
+      - name: Validate touched entries
+        run: |
+          touched=$(git diff --name-only -- plugins)
+          if [ -n "$touched" ]; then
+            camp validate $touched
+          fi
+
+      - name: Push manifest-driven updates
+        run: |
+          if git diff --quiet -- plugins; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "camp project"
+          git config user.email "noreply@camp-registry.org"
+          git add plugins
+          git commit -m "org claim sweep (scheduled)"
+          git push origin main
+
+      - name: Surface anything needing a human
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+        run: |
+          if ! grep -q "NEEDS HUMAN" sweep-report.txt; then
+            exit 0
+          fi
+          title="Org claim watch: entries needing review"
+          body="The scheduled sweep found entries it will not touch (individual claims the manifest also covers, or stamped entries the manifest now excludes). Runbook: camp-docs/runbooks/org-claims.md.
+
+          \`\`\`
+          $(grep "NEEDS HUMAN" sweep-report.txt)
+          \`\`\`"
+          existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh issue create --title "$title" --body "$body" --label org-claim
+          fi

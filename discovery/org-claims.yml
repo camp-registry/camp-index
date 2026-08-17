@@ -1,0 +1,8 @@
+# Organizations enrolled for the scheduled org-claim watch sweep
+# (.github/workflows/org-claim-watch.yml). Enrollment is human-gated:
+# an org's FIRST sweep happens on its "Organization claim request"
+# issue after the qualification check (camp-docs/runbooks/org-claims.md);
+# adding the org here is part of closing that request. From then on the
+# watch re-applies the org's <org>/camp-claim manifest daily to entries
+# stamped `org-claim: <org>` — and only to those.
+orgs: {}

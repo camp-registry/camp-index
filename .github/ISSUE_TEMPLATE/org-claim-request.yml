@@ -1,0 +1,35 @@
+name: Organization claim request
+description: "Claim every listed plugin your organization maintains, from one manifest."
+title: "Organization claim: <org>"
+labels: ["org-claim"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        For organizations whose maintainer and security-contact details
+        are the same across many listed plugins. Publish a repository
+        named `camp-claim` in your organization containing a
+        `camp-claim.yml` manifest (format in AUTHORS.md), then file this
+        request. The registry runs a sweep that claims every listed entry
+        whose source repository belongs to your organization, exactly as
+        individual claim PRs would. Entries already claimed individually
+        are never overwritten. Individual claims (AUTHORS.md Step 1)
+        remain the path for single plugins.
+  - type: input
+    id: organization
+    attributes:
+      label: Organization
+      description: "The GitHub organization login, e.g. catalyst"
+    validations:
+      required: true
+  - type: checkboxes
+    id: eligibility
+    attributes:
+      label: Manifest
+      options:
+        - label: "`camp-claim.yml` is published at the root of `<org>/camp-claim` and I can act for this organization"
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything you want us to know (optional)
