@@ -1,5 +1,6 @@
 component: auth_antihammer
 source: https://github.com/sebsoftnl/moodle-auth_antihammer
+source-repo-id: 321640066
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-auth_antihammer/security

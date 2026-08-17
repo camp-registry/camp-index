@@ -1,5 +1,6 @@
 component: mod_wordcards
 source: https://github.com/justinhunt/moodle-mod_wordcards
+source-repo-id: 166611646
 maintainers:
 - github: justinhunt
 tier: 1
