@@ -2,7 +2,12 @@ component: paygw_mollie
 source: https://github.com/sebsoftnl/moodle-paygw_mollie
 maintainers:
 - github: sebsoftnl
-tier: 0
+security-contact: https://github.com/sebsoftnl/moodle-paygw_mollie/security
+labels:
+- external-account
+- paid-service
+- commercial-support-available
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
