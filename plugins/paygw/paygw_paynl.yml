@@ -2,7 +2,12 @@ component: paygw_paynl
 source: https://github.com/sebsoftnl/moodle-paygw_paynl
 maintainers:
 - github: sebsoftnl
-tier: 0
+security-contact: https://github.com/sebsoftnl/moodle-paygw_paynl/security
+labels:
+- external-account
+- paid-service
+- commercial-support-available
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
