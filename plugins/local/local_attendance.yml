@@ -12,9 +12,9 @@ metrics:
   updated: '2026-06-25T07:20:47Z'
   stars: 3
   forks: 0
-  open-issues: 0
+  open-issues: 2
   archived: false
   latest-release:
     tag: 5.2-r2
     date: '2026-06-10T07:05:05Z'
-  checked: '2026-08-02'
+  checked: '2026-08-17'

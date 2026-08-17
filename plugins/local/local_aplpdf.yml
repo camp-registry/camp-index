@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Collection of PDF related tools
 metrics:
-  updated: '2026-06-28T13:18:53Z'
+  updated: '2026-08-04T10:12:26Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-02'
+  checked: '2026-08-17'

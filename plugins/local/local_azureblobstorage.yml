@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 2
   archived: false
-  checked: '2026-08-02'
+  checked: '2026-08-17'
 summary: A moodle plugin with functions to interact with the Microsoft Azure Blob
   Storage service.

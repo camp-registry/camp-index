@@ -11,9 +11,9 @@ metrics:
   updated: '2026-07-29T11:22:38Z'
   stars: 2
   forks: 3
-  open-issues: 77
+  open-issues: 70
   archived: false
-  checked: '2026-08-02'
+  checked: '2026-08-17'
 summary: Adele is a Moodle local plugin for building and operating adaptive learning
   paths in moodle.
 dependencies:

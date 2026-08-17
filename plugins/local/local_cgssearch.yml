@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-02'
+  checked: '2026-08-17'
 summary: A local plugin that synchronises an index of documents from external systems,
   as well as quick link (custom block) and user information, so that Moodle can index,
   search and display these as results via Moodle's Global Search. The plugin consumes

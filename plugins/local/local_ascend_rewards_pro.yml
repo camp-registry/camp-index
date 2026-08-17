@@ -8,14 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-21T11:43:21Z'
+  updated: '2026-08-03T08:28:39Z'
   stars: 0
   forks: 0
   open-issues: 5
   archived: false
   latest-release:
-    tag: v1.0.0
-    date: '2026-05-13T18:17:22Z'
-  checked: '2026-08-02'
+    tag: v1.0.3
+    date: '2026-08-03T08:28:39Z'
+  checked: '2026-08-17'
 summary: A Moodle local plugin that gamifies learning through a comprehensive badge,
   coin, and reward system.

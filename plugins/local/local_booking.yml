@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin for instructor led session booking
 metrics:
-  updated: '2026-07-09T17:05:23Z'
+  updated: '2026-08-14T15:42:44Z'
   stars: 7
   forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-08-02'
+  checked: '2026-08-17'

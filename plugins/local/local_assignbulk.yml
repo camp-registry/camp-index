@@ -17,7 +17,7 @@ metrics:
   latest-release:
     tag: 0.2.2
     date: '2019-07-01T03:01:25Z'
-  checked: '2026-08-02'
+  checked: '2026-08-17'
 dependencies:
   mod_assign: 2016052301
   assignsubmission_file: 2016052300

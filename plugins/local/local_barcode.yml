@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-08-02'
+  checked: '2026-08-17'
 summary: This plugin allows a user to scan barcodes that have been linked to an assignment
   submission. Once the student has printed off their cover sheet from the physical
   assignment, they are able to hand their submission into a member of staff for submission.

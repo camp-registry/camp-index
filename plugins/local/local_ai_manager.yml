@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v4.0
     date: '2026-07-23T08:37:05Z'
-  checked: '2026-08-02'
+  checked: '2026-08-17'
 summary: This plugin provides a fully functional AI backend. It can be used as alternative
   choice for the AI subsystem which is being shipped with Moodle 4.5. The AI manager
   provides the key feature of being a multi-tenant AI backend which is the main reason

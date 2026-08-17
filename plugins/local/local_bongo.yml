@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: '2019012501'
     date: '2019-01-28T16:34:49Z'
-  checked: '2026-08-02'
+  checked: '2026-08-17'
 summary: Bongo is a Video Assessment platform built around synchronous and asynchronous
   learning
 dependencies:

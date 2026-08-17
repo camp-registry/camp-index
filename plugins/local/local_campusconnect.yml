@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-24T09:28:13Z'
+  updated: '2026-08-11T12:06:56Z'
   stars: 3
   forks: 0
-  open-issues: 7
+  open-issues: 9
   archived: false
-  checked: '2026-08-02'
+  checked: '2026-08-17'
 summary: CampusConnect Moodle plugin
 dependencies:
   auth_campusconnect: any

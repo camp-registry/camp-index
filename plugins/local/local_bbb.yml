@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle Local BigBlueButton
 metrics:
-  updated: '2026-05-15T18:01:14Z'
+  updated: '2026-08-10T14:36:46Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-02'
+  checked: '2026-08-17'
