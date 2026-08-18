@@ -1,5 +1,6 @@
 component: paygw_paynl
 source: https://github.com/sebsoftnl/moodle-paygw_paynl
+source-repo-id: 370665998
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-paygw_paynl/security

@@ -1,5 +1,6 @@
 component: enrol_classicpay
 source: https://github.com/sebsoftnl/moodle-enrol_classicpay
+source-repo-id: 249942124
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-enrol_classicpay/security

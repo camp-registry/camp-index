@@ -1,5 +1,6 @@
 component: tool_tcpdffonts
 source: https://github.com/sebsoftnl/moodle-tool_tcpdffonts
+source-repo-id: 406391430
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-tool_tcpdffonts/security

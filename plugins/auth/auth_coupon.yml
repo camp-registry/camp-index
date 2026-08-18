@@ -1,5 +1,6 @@
 component: auth_coupon
 source: https://github.com/sebsoftnl/moodle-auth_coupon
+source-repo-id: 574914950
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-auth_coupon/security

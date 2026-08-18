@@ -1,5 +1,6 @@
 component: smsgateway_messagebird
 source: https://github.com/sebsoftnl/moodle-smsgateway_messagebird
+source-repo-id: 965999485
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-smsgateway_messagebird/security

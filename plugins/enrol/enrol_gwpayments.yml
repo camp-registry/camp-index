@@ -1,5 +1,6 @@
 component: enrol_gwpayments
 source: https://github.com/sebsoftnl/moodle-enrol_gwpayments
+source-repo-id: 399441805
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-enrol_gwpayments/security

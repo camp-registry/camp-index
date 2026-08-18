@@ -1,5 +1,6 @@
 component: profilefield_coupon
 source: https://github.com/sebsoftnl/moodle-profilefield_coupon
+source-repo-id: 577238768
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-profilefield_coupon/security

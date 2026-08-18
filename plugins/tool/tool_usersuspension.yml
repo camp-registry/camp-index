@@ -1,5 +1,6 @@
 component: tool_usersuspension
 source: https://github.com/sebsoftnl/moodle-tool_usersuspension
+source-repo-id: 321682690
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-tool_usersuspension/security

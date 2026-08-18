@@ -1,5 +1,6 @@
 component: report_gwpayments
 source: https://github.com/sebsoftnl/moodle-report_gwpayments
+source-repo-id: 863400702
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-report_gwpayments/security

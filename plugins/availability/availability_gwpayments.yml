@@ -1,5 +1,6 @@
 component: availability_gwpayments
 source: https://github.com/sebsoftnl/moodle-availability_gwpayments
+source-repo-id: 399441720
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-availability_gwpayments/security

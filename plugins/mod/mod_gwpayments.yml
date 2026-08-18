@@ -1,5 +1,6 @@
 component: mod_gwpayments
 source: https://github.com/sebsoftnl/moodle-mod_gwpayments
+source-repo-id: 399441625
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-mod_gwpayments/security

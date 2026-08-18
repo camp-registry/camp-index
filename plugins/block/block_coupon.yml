@@ -1,5 +1,6 @@
 component: block_coupon
 source: https://github.com/sebsoftnl/moodle-block_coupon
+source-repo-id: 272391953
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-block_coupon/security

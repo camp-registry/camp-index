@@ -1,5 +1,6 @@
 component: paygw_mollie
 source: https://github.com/sebsoftnl/moodle-paygw_mollie
+source-repo-id: 369516589
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-paygw_mollie/security

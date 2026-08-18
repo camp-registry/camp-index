@@ -1,5 +1,6 @@
 component: filter_couponinput
 source: https://github.com/sebsoftnl/moodle-filter_couponinput
+source-repo-id: 766887874
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-filter_couponinput/security

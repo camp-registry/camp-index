@@ -1,5 +1,6 @@
 component: tool_userrestore
 source: https://github.com/sebsoftnl/moodle-tool_userrestore
+source-repo-id: 321690373
 maintainers:
 - github: sebsoftnl
 security-contact: https://github.com/sebsoftnl/moodle-tool_userrestore/security
