@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-18'
 dependencies:
   enrol_cohort: 2024100700
   tool_cohortroles: 2024100700

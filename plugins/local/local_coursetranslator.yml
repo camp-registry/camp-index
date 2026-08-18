@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v0.9.4
     date: '2022-05-03T03:46:41Z'
-  checked: '2026-08-03'
+  checked: '2026-08-18'
 dependencies:
   filter_multilang2: 2020101300

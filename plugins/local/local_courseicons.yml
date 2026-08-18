@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: A Moodle local plugin to customize activity and resource icons.
 metrics:
-  updated: '2026-07-29T02:39:35Z'
+  updated: '2026-08-09T01:21:24Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: v2.1.4
     date: '2026-07-20T18:50:36Z'
-  checked: '2026-08-03'
+  checked: '2026-08-18'

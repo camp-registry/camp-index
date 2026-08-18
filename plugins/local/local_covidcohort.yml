@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-18'
 summary: The COVID cohort plugin allows the adding and removing of users to a preconfigured
   COVID cohort by uploading a CSV file.

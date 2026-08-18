@@ -13,7 +13,7 @@ metrics:
   forks: 6
   open-issues: 9
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-18'
 summary: A Moodle plugin for creating and managing custom pages with block support,
   hierarchical organisation, audience-based access control, and primary navigation
   integration.

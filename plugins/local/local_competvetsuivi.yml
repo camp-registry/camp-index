@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-18'
 summary: Ce plugin permet de calculer les compétences acquises pour un utilisateur
   en fonction des UE complététees et d'une matrice de compétences.

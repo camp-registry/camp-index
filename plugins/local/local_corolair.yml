@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Corolair Local plugin for Moodle LMS
 metrics:
-  updated: '2026-07-31T15:10:26Z'
+  updated: '2026-08-07T14:25:29Z'
   stars: 3
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-18'

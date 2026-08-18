@@ -17,7 +17,7 @@ metrics:
   latest-release:
     tag: '4.0'
     date: '2015-07-27T09:57:55Z'
-  checked: '2026-08-03'
+  checked: '2026-08-18'
 dependencies:
   local_kent: 2016071100
   tool_cat: 2015081800

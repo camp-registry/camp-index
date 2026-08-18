@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: cveteval-11-2022
     date: '2022-11-28T22:22:04Z'
-  checked: '2026-08-03'
+  checked: '2026-08-18'
 summary: Moodle Local CompetVetEval
 dependencies:
   local_cltools: 2022100101
