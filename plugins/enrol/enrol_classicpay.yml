@@ -2,7 +2,12 @@ component: enrol_classicpay
 source: https://github.com/sebsoftnl/moodle-enrol_classicpay
 maintainers:
 - github: sebsoftnl
-tier: 0
+security-contact: https://github.com/sebsoftnl/moodle-enrol_classicpay/security
+labels:
+- external-account
+- paid-service
+- commercial-support-available
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
