@@ -2,7 +2,11 @@ component: tool_tcpdffonts
 source: https://github.com/sebsoftnl/moodle-tool_tcpdffonts
 maintainers:
 - github: sebsoftnl
-tier: 0
+security-contact: https://github.com/sebsoftnl/moodle-tool_tcpdffonts/security
+labels:
+- fully-free
+- commercial-support-available
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
