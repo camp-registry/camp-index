@@ -9,11 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Management Plugin for External Users
 metrics:
-  updated: '2026-05-28T08:59:18Z'
+  updated: '2026-08-18T06:38:18Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 dependencies:
   auth_external: 2022081801

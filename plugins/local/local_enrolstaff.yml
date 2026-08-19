@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 summary: Allows staff to self-enrol onto Moodle courses.
 dependencies:
   local_adminsettingsconfig: 2021060802

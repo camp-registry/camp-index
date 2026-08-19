@@ -11,10 +11,10 @@ summary: Disable Right Click(Context Menu), Cut, Copy, Paste and developer optio
 metrics:
   updated: '2023-09-18T09:00:13Z'
   stars: 3
-  forks: 7
+  forks: 8
   open-issues: 12
   archived: false
   latest-release:
     tag: 1.2.0
     date: '2020-08-15T17:14:06Z'
-  checked: '2026-08-04'
+  checked: '2026-08-19'

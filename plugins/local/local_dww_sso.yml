@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.0.0-rc1
     date: '2026-06-23T10:36:59Z'
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 summary: Secure Single Sign-On and Moodle integration companion plugin for DWW Moodle
   Bridge.

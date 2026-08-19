@@ -13,7 +13,7 @@ metrics:
   forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-08-19'
 summary: Delete old quiz and question attempts Moodle plugin
 dependencies:
   mod_quiz: 2022041900

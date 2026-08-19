@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v2.1-2
     date: '2018-07-26T14:43:00Z'
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 dependencies:
   local_evento: 2018072600

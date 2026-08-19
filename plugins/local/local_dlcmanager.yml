@@ -9,11 +9,11 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that handles communication between DLC Hub and DLC Moodle.
 metrics:
-  updated: '2026-07-30T12:18:05Z'
+  updated: '2026-08-05T19:05:47Z'
   stars: 1
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 dependencies:
   local_ildmeta: 2024081414

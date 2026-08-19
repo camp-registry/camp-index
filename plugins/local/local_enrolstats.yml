@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: '0.8'
     date: '2023-01-19T08:52:29Z'
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 summary: This plugin is designed to streamline the process of viewing enrollment statistics.

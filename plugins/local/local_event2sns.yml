@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: 1.0.3-alpha
     date: '2021-02-16T06:34:37Z'
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 dependencies:
   local_aws: 2017071501

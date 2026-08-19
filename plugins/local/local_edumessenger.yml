@@ -15,6 +15,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 dependencies:
   local_eduauth: 2019071000

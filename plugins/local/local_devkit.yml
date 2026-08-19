@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Collection of tools for Moodle development
 metrics:
-  updated: '2026-08-03T10:35:25Z'
+  updated: '2026-08-17T10:36:32Z'
   stars: 0
   forks: 0
-  open-issues: 9
+  open-issues: 10
   archived: false
-  checked: '2026-08-04'
+  checked: '2026-08-19'

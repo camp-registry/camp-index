@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 2.0.8
     date: '2026-07-27T19:50:28Z'
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 summary: An intelligent conversational assistant that integrates seamlessly into your
   Moodle courses, providing real-time AI-powered support to students and teachers
   through a floating chat interface.

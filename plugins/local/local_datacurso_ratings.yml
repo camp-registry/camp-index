@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 1.0.7
     date: '2026-07-27T19:05:13Z'
-  checked: '2026-08-03'
+  checked: '2026-08-19'
 summary: The Ranking Activities AI plugin empowers students to rate course activities
   and resources, transforming simple feedback into meaningful, AI-powered insights
   for teachers and administrators.

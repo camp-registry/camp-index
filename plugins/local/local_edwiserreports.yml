@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.8.0
     date: '2025-02-06T04:28:46Z'
-  checked: '2026-08-04'
+  checked: '2026-08-19'
 summary: This is the birth version of Edwiser Reports.
