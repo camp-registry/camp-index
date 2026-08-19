@@ -1,8 +1,14 @@
 component: block_custom_register
 source: https://github.com/davidherney/moodle-block_custom_register
 maintainers:
+- github: bambuco
 - github: davidherney
-tier: 0
+tier: 1
+security-contact: https://github.com/davidherney/moodle-block_custom_register/security/advisories/new
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
 status: active
 discovered: '2026-07-11'
 releases: []
