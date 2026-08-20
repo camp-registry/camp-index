@@ -1,8 +1,14 @@
 component: profilefield_truecity
 source: https://github.com/davidherney/moodle-profilefield_truecity
 maintainers:
+- github: bambuco
 - github: davidherney
-tier: 0
+tier: 1
+security-contact: https://github.com/davidherney/moodle-profilefield_truecity/security/advisories/new
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
 status: active
 discovered: '2026-07-11'
 releases: []
