@@ -28,8 +28,12 @@
 # In both classes: Index PR verification must have concluded green
 # for the exact head SHA, and the PR must be open, not draft, and
 # not labeled `hold` — the admin brake. Anything ineligible is left
-# untouched for the normal human path; this workflow never blocks a
-# merge, it only performs eligible ones. The merge uses the
+# unmerged for the normal human path; this workflow never blocks a
+# merge, it only performs eligible ones. Since #264, a routed PR that
+# is purely plugin-entry changes gets told why: one deduplicated
+# comment naming the specific reason plus the needs-human-merge
+# label. Transient states (check not green, head moved) and PRs that
+# aren't registry-entry-shaped stay silent. The merge uses the
 # automation app token (the ruleset bypass actor) pinned to the
 # expected head SHA, so a commit landing after verification — a
 # rolling-branch append, a claim revision — fails the merge
@@ -161,6 +165,10 @@ jobs:
               with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
                   fh.write(f"eligible={'true' if eligible else 'false'}\n")
                   fh.write(f"component={component}\n")
+                  if not eligible:
+                      # Surfaced to the PR by the routing step (#264);
+                      # single line, bounded, so GITHUB_OUTPUT stays sane.
+                      fh.write("reason=" + reason.replace("\n", " ")[:300] + "\n")
               print(reason)
               sys.exit(0)
 
@@ -257,6 +265,7 @@ jobs:
           case "$source" in
             https://github.com/*) ;;
             *) echo "proof=false" >> "$GITHUB_OUTPUT"
+               echo "reason=authorship match only supports github.com sources" >> "$GITHUB_OUTPUT"
                echo "not eligible: authorship match only supports github.com sources"; exit 0 ;;
           esac
           owner=$(echo "$source" | cut -d/ -f4)
@@ -270,6 +279,7 @@ jobs:
           fi
           echo "not eligible: no public authorship match (human review)"
           echo "proof=false" >> "$GITHUB_OUTPUT"
+          echo "reason=the PR author neither owns ${owner} nor is a public member of it" >> "$GITHUB_OUTPUT"
 
       - name: Check the component against the collision ledger (claims)
         id: collision
@@ -282,6 +292,7 @@ jobs:
           if camp check-collisions . --component "${COMPONENT}" | grep -q '^name-collision:'; then
             echo "not eligible: name-collision record on ${COMPONENT} (human review per NAMESPACE.md)"
             echo "clear=false" >> "$GITHUB_OUTPUT"
+            echo "reason=another repository independently declares ${COMPONENT}, so the claim needs a human decision per NAMESPACE.md" >> "$GITHUB_OUTPUT"
           else
             echo "clear=true" >> "$GITHUB_OUTPUT"
           fi
@@ -334,15 +345,64 @@ jobs:
             echo "clear=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Route to human merge (workflow drift)
-        if: steps.decide.outputs.merge == 'true' && steps.drift.outputs.clear == 'false'
+      # Routed PRs get told why (#264): one deduplicated comment with
+      # the specific reason plus the needs-human-merge label, but only
+      # on PRs whose diff is purely plugin entries — a docs or workflow
+      # PR being "ineligible" is just a normal PR and stays untouched,
+      # as does anything with a transient reason (check not yet green,
+      # head moved: those clear on their own and set no reason output).
+      - name: Tell the PR why it was routed to a human (#264)
+        if: >-
+          steps.gate.outputs.class != 'none' &&
+          (steps.diff.outputs.reason != '' ||
+           steps.control.outputs.reason != '' ||
+           steps.collision.outputs.reason != '' ||
+           (steps.decide.outputs.merge == 'true' && steps.drift.outputs.clear == 'false'))
         env:
           GH_TOKEN: ${{ github.token }}
           PR: ${{ steps.gate.outputs.pr }}
+          HEAD_SHA: ${{ steps.gate.outputs.sha }}
+          DIFF_REASON: ${{ steps.diff.outputs.reason }}
+          CONTROL_REASON: ${{ steps.control.outputs.reason }}
+          COLLISION_REASON: ${{ steps.collision.outputs.reason }}
+          DRIFTED: ${{ steps.decide.outputs.merge == 'true' && steps.drift.outputs.clear == 'false' }}
         run: |
-          echo "eligible, but merging would need workflows:write on the app token;"
-          echo "labeling PR #${PR} for human merge (this does not clear on retry)"
+          set -euo pipefail
+          # At most one reason is set (the steps gate each other).
+          if [ -n "${DIFF_REASON}" ]; then
+            reason="${DIFF_REASON}"
+            advice="If this is something you can change (the tier line, one entry per pull request, a security-contact URL under your source repository), push the fix and auto-merge retries once checks re-run. Otherwise a registry admin will take it from here."
+          elif [ -n "${CONTROL_REASON}" ]; then
+            reason="${CONTROL_REASON}"
+            advice="If you are claiming as an organization member, make your membership public and push any commit to retry. Otherwise a registry admin will verify ownership by hand."
+          elif [ -n "${COLLISION_REASON}" ]; then
+            reason="${COLLISION_REASON}"
+            advice="Nothing to fix in this pull request; a registry admin reviews collision-flagged claims and will follow up here."
+          elif [ "${DRIFTED}" = "true" ]; then
+            reason="everything checked out, but this repository's workflow files changed on main after this PR was opened, and merging now needs a permission the automation deliberately lacks"
+            advice="Nothing to fix; a registry admin will merge this shortly."
+          else
+            exit 0
+          fi
+          # Only PRs that are purely plugin-entry changes get feedback.
+          mb=$(git merge-base origin/main "${HEAD_SHA}")
+          if git diff --name-only "${mb}..${HEAD_SHA}" | grep -qvE '^plugins/[^/]+/[^/]+\.yml$'; then
+            echo "not a registry-entry PR; staying silent"; exit 0
+          fi
           gh pr edit "${PR}" --repo "${GITHUB_REPOSITORY}" --add-label needs-human-merge || true
+          marker="<!-- camp-auto-merge-routing -->"
+          if gh api "repos/${GITHUB_REPOSITORY}/issues/${PR}/comments" --paginate \
+               --jq '[.[] | select(.body | contains("camp-auto-merge-routing")) | .body] | join("\n")' \
+               | grep -qF "${reason}"; then
+            echo "already explained; staying silent"; exit 0
+          fi
+          gh pr comment "${PR}" --repo "${GITHUB_REPOSITORY}" --body "This pull request was not auto-merged and is waiting for human review.
+
+          Reason: ${reason}.
+
+          ${advice}
+
+          ${marker}"
 
       - name: Mint app token
         id: app
