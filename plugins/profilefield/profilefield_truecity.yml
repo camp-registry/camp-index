@@ -1,5 +1,6 @@
 component: profilefield_truecity
 source: https://github.com/davidherney/moodle-profilefield_truecity
+source-repo-id: 1104444137
 maintainers:
 - github: bambuco
 - github: davidherney

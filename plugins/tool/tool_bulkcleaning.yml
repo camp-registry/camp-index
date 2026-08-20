@@ -1,5 +1,6 @@
 component: tool_bulkcleaning
 source: https://github.com/davidherney/moodle-tool_bulkcleaning
+source-repo-id: 1184802095
 maintainers:
 - github: bambuco
 - github: davidherney

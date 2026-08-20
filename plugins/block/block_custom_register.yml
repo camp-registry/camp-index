@@ -1,5 +1,6 @@
 component: block_custom_register
 source: https://github.com/davidherney/moodle-block_custom_register
+source-repo-id: 302159525
 maintainers:
 - github: bambuco
 - github: davidherney

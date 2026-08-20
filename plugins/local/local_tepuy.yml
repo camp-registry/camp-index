@@ -1,5 +1,6 @@
 component: local_tepuy
 source: https://github.com/davidherney/moodle-local_tepuy
+source-repo-id: 411554882
 maintainers:
 - github: bambuco
 - github: davidherney

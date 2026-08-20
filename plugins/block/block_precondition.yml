@@ -1,5 +1,6 @@
 component: block_precondition
 source: https://github.com/davidherney/moodle-block_precondition
+source-repo-id: 263244577
 maintainers:
 - github: bambuco
 - github: davidherney

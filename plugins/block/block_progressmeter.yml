@@ -1,5 +1,6 @@
 component: block_progressmeter
 source: https://github.com/davidherney/moodle-block_progressmeter
+source-repo-id: 672740406
 maintainers:
 - github: bambuco
 - github: davidherney
