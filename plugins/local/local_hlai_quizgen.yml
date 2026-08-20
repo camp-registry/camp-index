@@ -14,10 +14,10 @@ summary: The AI Quiz Generator plugin automates the creation of high-quality qui
 metrics:
   updated: '2026-03-13T10:38:03Z'
   stars: 0
-  forks: 2
+  forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 dependencies:
   mod_quiz: 2022112800
   mod_scorm: 2022112800

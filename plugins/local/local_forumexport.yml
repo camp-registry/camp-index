@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: This plugin extends the default export functionalities of a forum module,
   allowing user to customise the group-related settings, as well as permissions to
   access data of each group in forums.

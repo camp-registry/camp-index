@@ -13,6 +13,6 @@ metrics:
   forks: 5
   open-issues: 6
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: 'This is a plugin that makes Moodle an Identity Provider site: other application
   can use Moodle as a login portal'

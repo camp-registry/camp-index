@@ -13,5 +13,5 @@ metrics:
   forks: 1
   open-issues: 6
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: A local plugin that allows grade syncing from Moodle to Synergetic.

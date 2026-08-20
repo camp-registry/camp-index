@@ -10,8 +10,8 @@ license: GPL-3.0
 summary: A simple 'Hello world' example of a Moodle plugin
 metrics:
   updated: '2014-02-24T16:19:12Z'
-  stars: 10
+  stars: 11
   forks: 9
   open-issues: 0
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-20'

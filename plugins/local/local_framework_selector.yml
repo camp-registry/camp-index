@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: The local IOMAD framework selector provides the classes to build search and
   select form elements (like the core Moodle user and course
 dependencies:

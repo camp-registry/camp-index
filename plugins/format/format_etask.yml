@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v2.4
     date: '2024-10-09T18:29:58.748Z'
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: eTask topics format is based on the topics format and includes grading table
   (above or below the course sections) with aditional functionality such as a highlighting
   of grading values, grade to pass settings, motivational progress bars and much more.

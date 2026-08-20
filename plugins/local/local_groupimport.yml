@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Local Group Import is a Moodle local plugin that allows teachers to import
   groups and enrol students into them using a CSV file, directly from within a course.
 metrics:
-  updated: '2026-07-22T21:46:49Z'
+  updated: '2026-08-19T18:12:19Z'
   stars: 0
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-20'

@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: 'Plugin name: HACC Gen'
 dependencies:
   editor_tiny: any

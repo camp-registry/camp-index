@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: 1.0.2
     date: '2025-12-20T04:59:11Z'
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: Add a button in forum modules to filter only the posts of the current user.

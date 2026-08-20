@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v0.2
     date: '2026-06-11T07:56:30Z'
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: This plugin allows teachers to link Moodle course groups together so that
   members of selected source groups are automatically synchronised into a target group.
   When members are later added to or removed from a source group, the target group

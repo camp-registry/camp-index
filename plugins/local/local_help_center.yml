@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-20'
 summary: Plugin allows you to display chunk of HTML code on any page of your Moodle.
   The Help center is hidden until users click on "Help" button.
