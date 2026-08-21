@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-21'
 summary: Part of the IOMAD suite of plugins, enhancing the core Moodle feature set
   with multi-tenant functionalities.
 dependencies:

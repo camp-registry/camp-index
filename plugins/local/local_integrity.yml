@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 5
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-21'
 summary: This plugin allows enabling academic integrity statement upon commencing
   moodle URLs. A notice appears in a modal pop up window.

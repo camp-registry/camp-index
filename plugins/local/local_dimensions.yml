@@ -12,7 +12,7 @@ summary: This plugin for Moodle expands the native competency framework with new
   interfaces, admin panels, and full custom fields support, all without creating new
   database tables.
 metrics:
-  updated: '2026-08-05T15:55:27Z'
+  updated: '2026-08-11T18:50:09Z'
   stars: 1
   forks: 0
   open-issues: 0
@@ -20,7 +20,7 @@ metrics:
   latest-release:
     tag: v1.0
     date: '2026-07-11T14:04:24Z'
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 security-contact: https://github.com/uaiblaine/moodle-local_dimensions/security
 labels:

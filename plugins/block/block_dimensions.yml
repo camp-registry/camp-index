@@ -20,7 +20,7 @@ metrics:
   latest-release:
     tag: v2.0
     date: '2026-07-13T20:45:27Z'
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 security-contact: https://github.com/uaiblaine/moodle-block_dimensions/security
 labels:

@@ -26,10 +26,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-block_oerexchangemodqueue/security
 labels:
 - fully-free
 dependencies:
-  local_oerexchange: any
+  local_oerexchange: 2026080400

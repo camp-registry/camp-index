@@ -12,14 +12,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:39:16Z'
+  updated: '2026-08-16T22:38:13Z'
   stars: 1
   forks: 1
-  open-issues: 4
+  open-issues: 3
   archived: false
   latest-release:
-    tag: 1.1.12
-    date: '2025-10-29T22:25:46Z'
-  checked: '2026-08-06'
+    tag: 1.2.1
+    date: '2026-08-12T18:00:42Z'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 summary: Copy and paste activities and resources between courses with just a few clicks.

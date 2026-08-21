@@ -12,14 +12,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:37:14Z'
+  updated: '2026-08-16T23:06:42Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: 1.5.4
-    date: '2026-03-30T11:42:15Z'
-  checked: '2026-08-06'
+    tag: 1.5.5
+    date: '2026-08-15T02:39:10Z'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 summary: Connect the platform to WordPress and simplify workflows between the systems.

@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-21'
 dependencies:
   local_connect: 2015081000
   local_notifications: 2015062900

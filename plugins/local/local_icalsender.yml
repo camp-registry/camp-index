@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for sending ICS invites when Moodle calendar events are created
 metrics:
-  updated: '2026-07-17T16:12:26Z'
+  updated: '2026-08-19T11:02:29Z'
   stars: 1
-  forks: 1
+  forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.6
-    date: '2026-07-17T16:12:26Z'
-  checked: '2026-08-05'
+    tag: v1.7.1
+    date: '2026-08-18T14:18:47Z'
+  checked: '2026-08-21'

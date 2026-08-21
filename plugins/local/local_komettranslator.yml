@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A translator for the XML-Files published by KOMET-instances
 metrics:
-  updated: '2025-08-28T09:27:44Z'
+  updated: '2026-08-20T18:48:56Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 2
   archived: false
   latest-release:
     tag: v1.0
     date: '2021-08-30T00:07:15Z'
-  checked: '2026-08-06'
+  checked: '2026-08-21'

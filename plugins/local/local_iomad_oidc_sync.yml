@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-08-21'
 summary: Using the per-tenant-specific OIDC setup, the local IOMAD OIDC sync plugin
   provides the functionality to automatically synchronise
 dependencies:

@@ -14,13 +14,13 @@ releases: []
 license: GPL-3.0
 summary: Artificial intelligence features that support content creation and learning.
 metrics:
-  updated: '2026-08-03T11:38:59Z'
+  updated: '2026-08-16T22:47:38Z'
   stars: 9
   forks: 5
   open-issues: 2
   archived: false
   latest-release:
-    tag: 3.0.1
-    date: '2026-07-10T12:00:49Z'
-  checked: '2026-08-06'
+    tag: 3.0.2
+    date: '2026-08-16T22:47:41Z'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci

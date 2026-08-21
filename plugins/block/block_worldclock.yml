@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 summary: A Moodle block that displays the current time in multiple timezones. It can
 security-contact: https://github.com/adamjenkins/moodle-block_worldclock/security

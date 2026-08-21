@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-08-05'
+  checked: '2026-08-21'
 summary: The local IOMAD learning paths plugin provides the underlying class functions
   for managing the IOMAD learning paths feature.
 dependencies:

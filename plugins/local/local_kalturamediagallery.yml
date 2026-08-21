@@ -13,7 +13,7 @@ metrics:
   forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-21'
 summary: This repository contains part of the v3.x Moodle extension of Kaltura which
   is not based on KAF and is not the latest version.
 dependencies:

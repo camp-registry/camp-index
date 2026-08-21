@@ -52,7 +52,7 @@ releases:
   released: '2026-07-31T15:55:46Z'
 license: GPL-3.0
 metrics:
-  updated: '2026-08-06T05:49:50Z'
+  updated: '2026-08-11T05:19:26Z'
   stars: 11
   forks: 3
   open-issues: 2
@@ -60,7 +60,7 @@ metrics:
   latest-release:
     tag: v5.2-r3
     date: '2026-07-24T14:54:17Z'
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 summary: Moodle Differentiator
 security-contact: https://github.com/lucaboesch/moodle-local_differentiator/security

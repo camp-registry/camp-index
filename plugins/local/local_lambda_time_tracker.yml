@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-21'
 summary: This plugin periodically executes an ajax call to register user presence
   in course. The plugin has a user presence check alert notification popup window
   which will pause the ajax calls until the user clicks the button registering them

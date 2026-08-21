@@ -21,7 +21,7 @@ metrics:
   latest-release:
     tag: v5.0-r1
     date: '2025-11-20T13:58:32Z'
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-local_course_checker/security
 labels:

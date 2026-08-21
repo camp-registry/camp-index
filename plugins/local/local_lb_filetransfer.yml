@@ -13,7 +13,7 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-21'
 summary: Learnbook File Transfer is a local plugin to automate user upload, outgoing
   report and import any custom file in Moodle. The best feature of this plugin is
   you can have multiple instances and multiple connection setup.

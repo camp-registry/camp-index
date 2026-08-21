@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 summary: Timezone filter
 security-contact: https://github.com/adamjenkins/moodle-filter_timezone/security

@@ -16,12 +16,12 @@ license: GPL-3.0
 metrics:
   updated: '2025-09-15T12:43:51Z'
   stars: 22
-  forks: 58
+  forks: 59
   open-issues: 26
   archived: false
   latest-release:
     tag: V500.1.0
     date: '2025-09-15T12:41:43Z'
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 summary: Grid course format

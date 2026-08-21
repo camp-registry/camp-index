@@ -12,7 +12,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:37:47Z'
+  updated: '2026-08-16T22:37:32Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -20,6 +20,6 @@ metrics:
   latest-release:
     tag: 0.0.5
     date: '2026-01-06T23:58:50Z'
-  checked: '2026-08-06'
+  checked: '2026-08-21'
   ci: moodle-plugin-ci
 summary: Monitor services, availability, and technical indicators in real time.
