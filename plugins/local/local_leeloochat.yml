@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-22'
 summary: This plugin is used to add chat snippet in footer.
 dependencies:
   auth_leeloo_pay_sso: 2020022105

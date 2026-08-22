@@ -14,7 +14,7 @@ metrics:
   forks: 2
   open-issues: 4
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-22'
 dependencies:
   booktool_wordimport: 2025042300
   qformat_wordtable: 2025042300

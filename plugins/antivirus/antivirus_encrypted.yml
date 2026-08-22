@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-08-07'
+  checked: '2026-08-22'
 summary: Moodle can scan different files with different virus scanners, but some virus
   scanners don't scan files if they can't read them.

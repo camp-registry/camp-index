@@ -14,6 +14,6 @@ metrics:
   forks: 13
   open-issues: 14
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-22'
 dependencies:
   logstore_lanalytics: 2020101607
