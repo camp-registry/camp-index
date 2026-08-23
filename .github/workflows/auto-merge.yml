@@ -221,6 +221,12 @@ jobs:
           # Claim class: tier 0 -> 1 on an existing entry, maintainers
           # added, contact/label data allowed, NOTHING else — a source
           # change or release edit is never auto-merged.
+          # A human-authored release append gets its own reason (#267):
+          # the generic "not a claim" is accurate but the routing
+          # comment's claim advice reads as nonsense on a release diff.
+          if (b.get("releases") or []) != (h.get("releases") or []):
+              out(False, "not eligible: hand-authored release change "
+                         "(releases auto-merge only via the release workflow)")
           if b.get("tier", 0) != 0 or h.get("tier") != 1:
               out(False, f"not eligible: tier {b.get('tier', 0)} -> {h.get('tier')}, not a claim")
           if b.get("source") != h.get("source"):
@@ -371,7 +377,12 @@ jobs:
           # At most one reason is set (the steps gate each other).
           if [ -n "${DIFF_REASON}" ]; then
             reason="${DIFF_REASON}"
-            advice="If this is something you can change (the tier line, one entry per pull request, a security-contact URL under your source repository), push the fix and auto-merge retries once checks re-run. Otherwise a registry admin will take it from here."
+            case "${reason}" in
+              *hand-authored\ release*)
+                advice="The record itself may well be fine: if Index PR verification is green, a registry admin can confirm and merge this by hand. To publish future releases with no pull request at all, add the camp release workflow (AUTHORS.md Step 2; it is a six-line file since camp-registry/camp-workflows)." ;;
+              *)
+                advice="If this is something you can change (the tier line, one entry per pull request, a security-contact URL under your source repository), push the fix and auto-merge retries once checks re-run. Otherwise a registry admin will take it from here." ;;
+            esac
           elif [ -n "${CONTROL_REASON}" ]; then
             reason="${CONTROL_REASON}"
             advice="If you are claiming as an organization member, make your membership public and push any commit to retry. Otherwise a registry admin will verify ownership by hand."
