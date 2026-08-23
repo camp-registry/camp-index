@@ -10,7 +10,7 @@ license: GPL-3.0
 summary: Lumination AI for Moodle — Generate full Moodle courses from documents using
   AI
 metrics:
-  updated: '2026-07-15T12:49:35Z'
+  updated: '2026-08-15T14:11:19Z'
   stars: 0
   forks: 0
   open-issues: 1
@@ -18,4 +18,4 @@ metrics:
   latest-release:
     tag: v0.3.3
     date: '2026-07-11T07:38:03Z'
-  checked: '2026-08-06'
+  checked: '2026-08-23'

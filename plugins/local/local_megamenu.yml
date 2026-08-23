@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: 1.0.1
     date: '2020-07-12T06:20:00Z'
-  checked: '2026-08-06'
+  checked: '2026-08-23'
 summary: Enhance Boost and Boostrap 4 compatible themes with a mega menu to display
   courses.

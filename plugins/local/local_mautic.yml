@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-23'
 dependencies:
   local_guzzle: 2020050400

@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-23'
 summary: This plugin tests the Moodle HTML purifier in order to check whether it filters
   out MathML or not.

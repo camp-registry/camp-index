@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-21T15:02:19Z'
+  updated: '2026-08-20T13:42:24Z'
   stars: 2
   forks: 1
-  open-issues: 4
+  open-issues: 3
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-08-23'
 summary: This plugin provides an optional simplification of forms like course and
   activity creation.

@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-08'
+  checked: '2026-08-23'
 summary: תוסף מקומי ל־Moodle שמאפשר להפעיל מספר דיירים (טננטים) מאותו קוד אתר, כאשר
   לכל דייר יש בדרך כלל מסד נתונים נפרד ו־moodledata (dataroot) נפרד. האתר הראשי (האב)
   משמש לניהול רשימת הדיירים ולכתיבת קובץ registry.php שממנו ה־bootstrap בוחר את הדייר

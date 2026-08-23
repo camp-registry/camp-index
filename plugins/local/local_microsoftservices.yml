@@ -17,7 +17,7 @@ metrics:
   latest-release:
     tag: v30.0.0.7
     date: '2016-07-19T03:25:49Z'
-  checked: '2026-08-07'
+  checked: '2026-08-23'
 dependencies:
   block_microsoft: 2016062005
   local_msaccount: 2016062000

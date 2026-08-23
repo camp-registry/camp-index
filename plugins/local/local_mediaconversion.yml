@@ -15,6 +15,6 @@ metrics:
   forks: 2
   open-issues: 7
   archived: true
-  checked: '2026-08-06'
+  checked: '2026-08-23'
 dependencies:
   local_kaltura: 2019111435
