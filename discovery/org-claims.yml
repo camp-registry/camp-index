@@ -5,4 +5,10 @@
 # adding the org here is part of closing that request. From then on the
 # watch re-applies the org's <org>/camp-claim manifest daily to entries
 # stamped `org-claim: <org>` — and only to those.
-orgs: {}
+orgs:
+  bambuco:
+    enrolled: '2026-08-22'
+    issue: 262
+  davidherney:
+    enrolled: '2026-08-22'
+    issue: 263

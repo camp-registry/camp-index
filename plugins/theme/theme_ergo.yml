@@ -1,8 +1,16 @@
 component: theme_ergo
 source: https://github.com/davidherney/moodle-theme_ergo
+source-repo-id: 252864406
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
+- github: bambuco
 - github: davidherney
-tier: 0
+tier: 1
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-08-03'
 releases: []

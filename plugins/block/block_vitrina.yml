@@ -1,8 +1,16 @@
 component: block_vitrina
 source: https://github.com/bambuco/moodle-block_vitrina
+source-repo-id: 632779823
+security-contact: https://github.com/bambuco/camp-claim/security/advisories/new
 maintainers:
 - github: bambuco
-tier: 0
+- github: davidherney
+tier: 1
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+org-claim: bambuco
 status: active
 discovered: '2026-07-11'
 releases: []

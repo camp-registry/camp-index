@@ -1,8 +1,16 @@
 component: theme_bambuco1
 source: https://github.com/bambuco/moodle-theme_bambuco1
+source-repo-id: 439218660
+security-contact: https://github.com/bambuco/camp-claim/security/advisories/new
 maintainers:
 - github: bambuco
-tier: 0
+- github: davidherney
+tier: 1
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+org-claim: bambuco
 status: active
 discovered: '2026-08-03'
 releases: []

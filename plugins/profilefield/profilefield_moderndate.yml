@@ -1,8 +1,16 @@
 component: profilefield_moderndate
 source: https://github.com/bambuco/moodle-profilefield_moderndate
+source-repo-id: 1242049758
+security-contact: https://github.com/bambuco/camp-claim/security/advisories/new
 maintainers:
 - github: bambuco
-tier: 0
+- github: davidherney
+tier: 1
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+org-claim: bambuco
 status: active
 discovered: '2026-07-11'
 releases: []

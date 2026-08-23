@@ -1,8 +1,16 @@
 component: format_bulkcertification
 source: https://github.com/davidherney/moodle-format_bulkcertification
+source-repo-id: 792456923
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
+- github: bambuco
 - github: davidherney
-tier: 0
+tier: 1
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-07-11'
 releases: []
