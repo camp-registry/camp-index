@@ -26,6 +26,18 @@ releases:
   listing-sha256: 74b8eca7cb10cb0f002fd1f2119dc89808aba3b84dfca5895ec64dcae4331fb3
   published: '2026-08-24T04:13:52Z'
   released: '2026-08-24T04:10:51Z'
+- version: 1.1.00
+  tag: v1.1.01
+  commit: b9bde1c0f74d7c37588fa4e4b31e7331e35c769a
+  moodle-version: 2026031704
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: 48ec7b5945e5f524db7cd5fa81540e3783322bf7823565287a9e57fe8df3453b
+  listing-sha256: 1efd24bc80cde3d7c92ec712aae8036768c4b09bbed5cdf77db897da18bf2da6
+  published: '2026-08-24T04:24:56Z'
+  released: '2026-08-24T04:23:33Z'
 license: GPL-3.0
 summary: Tool for cleaning data on the platform in bulk operations.
 metrics:
