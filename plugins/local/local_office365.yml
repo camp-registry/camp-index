@@ -11,13 +11,13 @@ license: GPL-3.0
 metrics:
   updated: '2026-07-07T09:44:57Z'
   stars: 15
-  forks: 20
-  open-issues: 0
+  forks: 21
+  open-issues: 1
   archived: false
   latest-release:
     tag: v5.2.0
     date: '2026-07-07T09:44:57Z'
-  checked: '2026-08-08'
+  checked: '2026-08-24'
 dependencies:
   auth_oidc: 2026042000
   block_microsoft: 2026042000

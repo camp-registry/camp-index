@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 6
   archived: false
-  checked: '2026-08-08'
+  checked: '2026-08-24'
 summary: Oculta elementos da interface de mensagens do Moodle enquanto o usuário tiver
   uma tentativa de quiz em andamento (quizattempts.state = 'inprogress').

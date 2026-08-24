@@ -8,14 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-04-10T15:40:10Z'
+  updated: '2026-08-13T15:53:02Z'
   stars: 2
   forks: 4
-  open-issues: 1
+  open-issues: 0
   archived: false
   latest-release:
-    tag: 5.1.2
-    date: '2026-04-10T15:40:10Z'
-  checked: '2026-08-08'
+    tag: 5.2.0
+    date: '2026-08-13T15:15:42Z'
+  checked: '2026-08-24'
 summary: It provides an OAuth2 server so that a user can use its Moodle account to
   log in to external applications.

@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.1.1
     date: '2025-07-14T23:16:22Z'
-  checked: '2026-08-05'
+  checked: '2026-08-24'
 summary: Custom pages for moodle, with multilangs, custom contexts, blocks, selectable
   layout, custom js and css for each page, easy url and more.

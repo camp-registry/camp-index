@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-08-08'
+  checked: '2026-08-24'
 summary: OOOK LTI course menu (localoookltimenu) adds an OOOK item to Moodle course
   secondary navigation and launches a configured LTI 1.3 tool from that menu.

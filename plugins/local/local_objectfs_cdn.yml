@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-06-19T08:03:20Z'
-  checked: '2026-08-08'
+  checked: '2026-08-24'
 dependencies:
   tool_objectfs: any

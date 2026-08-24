@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-08'
+  checked: '2026-08-24'
 summary: Local plugin which extends the one who was created at the MoodleMoot 2018
   in Germany as part of a spontaneous DevCamp about the new Moodle Analytics API.

@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Unimoodle L5 P4
 metrics:
-  updated: '2026-07-28T09:05:23Z'
+  updated: '2026-08-21T14:44:09Z'
   stars: 4
   forks: 12
-  open-issues: 21
+  open-issues: 18
   archived: false
   latest-release:
     tag: v0.6.4-MOODLE_4.0.4_STABLE
     date: '2025-05-22T18:49:37Z'
-  checked: '2026-08-08'
+  checked: '2026-08-24'

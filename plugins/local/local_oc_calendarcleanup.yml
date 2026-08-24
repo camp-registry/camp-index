@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v4.5.1
     date: '2025-12-01T08:17:55Z'
-  checked: '2026-08-08'
+  checked: '2026-08-24'
 summary: Moodle does not automatically clean up old calendar entries. Since the calendar
   quickly becomes full,

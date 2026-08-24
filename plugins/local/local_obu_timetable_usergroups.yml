@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 1.4.1.0
     date: '2026-08-07T16:56:43Z'
-  checked: '2026-08-08'
+  checked: '2026-08-24'
 summary: This README would normally document whatever steps are necessary to get your
   application up and running.
 dependencies:

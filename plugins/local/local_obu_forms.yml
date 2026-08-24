@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: OBU Forms
 metrics:
-  updated: '2025-11-17T11:53:06Z'
+  updated: '2026-08-19T14:44:08Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: 1.19.0.0
-    date: '2025-11-17T11:53:07Z'
-  checked: '2026-08-08'
+    tag: 1.20.0.0
+    date: '2026-08-19T14:44:08Z'
+  checked: '2026-08-24'
