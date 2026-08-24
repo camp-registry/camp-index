@@ -3,8 +3,8 @@ source: https://github.com/davidherney/moodle-report_approvalindicator
 source-repo-id: 143250261
 security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
-- github: bambuco
 - github: davidherney
+- github: bambuco
 tier: 1
 labels:
 - fully-free

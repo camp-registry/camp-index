@@ -3,8 +3,8 @@ source: https://github.com/davidherney/moodle-block_selfenrollment
 source-repo-id: 258406127
 security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
-- github: bambuco
 - github: davidherney
+- github: bambuco
 tier: 1
 labels:
 - fully-free

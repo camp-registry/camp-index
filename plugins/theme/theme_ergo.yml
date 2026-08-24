@@ -3,8 +3,8 @@ source: https://github.com/davidherney/moodle-theme_ergo
 source-repo-id: 252864406
 security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
-- github: bambuco
 - github: davidherney
+- github: bambuco
 tier: 1
 labels:
 - fully-free
