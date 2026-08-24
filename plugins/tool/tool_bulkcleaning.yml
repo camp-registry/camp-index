@@ -4,15 +4,28 @@ source-repo-id: 1184802095
 maintainers:
 - github: bambuco
 - github: davidherney
-tier: 1
-security-contact: https://github.com/davidherney/moodle-tool_bulkcleaning/security/advisories/new
+tier: 2
+security-contact: >-
+  https://github.com/davidherney/moodle-tool_bulkcleaning/security/advisories/new
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.1.00
+  tag: v1.1.00
+  commit: c0adde38600c8333beef34979b5ca1c2cd8d2260
+  moodle-version: 2026031704
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: b1447542566685c93ce69f36b8ed28e9f76e0812181656c9f00bcf8b13d813d2
+  listing-sha256: 74b8eca7cb10cb0f002fd1f2119dc89808aba3b84dfca5895ec64dcae4331fb3
+  published: '2026-08-24T04:13:52Z'
+  released: '2026-08-24T04:10:51Z'
 license: GPL-3.0
 summary: Tool for cleaning data on the platform in bulk operations.
 metrics:
