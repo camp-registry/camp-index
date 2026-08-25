@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: CopyMonitor Bridge accurately identifies similarity of target text compared
   against a comprehensive database of local and international academic articles and
   web contents as well as user-specified comparison documents. <br>

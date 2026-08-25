@@ -8,7 +8,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-14T15:29:54Z'
+  updated: '2026-08-20T18:48:03Z'
   stars: 0
   forks: 0
   open-issues: 1
@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.3
     date: '2021-07-01T12:23:56Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: This plugin allows to link users from shibboleth authentication to existing
   moodle users.

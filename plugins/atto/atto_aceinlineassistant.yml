@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 dependencies:
   filter_ace_inline: 2024092700
   qtype_coderunner: 2024090500

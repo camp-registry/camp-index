@@ -10,11 +10,11 @@ summary: Oauth2 authentication plugin for Moodle (for Moodle 3.2 and earlier)
 license: GPL-3.0
 metrics:
   updated: '2019-02-05T14:15:30Z'
-  stars: 81
+  stars: 80
   forks: 75
   open-issues: 42
   archived: false
   latest-release:
     tag: '2.2'
     date: '2015-11-06T14:42:14Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'

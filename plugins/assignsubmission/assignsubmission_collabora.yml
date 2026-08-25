@@ -10,7 +10,7 @@ license: GPL-3.0
 summary: ':memo: :globe_with_meridians: Use live document collaboration within assignments,
   powered by Collabora Online'
 metrics:
-  updated: '2026-05-26T13:14:53Z'
+  updated: '2026-08-10T15:26:25Z'
   stars: 1
   forks: 2
   open-issues: 1
@@ -18,6 +18,6 @@ metrics:
   latest-release:
     tag: v3.10-r1
     date: '2020-11-16T14:45:15Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 dependencies:
   mod_collabora: 2024103000

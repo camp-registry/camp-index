@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: Moodle 2.7 Atto plugin for inserting DHTMLXSpreadsheet in moodle.
 dependencies:
   filter_spreadsheet: 2015020700

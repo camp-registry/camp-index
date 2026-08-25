@@ -18,6 +18,6 @@ metrics:
   latest-release:
     tag: v6.0.1
     date: '2026-04-04T22:22:30Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 dependencies:
   enrol_wallet: 2026040400

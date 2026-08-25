@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.9.0
     date: '2026-06-29T11:50:55Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: This plugin allows Moodle users to access content on the e-learning platform

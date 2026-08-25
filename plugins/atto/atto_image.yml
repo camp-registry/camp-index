@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: The Atto Image Plugin for Moodle, originally developed to facilitate image
   insertion and manipulation in the text editor, has been enhanced with AI-powered
   capabilities. This extended version now offers automatic alt text generation using

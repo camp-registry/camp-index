@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: Plugin de autenticacao via OAuth2 do SUAP. Faz o login no Moodle e sincroniza
   dados do usuario, foto e campos de perfil customizados.
 metrics:
-  updated: '2026-08-07T18:00:35Z'
+  updated: '2026-08-24T20:58:31Z'
   stars: 1
   forks: 0
-  open-issues: 1
+  open-issues: 4
   archived: false
   latest-release:
-    tag: 4.5.055
-    date: '2026-06-25T13:46:31Z'
-  checked: '2026-08-10'
+    tag: 4.5.073
+    date: '2026-08-24T20:09:20Z'
+  checked: '2026-08-25'

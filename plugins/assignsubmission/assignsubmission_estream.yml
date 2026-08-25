@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: release
     date: '2024-05-15T12:22:54Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: // This file is part of Moodle - http://moodle.org/

@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: OOMAX Pro Authentication for Moodle LMS
 metrics:
-  updated: '2026-03-06T19:15:58Z'
+  updated: '2026-08-17T23:47:19Z'
   stars: 0
   forks: 1
   open-issues: 0
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: v1.7.5.2
     date: '2024-11-13T14:49:39Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'

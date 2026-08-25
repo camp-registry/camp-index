@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: SAML done 100% in Moodle, fast, simple, secure
 metrics:
-  updated: '2026-07-13T04:38:16Z'
+  updated: '2026-08-17T23:50:37Z'
   stars: 86
-  forks: 149
+  forks: 148
   open-issues: 190
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'

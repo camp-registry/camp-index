@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 2
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: This extension for moodle is intented to be residing in folder
 dependencies:
   assignsubmission_author: 2018072100

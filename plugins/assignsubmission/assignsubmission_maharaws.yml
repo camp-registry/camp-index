@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle assignment submission plugin for Mahara portfolios
 metrics:
-  updated: '2026-02-25T00:40:24Z'
+  updated: '2026-08-24T22:08:11Z'
   stars: 11
   forks: 14
-  open-issues: 23
+  open-issues: 22
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'

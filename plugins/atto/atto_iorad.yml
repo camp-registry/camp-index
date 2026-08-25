@@ -9,13 +9,13 @@ releases: []
 license: GPL-3.0
 metrics:
   updated: '2023-07-12T14:24:48Z'
-  stars: 0
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
     tag: v1.0.2
     date: '2023-07-12T14:24:48Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: Instantly create step-by-step tutorials. No uploads. No screenshot editing.
   See how it works.

@@ -11,9 +11,9 @@ summary: CAS Server (SSO) Authentication Plugin for Moodle
 metrics:
   updated: '2025-02-10T07:28:25Z'
   stars: 1
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 dependencies:
   auth_ldap: 2024100100

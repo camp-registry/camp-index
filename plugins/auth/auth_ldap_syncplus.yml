@@ -10,11 +10,11 @@ summary: Moodle authentication plugin which provides all functionality of auth_l
   but supports advanced features for the LDAP synchronization task and LDAP authentication.
 license: GPL-3.0
 metrics:
-  updated: '2026-07-05T07:50:03Z'
+  updated: '2026-08-11T09:37:12Z'
   stars: 11
   forks: 16
-  open-issues: 5
+  open-issues: 6
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 dependencies:
   auth_ldap: 2026042000

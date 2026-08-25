@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2021-11-09T09:55:39Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: Moodle Atto Sharing is an atto sub-plugin to easily create and integrate
   Social Sharing button to Moodle atto editor.

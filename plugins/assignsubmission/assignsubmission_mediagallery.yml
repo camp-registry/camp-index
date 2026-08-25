@@ -13,7 +13,7 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 summary: This plugin allows instructors/teachers to make media collections a gradable
   activity by leveraging the assign activity. This plugin requires the Media collection
   activity be installed (http://github.com/netspotau/moodle-modmediagallery).

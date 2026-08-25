@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v.1.1.1
     date: '2018-09-04T08:49:15Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 dependencies:
   filter_generico: 2016011800

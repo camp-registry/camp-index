@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v1.1.1
     date: '2024-06-20T15:42:02Z'
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 dependencies:
   repository_inokufu: 2024061700

@@ -16,6 +16,6 @@ metrics:
   forks: 5
   open-issues: 1
   archived: false
-  checked: '2026-08-10'
+  checked: '2026-08-25'
 dependencies:
   assignfeedback_pdf: 2013061200

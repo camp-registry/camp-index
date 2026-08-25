@@ -15,12 +15,12 @@ releases: []
 license: GPL-3.0
 summary: CloudPoodll Moodle assignment
 metrics:
-  updated: '2026-07-27T23:52:58Z'
+  updated: '2026-08-16T14:17:09Z'
   stars: 1
   forks: 2
   open-issues: 2
   archived: false
   latest-release:
-    tag: v1.0.46
-    date: '2026-06-08T07:24:12Z'
-  checked: '2026-08-10'
+    tag: v1.0.47
+    date: '2026-08-16T14:17:09Z'
+  checked: '2026-08-25'
