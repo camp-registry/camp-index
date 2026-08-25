@@ -65,20 +65,36 @@ jobs:
           git commit -m "org claim sweep (scheduled)"
           git push origin main
 
+      # The workflow's own GITHUB_TOKEN carries issues:write (declared
+      # above); the app token deliberately has no issues permission and
+      # its GraphQL addComment 403s (first run's REST create slipped
+      # through, every comment after died — the Aug 24/25 failures).
+      # Dedup on content: known conflicts (individual claims accepted at
+      # enrollment) re-surface in every sweep report, and only a CHANGED
+      # set — a new conflict or a resolved one — warrants a post.
       - name: Surface anything needing a human
         env:
-          GH_TOKEN: ${{ steps.app.outputs.token }}
+          GH_TOKEN: ${{ github.token }}
         run: |
-          if ! grep -q "NEEDS HUMAN" sweep-report.txt; then
-            exit 0
-          fi
           title="Org claim watch: entries needing review"
+          findings=$(grep "NEEDS HUMAN" sweep-report.txt || true)
+          if [ -z "$findings" ]; then
+            echo "nothing needing a human"; exit 0
+          fi
+          existing=$(gh issue list --state open --search "in:title \"$title\"" \
+            --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            latest=$(gh issue view "$existing" --json body,comments \
+              --jq 'if (.comments | length) > 0 then .comments[-1].body else .body end')
+            if [ "$(echo "$latest" | grep "NEEDS HUMAN" | sort)" = "$(echo "$findings" | sort)" ]; then
+              echo "finding set unchanged since the last report; staying silent"; exit 0
+            fi
+          fi
           body="The scheduled sweep found entries it will not touch (individual claims the manifest also covers, or stamped entries the manifest now excludes). Runbook: camp-docs/runbooks/org-claims.md.
 
           \`\`\`
-          $(grep "NEEDS HUMAN" sweep-report.txt)
+          ${findings}
           \`\`\`"
-          existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
           if [ -n "$existing" ]; then
             gh issue comment "$existing" --body "$body"
           else
