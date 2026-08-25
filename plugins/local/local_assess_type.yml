@@ -1,8 +1,13 @@
 component: local_assess_type
 source: https://github.com/ucl-isd/moodle-local_assess_type
+source-repo-id: 823625873
+security-contact: https://github.com/ucl-isd/moodle-mod_coursework/security
 maintainers:
-- github: ucl-isd
-tier: 0
+- github: aspark21
+tier: 1
+labels:
+- fully-free
+org-claim: ucl-isd
 status: active
 discovered: '2026-07-11'
 releases: []

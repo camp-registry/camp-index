@@ -1,8 +1,13 @@
 component: block_lifecycle
 source: https://github.com/ucl-isd/moodle-block_lifecycle
+source-repo-id: 529005418
+security-contact: https://github.com/ucl-isd/moodle-mod_coursework/security
 maintainers:
-- github: ucl-isd
-tier: 0
+- github: aspark21
+tier: 1
+labels:
+- fully-free
+org-claim: ucl-isd
 status: active
 discovered: '2026-07-11'
 releases: []
