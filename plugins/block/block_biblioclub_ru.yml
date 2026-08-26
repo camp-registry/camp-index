@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v0.0.4
     date: '2024-07-15T16:25:58Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: Seamless authentication in biblioclub.ru from Moodle Learning Platform

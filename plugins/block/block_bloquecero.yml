@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v0.13
     date: '2026-07-07T11:21:50Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: Bloque personalizado para Moodle que proporciona una interfaz mejorada de
   cabecera de curso con información de profesores, navegación por secciones, integración
   de foros, bibliografía y sesiones en vivo.

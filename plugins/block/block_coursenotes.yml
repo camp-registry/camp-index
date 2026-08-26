@@ -13,5 +13,5 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: The blockcoursenotes block stores notes by the user for a specific course.

@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: V401.1.1
     date: '2025-03-15T12:33:22Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: User context

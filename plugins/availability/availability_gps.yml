@@ -9,14 +9,14 @@ releases: []
 license: GPL-3.0
 summary: Moodle Availability Plugin for GPS Locations
 metrics:
-  updated: '2023-10-27T11:20:09Z'
+  updated: '2026-08-20T18:48:06Z'
   stars: 0
   forks: 0
-  open-issues: 3
+  open-issues: 4
   archived: false
   latest-release:
     tag: v2.6
     date: '2022-05-27T13:17:43Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 dependencies:
   block_gps: 2021121600

@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 0.1.04
     date: '2026-06-26T18:27:23Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: Este é um plugin de bloco para o Moodle que permite aos estudantes avaliarem
   os cursos com notas de 1 a 5 estrelas e deixarem comentários textuais sobre a sua
   experiência.

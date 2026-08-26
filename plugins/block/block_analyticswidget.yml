@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.0
     date: '2025-08-17T17:29:08Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: Analytics widget block with beautiful charts and stats for users

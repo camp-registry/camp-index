@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: This plugin allows teachers to add activities with restriction based on the
   student course completion progress. For instance, allow access to a certificate
   activity only when the student completes at least 70% of the course activities.

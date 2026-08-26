@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v5.2.0
     date: '2026-06-03T14:12:03Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: The basic Calculator is a straightforward calculator with the most common
   operators such as plus,

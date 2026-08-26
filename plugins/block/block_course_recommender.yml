@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: A Moodle block that helps users discover relevant courses based on their
   interests through an intuitive tag-based interface.
 metrics:
-  updated: '2025-09-15T11:40:51Z'
+  updated: '2026-08-24T14:01:50Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-11'
+  checked: '2026-08-26'

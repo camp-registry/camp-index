@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.1
     date: '2022-09-11T16:16:01Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: Do you need to see a graphical summary of the dependencies between completion
   and availability of activities in your course? Just add this block to it!

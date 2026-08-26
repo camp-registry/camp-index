@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.3.1
     date: '2026-07-10T21:12:06Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: An availability condition plugin for Moodle that restricts access to activities,
   resources, or course sections until a student has completed a prerequisite course.

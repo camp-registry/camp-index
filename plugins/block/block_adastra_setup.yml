@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: Ad Astra Setup is a helper plugin to handle exercise management with Ad Astra.
   To be used in tandem with Ad Astra.

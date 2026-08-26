@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v2.0.0
     date: '2026-07-30T08:58:21Z'
-  checked: '2026-08-11'
+  checked: '2026-08-26'
 summary: Moodle availability plugin which lets users restrict activities and sections
   with shibboleth two-factor authentication (2FA).
