@@ -13,7 +13,7 @@ metrics:
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: A Moodle block plugin that lets you use a template course or template modules
   as a library, and copy modules (activities/resources) from that template into your
   current course.

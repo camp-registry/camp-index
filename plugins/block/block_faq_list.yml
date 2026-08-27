@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v1.1.1
     date: '2025-01-14T09:27:21Z'
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: The FAQ List plugin allows Moodle administrators to create and manage FAQ
   lists containing questions and answers. These FAQs can be displayed in various formats
   (text, accordion, carousel) as a block on the Moodle website.

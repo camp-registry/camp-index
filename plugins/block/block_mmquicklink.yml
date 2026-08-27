@@ -13,10 +13,10 @@ summary: A block for administrators, managers and teachers to simplify navigatio
 metrics:
   updated: '2024-06-11T06:27:10Z'
   stars: 0
-  forks: 0
+  forks: 1
   open-issues: 4
   archived: false
   latest-release:
     tag: 1.7.1
     date: '2021-02-05T11:55:53Z'
-  checked: '2026-08-12'
+  checked: '2026-08-27'

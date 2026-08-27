@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.1.1
     date: '2022-02-08T01:51:40Z'
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: This integration is no longer being maintained. The supported way to connect
   Moodle and Lt is using our new LTI based integration. See <https://www.adinstruments.com/lt/lms-integration>

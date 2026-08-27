@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: The Easy Enrollments block is block with form from Easy Enrollments method,
 dependencies:
   enrol_easy: 2018051400

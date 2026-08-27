@@ -14,11 +14,12 @@ releases: []
 summary: MuTMS  My certifications block for Moodle™ LMS
 license: GPL-3.0
 metrics:
-  updated: '2026-08-09T19:13:37Z'
+  updated: '2026-08-14T17:56:58Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
+  ci: moodle-plugin-ci
 dependencies:
   tool_mulib: 2026080845

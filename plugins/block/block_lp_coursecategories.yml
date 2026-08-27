@@ -10,11 +10,11 @@ license: GPL-3.0
 summary: Bloco Moodle para exibir planos de aprendizado agrupados pelas categorias
   dos cursos a que estão associados
 metrics:
-  updated: '2026-05-22T19:45:02Z'
+  updated: '2026-08-13T12:32:28Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 dependencies:
   tool_lp: any

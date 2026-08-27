@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.2
     date: '2023-01-04T04:21:47Z'
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: A block to display of courses from the global list of courses.

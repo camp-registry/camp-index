@@ -14,11 +14,12 @@ releases: []
 license: GPL-3.0
 summary: MuTMS My programs overview page for Moodle™ LMS
 metrics:
-  updated: '2026-08-09T19:13:42Z'
+  updated: '2026-08-14T17:56:40Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
+  ci: moodle-plugin-ci
 dependencies:
   tool_mulib: 2026080845

@@ -13,6 +13,6 @@ metrics:
   forks: 5
   open-issues: 3
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: This plugin displays the user's issued certificates. Currently displaying
   certificates from Simple Certificate and Custom Certificate modules.

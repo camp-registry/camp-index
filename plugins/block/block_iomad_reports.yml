@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: The IOMAD reports block provides the block wrapper for all of the IOMAD reports.
 dependencies:
   local_iomad: 2026010100

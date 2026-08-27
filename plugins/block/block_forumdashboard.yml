@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: 'This plugin summarises general statistical metrics of a user (student) in
   all forums and display them in user''s dashboard page. The site administrator can
   design what to show in the dashboard. It also comes with ability to have cached

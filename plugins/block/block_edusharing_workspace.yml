@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: edu-sharing block workspace
 dependencies:
   mod_edusharing: 2026061600

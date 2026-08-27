@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-12-13T11:02:28Z'
+  updated: '2026-08-19T09:52:59Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 summary: Un bloque inteligente para Moodle que ayuda a los estudiantes a encontrar
   información en los documentos PDF del curso utilizando IA generativa.

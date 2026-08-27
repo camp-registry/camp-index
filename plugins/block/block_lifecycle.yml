@@ -18,6 +18,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-12'
+  checked: '2026-08-27'
+  ci: moodle-plugin-ci
 summary: This block aims to show the course lifecycle information and provide a convenience
   way to override the course context freezing settings.

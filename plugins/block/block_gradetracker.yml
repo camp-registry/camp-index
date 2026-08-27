@@ -18,7 +18,7 @@ metrics:
   latest-release:
     tag: v2.0.0
     date: '2020-03-26T11:14:53Z'
-  checked: '2026-08-12'
+  checked: '2026-08-27'
 dependencies:
   block_bc_dashboard: 2020031900
   local_df_hub: 2020031900
