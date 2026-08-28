@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v1.0.9
     date: '2025-12-26T12:40:13Z'
-  checked: '2026-08-13'
+  checked: '2026-08-28'
 dependencies:
   logstore_socialflow: 2022081800

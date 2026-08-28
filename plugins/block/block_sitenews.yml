@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Display site news in full scale at my startpage. You may find it useful to
   make it sticky above or below the course overview.
 metrics:
-  updated: '2020-03-23T16:58:05Z'
+  updated: '2026-08-26T12:23:10Z'
   stars: 0
   forks: 2
   open-issues: 2
   archived: false
-  checked: '2026-08-13'
+  latest-release:
+    tag: v1.1.2
+    date: '2026-08-26T12:23:44Z'
+  checked: '2026-08-28'

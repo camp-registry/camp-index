@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin to work with LabsMobile SMS API
 metrics:
-  updated: '2026-07-02T18:23:09Z'
+  updated: '2026-08-13T17:12:52Z'
   stars: 2
   forks: 0
   open-issues: 0
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: 2.0.1
     date: '2026-07-02T18:08:52Z'
-  checked: '2026-08-13'
+  checked: '2026-08-28'

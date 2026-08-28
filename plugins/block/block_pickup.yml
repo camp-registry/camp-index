@@ -18,6 +18,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-13'
+  checked: '2026-08-28'
+  ci: moodle-plugin-ci
 dependencies:
   block_recentlyaccesseditems: any

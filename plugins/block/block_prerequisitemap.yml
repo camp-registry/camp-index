@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-07-06T18:36:12Z'
-  checked: '2026-08-13'
+  checked: '2026-08-28'
 summary: A Moodle block plugin that displays a student-facing learning pathway, showing
   completed, in-progress, available, and locked courses based on prerequisite relationships
   defined by the availabilityprerequisite condition.

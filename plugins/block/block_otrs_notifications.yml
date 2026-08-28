@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: moodle-block_otrs_notifications-1.0
     date: '2015-10-20T10:41:19Z'
-  checked: '2026-08-13'
+  checked: '2026-08-28'
 summary: OTRS Notifications Block
 dependencies:
   block_otrs: 2015101900

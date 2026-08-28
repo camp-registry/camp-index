@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v0.1.1
     date: '2026-07-08T12:55:21Z'
-  checked: '2026-08-13'
+  checked: '2026-08-28'
 summary: The blockqr plugin adds a configurable block that generates QR codes directly
   in Moodle contexts (course pages, activities, dashboard, and more).

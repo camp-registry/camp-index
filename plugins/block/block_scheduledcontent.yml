@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: This shows a block that can contain scheduled contents, that are only shown
   in a specified time range
 metrics:
-  updated: '2023-05-04T09:11:55Z'
+  updated: '2026-08-20T18:48:20Z'
   stars: 1
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-08-13'
+  checked: '2026-08-28'

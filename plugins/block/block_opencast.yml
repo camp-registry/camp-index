@@ -13,12 +13,12 @@ summary: Moodle block plugin which can be used to link Moodle courses to Opencas
 metrics:
   updated: '2026-07-22T12:43:20Z'
   stars: 23
-  forks: 28
+  forks: 27
   open-issues: 20
   archived: false
   latest-release:
     tag: v5.1-r1
     date: '2026-01-18T09:47:55Z'
-  checked: '2026-08-13'
+  checked: '2026-08-28'
 dependencies:
   tool_opencast: 2025080100
