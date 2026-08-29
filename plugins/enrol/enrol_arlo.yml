@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v5.2.0
     date: '2026-07-27T12:53:40Z'
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 summary: Arlo for Moodle - enrolment plugin

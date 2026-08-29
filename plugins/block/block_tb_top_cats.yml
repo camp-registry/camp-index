@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 summary: Highlight your most important course categories!
 dependencies:
   local_leeloolxpcontentapi: 2021031907

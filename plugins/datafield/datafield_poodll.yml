@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v3.1.2
     date: '2022-12-02T08:25:57Z'
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 dependencies:
   filter_poodll: 2017082601

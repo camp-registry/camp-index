@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Multiselect custom profile field for Moodle 3.7+
 metrics:
-  updated: '2026-05-05T21:12:53Z'
+  updated: '2026-08-23T06:36:17Z'
   stars: 1
   forks: 4
-  open-issues: 5
+  open-issues: 6
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'

@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 summary: The Video chat block allows users in same course to have video chat user
   WebRTC. It supports openandtalk.com and other video chat service.

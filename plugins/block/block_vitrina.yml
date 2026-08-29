@@ -19,10 +19,11 @@ summary: A block to display a list of courses and their general information.
 metrics:
   updated: '2026-06-10T07:42:20Z'
   stars: 3
-  forks: 4
+  forks: 5
   open-issues: 8
   archived: false
   latest-release:
     tag: v2.1
     date: '2023-05-24T20:04:12Z'
-  checked: '2026-08-14'
+  checked: '2026-08-29'
+  ci: moodle-plugin-ci

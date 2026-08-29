@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Custom field for programme (ENVA)
 metrics:
-  updated: '2026-06-04T09:43:23Z'
+  updated: '2026-08-20T06:01:15Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'

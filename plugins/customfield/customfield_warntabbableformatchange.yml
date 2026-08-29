@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 summary: A custom field to be added to courses in order to detect when a user switches
   from a tabbable course format
 dependencies:

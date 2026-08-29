@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 summary: The Via Bloc can only be used if you have the Via activity module.
 dependencies:
   mod_via: 2022060701

@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 summary: The teacher defines time slots, with limited capacities, and the students
   book them.
 dependencies:

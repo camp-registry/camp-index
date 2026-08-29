@@ -12,9 +12,9 @@ summary: The Top Active Courses block is a Moodle plugin that displays a visuall
   help users discover popular courses they are not yet enrolled in, but where self-enrolment
   is possible.
 metrics:
-  updated: '2025-10-02T17:35:07Z'
+  updated: '2026-08-20T18:12:49Z'
   stars: 1
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'

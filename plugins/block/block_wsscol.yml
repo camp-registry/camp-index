@@ -9,11 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Moodle Plugin that call an external webservice for create courses
 metrics:
-  updated: '2025-09-11T17:05:13Z'
+  updated: '2026-08-25T12:13:05Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 dependencies:
   enrol_wsscol: 2024070800

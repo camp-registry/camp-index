@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v4.0
     date: '2025-11-21T16:28:39Z'
-  checked: '2026-08-14'
+  checked: '2026-08-29'
 summary: INSTALLATION WITH GIT

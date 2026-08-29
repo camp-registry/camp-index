@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-05-29T05:13:12Z'
+  updated: '2026-08-28T12:33:23Z'
   stars: 3
-  forks: 15
-  open-issues: 7
+  forks: 16
+  open-issues: 2
   archived: false
-  checked: '2026-08-14'
+  latest-release:
+    tag: v2.7.0
+    date: '2026-08-28T08:57:43Z'
+  checked: '2026-08-29'
 summary: Moodle Authorize.net Plugin [enrolauthorizedotnet]
