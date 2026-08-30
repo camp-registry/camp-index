@@ -3,14 +3,32 @@ source: https://github.com/harshil8595/moodle-block_timezoneclock
 source-repo-id: 579576798
 maintainers:
 - github: harshil8595
-tier: 1
+tier: 2
 security-contact: https://github.com/harshil8595/moodle-block_timezoneclock/security/advisories
 labels:
 - fully-free
 - donation-supported
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v1.2.4
+  tag: v1.2.4
+  commit: 8f32a1728711a788b9b52acfa30280346e10fd44
+  moodle-version: 2026083000
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: d4f76d6a393f8983dd74201ba82d29b6f85a86ee0d24c97f5dda0b69d8b458cf
+  listing-sha256: 035cf8ec739b223637cebb6dc00a8492b7a64bce463b9c091474624d69202946
+  published: '2026-08-30T14:04:14Z'
+  released: '2026-08-30T14:01:57Z'
 license: GPL-3.0
 summary: Moodle block plugin for viewing/converting time in different timezones
 metrics:
