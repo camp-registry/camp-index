@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: 4.5-b
     date: '2026-07-03T04:29:06Z'
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 summary: Version 2022031000 - Fixed bug with multiple instances in locallib.php

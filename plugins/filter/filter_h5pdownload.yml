@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: 1.0.2
     date: '2024-07-15T14:48:49Z'
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 dependencies:
   block_informations: any

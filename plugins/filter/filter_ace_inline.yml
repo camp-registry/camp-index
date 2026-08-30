@@ -10,11 +10,11 @@ license: GPL-3.0
 summary: A Moodle filter for displaying and optionally interacting with program code
   by utilising the Moodle CodeRunner question type plugin
 metrics:
-  updated: '2026-02-22T23:09:37Z'
+  updated: '2026-08-24T04:10:17Z'
   stars: 5
   forks: 7
   open-issues: 6
   archived: false
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 dependencies:
   qtype_coderunner: 2022012000

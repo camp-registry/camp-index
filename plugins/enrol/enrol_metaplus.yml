@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 4
   archived: false
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 dependencies:
   enrol_meta: 2015082400
   theme_kent: 2015101800

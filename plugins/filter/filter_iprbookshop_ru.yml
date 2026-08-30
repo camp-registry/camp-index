@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 summary: Authentication on www.iprbookshop.ru
 dependencies:
   block_iprbookshop_ru: 2015110800

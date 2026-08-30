@@ -11,10 +11,10 @@ summary: Mercadopago moodle
 metrics:
   updated: '2025-06-03T22:42:23Z'
   stars: 0
-  forks: 1
+  forks: 2
   open-issues: 1
   archived: false
   latest-release:
     tag: 0.1.6
     date: '2025-03-20T16:32:26Z'
-  checked: '2026-08-15'
+  checked: '2026-08-30'

@@ -13,7 +13,7 @@ metrics:
   forks: 13
   open-issues: 17
   archived: false
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 summary: Programs for Moodle by Open LMS is a set of plugins that implements programs,
 dependencies:
   local_openlms: 2024091401

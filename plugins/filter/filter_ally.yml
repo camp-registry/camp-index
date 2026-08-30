@@ -11,9 +11,9 @@ metrics:
   updated: '2026-08-07T14:39:25Z'
   stars: 4
   forks: 18
-  open-issues: 23
+  open-issues: 26
   archived: false
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 summary: The Ally filter provides accessibility scores and tools for files uploaded
   to Moodle by teachers. It also provides
 dependencies:

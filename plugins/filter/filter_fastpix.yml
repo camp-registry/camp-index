@@ -10,7 +10,7 @@ license: GPL-3.0
 summary: Embed FastPix videos anywhere in Moodle by pasting a shortcode. Capability-gated,
   public-video player for any rich-text area.
 metrics:
-  updated: '2026-06-16T14:31:18Z'
+  updated: '2026-08-25T06:37:19Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -18,7 +18,7 @@ metrics:
   latest-release:
     tag: v1.0.3
     date: '2026-06-16T14:31:18Z'
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 dependencies:
   mod_fastpix: 2026061500
   local_fastpix: 2026061500

@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-14'
+  checked: '2026-08-30'
 summary: The "Extended guest access" enrolment plugin extends the guest access to
   courses. You can grant anonymous access to specific IP, network or to logged users.

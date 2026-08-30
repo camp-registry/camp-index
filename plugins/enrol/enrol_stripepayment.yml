@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle Stripe Payment Collector
 metrics:
-  updated: '2025-12-18T08:56:51Z'
+  updated: '2026-08-29T12:10:58Z'
   stars: 16
-  forks: 33
+  forks: 34
   open-issues: 4
   archived: false
   latest-release:
     tag: v3.6.1
     date: '2025-08-26T12:28:18Z'
-  checked: '2026-08-15'
+  checked: '2026-08-30'

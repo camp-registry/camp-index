@@ -12,11 +12,11 @@ summary: FilterCodes filter for Moodle enables content creators to easily custom
 license: GPL-3.0
 metrics:
   updated: '2026-07-13T17:58:42Z'
-  stars: 36
-  forks: 52
-  open-issues: 71
+  stars: 37
+  forks: 54
+  open-issues: 73
   archived: false
   latest-release:
     tag: v3.0.1
     date: '2026-07-14T18:00:14Z'
-  checked: '2026-08-15'
+  checked: '2026-08-30'

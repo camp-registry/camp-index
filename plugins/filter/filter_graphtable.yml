@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 dependencies:
   local_math: 2014042007
   math_gnuplot: 2015062601

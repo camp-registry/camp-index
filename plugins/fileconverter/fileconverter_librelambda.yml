@@ -11,7 +11,7 @@ summary: A Libre Office document converter for Moodle leveraging AWS Lambda
 metrics:
   updated: '2026-08-12T12:57:55Z'
   stars: 25
-  forks: 18
+  forks: 17
   open-issues: 23
   archived: false
-  checked: '2026-08-15'
+  checked: '2026-08-30'

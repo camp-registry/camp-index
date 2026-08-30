@@ -13,7 +13,7 @@ metrics:
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-08-15'
+  checked: '2026-08-30'
 summary: The Planet eStream Authentication Plugin will automatically authenticate
   users viewing embedded Planet eStream quizzes within Moodle. With the plugin installed,
   you will no longer have to log in each time you wish to take a quiz, as long as
