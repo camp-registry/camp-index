@@ -1,0 +1,17 @@
+component: smsgateway_plivo
+source: https://github.com/sebsoftnl/moodle-smsgateway_plivo
+maintainers:
+- github: sebsoftnl
+tier: 0
+status: active
+discovered: '2026-08-31'
+releases: []
+license: GPL-3.0
+summary: Plivo SMS gateway for Moodle 4.5 and later.
+metrics:
+  updated: '2026-08-17T12:38:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-31'

@@ -75857,6 +75857,11 @@ repos:
     detail: listed as smsgateway_messagebird
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
+  sebsoftnl/moodle-smsgateway_plivo:
+    outcome: written
+    detail: listed as smsgateway_plivo
+    first-seen: '2026-08-31'
+    last-checked: '2026-08-31'
   sebsoftnl/moodle-tool_tcpdffonts:
     outcome: written
     detail: listed as tool_tcpdffonts
