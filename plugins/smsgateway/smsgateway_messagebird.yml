@@ -8,10 +8,23 @@ labels:
 - external-account
 - paid-service
 - commercial-support-available
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.0.1
+  tag: 1.0.1
+  commit: fb0a9ff6605325a8e4d5e6d2bddd82a175883ebd
+  moodle-version: 2026083100
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: d3c0921d4801ee9d7613f47f148c0de73b4c13985ac2a9c45a0a9efa39f39de8
+  listing-sha256: 47caab69adc3f3bd9ab45be72627fd1cb08a7135aee483dc7b9cf44a8281bf42
+  published: '2026-08-31T19:37:49Z'
+  released: '2026-08-31T14:53:58Z'
 license: GPL-3.0
 metrics:
   updated: '2025-04-14T09:07:39Z'
@@ -20,5 +33,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-11'
-summary: A Moodle plugin that enables sending SMS messages through the MessageBird
-  API.
+summary: A Moodle plugin that enables sending SMS messages through the MessageBird API.
