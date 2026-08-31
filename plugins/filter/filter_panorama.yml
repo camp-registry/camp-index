@@ -13,7 +13,7 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-08-15'
+  checked: '2026-08-31'
 summary: localpanorama - Panorama for Moodle Settings
 dependencies:
   local_panorama: 2020072400

@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 summary: A Moodle text filter that replaces {task:Task name} tokens with an inline,
 dependencies:
   mod_task: 2026063000

@@ -26,7 +26,7 @@ metrics:
   latest-release:
     tag: v3.10.1_hinata
     date: '2024-04-26T17:55:40Z'
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 dependencies:
   format_topics: 2024100700
   mod_simplecertificate: 2024051106

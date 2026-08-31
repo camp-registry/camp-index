@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 summary: This plugin allows you to embed YouTube videos without compromising the privacy
   of the site visitor. Data will only be sent to Google by the browser once you actually
   click on a video.

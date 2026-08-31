@@ -11,10 +11,10 @@ metrics:
   updated: '2026-04-22T17:18:34Z'
   stars: 16
   forks: 36
-  open-issues: 53
+  open-issues: 54
   archived: false
   latest-release:
     tag: v4.1.21
     date: '2026-04-22T17:18:35Z'
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 summary: Edwiser Course Formats block plugin for Moodle

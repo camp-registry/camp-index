@@ -13,10 +13,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-14T07:50:39Z'
+  updated: '2026-08-20T12:56:36Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-16'
+  checked: '2026-08-31'
+  ci: moodle-plugin-ci
 summary: TO-DO Describe the plugin shortly here.

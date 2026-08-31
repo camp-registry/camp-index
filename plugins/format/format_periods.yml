@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v3.3.1
     date: '2017-10-27T06:52:12Z'
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 summary: moodle-formatperiods

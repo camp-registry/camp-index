@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 summary: The REIN filter provides content creators with a suite of dynamic content
   presentation types and interactions that can be placed anywhere where a text editor
   exists. Interactions are triggerd by simple HTML markup. Examples of these can be

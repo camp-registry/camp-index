@@ -15,7 +15,7 @@ metrics:
   forks: 2
   open-issues: 0
   archived: true
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 dependencies:
   tool_lifecycle: 2025102300
   customfield_semester: 2025102700

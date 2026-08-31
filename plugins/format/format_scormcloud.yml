@@ -14,6 +14,6 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 dependencies:
   mod_scormcloud: 2011110201

@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.1
     date: '2022-10-06T16:20:40Z'
-  checked: '2026-08-16'
+  checked: '2026-08-31'
 summary: This plugin allows translation of user-generated content in Moodle.
