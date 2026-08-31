@@ -42,6 +42,21 @@ releases:
   listing-sha256: a910f11c0b02bc773bd306578f65ec91a40de836d34eb58fe4e04b738d0e38ba
   published: '2026-08-16T13:45:02Z'
   released: '2026-08-16T13:43:23Z'
+- version: 1.1.51
+  tag: v1.1.51
+  commit: 78a2da36293f758cf1053c73710b3a8fbfb0516f
+  moodle-version: 2026083102
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 6ebd7fd9d679a1a6304374791428cbcbeb997d68b4d224b813b219d8e43dc9fa
+  listing-sha256: a910f11c0b02bc773bd306578f65ec91a40de836d34eb58fe4e04b738d0e38ba
+  published: '2026-08-31T08:24:48Z'
+  released: '2026-08-31T08:23:36Z'
 license: GPL-3.0
 summary: Poodll Mini Lesson
 metrics:
