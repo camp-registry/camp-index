@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-03-13T22:13:47Z'
-  checked: '2026-08-16'
+  checked: '2026-09-01'
 summary: This plugin adds a page to the Reports menu that allows administrators and
   managers to quickly and centrally view the academic summary of any user.

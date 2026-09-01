@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v.0.1.5
     date: '2025-08-08T11:51:40Z'
-  checked: '2026-08-17'
+  checked: '2026-09-01'
 summary: TODO Describe the plugin shortly here.

@@ -10,7 +10,7 @@ summary: A browsable and filterable course catalog for Moodle, with custom field
   tag search, and dynamic AJAX results.
 license: GPL-3.0
 metrics:
-  updated: '2026-06-02T18:45:58Z'
+  updated: '2026-08-27T12:38:58Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -18,4 +18,4 @@ metrics:
   latest-release:
     tag: v1.0.1
     date: '2026-06-02T16:45:10Z'
-  checked: '2026-08-17'
+  checked: '2026-09-01'

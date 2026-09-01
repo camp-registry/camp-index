@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Annoto Moodle Local plugin
 metrics:
-  updated: '2026-08-16T17:28:40Z'
+  updated: '2026-08-18T18:11:13Z'
   stars: 1
   forks: 10
-  open-issues: 9
+  open-issues: 10
   archived: false
   latest-release:
     tag: v5.5.2
     date: '2026-08-10T10:37:51Z'
-  checked: '2026-08-17'
+  checked: '2026-09-01'

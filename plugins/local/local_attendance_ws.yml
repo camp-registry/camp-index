@@ -9,15 +9,15 @@ releases: []
 license: GPL-3.0
 summary: Attendance Web service
 metrics:
-  updated: '2026-08-07T17:25:42Z'
+  updated: '2026-08-25T12:44:11Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: 1.7.2.0
-    date: '2026-08-07T17:25:42Z'
-  checked: '2026-08-17'
+    tag: 1.8.0.0
+    date: '2026-08-25T12:44:11Z'
+  checked: '2026-09-01'
 dependencies:
   mod_attendance: 2024070301
   local_obu_metalinking: 2024110101

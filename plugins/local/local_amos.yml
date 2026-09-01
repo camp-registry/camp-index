@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: AMOS - Moodle localisation tool running at lang.moodle.org
 metrics:
-  updated: '2026-07-23T22:51:25Z'
+  updated: '2026-08-18T11:02:45Z'
   stars: 7
   forks: 14
   open-issues: 2
   archived: false
-  checked: '2026-08-17'
+  checked: '2026-09-01'

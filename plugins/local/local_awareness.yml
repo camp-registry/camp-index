@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Awareness is a Moodle local plugin to display policy, compliance, communication,
   and onboarding notices in modal form.
 metrics:
-  updated: '2026-08-17T04:23:18Z'
+  updated: '2026-08-24T19:35:03Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-17'
+  checked: '2026-09-01'

@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-08-17'
+  checked: '2026-09-01'
 summary: 'Upload interaction-model.json to the JSON Editor to use as a base for building
   your custom Moodle skill front-end. Make sure you update the placeholder invocation
   name and COURSE slot values for your skill (see Moodle instructions below for getting
