@@ -20,6 +20,16 @@ releases:
   listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
   published: '2026-08-15T21:45:04Z'
   released: '2026-08-15T21:26:40Z'
+- version: 0.10.0
+  tag: 0.10.0
+  commit: ae97bd7259281520f681d2f0f59589ba3bc3b5c4
+  moodle-version: 2026083000
+  supported-moodle:
+  - '4.2'
+  zip-sha256: 59a5baffa2de52f631d1561a656d14187332786c8980abfadc3ed26ceab823e2
+  listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
+  published: '2026-09-01T12:28:05Z'
+  released: '2026-08-30T21:27:36Z'
 license: GPL-3.0
 summary: >-
   Help students study better without leaving Moodle. QuickNote lets learners
