@@ -11,11 +11,11 @@ summary: A Moodle local plugin providing a simple web UI to run the MoodleCS cod
   style checks with PHP_CodeSniffer.
 metrics:
   updated: '2025-12-02T00:51:44Z'
-  stars: 70
+  stars: 71
   forks: 78
   open-issues: 13
   archived: false
   latest-release:
     tag: v5.0.12
     date: '2025-08-14T08:10:16Z'
-  checked: '2026-08-18'
+  checked: '2026-09-02'

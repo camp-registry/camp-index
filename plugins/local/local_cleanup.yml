@@ -9,12 +9,12 @@ releases: []
 summary: A Moodle clean-up plugin
 license: GPL-3.0
 metrics:
-  updated: '2025-08-07T15:57:56Z'
+  updated: '2026-08-30T23:45:08Z'
   stars: 2
   forks: 1
   open-issues: 0
   archived: false
   latest-release:
-    tag: '2.2'
-    date: '2025-08-07T15:58:28Z'
-  checked: '2026-08-18'
+    tag: '3.1'
+    date: '2026-08-30T23:45:45Z'
+  checked: '2026-09-02'

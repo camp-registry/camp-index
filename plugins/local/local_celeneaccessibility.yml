@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-08-17'
+  checked: '2026-09-02'
 summary: Another important thing to take in consideration is that this plugin doesn't
   have the purpose to bypass moodle in core accessibility functionnality but to propose
   other tools to enhance / provide better experience if possible.

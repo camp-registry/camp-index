@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: All-in-one Cohort manager plugin for Moodle
 metrics:
-  updated: '2026-06-29T13:03:12Z'
+  updated: '2026-08-30T01:28:57Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-18'
+  checked: '2026-09-02'
 dependencies:
   enrol_cohort: 2024100700
   tool_cohortroles: 2024100700

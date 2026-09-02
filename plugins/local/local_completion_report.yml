@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-18'
+  checked: '2026-09-02'
 summary: Moodle local plugin that provides a detailed report of all user course completion
   statuses across the entire Moodle site, from the Site administration menu Reports
   tab.

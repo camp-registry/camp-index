@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-12T11:22:22Z'
+  updated: '2026-08-30T17:18:30Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-18'
+  checked: '2026-09-02'
 summary: Moodle Local CompetVet
 dependencies:
   mod_competvet: any

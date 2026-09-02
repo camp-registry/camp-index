@@ -11,8 +11,8 @@ metrics:
   updated: '2026-02-13T17:29:18Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-08-17'
+  checked: '2026-09-02'
 summary: A Moodle local plugin that allows administrators to efficiently reset all
   courses within a category and its subcategories with configurable group management.

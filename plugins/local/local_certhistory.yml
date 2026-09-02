@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-17'
+  checked: '2026-09-02'
 summary: A Moodle local plugin that permanently archives modcustomcert certificate
   issuances as immutable snapshots. When a course or certificate activity is deleted,
   Moodle's built-in "My certificates" page silently drops those records — this plugin

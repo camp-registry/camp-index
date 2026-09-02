@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v2.0
     date: '2023-08-15T11:10:15Z'
-  checked: '2026-08-18'
+  checked: '2026-09-02'
 summary: We developed the Smart Cohort module based on our years of experience in
   Moodle operation and development.

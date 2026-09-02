@@ -12,12 +12,12 @@ summary: Ziel ist die Entwicklung eines neuen Plugins, welches in regelmäßigen
   ob die Kurse behalten werden sollen. Es muss erforderlich sein, dass die Trainer/innen
   aktiv bekunden, dass der Kurs behalten werd
 metrics:
-  updated: '2025-10-28T19:17:36Z'
+  updated: '2026-08-20T18:48:36Z'
   stars: 3
   forks: 1
-  open-issues: 2
+  open-issues: 4
   archived: false
   latest-release:
     tag: v1.2
     date: '2021-08-06T22:08:54Z'
-  checked: '2026-08-18'
+  checked: '2026-09-02'

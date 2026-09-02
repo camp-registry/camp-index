@@ -12,9 +12,9 @@ metrics:
   updated: '2026-07-10T08:19:09Z'
   stars: 1
   forks: 3
-  open-issues: 105
+  open-issues: 72
   archived: false
-  checked: '2026-08-17'
+  checked: '2026-09-02'
 dependencies:
   local_wunderbyte_table: 2024040200
   mod_adaptivequiz: 2024031502

@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-08-18'
+  checked: '2026-09-02'
 summary: A Moodle local plugin that provides a guided, three-stage wizard for creating
   courses inside a category. Users can create a blank course, clone an existing course
   in the same category, or restore from a pre-configured school template — all without
