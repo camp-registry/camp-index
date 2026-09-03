@@ -1,8 +1,16 @@
 component: customcertelement_otherdates
 source: https://github.com/davidherney/moodle-customcertelement_otherdates
+source-repo-id: 657504359
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
 - github: davidherney
-tier: 0
+- github: bambuco
+tier: 1
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-09-03'
 releases: []
