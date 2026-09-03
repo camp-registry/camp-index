@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-08-19'
+  checked: '2026-09-03'
 summary: The local IOMAD email reports plugin facilitates the automated sending of
   warning emails e.g.
 dependencies:

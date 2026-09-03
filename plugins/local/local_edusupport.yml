@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Plugin to manage a moodle based helpdesk
 metrics:
-  updated: '2026-08-18T18:07:19Z'
+  updated: '2026-08-20T18:48:41Z'
   stars: 4
   forks: 3
-  open-issues: 8
+  open-issues: 9
   archived: false
   latest-release:
     tag: v2.2.7
     date: '2022-01-28T06:40:38Z'
-  checked: '2026-08-19'
+  checked: '2026-09-03'

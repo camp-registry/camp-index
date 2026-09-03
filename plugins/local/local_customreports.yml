@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v39.20230126.2
     date: '2023-01-26T18:32:05Z'
-  checked: '2026-08-18'
+  checked: '2026-09-03'
 summary: 'Use at: /local/customreports/index.php'

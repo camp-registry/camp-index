@@ -9,11 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Moodle Plugin to replace certain pages.
 metrics:
-  updated: '2024-12-12T12:44:55Z'
+  updated: '2026-08-20T18:48:38Z'
   stars: 1
   forks: 1
-  open-issues: 0
+  open-issues: 2
   archived: false
-  checked: '2026-08-19'
+  checked: '2026-09-03'
 dependencies:
   local_table_sql: 2023102300

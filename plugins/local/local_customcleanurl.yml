@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: Moodle local plugin customcleanurl purpose to make the moodle url in more
   user readable format and SEO friendly url that makes moodle clean url.
 metrics:
-  updated: '2026-08-15T09:28:47Z'
+  updated: '2026-09-02T11:58:06Z'
   stars: 4
   forks: 6
-  open-issues: 0
+  open-issues: 1
   archived: false
   latest-release:
-    tag: v1.1.6
-    date: '2026-08-15T09:28:47Z'
-  checked: '2026-08-18'
+    tag: v1.1.7
+    date: '2026-09-01T11:37:19Z'
+  checked: '2026-09-03'

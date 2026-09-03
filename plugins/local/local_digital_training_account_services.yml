@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-19'
+  checked: '2026-09-03'
 dependencies:
   logstore_last_viewed_course_module: any
   logstore_last_updated_course_module: any

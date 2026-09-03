@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-19'
+  checked: '2026-09-03'
 summary: Generate a printable PDF of a course’s supported activities—sections, summaries,
   and module content—in one download, with a cover page, bookmarks, and optional enrolment
   QR when Sharecourse is available.

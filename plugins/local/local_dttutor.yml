@@ -8,7 +8,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-27T19:50:27Z'
+  updated: '2026-08-27T23:06:22Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 2.0.8
     date: '2026-07-27T19:50:28Z'
-  checked: '2026-08-19'
+  checked: '2026-09-03'
 summary: An intelligent conversational assistant that integrates seamlessly into your
   Moodle courses, providing real-time AI-powered support to students and teachers
   through a floating chat interface.

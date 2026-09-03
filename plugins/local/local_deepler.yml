@@ -11,12 +11,12 @@ metrics:
   updated: '2026-07-29T13:03:46Z'
   stars: 4
   forks: 4
-  open-issues: 25
+  open-issues: 26
   archived: false
   latest-release:
     tag: v1.9.9.3
     date: '2026-04-20T14:03:06Z'
-  checked: '2026-08-19'
+  checked: '2026-09-03'
 summary: DeepLer is a local Moodle plugin that provides automatic machine translation
   or text improvement (not available with ©DeepL free api accounts) using the ©DeepL
   Pro Translation api.
