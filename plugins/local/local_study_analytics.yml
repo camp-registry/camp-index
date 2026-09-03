@@ -1,0 +1,16 @@
+component: local_study_analytics
+source: https://github.com/annemriis/study-analytics-moodle-plugin
+maintainers:
+- github: annemriis
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-06-04T20:08:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

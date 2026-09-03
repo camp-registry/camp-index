@@ -1,0 +1,16 @@
+component: local_registerciae
+source: https://github.com/pablomillaquen/moodle_register_ciae
+maintainers:
+- github: pablomillaquen
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: MIT
+metrics:
+  updated: '2023-01-26T22:19:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

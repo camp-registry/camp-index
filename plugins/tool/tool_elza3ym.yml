@@ -1,0 +1,16 @@
+component: tool_elza3ym
+source: https://github.com/elza3ym/moodle-tool_elza3ym
+maintainers:
+- github: elza3ym
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-06-16T10:50:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

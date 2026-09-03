@@ -1,0 +1,19 @@
+component: tool_uploadcomments
+source: https://github.com/kbwebsolutions/moodle-tool_uploadcomments
+maintainers:
+- github: kbwebsolutions
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Upload Comments into MyPD using a csv File.
+dependencies:
+  local_commentbank: 2020031000
+metrics:
+  updated: '2022-03-30T13:22:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

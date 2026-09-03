@@ -1,0 +1,16 @@
+component: mod_website
+source: https://github.com/michaelvangelovski/moodle-mod_website
+maintainers:
+- github: michaelvangelovski
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-02-17T00:43:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

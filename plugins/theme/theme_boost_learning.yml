@@ -1,0 +1,17 @@
+component: theme_boost_learning
+source: https://github.com/relecand/moodle-theme_boost_learning
+maintainers:
+- github: relecand
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Boost Learning é um thema baseado no Boost.
+metrics:
+  updated: '2017-10-19T03:23:08Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

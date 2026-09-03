@@ -1,0 +1,16 @@
+component: tool_skin
+source: https://github.com/marcusgreen/moodle-tool_skin
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-08-27T08:04:40Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

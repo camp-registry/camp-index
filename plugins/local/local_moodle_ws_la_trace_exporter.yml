@@ -1,0 +1,16 @@
+component: local_moodle_ws_la_trace_exporter
+source: https://github.com/ugGit/moodle_ws_la_trace_exporter
+maintainers:
+- github: ugGit
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2022-05-30T17:47:36Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-09-03'

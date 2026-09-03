@@ -1,0 +1,16 @@
+component: tool_siteperf
+source: https://github.com/IOC/moodle-admin_siteperf
+maintainers:
+- github: IOC
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-10-18T07:50:17Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

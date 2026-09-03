@@ -1,0 +1,16 @@
+component: block_sign_language
+source: https://github.com/erasmusmoodlemkd/moodle_plugin_sign_language
+maintainers:
+- github: erasmusmoodlemkd
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: MIT
+metrics:
+  updated: '2023-01-12T05:25:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 20
+  archived: false
+  checked: '2026-09-03'

@@ -1,0 +1,17 @@
+component: mod_rezzumin
+source: https://github.com/yagorezende/rezzumin-moodle
+maintainers:
+- github: yagorezende
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: BSD-2-Clause
+summary: A Open-Source Moodle Plugin for text summarization
+metrics:
+  updated: '2022-08-25T18:21:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

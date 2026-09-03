@@ -1,0 +1,18 @@
+component: local_questiongenerator
+source: https://github.com/jdsales1011/moodle-question-generator
+maintainers:
+- github: jdsales1011
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for generating different type of questions integrated with
+  DaVinci AI model.
+metrics:
+  updated: '2023-05-18T12:45:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

@@ -1,0 +1,18 @@
+component: bbbext_sample
+source: https://github.com/call-learning/moodle-bbbext_sample
+maintainers:
+- github: call-learning
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_bigbluebuttonbn: 2023032201
+metrics:
+  updated: '2023-03-23T21:35:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-09-03'

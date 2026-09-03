@@ -1,0 +1,20 @@
+component: booktool_importepub
+source: https://github.com/HaakonME/moodle-booktool_importepub
+maintainers:
+- github: HaakonME
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: 'Lucimoo EPUB import/export add-ons for the Moodle book module. Lucimoo consists
+  of two add-ons for the Moodle book module: * The "importepub" add-on provides functionality
+  to import material from EPUB ebooks into book module books. Original developer:
+  Ordbrand'
+metrics:
+  updated: '2023-02-17T10:22:12Z'
+  stars: 2
+  forks: 23
+  open-issues: 3
+  archived: false
+  checked: '2026-09-03'

@@ -1,0 +1,18 @@
+component: gradeexport_profiles
+source: https://github.com/epplugins/moodle-gradeexport_profiles
+maintainers:
+- github: epplugins
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Grades export plugin for Moodle. Export grades in different formats (ods,
+  excel, csv) from the same page, and manage profiles to store selections and options.
+metrics:
+  updated: '2023-06-13T15:03:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

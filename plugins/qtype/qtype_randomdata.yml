@@ -1,0 +1,18 @@
+component: qtype_randomdata
+source: https://github.com/Gisellemfc/Randomdata-Question-Type-Moodle-Plugin
+maintainers:
+- github: Gisellemfc
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  qtype_numerical: 2020110300
+metrics:
+  updated: '2022-07-19T23:30:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

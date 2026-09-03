@@ -1,0 +1,19 @@
+component: qformat_giftmedia
+source: https://github.com/jmvedrine/moodle-qformat_giftmedia
+maintainers:
+- github: jmvedrine
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Moodle import format similar to gift but for a zip file with media files
+dependencies:
+  qformat_gift: 2012112900
+metrics:
+  updated: '2022-07-17T12:34:37Z'
+  stars: 4
+  forks: 10
+  open-issues: 1
+  archived: false
+  checked: '2026-09-03'

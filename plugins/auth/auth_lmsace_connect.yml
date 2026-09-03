@@ -1,0 +1,20 @@
+component: auth_lmsace_connect
+source: https://github.com/lmsace/lmsace-connect-moodleauth
+maintainers:
+- github: lmsace
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: LMSACE Connect SSO is an authentication type plugin for Moodle that allows
+  users to sign up and sign in to Moodle using a single sign-on (SSO) feature.
+dependencies:
+  local_lmsace_connect: 2023062400
+metrics:
+  updated: '2023-07-27T11:07:31Z'
+  stars: 1
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

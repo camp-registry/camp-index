@@ -1,0 +1,16 @@
+component: mod_folderexamtimer
+source: https://github.com/debonairtrain/moodle_folderExamtimer
+maintainers:
+- github: debonairtrain
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-01-28T12:17:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-09-03'

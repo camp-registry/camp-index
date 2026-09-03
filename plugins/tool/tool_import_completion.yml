@@ -1,0 +1,16 @@
+component: tool_import_completion
+source: https://github.com/open-lms-open-source/moodle-tool_import_completion
+maintainers:
+- github: open-lms-open-source
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-03-22T21:10:06Z'
+  stars: 2
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-09-03'

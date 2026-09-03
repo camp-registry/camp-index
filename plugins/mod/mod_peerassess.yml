@@ -1,0 +1,17 @@
+component: mod_peerassess
+source: https://github.com/ianczm/segp-moodle-peerassess
+maintainers:
+- github: ianczm
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Peer Assessment plugin for SEGP Group Coursework
+metrics:
+  updated: '2022-10-15T11:03:40Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

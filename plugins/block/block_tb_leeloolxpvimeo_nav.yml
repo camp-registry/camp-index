@@ -1,0 +1,19 @@
+component: block_tb_leeloolxpvimeo_nav
+source: https://github.com/anayleeloolxp/moodle-tb_leeloolxpvimeo_nav
+maintainers:
+- github: anayleeloolxp
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_leeloolxpcontentapi: 2021031907
+  mod_leeloolxpvimeo: 2015051101
+metrics:
+  updated: '2022-09-12T07:33:56Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

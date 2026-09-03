@@ -1,0 +1,21 @@
+component: tool_uploadexternalcontentresults
+source: https://github.com/lushonline/moodle-tool_uploadexternalcontentresults
+maintainers:
+- github: lushonline
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Provides a bulk upload tool to load completions results for Moodle Courses
+  that consist of a single External Content Activity, the information is loaded from
+  a Text Delimited File
+dependencies:
+  mod_externalcontent: 2023031400
+metrics:
+  updated: '2023-03-15T13:45:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

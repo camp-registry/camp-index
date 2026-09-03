@@ -1,0 +1,16 @@
+component: assignsubmission_limpaf
+source: https://github.com/40uf411/limpaf-moodle-plugin
+maintainers:
+- github: 40uf411
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2022-05-25T15:35:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-03'

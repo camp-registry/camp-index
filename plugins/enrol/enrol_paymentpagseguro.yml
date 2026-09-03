@@ -1,0 +1,17 @@
+component: enrol_paymentpagseguro
+source: https://github.com/dbonates/moodle-enrol-paymentpagseguro
+maintainers:
+- github: dbonates
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Plugin free do Pagseguro
+metrics:
+  updated: '2018-02-15T21:18:45Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

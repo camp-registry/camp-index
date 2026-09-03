@@ -1,0 +1,16 @@
+component: gradingform_frubric
+source: https://github.com/VeronicaVB/moodle-grade_frubric
+maintainers:
+- github: VeronicaVB
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2022-11-28T21:38:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

@@ -1,0 +1,16 @@
+component: tool_bulk_backupandrestore
+source: https://github.com/unitec-moodle/moodle_41_plugin_admin_tool_bulk_backupandrestore
+maintainers:
+- github: unitec-moodle
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2022-09-12T09:13:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

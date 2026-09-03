@@ -1,0 +1,18 @@
+component: report_userrecommendation
+source: https://github.com/Shihab-uddin/UserRecommendation---A-moodle-plugin
+maintainers:
+- github: Shihab-uddin
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: UserRecommendation - A Moodle plugin for receiving user recommendation while
+  logging in for the first time
+metrics:
+  updated: '2023-04-14T08:53:15Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

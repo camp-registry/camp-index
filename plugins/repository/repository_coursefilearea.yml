@@ -1,0 +1,17 @@
+component: repository_coursefilearea
+source: https://github.com/tim1mw/coursefilearea-moodle-repo
+maintainers:
+- github: tim1mw
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Moodle course files area repository
+metrics:
+  updated: '2022-11-06T10:16:13Z'
+  stars: 2
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-09-03'

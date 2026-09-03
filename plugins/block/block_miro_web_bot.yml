@@ -1,0 +1,17 @@
+component: block_miro_web_bot
+source: https://github.com/samuelcalegari/moodle-block_miro_web_bot
+maintainers:
+- github: samuelcalegari
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Launch chat session with Miro Bot on a web client
+metrics:
+  updated: '2022-07-05T14:08:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

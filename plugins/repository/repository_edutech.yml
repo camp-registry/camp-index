@@ -1,0 +1,17 @@
+component: repository_edutech
+source: https://github.com/EdutechUVPlugin/moodle-edutech_uv_plugin
+maintainers:
+- github: EdutechUVPlugin
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Config files for my GitHub profile.
+metrics:
+  updated: '2022-10-04T15:39:02Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-09-03'

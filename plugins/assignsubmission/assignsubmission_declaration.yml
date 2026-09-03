@@ -1,0 +1,16 @@
+component: assignsubmission_declaration
+source: https://github.com/VeronicaVB/moodle-assign_submission_declaration
+maintainers:
+- github: VeronicaVB
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-01-18T23:36:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

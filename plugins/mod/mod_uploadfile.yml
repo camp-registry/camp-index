@@ -1,0 +1,17 @@
+component: mod_uploadfile
+source: https://github.com/carloseduardovieira/moodle-uploadfile
+maintainers:
+- github: carloseduardovieira
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Estudo de criação de upload de arquivo em um plugin de atividade moodle
+metrics:
+  updated: '2023-08-05T08:43:23Z'
+  stars: 2
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-09-03'

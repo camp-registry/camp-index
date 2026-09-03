@@ -1,0 +1,16 @@
+component: qbank_bulkedit
+source: https://github.com/marcusgreen/moodle-question_bank_bulkedit
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-01-21T22:26:25Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

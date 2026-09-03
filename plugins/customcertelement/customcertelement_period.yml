@@ -1,0 +1,17 @@
+component: customcertelement_period
+source: https://github.com/davidherney/moodle-customcertelement_period
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Customcert element to display course periods.
+metrics:
+  updated: '2023-06-23T07:59:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

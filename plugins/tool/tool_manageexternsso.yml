@@ -1,0 +1,16 @@
+component: tool_manageexternsso
+source: https://github.com/learnweb/moodle-tool_manageexternsso
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-02-16T12:35:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-03'

@@ -1,0 +1,18 @@
+component: tool_leeloo_ar_sync
+source: https://github.com/anayleeloolxp/moodle-tool_leeloo_ar_sync
+maintainers:
+- github: anayleeloolxp
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  auth_leeloo_pay_sso: 2020022105
+metrics:
+  updated: '2022-09-12T07:16:53Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

@@ -1,0 +1,17 @@
+component: assignsubmission_timedonline
+source: https://github.com/kbwebsolutions/moodle_TimedOnlineAssessment
+maintainers:
+- github: kbwebsolutions
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Timed online assessment for Moodle assignment activity
+metrics:
+  updated: '2022-05-17T13:16:37Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'

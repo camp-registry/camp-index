@@ -1,0 +1,17 @@
+component: workshopeval_credit
+source: https://github.com/mudrd8mz/moodle-workshopeval_credit
+maintainers:
+- github: mudrd8mz
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+summary: Moodle Workshop grading evaluation method "Participation credit"
+metrics:
+  updated: '2023-02-07T14:48:13Z'
+  stars: 2
+  forks: 5
+  open-issues: 1
+  archived: false
+  checked: '2026-09-03'

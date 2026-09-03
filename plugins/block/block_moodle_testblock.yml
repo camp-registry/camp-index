@@ -1,0 +1,16 @@
+component: block_moodle_testblock
+source: https://github.com/anupranekar/moodle_testblock
+maintainers:
+- github: anupranekar
+tier: 0
+status: active
+discovered: '2026-09-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2022-06-17T14:58:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-03'
