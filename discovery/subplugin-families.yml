@@ -64,3 +64,27 @@ queue:
   name: Ad hoc queue backends
   established: "2026-08-05"
   issue: https://github.com/camp-registry/camp-tools/issues/16
+
+# local_oer families established 2026-09-04 (review: camp-index#278). The
+# parent declares all four in db/subplugins.json; TU Graz distributes a
+# member of each from its own repository.
+oeruploader:
+  parent: local_oer
+  name: OER uploaders
+  established: "2026-09-04"
+  issue: https://github.com/camp-registry/camp-index/issues/278
+oerclassification:
+  parent: local_oer
+  name: OER classifications
+  established: "2026-09-04"
+  issue: https://github.com/camp-registry/camp-index/issues/278
+oercourseinfo:
+  parent: local_oer
+  name: OER course info providers
+  established: "2026-09-04"
+  issue: https://github.com/camp-registry/camp-index/issues/278
+oermod:
+  parent: local_oer
+  name: OER module handlers
+  established: "2026-09-04"
+  issue: https://github.com/camp-registry/camp-index/issues/278
