@@ -10,11 +10,11 @@ license: GPL-3.0
 metrics:
   updated: '2025-05-06T18:44:30Z'
   stars: 7
-  forks: 20
-  open-issues: 21
+  forks: 21
+  open-issues: 22
   archived: false
   latest-release:
     tag: 2.8.2
     date: '2023-04-06T09:08:55Z'
-  checked: '2026-08-20'
+  checked: '2026-09-04'
 summary: Automatically assigns enrolled users on a course into groups

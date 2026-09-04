@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: '2019071601'
     date: '2019-07-16T15:08:05Z'
-  checked: '2026-08-20'
+  checked: '2026-09-04'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin

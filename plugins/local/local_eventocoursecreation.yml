@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: Moodle Plugin for creating moodle courses based on Evento modules.
 metrics:
-  updated: '2025-10-28T11:25:20Z'
+  updated: '2026-09-04T08:09:03Z'
   stars: 0
   forks: 2
   open-issues: 0
@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v2.1-2
     date: '2018-07-26T14:43:00Z'
-  checked: '2026-08-19'
+  checked: '2026-09-04'
 dependencies:
-  local_evento: 2018072600
+  local_evento: 2026090100

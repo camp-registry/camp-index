@@ -8,15 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-12T21:08:33Z'
+  updated: '2026-08-31T17:49:24Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
   latest-release:
-    tag: 1.1.0
-    date: '2026-08-10T20:31:18Z'
-  checked: '2026-08-20'
+    tag: 1.1.1
+    date: '2026-08-31T17:49:25Z'
+  checked: '2026-09-04'
 summary: The Forum AI plugin integrates artificial intelligence into Moodle’s forum
   module, transforming discussion spaces into more interactive, dynamic, and efficient
   environments.

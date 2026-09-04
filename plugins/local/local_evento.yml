@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: API Plugin for the access to the Evento-webservices
 metrics:
-  updated: '2025-08-21T09:05:20Z'
+  updated: '2026-09-02T14:18:07Z'
   stars: 0
   forks: 2
   open-issues: 0
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: v1.1
     date: '2017-07-24T15:43:28Z'
-  checked: '2026-08-19'
+  checked: '2026-09-04'

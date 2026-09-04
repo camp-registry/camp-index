@@ -18,6 +18,7 @@ metrics:
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-08-19'
+  checked: '2026-09-04'
+  ci: moodle-plugin-ci
 summary: Implements an editing ban during Quizzes with an Open & Close time of less
   than 4 hours long

@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 metrics:
-  updated: '2026-08-05T11:32:57Z'
+  updated: '2026-08-20T17:49:56Z'
   stars: 1
   forks: 2
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-08-20'
+  checked: '2026-09-04'
 summary: This directoty must be in /moodle/auth (Este directorio debe ir en /moodle/auth)

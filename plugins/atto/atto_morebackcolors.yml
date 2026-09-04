@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: '2021062100'
     date: '2021-06-22T13:45:08Z'
-  checked: '2026-08-20'
+  checked: '2026-09-04'
 summary: Modification of the backcolor plugin allowing the Moodle admin to define
   colors.

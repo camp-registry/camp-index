@@ -8,13 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-16T08:18:04Z'
-  stars: 7
+  updated: '2026-08-25T13:51:12Z'
+  stars: 8
   forks: 8
-  open-issues: 12
+  open-issues: 11
   archived: false
   latest-release:
     tag: '2020101300'
     date: '2020-10-13T05:54:12Z'
-  checked: '2026-08-20'
+  checked: '2026-09-04'
 summary: What is this?

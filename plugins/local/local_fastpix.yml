@@ -11,7 +11,7 @@ summary: FastPix video platform integration for Moodle — admin plugin providin
   settings, REST API client, signed playback token issuance, and inbound webhook handling.
   Foundation for the FastPix × Moodle plugin suite.
 metrics:
-  updated: '2026-06-16T12:52:48Z'
+  updated: '2026-08-25T06:17:25Z'
   stars: 1
   forks: 0
   open-issues: 0
@@ -19,4 +19,4 @@ metrics:
   latest-release:
     tag: v1.1.0
     date: '2026-06-16T12:52:48Z'
-  checked: '2026-08-19'
+  checked: '2026-09-04'
