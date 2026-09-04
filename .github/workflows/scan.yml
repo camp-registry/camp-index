@@ -51,27 +51,36 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.55"
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.56"
 
       # inputs are empty on schedule runs; the fallbacks keep the cron
       # behavior identical to the dispatch defaults. 45-day recheck on a
       # monthly cadence means known repos are re-evaluated roughly every
       # other run; brand-new repos are always evaluated.
+      #
+      # The sweep runs for hours and an installation token dies after one
+      # (every run before camp-tools#42 lost the back half of its sweep to
+      # 401s), so the scan gets the App credentials and mints its own
+      # tokens as it goes instead of the job-start token.
       - name: Scan GitHub
         env:
-          GITHUB_TOKEN: ${{ steps.app.outputs.token }}
+          CAMP_APP_ID: ${{ vars.AUTOMATION_APP_ID }}
+          CAMP_APP_PRIVATE_KEY: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+          CAMP_APP_INSTALLATION_ID: ${{ steps.app.outputs.installation-id }}
         run: >
           camp scan .
           --limit ${{ inputs.limit || '200' }}
           --recheck-days ${{ inputs.recheck-days || '45' }}
           ${{ inputs.dry-run == 'true' && '--dry-run' || '' }}
 
-      # GITHUB_TOKEN is also set here: the collision classifier probes the
-      # GitHub API when the listed holder of a component lives there.
+      # App credentials are also set here: the collision classifier probes
+      # the GitHub API when the listed holder of a component lives there.
       # GitLab search itself runs unauthenticated (rate-limit tolerant).
       - name: Scan GitLab
         env:
-          GITHUB_TOKEN: ${{ steps.app.outputs.token }}
+          CAMP_APP_ID: ${{ vars.AUTOMATION_APP_ID }}
+          CAMP_APP_PRIVATE_KEY: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+          CAMP_APP_INSTALLATION_ID: ${{ steps.app.outputs.installation-id }}
         run: >
           camp scan-gitlab .
           --recheck-days ${{ inputs.recheck-days || '45' }}
