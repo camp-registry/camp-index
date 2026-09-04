@@ -39,7 +39,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.56"
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.57"
 
       - name: Sweep enrolled organizations
         env:
@@ -71,7 +71,11 @@ jobs:
       # through, every comment after died — the Aug 24/25 failures).
       # Dedup on content: known conflicts (individual claims accepted at
       # enrollment) re-surface in every sweep report, and only a CHANGED
-      # set — a new conflict or a resolved one — warrants a post.
+      # set — a new conflict or a resolved one — warrants a post. The
+      # comparison is against the latest REPORT on the issue (the newest
+      # body or comment carrying NEEDS HUMAN lines), not the newest comment
+      # of any kind, so a human discussing the findings does not trigger a
+      # re-post of the same set.
       - name: Surface anything needing a human
         env:
           GH_TOKEN: ${{ github.token }}
@@ -85,7 +89,7 @@ jobs:
             --json number --jq '.[0].number // empty')
           if [ -n "$existing" ]; then
             latest=$(gh issue view "$existing" --json body,comments \
-              --jq 'if (.comments | length) > 0 then .comments[-1].body else .body end')
+              --jq '[.body] + [.comments[].body] | map(select(contains("NEEDS HUMAN"))) | last // ""')
             if [ "$(echo "$latest" | grep "NEEDS HUMAN" | sort)" = "$(echo "$findings" | sort)" ]; then
               echo "finding set unchanged since the last report; staying silent"; exit 0
             fi

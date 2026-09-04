@@ -294,7 +294,7 @@ jobs:
           COMPONENT: ${{ steps.diff.outputs.component }}
         run: |
           set -euo pipefail
-          pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.56"
+          pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.57"
           if camp check-collisions . --component "${COMPONENT}" | grep -q '^name-collision:'; then
             echo "not eligible: name-collision record on ${COMPONENT} (human review per NAMESPACE.md)"
             echo "clear=false" >> "$GITHUB_OUTPUT"
