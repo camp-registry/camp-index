@@ -1,15 +1,16 @@
 component: local_tepuy
 source: https://github.com/davidherney/moodle-local_tepuy
 source-repo-id: 411554882
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
-- github: bambuco
 - github: davidherney
+- github: bambuco
 tier: 1
-security-contact: https://github.com/davidherney/moodle-local_tepuy/security/advisories/new
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-07-11'
 releases: []

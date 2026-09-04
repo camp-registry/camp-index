@@ -1,15 +1,16 @@
 component: block_kamaleon
 source: https://github.com/bambuco/moodle-block_kamaleon
 source-repo-id: 745345964
+security-contact: https://github.com/bambuco/camp-claim/security/advisories/new
 maintainers:
 - github: bambuco
 - github: davidherney
 tier: 2
-security-contact: https://github.com/bambuco/moodle-block_kamaleon/security/advisories/new
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
+org-claim: bambuco
 status: active
 discovered: '2026-07-11'
 releases:

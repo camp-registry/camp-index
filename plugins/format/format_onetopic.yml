@@ -1,15 +1,16 @@
 component: format_onetopic
 source: https://github.com/davidherney/moodle-format_onetopic
 source-repo-id: 29445941
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
-- github: bambuco
 - github: davidherney
+- github: bambuco
 tier: 1
-security-contact: https://github.com/davidherney/moodle-format_onetopic/security/advisories/new
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-07-10'
 releases: []

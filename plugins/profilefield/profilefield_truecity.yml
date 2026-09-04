@@ -1,15 +1,16 @@
 component: profilefield_truecity
 source: https://github.com/davidherney/moodle-profilefield_truecity
 source-repo-id: 1104444137
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
-- github: bambuco
 - github: davidherney
+- github: bambuco
 tier: 1
-security-contact: https://github.com/davidherney/moodle-profilefield_truecity/security/advisories/new
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-07-11'
 releases: []

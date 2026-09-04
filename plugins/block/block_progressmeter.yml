@@ -1,15 +1,16 @@
 component: block_progressmeter
 source: https://github.com/davidherney/moodle-block_progressmeter
 source-repo-id: 672740406
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
-- github: bambuco
 - github: davidherney
+- github: bambuco
 tier: 1
-security-contact: https://github.com/davidherney/moodle-block_progressmeter/security/advisories/new
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-07-11'
 releases: []

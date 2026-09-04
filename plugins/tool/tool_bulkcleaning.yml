@@ -1,15 +1,16 @@
 component: tool_bulkcleaning
 source: https://github.com/davidherney/moodle-tool_bulkcleaning
 source-repo-id: 1184802095
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
-- github: bambuco
 - github: davidherney
+- github: bambuco
 tier: 1
-security-contact: https://github.com/davidherney/moodle-tool_bulkcleaning/security/advisories/new
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-07-11'
 releases: []
