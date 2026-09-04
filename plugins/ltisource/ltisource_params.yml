@@ -1,0 +1,17 @@
+component: ltisource_params
+source: https://github.com/catalyst/moodle-ltisource_params
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: This plugin extends LTI through custom request parameters.
+metrics:
+  updated: '2026-01-13T05:20:49Z'
+  stars: 3
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

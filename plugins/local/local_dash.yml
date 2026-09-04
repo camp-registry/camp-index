@@ -1,0 +1,18 @@
+component: local_dash
+source: https://github.com/raja-lmsace/moodle-local-dash
+maintainers:
+- github: raja-lmsace
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  block_dash: 2026032400
+metrics:
+  updated: '2026-07-28T12:25:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,16 @@
+component: paygw_payunity
+source: https://github.com/Wunderbyte-GmbH/moodle-payment_gw_payunity
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-04-01T12:59:03Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

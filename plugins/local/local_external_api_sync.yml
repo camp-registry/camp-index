@@ -1,0 +1,17 @@
+component: local_external_api_sync
+source: https://github.com/dcwestra/moodle_external_api_sync
+maintainers:
+- github: dcwestra
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Push or pull API data into Moodle for user account management.
+metrics:
+  updated: '2026-07-07T18:00:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

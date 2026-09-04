@@ -1,0 +1,19 @@
+component: qtype_saylorcode
+source: https://github.com/saylordotorg/moodle-qtype_saylorcode
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle question type for Saylor Code Studio coding exercises
+dependencies:
+  local_saylorcode: 2026081904
+metrics:
+  updated: '2026-08-21T18:23:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

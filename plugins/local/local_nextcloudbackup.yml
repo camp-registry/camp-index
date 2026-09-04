@@ -1,0 +1,18 @@
+component: local_nextcloudbackup
+source: https://github.com/Moodle-in-Niedersachsene-V/local_nextcloudbackup
+maintainers:
+- github: Moodle-in-Niedersachsene-V
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  repository_nextclouddirect: 2026080813
+metrics:
+  updated: '2026-08-14T10:36:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: gradereport_planstate
+source: https://github.com/davidherney/moodle-gradereport_planstate
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A custom grade report to show categories and completion info.
+metrics:
+  updated: '2024-07-03T18:00:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

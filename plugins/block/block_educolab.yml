@@ -1,0 +1,16 @@
+component: block_educolab
+source: https://github.com/educolabsre/educolab-moodle-plugin
+maintainers:
+- github: educolabsre
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-06T20:51:41Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

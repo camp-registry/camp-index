@@ -1,0 +1,17 @@
+component: local_materiel
+source: https://github.com/BUT-MMI-Beziers/moodle_materiel
+maintainers:
+- github: BUT-MMI-Beziers
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Plugin moodle simple pour la gestion du matériel MMI-Dev
+metrics:
+  updated: '2025-11-26T13:19:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

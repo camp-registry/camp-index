@@ -1,0 +1,16 @@
+component: local_blade_test
+source: https://github.com/raztam/Moodle-Blade-Test
+maintainers:
+- github: raztam
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-05-04T07:21:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,16 @@
+component: assignfeedback_doublemark
+source: https://github.com/ltu-solent/moodle-assign_feedback_doublemark
+maintainers:
+- github: ltu-solent
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-01-06T16:01:28Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

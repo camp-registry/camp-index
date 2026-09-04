@@ -1,0 +1,18 @@
+component: local_debugbar
+source: https://github.com/kzorluoglu/moodle-debugbar
+maintainers:
+- github: kzorluoglu
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Debugbar is a lightweight local developer toolbar that surfaces request data,
+  log entries, and profiling metrics while building Moodle features.
+metrics:
+  updated: '2025-11-19T12:02:34Z'
+  stars: 0
+  forks: 1
+  open-issues: 10
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: theme_obin
+source: https://github.com/jgouneaud/moodle-theme_obin
+maintainers:
+- github: jgouneaud
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_boost: 2023100900
+metrics:
+  updated: '2026-09-04T18:55:35Z'
+  stars: 1
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-09-04'

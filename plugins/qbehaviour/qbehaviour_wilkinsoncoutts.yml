@@ -1,0 +1,17 @@
+component: qbehaviour_wilkinsoncoutts
+source: https://github.com/lmshostingservices/moodle-qbehaviour_wilkinsoncoutts
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: qbehaviour_wilkinsoncoutts'
+metrics:
+  updated: '2026-08-29T10:53:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

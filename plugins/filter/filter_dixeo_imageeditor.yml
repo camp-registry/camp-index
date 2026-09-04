@@ -1,0 +1,18 @@
+component: filter_dixeo_imageeditor
+source: https://github.com/MakoEdunao/moodle-filter_dixeo_imageeditor
+maintainers:
+- github: MakoEdunao
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_dixeo: 2026070600
+metrics:
+  updated: '2026-07-27T19:46:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: block_ragflowtutor
+source: https://github.com/ragcon-ai/moodle-block_ragflowtutor
+maintainers:
+- github: ragcon-ai
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  aiprovider_ragflow: any
+metrics:
+  updated: '2026-08-28T10:05:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: local_beacon
+source: https://github.com/lmshostingservices/moodle-local_beacon
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Beacon — Reports & Analytics for Moodle. Grain-aware report builder with
+  scheduled email delivery and role-locked data scoping.
+metrics:
+  updated: '2026-09-01T17:34:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

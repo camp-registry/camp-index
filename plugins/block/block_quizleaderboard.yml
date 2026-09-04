@@ -1,0 +1,17 @@
+component: block_quizleaderboard
+source: https://github.com/mckeownp/moodle-block_quizleaderboard
+maintainers:
+- github: mckeownp
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle quiz leaderboard block plugin
+metrics:
+  updated: '2026-07-18T04:55:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

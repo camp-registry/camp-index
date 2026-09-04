@@ -1,0 +1,17 @@
+component: mod_questupload
+source: https://github.com/s681109/moodle-mod_questupload
+maintainers:
+- github: s681109
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Versão modificada do plugin Questionnaire para o LMS Moodle.
+metrics:
+  updated: '2026-08-12T20:20:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

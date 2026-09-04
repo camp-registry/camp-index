@@ -1,0 +1,16 @@
+component: local_dteachwhiteboard
+source: https://github.com/Shyqi/moodle-local_dteachwhiteboard
+maintainers:
+- github: Shyqi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-01T18:44:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

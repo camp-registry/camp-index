@@ -1,0 +1,18 @@
+component: availability_managed
+source: https://github.com/jlsimon/moodle-availability_managed
+maintainers:
+- github: jlsimon
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Centralised course content release management using Moodle's Availability
+  API
+metrics:
+  updated: '2026-08-19T17:14:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

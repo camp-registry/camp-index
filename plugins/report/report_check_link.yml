@@ -1,0 +1,18 @@
+component: report_check_link
+source: https://github.com/morriemajor/moodle-report_check_link
+maintainers:
+- github: morriemajor
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Report on links in a Moodle course and whether they are external or followable
+  by students.
+metrics:
+  updated: '2026-08-27T09:58:20Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

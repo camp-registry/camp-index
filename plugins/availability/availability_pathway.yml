@@ -1,0 +1,20 @@
+component: availability_pathway
+source: https://github.com/motorpilotltd/moodle-availability_pathway
+maintainers:
+- github: motorpilotltd
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle pathway availability plugin to be used in conjunction with mod_pathway
+  to open up a pathway within a course.
+dependencies:
+  mod_pathway: 2026081700
+metrics:
+  updated: '2026-09-03T12:47:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

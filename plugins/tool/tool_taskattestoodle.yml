@@ -1,0 +1,19 @@
+component: tool_taskattestoodle
+source: https://github.com/grp-attestoodle/moodle-tool_taskattestoodle
+maintainers:
+- github: grp-attestoodle
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Planning of Attestoodle certificates
+dependencies:
+  tool_attestoodle: 2019111301
+metrics:
+  updated: '2024-06-04T13:05:17Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

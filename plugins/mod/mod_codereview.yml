@@ -1,0 +1,19 @@
+component: mod_codereview
+source: https://github.com/jeanlucio/moodle-mod_codereview
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle activity that assesses programming work hosted on GitHub: reads GitHub
+  Actions check results, adds an optional AI review, verifies authorship, and lets
+  the teacher approve the final grade.'
+metrics:
+  updated: '2026-09-02T18:22:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: local_la
+source: https://github.com/len-arys/moodle-local_la
+maintainers:
+- github: len-arys
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Lenarys Analytics — reporting, learning analytics, AI-assisted report generation,
+  and learning time tracking for Moodle.
+metrics:
+  updated: '2026-08-12T19:13:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

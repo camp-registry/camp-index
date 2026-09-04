@@ -1,0 +1,18 @@
+component: filter_sqlreports
+source: https://github.com/marcusgreen/moodle-filter_sqlreports
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  report_sql: any
+metrics:
+  updated: '2026-09-02T15:18:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

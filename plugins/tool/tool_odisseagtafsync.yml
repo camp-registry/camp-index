@@ -1,0 +1,17 @@
+component: tool_odisseagtafsync
+source: https://github.com/projectestac/moodle-admin_odisseagtafsync
+maintainers:
+- github: projectestac
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle Odissea GTAF Sync Admin Tool
+metrics:
+  updated: '2024-12-16T13:31:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

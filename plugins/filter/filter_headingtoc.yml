@@ -1,0 +1,18 @@
+component: filter_headingtoc
+source: https://github.com/rosseys/moodle-filter_headingtoc
+maintainers:
+- github: rosseys
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'A table of contents built from the headings in your content, with anchors
+  that survive Moodle''s purifier (Moodle plugin: filter_headingtoc) — by Rosseys'
+metrics:
+  updated: '2026-08-04T03:47:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

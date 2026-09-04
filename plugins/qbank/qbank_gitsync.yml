@@ -1,0 +1,20 @@
+component: qbank_gitsync
+source: https://github.com/maths/moodle-qbank_gitsync
+maintainers:
+- github: maths
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Synchronize questions in a Moodle question bank with files in an external
+  git repository
+dependencies:
+  qbank_importasversion: 2025121600
+metrics:
+  updated: '2026-09-02T12:29:56Z'
+  stars: 8
+  forks: 7
+  open-issues: 4
+  archived: false
+  checked: '2026-09-04'

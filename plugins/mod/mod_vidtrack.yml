@@ -1,0 +1,16 @@
+component: mod_vidtrack
+source: https://github.com/pankajchejara23/moodle-activity_vidtrack
+maintainers:
+- github: pankajchejara23
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-04-26T17:37:56Z'
+  stars: 5
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

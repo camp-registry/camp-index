@@ -1,0 +1,17 @@
+component: block_studentactivity
+source: https://github.com/lmshostingservices/moodle-block_studentactivity
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: block_studentactivity'
+metrics:
+  updated: '2026-08-13T01:49:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

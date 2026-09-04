@@ -1,0 +1,18 @@
+component: bbbext_b3dummy_dependent
+source: https://github.com/jfederico/moodle-bbbext_b3dummy_dependent
+maintainers:
+- github: jfederico
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Public dummy BigBlueButton extension that depends on bbbext_b3dummy_core,
+  used to test extension dependency lifecycle handling.
+metrics:
+  updated: '2026-07-22T21:03:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

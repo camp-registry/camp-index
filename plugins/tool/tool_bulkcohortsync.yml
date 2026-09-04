@@ -1,0 +1,20 @@
+component: tool_bulkcohortsync
+source: https://github.com/oajlan/Moodle-tool_bulkcohortsync
+maintainers:
+- github: oajlan
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: إضافة رسمية مخصصة لنظام إدارة التعلم Moodle (من نوع admin/tool). تهدف الأداة
+  إلى حل مشكلة الربط اليدوي المتكرر بين الزمر (الأفواج/Cohorts) والمقررات الدراسية
+  (المواد/Courses).  تتيح هذه الأداة لمسؤولي الموقع (Admins) تحديد عدة زمر وعدة مقررات
+  دراسية في وقت واحد، وربطهم بنقرة زر واحدة دون الحاجة للدخ
+metrics:
+  updated: '2026-08-11T05:37:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

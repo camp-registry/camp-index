@@ -1,0 +1,21 @@
+component: local_forumia
+source: https://github.com/jmolpea/moodle-local_forumia
+maintainers:
+- github: jmolpea
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Forumia - AI Forum Assistant for Moodle. An AI assistant that replies to
+  student posts in Moodle forums, with per-forum prompts, rate limits, anonymised
+  digests and optional grading. Supports OpenAI, Anthropic, Gemini and DeepSeek.
+dependencies:
+  mod_forum: 2024100700
+metrics:
+  updated: '2026-08-28T08:48:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

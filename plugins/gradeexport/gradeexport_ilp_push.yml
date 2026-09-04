@@ -1,0 +1,18 @@
+component: gradeexport_ilp_push
+source: https://github.com/ericmerrill/moodle-gradeexport_ilp_push
+maintainers:
+- github: ericmerrill
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle grade export plugin for the exporting for grades from Moodle to
+  Banner using the Ellucian Intelligent Learning Platform (ILP)
+metrics:
+  updated: '2025-11-06T19:17:46Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

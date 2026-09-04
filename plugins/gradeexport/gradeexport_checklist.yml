@@ -1,0 +1,19 @@
+component: gradeexport_checklist
+source: https://github.com/davosmith/moodle-grade_checklist
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Excel export for checklist activities in Moodle
+dependencies:
+  mod_checklist: 2010041800
+metrics:
+  updated: '2026-09-03T19:10:16Z'
+  stars: 4
+  forks: 9
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

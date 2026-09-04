@@ -1,0 +1,16 @@
+component: assignfeedback_plaincomment
+source: https://github.com/cgs-ets/moodle-assign_feedback_plaincomment
+maintainers:
+- github: cgs-ets
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-12-10T00:35:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

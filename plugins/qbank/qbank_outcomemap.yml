@@ -1,0 +1,18 @@
+component: qbank_outcomemap
+source: https://github.com/dta121/moodle-qbank_outcomemap
+maintainers:
+- github: dta121
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_outcomemap: 2026081700
+metrics:
+  updated: '2026-08-18T13:43:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

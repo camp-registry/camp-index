@@ -1,0 +1,16 @@
+component: h5plib_vh5prime
+source: https://github.com/EduardoKrausME/moodle-h5plib_vh5prime
+maintainers:
+- github: EduardoKrausME
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-16T22:28:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,16 @@
+component: block_exa2fa
+source: https://github.com/gtn/moodle-block_exa2fa
+maintainers:
+- github: gtn
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: Apache-2.0
+metrics:
+  updated: '2024-07-04T14:04:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

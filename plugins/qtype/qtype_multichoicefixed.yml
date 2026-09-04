@@ -1,0 +1,20 @@
+component: qtype_multichoicefixed
+source: https://github.com/DynamicCourseware/moodle-qtype_multichoicefixed
+maintainers:
+- github: DynamicCourseware
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle question type based on Multiple choice, with support for keeping selected
+  choices in fixed positions when answers are shuffled.
+dependencies:
+  qtype_multichoice: 2026042000
+metrics:
+  updated: '2026-08-27T03:37:23Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

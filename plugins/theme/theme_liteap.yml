@@ -1,0 +1,22 @@
+component: theme_liteap
+source: https://github.com/absfupp/Liteap-moodle
+maintainers:
+- github: absfupp
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: LiteAp is a design-centric Moodle theme for schools, based on the MySchool
+  Bootstrap design. It offers a responsive, customizable layout with easy-to-use settings
+  for branding, accessibility, and navigation, making it perfect for enhancing Moodle
+  platforms and promoting engaging online learning expe
+dependencies:
+  theme_boost: 2025041400
+metrics:
+  updated: '2025-12-11T15:53:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

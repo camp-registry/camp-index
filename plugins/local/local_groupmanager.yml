@@ -1,0 +1,18 @@
+component: local_groupmanager
+source: https://github.com/lmshostingservices/moodle-local_groupmanager
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Groups Management for Moodle — bulk enrolment, smart group rules, and cross-course
+  group sync
+metrics:
+  updated: '2026-08-13T01:52:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

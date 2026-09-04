@@ -1,0 +1,18 @@
+component: local_dripenrol
+source: https://github.com/RegardV/moodle-local_dripenrol
+maintainers:
+- github: RegardV
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: auto-enrol students into the next course when they
+  complete the current one'
+metrics:
+  updated: '2026-08-27T17:43:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

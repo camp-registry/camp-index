@@ -1,0 +1,18 @@
+component: local_remotesupport
+source: https://github.com/jlsimon/moodle-local_remotesupport
+maintainers:
+- github: jlsimon
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for remote student assistance via co-browsing — no remote-desktop
+  tool, no access to other tabs, passwords, or browser control.
+metrics:
+  updated: '2026-08-17T21:03:57Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,16 @@
+component: datapreset_conceptmap
+source: https://github.com/fdagner/conceptmap_moodle-database-preset
+maintainers:
+- github: fdagner
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-11-04T11:10:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

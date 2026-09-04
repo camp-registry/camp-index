@@ -1,0 +1,16 @@
+component: mod_certmanager
+source: https://github.com/VinitMepani2712/moodle-mod_certmanager
+maintainers:
+- github: VinitMepani2712
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-07-29T23:05:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 10
+  archived: false
+  checked: '2026-09-04'

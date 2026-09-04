@@ -1,0 +1,18 @@
+component: format_uptcpath
+source: https://github.com/Wilzard95/moodle-format-uptcpath
+maintainers:
+- github: Wilzard95
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Responsive learning-path course format for Moodle 4.5 with section cards
+  and completion progress
+metrics:
+  updated: '2026-08-11T22:14:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

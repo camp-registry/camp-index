@@ -1,0 +1,18 @@
+component: local_partnerapi
+source: https://github.com/saylordotorg/moodle-local_partnerapi
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin exposing a cohort-scoped read-only API for the Saylor
+  Partner Dashboard sync
+metrics:
+  updated: '2026-07-27T21:46:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

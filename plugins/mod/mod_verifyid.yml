@@ -1,0 +1,17 @@
+component: mod_verifyid
+source: https://github.com/lmshostingservices/moodle-mod_verifyid
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Identity verification activity with document capture and AI validation
+metrics:
+  updated: '2026-08-15T03:23:47Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

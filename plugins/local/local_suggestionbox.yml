@@ -1,0 +1,17 @@
+component: local_suggestionbox
+source: https://github.com/https-ksperez/suggestionbox_for_moodle
+maintainers:
+- github: https-ksperez
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Autor: Perez Kevin'
+metrics:
+  updated: '2025-06-19T23:19:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

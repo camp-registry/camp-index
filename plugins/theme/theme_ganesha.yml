@@ -1,0 +1,22 @@
+component: theme_ganesha
+source: https://github.com/Digital-Tricksters-Software-Solutions/moodle-theme_ganesha
+maintainers:
+- github: Digital-Tricksters-Software-Solutions
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Ganesha** is an ultra-cute, playful, and colorful theme tailored specifically
+  for **K-12 learners** and classrooms. Ganesha swaps standard flat corporate dashboards
+  for a tactile, hand-drawn 3D cartoon style, bouncy animations, simplified progress
+  tracks, and interactive learning companions.
+dependencies:
+  theme_boost: 2021051700
+metrics:
+  updated: '2026-09-03T06:21:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 8
+  archived: false
+  checked: '2026-09-04'

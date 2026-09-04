@@ -1,0 +1,19 @@
+component: theme_eaduems
+source: https://github.com/s681109/moodle-theme_eaduems
+maintainers:
+- github: s681109
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Tema para site moodle v5.1
+dependencies:
+  theme_boost: 2025100600
+metrics:
+  updated: '2026-08-17T19:26:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

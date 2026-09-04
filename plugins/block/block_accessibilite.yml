@@ -1,0 +1,17 @@
+component: block_accessibilite
+source: https://github.com/pch312/moodle-bloc-accessibilite
+maintainers:
+- github: pch312
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Plugin Moodle au format Bloc facilitant l'accès aux dyslexiques et mal-voyants
+metrics:
+  updated: '2024-07-23T21:45:58Z'
+  stars: 2
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-09-04'

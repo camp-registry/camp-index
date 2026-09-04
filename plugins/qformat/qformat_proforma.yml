@@ -1,0 +1,19 @@
+component: qformat_proforma
+source: https://github.com/elearning-ostfalia/moodle-qformat_proforma
+maintainers:
+- github: elearning-ostfalia
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Import ProFormA questions in moodle (required for moodle-qtype_proforma)
+dependencies:
+  qtype_proforma: 2023060200
+metrics:
+  updated: '2026-05-26T04:34:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

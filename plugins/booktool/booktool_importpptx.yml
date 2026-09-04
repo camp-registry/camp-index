@@ -1,0 +1,19 @@
+component: booktool_importpptx
+source: https://github.com/verzog/moodle-booktool_importpptx
+maintainers:
+- github: verzog
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: moodle-booktool_importpptx
+dependencies:
+  mod_book: any
+metrics:
+  updated: '2026-09-03T23:38:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

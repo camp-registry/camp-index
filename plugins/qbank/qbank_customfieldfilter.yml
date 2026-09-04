@@ -1,0 +1,18 @@
+component: qbank_customfieldfilter
+source: https://github.com/tkorner/moodle-qbank-customfieldfilter
+maintainers:
+- github: tkorner
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  qbank_customfields: any
+metrics:
+  updated: '2026-07-13T08:39:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

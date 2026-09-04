@@ -1,0 +1,17 @@
+component: calendartype_thaibuddhist
+source: https://github.com/ponlawat-w/moodle-calendartype_thaibuddhist
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle calendar type for Thai Buddhist year
+metrics:
+  updated: '2023-11-15T02:50:45Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

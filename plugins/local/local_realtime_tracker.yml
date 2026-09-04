@@ -1,0 +1,16 @@
+component: local_realtime_tracker
+source: https://github.com/Carlos-Zevallos/moodle-local_realtime_tracker
+maintainers:
+- github: Carlos-Zevallos
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-01T20:19:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 15
+  archived: false
+  checked: '2026-09-04'

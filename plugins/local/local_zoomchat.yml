@@ -1,0 +1,21 @@
+component: local_zoomchat
+source: https://github.com/jrchamp/moodle-local_zoomchat
+maintainers:
+- github: jrchamp
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: local_zoomchat is a Zoom Chat plugin for Moodle leveraging tool_realtime
+  communication
+dependencies:
+  tool_zoomapi: 2026060300
+  tool_realtime: 2026030601
+metrics:
+  updated: '2026-08-07T08:12:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

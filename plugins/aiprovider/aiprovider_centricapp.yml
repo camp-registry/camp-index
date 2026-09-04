@@ -1,0 +1,16 @@
+component: aiprovider_centricapp
+source: https://github.com/mattan-d/moodle-aiprovider_centricapp
+maintainers:
+- github: mattan-d
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-07-07T23:58:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

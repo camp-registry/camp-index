@@ -1,0 +1,18 @@
+component: mod_pathway
+source: https://github.com/motorpilotltd/moodle-mod_pathway
+maintainers:
+- github: motorpilotltd
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle pathway activity whereby users can choose an option and it opens
+  up a pathway within a course.
+metrics:
+  updated: '2026-09-03T12:47:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

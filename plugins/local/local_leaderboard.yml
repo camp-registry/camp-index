@@ -1,0 +1,16 @@
+component: local_leaderboard
+source: https://github.com/rudykartson/moodle-local_leaderboard
+maintainers:
+- github: rudykartson
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-01T12:02:43Z'
+  stars: 0
+  forks: 0
+  open-issues: 15
+  archived: false
+  checked: '2026-09-04'

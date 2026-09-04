@@ -1,0 +1,17 @@
+component: quizaccess_focusmonitor
+source: https://github.com/abrahan-pinedo4625/moodle-quizaccess-focusmonitor
+maintainers:
+- github: abrahan-pinedo4625
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: AGPL-3.0
+summary: Plugin Moodle quizaccess para monitoreo de foco en cuestionarios presenciales.
+metrics:
+  updated: '2026-07-16T03:42:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

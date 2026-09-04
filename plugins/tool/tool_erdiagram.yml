@@ -1,0 +1,17 @@
+component: tool_erdiagram
+source: https://github.com/catalyst/moodle-tool_erdiagram
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Auto generate Entity Relationship (ER) diagrams for a Moodle plugin
+metrics:
+  updated: '2024-03-25T22:26:54Z'
+  stars: 1
+  forks: 2
+  open-issues: 6
+  archived: false
+  checked: '2026-09-04'

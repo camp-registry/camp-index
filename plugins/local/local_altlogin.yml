@@ -1,0 +1,19 @@
+component: local_altlogin
+source: https://github.com/mfgroupllc/moodle-altlogin
+maintainers:
+- github: mfgroupllc
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle local plugin that sends people directly to a chosen OAuth 2 provider
+  or shows a provider chooser, while keeping a saml2-style bypass available for reaching
+  Moodle's standard login form.
+metrics:
+  updated: '2026-09-02T18:03:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

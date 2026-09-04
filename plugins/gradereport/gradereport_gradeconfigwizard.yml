@@ -1,0 +1,17 @@
+component: gradereport_gradeconfigwizard
+source: https://github.com/UNIMOODLE/moodle-gradereport_gradeconfigwizard
+maintainers:
+- github: UNIMOODLE
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Unimoodle L8 P11
+metrics:
+  updated: '2025-01-31T14:04:01Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

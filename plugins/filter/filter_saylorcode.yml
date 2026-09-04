@@ -1,0 +1,21 @@
+component: filter_saylorcode
+source: https://github.com/saylordotorg/moodle-filter_saylorcode
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Saylor Code Studio embed filter: resolves exercise reference tokens in Moodle
+  content. Moodle 4.5.'
+dependencies:
+  local_saylorcode: 2026081801
+  mod_saylorcode: 2026081801
+metrics:
+  updated: '2026-08-25T17:23:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

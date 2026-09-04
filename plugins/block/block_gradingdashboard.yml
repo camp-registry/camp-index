@@ -1,0 +1,20 @@
+component: block_gradingdashboard
+source: https://github.com/Redcryp7o/moodle-block_gradingdashboard
+maintainers:
+- github: Redcryp7o
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Grading Dashboard is a Moodle block that gives teachers and administrators
+  a clear, hierarchical view of assignments awaiting grading. It organizes pending
+  work by course, section, assignment, and student, highlights grading age with status
+  indicators, and provides direct access to grading. Admins s
+metrics:
+  updated: '2026-08-10T01:57:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-09-04'

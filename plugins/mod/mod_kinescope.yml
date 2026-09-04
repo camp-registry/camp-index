@@ -1,0 +1,19 @@
+component: mod_kinescope
+source: https://github.com/tonimareta/moodle-mod_kinescope
+maintainers:
+- github: tonimareta
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle course activity module designed for seamless integration with Kinescope.io,
+  a high-performance video hosting platform for online education, business, and content
+  creators.
+metrics:
+  updated: '2026-08-11T09:17:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

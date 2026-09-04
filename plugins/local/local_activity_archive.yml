@@ -1,0 +1,17 @@
+component: local_activity_archive
+source: https://github.com/x-name15/moodle-activity-archive-plugin
+maintainers:
+- github: x-name15
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A plugin for Moodle that archives all course_modules
+metrics:
+  updated: '2025-11-21T10:25:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

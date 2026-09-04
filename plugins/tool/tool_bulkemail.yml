@@ -1,0 +1,17 @@
+component: tool_bulkemail
+source: https://github.com/darbycostello/moodle-tool_bulkemail
+maintainers:
+- github: darbycostello
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Bulk user email admin tool for Moodle 3.9+
+metrics:
+  updated: '2025-02-20T15:07:51Z'
+  stars: 1
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

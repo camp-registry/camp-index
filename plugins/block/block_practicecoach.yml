@@ -1,0 +1,19 @@
+component: block_practicecoach
+source: https://github.com/Moodle-Apps/moodle-block_practicecoach
+maintainers:
+- github: Moodle-Apps
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Practice Coach block for Moodle 4.5+: self-managed practice quizzes, per-category
+  performance advisor and anonymised course ranking in one block (three selectable
+  widgets).'
+metrics:
+  updated: '2026-08-13T15:01:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,19 @@
+component: contenttype_image
+source: https://github.com/sarjona/moodle-contentbanktype_image
+maintainers:
+- github: sarjona
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle Content Bank plugin that allows learning designers and teachers
+  to easily upload, manage, and reuse images across their courses. Created as an AI-assisted
+  demo for MoodleMoot Euskadi 2026.
+metrics:
+  updated: '2026-05-18T17:53:04Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

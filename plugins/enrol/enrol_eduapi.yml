@@ -1,0 +1,19 @@
+component: enrol_eduapi
+source: https://github.com/3iPunt/moodle-enrol_eduapi
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Sync organizations, courses, users and enrolments from any 1EdTech Edu-API
+  v1p0 provider into Moodle. Configurable course level, role and enrollment-status
+  mappings, user matching with optional account creation, and an on-demand sync webhook.
+metrics:
+  updated: '2026-09-01T07:10:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

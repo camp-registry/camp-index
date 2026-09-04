@@ -1,0 +1,17 @@
+component: dataformat_sqlite
+source: https://github.com/moodlicious/moodle-dataformat_sqlite
+maintainers:
+- github: moodlicious
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle data format plugin that exports data as a SQLite database dump.
+metrics:
+  updated: '2026-06-14T20:41:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

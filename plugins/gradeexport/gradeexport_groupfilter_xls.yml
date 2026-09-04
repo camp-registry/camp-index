@@ -1,0 +1,17 @@
+component: gradeexport_groupfilter_xls
+source: https://github.com/UNIMOODLE/moodle-gradeexport_groupfilter_xls
+maintainers:
+- github: UNIMOODLE
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Unimoodle L8 P11 Groupfilter xls format
+metrics:
+  updated: '2024-11-14T11:32:22Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

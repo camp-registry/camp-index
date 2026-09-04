@@ -1,0 +1,18 @@
+component: qformat_canvas
+source: https://github.com/jmvedrine/moodle-qformat_canvas
+maintainers:
+- github: jmvedrine
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle question import format to import questions saved as XML files from
+  the Canvas LMS
+metrics:
+  updated: '2024-06-20T06:08:33Z'
+  stars: 5
+  forks: 10
+  open-issues: 11
+  archived: false
+  checked: '2026-09-04'

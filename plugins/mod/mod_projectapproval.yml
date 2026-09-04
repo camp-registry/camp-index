@@ -1,0 +1,17 @@
+component: mod_projectapproval
+source: https://github.com/DHBW-VS/moodle-project-approval
+maintainers:
+- github: DHBW-VS
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle module for project and bachelor thesis registration and approval.
+metrics:
+  updated: '2023-08-28T15:20:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

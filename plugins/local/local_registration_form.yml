@@ -1,0 +1,16 @@
+component: local_registration_form
+source: https://github.com/dimsio/Moodle_Registration_Form
+maintainers:
+- github: dimsio
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-08-07T09:51:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

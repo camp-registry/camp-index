@@ -1,0 +1,18 @@
+component: tiny_courselink
+source: https://github.com/rosseys/moodle-tiny_courselink
+maintainers:
+- github: rosseys
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Course activity link picker for the TinyMCE editor (Moodle plugin: tiny_courselink)
+  — by Rosseys'
+metrics:
+  updated: '2026-08-04T03:47:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

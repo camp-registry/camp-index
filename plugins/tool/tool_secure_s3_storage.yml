@@ -1,0 +1,18 @@
+component: tool_secure_s3_storage
+source: https://github.com/ozekihiroshi/secure-s3-storage-for-moodle
+maintainers:
+- github: ozekihiroshi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Securely transfer Moodle course backup archives to Amazon S3 without storing
+  long-lived AWS access keys in Moodle.
+metrics:
+  updated: '2026-08-20T07:09:47Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

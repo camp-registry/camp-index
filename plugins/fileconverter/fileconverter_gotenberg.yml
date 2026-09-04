@@ -1,0 +1,18 @@
+component: fileconverter_gotenberg
+source: https://github.com/premar/moodle-fileconverter_gotenberg
+maintainers:
+- github: premar
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle document converter plugin that converts files to PDF via a Gotenberg
+  (LibreOffice) container.
+metrics:
+  updated: '2026-08-29T12:47:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

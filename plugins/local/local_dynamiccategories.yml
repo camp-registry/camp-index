@@ -1,0 +1,16 @@
+component: local_dynamiccategories
+source: https://github.com/Wunderbyte-GmbH/moodle-local_dynamiccategories
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-07-23T06:49:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

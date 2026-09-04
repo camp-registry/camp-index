@@ -1,0 +1,17 @@
+component: aiprovider_dummyai
+source: https://github.com/moodlemobile/moodle-aiprovider_dummyai
+maintainers:
+- github: moodlemobile
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Dummy AI provider
+metrics:
+  updated: '2025-03-12T10:57:39Z'
+  stars: 1
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,16 @@
+component: mod_icecreamgame
+source: https://github.com/SE-Stuttgart/kib3_moodleplugin_icecreamgame
+maintainers:
+- github: SE-Stuttgart
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-09-30T12:08:38Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

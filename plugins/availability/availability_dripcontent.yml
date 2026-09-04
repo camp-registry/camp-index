@@ -1,0 +1,18 @@
+component: availability_dripcontent
+source: https://github.com/hyukudan/moodle-dripcontent
+maintainers:
+- github: hyukudan
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle availability condition for drip content: time in course, active subscription
+  time, or date range'
+metrics:
+  updated: '2026-07-10T05:28:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

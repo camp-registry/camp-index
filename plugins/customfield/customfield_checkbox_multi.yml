@@ -1,0 +1,16 @@
+component: customfield_checkbox_multi
+source: https://github.com/lernlink/moodle-customfield_checkbox_multi
+maintainers:
+- github: lernlink
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-10T13:30:27Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

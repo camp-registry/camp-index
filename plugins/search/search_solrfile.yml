@@ -1,0 +1,20 @@
+component: search_solrfile
+source: https://github.com/Daividdi/moodle-search_solrfile
+maintainers:
+- github: Daividdi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle global search: shows the passage from inside attached files in search
+  results, instead of the activity description'
+dependencies:
+  search_solr: any
+metrics:
+  updated: '2026-08-17T02:58:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

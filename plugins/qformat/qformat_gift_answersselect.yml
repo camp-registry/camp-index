@@ -1,0 +1,19 @@
+component: qformat_gift_answersselect
+source: https://github.com/rezeau/moodle-qformat_gift_answersselect
+maintainers:
+- github: rezeau
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Imports questions in gift format to answersselect question type
+dependencies:
+  qtype_answersselect: 2021082200
+metrics:
+  updated: '2025-04-20T12:57:03Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

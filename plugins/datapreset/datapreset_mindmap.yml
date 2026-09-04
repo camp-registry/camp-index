@@ -1,0 +1,17 @@
+component: datapreset_mindmap
+source: https://github.com/fdagner/mindmap_moodle-database-preset-
+maintainers:
+- github: fdagner
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle mod_data template for mind mapping
+metrics:
+  updated: '2026-06-21T17:45:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

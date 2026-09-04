@@ -1,0 +1,20 @@
+component: tiny_saylorcode
+source: https://github.com/saylordotorg/moodle-tiny_saylorcode
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Saylor Code Studio TinyMCE plugin: inserts validated exercise reference
+  tokens. Moodle 4.5.'
+dependencies:
+  local_saylorcode: 2026081800
+metrics:
+  updated: '2026-08-18T21:56:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,16 @@
+component: local_coursesoverview
+source: https://github.com/BSD-Dresden/moodle-local_coursesoverview
+maintainers:
+- github: BSD-Dresden
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-25T06:31:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

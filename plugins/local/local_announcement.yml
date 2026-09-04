@@ -1,0 +1,18 @@
+component: local_announcement
+source: https://github.com/Jiexi-Ash/moodle-local_announcement
+maintainers:
+- github: Jiexi-Ash
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: rich site-home/dashboard announcements (text, image+text,
+  banner) with severity styling, scheduling, audience targeting, and an optional carousel.'
+metrics:
+  updated: '2026-08-20T21:24:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

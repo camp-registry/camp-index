@@ -1,0 +1,16 @@
+component: filter_dimanalysis
+source: https://github.com/misko92/moodle-filter_dimanalysis
+maintainers:
+- github: misko92
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-01T00:37:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,19 @@
+component: aiprovider_openai_tts
+source: https://github.com/call-learning/moodle-aiprovider_openai_tts
+maintainers:
+- github: call-learning
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  aiprovider_openai: any
+  local_aixtension: any
+metrics:
+  updated: '2025-08-21T14:44:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-09-04'

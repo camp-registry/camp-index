@@ -1,0 +1,17 @@
+component: tool_cf_turnstile
+source: https://github.com/eMentorAdm/moodle-tool_cf_turnstile
+maintainers:
+- github: eMentorAdm
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Cloudflare Turnstile Moodle Plugin
+metrics:
+  updated: '2024-09-30T14:19:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

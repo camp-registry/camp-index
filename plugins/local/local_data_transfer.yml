@@ -1,0 +1,16 @@
+component: local_data_transfer
+source: https://github.com/franjoro/TFG-Moodle-Data-Transfer
+maintainers:
+- github: franjoro
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-07-08T13:53:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

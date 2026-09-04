@@ -1,0 +1,19 @@
+component: qbank_bulk_ai_edit
+source: https://github.com/wilenius/moodle-qbank_bulk_ai_edit
+maintainers:
+- github: wilenius
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Bulk edit Quiz questions with the assistance of a LLM
+dependencies:
+  local_ai_manager: 2025071600
+metrics:
+  updated: '2025-09-16T18:09:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

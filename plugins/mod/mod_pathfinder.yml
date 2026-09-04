@@ -1,0 +1,17 @@
+component: mod_pathfinder
+source: https://github.com/joshjenney/moodle-mod_pathfinder
+maintainers:
+- github: joshjenney
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Customize course listing for Moodle per user or program of study
+metrics:
+  updated: '2026-08-28T20:53:31Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

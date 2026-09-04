@@ -1,0 +1,16 @@
+component: block_curriculummap
+source: https://github.com/yasada0819/moodle-block_curriculummap
+maintainers:
+- github: yasada0819
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-19T08:11:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

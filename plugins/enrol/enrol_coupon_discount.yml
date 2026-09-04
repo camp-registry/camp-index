@@ -1,0 +1,18 @@
+component: enrol_coupon_discount
+source: https://github.com/LibreriadeSatoshi/moodle_coupon_discount
+maintainers:
+- github: LibreriadeSatoshi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: MIT
+summary: Bitcoin payment gateway and coupon enrollment system for Moodle, powered
+  by BTCPay Server.
+metrics:
+  updated: '2026-05-22T14:32:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

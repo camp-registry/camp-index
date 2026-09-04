@@ -1,0 +1,21 @@
+component: qformat_answersselect
+source: https://github.com/rezeau/moodle-qformat_answersselect
+maintainers:
+- github: rezeau
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: This is a Moodle question import format. It takes a Moodle XML file and imports
+  all regular multichoice questions as 'Random select answers' questions (answersselect)
+dependencies:
+  qformat_xml: 2016120500
+  qtype_answersselect: 2021082200
+metrics:
+  updated: '2025-04-20T12:55:56Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

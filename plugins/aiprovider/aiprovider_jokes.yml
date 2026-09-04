@@ -1,0 +1,17 @@
+component: aiprovider_jokes
+source: https://github.com/paulholden/moodle-aiprovider_jokes
+maintainers:
+- github: paulholden
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle AI provider plugin to generate jokes
+metrics:
+  updated: '2025-10-14T08:20:08Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

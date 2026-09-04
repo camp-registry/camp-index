@@ -1,0 +1,17 @@
+component: tool_enrolsuspension
+source: https://github.com/Murilloenrique/moodle-tool_enrolsuspension
+maintainers:
+- github: Murilloenrique
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Plugin Moodle para suspensão e reativação de inscrições em múltiplas disciplinas.
+metrics:
+  updated: '2026-08-25T19:02:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

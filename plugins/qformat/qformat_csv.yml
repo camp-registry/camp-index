@@ -1,0 +1,19 @@
+component: qformat_csv
+source: https://github.com/GopalSharma/moodle-qformat_csv
+maintainers:
+- github: GopalSharma
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: This plugin will be used to import multichoice( 4 choices ) questions having
+  one or two answers from a CSV(Comma separated value) file into the question bank
+  and only multichoice questions are supported as of now.
+metrics:
+  updated: '2025-05-09T07:08:39Z'
+  stars: 5
+  forks: 5
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

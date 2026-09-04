@@ -1,0 +1,17 @@
+component: local_additional_functions
+source: https://github.com/kulverstukas1/moodle-additional-functions
+maintainers:
+- github: kulverstukas1
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Various moodle web service helper functions.
+metrics:
+  updated: '2025-12-12T13:40:56Z'
+  stars: 1
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

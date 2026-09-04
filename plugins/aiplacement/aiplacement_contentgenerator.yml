@@ -1,0 +1,18 @@
+component: aiplacement_contentgenerator
+source: https://github.com/ild-thl/moodle-aiplacement_contentgenerator
+maintainers:
+- github: ild-thl
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  aiprovider_myai: 2026042100
+metrics:
+  updated: '2026-04-22T09:34:51Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

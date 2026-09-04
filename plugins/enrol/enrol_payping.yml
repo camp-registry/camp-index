@@ -1,0 +1,17 @@
+component: enrol_payping
+source: https://github.com/payping/moodle-gateway-payping
+maintainers:
+- github: payping
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: moodle-gateway-payping
+metrics:
+  updated: '2025-07-23T12:17:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

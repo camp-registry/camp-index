@@ -1,0 +1,18 @@
+component: local_saylorcode
+source: https://github.com/saylordotorg/moodle-local_saylorcode
+maintainers:
+- github: saylordotorg
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Saylor Code Studio shared service layer: runner-provider abstraction, runtime
+  profiles, stable IDs, output sanitisation. Moodle 4.5.'
+metrics:
+  updated: '2026-09-01T18:17:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

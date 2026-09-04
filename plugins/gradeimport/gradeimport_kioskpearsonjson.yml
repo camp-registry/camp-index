@@ -1,0 +1,18 @@
+component: gradeimport_kioskpearsonjson
+source: https://github.com/getsmarter/moodle-grade-import_kioskpearsonjson
+maintainers:
+- github: getsmarter
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle Pearson MyLab and Mastering. Handles the import of grades for grade
+  sync.
+metrics:
+  updated: '2025-01-29T12:03:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,16 @@
+component: local_ai_content
+source: https://github.com/bycs-lp/moodle-local_ai_content
+maintainers:
+- github: bycs-lp
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-03T13:38:13Z'
+  stars: 2
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

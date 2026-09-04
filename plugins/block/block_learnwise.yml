@@ -1,0 +1,18 @@
+component: block_learnwise
+source: https://github.com/LearnWiseAI/moodle-block_learnwise
+maintainers:
+- github: LearnWiseAI
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_learnwise: any
+metrics:
+  updated: '2026-08-19T06:52:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

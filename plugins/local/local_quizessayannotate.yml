@@ -1,0 +1,18 @@
+component: local_quizessayannotate
+source: https://github.com/lerouxh/moodle-local_quizessayannotate
+maintainers:
+- github: lerouxh
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Quiz Essay Annotate adds visual checkmark and cross annotations to Essay
+  question responses during quiz manual grading
+metrics:
+  updated: '2026-08-13T19:04:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

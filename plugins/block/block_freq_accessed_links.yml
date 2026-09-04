@@ -1,0 +1,17 @@
+component: block_freq_accessed_links
+source: https://github.com/eLearning-BS23/moodle-block_freq_accessed_links
+maintainers:
+- github: eLearning-BS23
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Block plugin: Frequently Accessed Links of a user in a dashboard block.'
+metrics:
+  updated: '2023-08-31T13:28:21Z'
+  stars: 0
+  forks: 1
+  open-issues: 9
+  archived: false
+  checked: '2026-09-04'

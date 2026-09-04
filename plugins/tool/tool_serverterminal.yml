@@ -1,0 +1,17 @@
+component: tool_serverterminal
+source: https://github.com/ajinursyamsi/moodle-tool_serverterminal
+maintainers:
+- github: ajinursyamsi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Controlled web terminal for trusted Moodle administrators.
+metrics:
+  updated: '2026-07-26T02:04:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

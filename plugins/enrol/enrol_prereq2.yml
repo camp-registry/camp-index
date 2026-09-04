@@ -1,0 +1,17 @@
+component: enrol_prereq2
+source: https://github.com/lmshostingservices/moodle-enrol_prereq2
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Flexible prerequisite-based enrolment with grade and completion conditions
+metrics:
+  updated: '2026-08-15T03:31:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: local_videocompress
+source: https://github.com/lmshostingservices/moodle-local_videocompress
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Server-side video compression for Moodle file areas using FFmpeg
+metrics:
+  updated: '2026-08-29T10:55:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: local_libreria
+source: https://github.com/LibreriadeSatoshi/moodle-local_libreria
+maintainers:
+- github: LibreriadeSatoshi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: MIT
+summary: Small site-wide tweaks for the Libreria de Satoshi Moodle instance
+metrics:
+  updated: '2026-09-01T15:18:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

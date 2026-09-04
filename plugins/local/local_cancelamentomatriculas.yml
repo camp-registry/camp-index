@@ -1,0 +1,16 @@
+component: local_cancelamentomatriculas
+source: https://github.com/Julia-Gabriela/moodle_local_cancelamentomatriculas
+maintainers:
+- github: Julia-Gabriela
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-31T17:42:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

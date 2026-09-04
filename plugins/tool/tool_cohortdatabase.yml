@@ -1,0 +1,17 @@
+component: tool_cohortdatabase
+source: https://github.com/catalyst/moodle-tool_cohortdatabase
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Tool for sync of cohorts using external db.
+metrics:
+  updated: '2024-09-30T03:14:32Z'
+  stars: 3
+  forks: 5
+  open-issues: 5
+  archived: false
+  checked: '2026-09-04'

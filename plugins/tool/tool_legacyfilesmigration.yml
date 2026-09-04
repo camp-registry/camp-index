@@ -1,0 +1,17 @@
+component: tool_legacyfilesmigration
+source: https://github.com/cperves/moodle-admin_legacyfilesmigration
+maintainers:
+- github: cperves
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: An admin tool to migrate legacy files into user private files
+metrics:
+  updated: '2025-06-26T05:46:44Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: qbank_importasversion
+source: https://github.com/maths/moodle-qbank_importasversion
+maintainers:
+- github: maths
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle question bank plugin to import a single question from a Moodle XML
+  file as a new version of an existing question, rather than a separate question
+metrics:
+  updated: '2026-08-28T08:15:01Z'
+  stars: 4
+  forks: 5
+  open-issues: 4
+  archived: false
+  checked: '2026-09-04'

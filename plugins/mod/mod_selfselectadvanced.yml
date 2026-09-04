@@ -1,0 +1,19 @@
+component: mod_selfselectadvanced
+source: https://github.com/Resources4Moodle/moodle-mod_selfselectadvanced
+maintainers:
+- github: Resources4Moodle
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle activity module: constraint-governed group self-selection - invitation-only
+  formation, composition quotas and slot templates, guide review with decision windows,
+  guarded overrides, staged moves, and sequence-of-joining gradebook decomposition'
+metrics:
+  updated: '2026-08-28T06:11:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

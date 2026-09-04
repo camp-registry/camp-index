@@ -1,0 +1,19 @@
+component: block_oerexchangecontributors
+source: https://github.com/adamjenkins/moodle-block_oerexchangecontributors
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: List the contributors to an OER Exchange.
+dependencies:
+  local_oerexchange: 2026082200
+metrics:
+  updated: '2026-08-22T14:46:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

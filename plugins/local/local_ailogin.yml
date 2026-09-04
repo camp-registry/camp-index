@@ -1,0 +1,17 @@
+component: local_ailogin
+source: https://github.com/lmshostingservices/moodle-local_ailogin
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Custom login page designer with cohort-aware branding for Moodle
+metrics:
+  updated: '2026-08-13T01:51:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

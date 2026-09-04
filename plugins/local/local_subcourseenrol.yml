@@ -1,0 +1,18 @@
+component: local_subcourseenrol
+source: https://github.com/hetcxp/moodle-local_subcourse_enrol
+maintainers:
+- github: hetcxp
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_subcourse: 2025032001
+metrics:
+  updated: '2026-09-04T16:28:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

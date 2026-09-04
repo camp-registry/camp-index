@@ -1,0 +1,17 @@
+component: enrol_sepay
+source: https://github.com/sepayvn/moodle-sepay
+maintainers:
+- github: sepayvn
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: MIT
+summary: SePay Moodle enrol plugin - Tự động ghi danh cho khóa học trả phí
+metrics:
+  updated: '2025-05-07T12:59:23Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

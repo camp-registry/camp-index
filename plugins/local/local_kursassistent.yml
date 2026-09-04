@@ -1,0 +1,16 @@
+component: local_kursassistent
+source: https://github.com/Moodle-in-Niedersachsene-V/local_kursassistent
+maintainers:
+- github: Moodle-in-Niedersachsene-V
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-04T07:19:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

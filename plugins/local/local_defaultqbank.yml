@@ -1,0 +1,18 @@
+component: local_defaultqbank
+source: https://github.com/tkorner/moodle-local_defaultqbank
+maintainers:
+- github: tkorner
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: let a course designate a shared question bank as the default
+  target for questions created inside a quiz. Pre-merge carrier for MDL-86766.'
+metrics:
+  updated: '2026-08-10T15:25:47Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

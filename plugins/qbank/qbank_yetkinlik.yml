@@ -1,0 +1,16 @@
+component: qbank_yetkinlik
+source: https://github.com/hakancigci/moodle-qbank_yetkinlik
+maintainers:
+- github: hakancigci
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-03-01T04:55:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

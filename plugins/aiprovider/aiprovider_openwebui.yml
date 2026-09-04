@@ -1,0 +1,17 @@
+component: aiprovider_openwebui
+source: https://github.com/rabser/moodle-aiprovider_openwebui
+maintainers:
+- github: rabser
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Open Web UI API Provider
+metrics:
+  updated: '2025-11-03T11:54:09Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

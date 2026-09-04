@@ -1,0 +1,20 @@
+component: mod_biblereader
+source: https://github.com/joshjenney/moodle-mod_biblereader
+maintainers:
+- github: joshjenney
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Bible Reading Tracker for Moodle students
+dependencies:
+  mod_forum: 2022042100
+  mod_data: 2022042100
+metrics:
+  updated: '2026-09-01T16:26:00Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

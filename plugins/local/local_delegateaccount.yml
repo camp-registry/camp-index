@@ -1,0 +1,18 @@
+component: local_delegateaccount
+source: https://github.com/didactika/moodle-local_delegateaccount
+maintainers:
+- github: didactika
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin for granting authorised users access to specific accounts
+  through Moodle's built-in Log in as workflow.
+metrics:
+  updated: '2026-08-22T16:53:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

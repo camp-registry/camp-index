@@ -1,0 +1,18 @@
+component: quiz_responsedownload
+source: https://github.com/elearning-ostfalia/moodle-responsedownload
+maintainers:
+- github: elearning-ostfalia
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for downloading quiz responses as a zip archive (especially
+  for ProFormA and Essay questions)
+metrics:
+  updated: '2026-06-30T14:46:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

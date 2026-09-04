@@ -1,0 +1,16 @@
+component: block_progressanalytics
+source: https://github.com/almendro18/moodle_progressanalytics
+maintainers:
+- github: almendro18
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-09-21T22:22:06Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

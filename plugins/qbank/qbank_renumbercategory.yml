@@ -1,0 +1,16 @@
+component: qbank_renumbercategory
+source: https://github.com/vadimonus/moodle-qbank_renumbercategory
+maintainers:
+- github: vadimonus
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-03-01T14:20:57Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

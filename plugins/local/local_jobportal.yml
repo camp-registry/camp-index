@@ -1,0 +1,17 @@
+component: local_jobportal
+source: https://github.com/muruganantham-v/moodle-local-jobportal
+maintainers:
+- github: muruganantham-v
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle Local Job Portal Plugin (local_jobportal)
+metrics:
+  updated: '2026-08-20T09:25:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

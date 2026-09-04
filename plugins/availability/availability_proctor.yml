@@ -1,0 +1,16 @@
+component: availability_proctor
+source: https://github.com/constructor-tech/alemira-proctor-moodle-plugin
+maintainers:
+- github: constructor-tech
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-31T08:00:26Z'
+  stars: 0
+  forks: 4
+  open-issues: 20
+  archived: false
+  checked: '2026-09-04'

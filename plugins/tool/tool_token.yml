@@ -1,0 +1,18 @@
+component: tool_token
+source: https://github.com/catalyst/moodle-tool_token
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: An admin tool provides a web service for generating Moodle web service tokens.
+  It conceptually works the same way as /login/token.php, but via web services. n
+metrics:
+  updated: '2024-11-20T23:20:57Z'
+  stars: 7
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

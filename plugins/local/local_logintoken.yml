@@ -1,0 +1,16 @@
+component: local_logintoken
+source: https://github.com/mochammadrafi/moodle-logintoken
+maintainers:
+- github: mochammadrafi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: MIT
+metrics:
+  updated: '2025-09-29T17:00:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

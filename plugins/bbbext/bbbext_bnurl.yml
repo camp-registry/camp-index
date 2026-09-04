@@ -1,0 +1,18 @@
+component: bbbext_bnurl
+source: https://github.com/blindsidenetworks-ps/moodle-bbbext_bnurl
+maintainers:
+- github: blindsidenetworks-ps
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle BigBlueButtonBN subplugin for passing additional data from Moodle
+  to BigBlueButton using create and join action URLs
+metrics:
+  updated: '2025-09-24T19:22:17Z'
+  stars: 1
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

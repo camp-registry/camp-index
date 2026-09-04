@@ -1,0 +1,17 @@
+component: local_rsync
+source: https://github.com/roblesjoel/Moodle_Rsync
+maintainers:
+- github: roblesjoel
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: This is the official repo of the Project 1 project "Moodle_Rsync".
+metrics:
+  updated: '2024-01-09T13:22:57Z'
+  stars: 2
+  forks: 5
+  open-issues: 4
+  archived: false
+  checked: '2026-09-04'

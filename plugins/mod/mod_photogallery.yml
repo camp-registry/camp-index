@@ -1,0 +1,16 @@
+component: mod_photogallery
+source: https://github.com/gustavohenrique2102/moodle-mod_photogallery
+maintainers:
+- github: gustavohenrique2102
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-08T23:42:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

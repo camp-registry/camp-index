@@ -1,0 +1,16 @@
+component: local_categorycards
+source: https://github.com/robertoneves-droid/moodle-local_categorycards
+maintainers:
+- github: robertoneves-droid
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-27T18:15:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

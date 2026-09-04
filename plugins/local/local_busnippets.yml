@@ -1,0 +1,20 @@
+component: local_busnippets
+source: https://github.com/bdecentgmbh/moodle-local_busnippets
+maintainers:
+- github: bdecentgmbh
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Keeps the SCSS snippets of your own snippets repository in sync with Boost
+  Union
+dependencies:
+  theme_boost_union: any
+metrics:
+  updated: '2026-07-31T16:53:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

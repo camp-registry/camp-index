@@ -1,0 +1,20 @@
+component: local_activitydatestatus
+source: https://github.com/isaiasmendesoliveira/moodle-local_activitydatestatus
+maintainers:
+- github: isaiasmendesoliveira
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Activity Date Status improves Moodle activity dates and deadlines with clear,
+  user-centered status indicators, relative time, Bootstrap 5 colors, icons, and badges.
+  Designed to reduce cognitive load, improve visual hierarchy, and help learners quickly
+  identify what needs attention.
+metrics:
+  updated: '2026-09-04T17:13:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: local_mediaoptimiser
+source: https://github.com/lmshostingservices/moodle-local_mediaoptimiser
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Automated image and media optimisation for Moodle file uploads
+metrics:
+  updated: '2026-08-13T01:49:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

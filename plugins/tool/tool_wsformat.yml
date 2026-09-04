@@ -1,0 +1,18 @@
+component: tool_wsformat
+source: https://github.com/catalyst/moodle-tool_wsformat
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A tool to format the output of webservice API docs into easily consumable
+  formats
+metrics:
+  updated: '2023-10-24T13:07:57Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

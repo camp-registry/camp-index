@@ -1,0 +1,22 @@
+component: bbbext_advgrd
+source: https://github.com/mkpelletier/moodle-bbbext_advgrd
+maintainers:
+- github: mkpelletier
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle sub-plugin: research-anchored rubric and marking-guide grading for
+  BigBlueButton activities, wired to engagement signals.'
+dependencies:
+  mod_bigbluebuttonbn: 2025041400
+  gradingform_rubric: 2025041400
+  gradingform_guide: 2025041400
+metrics:
+  updated: '2026-08-25T09:50:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

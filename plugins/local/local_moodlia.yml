@@ -1,0 +1,17 @@
+component: local_moodlia
+source: https://github.com/gafapa/moodle-local_moodlia
+maintainers:
+- github: gafapa
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin exposing MoodlIA automation over REST and MCP
+metrics:
+  updated: '2026-09-02T23:24:15Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: local_themerules
+source: https://github.com/jlsimon/moodle-local_themerules
+maintainers:
+- github: jlsimon
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Rule-based dynamic theme & logo switching for Moodle — condition builder,
+  simulator, and rule export/import.
+metrics:
+  updated: '2026-08-11T09:47:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

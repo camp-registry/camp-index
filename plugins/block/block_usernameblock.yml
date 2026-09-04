@@ -1,0 +1,16 @@
+component: block_usernameblock
+source: https://github.com/dhakalayush/usernameblock_moodle
+maintainers:
+- github: dhakalayush
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-12-03T05:37:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

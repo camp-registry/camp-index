@@ -1,0 +1,18 @@
+component: ltisource_playquiznow
+source: https://github.com/varungulati/moodle-widget_playquiznow
+maintainers:
+- github: varungulati
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: PlayQuizNow activity module for Moodle — embed interactive quizzes with gradebook
+  integration
+metrics:
+  updated: '2026-02-16T13:00:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

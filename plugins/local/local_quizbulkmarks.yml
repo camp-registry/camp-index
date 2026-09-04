@@ -1,0 +1,18 @@
+component: local_quizbulkmarks
+source: https://github.com/isaiasmendesoliveira/moodle-local_quizbulkmarks
+maintainers:
+- github: isaiasmendesoliveira
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Bulk Quiz Question Values improves Moodle plugin for bulk editing maximum
+  marks of multiple quiz questions, with multilingual support and native quiz integration.
+metrics:
+  updated: '2026-09-04T17:37:02Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

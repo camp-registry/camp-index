@@ -1,0 +1,19 @@
+component: local_sepe
+source: https://github.com/studiolxd/moodle-local_sepe
+maintainers:
+- github: studiolxd
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Plugin local de Moodle que implementa el Servicio Web de Seguimiento de acciones
+  formativas en teleformación del SEPE (ProveedorCentroTFWS, Orden TMS/369/2019 Anexo
+  V)
+metrics:
+  updated: '2026-08-10T16:35:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: qbank_questionchecker
+source: https://github.com/cgrevisse/moodle-qbank_questionchecker
+maintainers:
+- github: cgrevisse
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to check Multiple choice and Essay questions using the AI subsystem
+metrics:
+  updated: '2026-08-11T12:57:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

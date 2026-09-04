@@ -1,0 +1,17 @@
+component: tool_untoken_oauth2
+source: https://github.com/redesitos/moodle-tool_untoken_oauth2
+maintainers:
+- github: redesitos
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle remove link from accounts link by mail.
+metrics:
+  updated: '2025-02-16T18:17:50Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

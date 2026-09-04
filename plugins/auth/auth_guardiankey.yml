@@ -1,0 +1,18 @@
+component: auth_guardiankey
+source: https://github.com/guardiankey/guardiankey-plugin-moodle
+maintainers:
+- github: guardiankey
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Authentication module for Moodle which implements user profile analysis to
+  identify possible threats
+metrics:
+  updated: '2025-10-10T17:17:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 12
+  archived: false
+  checked: '2026-09-04'

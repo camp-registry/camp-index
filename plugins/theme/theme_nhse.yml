@@ -1,0 +1,19 @@
+component: theme_nhse
+source: https://github.com/NHSLeadership/moodle-nhse
+maintainers:
+- github: NHSLeadership
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: NHSE Moodle theme based on NHSUK Frontend
+dependencies:
+  theme_boost: 2024042200
+metrics:
+  updated: '2026-08-10T08:23:39Z'
+  stars: 0
+  forks: 5
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

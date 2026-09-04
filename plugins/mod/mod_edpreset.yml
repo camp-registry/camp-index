@@ -1,0 +1,16 @@
+component: mod_edpreset
+source: https://github.com/andrewrowatt-masseyuni/moodle-mod_edpreset
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-13T22:27:02Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

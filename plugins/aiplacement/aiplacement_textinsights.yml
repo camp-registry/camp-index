@@ -1,0 +1,18 @@
+component: aiplacement_textinsights
+source: https://github.com/developerck/moodle-aiplacement_textinsights
+maintainers:
+- github: developerck
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: plugin that provides AI-powered text analysis capabilities through a convenient
+  context menu in course content.
+metrics:
+  updated: '2025-08-18T07:06:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

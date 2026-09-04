@@ -1,0 +1,18 @@
+component: mod_pathcurator
+source: https://github.com/itr8tech/pathcurator-moodle
+maintainers:
+- github: itr8tech
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A plugin for Moodle LMS to display PathCurator pathways as a course activity
+  type.
+metrics:
+  updated: '2025-08-30T03:05:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

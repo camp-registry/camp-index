@@ -1,0 +1,17 @@
+component: profilefield_brcpf
+source: https://github.com/gfariasonline/moodle-profilefield_brcpf
+maintainers:
+- github: gfariasonline
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle profile field plugin for Brazilian CPF input masking and validation.
+metrics:
+  updated: '2026-08-28T16:40:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

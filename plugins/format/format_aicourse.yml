@@ -1,0 +1,17 @@
+component: format_aicourse
+source: https://github.com/lmshostingservices/moodle-format_aicourse
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: AI-enhanced course format with dynamic section summaries and navigation
+metrics:
+  updated: '2026-08-29T09:24:37Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

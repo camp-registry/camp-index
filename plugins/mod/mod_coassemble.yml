@@ -1,0 +1,17 @@
+component: mod_coassemble
+source: https://github.com/coassemble/moodle-mod_coassemble
+maintainers:
+- github: coassemble
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Code for Coassemble's Moodle plugin
+metrics:
+  updated: '2026-08-26T23:52:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

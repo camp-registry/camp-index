@@ -1,0 +1,18 @@
+component: mod_ompdf
+source: https://github.com/onyet/moodle-mod_ompdf
+maintainers:
+- github: onyet
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: PDF.JS plugin. A powerful Moodle activity plugin for delivering PDFs with
+  Smart Notes, Analytics, and Enterprise DRM protection.
+metrics:
+  updated: '2026-09-02T20:16:08Z'
+  stars: 3
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

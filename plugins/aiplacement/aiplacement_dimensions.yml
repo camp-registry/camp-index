@@ -1,0 +1,20 @@
+component: aiplacement_dimensions
+source: https://github.com/uaiblaine/moodle-aiplacement_dimensions
+maintainers:
+- github: uaiblaine
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: AI-assisted competency suggestions on the Moodle activity form. Companion
+  to local_dimensions.
+dependencies:
+  local_dimensions: 2026072700
+metrics:
+  updated: '2026-09-03T10:50:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

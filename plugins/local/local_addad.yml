@@ -1,0 +1,17 @@
+component: local_addad
+source: https://github.com/Dallas-Makerspace/moodle-addad
+maintainers:
+- github: Dallas-Makerspace
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Module for Moodle to add a username to an active directory group
+metrics:
+  updated: '2025-11-28T23:36:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

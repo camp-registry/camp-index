@@ -1,0 +1,18 @@
+component: tool_scormtrackeditor
+source: https://github.com/Zyten/moodle-tool_scormtrackeditor
+maintainers:
+- github: Zyten
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Semi-manual solution that allows editing SCORM sco tracking data without
+  direct access to DB.
+metrics:
+  updated: '2024-03-18T10:00:49Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

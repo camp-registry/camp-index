@@ -1,0 +1,20 @@
+component: calendartype_ummulqora
+source: https://github.com/eummena/moodle-calendartype_ummulqora
+maintainers:
+- github: eummena
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: AGPL-3.0
+summary: A `calendartype` pluign for Moodle that will show the calendar dates as per
+  Ummul Qora calculations.
+dependencies:
+  calendartype_gregorian: any
+metrics:
+  updated: '2026-07-10T12:13:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

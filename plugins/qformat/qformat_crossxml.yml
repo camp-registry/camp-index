@@ -1,0 +1,20 @@
+component: qformat_crossxml
+source: https://github.com/dthies/moodle-qformat_crossxml
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: An input format plugin that interchanges question types in a Moodle XML export
+  file
+dependencies:
+  qformat_xml: 2016120500
+metrics:
+  updated: '2026-04-13T13:31:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

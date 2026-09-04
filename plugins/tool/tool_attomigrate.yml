@@ -1,0 +1,17 @@
+component: tool_attomigrate
+source: https://github.com/wnanthony/moodle-tool_attomigrate
+maintainers:
+- github: wnanthony
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Read-only Moodle administrator audit for planning an Atto to TinyMCE migration.
+metrics:
+  updated: '2026-07-19T19:48:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

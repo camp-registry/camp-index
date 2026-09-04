@@ -1,0 +1,19 @@
+component: aiplacement_translate
+source: https://github.com/guillogo/moodle-aiplacement_translate
+maintainers:
+- github: guillogo
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: AI translate placement
+dependencies:
+  aiplacement_courseassist: any
+metrics:
+  updated: '2026-04-09T13:07:25Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

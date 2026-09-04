@@ -1,0 +1,17 @@
+component: mod_kanbanccead
+source: https://github.com/jPerpetuo/moodle-mod_kanbanccead
+maintainers:
+- github: jPerpetuo
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Independent Moodle Kanban CCEAD activity module.
+metrics:
+  updated: '2026-09-04T18:01:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

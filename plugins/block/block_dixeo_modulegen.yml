@@ -1,0 +1,19 @@
+component: block_dixeo_modulegen
+source: https://github.com/dixeo/moodle-block_dixeo_modulegen
+maintainers:
+- github: dixeo
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Dixeo module generation
+dependencies:
+  local_dixeo: 2026081800
+metrics:
+  updated: '2026-08-31T17:46:46Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

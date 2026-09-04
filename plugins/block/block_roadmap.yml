@@ -1,0 +1,16 @@
+component: block_roadmap
+source: https://github.com/v-nys/moodle-roadmap-plugin
+maintainers:
+- github: v-nys
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-07-21T07:02:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

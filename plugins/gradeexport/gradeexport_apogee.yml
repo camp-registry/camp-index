@@ -1,0 +1,17 @@
+component: gradeexport_apogee
+source: https://github.com/andurif/moodle-gradeexport_apogee
+maintainers:
+- github: andurif
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle grade export plugin made to export file which can be used in Apogee.
+metrics:
+  updated: '2024-03-14T15:39:43Z'
+  stars: 0
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

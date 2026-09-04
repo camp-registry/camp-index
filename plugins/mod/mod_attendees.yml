@@ -1,0 +1,16 @@
+component: mod_attendees
+source: https://github.com/Syxton/moodle_attendees
+maintainers:
+- github: Syxton
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-02T17:30:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

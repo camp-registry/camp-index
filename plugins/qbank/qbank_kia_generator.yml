@@ -1,0 +1,18 @@
+component: qbank_kia_generator
+source: https://github.com/ild-thl/moodle-qbank_kia_generator
+maintainers:
+- github: ild-thl
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  aiprovider_myai: 2026042200
+metrics:
+  updated: '2026-04-28T08:38:10Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

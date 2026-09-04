@@ -1,0 +1,16 @@
+component: local_moodle_survey
+source: https://github.com/ColoredCow/moodle-survey
+maintainers:
+- github: ColoredCow
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-03-03T17:20:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

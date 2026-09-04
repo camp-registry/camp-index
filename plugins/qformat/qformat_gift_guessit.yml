@@ -1,0 +1,21 @@
+component: qformat_gift_guessit
+source: https://github.com/bhect0/moodle-qformat_gift_guessit
+maintainers:
+- github: bhect0
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: GIFT to guessit format enables guessit questions to be imported from a text
+  file.
+dependencies:
+  qtype_guessit: 2025032700
+  qbehaviour_guessit: 2025032500
+metrics:
+  updated: '2025-12-05T17:25:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

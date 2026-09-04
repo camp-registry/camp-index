@@ -1,0 +1,17 @@
+component: local_guardlms
+source: https://github.com/LdesignMedia/moodle-local_guardlms
+maintainers:
+- github: LdesignMedia
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle local plugin that reports the site to GuardLMS for security monitoring
+metrics:
+  updated: '2026-09-02T13:41:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: qbank_competenciesbyquestion
+source: https://github.com/cristianbodda-star/moodle-qbank_competenciesbyquestion
+maintainers:
+- github: cristianbodda-star
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: plug in di Moodle che si occupa di attribuire le competenze ad ogni singola
+  domanda di un quiz
+metrics:
+  updated: '2026-01-13T10:18:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

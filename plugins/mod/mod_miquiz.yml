@@ -1,0 +1,18 @@
+component: mod_miquiz
+source: https://github.com/PW-Solutions/miquiz-moodle
+maintainers:
+- github: PW-Solutions
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Integrate MI-Quiz in Moodle, to use already existing Moodle structures like
+  questions and courses
+metrics:
+  updated: '2026-04-13T22:57:06Z'
+  stars: 1
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

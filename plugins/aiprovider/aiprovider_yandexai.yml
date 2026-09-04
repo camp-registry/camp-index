@@ -1,0 +1,17 @@
+component: aiprovider_yandexai
+source: https://github.com/yasha4u/moodle-aiprovider_yandexai
+maintainers:
+- github: yasha4u
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle aiprovider for YandexGPT
+metrics:
+  updated: '2026-02-28T15:02:38Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

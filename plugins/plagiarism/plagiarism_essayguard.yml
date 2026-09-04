@@ -1,0 +1,17 @@
+component: plagiarism_essayguard
+source: https://github.com/lmshostingservices/moodle-plagiarism_essayguard
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: AI-powered essay plagiarism and integrity checker for Moodle
+metrics:
+  updated: '2026-08-13T01:51:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

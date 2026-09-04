@@ -1,0 +1,20 @@
+component: tool_percipioexternalcontentsync
+source: https://github.com/lushonline/moodle-tool_percipioexternalcontentsync
+maintainers:
+- github: lushonline
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Provides a tool to synchronise assets from a Skillsoft Percipio site as External
+  Content into Moodle
+dependencies:
+  mod_externalcontent: 2023031400
+metrics:
+  updated: '2024-03-18T14:08:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

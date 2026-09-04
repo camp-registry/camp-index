@@ -1,0 +1,17 @@
+component: qbank_bulksearch
+source: https://github.com/marcusgreen/moodle-qbank_bulksearch
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Search the questiontext plugin for the Moodle question bank
+metrics:
+  updated: '2025-01-20T10:02:19Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

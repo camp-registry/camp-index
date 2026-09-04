@@ -1,0 +1,20 @@
+component: local_whatsapphelper
+source: https://github.com/jlsimon/moodle-local_whatsapphelper
+maintainers:
+- github: jlsimon
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin that prepares WhatsApp messages for a course''s students:
+  builds ready-to-send wa.me links from templates, no copying phone numbers or retyping
+  messages by hand. Named, resumable, per-teacher notices with delivery status and
+  history. Not affiliated with WhatsApp/Meta. Moodle 4.1+.'
+metrics:
+  updated: '2026-08-04T07:54:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

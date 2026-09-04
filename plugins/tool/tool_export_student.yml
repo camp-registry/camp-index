@@ -1,0 +1,16 @@
+component: tool_export_student
+source: https://github.com/warnax-corp/moodle_export_student
+maintainers:
+- github: warnax-corp
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-08-20T04:37:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: tool_pluginstash
+source: https://github.com/verzog/moodle-tool_pluginstash
+maintainers:
+- github: verzog
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: AGPL-3.0
+summary: A plugin to facilitate upgrades
+metrics:
+  updated: '2026-08-14T04:34:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,16 @@
+component: aiplacement_stack
+source: https://github.com/marcusgreen/moodle-aiplacement_stack
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-11-11T17:22:34Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

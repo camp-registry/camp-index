@@ -1,0 +1,18 @@
+component: tool_eqwpdfcheck
+source: https://github.com/nir-eng/moodle-tool_eqwpdfcheck
+maintainers:
+- github: nir-eng
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Free PDF accessibility checker for Moodle: a PDF/UA score and a detailed
+  report for every PDF on your site.'
+metrics:
+  updated: '2026-08-12T14:10:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

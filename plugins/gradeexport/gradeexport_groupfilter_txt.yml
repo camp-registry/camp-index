@@ -1,0 +1,17 @@
+component: gradeexport_groupfilter_txt
+source: https://github.com/UNIMOODLE/moodle-gradeexport_groupfilter_txt
+maintainers:
+- github: UNIMOODLE
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Unimoodle L8 P11
+metrics:
+  updated: '2024-11-14T11:40:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

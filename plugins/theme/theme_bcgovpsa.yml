@@ -1,0 +1,19 @@
+component: theme_bcgovpsa
+source: https://github.com/PSA-Corporate-Learning-Branch/bcgovpsa-moodle
+maintainers:
+- github: PSA-Corporate-Learning-Branch
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Boost child theme for Public Service Agency's Moodle installation
+dependencies:
+  theme_boost: 2022112800
+metrics:
+  updated: '2026-01-19T18:39:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

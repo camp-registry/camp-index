@@ -1,0 +1,16 @@
+component: report_quizanalytics
+source: https://github.com/jchanthy/moodle-report_quizanalytics
+maintainers:
+- github: jchanthy
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-20T17:59:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

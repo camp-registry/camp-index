@@ -1,0 +1,18 @@
+component: tool_question_reducer
+source: https://github.com/catalyst/moodle-tool_question_reducer
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A admin tool whos goal is to reduce the number of questions within a site
+  through removing redundant questions.
+metrics:
+  updated: '2023-11-13T03:32:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

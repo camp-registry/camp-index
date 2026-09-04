@@ -1,0 +1,18 @@
+component: local_srl_advisor
+source: https://github.com/aschwabe/moodle-local_srl_advisor-old-disabled
+maintainers:
+- github: aschwabe
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: SRL Advisor — self-regulated-learning support plugin for Moodle (local_srl_advisor).
+  Consent-gated behavioral telemetry + reflection check-ins; supports Moodle 4.5–5.2.
+metrics:
+  updated: '2026-07-27T11:07:21Z'
+  stars: 1
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-09-04'

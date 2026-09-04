@@ -1,0 +1,16 @@
+component: aiprovider_anthropic
+source: https://github.com/LucaDR1998/moodle-aiprovider_anthropic
+maintainers:
+- github: LucaDR1998
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-03-30T22:22:37Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

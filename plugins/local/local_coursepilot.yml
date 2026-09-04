@@ -1,0 +1,18 @@
+component: local_coursepilot
+source: https://github.com/matthiasgruenwald/moodle-local_coursepilot
+maintainers:
+- github: matthiasgruenwald
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Nur-Lese-Spiegel des Moodle-Plugins local_coursepilot (GPL-3.0) fuer das
+  Moodle Plugin Directory. Entwicklung, Issues und Support: https://github.com/matthiasgruenwald/moodle-coursepilot'
+metrics:
+  updated: '2026-08-23T15:55:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

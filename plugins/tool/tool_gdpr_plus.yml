@@ -1,0 +1,16 @@
+component: tool_gdpr_plus
+source: https://github.com/call-learning/moodle-tool_gdpr_plus
+maintainers:
+- github: call-learning
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-12-07T08:36:02Z'
+  stars: 0
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

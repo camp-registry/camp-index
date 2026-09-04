@@ -1,0 +1,16 @@
+component: lifecyclestep_dummy
+source: https://github.com/learnweb/moodle-lifecyclestep_dummy
+maintainers:
+- github: learnweb
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-07-15T11:24:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

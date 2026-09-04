@@ -1,0 +1,18 @@
+component: local_aitextflags
+source: https://github.com/pekkanikander/moodle-local_aitextflags
+maintainers:
+- github: pekkanikander
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: flag AI-generated feedback for teacher review (companion
+  to the qtype_aitext drilling fork)'
+metrics:
+  updated: '2026-08-28T13:24:35Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

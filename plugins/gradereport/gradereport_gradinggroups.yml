@@ -1,0 +1,18 @@
+component: gradereport_gradinggroups
+source: https://github.com/academic-moodle-cooperation/moodle-gradereport_gradinggroups
+maintainers:
+- github: academic-moodle-cooperation
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: With Groupgrade, you can transfer the grading and the feedback of a student
+  in an activity or within a grade item to the other members of his/her group.
+metrics:
+  updated: '2026-09-02T08:13:53Z'
+  stars: 1
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

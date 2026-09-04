@@ -1,0 +1,20 @@
+component: qformat_glossary
+source: https://github.com/dthies/moodle-qformat_glossary
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A question format plugin to convert between quiz questions and glossary entries
+dependencies:
+  mod_glossary: 2013110500
+  qformat_xml: 2013110500
+metrics:
+  updated: '2026-04-02T03:32:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

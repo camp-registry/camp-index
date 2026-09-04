@@ -1,0 +1,18 @@
+component: filter_faultreporting
+source: https://github.com/andrewrowatt-masseyuni/moodle-filter_faultreporting
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_faultreporting: 2026080100
+metrics:
+  updated: '2026-09-01T22:55:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

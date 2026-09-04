@@ -1,0 +1,18 @@
+component: quizaccess_cdexamsave
+source: https://github.com/cdiazbu/moodle-quizaccess_cdexamsave
+maintainers:
+- github: cdiazbu
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle quiz access rule for detecting and reporting focus loss during quiz
+  attempts.
+metrics:
+  updated: '2026-08-22T14:16:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: mod_methodos
+source: https://github.com/admin-edufusionai/moodle-mod_methodos
+maintainers:
+- github: admin-edufusionai
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: socractic-methodos-moodling
+metrics:
+  updated: '2026-07-25T08:46:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 8
+  archived: false
+  checked: '2026-09-04'

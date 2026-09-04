@@ -1,0 +1,19 @@
+component: aiprovider_groq
+source: https://github.com/Schoolees/schoolees.moodle-aiprovider-groq
+maintainers:
+- github: Schoolees
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Schoolees Groq AI Provider for Moodle 5+ (AI subsystem). Adds Groq Cloud
+  as an AI provider for text generation/summarisation via the OpenAI-compatible Chat
+  Completions API.
+metrics:
+  updated: '2026-08-24T17:01:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

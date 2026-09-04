@@ -1,0 +1,17 @@
+component: local_skynetaccessibilityvideosubtitle
+source: https://github.com/skynettechnologies/moodle-local_skynetaccessibilityvideosubtitle
+maintainers:
+- github: skynettechnologies
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Publish Captioned Video Content with AI-Powered Subtitles
+metrics:
+  updated: '2026-08-27T10:05:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

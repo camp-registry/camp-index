@@ -1,0 +1,16 @@
+component: local_cohort_manager
+source: https://github.com/mcruzel/moodle-local_cohort_manager
+maintainers:
+- github: mcruzel
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-03T12:54:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

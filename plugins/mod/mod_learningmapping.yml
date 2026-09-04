@@ -1,0 +1,17 @@
+component: mod_learningmapping
+source: https://github.com/lmshostingservices/moodle-mod_learningmapping
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Visual learning outcome mapping activity with AI alignment suggestions
+metrics:
+  updated: '2026-08-15T03:23:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

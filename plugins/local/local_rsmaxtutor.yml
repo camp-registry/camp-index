@@ -1,0 +1,23 @@
+component: local_rsmaxtutor
+source: https://github.com/jmolpea/moodle-local_rsmaxtutor
+maintainers:
+- github: jmolpea
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'AI Tutor for Moodle assignments: automatic grading and feedback against
+  rubrics, marking guides, scales and point grades, using your own OpenAI, Anthropic,
+  Gemini or DeepSeek key.'
+dependencies:
+  mod_assign: 2024100700
+  gradingform_rubric: 2024100700
+  gradingform_guide: 2024100700
+metrics:
+  updated: '2026-08-28T10:45:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

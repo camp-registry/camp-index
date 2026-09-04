@@ -1,0 +1,17 @@
+component: aiprovider_bedrock
+source: https://github.com/meeplesrl/moodle-aiprovider_bedrock
+maintainers:
+- github: meeplesrl
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Amazon Bedrock Moodle AI Provider
+metrics:
+  updated: '2026-03-08T21:06:49Z'
+  stars: 2
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

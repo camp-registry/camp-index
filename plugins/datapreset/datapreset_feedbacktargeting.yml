@@ -1,0 +1,17 @@
+component: datapreset_feedbacktargeting
+source: https://github.com/fdagner/feedback-targeting__moodle-database-preset
+maintainers:
+- github: fdagner
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: MIT
+summary: 'Moodle database preset: Display feedback on a target'
+metrics:
+  updated: '2025-06-13T17:27:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

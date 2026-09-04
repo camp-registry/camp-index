@@ -1,0 +1,17 @@
+component: aiplacement_poodll
+source: https://github.com/justinhunt/moodle-aiplacement_poodll
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Poodlls AI Placement
+metrics:
+  updated: '2025-03-07T06:57:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

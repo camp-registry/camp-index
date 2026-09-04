@@ -1,0 +1,17 @@
+component: paygw_unigraz
+source: https://github.com/Wunderbyte-GmbH/moodle-payment_gw_unigraz
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Payment Gateway for Uni Graz
+metrics:
+  updated: '2026-04-01T12:42:58Z'
+  stars: 1
+  forks: 1
+  open-issues: 4
+  archived: false
+  checked: '2026-09-04'

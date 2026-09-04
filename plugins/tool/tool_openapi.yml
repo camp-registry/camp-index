@@ -1,0 +1,19 @@
+component: tool_openapi
+source: https://github.com/didactika/moodle-tool_openapi
+maintainers:
+- github: didactika
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle admin tool that publishes the site's own webservice catalog as an
+  OpenAPI 3.1 document, with a bundled Swagger UI viewer and four independent ways
+  to control who may read it.
+metrics:
+  updated: '2026-08-12T21:24:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

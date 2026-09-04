@@ -1,0 +1,17 @@
+component: paygw_mpay24
+source: https://github.com/Wunderbyte-GmbH/moodle-payment_gw_mpay24
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Implements Mpay24 as a moodle payment gateway
+metrics:
+  updated: '2026-04-01T12:52:56Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

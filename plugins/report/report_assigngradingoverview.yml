@@ -1,0 +1,19 @@
+component: report_assigngradingoverview
+source: https://github.com/javiercaceresgonzalez/moodle-report_assigngradingoverview
+maintainers:
+- github: javiercaceresgonzalez
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle report plugin for reviewing assignment grading status across courses.
+dependencies:
+  mod_assign: any
+metrics:
+  updated: '2026-07-24T12:50:40Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

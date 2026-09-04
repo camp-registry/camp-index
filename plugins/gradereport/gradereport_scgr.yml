@@ -1,0 +1,17 @@
+component: gradereport_scgr
+source: https://github.com/a-camacho/moodle-gr-scgr
+maintainers:
+- github: a-camacho
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Social comparison gradebook report for Moodle
+metrics:
+  updated: '2025-07-01T07:37:26Z'
+  stars: 1
+  forks: 0
+  open-issues: 4
+  archived: true
+  checked: '2026-09-04'

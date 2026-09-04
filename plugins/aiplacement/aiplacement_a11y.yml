@@ -1,0 +1,17 @@
+component: aiplacement_a11y
+source: https://github.com/YorkUITInnovation/moodle-placement_a11y
+maintainers:
+- github: YorkUITInnovation
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: An AI placement for Moodle to fix accessibility issues based on WCAG AA.
+metrics:
+  updated: '2026-03-26T13:52:21Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

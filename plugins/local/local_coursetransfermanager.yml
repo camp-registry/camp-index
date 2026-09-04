@@ -1,0 +1,21 @@
+component: local_coursetransfermanager
+source: https://github.com/3iPunt/moodle-local_coursetransfermanager
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Scheduled course category transfers between Moodle platforms — automated
+  yearly archiving with health checks and announced, cancellable remote deletions.
+  Companion of local_coursetransfer.
+dependencies:
+  local_coursetransfer: 2026072408
+metrics:
+  updated: '2026-07-31T14:33:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

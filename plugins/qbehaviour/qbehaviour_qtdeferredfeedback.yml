@@ -1,0 +1,19 @@
+component: qbehaviour_qtdeferredfeedback
+source: https://github.com/28Smiles/moodle-qtdeferredfeedback
+maintainers:
+- github: 28Smiles
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Question Behaviour Deferred with Storing of additional question type variables
+dependencies:
+  qbehaviour_deferredfeedback: 2024041600
+metrics:
+  updated: '2025-03-05T11:09:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

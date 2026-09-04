@@ -1,0 +1,18 @@
+component: tool_behatcontrol
+source: https://github.com/davidherzlos/moodle-tool_behatcontrol
+maintainers:
+- github: davidherzlos
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A nice controlbar displayed during browser acceptance test to control the
+  steps execution
+metrics:
+  updated: '2026-08-03T07:44:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

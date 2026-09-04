@@ -1,0 +1,18 @@
+component: report_gradelookup
+source: https://github.com/Sternfast/moodle-report_gradelookup
+maintainers:
+- github: Sternfast
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Grade Lookup — a Moodle site report to look up any learner's grades across
+  every course, with a per-item breakdown, certificates, and Excel export. GPLv3.
+metrics:
+  updated: '2026-09-03T21:28:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

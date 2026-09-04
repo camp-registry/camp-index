@@ -1,0 +1,17 @@
+component: report_coursecoach
+source: https://github.com/tamaskery/moodle-report_coursecoach
+maintainers:
+- github: tamaskery
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Check whether your Moodle course is ready for learners.
+metrics:
+  updated: '2026-08-29T06:25:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

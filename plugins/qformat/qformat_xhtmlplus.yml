@@ -1,0 +1,17 @@
+component: qformat_xhtmlplus
+source: https://github.com/giovannilicari/moodle-qformat_xhtmlplus
+maintainers:
+- github: giovannilicari
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: estensione del formato di espotazione qformat-xhtml
+metrics:
+  updated: '2026-08-19T12:34:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

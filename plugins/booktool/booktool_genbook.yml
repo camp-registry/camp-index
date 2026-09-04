@@ -1,0 +1,16 @@
+component: booktool_genbook
+source: https://github.com/SE-Stuttgart/kib3_moodle_genbook
+maintainers:
+- github: SE-Stuttgart
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-10-02T17:10:46Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

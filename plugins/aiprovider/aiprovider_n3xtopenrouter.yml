@@ -1,0 +1,18 @@
+component: aiprovider_n3xtopenrouter
+source: https://github.com/n3xtgentechitalia/moodle-aiprovider_n3xtopenrouter
+maintainers:
+- github: n3xtgentechitalia
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: OpenRouter AI provider for Moodle 5 generate text, summarise text and generate
+  images from hundreds of models with a single API key.
+metrics:
+  updated: '2026-08-14T14:28:02Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

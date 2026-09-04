@@ -1,0 +1,18 @@
+component: block_learninganalytics
+source: https://github.com/eLearning-TUDarmstadt/moodle-block-learninganalytics-studiboard
+maintainers:
+- github: eLearning-TUDarmstadt
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: studentisches Analyseboard aus dem Learnignanalyticsprojekt, ursprünglich
+  von Studentischer Gruppe entwickelt
+metrics:
+  updated: '2026-08-17T09:53:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

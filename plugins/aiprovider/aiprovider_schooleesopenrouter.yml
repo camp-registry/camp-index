@@ -1,0 +1,19 @@
+component: aiprovider_schooleesopenrouter
+source: https://github.com/Schoolees/moodle-aiprovider_schooleesopenrouter
+maintainers:
+- github: Schoolees
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Schoolees OpenRouter AI Provider for Moodle 5+ (AI subsystem). Adds OpenRouter
+  as an AI provider for text generation/summarisation via the OpenAI-compatible Chat
+  Completions API.
+metrics:
+  updated: '2026-08-24T17:48:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

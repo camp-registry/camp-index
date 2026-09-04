@@ -1,0 +1,17 @@
+component: block_objectives
+source: https://github.com/davosmith/moodle-objectives
+maintainers:
+- github: davosmith
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A block to show current lesson objectives for a class
+metrics:
+  updated: '2026-04-24T14:53:23Z'
+  stars: 5
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: block_compass
+source: https://github.com/uaiblaine/moodle-block_compass
+maintainers:
+- github: uaiblaine
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle block: my courses by relevance, in three tiers (Moodle 5.2+)'
+metrics:
+  updated: '2026-09-04T16:52:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

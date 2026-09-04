@@ -1,0 +1,18 @@
+component: tiny_font_toolkit
+source: https://github.com/Amerlander/moodle-tiny_font_toolkit
+maintainers:
+- github: Amerlander
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Re-enables TinyMCE's own font size, font family and colour controls in Moodle.
+  Configuration only, no formatting logic of its own.
+metrics:
+  updated: '2026-08-12T15:01:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

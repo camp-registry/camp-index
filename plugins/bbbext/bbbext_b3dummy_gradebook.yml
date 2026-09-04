@@ -1,0 +1,17 @@
+component: bbbext_b3dummy_gradebook
+source: https://github.com/blindsidenetworks-ps/moodle-bbbext_b3dummy_gradebook
+maintainers:
+- github: blindsidenetworks-ps
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle BigBlueButtonBN Sub Plugin for testing extension of gradebook
+metrics:
+  updated: '2024-08-28T14:20:12Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

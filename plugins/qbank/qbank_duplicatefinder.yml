@@ -1,0 +1,17 @@
+component: qbank_duplicatefinder
+source: https://github.com/marcusgreen/moodle-qbank_duplicatefinder
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Find duplicate questions in Moodle question banks
+metrics:
+  updated: '2026-03-22T15:20:44Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

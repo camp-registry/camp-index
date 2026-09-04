@@ -1,0 +1,17 @@
+component: mod_selflearn
+source: https://github.com/e-Learning-by-SSE/nm-selflearn-moodle-plugin
+maintainers:
+- github: e-Learning-by-SSE
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: Apache-2.0
+summary: Moodle integration of SelfLearn
+metrics:
+  updated: '2026-02-25T13:32:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-09-04'

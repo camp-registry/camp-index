@@ -1,0 +1,19 @@
+component: local_tresipuntimportgc
+source: https://github.com/3iPunt/moodle-local_tresipuntimportgc
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Turn your Google Classroom classes into Moodle courses, with their content
+  inside Moodle. Sections, coursework, announcements, files and calendar are imported
+  in the background, with live progress and a history panel
+metrics:
+  updated: '2026-08-18T11:43:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: mod_ictexam
+source: https://github.com/ictinnovations/moodle-mod_ictexam
+maintainers:
+- github: ictinnovations
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'ICTEXAM assessment activity for Moodle: launches an ICTEXAM paper over LTI
+  1.3 in a course and writes the score back to the gradebook'
+metrics:
+  updated: '2026-08-31T05:05:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

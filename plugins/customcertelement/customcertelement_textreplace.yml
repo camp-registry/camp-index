@@ -1,0 +1,16 @@
+component: customcertelement_textreplace
+source: https://github.com/vandersonfarias/moodle-customcertelement_textreplace
+maintainers:
+- github: vandersonfarias
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-10-20T18:59:41Z'
+  stars: 0
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

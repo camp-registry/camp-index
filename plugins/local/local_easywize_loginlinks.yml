@@ -1,0 +1,20 @@
+component: local_easywize_loginlinks
+source: https://github.com/easywize/moodle-local_easywize_loginlinks
+maintainers:
+- github: easywize
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: web service issuing auth_userkey one-time login links
+  with hard validity cap, admin exclusion and audit logging'
+dependencies:
+  auth_userkey: 2022081902
+metrics:
+  updated: '2026-08-07T09:02:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

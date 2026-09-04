@@ -1,0 +1,17 @@
+component: local_whatsappbutton
+source: https://github.com/rurak-ec/moodle-local_whatsappbutton
+maintainers:
+- github: rurak-ec
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Configurable floating WhatsApp button for Moodle 4.5–5.2
+metrics:
+  updated: '2026-08-27T19:18:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

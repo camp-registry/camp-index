@@ -1,0 +1,18 @@
+component: local_moon
+source: https://github.com/templaza/moodle-local_moon
+maintainers:
+- github: templaza
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Powerful framework for designers and developers to create responsive, fast
+  & robust Moodle based websites and themes.
+metrics:
+  updated: '2026-09-04T10:18:47Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

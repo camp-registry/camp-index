@@ -1,0 +1,18 @@
+component: tool_amoslink
+source: https://github.com/oliviervalentin/moodle-tool_amoslink
+maintainers:
+- github: oliviervalentin
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Add a direct link to AMOS translation tool, with all plugins prechecked.
+  This tool helps to see all strings that are not translated yet.
+metrics:
+  updated: '2024-07-01T08:46:39Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

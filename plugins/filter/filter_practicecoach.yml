@@ -1,0 +1,18 @@
+component: filter_practicecoach
+source: https://github.com/Moodle-Apps/moodle-filter_practicecoach
+maintainers:
+- github: Moodle-Apps
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Embed Practice Coach widgets full width in course content: {pc_generator},
+  {pc_advisor} and {pc_ranking} tags. Requires block_practicecoach.'
+metrics:
+  updated: '2026-08-13T15:01:11Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

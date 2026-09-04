@@ -1,0 +1,16 @@
+component: local_cluster_dashboard
+source: https://github.com/ahmed-Abouelfotouh/moodle-cluster_dashboard
+maintainers:
+- github: ahmed-Abouelfotouh
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-04-12T16:08:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

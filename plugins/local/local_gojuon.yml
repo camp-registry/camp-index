@@ -1,0 +1,18 @@
+component: local_gojuon
+source: https://github.com/jethac/moodle-local_gojuon
+maintainers:
+- github: jethac
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Gojūon (kana) participants index for Moodle — filters by phonetic name fields,
+  the thing the A-Z bar never did
+metrics:
+  updated: '2026-09-02T11:03:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

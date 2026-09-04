@@ -1,0 +1,17 @@
+component: block_trainingplan
+source: https://github.com/lmshostingservices/moodle-block_trainingplan
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Individual training plan block with scheduled learning milestones
+metrics:
+  updated: '2026-08-15T03:31:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

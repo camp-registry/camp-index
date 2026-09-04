@@ -1,0 +1,17 @@
+component: editor_tinymde
+source: https://github.com/morriemajor/moodle-editor_tinymde
+maintainers:
+- github: morriemajor
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle editor plugin wrapping TinyMDE for FORMAT_MARKDOWN content
+metrics:
+  updated: '2026-08-10T08:20:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

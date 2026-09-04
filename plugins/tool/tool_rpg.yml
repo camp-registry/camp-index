@@ -1,0 +1,17 @@
+component: tool_rpg
+source: https://github.com/sebastsg/moodle-tool_rpg
+maintainers:
+- github: sebastsg
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Tool plugin for Moodle that adds an RPG on the side, integrated with activities.
+metrics:
+  updated: '2024-02-26T07:41:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

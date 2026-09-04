@@ -1,0 +1,18 @@
+component: block_sqlreports
+source: https://github.com/marcusgreen/moodle-block_sqlreports
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  report_sql: 2026080300
+metrics:
+  updated: '2026-09-04T14:54:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

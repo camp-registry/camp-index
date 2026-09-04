@@ -1,0 +1,20 @@
+component: oermod_opencast
+source: https://github.com/llttugraz/moodle-oermod_opencast
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_oer: 2023111701
+  tool_opencast: 2023112200
+  block_opencast: 2023112200
+metrics:
+  updated: '2026-04-08T13:20:39Z'
+  stars: 0
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: local_schola_timetabler
+source: https://github.com/ewanyonyi/moodle-local_schola_timetabler
+maintainers:
+- github: ewanyonyi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Enterprise-grade Moodle local plugin for automated course scheduling, room
+  allocation, and conflict-free exam timetabling.
+metrics:
+  updated: '2026-08-26T10:07:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-09-04'

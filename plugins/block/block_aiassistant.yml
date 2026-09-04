@@ -1,0 +1,18 @@
+component: block_aiassistant
+source: https://github.com/studiolxd/moodle-block_aiassistant
+maintainers:
+- github: studiolxd
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Provider-neutral AI assistant block for Moodle 4.5-5.2 (OpenAI/Anthropic/Gemini,
+  tool-calling, portable RAG)
+metrics:
+  updated: '2026-08-24T11:23:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

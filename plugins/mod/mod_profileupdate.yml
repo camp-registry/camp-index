@@ -1,0 +1,17 @@
+component: mod_profileupdate
+source: https://github.com/alivetek/moodle-mod_profileupdate
+maintainers:
+- github: alivetek
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Update user profile fields within a course activity.
+metrics:
+  updated: '2026-07-30T19:30:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

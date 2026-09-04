@@ -1,0 +1,18 @@
+component: quiz_livemonitor
+source: https://github.com/c-kraus/moodle-quiz_livemonitor
+maintainers:
+- github: c-kraus
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle quiz report subplugin: live exam-progress monitor for teachers (Safe
+  Exam Browser exams)'
+metrics:
+  updated: '2026-08-08T08:26:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: availability_oncemet
+source: https://github.com/ssystems-de/moodle-availability_oncemet
+maintainers:
+- github: ssystems-de
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle availability plugin which permanently remembers nested access restrictions
+  once they have been fulfilled.
+metrics:
+  updated: '2026-09-04T05:22:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,19 @@
+component: local_accessibilitywidget
+source: https://github.com/labtica/moodle-local_accessibilitywidget
+maintainers:
+- github: labtica
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Accessibility widget plugin for Moodle. Floating widget with disability profiles
+  (motor, blindness, color blindness, dyslexia, low vision, epilepsy, ADHD), text-to-speech,
+  reading mask, contrast and text controls.
+metrics:
+  updated: '2026-08-28T19:34:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

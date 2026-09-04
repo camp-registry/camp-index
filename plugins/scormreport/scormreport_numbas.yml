@@ -1,0 +1,17 @@
+component: scormreport_numbas
+source: https://github.com/numbas/moodle-scormreport_numbas
+maintainers:
+- github: numbas
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle SCORM report for Numbas exams
+metrics:
+  updated: '2023-10-26T11:08:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

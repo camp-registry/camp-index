@@ -1,0 +1,20 @@
+component: mod_playervideo
+source: https://github.com/jeanlucio/moodle-mod_playervideo
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'PlayerVideo turns any YouTube, Vimeo, or self-hosted video into an interactive
+  activity: questions pause the video at marked points, with free AI-assisted generation
+  and grading, accessibility features (captions, easy-read AI summaries, a screen-reader-only
+  mode), and PlayerHUD gamification rewards.'
+metrics:
+  updated: '2026-09-04T13:07:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

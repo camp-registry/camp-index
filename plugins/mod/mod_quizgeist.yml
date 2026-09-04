@@ -1,0 +1,18 @@
+component: mod_quizgeist
+source: https://github.com/atxcowboy/moodle-mod_quizgeist
+maintainers:
+- github: atxcowboy
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Quizgeist – Live-Quiz als Moodle-Aktivität. Beitrittscode, QR, Podium, 13
+  Fragetypen, Kahoot-Import. Läuft vollständig in der eigenen Moodle-Instanz.
+metrics:
+  updated: '2026-08-03T15:33:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

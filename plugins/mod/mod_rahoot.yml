@@ -1,0 +1,18 @@
+component: mod_rahoot
+source: https://github.com/Daividdi/moodle-mod_rahoot
+maintainers:
+- github: Daividdi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle activity that embeds a self paced Rahoot quiz, sized to the content
+  area
+metrics:
+  updated: '2026-08-27T10:23:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

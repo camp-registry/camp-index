@@ -1,0 +1,19 @@
+component: qformat_h5p
+source: https://github.com/dthies/moodle-qformat_h5p
+maintainers:
+- github: dthies
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: This plugin for Moodle imports question in H5P content types into the Moodle
+  questions bank. To use this or related plugins to import content into your LMS without
+  having to install it, create a free account at https://moodle.openlearner.org.
+metrics:
+  updated: '2026-08-31T21:36:02Z'
+  stars: 7
+  forks: 3
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

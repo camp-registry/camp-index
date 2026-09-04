@@ -1,0 +1,20 @@
+component: mod_curricmap
+source: https://github.com/RVC-Learn-Digital-Team/moodle-mod_curricmap
+maintainers:
+- github: RVC-Learn-Digital-Team
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle Sofia Curriculum Activity module - present course and strand Sofia
+  content to staff and students in a Moodle course
+dependencies:
+  local_curricmap: 2026071400
+metrics:
+  updated: '2026-09-03T07:05:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

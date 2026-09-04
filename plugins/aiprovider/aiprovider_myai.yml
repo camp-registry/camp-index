@@ -1,0 +1,16 @@
+component: aiprovider_myai
+source: https://github.com/ild-thl/moodle-aiprovider_myai
+maintainers:
+- github: ild-thl
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-04-28T08:23:28Z'
+  stars: 3
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

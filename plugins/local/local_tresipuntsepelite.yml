@@ -1,0 +1,20 @@
+component: local_tresipuntsepelite
+source: https://github.com/3iPunt/moodle-local_tresipuntsepelite
+maintainers:
+- github: 3iPunt
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Connectivity checker between the Spanish Public Employment Service (SEPE)
+  and your Moodle server. Serves the official SEPE WSDL and replies with controlled
+  mock responses, so their validator gets through and every incoming request is logged.
+  Proves the channel works, but it does not pass the SEPE va
+metrics:
+  updated: '2026-08-05T15:23:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

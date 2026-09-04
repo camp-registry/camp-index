@@ -1,0 +1,16 @@
+component: tool_textcleanup
+source: https://github.com/call-learning/moodle-tool_textcleanup
+maintainers:
+- github: call-learning
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-07-26T21:16:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

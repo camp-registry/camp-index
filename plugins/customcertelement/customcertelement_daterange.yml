@@ -1,0 +1,16 @@
+component: customcertelement_daterange
+source: https://github.com/mdjnelson/moodle-customcertelement_daterange
+maintainers:
+- github: mdjnelson
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-05-24T15:09:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

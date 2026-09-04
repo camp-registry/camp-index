@@ -1,0 +1,17 @@
+component: mod_asyoulikeit
+source: https://github.com/kencoba/moodle-mod_asyoulikeit
+maintainers:
+- github: kencoba
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that can submit contents and put likes.
+metrics:
+  updated: '2026-07-12T13:44:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

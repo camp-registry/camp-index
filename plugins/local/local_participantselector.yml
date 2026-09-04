@@ -1,0 +1,18 @@
+component: local_participantselector
+source: https://github.com/m-jr-dev/moodle-local_participantselector
+maintainers:
+- github: m-jr-dev
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  availability_user: any
+metrics:
+  updated: '2026-08-19T16:39:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

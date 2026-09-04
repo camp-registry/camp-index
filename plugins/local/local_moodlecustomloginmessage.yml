@@ -1,0 +1,19 @@
+component: local_moodlecustomloginmessage
+source: https://github.com/dirar/moodlecustomloginmessage
+maintainers:
+- github: dirar
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A local Moodle plugin that replaces the default login error for suspended
+  users with a configurable, multilingual message and safely blocks access by terminating
+  sessions and redirecting to the login page.
+metrics:
+  updated: '2026-07-04T18:21:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

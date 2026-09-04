@@ -1,0 +1,17 @@
+component: local_aiconfig
+source: https://github.com/lmshostingservices/moodle-local_aiconfig
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Central configuration hub for all LMS Labs AI plugins
+metrics:
+  updated: '2026-08-24T05:29:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: local_quizidnumber
+source: https://github.com/UCC-Web-Dev-Team/moodle-local_quizidnumber
+maintainers:
+- github: UCC-Web-Dev-Team
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Displays students registration number as the background moodle quiz
+metrics:
+  updated: '2026-08-08T00:37:28Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

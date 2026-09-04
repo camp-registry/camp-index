@@ -1,0 +1,17 @@
+component: mod_tdltutor
+source: https://github.com/ppernias/moodle-mod_tdltutor
+maintainers:
+- github: ppernias
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: plugin para moodle runtime tdl
+metrics:
+  updated: '2026-08-12T15:40:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

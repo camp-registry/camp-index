@@ -1,0 +1,16 @@
+component: local_coursegradebadge
+source: https://github.com/jctovar/moodle-local_coursegradebadge
+maintainers:
+- github: jctovar
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-20T22:22:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

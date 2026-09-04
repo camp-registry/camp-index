@@ -1,0 +1,18 @@
+component: oerclassification_oefos
+source: https://github.com/llttugraz/moodle-oerclassification_oefos
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_oer: 2022012100
+metrics:
+  updated: '2024-11-18T09:57:37Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

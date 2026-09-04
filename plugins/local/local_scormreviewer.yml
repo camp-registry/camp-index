@@ -1,0 +1,17 @@
+component: local_scormreviewer
+source: https://github.com/BenHowl/moodle-scorm-reviewer
+maintainers:
+- github: BenHowl
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin for reviewing SCORM packages without enrollment
+metrics:
+  updated: '2026-08-05T17:03:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

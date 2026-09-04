@@ -1,0 +1,16 @@
+component: block_bs4compat
+source: https://github.com/roland04/moodle-block_bs4compat
+maintainers:
+- github: roland04
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-02-07T13:51:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: tool_s3asm
+source: https://github.com/warnax-corp/moodle-tool_s3asm
+maintainers:
+- github: warnax-corp
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_aws: 2017030100
+metrics:
+  updated: '2024-07-23T05:55:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

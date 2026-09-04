@@ -1,0 +1,19 @@
+component: block_rtocompliance
+source: https://github.com/lmshostingservices/moodle-block_rtocompliance
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Dashboard block surfacing AVETMISS compliance status at a glance
+dependencies:
+  local_rtocompliance: 2026050500127
+metrics:
+  updated: '2026-08-13T01:49:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

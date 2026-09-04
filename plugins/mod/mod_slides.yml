@@ -1,0 +1,17 @@
+component: mod_slides
+source: https://github.com/lmshostingservices/moodle-mod_slides
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Presentation slide activity for Moodle courses
+metrics:
+  updated: '2026-08-14T09:27:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

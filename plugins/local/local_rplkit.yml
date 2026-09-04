@@ -1,0 +1,18 @@
+component: local_rplkit
+source: https://github.com/lmshostingservices/moodle-local_rplkit
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: local_rplkit — RPL Kit (Recognition of Prior Learning assessment-kit
+  generator)'
+metrics:
+  updated: '2026-08-29T09:22:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

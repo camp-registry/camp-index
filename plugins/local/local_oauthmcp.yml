@@ -1,0 +1,18 @@
+component: local_oauthmcp
+source: https://github.com/justinhunt/moodle-local_oauthmcp
+maintainers:
+- github: justinhunt
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A shared oauth implementation for Moodle activity modules that provide services
+  over MCP
+metrics:
+  updated: '2026-09-03T04:13:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

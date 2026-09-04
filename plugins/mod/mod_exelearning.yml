@@ -1,0 +1,18 @@
+component: mod_exelearning
+source: https://github.com/exelearning/moodle-mod_exelearning
+maintainers:
+- github: exelearning
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Activity-type Moodle module to create, edit and grade eXeLearning resources
+  with native navigation and Moodle gradebook integration.
+metrics:
+  updated: '2026-08-27T22:28:37Z'
+  stars: 1
+  forks: 2
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

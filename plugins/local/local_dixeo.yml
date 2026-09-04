@@ -1,0 +1,17 @@
+component: local_dixeo
+source: https://github.com/dixeo/moodle-local_dixeo
+maintainers:
+- github: dixeo
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Dixeo AI core plugin for Moodle - API client and services
+metrics:
+  updated: '2026-09-04T16:05:12Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

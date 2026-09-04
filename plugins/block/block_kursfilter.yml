@@ -1,0 +1,16 @@
+component: block_kursfilter
+source: https://github.com/Moodle-in-Niedersachsene-V/block_kursfilter
+maintainers:
+- github: Moodle-in-Niedersachsene-V
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-04T20:26:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

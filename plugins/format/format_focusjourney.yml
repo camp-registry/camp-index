@@ -1,0 +1,18 @@
+component: format_focusjourney
+source: https://github.com/ehtisham1512/moodle-format_focusjourney
+maintainers:
+- github: ehtisham1512
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  format_topics: 2024100700
+metrics:
+  updated: '2026-09-01T15:41:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,19 @@
+component: block_tts_reader
+source: https://github.com/jhonrymat/tts_reader_moodle
+maintainers:
+- github: jhonrymat
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 🔊 TTS Reader - Lector de Voz para Moodle Plugin de bloque para Moodle 4.5+
+  que proporciona un widget flotante de texto a voz (TTS) usando la Web Speech API
+  del navegador.
+metrics:
+  updated: '2025-11-26T00:47:24Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: mod_certificatepro
+source: https://github.com/lmshostingservices/moodle-mod_certificatepro
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: mod_certificatepro'
+metrics:
+  updated: '2026-08-18T04:46:18Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

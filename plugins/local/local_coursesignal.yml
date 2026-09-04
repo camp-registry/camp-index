@@ -1,0 +1,18 @@
+component: local_coursesignal
+source: https://github.com/ehtisham1512/moodle-local_coursesignal
+maintainers:
+- github: ehtisham1512
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: CourseSignal – a Moodle plugin that lets learners report problems with course
+  activities and resources.
+metrics:
+  updated: '2026-08-13T13:49:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

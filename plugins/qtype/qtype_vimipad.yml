@@ -1,0 +1,18 @@
+component: qtype_vimipad
+source: https://github.com/ralferlebach/moodle-qtype_vimipad
+maintainers:
+- github: ralferlebach
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_vimipad: 2026080800
+metrics:
+  updated: '2026-08-13T05:09:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,18 @@
+component: mod_nicesurvey
+source: https://github.com/tonimareta/moodle-mod_nicesurvey
+maintainers:
+- github: tonimareta
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Nice survey is a more modern form of conducting surveys than the standard
+  plugin built into the LMS system.
+metrics:
+  updated: '2026-08-19T02:43:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

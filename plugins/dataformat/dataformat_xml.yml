@@ -1,0 +1,17 @@
+component: dataformat_xml
+source: https://github.com/paulholden/moodle-dataformat_xml
+maintainers:
+- github: paulholden
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle data format plugin for exporting as XML
+metrics:
+  updated: '2025-10-14T08:20:04Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

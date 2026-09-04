@@ -1,0 +1,18 @@
+component: local_simplecert_autoissue
+source: https://github.com/pavlorenc/moodle-local_simplecert_autoissue
+maintainers:
+- github: pavlorenc
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_simplecertificate: 2024051105
+metrics:
+  updated: '2026-08-25T14:24:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,19 @@
+component: gradereport_gradedist
+source: https://github.com/academic-moodle-cooperation/moodle-gradereport_gradedist
+maintainers:
+- github: academic-moodle-cooperation
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: The Grade Distribution visualizes the distribution of the participants' letter
+  grades in the grades overview. Changes to letter grades can be visually analysed,
+  saved and overwritten if necessary.
+metrics:
+  updated: '2026-08-13T18:14:33Z'
+  stars: 5
+  forks: 1
+  open-issues: 3
+  archived: false
+  checked: '2026-09-04'

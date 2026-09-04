@@ -1,0 +1,18 @@
+component: aiprovider_bbco
+source: https://github.com/bambuco/moodle-aiprovider_bbco
+maintainers:
+- github: bambuco
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A proxy/router AI provider that delegates requests to configured real AI
+  providers (OpenAI, Azure AI, Ollama, etc.).
+metrics:
+  updated: '2026-09-03T00:19:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

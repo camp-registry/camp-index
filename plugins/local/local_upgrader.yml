@@ -1,0 +1,16 @@
+component: local_upgrader
+source: https://github.com/rmady/moodle-local_upgrader
+maintainers:
+- github: rmady
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-07-21T14:38:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

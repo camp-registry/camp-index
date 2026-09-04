@@ -1,0 +1,16 @@
+component: gradeexport_txt_sheffield
+source: https://github.com/NeilStrickland/moodle-grade-export_txt_sheffield
+maintainers:
+- github: NeilStrickland
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-04-25T09:01:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

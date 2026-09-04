@@ -1,0 +1,18 @@
+component: local_asyntai
+source: https://github.com/asyntai/moodle-local_asyntai
+maintainers:
+- github: asyntai
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Create and launch AI assistant/chatbot for your website in minutes. Your
+  website can now talk.
+metrics:
+  updated: '2026-01-29T10:16:43Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

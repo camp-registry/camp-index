@@ -1,0 +1,17 @@
+component: local_auto_saml_cohort
+source: https://github.com/victorfioravante/Moodle-Auto-SAML-Cohort
+maintainers:
+- github: victorfioravante
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Auto SAML Cohort Plugin for Moodle
+metrics:
+  updated: '2025-04-03T23:33:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

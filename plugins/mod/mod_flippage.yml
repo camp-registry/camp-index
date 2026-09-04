@@ -1,0 +1,17 @@
+component: mod_flippage
+source: https://github.com/ajinursyamsi/moodle-mod_flippage
+maintainers:
+- github: ajinursyamsi
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle activity module for presenting PDF files as an interactive flipbook.
+metrics:
+  updated: '2026-07-30T14:22:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-09-04'

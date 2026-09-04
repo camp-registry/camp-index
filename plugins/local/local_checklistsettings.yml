@@ -1,0 +1,18 @@
+component: local_checklistsettings
+source: https://github.com/Portvgal/moodle-local_checklistsettings
+maintainers:
+- github: Portvgal
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  gradingform_checklist: 2026081200
+metrics:
+  updated: '2026-08-15T11:50:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

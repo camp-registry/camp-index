@@ -1,0 +1,17 @@
+component: tool_sessionbreaker
+source: https://github.com/catalyst/moodle-tool_sessionbreaker
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A rough as guts stress test for moodle session handlers
+metrics:
+  updated: '2024-12-30T04:25:25Z'
+  stars: 5
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

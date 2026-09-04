@@ -1,0 +1,18 @@
+component: local_groupgrades
+source: https://github.com/ytyohanan/moodle-groupgrades
+maintainers:
+- github: ytyohanan
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: group-specific grade adjustment rules (factor, bonus,
+  Top N of M)'
+metrics:
+  updated: '2026-07-21T21:30:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-09-04'

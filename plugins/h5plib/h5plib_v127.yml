@@ -1,0 +1,17 @@
+component: h5plib_v127
+source: https://github.com/moodlehq/moodle-h5plib_v127
+maintainers:
+- github: moodlehq
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: H5P integration library v127
+metrics:
+  updated: '2024-09-27T11:24:20Z'
+  stars: 0
+  forks: 2
+  open-issues: 2
+  archived: false
+  checked: '2026-09-04'

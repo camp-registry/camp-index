@@ -1,0 +1,18 @@
+component: local_tagfilter
+source: https://github.com/ChurcherAI/moodle-local_tagfilter
+maintainers:
+- github: ChurcherAI
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: combined tag filtering (topic + level) with Sharing
+  Cart integration'
+metrics:
+  updated: '2026-08-05T14:05:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

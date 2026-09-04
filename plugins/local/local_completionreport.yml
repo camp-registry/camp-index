@@ -1,0 +1,18 @@
+component: local_completionreport
+source: https://github.com/Johnrivera7/moodle_local_completionreport
+maintainers:
+- github: Johnrivera7
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: enhanced activity completion report with visual course
+  order, charts and Excel export (4.5+/5.x)'
+metrics:
+  updated: '2026-09-01T18:05:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

@@ -1,0 +1,17 @@
+component: mod_videomoldura
+source: https://github.com/robertoneves-droid/moodle-mod_videomoldura
+maintainers:
+- github: robertoneves-droid
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Plugin de moldura de vídeo para moodle
+metrics:
+  updated: '2026-08-27T17:22:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 12
+  archived: false
+  checked: '2026-09-04'

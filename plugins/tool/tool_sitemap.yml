@@ -1,0 +1,18 @@
+component: tool_sitemap
+source: https://github.com/harrislineage/moodle-tool_sitemap
+maintainers:
+- github: harrislineage
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: This plugin automatically generates a sitemap and updates the robots.txt
+  file for better SEO and search engine indexing in Moodle.
+metrics:
+  updated: '2024-09-12T15:58:40Z'
+  stars: 4
+  forks: 1
+  open-issues: 6
+  archived: false
+  checked: '2026-09-04'

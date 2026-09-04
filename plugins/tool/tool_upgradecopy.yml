@@ -1,0 +1,17 @@
+component: tool_upgradecopy
+source: https://github.com/thepurpleblob/moodle-admintool_upgradecopy
+maintainers:
+- github: thepurpleblob
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: Moodle admin tool to generate copy commands for all optional plugins.
+metrics:
+  updated: '2024-04-24T08:47:20Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

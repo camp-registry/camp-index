@@ -1,0 +1,18 @@
+component: block_dixeo_designer
+source: https://github.com/dixeo/moodle-block_dixeo_designer
+maintainers:
+- github: dixeo
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_dixeo: 2026073100
+metrics:
+  updated: '2026-09-03T11:40:06Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

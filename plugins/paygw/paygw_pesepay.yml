@@ -1,0 +1,16 @@
+component: paygw_pesepay
+source: https://github.com/gitnyasha/pesepay-moodle
+maintainers:
+- github: gitnyasha
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-10-16T15:38:58Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

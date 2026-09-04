@@ -1,0 +1,17 @@
+component: local_chirpvoice
+source: https://github.com/lmshostingservices/moodle-local_chirpvoice
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: AI voiceover injection for SCORM packages without source file access
+metrics:
+  updated: '2026-08-13T01:52:21Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'

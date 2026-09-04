@@ -1,0 +1,18 @@
+component: qbank_bulkupdate
+source: https://github.com/vadimonus/moodle-qbank_bulkupdate
+maintainers:
+- github: vadimonus
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+dependencies:
+  qtype_multichoice: 2022041900
+metrics:
+  updated: '2025-03-01T14:46:33Z'
+  stars: 0
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

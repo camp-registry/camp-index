@@ -1,0 +1,18 @@
+component: local_metatags
+source: https://github.com/santoshtmp/moodle-local_metatags
+maintainers:
+- github: santoshtmp
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: The Meta tags plugin gives Moodle site administrators a central way to define
+  and manage HTML metadata for their pages. It helps search
+metrics:
+  updated: '2026-09-03T08:13:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-04'

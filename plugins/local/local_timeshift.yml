@@ -1,0 +1,18 @@
+component: local_timeshift
+source: https://github.com/yerodigo-cell/moodle-local_timeshift
+maintainers:
+- github: yerodigo-cell
+tier: 0
+status: active
+discovered: '2026-09-04'
+releases: []
+license: GPL-3.0
+summary: A local plugin for Moodle designed to simplify the management of dates across
+  course activities.
+metrics:
+  updated: '2026-08-29T05:59:52Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-04'
