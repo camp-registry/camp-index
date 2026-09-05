@@ -88,3 +88,76 @@ oermod:
   name: OER module handlers
   established: "2026-09-04"
   issue: https://github.com/camp-registry/camp-index/issues/278
+
+# Batch established 2026-09-05 from the first complete discovery sweep
+# (camp-tools#42): one review per family, records in each issue.
+accessibility:
+  parent: local_accessibility
+  name: Accessibility widgets
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/284
+aitool:
+  parent: local_ai_manager
+  name: AI manager tools
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/286
+bookingextension:
+  parent: mod_booking
+  name: Booking extensions
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/292
+certificateelement:
+  parent: tool_certificate
+  name: Workplace certificate elements
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/294
+dashaddon:
+  parent: local_dash
+  name: Dash addons
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/297
+lytix:
+  parent: local_lytix
+  name: Lytix learning analytics modules
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/300
+metadataextractor:
+  parent: tool_metadata
+  name: Metadata extractors
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/301
+peerworkcalculator:
+  parent: mod_peerwork
+  name: Peer work calculators
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/303
+playbook:
+  parent: local_declarativesetup
+  name: Declarative setup playbooks
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/304
+taskflowadapter:
+  parent: local_taskflow
+  name: Taskflow adapters
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/306
+tepuycomponents:
+  parent: local_tepuy
+  name: Tepuy components
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/307
+townsquareexpansion:
+  parent: local_townsquaresupport
+  name: Town Square expansions
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/308
+userstatus:
+  parent: tool_cleanupusers
+  name: User status checkers
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/309
+wbreport:
+  parent: local_wb_reports
+  name: Wunderbyte reports
+  established: "2026-09-05"
+  issue: https://github.com/camp-registry/camp-index/issues/310
