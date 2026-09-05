@@ -51,7 +51,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.57"
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.58"
 
       # inputs are empty on schedule runs; the fallbacks keep the cron
       # behavior identical to the dispatch defaults. 45-day recheck on a
@@ -141,5 +141,5 @@ jobs:
 
           $members
 
-          This needs one family-establishment review (camp-registry/camp-tools#16): decide whether \`$prefix\` is a subplugin family meant for separate distribution. Independent authors publishing members from their own repositories is the usual positive signal; members that only live inside the parent's repository are internal decomposition and do not list. To establish, add a record for \`$prefix\` (parent, display name, this issue's URL) to \`discovery/subplugin-families.yml\` and close this issue; parked members relist automatically on the next scan's recheck window. To reject, close with the reason; the members stay parked."
+          This needs one family-establishment review (camp-registry/camp-tools#16): decide whether \`$prefix\` is a subplugin family meant for separate distribution. Independent authors publishing members from their own repositories is the usual positive signal; members that only live inside the parent's repository are internal decomposition and do not list. To establish, add a record for \`$prefix\` (parent, display name, this issue's URL) to \`discovery/subplugin-families.yml\` and close this issue; parked members relist automatically on the next scan. To reject, close with the reason; the members stay parked."
           done
