@@ -14,3 +14,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: Sanapilvi-lohko Moodleen. Lohko kerää opiskelijoiden syöttämiä sanoja, yhdistää
+  samat sanat case-insensitive-logiikalla, poistaa stop-sanoja ja näyttää tulokset
+  sanapilvenä sekä analytiikkana.

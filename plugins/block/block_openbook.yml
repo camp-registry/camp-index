@@ -42,9 +42,9 @@ metrics:
   open-issues: 0
   archived: false
   latest-release:
-    tag: v5.2-r3
-    date: '2026-04-28T07:15:30Z'
-  checked: '2026-08-21'
+    tag: v5.2-r5
+    date: '2026-08-23T12:53:45Z'
+  checked: '2026-09-05'
   ci: moodle-plugin-ci
 summary: The Openbook Resource Block provides links to files provided by a Openbook
   Resource Folder (mod_openbook).

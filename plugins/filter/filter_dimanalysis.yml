@@ -14,3 +14,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: 'Renders dimensional-analysis (factor-label) working the way it is taught:'

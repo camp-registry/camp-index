@@ -14,3 +14,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: This is local plugin that adds a new setting type for your plugins. Currently,
+  this plugin just adds a JSON setting type. The plugin ensures that the text inserted
+  into the textarea is valid JSON, and throws an error if it isn't.

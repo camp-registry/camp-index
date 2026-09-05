@@ -14,3 +14,6 @@ metrics:
   open-issues: 3
   archived: false
   checked: '2026-09-04'
+summary: This plugin integrates the OpenRouter API with Moodle's Core AI framework,
+  enabling text generation, text summarisation, and image generation actions from
+  Moodle placements.

@@ -14,3 +14,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: A Moodle 5.x text filter that renders chemistry notation using the \cjx{...}
+  syntax via isolated MathJax 2.

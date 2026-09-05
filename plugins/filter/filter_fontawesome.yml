@@ -18,7 +18,7 @@ metrics:
   latest-release:
     tag: v5.2-r1
     date: '2026-06-17T09:38:55Z'
-  checked: '2026-08-21'
+  checked: '2026-09-05'
   ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-filter_fontawesome/security
 labels:

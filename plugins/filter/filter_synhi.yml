@@ -23,5 +23,5 @@ metrics:
   latest-release:
     tag: V500.1.2
     date: '2026-04-24T13:04:47Z'
-  checked: '2026-08-21'
+  checked: '2026-09-05'
   ci: moodle-plugin-ci

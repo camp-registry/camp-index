@@ -14,3 +14,5 @@ metrics:
   open-issues: 2
   archived: false
   checked: '2026-09-04'
+summary: A Moodle AI provider plugin that integrates Pollinations.ai — the affordable,
+  multi-model AI inference platform — into Moodle 4.5+ (and later).

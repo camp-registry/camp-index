@@ -35,7 +35,7 @@ metrics:
   forks: 8
   open-issues: 0
   archived: false
-  checked: '2026-08-21'
+  checked: '2026-09-05'
   ci: moodle-plugin-ci
 dependencies:
   block_xp: 2017080700

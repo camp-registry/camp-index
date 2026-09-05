@@ -14,3 +14,4 @@ metrics:
   open-issues: 20
   archived: false
   checked: '2026-09-04'
+summary: Proctor by Constructor plugin was tested with Moodle versions 3.8 to 5.x.

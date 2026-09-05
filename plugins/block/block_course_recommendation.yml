@@ -14,3 +14,7 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: The Course Recommendation block is a Moodle plugin that recommends courses
+  to users based on collaborative filtering and course metadata analysis. It provides
+  personalized course recommendations without using AI, making it lightweight and
+  privacy-friendly.

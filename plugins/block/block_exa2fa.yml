@@ -14,3 +14,5 @@ metrics:
   open-issues: 1
   archived: false
   checked: '2026-09-04'
+summary: EXA2fa Plugin adds a 2nd authentication step (a2fa) to your existing Auth
+  (manual, email and ldap)

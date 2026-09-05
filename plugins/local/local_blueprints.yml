@@ -14,3 +14,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: A course blueprint system for Moodle that lets administrators designate courses
+  as reusable templates. Users can browse, search, and clone blueprints into new empty
+  courses via a guided 3-step wizard — no direct backup/restore required.

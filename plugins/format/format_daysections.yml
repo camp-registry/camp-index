@@ -16,3 +16,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: Moodle course format that shows the course as numbered day sections (Day
+  1, Day 2, Day 3, …), based on Topics format.

@@ -16,3 +16,5 @@ metrics:
   open-issues: 2
   archived: false
   checked: '2026-09-04'
+summary: This plugin provides Multi-Factor Authentication (MFA) for Moodle using Telegram
+  as an authentication method.

@@ -16,3 +16,5 @@ metrics:
   open-issues: 7
   archived: false
   checked: '2026-09-04'
+summary: An admin/manager-facing analytics report for modaiproofreader (AI Proofreader),
+  built for National Trail Local Schools.

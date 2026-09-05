@@ -14,3 +14,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: A simple Moodle local plugin that demonstrates how to integrate and use Laravel's
+  Blade templating engine as an alternative to Moodle's default Mustache templates.

@@ -16,3 +16,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: A site-wide Helpdesk chat placement for Moodle's core AI subsystem. It adds
+  a RAGflow Helpdesk entry

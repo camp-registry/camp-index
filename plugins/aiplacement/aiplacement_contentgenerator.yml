@@ -16,3 +16,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: aiplacementcontentgenerator is a Moodle plugin (plugin type aiplacement)
+  that automatically creates learning videos from existing course content.

@@ -10,7 +10,7 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for archiving various activities
 metrics:
-  updated: '2026-08-16T14:51:40Z'
+  updated: '2026-09-01T13:43:09Z'
   stars: 1
   forks: 1
   open-issues: 14
@@ -18,7 +18,7 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2025-11-23T14:35:01Z'
-  checked: '2026-08-21'
+  checked: '2026-09-05'
   ci: moodle-plugin-ci
 security-contact: https://github.com/ngandrass/moodle-local_archiving/security
 labels:

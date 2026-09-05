@@ -20,6 +20,6 @@ metrics:
   latest-release:
     tag: 2.3.2
     date: '2026-08-16T22:41:27Z'
-  checked: '2026-08-21'
+  checked: '2026-09-05'
   ci: moodle-plugin-ci
 summary: Automate course backups and securely send them to external servers.

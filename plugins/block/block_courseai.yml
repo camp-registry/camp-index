@@ -14,3 +14,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: A Moodle 4.1+ course block that adds a grounded AI teaching assistant to
+  the course page. Teachers add the block, upload knowledge, and students chat. Answers
+  come only from visible course content plus the teacher’s knowledge base.

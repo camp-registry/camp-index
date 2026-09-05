@@ -14,3 +14,7 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: This is a sample plugin for Moodle, designed to demonstrate AI-based placement
+  functionalities using the Moodle AI Subsystem APIs. This example plugin is compatible
+  with Moodle 4.5+ and provides a basic implementation for developers to understand
+  and build upon.

@@ -14,3 +14,5 @@ metrics:
   open-issues: 1
   archived: false
   checked: '2026-09-04'
+summary: A Moodle AI provider plugin that integrates Claude AI into Moodle's AI subsystem,
+  enabling text generation, text summarisation, and text explanation

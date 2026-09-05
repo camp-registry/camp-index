@@ -14,3 +14,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: aiprovidermyai is an AI provider plugin for Moodle that uses the core AI
+  interfaces and provides multiple AI actions.

@@ -17,3 +17,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: Specialized AI provider for additional features such as Text-to-Speech capabilities
+  using the OpenAI API.

@@ -19,13 +19,13 @@ license: GPL-3.0
 metrics:
   updated: '2026-07-17T19:31:22Z'
   stars: 20
-  forks: 53
-  open-issues: 24
+  forks: 54
+  open-issues: 28
   archived: false
   latest-release:
     tag: v5.0.4
     date: '2026-02-01T07:44:06Z'
-  checked: '2026-08-21'
+  checked: '2026-09-05'
   ci: moodle-plugin-ci
 dependencies:
   format_topics: 2025100600

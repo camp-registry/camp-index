@@ -32,13 +32,13 @@ releases:
 license: GPL-3.0
 summary: Moodle block plugin for viewing/converting time in different timezones
 metrics:
-  updated: '2026-08-13T13:33:06Z'
+  updated: '2026-08-30T14:03:55Z'
   stars: 3
   forks: 1
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.2.3
-    date: '2026-06-21T07:42:43Z'
-  checked: '2026-08-21'
+    tag: v1.2.4
+    date: '2026-08-30T14:04:19Z'
+  checked: '2026-09-05'
   ci: moodle-plugin-ci
