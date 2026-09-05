@@ -1,8 +1,16 @@
 component: aiprovider_bbco
 source: https://github.com/bambuco/moodle-aiprovider_bbco
+source-repo-id: 1155173293
+security-contact: https://github.com/bambuco/camp-claim/security/advisories/new
 maintainers:
 - github: bambuco
-tier: 0
+- github: davidherney
+tier: 1
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+org-claim: bambuco
 status: active
 discovered: '2026-09-04'
 releases: []

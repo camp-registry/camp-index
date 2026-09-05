@@ -1,8 +1,16 @@
 component: gradereport_planstate
 source: https://github.com/davidherney/moodle-gradereport_planstate
+source-repo-id: 406238775
+security-contact: https://github.com/davidherney/camp-claim/security/advisories/new
 maintainers:
 - github: davidherney
-tier: 0
+- github: bambuco
+tier: 1
+labels:
+- fully-free
+- donation-supported
+- commercial-support-available
+org-claim: davidherney
 status: active
 discovered: '2026-09-04'
 releases: []
