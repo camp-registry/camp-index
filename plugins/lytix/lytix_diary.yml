@@ -1,0 +1,21 @@
+component: lytix_diary
+source: https://github.com/llttugraz/moodle-lytix_diary
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: A local_lytix subplugin. Tool to create a personal diary for the course(lesson's
+  learned, time spent, notes).
+dependencies:
+  lytix_helper: any
+  lytix_logs: any
+metrics:
+  updated: '2025-01-27T10:22:53Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

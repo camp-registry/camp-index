@@ -1,0 +1,18 @@
+component: bookingextension_agent
+source: https://github.com/georgmaisser/moodle-bookingextension_agent
+maintainers:
+- github: georgmaisser
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_booking: 2026020300
+metrics:
+  updated: '2026-09-02T14:05:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-05'

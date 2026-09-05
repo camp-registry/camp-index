@@ -1,0 +1,19 @@
+component: userstatus_manualacc_checker
+source: https://github.com/grabsch/moodle-cleanupusers_manualacc_checker
+maintainers:
+- github: grabsch
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: CC0-1.0
+summary: Subplugin for moodle-tool_cleanupusers for manual accounts
+dependencies:
+  tool_cleanupusers: any
+metrics:
+  updated: '2024-10-30T11:05:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

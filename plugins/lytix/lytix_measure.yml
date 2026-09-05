@@ -1,0 +1,22 @@
+component: lytix_measure
+source: https://github.com/llttugraz/moodle-lytix_measure
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: Overview of the individual score and overview score (points) of the users.(Mine,
+  Lowest, Highest, Avg)
+dependencies:
+  lytix_planner: any
+  lytix_helper: any
+  lytix_logs: any
+metrics:
+  updated: '2024-02-15T10:50:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-09-05'

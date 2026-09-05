@@ -1,0 +1,17 @@
+component: wbreport_iqshsab
+source: https://github.com/Wunderbyte-GmbH/moodle-wbreport_iqshsab
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: 'Wunderbyte Report: IQSH SAB'
+metrics:
+  updated: '2026-08-25T08:31:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

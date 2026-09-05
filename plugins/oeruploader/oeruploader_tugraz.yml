@@ -1,0 +1,18 @@
+component: oeruploader_tugraz
+source: https://github.com/llttugraz/moodle-oeruploader_tugraz
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_oer: 2021121000
+metrics:
+  updated: '2022-06-21T11:40:52Z'
+  stars: 1
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-09-05'

@@ -1,0 +1,22 @@
+component: lytix_grademonitor
+source: https://github.com/llttugraz/moodle-lytix_grademonitor
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: A local_lytix subplugin. Tool to give an overview and self estimation for
+  a course grade.
+dependencies:
+  lytix_helper: any
+  lytix_logs: any
+  lytix_config: any
+metrics:
+  updated: '2024-02-15T10:49:20Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: true
+  checked: '2026-09-05'

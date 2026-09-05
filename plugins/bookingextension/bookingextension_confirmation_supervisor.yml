@@ -1,0 +1,18 @@
+component: bookingextension_confirmation_supervisor
+source: https://github.com/Wunderbyte-GmbH/moodle-bookingextension_confirmation_supervisor
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_booking: 2026080400
+metrics:
+  updated: '2026-08-28T15:39:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-09-05'

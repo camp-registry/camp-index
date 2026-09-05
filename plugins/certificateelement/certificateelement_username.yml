@@ -1,0 +1,16 @@
+component: certificateelement_username
+source: https://github.com/cnw-co/moodle-certificateelement_username
+maintainers:
+- github: cnw-co
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-03-19T21:54:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

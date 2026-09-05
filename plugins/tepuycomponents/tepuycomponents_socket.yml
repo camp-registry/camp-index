@@ -1,0 +1,18 @@
+component: tepuycomponents_socket
+source: https://github.com/davidherney/moodle-tepuycomponents_socket
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: An implementation to use web sockets integrated with Moodle, specially designed
+  for use from JS.
+metrics:
+  updated: '2024-05-17T20:53:02Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

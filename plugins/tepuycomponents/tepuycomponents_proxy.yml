@@ -1,0 +1,18 @@
+component: tepuycomponents_proxy
+source: https://github.com/davidherney/moodle-tepuycomponents_proxy
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: A proxy implementation for use with external content, such as SCORM packages,
+  to avoid cross-origin issues. External sites must be authorized.
+metrics:
+  updated: '2025-03-28T05:02:59Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

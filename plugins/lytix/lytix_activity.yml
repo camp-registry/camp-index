@@ -1,0 +1,21 @@
+component: lytix_activity
+source: https://github.com/llttugraz/moodle-lytix_activity
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: A Moodle local_lytix subplugin. It delivers information's about the users
+  activities in the course(course view, quizzes, forum etc.).
+dependencies:
+  lytix_helper: any
+  lytix_logs: any
+metrics:
+  updated: '2024-11-11T12:58:25Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

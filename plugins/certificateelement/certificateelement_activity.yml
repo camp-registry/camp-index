@@ -1,0 +1,18 @@
+component: certificateelement_activity
+source: https://github.com/UNIMOODLE/moodle-certificateelement_activity
+maintainers:
+- github: UNIMOODLE
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_certifygen: 2024060705
+metrics:
+  updated: '2025-11-21T12:47:25Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-09-05'

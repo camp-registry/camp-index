@@ -1,0 +1,17 @@
+component: tepuycomponents_jscsscontrols
+source: https://github.com/davidherney/moodle-tepuycomponents_jscsscontrols
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: Special functions and styles to enrich the platform interfaces.
+metrics:
+  updated: '2025-05-30T16:47:19Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

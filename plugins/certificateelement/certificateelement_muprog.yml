@@ -1,0 +1,20 @@
+component: certificateelement_muprog
+source: https://github.com/mutms/moodle-certificateelement_muprog
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: MuTMS Program elements for Certificate plugin
+dependencies:
+  tool_muprog: 2026080845
+  tool_certificate: 2025031800
+metrics:
+  updated: '2026-08-14T17:56:34Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

@@ -1,0 +1,17 @@
+component: mod_suddendeath
+source: https://github.com/surajthalange/moodle-mod_suddendeath
+maintainers:
+- github: surajthalange
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: 'Sudden Death: a learner-driven, streak-based revision activity for Moodle.'
+metrics:
+  updated: '2026-09-05T21:20:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

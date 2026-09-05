@@ -9879,6 +9879,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  DgHung23/moodle_downloader:
+    outcome: no-version-php
+    detail: no parseable version.php at root of branch main
+    first-seen: '2026-09-05'
+    last-checked: '2026-09-05'
   Dhana2007/C-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -19500,8 +19505,9 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
   KI-Campus/moodle-block_openai_chat_scieneers:
-    outcome: written
-    detail: listed as block_openai_chat_scieneers
+    outcome: exists
+    detail: component block_openai_chat_scieneers already registered (first-come,
+      RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   KI-Campus/moodle-custom-css:
@@ -26416,12 +26422,10 @@ repos:
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
   NJahreis/moodle-aitool_gwdg:
-    outcome: needs-review
-    detail: unknown plugin type 'aitool'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as aitool_gwdg
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: aitool_gwdg
+    last-checked: '2026-09-05'
   NJahreis/moodle-enrol_campusonline:
     outcome: exists
     detail: component enrol_campusonline already registered (first-come, RFC §8)
@@ -30478,12 +30482,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
   ProjektAdLer/MoodlePlugin-playbook_adler:
-    outcome: needs-review
-    detail: unknown plugin type 'playbook'; declares dependency on listed local_declarativesetup;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as playbook_adler
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: playbook_adler
+    last-checked: '2026-09-05'
   ProjektAdLer/moodle-docker:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -31035,8 +31037,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
   RVC-Learn-Digital-Team/moodle-auth_db_salt2:
-    outcome: written
-    detail: listed as auth_db_salt2
+    outcome: exists
+    detail: component auth_db_salt2 already registered (first-come, RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   RVC-Learn-Digital-Team/moodle-filter_curricmap:
@@ -35728,8 +35730,8 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
   Smartlearn-edu/moodle-mod_cv:
-    outcome: written
-    detail: listed as mod_cv
+    outcome: exists
+    detail: component mod_cv already registered (first-come, RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   Smartlearn-edu/moodle-qlogin_shomokh:
@@ -39523,12 +39525,10 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
   UNIMOODLE/moodle-certificateelement_activity:
-    outcome: needs-review
-    detail: unknown plugin type 'certificateelement'; declares dependency on listed
-      mod_certifygen; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as certificateelement_activity
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: certificateelement_activity
+    last-checked: '2026-09-05'
   UNIMOODLE/moodle-gradeexport_groupfilter_txt:
     outcome: exists
     detail: component gradeexport_groupfilter_txt already registered (first-come,
@@ -41617,40 +41617,30 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
   Wunderbyte-GmbH/moodle-bookingextension_confirmation_supervisor:
-    outcome: needs-review
-    detail: unknown plugin type 'bookingextension'; declares dependency on listed
-      mod_booking; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as bookingextension_confirmation_supervisor
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: bookingextension_confirmation_supervisor
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-bookingextension_evasys:
-    outcome: needs-review
-    detail: unknown plugin type 'bookingextension'; family establishment review required
-      before listing (camp-tools#16)
+    outcome: written
+    detail: listed as bookingextension_evasys
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: bookingextension_evasys
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-bookingextension_oneclick:
-    outcome: needs-review
-    detail: unknown plugin type 'bookingextension'; declares dependency on listed
-      mod_booking; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as bookingextension_oneclick
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: bookingextension_oneclick
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-bookingextension_skeleton:
-    outcome: needs-review
-    detail: unknown plugin type 'bookingextension'; family establishment review required
-      before listing (camp-tools#16)
+    outcome: written
+    detail: listed as bookingextension_skeleton
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: bookingextension_skeleton
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-bookingextension_todolist:
-    outcome: needs-review
-    detail: unknown plugin type 'bookingextension'; declares dependency on listed
-      mod_booking; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as bookingextension_todolist
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: bookingextension_todolist
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-catquizcentralhub_client:
     outcome: needs-review
     detail: unknown plugin type 'catquizcentralhub'; family establishment review required
@@ -41902,12 +41892,10 @@ repos:
     last-checked: '2026-07-24'
     component: quizaccess_proctoring
   Wunderbyte-GmbH/moodle-taskflowadapter_ksw:
-    outcome: needs-review
-    detail: unknown plugin type 'taskflowadapter'; family establishment review required
-      before listing (camp-tools#16)
+    outcome: written
+    detail: listed as taskflowadapter_ksw
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: taskflowadapter_ksw
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-theme_boost_campus_bfi:
     outcome: name-collision
     detail: independent repository declaring theme_boost_campus, held by https://github.com/moodle-an-hochschulen/moodle-theme_boost_campus;
@@ -41966,54 +41954,40 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
   Wunderbyte-GmbH/moodle-wbreport_iqshall:
-    outcome: needs-review
-    detail: unknown plugin type 'wbreport'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as wbreport_iqshall
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: wbreport_iqshall
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-wbreport_iqshftl:
-    outcome: needs-review
-    detail: unknown plugin type 'wbreport'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as wbreport_iqshftl
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: wbreport_iqshftl
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-wbreport_iqshliv:
-    outcome: needs-review
-    detail: unknown plugin type 'wbreport'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as wbreport_iqshliv
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: wbreport_iqshliv
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-wbreport_iqshmin:
-    outcome: needs-review
-    detail: unknown plugin type 'wbreport'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as wbreport_iqshmin
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: wbreport_iqshmin
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-wbreport_iqshsab:
-    outcome: needs-review
-    detail: unknown plugin type 'wbreport'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as wbreport_iqshsab
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: wbreport_iqshsab
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-wbreport_iqshusers:
-    outcome: needs-review
-    detail: unknown plugin type 'wbreport'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as wbreport_iqshusers
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: wbreport_iqshusers
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle-wbreport_iqshusersschulart:
-    outcome: needs-review
-    detail: unknown plugin type 'wbreport'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as wbreport_iqshusersschulart
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: wbreport_iqshusersschulart
+    last-checked: '2026-09-05'
   Wunderbyte-GmbH/moodle_auth_campusconnect:
     outcome: exists
     detail: component auth_campusconnect already registered (first-come, RFC §8)
@@ -53187,8 +53161,8 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
   baxters-dumgal/moodle-tabset:
-    outcome: written
-    detail: listed as mod_tabset
+    outcome: exists
+    detail: component mod_tabset already registered (first-come, RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   bayupermadi/moodle-scorm-token:
@@ -53363,12 +53337,10 @@ repos:
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
   bdecentgmbh/moodle-dashaddon_greeting:
-    outcome: needs-review
-    detail: unknown plugin type 'dashaddon'; family establishment review required
-      before listing (camp-tools#16)
+    outcome: written
+    detail: listed as dashaddon_greeting
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: dashaddon_greeting
+    last-checked: '2026-09-05'
   bdecentgmbh/moodle-enrol_credit:
     outcome: exists
     detail: component enrol_credit already indexed this run
@@ -58586,19 +58558,15 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
   catalyst/moodle-metadataextractor_readable:
-    outcome: needs-review
-    detail: unknown plugin type 'metadataextractor'; declares dependency on listed
-      tool_metadata; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as metadataextractor_readable
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: metadataextractor_readable
+    last-checked: '2026-09-05'
   catalyst/moodle-metadataextractor_tika:
-    outcome: needs-review
-    detail: unknown plugin type 'metadataextractor'; declares dependency on listed
-      tool_metadata; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as metadataextractor_tika
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: metadataextractor_tika
+    last-checked: '2026-09-05'
   catalyst/moodle-mod_ack:
     outcome: exists
     detail: component mod_ack already registered (first-come, RFC §8)
@@ -60893,8 +60861,8 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
   chirrus/moodle-doc2interact:
-    outcome: written
-    detail: listed as mod_doc2interact
+    outcome: exists
+    detail: component mod_doc2interact already registered (first-come, RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   chithrasp/moodle:
@@ -62099,12 +62067,10 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
   cnw-co/moodle-certificateelement_username:
-    outcome: needs-review
-    detail: unknown plugin type 'certificateelement'; family establishment review
-      required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as certificateelement_username
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: certificateelement_username
+    last-checked: '2026-09-05'
   cnw-co/moodle-filter_filtercodes:
     outcome: name-collision
     detail: independent repository declaring filter_filtercodes, held by https://github.com/michael-milette/moodle-filter_filtercodes;
@@ -66081,33 +66047,25 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
   davidherney/moodle-tepuycomponents_jscsscontrols:
-    outcome: needs-review
-    detail: unknown plugin type 'tepuycomponents'; family establishment review required
-      before listing (camp-tools#16)
+    outcome: written
+    detail: listed as tepuycomponents_jscsscontrols
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: tepuycomponents_jscsscontrols
+    last-checked: '2026-09-05'
   davidherney/moodle-tepuycomponents_proxy:
-    outcome: needs-review
-    detail: unknown plugin type 'tepuycomponents'; family establishment review required
-      before listing (camp-tools#16)
+    outcome: written
+    detail: listed as tepuycomponents_proxy
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: tepuycomponents_proxy
+    last-checked: '2026-09-05'
   davidherney/moodle-tepuycomponents_singledb:
-    outcome: needs-review
-    detail: unknown plugin type 'tepuycomponents'; family establishment review required
-      before listing (camp-tools#16)
+    outcome: written
+    detail: listed as tepuycomponents_singledb
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: tepuycomponents_singledb
+    last-checked: '2026-09-05'
   davidherney/moodle-tepuycomponents_socket:
-    outcome: needs-review
-    detail: unknown plugin type 'tepuycomponents'; family establishment review required
-      before listing (camp-tools#16)
+    outcome: written
+    detail: listed as tepuycomponents_socket
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: tepuycomponents_socket
+    last-checked: '2026-09-05'
   davidherney/moodle-theme_adaptable:
     outcome: exists
     detail: component theme_adaptable already indexed this run
@@ -71386,12 +71344,10 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
   eLearning-TUDarmstadt/moodle-cleanupusers_ldapchecker:
-    outcome: needs-review
-    detail: unknown plugin type 'userstatus'; declares dependency on listed tool_cleanupusers;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as userstatus_ldapchecker
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: userstatus_ldapchecker
+    last-checked: '2026-09-05'
   eLearning-TUDarmstadt/moodle-local_categorybackup:
     outcome: exists
     detail: component local_categorybackup already registered (first-come, RFC §8)
@@ -75760,8 +75716,9 @@ repos:
     first-seen: '2026-09-03'
     last-checked: '2026-09-03'
   fdagner/presentation_moodle-database-preset:
-    outcome: written
-    detail: listed as datapreset_presentation
+    outcome: exists
+    detail: component datapreset_presentation already registered (first-come, RFC
+      §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   fdagner/sticky-notes__moodle-database-preset:
@@ -78508,12 +78465,10 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
   georgmaisser/moodle-bookingextension_agent:
-    outcome: needs-review
-    detail: unknown plugin type 'bookingextension'; declares dependency on listed
-      mod_booking; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as bookingextension_agent
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: bookingextension_agent
+    last-checked: '2026-09-05'
   georgmaisser/moodle-mod_mooduell:
     outcome: copy
     detail: shares git history with https://github.com/Wunderbyte-GmbH/moodle-mod_mooduell,
@@ -79945,12 +79900,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
   grabsch/moodle-cleanupusers_manualacc_checker:
-    outcome: needs-review
-    detail: unknown plugin type 'userstatus'; declares dependency on listed tool_cleanupusers;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as userstatus_manualacc_checker
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: userstatus_manualacc_checker
+    last-checked: '2026-09-05'
   gracielars999/moodle-azure-bicep:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -80353,8 +80306,8 @@ repos:
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
   gtn/moodle-aiplacement_exaaichat:
-    outcome: written
-    detail: listed as aiplacement_exaaichat
+    outcome: exists
+    detail: component aiplacement_exaaichat already registered (first-come, RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   gtn/moodle-assignfeedback_exapdf:
@@ -82719,8 +82672,8 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
   horizonednet-org/moodle-filter_bibliotech:
-    outcome: written
-    detail: listed as filter_bibliotech
+    outcome: exists
+    detail: component filter_bibliotech already registered (first-come, RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   horizonednet-org/moodle-local_bibliotech:
@@ -97090,29 +97043,20 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-08-03'
   learnweb/moodle-townsquareexpansion_moodleoverflow:
-    outcome: needs-review
-    detail: unknown plugin type 'townsquareexpansion'; declares dependency on listed
-      local_townsquaresupport; family establishment review required before listing
-      (camp-tools#16)
+    outcome: written
+    detail: listed as townsquareexpansion_moodleoverflow
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: townsquareexpansion_moodleoverflow
+    last-checked: '2026-09-05'
   learnweb/moodle-townsquareexpansion_ratingallocate:
-    outcome: needs-review
-    detail: unknown plugin type 'townsquareexpansion'; declares dependency on listed
-      local_townsquaresupport; family establishment review required before listing
-      (camp-tools#16)
+    outcome: written
+    detail: listed as townsquareexpansion_ratingallocate
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: townsquareexpansion_ratingallocate
+    last-checked: '2026-09-05'
   learnweb/moodle-townsquareexpansion_zoom:
-    outcome: needs-review
-    detail: unknown plugin type 'townsquareexpansion'; declares dependency on listed
-      local_townsquaresupport; family establishment review required before listing
-      (camp-tools#16)
+    outcome: written
+    detail: listed as townsquareexpansion_zoom
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: townsquareexpansion_zoom
+    last-checked: '2026-09-05'
   learnweb/moodle-workflows-learnweb:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -98428,68 +98372,50 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-09-03'
   llttugraz/moodle-lytix_activity:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_activity
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_activity
+    last-checked: '2026-09-05'
   llttugraz/moodle-lytix_config:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_config
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_config
+    last-checked: '2026-09-05'
   llttugraz/moodle-lytix_diary:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_diary
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_diary
+    last-checked: '2026-09-05'
   llttugraz/moodle-lytix_grademonitor:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_grademonitor
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_grademonitor
+    last-checked: '2026-09-05'
   llttugraz/moodle-lytix_helper:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_helper
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_helper
+    last-checked: '2026-09-05'
   llttugraz/moodle-lytix_logs:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_logs
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_logs
+    last-checked: '2026-09-05'
   llttugraz/moodle-lytix_measure:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_measure
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_measure
+    last-checked: '2026-09-05'
   llttugraz/moodle-lytix_planner:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_planner
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_planner
+    last-checked: '2026-09-05'
   llttugraz/moodle-lytix_timeoverview:
-    outcome: needs-review
-    detail: unknown plugin type 'lytix'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as lytix_timeoverview
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: lytix_timeoverview
+    last-checked: '2026-09-05'
   llttugraz/moodle-mod_amplifier:
     outcome: exists
     detail: component mod_amplifier already registered (first-come, RFC §8)
@@ -98517,12 +98443,10 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
   llttugraz/moodle-oeruploader_tugraz:
-    outcome: needs-review
-    detail: unknown plugin type 'oeruploader'; declares dependency on listed local_oer;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as oeruploader_tugraz
     first-seen: '2026-09-03'
-    last-checked: '2026-09-03'
-    component: oeruploader_tugraz
+    last-checked: '2026-09-05'
   llweiGit1/newMoodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -102255,12 +102179,10 @@ repos:
     last-checked: '2026-09-04'
     component: aiprovider_groq
   marcusgreen/moodle-aitool_genericopenai:
-    outcome: needs-review
-    detail: unknown plugin type 'aitool'; family establishment review required before
-      listing (camp-tools#16)
+    outcome: written
+    detail: listed as aitool_genericopenai
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: aitool_genericopenai
+    last-checked: '2026-09-05'
   marcusgreen/moodle-assignfeedback_aif:
     outcome: exists
     detail: component assignfeedback_aif already registered (first-come, RFC §8)
@@ -105947,12 +105869,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
   mhughes2k/moodle-peerworkcalculator_strath:
-    outcome: needs-review
-    detail: unknown plugin type 'peerworkcalculator'; family establishment review
-      required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as peerworkcalculator_strath
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: peerworkcalculator_strath
+    last-checked: '2026-09-05'
   mhughes2k/moodle-search_solrrag:
     outcome: exists
     detail: component search_solrrag already registered (first-come, RFC §8)
@@ -111830,19 +111750,15 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
   mutms/moodle-certificateelement_mucertify:
-    outcome: needs-review
-    detail: unknown plugin type 'certificateelement'; declares dependency on listed
-      tool_mucertify; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as certificateelement_mucertify
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: certificateelement_mucertify
+    last-checked: '2026-09-05'
   mutms/moodle-certificateelement_muprog:
-    outcome: needs-review
-    detail: unknown plugin type 'certificateelement'; declares dependency on listed
-      tool_muprog; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as certificateelement_muprog
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: certificateelement_muprog
+    last-checked: '2026-09-05'
   mutms/moodle-customfield_mutrain:
     outcome: exists
     detail: component customfield_mutrain already registered (first-come, RFC §8)
@@ -116830,19 +116746,15 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
   open-lms-open-source/moodle-certificateelement_certify:
-    outcome: needs-review
-    detail: unknown plugin type 'certificateelement'; declares dependency on listed
-      tool_certificate; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as certificateelement_certify
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: certificateelement_certify
+    last-checked: '2026-09-05'
   open-lms-open-source/moodle-certificateelement_programs:
-    outcome: needs-review
-    detail: unknown plugin type 'certificateelement'; declares dependency on listed
-      enrol_programs; family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as certificateelement_programs
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: certificateelement_programs
+    last-checked: '2026-09-05'
   open-lms-open-source/moodle-coding-standard:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -120468,82 +120380,60 @@ repos:
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
   ponlawat-w/moodle-accessibility_backgroundcolour:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_backgroundcolour
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_backgroundcolour
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_fontface:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_fontface
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_fontface
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_fontkerning:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_fontkerning
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_fontkerning
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_fontsize:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_fontsize
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_fontsize
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_imagevisibility:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_imagevisibility
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_imagevisibility
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_letterspacing:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_letterspacing
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_letterspacing
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_lineheight:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_lineheight
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_lineheight
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_linkhighlight:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_linkhighlight
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_linkhighlight
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_paragraphwidth:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_paragraphwidth
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_paragraphwidth
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_textalignment:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_textalignment
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_textalignment
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-accessibility_textcolour:
-    outcome: needs-review
-    detail: unknown plugin type 'accessibility'; declares dependency on listed local_accessibility;
-      family establishment review required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as accessibility_textcolour
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: accessibility_textcolour
+    last-checked: '2026-09-05'
   ponlawat-w/moodle-atto_geodata:
     outcome: bad-license
     detail: 'license: none detected'
@@ -134681,6 +134571,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  surajthalange/moodle-mod_suddendeath:
+    outcome: written
+    detail: listed as mod_suddendeath
+    first-seen: '2026-09-05'
+    last-checked: '2026-09-05'
   surendar-007/Surendar-Moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -136983,8 +136878,8 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-03'
   think-modular-digital-solutions-GmbH/moodle-aiprovider_mygpt:
-    outcome: written
-    detail: listed as aiprovider_mygpt
+    outcome: exists
+    detail: component aiprovider_mygpt already registered (first-come, RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   think-modular-digital-solutions-GmbH/moodle-assignfeedback_externalserver:
@@ -137004,12 +136899,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   think-modular-digital-solutions-GmbH/moodle-certificateelement_coursesummary:
-    outcome: needs-review
-    detail: unknown plugin type 'certificateelement'; family establishment review
-      required before listing (camp-tools#16)
+    outcome: written
+    detail: listed as certificateelement_coursesummary
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: certificateelement_coursesummary
+    last-checked: '2026-09-05'
   think-modular-digital-solutions-GmbH/moodle-enrol_itcsrvc:
     outcome: exists
     detail: component enrol_itcsrvc already registered (first-come, RFC §8)
@@ -146817,8 +146710,8 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
   yasada0819/moodle-block_data_flex_editor:
-    outcome: written
-    detail: listed as block_data_flex_editor
+    outcome: exists
+    detail: component block_data_flex_editor already registered (first-come, RFC §8)
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
   yasada0819/moodle-local_completionoverride:

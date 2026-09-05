@@ -1,0 +1,17 @@
+component: wbreport_iqshusers
+source: https://github.com/Wunderbyte-GmbH/moodle-wbreport_iqshusers
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: 'Wunderbyte Report: IQSH USERS'
+metrics:
+  updated: '2026-08-19T15:32:30Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

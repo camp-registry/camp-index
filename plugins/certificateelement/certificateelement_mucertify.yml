@@ -1,0 +1,20 @@
+component: certificateelement_mucertify
+source: https://github.com/mutms/moodle-certificateelement_mucertify
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: MuTMS Certification elements for Certificate plugin for Moodle™ LMS
+dependencies:
+  tool_mucertify: 2026080845
+  tool_certificate: 2025031800
+metrics:
+  updated: '2026-08-14T17:56:32Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

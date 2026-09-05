@@ -1,0 +1,19 @@
+component: userstatus_ldapchecker
+source: https://github.com/eLearning-TUDarmstadt/moodle-cleanupusers_ldapchecker
+maintainers:
+- github: eLearning-TUDarmstadt
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: LDAP subplugin for moodle-tool_cleanupusers
+dependencies:
+  tool_cleanupusers: any
+metrics:
+  updated: '2025-08-13T10:53:11Z'
+  stars: 1
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-09-05'

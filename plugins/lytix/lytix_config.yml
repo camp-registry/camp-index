@@ -1,0 +1,21 @@
+component: lytix_config
+source: https://github.com/llttugraz/moodle-lytix_config
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: A local_lytix subplugin. A Plugin with helper functions needed in several
+  other subplugins.
+dependencies:
+  lytix_logs: any
+  lytix_timeoverview: any
+metrics:
+  updated: '2025-08-14T09:17:03Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

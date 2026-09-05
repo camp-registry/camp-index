@@ -1,0 +1,19 @@
+component: bookingextension_oneclick
+source: https://github.com/Wunderbyte-GmbH/moodle-bookingextension_oneclick
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_booking: 2026020300
+  bookingextension_agent: 2026061012
+metrics:
+  updated: '2026-09-02T08:57:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

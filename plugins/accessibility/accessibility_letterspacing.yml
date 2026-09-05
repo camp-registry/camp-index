@@ -1,0 +1,18 @@
+component: accessibility_letterspacing
+source: https://github.com/ponlawat-w/moodle-accessibility_letterspacing
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_accessibility: 2024082401
+metrics:
+  updated: '2025-09-08T08:14:38Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

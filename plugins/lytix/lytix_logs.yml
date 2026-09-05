@@ -1,0 +1,17 @@
+component: lytix_logs
+source: https://github.com/llttugraz/moodle-lytix_logs
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: A local_lytix subplugin. Logs the interactions with the plugins.
+metrics:
+  updated: '2025-08-14T09:19:18Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

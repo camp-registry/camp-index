@@ -1,0 +1,21 @@
+component: lytix_timeoverview
+source: https://github.com/llttugraz/moodle-lytix_timeoverview
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: A local_lytix subplugin. Overview for the spend time per activity of all
+  users(course, quiz, submission etc. [median time]).
+dependencies:
+  lytix_helper: any
+  lytix_logs: any
+metrics:
+  updated: '2025-08-14T09:02:58Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

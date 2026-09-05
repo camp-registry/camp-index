@@ -1,0 +1,17 @@
+component: lytix_helper
+source: https://github.com/llttugraz/moodle-lytix_helper
+maintainers:
+- github: llttugraz
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: a local_lytix subplugin. Plugin with helper functions needed in several subplugins.
+metrics:
+  updated: '2025-08-14T09:04:17Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

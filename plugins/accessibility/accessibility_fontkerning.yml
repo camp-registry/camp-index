@@ -1,0 +1,18 @@
+component: accessibility_fontkerning
+source: https://github.com/ponlawat-w/moodle-accessibility_fontkerning
+maintainers:
+- github: ponlawat-w
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_accessibility: 2024082401
+metrics:
+  updated: '2025-02-18T07:50:52Z'
+  stars: 0
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

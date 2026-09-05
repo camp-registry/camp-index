@@ -1,0 +1,20 @@
+component: metadataextractor_tika
+source: https://github.com/catalyst/moodle-metadataextractor_tika
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: Metadata API subplugin for extracting metadata from Moodle files using Apache
+  Tika.
+dependencies:
+  tool_metadata: 2020042101
+metrics:
+  updated: '2026-01-30T01:35:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-09-05'
