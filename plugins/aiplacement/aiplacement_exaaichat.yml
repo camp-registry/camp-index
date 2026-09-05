@@ -1,0 +1,18 @@
+component: aiplacement_exaaichat
+source: https://github.com/gtn/moodle-aiplacement_exaaichat
+maintainers:
+- github: gtn
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  block_exaaichat: 2025112700
+metrics:
+  updated: '2026-02-05T15:15:02Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

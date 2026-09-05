@@ -1,0 +1,16 @@
+component: aiprovider_mygpt
+source: https://github.com/think-modular-digital-solutions-GmbH/moodle-aiprovider_mygpt
+maintainers:
+- github: think-modular-digital-solutions-GmbH
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-11-12T15:46:34Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

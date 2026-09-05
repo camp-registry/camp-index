@@ -1,0 +1,16 @@
+component: auth_db_salt2
+source: https://github.com/RVC-Learn-Digital-Team/moodle-auth_db_salt2
+maintainers:
+- github: RVC-Learn-Digital-Team
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-07T16:56:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

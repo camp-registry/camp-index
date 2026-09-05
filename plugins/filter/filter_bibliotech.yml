@@ -1,0 +1,18 @@
+component: filter_bibliotech
+source: https://github.com/horizonednet-org/moodle-filter_bibliotech
+maintainers:
+- github: horizonednet-org
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_bibliotech: 2026081300
+metrics:
+  updated: '2026-08-19T19:41:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

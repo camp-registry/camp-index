@@ -1,0 +1,18 @@
+component: mod_tabset
+source: https://github.com/baxters-dumgal/moodle-tabset
+maintainers:
+- github: baxters-dumgal
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: Moodle activity module to provide a welcome area in your course.  Moodle
+  4 (main) and 5 (moodle5) branch available
+metrics:
+  updated: '2026-01-29T13:17:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

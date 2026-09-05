@@ -1,0 +1,16 @@
+component: block_openai_chat_scieneers
+source: https://github.com/KI-Campus/moodle-block_openai_chat_scieneers
+maintainers:
+- github: KI-Campus
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-05T12:03:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

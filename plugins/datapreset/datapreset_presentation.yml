@@ -1,0 +1,17 @@
+component: datapreset_presentation
+source: https://github.com/fdagner/presentation_moodle-database-preset
+maintainers:
+- github: fdagner
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+summary: Moodle mod_data template for a quick and easy presentation
+metrics:
+  updated: '2026-01-25T10:10:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-05'

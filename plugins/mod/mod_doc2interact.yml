@@ -1,0 +1,16 @@
+component: mod_doc2interact
+source: https://github.com/chirrus/moodle-doc2interact
+maintainers:
+- github: chirrus
+tier: 0
+status: active
+discovered: '2026-09-05'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-08-06T16:16:55Z'
+  stars: 0
+  forks: 1
+  open-issues: 22
+  archived: false
+  checked: '2026-09-05'
