@@ -14,3 +14,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-05'
+summary: A Moodle authentication plugin based on the official Moodle 4.5 core

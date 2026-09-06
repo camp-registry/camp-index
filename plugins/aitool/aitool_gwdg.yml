@@ -14,3 +14,7 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-05'
+summary: The AI Tool for GWDG is a tool provider subplugin which can be used to integrate
+  the Large Language Modles hosted by the Gesellschaft für wissenschaftliche Datenverarbeitung
+  mbH Göttingen (GWDG). It allows to configure multiple instances of the tool in order
+  to quickly switch between the models.

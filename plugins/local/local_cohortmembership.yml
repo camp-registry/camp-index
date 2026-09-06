@@ -35,10 +35,10 @@ metrics:
   updated: '2026-08-06T01:28:39Z'
   stars: 2
   forks: 1
-  open-issues: 0
+  open-issues: 1
   archived: false
   latest-release:
     tag: v1.0.3
     date: '2026-07-23T04:05:19Z'
-  checked: '2026-08-21'
+  checked: '2026-09-06'
   ci: moodle-plugin-ci

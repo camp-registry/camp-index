@@ -14,3 +14,4 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: Moodle plugin that links a course to the Cortex knowledge engine. When a

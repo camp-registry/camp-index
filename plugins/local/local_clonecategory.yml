@@ -14,3 +14,7 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: A powerful, native Moodle local plugin that enables site administrators and
+  course managers to seamlessly clone entire course categories—including all subcategories,
+  courses, and course activities—with advanced progress tracking, pause/resume capability,
+  total rollback support, and strict concurrenc

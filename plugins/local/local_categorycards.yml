@@ -14,3 +14,7 @@ metrics:
   open-issues: 1
   archived: false
   checked: '2026-09-04'
+summary: A Moodle local plugin designed to replace the default plain list of course
+  categories with elegant, responsive, and customizable visual cards. This plugin
+  enhances site navigation and visual aesthetics, allowing administrators and category
+  managers to define custom cover images, background colors, a

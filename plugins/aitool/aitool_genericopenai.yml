@@ -14,3 +14,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-05'
+summary: The Generic OpenAI Tool is a plugin for the localaimanager from https://github.com/bycs-lp/moodle-localaimanager.
+  It is a clone of the chatgpt tool except the endpoint and model can be customised.
