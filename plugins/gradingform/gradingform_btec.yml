@@ -1,8 +1,14 @@
 component: gradingform_btec
 source: https://github.com/marcusgreen/moodle-gradingform_btec
+source-repo-id: 7304896
+security-contact: https://github.com/marcusgreen/camp-claim/security/advisories/new
 maintainers:
 - github: marcusgreen
-tier: 0
+tier: 1
+labels:
+- fully-free
+- commercial-support-available
+org-claim: marcusgreen
 status: active
 discovered: '2026-07-11'
 releases: []

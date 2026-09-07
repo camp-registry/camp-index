@@ -1,8 +1,14 @@
 component: tool_tweak
 source: https://github.com/marcusgreen/moodle-tool_tweak
+source-repo-id: 680311999
+security-contact: https://github.com/marcusgreen/camp-claim/security/advisories/new
 maintainers:
 - github: marcusgreen
-tier: 0
+tier: 1
+labels:
+- fully-free
+- commercial-support-available
+org-claim: marcusgreen
 status: active
 discovered: '2026-09-04'
 releases: []
