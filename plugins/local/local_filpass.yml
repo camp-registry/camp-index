@@ -14,3 +14,7 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: This local Moodle plugin connects the custom certificate workflow to the
+  FilPass platform. Its purpose is to allow a certificate issued in Moodle to be prepared
+  as a PDF and submitted to a configured FilPass batch for downstream issuance and
+  tracking.

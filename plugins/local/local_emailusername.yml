@@ -14,3 +14,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-04'
+summary: A simple, free plugin that lets users register and login with their email
+  address instead of a separate username. Features a beautiful password requirements
+  UI with live validation.
