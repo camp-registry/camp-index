@@ -30,6 +30,16 @@ releases:
   listing-sha256: 04a5e28bdfe327e9229f09aac3451434d160ea2daf20dab9b2c1f7db8843c6f1
   published: '2026-08-14T14:41:23Z'
   released: '2026-08-14T14:40:56Z'
+- version: v3.0.5
+  tag: v3.0.5
+  commit: 78fa05d8b776cbd0f83c9cdf6632fc56d75964f9
+  moodle-version: 2026080805
+  supported-moodle:
+  - '5.1'
+  zip-sha256: 23bd2f4c542d3bc36dd65647233cefd1f1c76cfbd892a9b3acc707a302356349
+  listing-sha256: 04a5e28bdfe327e9229f09aac3451434d160ea2daf20dab9b2c1f7db8843c6f1
+  published: '2026-09-08T05:31:55Z'
+  released: '2026-09-08T05:31:34Z'
 license: GPL-3.0
 metrics:
   updated: '2026-08-08T20:06:19Z'
