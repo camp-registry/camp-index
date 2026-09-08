@@ -12,7 +12,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-16T22:38:00Z'
+  updated: '2026-09-06T12:12:09Z'
   stars: 2
   forks: 5
   open-issues: 0
@@ -20,7 +20,7 @@ metrics:
   latest-release:
     tag: 2.4.6
     date: '2026-08-12T17:56:17Z'
-  checked: '2026-08-21'
+  checked: '2026-09-08'
   ci: moodle-plugin-ci
 summary: Integrated help desk and knowledge base for the platform.
 dependencies:
