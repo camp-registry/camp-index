@@ -5,7 +5,7 @@ security-contact: https://github.com/bambuco/camp-claim/security/advisories/new
 maintainers:
 - github: bambuco
 - github: davidherney
-tier: 1
+tier: 2
 labels:
 - fully-free
 - donation-supported
@@ -13,7 +13,26 @@ labels:
 org-claim: bambuco
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v1.0.0
+  tag: v1.0.0
+  commit: c0631bc3f259f86e4c18735428a14ebc120938a2
+  moodle-version: 2020102700
+  supported-moodle:
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: 8809751179b6f6df103fed38211905fbab2c96d77a95652dbcfbcae97c3973f5
+  listing-sha256: 020a73570908c5230379c824a808db345afc20805c2f4ec8dcfc46e4ee8c2011
+  published: '2026-09-08T20:41:07Z'
+  released: '2026-09-08T20:34:36Z'
 license: GPL-3.0
 metrics:
   updated: '2026-08-03T17:06:56Z'
