@@ -56,7 +56,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools[screenshots,archive] @ git+https://github.com/camp-registry/camp-tools@v0.2.59"
+        run: pip install --quiet "camp-tools[screenshots,archive] @ git+https://github.com/camp-registry/camp-tools@v0.2.60"
 
       - name: Setup PHP (code checks)
         uses: shivammathur/setup-php@v2
@@ -125,7 +125,8 @@ jobs:
           camp site . "$BASE_URL" dist --listings "$RUNNER_TEMP/listings" --checks dist/checks \
             --reviews https://mdlshield.com/api/reviews/published \
             --artifacts-base "$ARTIFACTS_BASE" \
-            --authors-md docs-repo/AUTHORS.md
+            --authors-md docs-repo/AUTHORS.md \
+            --installing-md docs-repo/INSTALLING.md
           # Publish the ingested listings + manifest so the next publish
           # can reuse them (screenshots already ship at /shots/).
           mkdir -p dist/listings
