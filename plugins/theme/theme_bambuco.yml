@@ -5,7 +5,7 @@ security-contact: https://github.com/bambuco/camp-claim/security/advisories/new
 maintainers:
 - github: bambuco
 - github: davidherney
-tier: 1
+tier: 2
 labels:
 - fully-free
 - donation-supported
@@ -13,7 +13,19 @@ labels:
 org-claim: bambuco
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v4.5.08
+  tag: v4.5.08
+  commit: 1d0075b6022158027e2cd1a8ecafe5a2d7c542d8
+  moodle-version: 2025011008
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    theme_boost: 2024100700
+  zip-sha256: 62e613afeb52f84ce9b2029eaac47cd17b703a940601da78cdd8a3532966de39
+  listing-sha256: c73c20bcaf2c052bf25321b82fbdc03eee3f924a3a0ca8600fc4e5fdf22dde5f
+  published: '2026-09-09T02:14:20Z'
+  released: '2026-09-09T02:13:26Z'
 license: GPL-3.0
 summary: A Moodle theme
 metrics:
