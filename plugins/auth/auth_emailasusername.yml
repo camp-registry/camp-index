@@ -12,7 +12,7 @@ summary: Moodle plugin to provide email self-registration with the email address
 metrics:
   updated: '2025-10-23T15:56:03Z'
   stars: 0
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-25'
+  checked: '2026-09-09'

@@ -17,8 +17,9 @@ metrics:
   updated: '2026-06-06T15:41:36Z'
   stars: 6
   forks: 3
-  open-issues: 2
+  open-issues: 3
   archived: false
-  checked: '2026-08-25'
+  checked: '2026-09-09'
+  ci: moodle-plugin-ci
 summary: An assignment feedback plugin for Moodle that leverages AI/LLM systems to
   automatically generate

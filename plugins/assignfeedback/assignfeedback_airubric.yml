@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-05T08:29:47Z'
+  updated: '2026-09-03T07:59:00Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-08-25'
+  checked: '2026-09-09'
 summary: 'assignfeedbackairubric on Moodle-tehtavaaktiviteetin palautelaajennus, joka
   tuottaa opettajalle sanallisen palauteluonnoksen:'

@@ -8,13 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-28T14:20:02Z'
+  updated: '2026-08-31T12:09:15Z'
   stars: 1
   forks: 3
-  open-issues: 2
+  open-issues: 0
   archived: false
   latest-release:
-    tag: v1.9.0
-    date: '2026-06-29T11:50:55Z'
-  checked: '2026-08-25'
+    tag: v1.10.0
+    date: '2026-08-31T12:09:15Z'
+  checked: '2026-09-09'
 summary: This plugin allows Moodle users to access content on the e-learning platform

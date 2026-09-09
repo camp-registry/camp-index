@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Authentication Plugin for External Users
 metrics:
-  updated: '2026-08-20T10:38:57Z'
+  updated: '2026-08-27T09:11:51Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-25'
+  checked: '2026-09-09'

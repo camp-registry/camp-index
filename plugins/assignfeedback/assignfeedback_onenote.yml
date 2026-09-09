@@ -9,7 +9,7 @@ releases: []
 summary: OneNote Assignment Feedback plugin for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T09:46:10Z'
+  updated: '2026-09-02T12:07:59Z'
   stars: 11
   forks: 16
   open-issues: 1
@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v5.2.0
     date: '2026-07-07T09:46:10Z'
-  checked: '2026-08-25'
+  checked: '2026-09-09'
 dependencies:
   local_onenote: 2026042000

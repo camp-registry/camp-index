@@ -9,7 +9,7 @@ releases: []
 summary: OneNote Assignment Submission plugin for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T09:46:29Z'
+  updated: '2026-09-02T12:06:40Z'
   stars: 12
   forks: 18
   open-issues: 1
@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v5.2.0
     date: '2026-07-07T09:46:29Z'
-  checked: '2026-08-25'
+  checked: '2026-09-09'
 dependencies:
   local_onenote: 2026042000

@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: Log in to Moodle using one time user key based login URL. Auth plugin for
   organising simple SSO (single sign on) between moodle and your external web application.
 metrics:
-  updated: '2025-12-22T23:21:56Z'
-  stars: 89
-  forks: 61
-  open-issues: 21
+  updated: '2026-09-03T23:25:27Z'
+  stars: 90
+  forks: 63
+  open-issues: 19
   archived: false
   latest-release:
     tag: '2022081901'
     date: '2022-08-19T03:43:59Z'
-  checked: '2026-08-25'
+  checked: '2026-09-09'
