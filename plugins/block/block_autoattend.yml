@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Auto attendance block for Moodle
 metrics:
-  updated: '2025-12-21T17:24:31Z'
+  updated: '2026-09-02T14:39:18Z'
   stars: 1
   forks: 2
   open-issues: 3
   archived: false
   latest-release:
-    tag: v2.7.5
-    date: '2025-02-25T02:31:12Z'
-  checked: '2026-08-26'
+    tag: v2.7.8
+    date: '2026-09-02T14:39:18Z'
+  checked: '2026-09-10'

@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v2.6
     date: '2022-05-27T13:17:43Z'
-  checked: '2026-08-26'
+  checked: '2026-09-10'
 dependencies:
   block_gps: 2021121600

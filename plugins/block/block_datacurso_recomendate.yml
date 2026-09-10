@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-18T14:12:08Z'
+  updated: '2026-08-27T23:06:00Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-08-26'
+  checked: '2026-09-10'
 summary: The Recommended Courses Block provides students with personalized course
   recommendations directly within their Moodle dashboard.
 dependencies:

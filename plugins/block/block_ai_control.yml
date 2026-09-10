@@ -8,7 +8,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-04-23T05:11:12Z'
+  updated: '2026-09-03T12:34:28Z'
   stars: 3
   forks: 5
   open-issues: 6
@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v2.2
     date: '2025-12-04T16:21:58Z'
-  checked: '2026-08-26'
+  checked: '2026-09-10'
 summary: This plugin provides teachers the possiblity to configure the access to AI
   tools from inside a course.
 dependencies:
