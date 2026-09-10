@@ -1,9 +1,11 @@
 # Daily metrics refresh (rolling): re-fetches upstream metrics for the
-# ~400 stalest entries, detects repository renames (tier 0 sources are
-# auto-canonicalized; claimed entries are flagged in metrics.renamed-to,
-# never rewritten), and pushes the result directly to main as the
-# camp-registry-automation app — the one non-human on main's push
-# allowlist. Full catalog turnover: about two weeks.
+# ~600 stalest entries (oldest metrics.checked first; camp-index#317
+# is what happened when it was first-N-in-path-order), detects
+# repository renames (tier 0 sources are auto-canonicalized; claimed
+# entries are flagged in metrics.renamed-to, never rewritten), and
+# pushes the result directly to main as the camp-registry-automation
+# app — the one non-human on main's push allowlist. Full catalog
+# turnover: about twelve days at 7,200 entries.
 
 name: Metrics refresh
 
@@ -15,7 +17,7 @@ on:
         default: "14"
       limit:
         description: "Cap on repos contacted this run"
-        default: "400"
+        default: "600"
   schedule:
     - cron: "47 3 * * *"   # before the daily publish, so it ships fresh data
 
@@ -42,7 +44,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.60"
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.61"
 
       - name: Refresh the stalest entries
         env:
@@ -52,7 +54,7 @@ jobs:
         run: >
           camp enrich .
           --stale-days ${{ inputs.stale-days || '14' }}
-          --limit ${{ inputs.limit || '400' }}
+          --limit ${{ inputs.limit || '600' }}
 
       - name: Push refreshed metrics
         run: |
