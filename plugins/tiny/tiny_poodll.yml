@@ -14,13 +14,13 @@ labels:
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-27T23:56:24Z'
+  updated: '2026-09-07T05:20:52Z'
   stars: 1
   forks: 1
-  open-issues: 4
+  open-issues: 2
   archived: false
   latest-release:
-    tag: v1.0.13
-    date: '2026-04-20T04:22:58Z'
-  checked: '2026-08-05'
+    tag: v1.0.14
+    date: '2026-08-16T14:22:54Z'
+  checked: '2026-09-10'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin

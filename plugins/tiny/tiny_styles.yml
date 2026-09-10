@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: The purpose of this TinyMCE plugin is to let users apply predefined bootstrap
   classes or custom CSS classes to block or inline text.
 metrics:
-  updated: '2026-07-06T18:58:43Z'
+  updated: '2026-08-12T07:36:50Z'
   stars: 2
   forks: 0
-  open-issues: 4
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

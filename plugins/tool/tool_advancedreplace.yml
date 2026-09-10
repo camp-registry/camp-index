@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-16T13:00:13Z'
-  stars: 4
+  updated: '2026-09-10T01:34:00Z'
+  stars: 5
   forks: 1
-  open-issues: 26
+  open-issues: 27
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This is a Moodle plugin that allows administrators to search and replace
   strings in the Moodle database.

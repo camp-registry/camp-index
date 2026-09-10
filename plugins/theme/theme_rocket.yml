@@ -16,4 +16,6 @@ metrics:
   forks: 8
   open-issues: 2
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-09-10'
+dependencies:
+  theme_canvas: 2016052300

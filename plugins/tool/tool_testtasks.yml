@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: This plugin is purely for testing cron in various ways
 metrics:
-  updated: '2026-07-01T04:45:58Z'
+  updated: '2026-07-23T10:43:44Z'
   stars: 4
   forks: 1
   open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

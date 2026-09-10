@@ -52,7 +52,7 @@ releases:
   released: '2026-07-31T15:50:48Z'
 license: GPL-3.0
 metrics:
-  updated: '2026-07-31T15:51:33Z'
+  updated: '2026-08-23T17:17:33Z'
   stars: 4
   forks: 3
   open-issues: 1
@@ -60,7 +60,7 @@ metrics:
   latest-release:
     tag: v5.2-r1
     date: '2026-03-30T11:33:09Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: moodle-quizarchive
 security-contact: https://github.com/bfh/moodle-quiz_archive/security

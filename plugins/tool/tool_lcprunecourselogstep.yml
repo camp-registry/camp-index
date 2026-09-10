@@ -13,7 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: As the core Moodle course deletion process does not remove logs for a course,
   as part of the archival process to prevent continual growth of log tables, the log
   records for the archived course must be removed.
+dependencies:
+  tool_lifecycle: 2023050201

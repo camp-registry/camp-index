@@ -13,7 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: A TinyMCE editor plugin for Moodle that uses AI to automatically detect and
   fix accessibility issues in content, helping ensure WCAG compliance for your course
   materials.
+dependencies:
+  aiplacement_a11y: 2026021401

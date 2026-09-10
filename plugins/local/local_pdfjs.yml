@@ -13,10 +13,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-23T14:36:06Z'
+  updated: '2026-09-07T15:28:20Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-24'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci
 summary: A wrappper for the Mozilla pdf.js library

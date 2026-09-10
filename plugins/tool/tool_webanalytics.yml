@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A Moodle admin tool adding Web Analytics to your Moodle site.
 metrics:
-  updated: '2026-07-07T22:10:26Z'
+  updated: '2026-09-08T01:05:32Z'
   stars: 8
-  forks: 10
-  open-issues: 13
+  forks: 11
+  open-issues: 14
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2021053102'
+    date: '2021-05-31T10:10:08Z'
+  checked: '2026-09-10'

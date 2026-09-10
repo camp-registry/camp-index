@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: A test plugin for working with AI generated image descriptions
 metrics:
-  updated: '2025-10-31T21:07:21Z'
+  updated: '2026-07-30T05:36:34Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

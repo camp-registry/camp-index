@@ -8,11 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-05-19T13:31:51Z'
+  updated: '2026-09-03T08:28:29Z'
   stars: 5
-  forks: 10
-  open-issues: 10
+  forks: 12
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026090300
+    date: '2026-09-03T08:28:29Z'
+  checked: '2026-09-10'
 summary: 1. Go to Site administration > Plugins > Install plugins and upload or drag
   & drop the downloaded ZIP file.

@@ -14,11 +14,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-05T19:23:13Z'
-  stars: 7
+  updated: '2026-09-06T08:46:37Z'
+  stars: 8
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The Moodle AI Subsystem does not have a diagnostic mode to indicate if there
   is an issue with connections to the remote LLM.

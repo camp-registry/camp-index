@@ -14,4 +14,7 @@ metrics:
   forks: 17
   open-issues: 9
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: Moodle3.x
+    date: '2016-03-02T18:41:48Z'
+  checked: '2026-09-10'

@@ -8,9 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2024-07-24T13:34:09Z'
+  updated: '2026-08-27T00:44:04Z'
   stars: 6
   forks: 7
-  open-issues: 7
+  open-issues: 5
   archived: false
-  checked: '2026-08-05'
+  checked: '2026-09-10'
+summary: Moodle Newsletter Module

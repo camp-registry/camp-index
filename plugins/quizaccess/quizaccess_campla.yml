@@ -40,15 +40,15 @@ license: GPL-3.0
 labels:
 - fully-free
 metrics:
-  updated: '2026-07-29T16:22:30Z'
+  updated: '2026-08-23T17:15:19Z'
   stars: 0
   forks: 2
-  open-issues: 1
+  open-issues: 2
   archived: false
   latest-release:
     tag: v5.2-r2
     date: '2026-07-25T13:47:15Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Moodle quiz access plugin to allow for easy configuration of CAMPLA exams.
 security-contact: https://github.com/lucaboesch/moodle-quizaccess_campla/security/advisories/new

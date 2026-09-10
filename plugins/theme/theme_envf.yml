@@ -13,5 +13,21 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: ENVF Boost Based theme
+dependencies:
+  auth_psup: any
+  block_mcms: any
+  block_sponsors: any
+  block_featured_courses: any
+  block_thumblinks_action: any
+  block_faq: any
+  filter_envf: any
+  local_mcms: any
+  local_dash_by_role: any
+  mod_questionnaire: any
+  mod_customcert: any
+  report_customsql: any
+  theme_boost: any
+  theme_clboost: any
+  tool_gdpr_plus: any

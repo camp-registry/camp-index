@@ -12,7 +12,10 @@ summary: An updated version of the legacy TinyMCE plugin for eStream by Uniguest
 metrics:
   updated: '2026-06-30T10:54:49Z'
   stars: 0
-  forks: 3
+  forks: 4
   open-issues: 7
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  assignsubmission_estream: any
+  filter_planetestream: 2015072300

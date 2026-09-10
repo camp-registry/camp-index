@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The IOMAD bootstrap theme is a child of the core Moodle CLassic theme with
   additional functionality to allow for per tenant CSS.
+dependencies:
+  theme_boost: 2025100600
+  local_iomad: 2026010100

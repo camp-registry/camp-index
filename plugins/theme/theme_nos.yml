@@ -14,4 +14,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost_union: 2023102038
+  theme_boost: 2023042400
+  theme_h5peventsystem: 2024041700
+  theme_contentmodifier: 2024041700

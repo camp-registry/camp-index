@@ -13,4 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: Booster is a child theme of the new Bootstrap4 based themeboost from MoodleHQ.
+dependencies:
+  theme_boost: 2016071101

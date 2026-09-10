@@ -12,14 +12,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:36:41Z'
+  updated: '2026-09-06T02:38:59Z'
   stars: 2
   forks: 1
-  open-issues: 3
+  open-issues: 1
   archived: false
   latest-release:
-    tag: 1.0.7
-    date: '2026-05-04T22:43:23Z'
-  checked: '2026-08-06'
+    tag: 1.0.8
+    date: '2026-08-12T17:12:34Z'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Email messaging channel with additional communication features.

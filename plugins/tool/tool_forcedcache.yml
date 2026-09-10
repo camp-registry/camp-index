@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle MUC config managed deterministicly in code using rulesets
 metrics:
-  updated: '2026-06-25T14:48:14Z'
+  updated: '2026-09-08T08:51:21Z'
   stars: 12
   forks: 15
-  open-issues: 10
+  open-issues: 12
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

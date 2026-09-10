@@ -10,9 +10,14 @@ license: GPL-3.0
 summary: tool_lptmanager is an admin tool plugin that allows learning plan templates
   to be exported, imported, and automaticity created from a competency framework.
 metrics:
-  updated: '2026-05-14T01:11:10Z'
+  updated: '2026-09-08T14:48:32Z'
   stars: 2
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2026090200'
+    date: '2026-09-03T14:14:01Z'
+  checked: '2026-09-10'
+dependencies:
+  tool_lp: 2024041600

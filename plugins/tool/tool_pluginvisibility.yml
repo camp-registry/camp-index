@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Moodle admin tool plugin for managing plugin visibility per course category.
   Allows administrators to hide specific activities, blocks, and TinyMCE editor buttons
   from users within selected categories.

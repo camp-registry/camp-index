@@ -14,7 +14,7 @@ license: GPL-3.0
 summary: Modern, highly configurable theme designed to transform the visual experience
   of courses.
 metrics:
-  updated: '2026-08-06T11:39:39Z'
+  updated: '2026-09-06T02:39:14Z'
   stars: 4
   forks: 3
   open-issues: 6
@@ -22,5 +22,7 @@ metrics:
   latest-release:
     tag: 9.7.1
     date: '2026-08-06T11:39:44Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
+dependencies:
+  theme_boost: 2024042200

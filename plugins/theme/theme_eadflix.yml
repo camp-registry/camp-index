@@ -12,7 +12,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:38:54Z'
+  updated: '2026-09-06T02:50:35Z'
   stars: 1
   forks: 0
   open-issues: 2
@@ -20,6 +20,8 @@ metrics:
   latest-release:
     tag: 9.6.2
     date: '2026-06-24T19:09:49Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Immersive streaming-inspired theme designed to showcase your courses.
+dependencies:
+  theme_eadtraining: 2026012502

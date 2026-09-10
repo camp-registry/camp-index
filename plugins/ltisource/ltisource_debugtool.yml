@@ -10,9 +10,9 @@ license: GPL-3.0
 metrics:
   updated: '2018-09-10T23:13:53Z'
   stars: 0
-  forks: 1
+  forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
 summary: This plugin is for testing purposes only, do not install in a production
   Moodle environment!

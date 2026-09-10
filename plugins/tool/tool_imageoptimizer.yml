@@ -8,9 +8,10 @@ discovered: '2026-07-24'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-13T04:56:10Z'
-  stars: 0
+  updated: '2026-08-04T03:44:07Z'
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-24'
+  checked: '2026-09-10'
+summary: An admin tool plugin for Moodle that automatically resizes and recompresses

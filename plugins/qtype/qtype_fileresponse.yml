@@ -37,7 +37,7 @@ metrics:
   latest-release:
     tag: v5.2-r1
     date: '2026-07-29T20:45:52Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 security-contact: https://github.com/bfh/moodle-qtype_fileresponse/security/advisories/new
 labels:

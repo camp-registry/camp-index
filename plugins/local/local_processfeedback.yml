@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v0.0.1
     date: '2026-06-16T13:00:47Z'
-  checked: '2026-08-09'
+  checked: '2026-09-10'
 summary: Process Feedback Local Moodle plugin is a student-centered writing process
   tracking tool for Moodle assignments and forums. It records edits in students’ browsers,
   storing them locally in the browser's database.

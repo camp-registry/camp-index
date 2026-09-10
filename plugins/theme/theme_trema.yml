@@ -11,7 +11,12 @@ license: GPL-3.0
 metrics:
   updated: '2026-06-18T07:49:03Z'
   stars: 40
-  forks: 21
+  forks: 22
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2.1.0
+    date: '2026-06-18T08:07:10Z'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 2022112800

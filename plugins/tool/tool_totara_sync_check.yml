@@ -13,4 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: A very simple plugin which just performs a quick check of the last Totara
+  HR Import for the fatal errors and return OK or ERROR. Also it can notify to configured
+  list of emails.

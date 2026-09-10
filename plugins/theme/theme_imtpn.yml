@@ -8,10 +8,21 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-08T16:54:01Z'
+  updated: '2026-08-19T14:02:47Z'
   stars: 0
   forks: 1
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: IMTP Boost Based theme
+dependencies:
+  theme_boost: any
+  theme_clboost: any
+  block_thumblinks_action: any
+  block_enhanced_myoverview: any
+  block_sharing_cart: any
+  block_rss_thumbnails: any
+  block_mcms: any
+  block_featured_courses: any
+  local_syllabus: any
+  local_resourcelibrary: any

@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle admin tool plugin to register a Moodle site with MoodiyCloud services.
 metrics:
-  updated: '2026-06-18T18:57:12Z'
+  updated: '2026-08-22T08:32:22Z'
   stars: 0
   forks: 0
-  open-issues: 2
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

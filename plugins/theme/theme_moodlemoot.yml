@@ -13,4 +13,8 @@ metrics:
   forks: 1
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 2019051100
+  format_moodlemoot: 2019061201
+  mod_simplecertificate: 2018082000

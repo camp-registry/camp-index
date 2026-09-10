@@ -8,11 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-12T01:15:37Z'
+  updated: '2026-08-19T04:50:50Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Custom course backup step which allows overriding site default settings for
   backups.
+dependencies:
+  tool_lifecycle: 2023050201

@@ -11,9 +11,12 @@ summary: O tool_sga é um plugin do tipo Admin Tool para o Moodle que disponibil
   uma API REST destinada à sincronização de dados provenientes do SGA (Sistema de
   Gestão Acadêmica).
 metrics:
-  updated: '2026-05-30T17:08:22Z'
+  updated: '2026-09-07T09:27:19Z'
   stars: 0
   forks: 0
-  open-issues: 2
+  open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 4.5.020
+    date: '2026-08-31T00:30:09Z'
+  checked: '2026-09-10'

@@ -11,7 +11,7 @@ metrics:
   updated: '2026-03-06T01:43:19Z'
   stars: 0
   forks: 0
-  open-issues: 7
+  open-issues: 11
   archived: false
-  checked: '2026-08-09'
+  checked: '2026-09-10'
 summary: Provides management of quiz access overlays per user and course in Moodle.

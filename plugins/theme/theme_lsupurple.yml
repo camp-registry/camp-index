@@ -9,9 +9,11 @@ releases: []
 license: GPL-3.0
 summary: LSU Boost child theme
 metrics:
-  updated: '2026-07-10T14:28:14Z'
+  updated: '2026-07-21T21:29:20Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 2024100700

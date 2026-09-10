@@ -9,18 +9,18 @@ releases: []
 summary: Office 365 master plugin for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T09:44:57Z'
+  updated: '2026-09-02T11:59:14Z'
   stars: 15
   forks: 21
   open-issues: 1
   archived: false
   latest-release:
-    tag: v5.2.0
-    date: '2026-07-07T09:44:57Z'
-  checked: '2026-08-24'
+    tag: v5.2.1
+    date: '2026-09-02T10:33:16Z'
+  checked: '2026-09-10'
 dependencies:
-  auth_oidc: 2026042000
-  block_microsoft: 2026042000
-  local_o365: 2026042000
+  auth_oidc: 2026042001
+  block_microsoft: 2026042001
+  local_o365: 2026042001
   repository_office365: 2026042000
   theme_boost_o365teams: 2026042000

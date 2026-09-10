@@ -14,4 +14,9 @@ metrics:
   forks: 0
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.1.0
+    date: '2018-05-14T10:04:33Z'
+  checked: '2026-09-10'
+dependencies:
+  filter_poodll: 2016081401

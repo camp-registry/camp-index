@@ -12,14 +12,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:37:56Z'
+  updated: '2026-09-06T02:39:30Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: 1.1.6
-    date: '2026-06-29T16:49:09Z'
-  checked: '2026-08-06'
+    tag: 1.1.8
+    date: '2026-08-15T02:36:56Z'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Identify slow queries and find opportunities to improve performance.

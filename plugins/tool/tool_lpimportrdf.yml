@@ -16,4 +16,7 @@ metrics:
   latest-release:
     tag: v1.0
     date: '2016-05-09T08:08:12Z'
-  checked: '2026-08-05'
+  checked: '2026-09-10'
+summary: This is an importer for XML/RDF formatted curriculum files from the
+dependencies:
+  tool_lp: 2015052416

@@ -14,4 +14,9 @@ metrics:
   forks: 0
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1-r3
+    date: '2026-06-26T08:07:31Z'
+  checked: '2026-09-10'
+dependencies:
+  mod_videotime: 2023011200

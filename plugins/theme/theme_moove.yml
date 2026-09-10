@@ -9,9 +9,11 @@ releases: []
 summary: A Moodle Boost child theme
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T15:24:59Z'
-  stars: 189
-  forks: 164
-  open-issues: 10
+  updated: '2026-07-15T13:43:29Z'
+  stars: 191
+  forks: 165
+  open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 2026042000

@@ -13,4 +13,6 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-09-10'
+summary: The Moodle UI component Library is built with the aim to provide a single
+  repository

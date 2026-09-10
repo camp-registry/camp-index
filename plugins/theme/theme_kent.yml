@@ -14,4 +14,8 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+dependencies:
+  theme_base: 2013050100
+  theme_canvas: 2013050100
+  local_tutorials: 2016041100

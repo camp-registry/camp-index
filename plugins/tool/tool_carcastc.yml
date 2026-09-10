@@ -13,4 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  latest-release:
+    tag: v2.6.1
+    date: '2021-08-10T12:54:29Z'
+  checked: '2026-09-10'
+summary: Plugin toolcarcastc

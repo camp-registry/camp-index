@@ -14,4 +14,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  latest-release:
+    tag: v0.1
+    date: '2017-11-24T14:59:29Z'
+  checked: '2026-09-10'
+dependencies:
+  mod_forum: any

@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle admin tool plugin para que integrar com o "Painel AVA"
 metrics:
-  updated: '2026-06-29T15:35:10Z'
+  updated: '2026-09-07T09:27:32Z'
   stars: 0
   forks: 0
-  open-issues: 6
+  open-issues: 7
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 4.5.020
+    date: '2026-08-30T20:57:59Z'
+  checked: '2026-09-10'

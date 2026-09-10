@@ -13,6 +13,9 @@ metrics:
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: moodle_4.5
+    date: '2024-09-27T11:34:57Z'
+  checked: '2026-09-10'
 summary: This plugin allows you to set ribbons in the 4 corners of your site, displaying
   either static text, or dynamic text driven from a script.

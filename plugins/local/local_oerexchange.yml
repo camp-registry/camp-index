@@ -99,7 +99,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-24'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_oerexchange/security
 labels:

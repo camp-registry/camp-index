@@ -14,4 +14,10 @@ metrics:
   forks: 13
   open-issues: 12
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.2.0
+    date: '2025-09-30T12:40:47Z'
+  checked: '2026-09-10'
+dependencies:
+  mod_h5pactivity: 2025041400
+  mod_hvp: 2020020500

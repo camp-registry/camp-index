@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2024080901'
+    date: '2024-11-13T06:57:34Z'
+  checked: '2026-09-10'
 summary: moodle-tinycorrections

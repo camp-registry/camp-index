@@ -13,7 +13,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: When used in conjuction with the filter plugin (http://github.com/netspotau/moodle-filtermediagallery)
   this plugin allows you to have carousels of a gallery or galleries displayed in
   your course in labels and such.
+dependencies:
+  mod_mediagallery: 2014010400

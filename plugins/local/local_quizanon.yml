@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v5.1.0
     date: '2026-04-29T17:07:03Z'
-  checked: '2026-08-09'
+  checked: '2026-09-10'
 summary: This plugin makes use of the CI/CD capabilities implemented by Catalyst Moodle
   Workflows. It relies solely in the version.php file to analyze and run automated
   tests for the various supported Moodle versions.

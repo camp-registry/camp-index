@@ -14,9 +14,10 @@ releases: []
 summary: MuTMS Log-in-as via Incognito window plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
-  updated: '2026-06-05T18:46:40Z'
+  updated: '2026-08-14T17:56:54Z'
   stars: 1
-  forks: 1
+  forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci

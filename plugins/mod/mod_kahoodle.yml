@@ -17,7 +17,7 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Kahoodle is a Moodle activity module that enables real-time, interactive
   quiz sessions where all participants take a quiz simultaneously. Designed for engaging,

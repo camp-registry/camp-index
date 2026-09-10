@@ -9,9 +9,14 @@ releases: []
 license: GPL-3.0
 summary: A moodle link crawling robot, find broken, slow and oversized links
 metrics:
-  updated: '2026-06-02T07:11:36Z'
+  updated: '2026-08-24T10:40:21Z'
   stars: 12
-  forks: 18
+  forks: 19
   open-issues: 54
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2020101301'
+    date: '2020-10-13T03:29:59Z'
+  checked: '2026-09-10'
+dependencies:
+  auth_basic: any

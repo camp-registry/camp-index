@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Generico for TinyMCE
 metrics:
-  updated: '2026-06-11T05:32:46Z'
+  updated: '2026-09-07T05:20:19Z'
   stars: 1
-  forks: 1
-  open-issues: 6
+  forks: 2
+  open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.6
+    date: '2026-08-04T06:59:04Z'
+  checked: '2026-09-10'

@@ -12,14 +12,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:38:25Z'
+  updated: '2026-09-06T02:50:15Z'
   stars: 0
-  forks: 0
-  open-issues: 0
+  forks: 1
+  open-issues: 2
   archived: false
   latest-release:
-    tag: 2.1.1
-    date: '2026-06-18T15:04:57Z'
-  checked: '2026-08-06'
+    tag: 2.1.2
+    date: '2026-08-18T16:30:25Z'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Organize related courses and present access to child courses as an activity.

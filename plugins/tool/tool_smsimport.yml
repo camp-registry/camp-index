@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: This plugin allows Moodle LMS to be integrated with multiple student management
   systems.
 metrics:
-  updated: '2026-07-01T23:13:56Z'
+  updated: '2026-08-14T01:55:55Z'
   stars: 2
   forks: 3
   open-issues: 14
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

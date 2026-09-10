@@ -9,9 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin for inserting Nudgis content into HTML text areas
 metrics:
-  updated: '2025-11-20T14:49:54Z'
+  updated: '2026-08-13T07:35:28Z'
   stars: 0
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  mod_ubicast: 2025112000

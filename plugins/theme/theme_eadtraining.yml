@@ -13,13 +13,15 @@ releases: []
 license: GPL-3.0
 summary: Clean, accessible academic theme packed with customization options.
 metrics:
-  updated: '2026-08-06T11:39:44Z'
+  updated: '2026-09-06T02:39:36Z'
   stars: 0
   forks: 1
-  open-issues: 3
+  open-issues: 4
   archived: false
   latest-release:
     tag: 9.7.1
     date: '2026-08-06T11:39:48Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
+dependencies:
+  theme_boost: 2024042200

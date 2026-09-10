@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This plugin integrates with the Have I Been Pwned (HIBP) API to check if
   user passwords have been exposed in known data breaches.

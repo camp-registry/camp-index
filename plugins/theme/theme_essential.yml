@@ -15,11 +15,13 @@ summary: The Essential Moodle Theme
 license: GPL-3.0
 metrics:
   updated: '2022-05-25T21:53:26Z'
-  stars: 94
+  stars: 93
   forks: 116
   open-issues: 36
   archived: true
   latest-release:
     tag: V3.6.1.0
     date: '2019-04-16T19:08:24Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
+dependencies:
+  theme_bootstrapbase: 2018120300

@@ -19,9 +19,9 @@ summary: A very basic theme, boost's child.
 dependencies:
   theme_boost: 2018120300
 metrics:
-  updated: '2020-04-12T02:32:11Z'
+  updated: '2026-08-23T23:28:04Z'
   stars: 0
   forks: 0
   open-issues: 0
-  archived: false
-  checked: '2026-08-03'
+  archived: true
+  checked: '2026-09-10'

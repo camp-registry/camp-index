@@ -13,5 +13,12 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Vetagro Boost Based theme
+dependencies:
+  theme_boost: any
+  theme_clboost: any
+  block_thumblinks_action: any
+  block_featured_courses: any
+  block_vetagro_news: any
+  block_sponsors: any

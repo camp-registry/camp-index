@@ -8,10 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-09T18:29:15Z'
+  updated: '2026-09-09T21:23:27Z'
   stars: 1
   forks: 0
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.9
+    date: '2025-02-05T20:00:47Z'
+  checked: '2026-09-10'
 summary: The main goal of this plugin is to allow ratings in course module competency.
+dependencies:
+  tool_lp: 2025100600

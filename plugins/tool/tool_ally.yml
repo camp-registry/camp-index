@@ -8,11 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-02T17:04:01Z'
+  updated: '2026-09-07T09:43:17Z'
   stars: 2
   forks: 22
   open-issues: 48
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The Ally admin tool (toolally) provides a web service facilitating communication
   between Moodle and Ally. It also
+dependencies:
+  filter_ally: 2026012850
+  report_allylti: 2026012850

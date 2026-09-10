@@ -8,11 +8,11 @@ discovered: '2026-07-10'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-01T15:58:20Z'
+  updated: '2026-09-08T23:10:18Z'
   stars: 87
   forks: 84
-  open-issues: 169
+  open-issues: 155
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Snap is a Moodle theme that makes online learning an enjoyable and intuitive
   experience for learners and educators. https://moodle.org/plugins/themesnap

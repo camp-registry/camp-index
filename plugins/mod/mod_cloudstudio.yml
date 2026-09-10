@@ -21,6 +21,6 @@ metrics:
   latest-release:
     tag: 1.2.4
     date: '2025-05-02T13:14:12Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Complete activity for publishing and managing cloud-hosted videos.

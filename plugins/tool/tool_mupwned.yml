@@ -14,9 +14,10 @@ releases: []
 license: GPL-3.0
 summary: MuTMS Compromised password blocking plugin for Moodle™ LMS
 metrics:
-  updated: '2026-06-05T18:46:44Z'
+  updated: '2026-08-14T17:57:03Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci

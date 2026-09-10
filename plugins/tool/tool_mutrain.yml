@@ -14,9 +14,13 @@ releases: []
 license: GPL-3.0
 summary: MuTMS Training credits plugin for Moodle™ LMS
 metrics:
-  updated: '2026-06-05T18:46:53Z'
+  updated: '2026-08-14T17:57:00Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci
+dependencies:
+  tool_mulib: 2026080845
+  customfield_mutrain: 2026080845

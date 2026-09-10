@@ -12,7 +12,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:38:37Z'
+  updated: '2026-09-06T02:50:31Z'
   stars: 5
   forks: 5
   open-issues: 1
@@ -20,6 +20,6 @@ metrics:
   latest-release:
     tag: 3.3.0
     date: '2026-06-29T19:37:32Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Publish PDF documents with additional protection and control features.

@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: moodle-tool_automate
 metrics:
-  updated: '2026-07-01T08:21:51Z'
+  updated: '2026-09-07T22:26:44Z'
   stars: 0
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.3.1
+    date: '2026-09-07T22:26:44Z'
+  checked: '2026-09-10'

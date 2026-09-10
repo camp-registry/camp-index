@@ -15,4 +15,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.2
+    date: '2026-05-20T14:00:46Z'
+  checked: '2026-09-10'
+dependencies:
+  filter_ws: 2019011800

@@ -14,4 +14,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+dependencies:
+  block_courseawards_medal: 2013051500
+  block_courseawards_vote: 2013051500

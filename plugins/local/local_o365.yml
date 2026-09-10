@@ -9,14 +9,14 @@ releases: []
 summary: Office 365 Local plugin for Moodle LMS
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T09:44:14Z'
+  updated: '2026-09-02T11:58:46Z'
   stars: 33
   forks: 65
   open-issues: 6
   archived: false
   latest-release:
-    tag: v5.2.0
-    date: '2026-07-07T09:44:14Z'
-  checked: '2026-08-24'
+    tag: v5.2.1
+    date: '2026-09-02T10:32:50Z'
+  checked: '2026-09-10'
 dependencies:
-  auth_oidc: 2026042000
+  auth_oidc: 2026042001

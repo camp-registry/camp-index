@@ -8,11 +8,18 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T14:50:12Z'
+  updated: '2026-08-25T06:42:25Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v.1.1.0
+    date: '2026-06-16T14:50:13Z'
+  checked: '2026-09-10'
 summary: Pick one of your FastPix videos from inside the editor and drop it into the
   page —
+dependencies:
+  mod_fastpix: 2026052901
+  local_fastpix: 2026052202
+  filter_fastpix: 2026060100

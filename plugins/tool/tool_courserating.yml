@@ -20,7 +20,7 @@ metrics:
   latest-release:
     tag: v1.4
     date: '2023-07-28T17:44:30Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: '"Course ratings" plugin allows students to add ratings and reviews to the
   courses,'

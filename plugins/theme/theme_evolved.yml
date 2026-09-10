@@ -13,4 +13,11 @@ metrics:
   forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: Evolve-D(earborn) encapsulates simplicity, function, and style as it unites
+  many notable Moodle theme features into an evolved "More" theme. Evolve-D applies
+  famed theme elements such as custom frontpage, Google Fonts, My Courses dropdown,
+  block icons, and a variety of other enhancements made popula
+dependencies:
+  theme_bootstrapbase: 2014050800
+  theme_clean: 2014050800

@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle TinyMCE accordion plugin (LSU Online fork, extends catalyst/moodle-tiny_accordion)
 metrics:
-  updated: '2026-04-07T16:20:29Z'
+  updated: '2026-07-28T01:16:36Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

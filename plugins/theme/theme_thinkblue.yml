@@ -13,5 +13,24 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: moodle-themethinkblue
+dependencies:
+  theme_boost: 2019111800
+  tool_leeloolxp_sync: 2019062701
+  block_tb_blog: 2019111800
+  block_tb_courses: 2019010700
+  block_tb_course_nav: 2019052015
+  block_tb_faq: 2019010700
+  block_tb_headings: 2019010700
+  block_tb_latestentry: 2019111800
+  block_tb_m_slots: 2019010700
+  block_tb_slider: 2020051300
+  block_tb_teachers: 2019010700
+  block_tb_testimonials: 2019010700
+  block_tb_top_cats: 2019010700
+  local_staticpage: 2020021400
+  local_boostnavigation: 2020080400
+  auth_leeloolxp_tracking_sso: 2020092601
+  local_leeloolxpcontentapi: 2021031907
+  local_leeloolxptrivias: 2020050500

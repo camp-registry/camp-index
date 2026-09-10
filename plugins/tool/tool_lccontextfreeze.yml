@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: A UCL-specific lifecycle step that freezes (archives) a course context using
   the blocklifecycle manager.
+dependencies:
+  tool_lifecycle: 2026012005
+  block_lifecycle: any

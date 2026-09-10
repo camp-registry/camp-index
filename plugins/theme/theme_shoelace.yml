@@ -21,6 +21,6 @@ metrics:
   latest-release:
     tag: V3.1.1.0
     date: '2016-10-18T16:38:25Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
 dependencies:
   theme_bootstrapbase: 2018120300

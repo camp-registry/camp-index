@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Permission Dashboard (Who is who) provides an admin-focused dashboard to
   help diagnose role/capability assignments and prepare for conflict checks. The initial
   release scaffolds the UI and settings as a foundation for further features.

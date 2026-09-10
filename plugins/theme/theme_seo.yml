@@ -8,10 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-04-13T10:12:02Z'
+  updated: '2026-09-02T12:23:22Z'
   stars: 0
   forks: 0
-  open-issues: 2
+  open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.1.0
+    date: '2026-04-12T23:22:47Z'
+  checked: '2026-09-10'
 summary: Moodle "SEO" Theme Repository
+dependencies:
+  theme_boost: any

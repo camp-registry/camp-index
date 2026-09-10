@@ -9,9 +9,9 @@ releases: []
 license: AGPL-3.0
 summary: 'Like IFTTT for Moodle: events to trigger external services. https://moodle.org/plugins/tool_trigger'
 metrics:
-  updated: '2026-05-12T23:49:31Z'
+  updated: '2026-09-10T00:38:50Z'
   stars: 47
   forks: 29
-  open-issues: 77
+  open-issues: 79
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

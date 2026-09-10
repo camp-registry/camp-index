@@ -16,4 +16,7 @@ metrics:
   forks: 9
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: moodle-webservice_restjson-0.4
+    date: '2016-02-19T10:25:45Z'
+  checked: '2026-09-10'

@@ -13,4 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: This is a clone of dsvthemeresponsive, but with header and footer stripped
+  out. For test usage only.
+dependencies:
+  theme_bootstrapbase: 2013110500

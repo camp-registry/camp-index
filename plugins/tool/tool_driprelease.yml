@@ -16,8 +16,12 @@ license: GPL-3.0
 summary: Drip (automate)  the availability of moodle course activities over time
 metrics:
   updated: '2026-04-05T21:55:56Z'
-  stars: 4
+  stars: 5
   forks: 1
   open-issues: 15
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.4.1
+    date: '2026-04-05T21:55:56Z'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci

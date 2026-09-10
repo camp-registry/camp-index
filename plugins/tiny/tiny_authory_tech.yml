@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T19:58:25Z'
+  updated: '2026-09-03T06:43:24Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: At SEPTUM QA, we're focused on the writing process. By capturing key event
   data (also known by the scary euphemism "key logging"), we can make new opportunities
   for teaching, learning, and research in a low-cost, low-effort way, all in the existing

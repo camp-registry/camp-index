@@ -13,4 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-09-10'
+summary: The category manager will allow you to add users who can manage category
+  module plugins and themes. Category managers will be able to select Modules and
+  themes to disable.

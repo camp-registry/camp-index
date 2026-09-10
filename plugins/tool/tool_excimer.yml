@@ -9,9 +9,9 @@ releases: []
 summary: A Moodle tool to find bottlenecks in your code safely in production
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T08:02:53Z'
+  updated: '2026-09-08T08:47:37Z'
   stars: 17
-  forks: 14
-  open-issues: 51
+  forks: 15
+  open-issues: 55
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

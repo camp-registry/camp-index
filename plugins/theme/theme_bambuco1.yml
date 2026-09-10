@@ -19,9 +19,9 @@ summary: A moodle theme based in Moove and boost Moodle themes
 dependencies:
   theme_boost: 2020110900
 metrics:
-  updated: '2021-12-17T05:26:12Z'
+  updated: '2026-08-23T23:22:11Z'
   stars: 1
   forks: 0
   open-issues: 0
-  archived: false
-  checked: '2026-08-03'
+  archived: true
+  checked: '2026-09-10'

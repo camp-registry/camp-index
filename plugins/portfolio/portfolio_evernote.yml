@@ -16,4 +16,5 @@ metrics:
   latest-release:
     tag: v2.0
     date: '2013-10-16T05:52:37Z'
-  checked: '2026-08-05'
+  checked: '2026-09-10'
+summary: Portfolio Plugin for Evernote

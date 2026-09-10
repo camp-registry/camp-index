@@ -13,7 +13,13 @@ summary: This is the GCWeb 4.0.30 theme for Moodle LMS and IOMAD 3.9, 3.10 and 3
 metrics:
   updated: '2022-10-01T17:46:07Z'
   stars: 3
-  forks: 6
+  forks: 7
   open-issues: 10
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2022040100
+    date: '2022-04-02T13:56:54Z'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 0
+  theme_classic: 0

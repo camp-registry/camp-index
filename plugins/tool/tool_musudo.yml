@@ -14,9 +14,13 @@ releases: []
 license: GPL-3.0
 summary: MuTMS Privileged sessions (aka sudo) plugin for Moodle™ LMS
 metrics:
-  updated: '2026-06-05T18:46:48Z'
+  updated: '2026-08-14T17:57:59Z'
   stars: 0
-  forks: 1
+  forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci
+dependencies:
+  tool_mulib: 2026080845
+  tool_mfa: 2024100700

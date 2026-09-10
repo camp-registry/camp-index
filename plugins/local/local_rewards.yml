@@ -12,7 +12,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-29T16:50:27Z'
+  updated: '2026-09-06T03:22:33Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -20,6 +20,6 @@ metrics:
   latest-release:
     tag: 1.0.2
     date: '2026-06-29T16:50:32Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: A Moodle local plugin that connects digital rewards to activity completion.

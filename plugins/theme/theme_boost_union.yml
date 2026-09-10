@@ -12,9 +12,11 @@ summary: Theme Boost Union is an enhanced child theme of Boost which is intended
   teachers and students.
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T12:43:20Z'
-  stars: 98
-  forks: 96
-  open-issues: 273
+  updated: '2026-09-03T06:52:34Z'
+  stars: 99
+  forks: 97
+  open-issues: 269
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 2026042000

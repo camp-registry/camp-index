@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.0.3
     date: '2021-11-29T11:03:33Z'
-  checked: '2026-08-09'
+  checked: '2026-09-10'
 summary: The plugin is used to submit ratings of individual course. It also aggregates
   ratings of all user including the number

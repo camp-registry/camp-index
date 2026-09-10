@@ -14,4 +14,9 @@ metrics:
   forks: 3
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: Freyung_401.1.0
+    date: '2023-07-10T11:41:00Z'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 2022112800

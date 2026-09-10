@@ -13,4 +13,8 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: 'caixa is a highly customisable responsive two column moodle theme based
+  on the popular BCU theme adding:'
+dependencies:
+  theme_bootstrapbase: 2014111000

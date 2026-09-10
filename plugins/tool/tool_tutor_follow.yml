@@ -11,9 +11,11 @@ summary: Show the grades, course dedication, feedback the activities, in one sit
   so we analize better the data, and rated the teachers. TODO Provide more detailed
   description here.
 metrics:
-  updated: '2026-05-12T18:53:15Z'
+  updated: '2026-08-25T18:52:07Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  block_dedication: 2023112001

@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.1-beta
+    date: '2026-05-06T16:33:12Z'
+  checked: '2026-09-10'
 summary: A TinyMCE editor plugin for Moodle that extends the original Components for
   Learning (C4L) with an enhanced authoring experience. It opens a modal with a WYSIWYG
   editable view of the editor content, constrained to a readable column width, and

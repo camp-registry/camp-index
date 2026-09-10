@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.0
+    date: '2026-06-29T07:49:22Z'
+  checked: '2026-09-10'
 summary: A Moodle administration tool that exports question bank questions as Moodle
   XML

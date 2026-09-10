@@ -13,4 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-03'
+  latest-release:
+    tag: v1.0
+    date: '2020-07-27T09:59:29Z'
+  checked: '2026-09-10'
+summary: This plugin implements a function localt4cgetrecentcourseactivities which
+  can be enabled as a Moodle Web Service to retrieve entries from the logstore data
+  table.

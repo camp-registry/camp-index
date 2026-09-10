@@ -1,5 +1,5 @@
 component: tool_course_archiver
-source: https://github.com/srobotta/moodle-tool_course_archiver
+source: https://github.com/srobotta/moodle-tool_course_archiver_cli
 maintainers:
 - github: srobotta
 tier: 0
@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle course archiver tool
 metrics:
-  updated: '2026-05-30T09:06:10Z'
+  updated: '2026-08-13T12:11:13Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r2
+    date: '2026-08-13T12:13:16Z'
+  checked: '2026-09-10'

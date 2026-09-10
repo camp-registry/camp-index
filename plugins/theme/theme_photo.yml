@@ -14,4 +14,9 @@ metrics:
   forks: 28
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '1.3'
+    date: '2017-02-20T02:09:46Z'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 2016102100

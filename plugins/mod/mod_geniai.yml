@@ -13,7 +13,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-05T22:34:12Z'
+  updated: '2026-09-06T02:50:47Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -21,6 +21,8 @@ metrics:
   latest-release:
     tag: 2.3.7
     date: '2025-10-30T13:57:13Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Beautiful certificate plugin for Moodle
+dependencies:
+  local_geniai: 2025032000

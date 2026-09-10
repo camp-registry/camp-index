@@ -43,13 +43,13 @@ releases:
 summary: A Moodle plugin providing a GUI to the administration of a MoodleBox
 license: GPL-3.0
 metrics:
-  updated: '2026-08-05T16:23:17Z'
+  updated: '2026-08-18T17:17:41Z'
   stars: 16
   forks: 5
-  open-issues: 5
+  open-issues: 6
   archived: false
   latest-release:
-    tag: v3.3.0
-    date: '2026-07-22T19:39:47Z'
-  checked: '2026-08-06'
+    tag: v3.3.1
+    date: '2026-08-08T12:39:43Z'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci

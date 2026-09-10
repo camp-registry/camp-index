@@ -12,7 +12,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:36:34Z'
+  updated: '2026-09-06T02:38:57Z'
   stars: 2
   forks: 0
   open-issues: 0
@@ -20,6 +20,9 @@ metrics:
   latest-release:
     tag: 1.1.11
     date: '2025-11-03T13:15:23Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Create profile fields connected to information stored in the database.
+dependencies:
+  local_kopere_dashboard: 2025031400
+  local_kopere_bi: 2025030800

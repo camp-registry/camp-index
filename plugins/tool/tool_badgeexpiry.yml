@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: 'This plugin has been created in lieu of MDL-87808: Send notification when
   badge expires. If this PR gets merged, this plugin will no longer be required.'

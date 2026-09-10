@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Preview plugin for Moode 4.1+ Tiny editor
 metrics:
-  updated: '2026-03-02T21:12:15Z'
+  updated: '2026-08-31T20:19:20Z'
   stars: 3
   forks: 3
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

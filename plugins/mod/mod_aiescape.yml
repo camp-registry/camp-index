@@ -10,12 +10,12 @@ releases: []
 license: GPL-3.0
 summary: Escape room type scenarios where students go up against an AI
 metrics:
-  updated: '2026-08-04T03:44:12Z'
+  updated: '2026-08-22T14:51:03Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-mod_aiescape/security
 labels:

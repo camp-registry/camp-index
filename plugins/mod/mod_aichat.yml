@@ -10,7 +10,7 @@ summary: With this plugin for Moodle, your platform users can chat with a Large 
   Model such as GPT.
 license: GPL-3.0
 metrics:
-  updated: '2026-05-08T06:38:24Z'
+  updated: '2026-09-03T12:38:21Z'
   stars: 2
   forks: 2
   open-issues: 0
@@ -18,4 +18,8 @@ metrics:
   latest-release:
     tag: v0.3
     date: '2026-05-08T06:38:25Z'
-  checked: '2026-08-05'
+  checked: '2026-09-10'
+dependencies:
+  block_ai_chat: 2026020100
+  local_ai_manager: 2026020100
+  tiny_ai: 2025101300

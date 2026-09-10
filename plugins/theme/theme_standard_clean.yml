@@ -13,4 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: old style moodle standard theme using Clean
+dependencies:
+  theme_bootstrapbase: 2014050800

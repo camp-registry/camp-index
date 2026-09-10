@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle health checks for load balancers / nagios
 metrics:
-  updated: '2026-07-07T01:27:52Z'
+  updated: '2026-09-10T04:43:17Z'
   stars: 28
   forks: 29
-  open-issues: 30
+  open-issues: 31
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2018012300'
+    date: '2018-02-14T23:08:33Z'
+  checked: '2026-09-10'

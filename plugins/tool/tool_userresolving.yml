@@ -13,4 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: true
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: This admin tool checks the database users if there is an existing entry in
+  the Active Directory.

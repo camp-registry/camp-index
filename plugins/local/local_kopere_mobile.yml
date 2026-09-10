@@ -12,7 +12,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-18T16:39:27Z'
+  updated: '2026-09-06T02:39:19Z'
   stars: 1
   forks: 0
   open-issues: 1
@@ -20,7 +20,7 @@ metrics:
   latest-release:
     tag: 1.4.0
     date: '2026-08-18T16:16:01Z'
-  checked: '2026-08-21'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Integrations and features that bring a mobile experience to your platform.
 dependencies:

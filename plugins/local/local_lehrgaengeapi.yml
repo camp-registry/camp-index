@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Synchronisation for external courses
 metrics:
-  updated: '2026-08-19T10:29:27Z'
+  updated: '2026-09-01T11:51:56Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 2
   archived: false
-  checked: '2026-08-22'
+  checked: '2026-09-10'

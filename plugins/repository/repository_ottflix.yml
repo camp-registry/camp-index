@@ -13,7 +13,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-03T11:37:52Z'
+  updated: '2026-09-06T03:25:00Z'
   stars: 1
   forks: 0
   open-issues: 0
@@ -21,6 +21,8 @@ metrics:
   latest-release:
     tag: 1.0.6
     date: '2025-10-29T22:23:29Z'
-  checked: '2026-08-06'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 summary: Select OttFlix videos directly through the file repository.
+dependencies:
+  mod_supervideo: 2025012400

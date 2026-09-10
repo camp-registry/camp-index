@@ -12,7 +12,10 @@ summary: A simple Moodle tool plugin that brings back the classic (i.e. before M
 metrics:
   updated: '2026-01-10T17:33:19Z'
   stars: 0
-  forks: 1
+  forks: 3
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2025121200'
+    date: '2025-12-12T14:25:29Z'
+  checked: '2026-09-10'

@@ -8,10 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-30T07:43:27Z'
+  updated: '2026-09-10T09:56:16Z'
   stars: 1
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Introduction
+dependencies:
+  theme_boost: 2024042200
+  theme_boost_union: 2024100728
+  local_shopping_cart: 2025021102

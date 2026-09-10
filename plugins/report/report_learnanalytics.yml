@@ -13,4 +13,7 @@ metrics:
   forks: 0
   open-issues: 4
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: Moodle Learning Analytics for Moodle 2
+dependencies:
+  mod_learnanalytics: 2012031400

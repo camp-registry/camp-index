@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.4
+    date: '2025-12-30T08:38:24Z'
+  checked: '2026-09-10'
 summary: CLI scripts to fetch and download plugins from Moodle plugin database.

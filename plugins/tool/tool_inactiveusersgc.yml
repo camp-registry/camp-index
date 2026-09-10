@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: A tool for automated inactive users managment
 metrics:
-  updated: '2025-11-21T12:36:58Z'
+  updated: '2026-08-11T09:40:42Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

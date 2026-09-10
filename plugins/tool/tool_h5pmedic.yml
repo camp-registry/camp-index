@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: 'Upgrade H5P Medic — make Moodle upgrades safe: fingerprint, compare, and
   auto-repair H5P. Built by realandworks.inkypyrus.com'
 metrics:
-  updated: '2026-06-30T09:55:17Z'
+  updated: '2026-08-27T17:43:13Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

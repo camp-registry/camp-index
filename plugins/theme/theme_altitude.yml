@@ -13,4 +13,7 @@ metrics:
   forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+dependencies:
+  theme_bootstrapbase: 2016052300
+  theme_clean: 2016052300

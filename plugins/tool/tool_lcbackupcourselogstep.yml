@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Backup course log (mdllogstorestandardlog table) records into a standard
   format
+dependencies:
+  tool_lifecycle: 2023050201

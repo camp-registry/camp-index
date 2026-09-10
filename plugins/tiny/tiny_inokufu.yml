@@ -14,4 +14,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.1
+    date: '2024-06-20T15:54:45Z'
+  checked: '2026-09-10'
+dependencies:
+  repository_inokufu: 2024061700

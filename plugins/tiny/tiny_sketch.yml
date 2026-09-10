@@ -13,6 +13,9 @@ metrics:
   forks: 7
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026051201
+    date: '2026-05-12T18:33:11Z'
+  checked: '2026-09-10'
 summary: Adds a simple "Paint" like program to the atto editor.  Features include
   simple shape tools, drawing, typing, colors, undo/redo.

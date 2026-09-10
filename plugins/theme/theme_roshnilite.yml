@@ -9,9 +9,11 @@ releases: []
 license: GPL-3.0
 summary: moodle-theme_roshnilite
 metrics:
-  updated: '2024-03-21T11:24:50Z'
+  updated: '2026-09-09T05:37:06Z'
   stars: 5
-  forks: 10
-  open-issues: 0
+  forks: 12
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  theme_boost: 2025041400

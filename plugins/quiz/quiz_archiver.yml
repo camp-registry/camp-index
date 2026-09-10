@@ -12,15 +12,15 @@ summary: Archives quiz attempts as PDF and HTML files fully automated and asynch
   course can optionally be included.
 license: GPL-3.0
 metrics:
-  updated: '2026-07-27T15:58:55Z'
+  updated: '2026-09-04T15:41:52Z'
   stars: 11
-  forks: 4
-  open-issues: 12
+  forks: 5
+  open-issues: 8
   archived: false
   latest-release:
-    tag: v4.1.0
-    date: '2026-05-22T07:21:26Z'
-  checked: '2026-08-06'
+    tag: v5.1.0
+    date: '2026-09-04T15:46:38Z'
+  checked: '2026-09-10'
   ci: moodle-plugin-ci
 security-contact: https://github.com/ngandrass/moodle-quiz_archiver/security
 labels:

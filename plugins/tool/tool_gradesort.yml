@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: A tool to sort gradebook items in a category
 metrics:
-  updated: '2026-07-17T15:25:35Z'
+  updated: '2026-08-04T03:44:04Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-24'
+  checked: '2026-09-10'

@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.1.0
+    date: '2026-03-23T13:50:18Z'
+  checked: '2026-09-10'
 summary: This plugin injects the Bootstrap JS framework into the TinyMCE editor, allowing
   Bootstrap classes to be used directly within the editor. This enables content to
   be styled with Bootstrap components and utility classes while editing.

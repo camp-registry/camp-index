@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: A Moodle plugin for converting web pages to PDFs using various headless browser
   drivers
 metrics:
-  updated: '2025-07-21T03:53:53Z'
+  updated: '2026-08-20T06:37:53Z'
   stars: 3
   forks: 4
   open-issues: 9
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.1.0
+    date: '2021-02-25T03:24:42Z'
+  checked: '2026-09-10'

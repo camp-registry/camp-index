@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle tiny justify plugin
 metrics:
-  updated: '2026-05-07T20:55:25Z'
+  updated: '2026-08-04T19:24:03Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.20
+    date: '2026-03-03T23:12:10Z'
+  checked: '2026-09-10'

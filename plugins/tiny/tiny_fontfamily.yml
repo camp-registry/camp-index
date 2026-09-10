@@ -11,7 +11,10 @@ summary: With this plugin you'll be able to choose your paragraph's font family.
 metrics:
   updated: '2025-06-29T17:59:40Z'
   stars: 0
-  forks: 5
+  forks: 9
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.2
+    date: '2025-06-29T17:59:56Z'
+  checked: '2026-09-10'

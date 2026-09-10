@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-03T06:16:20Z'
+  updated: '2026-09-08T08:40:22Z'
   stars: 2
   forks: 2
-  open-issues: 27
+  open-issues: 28
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This plugin is intended to become a place for a suite of semi related email
   utilities

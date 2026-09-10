@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A support tool for Moodle
 metrics:
-  updated: '2026-06-22T09:41:24Z'
+  updated: '2026-08-31T11:16:08Z'
   stars: 5
   forks: 3
-  open-issues: 4
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5-r4
+    date: '2026-08-31T11:16:09Z'
+  checked: '2026-09-10'

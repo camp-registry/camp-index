@@ -13,4 +13,9 @@ metrics:
   forks: 0
   open-issues: 4
   archived: false
-  checked: '2026-08-03'
+  latest-release:
+    tag: v3.9.0
+    date: '2020-06-19T11:44:01Z'
+  checked: '2026-09-10'
+summary: Vous êtes sur la page de la version 3.9.0 du plugin Training Path, dernière
+  version compatible avec Moodle 3.9.

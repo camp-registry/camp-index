@@ -13,4 +13,6 @@ metrics:
   forks: 0
   open-issues: 8
   archived: false
-  checked: '2026-08-03'
+  checked: '2026-09-10'
+summary: Report that provides an overview of the scheduled tasks and quizzes during
+  the month and the user impact it will have on the platform.

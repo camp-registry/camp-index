@@ -14,9 +14,12 @@ labels:
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-17T00:55:20Z'
+  updated: '2026-09-07T04:51:57Z'
   stars: 2
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-08-17'
+  latest-release:
+    tag: v1.3.90
+    date: '2026-09-07T04:51:58Z'
+  checked: '2026-09-10'

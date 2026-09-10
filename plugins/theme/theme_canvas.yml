@@ -13,4 +13,7 @@ metrics:
   forks: 4
   open-issues: 6
   archived: false
-  checked: '2026-07-23'
+  checked: '2026-09-10'
+summary: Moodle theme canvas
+dependencies:
+  theme_base: 2016051900
