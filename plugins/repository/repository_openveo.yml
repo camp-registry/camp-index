@@ -14,4 +14,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.0
+    date: '2018-10-17T09:44:05Z'
+  checked: '2026-09-10'
+dependencies:
+  local_openveo_api: 2018101700

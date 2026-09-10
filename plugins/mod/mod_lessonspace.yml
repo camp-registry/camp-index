@@ -11,8 +11,11 @@ summary: This plugin integrates Lessonspace into Moodle. Manage Spaces and Cours
   all from within Moodle itself.
 metrics:
   updated: '2021-06-07T10:45:32Z'
-  stars: 2
+  stars: 3
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0
+    date: '2021-04-13T11:47:25Z'
+  checked: '2026-09-10'

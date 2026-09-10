@@ -13,5 +13,5 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: A plug in to add a setting to quizzes to use ajax to check responses.

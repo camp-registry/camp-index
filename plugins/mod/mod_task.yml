@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T08:38:29Z'
+  updated: '2026-07-21T21:17:07Z'
   stars: 0
   forks: 0
-  open-issues: 2
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: A Moodle activity module that lets a teacher set a task for students to

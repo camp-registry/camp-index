@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-24T13:37:44Z'
+  updated: '2026-08-31T08:58:40Z'
   stars: 1
   forks: 10
-  open-issues: 11
+  open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: final-release-3.x
+    date: '2022-04-06T13:51:15Z'
+  checked: '2026-09-10'
 summary: Drawing question type

@@ -11,9 +11,9 @@ summary: Moodle activity module that embeds Bunny.net Stream videos with Token A
   TUS direct-upload, encoding webhooks, completion + gradebook integration, and Moodle
   Mobile App support. Full parity with bunny-xblock for Open edX.
 metrics:
-  updated: '2026-05-14T22:39:17Z'
+  updated: '2026-08-12T18:20:01Z'
   stars: 1
-  forks: 1
+  forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

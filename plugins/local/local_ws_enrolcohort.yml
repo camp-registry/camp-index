@@ -12,7 +12,7 @@ summary: Moodle webservice functions to add a cohort enrolment instance to a cou
 metrics:
   updated: '2022-07-24T21:45:36Z'
   stars: 10
-  forks: 8
+  forks: 9
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

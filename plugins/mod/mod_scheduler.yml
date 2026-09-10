@@ -1,5 +1,5 @@
 component: mod_scheduler
-source: https://github.com/bostelm/moodle-mod_scheduler
+source: https://github.com/learnweb/moodle-mod_scheduler
 maintainers:
 - github: bostelm
 tier: 0
@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Scheduler activity module for Moodle
 metrics:
-  updated: '2024-08-14T15:08:26Z'
+  updated: '2026-09-02T08:21:36Z'
   stars: 57
-  forks: 97
-  open-issues: 18
+  forks: 99
+  open-issues: 34
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r1
+    date: '2026-08-05T13:16:44Z'
+  checked: '2026-09-10'

@@ -8,11 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-17T14:35:06Z'
+  updated: '2026-07-14T19:57:49Z'
   stars: 0
   forks: 1
-  open-issues: 3
+  open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.10-compat-4.0-4.2
+    date: '2026-03-17T14:35:06Z'
+  checked: '2026-09-10'
 summary: This activity allows the dynamic generation of POK certificates with complete
   customisation via the POK API's.

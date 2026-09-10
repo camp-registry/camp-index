@@ -11,7 +11,10 @@ license: GPL-3.0
 metrics:
   updated: '2023-04-29T07:37:58Z'
   stars: 1
-  forks: 4
+  forks: 5
   open-issues: 17
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.1
+    date: '2021-08-04T12:26:57Z'
+  checked: '2026-09-10'

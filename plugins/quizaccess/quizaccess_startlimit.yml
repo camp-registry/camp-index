@@ -10,8 +10,11 @@ license: GPL-3.0
 summary: Quiz Attempt Start Time Limit for Moodle
 metrics:
   updated: '2025-10-25T14:58:04Z'
-  stars: 0
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.0
+    date: '2025-10-25T14:58:04Z'
+  checked: '2026-09-10'

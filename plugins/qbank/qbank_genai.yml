@@ -9,9 +9,12 @@ releases: []
 license: AGPL-3.0
 summary: Generative AI Question Bank Moodle plugin
 metrics:
-  updated: '2026-04-25T08:06:46Z'
+  updated: '2026-09-09T10:42:41Z'
   stars: 7
   forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.1
+    date: '2026-09-09T10:42:41Z'
+  checked: '2026-09-10'

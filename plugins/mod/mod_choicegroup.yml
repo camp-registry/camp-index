@@ -10,8 +10,11 @@ license: GPL-3.0
 summary: Moodle "Group Choice" plugin
 metrics:
   updated: '2026-06-24T16:00:56Z'
-  stars: 34
+  stars: 35
   forks: 69
-  open-issues: 51
+  open-issues: 52
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2026062400'
+    date: '2026-06-24T08:30:07Z'
+  checked: '2026-09-10'

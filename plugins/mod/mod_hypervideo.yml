@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Hypervideo (modhypervideo) is a ready to use Moodle activity plugin for serving
   videos loaded from a provided URL. user interactions with the video such as play,
   pause, seek, playbackspeed, and fullscreen are logged. Also the video playback is

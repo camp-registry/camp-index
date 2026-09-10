@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 10
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: repository pod is a moodle repository plugin that enable to create file resource
   linked by reference to an external POD v2 server

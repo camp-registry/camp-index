@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Repository plugin for Moodle that shows random animal pictures.
+dependencies:
+  repository_wikimedia: 2016052300

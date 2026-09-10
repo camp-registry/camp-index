@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Plugin that shows a form with a field that the user must fill before acessing
   a course.

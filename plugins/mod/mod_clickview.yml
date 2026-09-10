@@ -13,7 +13,9 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The ClickView activity plugin for Moodle enables you to quickly and safely
   browse through your entire ClickView library, the ClickView exchange and your own
   personal workspace from within Moodle.
+dependencies:
+  local_clickview: 2021083005

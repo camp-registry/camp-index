@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: A custom local plugin for CGS to warn teachers when they need to mark the
   roll for the current period.

@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 7
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Flex Quiz is an activity module for Moodle. It creates quizzes in an automated
   manner, allowing teachers to test the knowledge of their students in a dynamically
   adapting way without the need for manual quiz creation.

@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Facetoface Module for Moodle 2.0 and above
 metrics:
-  updated: '2026-04-10T06:35:33Z'
+  updated: '2026-08-25T11:02:36Z'
   stars: 8
-  forks: 60
-  open-issues: 54
+  forks: 61
+  open-issues: 56
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

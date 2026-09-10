@@ -13,4 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.0.10
+    date: '2021-02-07T08:43:55Z'
+  checked: '2026-09-10'
+dependencies:
+  report_everyday_stats: 2021061300

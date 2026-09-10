@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: ':family: :envelope: A course resource that displays groups and their members'
 metrics:
-  updated: '2026-06-22T14:14:46Z'
+  updated: '2026-07-29T09:39:37Z'
   stars: 5
-  forks: 9
-  open-issues: 2
+  forks: 8
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r1
+    date: '2026-07-29T09:39:37Z'
+  checked: '2026-09-10'

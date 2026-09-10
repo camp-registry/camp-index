@@ -10,3 +10,5 @@ license: GPL-3.0
 summary: 'Free floating time clock for Moodle: tracks each student''s ACTIVE time
   per activity (pauses without focus, idempotent saves). Free edition of the eLearning
   Fácil suite.'
+metrics:
+  checked: '2026-09-10'

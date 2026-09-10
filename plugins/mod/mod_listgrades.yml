@@ -13,8 +13,13 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.9
+    date: '2024-11-11T09:16:31Z'
+  checked: '2026-09-10'
 summary: The Moodle Privacy-Friendly Grade Publishing Plugin is a powerful tool designed
   to enhance transparency in educational institutions while preserving student privacy.
   This plugin empowers teachers to publish grades for specific assignments, fostering
   a collaborative and supportive learning environmen
+dependencies:
+  gradereport_grader: 2022112800

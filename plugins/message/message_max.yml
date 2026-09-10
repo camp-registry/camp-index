@@ -9,9 +9,12 @@ releases: []
 summary: A MAX message output plugin for Moodle.
 license: GPL-3.0
 metrics:
-  updated: '2026-06-08T16:31:42Z'
-  stars: 4
-  forks: 0
+  updated: '2026-09-04T04:08:32Z'
+  stars: 5
+  forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.14
+    date: '2026-09-04T04:06:54Z'
+  checked: '2026-09-10'

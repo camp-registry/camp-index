@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A daily diary activity for Moodle.
 metrics:
-  updated: '2026-07-11T18:44:40Z'
+  updated: '2026-09-09T18:56:34Z'
   stars: 5
   forks: 10
   open-issues: 6
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.1.2
+    date: '2026-07-12T18:49:35Z'
+  checked: '2026-09-10'

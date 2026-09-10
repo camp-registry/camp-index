@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Moodle module to handle conditional image map based on conclusion of other
   modules
 metrics:
-  updated: '2026-05-25T18:47:57Z'
+  updated: '2026-08-04T19:23:57Z'
   stars: 0
   forks: 0
   open-issues: 10
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.2.06
+    date: '2026-03-11T22:52:43Z'
+  checked: '2026-09-10'

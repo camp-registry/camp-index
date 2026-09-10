@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Gerencia relacionamentos entre pessoas através de cohorts com papéis
 metrics:
-  updated: '2026-07-02T13:31:45Z'
+  updated: '2026-08-25T17:33:54Z'
   stars: 3
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

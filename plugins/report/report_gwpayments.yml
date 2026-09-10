@@ -18,5 +18,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Report specifically written for use with enrolgwpayments.
+dependencies:
+  enrol_gwpayments: 2024080100

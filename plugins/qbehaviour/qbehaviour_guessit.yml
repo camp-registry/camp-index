@@ -12,7 +12,10 @@ summary: Question behaviour for the guessit question type only (Adaptive mode wi
 metrics:
   updated: '2026-04-29T08:55:43Z'
   stars: 0
-  forks: 0
+  forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.2
+    date: '2025-03-25T16:14:15Z'
+  checked: '2026-09-10'

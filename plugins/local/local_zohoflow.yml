@@ -10,8 +10,11 @@ license: GPL-3.0
 metrics:
   updated: '2026-06-23T11:11:07Z'
   stars: 1
-  forks: 0
+  forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-06-23T10:59:33Z'
+  checked: '2026-09-10'
 summary: 'Plugin type: Local plugin'

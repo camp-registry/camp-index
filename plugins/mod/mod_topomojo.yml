@@ -11,9 +11,15 @@ summary: mod_topomojo is an activity plugin that allows TopoMojo labs and exerci
   to be accessed from Moodle. The plugin will pull and display the markdown and challenge
   questions inside of the Moodle activity.
 metrics:
-  updated: '2026-07-10T18:07:13Z'
+  updated: '2026-09-10T03:24:44Z'
   stars: 2
   forks: 0
-  open-issues: 0
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2026091001'
+    date: '2026-09-10T02:53:30Z'
+  checked: '2026-09-10'
+dependencies:
+  qtype_mojomatch: 2026090800
+  qbehaviour_mojomatch: 2026090800

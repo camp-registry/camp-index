@@ -27,10 +27,11 @@ releases:
   released: '2026-08-31T14:53:58Z'
 license: GPL-3.0
 metrics:
-  updated: '2025-04-14T09:07:39Z'
+  updated: '2026-08-31T19:37:28Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
-summary: A Moodle plugin that enables sending SMS messages through the MessageBird API.
+  checked: '2026-09-10'
+summary: A Moodle plugin that enables sending SMS messages through the MessageBird
+  API.

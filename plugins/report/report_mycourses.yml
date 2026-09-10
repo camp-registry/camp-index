@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.104
+    date: '2021-02-11T04:17:14Z'
+  checked: '2026-09-10'
 summary: modernlms-mycourses

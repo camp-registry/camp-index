@@ -14,4 +14,7 @@ metrics:
   forks: 10
   open-issues: 6
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  qtype_varnumericset: 2025061800
+  qtype_pmatch: 2025070800

@@ -11,7 +11,10 @@ summary: Dialogue Module for Moodle
 metrics:
   updated: '2026-05-08T23:34:10Z'
   stars: 27
-  forks: 38
-  open-issues: 31
+  forks: 39
+  open-issues: 32
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.4.0
+    date: '2018-10-24T05:43:13Z'
+  checked: '2026-09-10'

@@ -11,7 +11,9 @@ summary: Use Airtel Africa to process payments in Moodle
 metrics:
   updated: '2026-07-04T08:35:24Z'
   stars: 0
-  forks: 1
+  forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  enrol_fee: any

@@ -10,9 +10,11 @@ license: GPL-3.0
 summary: Moodle activity facilitating parliamentary meetings in person or with audio
   and video conferencing
 metrics:
-  updated: '2026-03-09T01:03:37Z'
+  updated: '2026-08-23T00:24:00Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  block_deft: any

@@ -9,9 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Configuração de atividades para relatórios UNA-SUS
 metrics:
-  updated: '2026-06-15T03:24:34Z'
+  updated: '2026-08-31T19:03:40Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  report_unasus: 2025042801

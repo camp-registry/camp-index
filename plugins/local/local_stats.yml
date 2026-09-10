@@ -13,6 +13,11 @@ metrics:
   forks: 0
   open-issues: 10
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026042500
+    date: '2026-07-02T14:10:44Z'
+  checked: '2026-09-10'
 summary: This is a very easy plugin that starts tracking all page visits of any user
   right after installation.
+dependencies:
+  local_table_sql: 2024032900

@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.83
+    date: '2025-11-04T06:59:11Z'
+  checked: '2026-09-10'
 summary: Secure Exam Access is a Moodle plugin that restricts exam access based on
   devices, labs, and user status.

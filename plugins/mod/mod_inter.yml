@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This module only lists activities of the Media Poster plugin, which is based
   in the Poster pugin.
+dependencies:
+  mod_forum: any

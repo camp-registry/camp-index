@@ -13,6 +13,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This plugin allows a teacher to generate a giportfolio module based on a
   book module.
+dependencies:
+  mod_book: any
+  mod_giportfolio: any

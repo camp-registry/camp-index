@@ -14,11 +14,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-04-19T22:14:31Z'
-  stars: 0
+  updated: '2026-07-21T10:48:45Z'
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci
 summary: A Moodle activity module that implements the classic "Twenty Questions" guessing
   game using AI to respond to student questions about a secret word or concept.
+dependencies:
+  tool_ai_bridge: 2026030800

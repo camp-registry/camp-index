@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Turnitin Direct plugin (version 2) for Moodle
 metrics:
-  updated: '2026-06-29T13:27:58Z'
-  stars: 37
+  updated: '2026-08-10T20:08:42Z'
+  stars: 36
   forks: 69
-  open-issues: 63
+  open-issues: 64
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026072801
+    date: '2026-07-29T16:58:42Z'
+  checked: '2026-09-10'

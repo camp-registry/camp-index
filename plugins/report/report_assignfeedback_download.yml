@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: 'This plugin allows teachers to download files that are part of a student''s
   assessment submission and feedback. It also allows teachers to export advanced grading
   methods grades (Frubric, Rubric and Marking guide) to an spreadsheet file, and export

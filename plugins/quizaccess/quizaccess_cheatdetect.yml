@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Cheat Detection is a Moodle quiz access rule plugin that monitors student
   behavior during quiz attempts in order to detect potential cheating patterns.

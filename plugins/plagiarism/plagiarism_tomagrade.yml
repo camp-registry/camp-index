@@ -8,11 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-25T06:49:56Z'
+  updated: '2026-07-30T06:26:31Z'
   stars: 1
   forks: 4
-  open-issues: 10
+  open-issues: 9
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Tomax’s Grading and feedback plugin shortens the grading process and provides
   students with better feedback.
+dependencies:
+  mod_assign: any

@@ -9,9 +9,9 @@ releases: []
 summary: H5P Plugin for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-02T08:03:02Z'
-  stars: 153
-  forks: 188
-  open-issues: 189
+  updated: '2026-09-01T07:56:39Z'
+  stars: 156
+  forks: 191
+  open-issues: 135
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

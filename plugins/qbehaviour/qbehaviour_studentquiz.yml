@@ -13,6 +13,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The StudentQuiz Question Behaviour extends the immediate feedback question
   behaviour and
+dependencies:
+  qbehaviour_immediatefeedback: 2015111600
+  mod_studentquiz: any

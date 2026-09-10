@@ -10,8 +10,11 @@ summary: YooKassa payment gateway plugin for Moodle.
 license: GPL-3.0
 metrics:
   updated: '2026-01-08T09:27:08Z'
-  stars: 3
+  stars: 4
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.11
+    date: '2025-10-25T05:35:07Z'
+  checked: '2026-09-10'

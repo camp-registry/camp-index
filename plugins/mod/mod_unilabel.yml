@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-14T13:08:06Z'
+  updated: '2026-08-24T13:41:33Z'
   stars: 1
   forks: 14
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The Moodle plugin modunilabel enables you to include some nice formated text
   on the course- or frontpage.

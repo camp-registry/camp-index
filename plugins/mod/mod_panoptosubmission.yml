@@ -9,9 +9,15 @@ releases: []
 license: GPL-3.0
 summary: This repo contains the Moodle Panopto Student Submission activity module.
 metrics:
-  updated: '2026-06-03T16:10:54Z'
+  updated: '2026-07-30T13:37:02Z'
   stars: 4
   forks: 2
   open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2026073000'
+    date: '2026-07-30T13:37:02Z'
+  checked: '2026-09-10'
+dependencies:
+  block_panopto: 2022122000
+  mod_lti: any

@@ -15,9 +15,13 @@ releases: []
 license: GPL-3.0
 summary: Export grades from assignment using advanced grading methods in excel format
 metrics:
-  updated: '2026-06-22T16:17:38Z'
-  stars: 11
-  forks: 14
+  updated: '2026-09-01T22:45:28Z'
+  stars: 12
+  forks: 17
   open-issues: 17
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.05
+    date: '2026-04-06T08:20:11Z'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci

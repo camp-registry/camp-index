@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026052000
+    date: '2026-07-02T14:01:19Z'
+  checked: '2026-09-10'
 summary: Enhanced tablesql functionality with advanced features and a modern, responsive
   interface

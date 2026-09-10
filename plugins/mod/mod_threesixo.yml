@@ -9,9 +9,12 @@ releases: []
 summary: A 360-degree feedback plugin for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-06-27T02:18:25Z'
-  stars: 9
+  updated: '2026-08-29T16:12:14Z'
+  stars: 11
   forks: 10
   open-issues: 19
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.1.1
+    date: '2026-08-23T02:22:38Z'
+  checked: '2026-09-10'

@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The IOMAD training event activity allows users to book onto a face-to-face
   training event, which can be held either at a physical or
+dependencies:
+  local_iomad: 2026010100

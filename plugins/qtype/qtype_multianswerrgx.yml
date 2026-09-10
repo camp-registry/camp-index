@@ -14,4 +14,12 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.0.0
+    date: '2025-05-04T21:22:24Z'
+  checked: '2026-09-10'
+dependencies:
+  qtype_regexp: 2024062600
+  qtype_multichoice: 2024041600
+  qtype_numerical: 2024041600
+  qtype_shortanswer: 2024041600

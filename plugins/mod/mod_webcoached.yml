@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Improved Reading integration into Moodle
 metrics:
-  updated: '2026-06-16T16:03:53Z'
+  updated: '2026-07-21T15:04:02Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

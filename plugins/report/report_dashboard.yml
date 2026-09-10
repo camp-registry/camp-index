@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Course Coordinator Dashboard
 metrics:
-  updated: '2026-03-15T09:00:46Z'
+  updated: '2026-08-15T01:18:29Z'
   stars: 0
   forks: 0
-  open-issues: 12
+  open-issues: 10
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

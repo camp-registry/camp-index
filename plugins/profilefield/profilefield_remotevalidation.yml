@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Provides a custom profile field type profilefieldremotevalidation, providing
   a regex validation of the value entered by the user when creating the account or
   editing the profile.

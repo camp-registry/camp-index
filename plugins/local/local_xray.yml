@@ -13,5 +13,8 @@ metrics:
   forks: 2
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: '[Moodle 2.9+][moodle-29]'
+dependencies:
+  local_mr: any
+  local_aws_sdk: any

@@ -8,10 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-01T09:50:14Z'
+  updated: '2026-09-07T10:36:43Z'
   stars: 0
   forks: 2
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: TODO Describe the plugin shortly here.
+dependencies:
+  mod_booking: 2025052100
+  local_wunderbyte_table: 2026061800
+  local_shopping_cart: 2025052101
+  local_entities: 2024111100

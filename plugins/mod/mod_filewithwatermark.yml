@@ -9,11 +9,11 @@ releases: []
 license: GPL-3.0
 metrics:
   updated: '2022-03-21T19:17:42Z'
-  stars: 4
-  forks: 3
+  stars: 5
+  forks: 4
   open-issues: 6
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The modfilewithwatermark plugin allows you to add a PDF file as a course
   resource and, when viewed, a watermark will be displayed with the current user's
   name and email.

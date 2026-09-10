@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.0.0
+    date: '2025-04-24T18:02:31Z'
+  checked: '2026-09-10'
 summary: Skype Activity Module for Moodle 3.x

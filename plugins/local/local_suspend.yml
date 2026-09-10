@@ -1,5 +1,5 @@
 component: local_suspend
-source: https://github.com/prevail90/moodle-local_suspend
+source: https://github.com/Operator-Training-Academy/moodle-local_suspend
 maintainers:
 - github: prevail90
 tier: 0
@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Automatically suspends a student's enrolment in a course after course completion,
   with optional waiting for certificate issuance on a per-course basis.

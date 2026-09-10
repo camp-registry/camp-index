@@ -8,11 +8,16 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-12T19:59:19Z'
+  updated: '2026-09-03T09:16:21Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.0.13
+    date: '2026-09-03T09:16:21Z'
+  checked: '2026-09-10'
 summary: A Moodle Competency Analysis and Reporting plugin. This plugin analyzes and
   reports on user competencies based on the question‑competency links created by qbankyetkinlik.
+dependencies:
+  qbank_yetkinlik: 2026031240

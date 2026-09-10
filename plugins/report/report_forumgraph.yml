@@ -13,6 +13,8 @@ metrics:
   updated: '2026-02-05T01:54:43Z'
   stars: 5
   forks: 2
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  mod_forum: any

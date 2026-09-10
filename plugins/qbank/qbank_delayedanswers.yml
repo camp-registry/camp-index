@@ -12,9 +12,12 @@ summary: Moodle question bank subplugin that hides multiple-choice answer option
   an anti-cheat mechanism.
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T20:49:00Z'
+  updated: '2026-07-17T10:18:25Z'
   stars: 2
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 5.2.1
+    date: '2026-07-07T20:48:47Z'
+  checked: '2026-09-10'

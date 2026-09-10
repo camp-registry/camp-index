@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This plugin integrates Moodle with an external microservice to automatically
   create courses and enroll users. It validates users, generates a CSV file for non-existent
   users, and automates the course creation process. Additionally, the plugin now includes

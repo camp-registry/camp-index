@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Quiz report plugin for the Moodle LMS, allowing to bulk download student
   responses and attachments to essay questions
 metrics:
-  updated: '2026-06-21T08:53:56Z'
+  updated: '2026-08-21T13:24:06Z'
   stars: 1
   forks: 3
-  open-issues: 1
+  open-issues: 6
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.6.5
+    date: '2026-06-21T08:53:57Z'
+  checked: '2026-09-10'

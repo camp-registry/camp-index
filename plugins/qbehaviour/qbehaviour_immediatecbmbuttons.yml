@@ -15,4 +15,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  qbehaviour_immediatecbm: 2012061700
+  qbehaviour_immediatefeedback: 2012061700
+  qbehaviour_deferredcbm: 2012061700

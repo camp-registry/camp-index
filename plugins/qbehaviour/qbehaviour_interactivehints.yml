@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This is technical plugin, used by question types with advanced hints (like
   Preg or CorrectWriting) to work in quizzes with interactive behaviour.
+dependencies:
+  qbehaviour_interactive: 2014111000
+  qtype_poasquestion: 2015033000

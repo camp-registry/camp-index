@@ -15,4 +15,6 @@ metrics:
   forks: 12
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  qbehaviour_adaptive: 2014051200

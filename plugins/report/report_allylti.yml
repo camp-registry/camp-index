@@ -8,11 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-02T17:04:38Z'
+  updated: '2026-09-07T09:35:37Z'
   stars: 2
-  forks: 11
-  open-issues: 5
+  forks: 12
+  open-issues: 11
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The Ally reporting tool (reportallylti) provides a site wide accessibility
   report which can be broken down by course.
+dependencies:
+  tool_ally: 2026012850
+  filter_ally: 2026012850

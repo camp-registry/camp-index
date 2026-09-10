@@ -9,9 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Moodle Booking Module
 metrics:
-  updated: '2026-07-10T22:30:34Z'
+  updated: '2026-09-10T12:59:50Z'
   stars: 28
-  forks: 55
-  open-issues: 205
+  forks: 54
+  open-issues: 219
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  local_wunderbyte_table: 2026081800

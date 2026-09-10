@@ -14,4 +14,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  local_nagios: 2015060500
+  local_notifications: 2015062500

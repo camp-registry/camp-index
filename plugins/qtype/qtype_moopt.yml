@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Qtype for ProForma taskformat
 metrics:
-  updated: '2026-06-29T09:49:15Z'
+  updated: '2026-09-08T08:29:46Z'
   stars: 1
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.5.0
+    date: '2026-02-18T11:28:49Z'
+  checked: '2026-09-10'

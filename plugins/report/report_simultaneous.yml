@@ -13,6 +13,9 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.2.0
+    date: '2026-03-24T11:51:49Z'
+  checked: '2026-09-10'
 summary: This report is intended to provide teachers with a simple tool to detect
   possible cheating by students during online assessment.

@@ -12,8 +12,11 @@ metrics:
   stars: 0
   forks: 0
   open-issues: 1
-  archived: false
-  checked: '2026-07-11'
+  archived: true
+  latest-release:
+    tag: v1.0.1
+    date: '2025-11-26T13:55:55Z'
+  checked: '2026-09-10'
 summary: Moodle plugin that integrates Skill5 learning platform with Moodle through
   LTI 1.3, enabling seamless access to Skill5 courses and content directly from Moodle
   courses.

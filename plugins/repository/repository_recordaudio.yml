@@ -11,8 +11,8 @@ summary: Repository plugin for Moodle 2.x which allows recording of audio using 
   instead of uploading an existing file
 metrics:
   updated: '2014-09-02T22:29:53Z'
-  stars: 5
+  stars: 6
   forks: 3
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

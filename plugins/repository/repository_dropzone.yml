@@ -9,9 +9,14 @@ releases: []
 license: GPL-3.0
 summary: Upload files to Moodle (using dropzone.js)
 metrics:
-  updated: '2025-07-18T18:35:19Z'
+  updated: '2026-08-22T17:18:19Z'
   stars: 0
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2026072800'
+    date: '2026-07-28T18:55:46Z'
+  checked: '2026-09-10'
+dependencies:
+  repository_upload: 2022041900

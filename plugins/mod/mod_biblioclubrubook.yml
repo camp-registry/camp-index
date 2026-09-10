@@ -14,4 +14,9 @@ metrics:
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.8
+    date: '2024-07-16T12:43:21Z'
+  checked: '2026-09-10'
+dependencies:
+  block_biblioclub_ru: 2020083102

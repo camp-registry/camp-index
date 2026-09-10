@@ -9,9 +9,12 @@ releases: []
 summary: Virtual Programming Lab for Moodle (Module)
 license: GPL-3.0
 metrics:
-  updated: '2026-05-23T14:35:04Z'
-  stars: 127
+  updated: '2026-09-07T08:49:17Z'
+  stars: 128
   forks: 109
-  open-issues: 60
+  open-issues: 63
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: V4.5.0
+    date: '2026-05-21T17:45:45Z'
+  checked: '2026-09-10'

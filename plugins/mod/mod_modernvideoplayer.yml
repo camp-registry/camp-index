@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A moodle activity plugin for playing video
 metrics:
-  updated: '2026-06-18T23:13:39Z'
+  updated: '2026-07-16T23:13:46Z'
   stars: 0
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.3.7
+    date: '2026-05-13T04:28:12Z'
+  checked: '2026-09-10'

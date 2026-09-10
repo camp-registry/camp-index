@@ -13,5 +13,8 @@ metrics:
   forks: 5
   open-issues: 6
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2023010901'
+    date: '2023-01-16T17:10:40Z'
+  checked: '2026-09-10'
 summary: 'This question type allows asking questions such as :'

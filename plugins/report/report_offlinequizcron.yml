@@ -11,9 +11,11 @@ summary: The Offlinequiz Cronjob Admin allows administrators to monitor and, if 
   control important processes for the evaluation of offline quizzes in the backend
   of their Moodle platform.
 metrics:
-  updated: '2026-02-12T12:25:04Z'
+  updated: '2026-08-04T14:27:01Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  mod_offlinequiz: 2026012900

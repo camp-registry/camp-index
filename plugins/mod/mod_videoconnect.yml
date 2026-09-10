@@ -12,9 +12,12 @@ summary: This module allows users to upload a video as a resource, which is then
   video ID, you can enter it directly. When rendering the video, if the upload process
   is still ongoing, Vimeo displays a message indi
 metrics:
-  updated: '2024-11-30T15:51:03Z'
+  updated: '2026-07-30T11:08:26Z'
   stars: 1
   forks: 1
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.1.0
+    date: '2026-07-30T11:24:55Z'
+  checked: '2026-09-10'

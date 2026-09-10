@@ -13,8 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: LCMS is the subsystem, where the users educates themselves about good practices
   on energy efficiency. LCMS interacts with GSRN. Thus, the latter can provide recommendation
   services to the user according to the educational content that is mostly keen on
   watching next based on her/his current educatio
+dependencies:
+  block_dedication: 2017042300

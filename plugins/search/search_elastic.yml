@@ -9,9 +9,12 @@ releases: []
 summary: An Elasticsearch engine plugin for Moodle's Global Search
 license: GPL-3.0
 metrics:
-  updated: '2026-07-06T01:21:49Z'
+  updated: '2026-09-08T08:31:34Z'
   stars: 15
   forks: 18
-  open-issues: 45
+  open-issues: 43
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2023011200'
+    date: '2023-01-12T23:55:25Z'
+  checked: '2026-09-10'

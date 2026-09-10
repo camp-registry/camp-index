@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Route Moodle notifications through multiple configurable SMTP accounts, with
   per-module routing rules.
 metrics:
-  updated: '2026-07-11T16:08:56Z'
+  updated: '2026-07-20T21:41:27Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-07-20T21:41:27Z'
+  checked: '2026-09-10'

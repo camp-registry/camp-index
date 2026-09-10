@@ -12,9 +12,12 @@ summary: Lab Virtual (local_labvirtual) is a Moodle local plugin for batch creat
   class or discipline), with a self-service student panel so students can pick and
   join their workspace without any admin intervention each semest
 metrics:
-  updated: '2026-07-08T02:01:19Z'
+  updated: '2026-09-04T19:24:49Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.2
+    date: '2026-07-08T02:01:26Z'
+  checked: '2026-09-10'

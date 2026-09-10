@@ -9,9 +9,17 @@ releases: []
 license: GPL-3.0
 summary: Formulas question type for Moodle
 metrics:
-  updated: '2026-07-03T17:31:44Z'
+  updated: '2026-08-02T19:26:47Z'
   stars: 20
   forks: 31
-  open-issues: 27
+  open-issues: 26
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v6.3.2
+    date: '2026-07-03T17:31:44Z'
+  checked: '2026-09-10'
+dependencies:
+  qbehaviour_adaptive: 2015111600
+  qbehaviour_adaptivemultipart: 2014092500
+  qtype_multichoice: 2015111600
+  filter_mathjaxloader: 2024100700

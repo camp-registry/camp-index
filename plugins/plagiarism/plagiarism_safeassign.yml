@@ -13,5 +13,7 @@ metrics:
   forks: 4
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The SafeAssign plagiarism plugin (plagiarismsafeassign) provides
+dependencies:
+  local_mr: any

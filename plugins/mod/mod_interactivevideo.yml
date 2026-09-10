@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Interactive Video plugin for Moodle
 metrics:
-  updated: '2026-06-24T20:04:34Z'
+  updated: '2026-09-03T12:12:12Z'
   stars: 8
   forks: 9
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.0
+    date: '2026-09-02T14:14:09Z'
+  checked: '2026-09-10'

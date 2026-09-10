@@ -13,6 +13,8 @@ metrics:
   forks: 4
   open-issues: 27
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Generation of PDF certificates with connection to digital signature systems
   and modular storage.
+dependencies:
+  tool_certificate: 2024042300

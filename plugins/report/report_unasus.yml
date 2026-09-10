@@ -9,9 +9,15 @@ releases: []
 license: GPL-3.0
 summary: Relatórios gerenciais de acompahnamento de curso
 metrics:
-  updated: '2026-07-02T01:00:01Z'
+  updated: '2026-09-02T22:12:33Z'
   stars: 4
   forks: 2
-  open-issues: 3
+  open-issues: 6
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2016031401'
+    date: '2016-03-15T13:35:15Z'
+  checked: '2026-09-10'
+dependencies:
+  local_tutores: 2026051901
+  local_relationship: 2015020100

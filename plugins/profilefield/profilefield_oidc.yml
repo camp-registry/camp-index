@@ -11,7 +11,12 @@ summary: OpenID Connect profile field plugin for Moodle
 metrics:
   updated: '2023-06-13T17:54:34Z'
   stars: 7
-  forks: 9
+  forks: 8
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: v29.0.0.1
+    date: '2015-10-21T09:40:23Z'
+  checked: '2026-09-10'
+dependencies:
+  auth_oidc: 2016062000

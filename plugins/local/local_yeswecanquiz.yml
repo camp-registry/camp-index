@@ -11,8 +11,11 @@ summary: YesWeCanQuiz was a Moodle plugin. It enabled unauthenticated visitors t
 license: GPL-3.0
 metrics:
   updated: '2026-04-30T15:26:03Z'
-  stars: 14
+  stars: 13
   forks: 1
   open-issues: 0
   archived: true
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2025-05-06T20:11:21Z'
+  checked: '2026-09-10'

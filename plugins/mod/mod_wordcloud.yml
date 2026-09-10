@@ -11,9 +11,9 @@ summary: With the wordcloud activity, it is possible to collect terms together w
   your course participants in a brainstorming process and to display them graphically
   in order of frequency.
 metrics:
-  updated: '2025-12-05T18:52:37Z'
+  updated: '2026-08-21T22:31:23Z'
   stars: 0
   forks: 3
-  open-issues: 10
+  open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

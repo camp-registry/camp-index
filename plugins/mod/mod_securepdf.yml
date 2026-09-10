@@ -10,9 +10,9 @@ license: GPL-3.0
 metrics:
   updated: '2025-05-11T13:40:08Z'
   stars: 3
-  forks: 4
+  forks: 5
   open-issues: 9
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Secure PDF module allow you to upload a PDF to your course, and prevent students
   from downloading it.

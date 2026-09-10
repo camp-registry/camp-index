@@ -10,9 +10,12 @@ summary: ':memo: :globe_with_meridians: An activity for live document editing in
   powered by Collabora Online'
 license: GPL-3.0
 metrics:
-  updated: '2026-05-26T13:14:02Z'
+  updated: '2026-08-10T15:22:21Z'
   stars: 10
   forks: 10
-  open-issues: 20
+  open-issues: 17
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.10-r3
+    date: '2021-04-14T08:36:28Z'
+  checked: '2026-09-10'

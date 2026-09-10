@@ -14,9 +14,12 @@ releases: []
 summary: MuTMS Interactive book plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
-  updated: '2026-06-05T18:47:10Z'
+  updated: '2026-08-14T17:58:06Z'
   stars: 2
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci
+dependencies:
+  tool_mulib: 2026080845

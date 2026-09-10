@@ -13,5 +13,10 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.1.1
+    date: '2023-05-11T08:46:01Z'
+  checked: '2026-09-10'
 summary: Report Attendance Table
+dependencies:
+  mod_attendance: 2021050702

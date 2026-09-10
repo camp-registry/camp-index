@@ -9,9 +9,14 @@ releases: []
 summary: Stack question type for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T15:39:28Z'
-  stars: 162
-  forks: 174
-  open-issues: 119
+  updated: '2026-09-09T14:28:04Z'
+  stars: 164
+  forks: 178
+  open-issues: 120
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  qbehaviour_adaptivemultipart: 2020103000
+  qbehaviour_dfexplicitvaildate: 2018080600
+  qbehaviour_dfcbmexplicitvaildate: 2018080600
+  qbank_importasversion: 2025121600

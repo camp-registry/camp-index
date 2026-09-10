@@ -11,9 +11,14 @@ summary: Plagiarismcheck.org is a sophisticated similarity search engine. We adv
   students write better papers.
 license: GPL-3.0
 metrics:
-  updated: '2026-06-12T14:06:06Z'
+  updated: '2026-09-10T10:29:03Z'
   stars: 14
   forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.17.0
+    date: '2026-09-02T10:31:33Z'
+  checked: '2026-09-10'
+dependencies:
+  mod_assign: any

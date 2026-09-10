@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-09T13:24:16Z'
+  updated: '2026-09-04T20:16:54Z'
   stars: 0
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: CompetVet Eval is an evaluation module designed for French National Veterinary
   Schools (ENVF). It is an evaluation tool for rotations, allowing the management,
   tracking, and assessment of students' competencies during their clinical rotations

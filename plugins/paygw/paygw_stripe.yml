@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T20:53:51Z'
-  stars: 11
+  updated: '2026-08-22T04:50:31Z'
+  stars: 12
   forks: 21
-  open-issues: 7
+  open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Provides a payment gateway with Stripe in Moodle

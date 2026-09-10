@@ -13,6 +13,11 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 3.2.0
+    date: '2025-05-13T10:52:58Z'
+  checked: '2026-09-10'
 summary: Dieses Moodle Modul bildet das Adaptivitätselement aus der 3D-Umgebung in
   Moodle ab.
+dependencies:
+  local_logging: any

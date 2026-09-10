@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin to grade essay questions using the AI subsystem
 metrics:
-  updated: '2026-06-27T15:24:24Z'
+  updated: '2026-09-09T11:08:02Z'
   stars: 1
   forks: 1
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.1.2
+    date: '2026-09-09T11:08:03Z'
+  checked: '2026-09-10'

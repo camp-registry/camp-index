@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2023-12-04T07:38:27Z'
+  checked: '2026-09-10'
 summary: iSpring Moodle plugin

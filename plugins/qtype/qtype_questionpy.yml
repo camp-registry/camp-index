@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 24
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The Moodle Question Plugin for the QuestionPy Project.
+dependencies:
+  qbehaviour_questionpy: 2025100600

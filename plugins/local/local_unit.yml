@@ -1,5 +1,5 @@
 component: local_unit
-source: https://github.com/prevail90/moodle-local_unit
+source: https://github.com/Operator-Training-Academy/moodle-local_unit
 maintainers:
 - github: prevail90
 tier: 0
@@ -13,5 +13,5 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: 'Release candidate: 1.0.0-rc.1'

@@ -9,9 +9,9 @@ releases: []
 summary: Custom API SMS Gateway plugin for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2025-07-13T19:59:55Z'
+  updated: '2026-08-13T18:48:38Z'
   stars: 1
   forks: 1
-  open-issues: 3
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

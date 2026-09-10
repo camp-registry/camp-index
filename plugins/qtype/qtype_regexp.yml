@@ -11,7 +11,13 @@ summary: regular expression short answer question type
 metrics:
   updated: '2025-05-02T21:02:13Z'
   stars: 6
-  forks: 20
-  open-issues: 0
+  forks: 21
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.0.0
+    date: '2025-05-02T21:02:13Z'
+  checked: '2026-09-10'
+dependencies:
+  qbehaviour_regexpadaptivewithhelp: 2024050200
+  qbehaviour_regexpadaptivewithhelpnopenalty: 2024050200

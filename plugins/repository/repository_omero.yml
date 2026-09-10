@@ -13,6 +13,9 @@ metrics:
   forks: 2
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.9.2
+    date: '2017-06-09T09:00:16Z'
+  checked: '2026-09-10'
 summary: A Moodle repository for browsing the images of an OMERO server by project,
   dataset and/or tag.

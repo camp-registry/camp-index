@@ -11,7 +11,9 @@ summary: All or Nothing Moodle question type originally created by Adriane Boyd
 metrics:
   updated: '2021-01-12T07:38:44Z'
   stars: 3
-  forks: 29
+  forks: 30
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  qtype_multichoice: any

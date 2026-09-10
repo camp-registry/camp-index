@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Profile custom fields for phone with validating phone numbers.
 metrics:
-  updated: '2026-02-28T12:28:59Z'
+  updated: '2026-09-01T09:21:32Z'
   stars: 1
-  forks: 6
+  forks: 7
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.2.5
+    date: '2026-02-05T17:37:17Z'
+  checked: '2026-09-10'

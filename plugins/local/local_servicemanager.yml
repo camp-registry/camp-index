@@ -11,9 +11,12 @@ summary: Moodle local plugin to provision and manage web services from version-c
   and token.
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T12:57:57Z'
+  updated: '2026-09-06T11:44:24Z'
   stars: 2
   forks: 0
-  open-issues: 9
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.2
+    date: '2026-09-06T11:43:59Z'
+  checked: '2026-09-10'

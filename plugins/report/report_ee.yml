@@ -13,6 +13,9 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This plugin allows an external examiner to submit feedback on the quality
   of assessed work for a module.
+dependencies:
+  local_solsits: any
+  local_quercus_tasks: any

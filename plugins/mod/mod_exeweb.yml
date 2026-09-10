@@ -10,9 +10,12 @@ summary: Activity-type Moodle module to create and edit web sites with eXeLearni
   (online).
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T08:58:07Z'
+  updated: '2026-09-04T09:33:09Z'
   stars: 5
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.0.3
+    date: '2026-08-07T08:58:18Z'
+  checked: '2026-09-10'

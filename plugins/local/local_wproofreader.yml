@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Real-time spelling, grammar, and style checking inside Moodle editors.   Moodle
   4.5 LTS through 5.2.
 metrics:
-  updated: '2026-06-26T12:56:11Z'
+  updated: '2026-08-20T14:00:58Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 2.0.0
+    date: '2026-08-20T14:00:58Z'
+  checked: '2026-09-10'

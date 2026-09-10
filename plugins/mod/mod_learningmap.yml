@@ -9,9 +9,12 @@ releases: []
 summary: GitHub Repository for mod_learningmap
 license: GPL-3.0
 metrics:
-  updated: '2026-06-05T05:40:00Z'
+  updated: '2026-09-03T06:39:41Z'
   stars: 15
   forks: 9
   open-issues: 22
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.9.16
+    date: '2026-02-19T13:35:04Z'
+  checked: '2026-09-10'

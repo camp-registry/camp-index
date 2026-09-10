@@ -13,7 +13,10 @@ metrics:
   forks: 2
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.12
+    date: '2022-04-12T07:22:01Z'
+  checked: '2026-09-10'
 summary: The TYPO3 Repository and SSO Plugin was build for the Learning Content Management
   System LMS3 (www.lms3.de) which is a distribution of TYPO3 and created by LEARNTUBE
   GmbH (www.learntube.de). However, LMS3 is not needed as a complete solution to connect

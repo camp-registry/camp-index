@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: 'moodle qtype_mtf: Multiple True/False'
 metrics:
-  updated: '2026-03-05T07:53:14Z'
+  updated: '2026-07-27T10:13:10Z'
   stars: 0
-  forks: 6
-  open-issues: 7
+  forks: 9
+  open-issues: 9
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: final-release-3.x
+    date: '2022-04-06T13:48:50Z'
+  checked: '2026-09-10'

@@ -9,9 +9,12 @@ releases: []
 summary: ':speech_balloon: Non-linear discussion module for Q&A forums'
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T09:02:08Z'
+  updated: '2026-09-09T22:01:15Z'
   stars: 17
   forks: 26
-  open-issues: 13
+  open-issues: 14
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r2
+    date: '2026-07-07T07:57:41Z'
+  checked: '2026-09-10'

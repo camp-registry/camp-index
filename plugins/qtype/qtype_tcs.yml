@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Question type subplugin for concordance.
 metrics:
-  updated: '2026-02-10T16:51:12Z'
+  updated: '2026-09-09T21:25:01Z'
   stars: 1
   forks: 0
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.0
+    date: '2026-08-21T15:49:18Z'
+  checked: '2026-09-10'

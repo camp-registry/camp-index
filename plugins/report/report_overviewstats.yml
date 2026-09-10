@@ -9,9 +9,12 @@ releases: []
 summary: Moodle add-on producing various site and course reports
 license: GPL-3.0
 metrics:
-  updated: '2025-05-29T11:30:50Z'
+  updated: '2026-09-03T08:29:54Z'
   stars: 11
-  forks: 18
-  open-issues: 7
+  forks: 19
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026090200
+    date: '2026-09-02T13:51:14Z'
+  checked: '2026-09-10'

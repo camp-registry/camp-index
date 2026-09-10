@@ -9,9 +9,14 @@ releases: []
 license: GPL-3.0
 summary: Moodle module to show progress of all courses on the same course category
 metrics:
-  updated: '2026-07-03T14:12:02Z'
+  updated: '2026-09-02T12:48:55Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 0.0.1
+    date: '2026-07-03T14:12:03Z'
+  checked: '2026-09-10'
+dependencies:
+  local_suap: 20250605066

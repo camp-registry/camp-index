@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: 'The Moodle plugin modlabelwithgroup allows you to add resources with different
   views in the course and display them only for a specific group. The display options
   (templates) are:'

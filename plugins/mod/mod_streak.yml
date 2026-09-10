@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: 'A Moodle activity module that adds a daily-practice learning streak to a
   course: per-learner streak counter, streak freeze, reminders, and a per-course leaderboard.'
 metrics:
-  updated: '2026-07-06T11:48:30Z'
+  updated: '2026-08-30T16:25:20Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

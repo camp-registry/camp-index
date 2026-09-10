@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T12:47:49Z'
+  updated: '2026-09-07T07:06:06Z'
   stars: 1
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The edu-sharing activity module adds a new option to the activities/resource
   menu. Using the edu-sharing resource allows you to either pick content from the
   repository or upload it to a folder of the repository. You may pick which version

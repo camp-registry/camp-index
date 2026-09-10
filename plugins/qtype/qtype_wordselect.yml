@@ -16,8 +16,12 @@ license: GPL-3.0
 summary: Highlight words by clicking e.g. select all nouns in this sentence
 metrics:
   updated: '2026-05-27T18:15:19Z'
-  stars: 2
-  forks: 20
-  open-issues: 11
+  stars: 3
+  forks: 19
+  open-issues: 12
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.56
+    date: '2026-04-18T10:40:28Z'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci

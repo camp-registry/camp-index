@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-16T12:58:31Z'
+  updated: '2026-08-25T06:31:10Z'
   stars: 1
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.0
+    date: '2026-06-16T12:58:31Z'
+  checked: '2026-09-10'
 summary: A Moodle activity module that lets teachers add a

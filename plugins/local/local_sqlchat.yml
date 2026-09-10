@@ -14,11 +14,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-24T19:21:36Z'
-  stars: 1
+  updated: '2026-09-09T15:51:42Z'
+  stars: 2
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: LLM-driven SQL generator for Moodle. Ask a natural-language question, get
   a
+dependencies:
+  tool_ai_bridge: any

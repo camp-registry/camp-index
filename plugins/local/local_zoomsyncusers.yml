@@ -13,7 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The localzoomsyncusers plugin is a Moodle local plugin designed to synchronize
   users between Moodle and Zoom. This plugin ensures that user data is kept consistent
   across both platforms, streamlining user management for administrators.
+dependencies:
+  mod_zoom: 2025052000

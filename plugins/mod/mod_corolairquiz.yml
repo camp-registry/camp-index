@@ -13,5 +13,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: 'Version: 1.1.3'
+dependencies:
+  local_corolair: 2025091100

@@ -16,4 +16,7 @@ metrics:
   forks: 5
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: MAICI-v.1.5-stable
+    date: '2024-05-13T07:16:48Z'
+  checked: '2026-09-10'

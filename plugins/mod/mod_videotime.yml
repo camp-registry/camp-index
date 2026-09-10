@@ -10,9 +10,12 @@ license: AGPL-3.0
 summary: The Video Time product family is a set of plugins to integrate videos into
   moodle courses.
 metrics:
-  updated: '2026-06-30T16:23:40Z'
-  stars: 10
-  forks: 9
-  open-issues: 55
+  updated: '2026-09-01T18:31:54Z'
+  stars: 13
+  forks: 10
+  open-issues: 64
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.12-r1
+    date: '2026-06-26T08:34:51Z'
+  checked: '2026-09-10'

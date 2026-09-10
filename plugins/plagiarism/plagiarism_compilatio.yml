@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Compilatio.net plagiarism plugin for Moodle
 metrics:
-  updated: '2026-07-07T06:41:25Z'
+  updated: '2026-09-01T10:22:46Z'
   stars: 9
   forks: 9
-  open-issues: 3
+  open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

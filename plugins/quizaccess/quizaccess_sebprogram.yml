@@ -14,4 +14,6 @@ metrics:
   forks: 1
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  quizaccess_seb: any

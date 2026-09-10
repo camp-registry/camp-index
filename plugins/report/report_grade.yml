@@ -13,4 +13,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  theme_solent: 2024011600
+  local_solsits: 2025032804
+  local_quercus_tasks: 2021020406
+  assignfeedback_doublemark: 2025052800

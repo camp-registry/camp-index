@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-06T17:35:43Z'
+  updated: '2026-08-18T15:37:19Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Turn your course content into a polished, fullscreen slide deck—rich media,
   presenter controls inside a standard Moodle resource.

@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A Moodle quiz report to allow quiz attempts to be exported
 metrics:
-  updated: '2025-06-20T13:49:17Z'
+  updated: '2026-07-16T08:01:56Z'
   stars: 8
-  forks: 22
+  forks: 23
   open-issues: 17
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.5
+    date: '2025-05-06T13:12:50Z'
+  checked: '2026-09-10'

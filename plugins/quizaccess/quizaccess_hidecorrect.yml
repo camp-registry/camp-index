@@ -12,8 +12,11 @@ summary: This Moodle plugin allows teachers to hide questions that have been cor
   the correct answers and encourages them to attempt the questions again.
 metrics:
   updated: '2025-05-30T13:27:37Z'
-  stars: 1
+  stars: 2
   forks: 5
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.0
+    date: '2025-05-30T13:27:37Z'
+  checked: '2026-09-10'

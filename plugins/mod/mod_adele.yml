@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: moodle-mod_adele
 metrics:
-  updated: '2026-03-16T18:20:03Z'
+  updated: '2026-09-03T08:38:23Z'
   stars: 1
-  forks: 1
-  open-issues: 3
+  forks: 2
+  open-issues: 15
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  local_adele: 2026082902
+  enrol_adele: 2026082903

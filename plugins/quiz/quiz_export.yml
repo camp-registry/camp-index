@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: This plugin allows you to export quiz attempts in pdf format
 metrics:
-  updated: '2026-05-06T12:39:48Z'
+  updated: '2026-09-10T12:45:06Z'
   stars: 3
   forks: 5
-  open-issues: 7
+  open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 4.x.3
+    date: '2026-03-04T15:11:22Z'
+  checked: '2026-09-10'

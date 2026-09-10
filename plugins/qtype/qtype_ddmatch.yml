@@ -8,10 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-03T05:53:46Z'
+  updated: '2026-09-03T13:23:05Z'
   stars: 4
-  forks: 28
-  open-issues: 14
+  forks: 31
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026090300
+    date: '2026-09-03T13:23:06Z'
+  checked: '2026-09-10'
 summary: Drag-and-Drop Matching Question  [This block is written by DualCube<admin@dualcube.com>.]
+dependencies:
+  qtype_match: 2025041400

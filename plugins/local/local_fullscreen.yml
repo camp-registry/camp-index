@@ -8,3 +8,5 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: The 'Fullscreen toggle button' local plugin was developed by
+metrics:
+  checked: '2026-09-10'

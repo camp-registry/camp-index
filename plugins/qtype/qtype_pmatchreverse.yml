@@ -10,9 +10,11 @@ license: GPL-3.0
 summary: A question type where the teacher provides some example sentences, and the
   student has to write a pmatch expression to match those sentences.
 metrics:
-  updated: '2026-05-13T14:47:12Z'
+  updated: '2026-08-10T08:06:24Z'
   stars: 3
   forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  qtype_pmatch: 2022080900

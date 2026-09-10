@@ -9,9 +9,20 @@ releases: []
 license: GPL-3.0
 summary: Wiris Quizzes for Moodle Local Plugin.
 metrics:
-  updated: '2026-06-25T14:04:24Z'
+  updated: '2026-09-02T08:40:52Z'
   stars: 1
   forks: 3
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.19.5
+    date: '2026-09-02T08:40:52Z'
+  checked: '2026-09-10'
+dependencies:
+  qtype_wq: 2026090200
+  qtype_essaywiris: 2026090200
+  qtype_matchwiris: 2026090200
+  qtype_multianswerwiris: 2026090200
+  qtype_multichoicewiris: 2026090200
+  qtype_shortanswerwiris: 2026090200
+  qtype_truefalsewiris: 2026090200

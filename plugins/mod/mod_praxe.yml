@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2015081200
+    date: '2015-08-14T09:25:05Z'
+  checked: '2026-09-10'
 summary: This is a custom module for LMS Moodle developed by Tomas Jerabek

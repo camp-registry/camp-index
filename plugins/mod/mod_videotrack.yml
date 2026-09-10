@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A Moodle activity plugin to track students' viewing progress on videos.
 metrics:
-  updated: '2026-06-30T03:56:20Z'
-  stars: 0
+  updated: '2026-08-24T00:09:00Z'
+  stars: 3
   forks: 0
-  open-issues: 0
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.1
+    date: '2026-07-20T19:06:07Z'
+  checked: '2026-09-10'

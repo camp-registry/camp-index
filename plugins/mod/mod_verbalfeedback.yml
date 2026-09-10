@@ -9,9 +9,12 @@ releases: []
 summary: The Verbal Feedback Moodle Activity
 license: GPL-3.0
 metrics:
-  updated: '2026-06-05T20:36:55Z'
+  updated: '2026-09-04T16:13:02Z'
   stars: 1
   forks: 6
   open-issues: 19
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r2
+    date: '2026-06-05T20:41:23Z'
+  checked: '2026-09-10'

@@ -13,4 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  block_opencast: 2022111900
+  tool_opencast: 2022111900
+  mod_streamlti: 2021051100

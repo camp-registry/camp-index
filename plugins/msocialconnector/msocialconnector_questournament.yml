@@ -13,4 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.1-prefactor
+    date: '2022-10-25T16:55:17Z'
+  checked: '2026-09-10'
+dependencies:
+  mod_msocial: 2017081900
+  mod_quest: 2014101500

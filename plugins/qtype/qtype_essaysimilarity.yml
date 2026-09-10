@@ -17,4 +17,7 @@ metrics:
   forks: 3
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 2.0.0
+    date: '2023-02-07T11:32:47Z'
+  checked: '2026-09-10'

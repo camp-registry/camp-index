@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-08T03:56:08Z'
+  updated: '2026-08-25T00:43:41Z'
   stars: 2
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: modgroupassign is an early Moodle activity prototype for group assignments
   that combine group formation, group submission, peer/self evaluation, and teacher-controlled
   grade adjustment in one activity.

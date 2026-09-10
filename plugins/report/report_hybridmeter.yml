@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.4.1
+    date: '2024-09-09T14:06:41Z'
+  checked: '2026-09-10'
 summary: HybridMeter is a plugin dedicated to monitor the use of digital teaching
   tools within a Moodle LMS platform,

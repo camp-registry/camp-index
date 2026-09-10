@@ -13,5 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.1.1
+    date: '2025-05-19T13:35:52Z'
+  checked: '2026-09-10'
 summary: filtermultilang2
+dependencies:
+  filter_multilang2: any

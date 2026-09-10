@@ -8,10 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-30T06:55:28Z'
+  updated: '2026-09-06T06:14:08Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: First runnable behaviour adapter for STACK Math Game.
+dependencies:
+  qtype_stack: any

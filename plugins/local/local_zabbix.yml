@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This plugin is designed to monitor a Moodle site and send relevant metrics
   to a Zabbix server. It provides a command-line interface (CLI) for fetching data
   from the Moodle database and sending it to Zabbix.

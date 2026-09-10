@@ -8,10 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T12:31:40Z'
+  updated: '2026-09-09T06:07:28Z'
   stars: 4
   forks: 12
-  open-issues: 37
+  open-issues: 44
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: TODO Describe the plugin shortly here.
+dependencies:
+  local_wunderbyte_table: 2026073000

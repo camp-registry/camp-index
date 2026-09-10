@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This quiz access rule plugin add a button that enable a QRCode scanner in
   quiz with password.

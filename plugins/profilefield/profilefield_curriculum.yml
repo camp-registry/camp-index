@@ -10,9 +10,11 @@ license: GPL-3.0
 summary: A Moodle user profile field plugin that allows users to select curriculum
   programs from the local_curriculum component.
 metrics:
-  updated: '2026-02-13T08:20:34Z'
+  updated: '2026-08-01T23:27:27Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  local_curriculum: 2026020800

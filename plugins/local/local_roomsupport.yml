@@ -13,7 +13,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The system will be used at York University's Glendon Campus. It is a system
   that displays help instructions for the technology in the room. It also allows users
   to quickly call the help desk by pressing a button on the device.
+dependencies:
+  local_buildings: 2017080900

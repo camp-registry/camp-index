@@ -12,7 +12,10 @@ summary: Native spaced repetition for Moodle. Built on the Leitner method – no
 metrics:
   updated: '2026-03-31T20:24:05Z'
   stars: 0
-  forks: 1
+  forks: 2
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.5.5
+    date: '2026-03-01T21:01:19Z'
+  checked: '2026-09-10'

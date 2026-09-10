@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: HotPot activity module for Moodle >= 2.0
 metrics:
-  updated: '2025-05-03T06:35:58Z'
+  updated: '2026-09-10T10:54:04Z'
   stars: 12
-  forks: 28
-  open-issues: 7
+  forks: 29
+  open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

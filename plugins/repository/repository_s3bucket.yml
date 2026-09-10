@@ -9,9 +9,11 @@ releases: []
 summary: Moodle S3 folder (bucket) repository
 license: GPL-3.0
 metrics:
-  updated: '2026-06-11T12:15:01Z'
+  updated: '2026-09-09T15:17:24Z'
   stars: 5
   forks: 4
   open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  repository_s3: any

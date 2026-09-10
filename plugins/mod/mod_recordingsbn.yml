@@ -15,4 +15,9 @@ metrics:
   forks: 14
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.3.4
+    date: '2018-05-11T18:41:01Z'
+  checked: '2026-09-10'
+dependencies:
+  mod_bigbluebuttonbn: 2016051900

@@ -9,9 +9,11 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle question type: All-or-Nothing Multiple Choice (extends qtype_multichoice).'
 metrics:
-  updated: '2026-04-20T06:32:45Z'
+  updated: '2026-07-14T13:12:23Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  qtype_multichoice: any

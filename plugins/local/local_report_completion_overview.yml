@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The local IOMAD report completion overview plugin provides a RAG completion
   compliance report for managers to ensure that user completion
+dependencies:
+  local_iomad: 2026010100

@@ -11,7 +11,10 @@ metrics:
   updated: '2026-01-02T18:51:46Z'
   stars: 0
   forks: 1
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.0.1
+    date: '2025-07-24T13:01:24Z'
+  checked: '2026-09-10'
 summary: Grades student answers based on a single or multiple regular expressions.

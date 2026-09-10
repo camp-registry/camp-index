@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: This local module provides a web service which returns a given user's courses
   based on username.
 metrics:
-  updated: '2026-03-31T13:49:29Z'
+  updated: '2026-07-29T13:18:03Z'
   stars: 5
   forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

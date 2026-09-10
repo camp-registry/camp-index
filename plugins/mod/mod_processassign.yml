@@ -8,11 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-08T07:51:56Z'
+  updated: '2026-08-25T01:05:12Z'
   stars: 2
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: modprocessassign is a Moodle activity prototype for staged, process-oriented
   assignment submission and grading.
+dependencies:
+  mod_assign: 2024100700

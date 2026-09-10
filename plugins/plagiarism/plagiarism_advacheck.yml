@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 3.3.3
+    date: '2026-01-14T09:17:10Z'
+  checked: '2026-09-10'
 summary: Take advantage of Advacheck’s plagiarism checker from the comfort of your
   Moodle LMS.

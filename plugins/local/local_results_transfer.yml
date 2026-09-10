@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-21T10:10:56Z'
+  updated: '2026-09-04T15:31:33Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Moodle local plugin for transferring prepared results from an external MIS
   database/view to a configurable remote stored procedure.

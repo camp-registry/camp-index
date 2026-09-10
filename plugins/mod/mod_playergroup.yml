@@ -11,9 +11,12 @@ summary: PlayerGroup lets students autonomously form their own groups directly f
   the activity page — no teacher intervention needed. It replaces manual group assignment
   with a self-service experience that works for any course format.
 metrics:
-  updated: '2026-07-09T11:27:33Z'
-  stars: 0
+  updated: '2026-09-09T12:08:35Z'
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.3.6
+    date: '2026-09-04T17:05:56Z'
+  checked: '2026-09-10'

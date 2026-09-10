@@ -13,5 +13,5 @@ metrics:
   forks: 3
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: This plugin allows the admin create user profile fields with custom masks.

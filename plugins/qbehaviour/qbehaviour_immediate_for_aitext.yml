@@ -14,9 +14,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-24T11:20:37Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-08-30T18:04:26Z'
+  stars: 1
+  forks: 1
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-08-30T18:04:26Z'
+  checked: '2026-09-10'
+  ci: moodle-plugin-ci

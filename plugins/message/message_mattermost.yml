@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.1
+    date: '2021-09-23T06:15:37Z'
+  checked: '2026-09-10'
 summary: This plugin provides a message processor for Mattermost. A Mattermost site
   can configure the mattermost notification plugin to be used for message outputs.
   Then, any Moodle user who is a member of that Mattermost site can configure their

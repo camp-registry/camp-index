@@ -13,6 +13,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.4
+    date: '2022-02-18T14:02:57Z'
+  checked: '2026-09-10'
 summary: SSLCOMMERZ is the largest payment gateway aggregator in Bangladesh and a
   pioneer in the FinTech industry. For more detail about SSLCOMMERZ please visit https://www.sslcommerz.com/.

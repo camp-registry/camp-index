@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '20201216'
+    date: '2020-12-16T14:19:05Z'
+  checked: '2026-09-10'
 summary: Web service to update the start date of a course and all the dates of the
   activities of this course in a relative way.

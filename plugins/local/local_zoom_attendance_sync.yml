@@ -14,4 +14,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2024-01-11T09:36:51Z'
+  checked: '2026-09-10'
+dependencies:
+  mod_attendance: 2020120300
+  mod_zoom: 2022041900

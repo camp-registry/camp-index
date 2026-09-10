@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: The MEDIAL activity plugin for Moodle
 metrics:
-  updated: '2026-05-26T11:17:39Z'
+  updated: '2026-08-07T08:47:47Z'
   stars: 3
-  forks: 10
-  open-issues: 9
+  forks: 12
+  open-issues: 11
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'

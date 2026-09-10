@@ -9,9 +9,12 @@ releases: []
 summary: Turnitin Plagiarism plugin for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-08T14:17:47Z'
-  stars: 66
-  forks: 88
-  open-issues: 63
+  updated: '2026-08-11T13:47:32Z'
+  stars: 67
+  forks: 91
+  open-issues: 70
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026072901
+    date: '2026-07-29T15:37:24Z'
+  checked: '2026-09-10'

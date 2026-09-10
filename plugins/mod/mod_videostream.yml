@@ -13,6 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: 'New videostream module is based on the great original videofile module by
   : Jonas Nockert <jonasnockert AT gmail>'
+dependencies:
+  local_video_directory: 2017032701

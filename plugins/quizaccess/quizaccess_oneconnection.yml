@@ -13,7 +13,7 @@ metrics:
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: A Moodle quiz access rule plugin that prevents students from continuing a
   quiz attempt across multiple sessions or devices, ensuring exam integrity by blocking
   concurrent connections.

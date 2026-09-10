@@ -8,11 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-15T12:15:31Z'
+  updated: '2026-07-26T00:07:53Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-06-15T12:15:46Z'
+  checked: '2026-09-10'
 summary: Moodle activity module that issues Certifier credentials (certificate/badge)
   when learners meet configured completion rules.

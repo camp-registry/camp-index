@@ -13,8 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: Moodle Media Manager is a Moodle activity plugin that helps you offload uploaded
   files or resources to an Amazon S3 bucket and remove them from the local moodledata
   directory. The files are then served via public or pre-signed S3 URLs directly inside
   the activity.
+dependencies:
+  local_aws: 2022011300

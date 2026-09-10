@@ -11,7 +11,10 @@ summary: Moodle ONLYOFFICE Document Server online editor integration
 metrics:
   updated: '2026-06-23T07:07:07Z'
   stars: 7
-  forks: 16
+  forks: 17
   open-issues: 13
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.5_9.4
+    date: '2026-06-23T07:10:39Z'
+  checked: '2026-09-10'

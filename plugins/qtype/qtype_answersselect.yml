@@ -14,4 +14,9 @@ metrics:
   forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '1.8'
+    date: '2021-12-01T13:43:41Z'
+  checked: '2026-09-10'
+dependencies:
+  qtype_multichoice: 2020061500

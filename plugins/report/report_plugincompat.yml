@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 9
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: The Third-party Plugin Compatibility Report is a Moodle admin tool that helps
   administrators and IT teams plan site upgrades by analyzing the compatibility of
   third-party plugins with different Moodle versions.

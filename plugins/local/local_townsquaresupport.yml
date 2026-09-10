@@ -13,5 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.1-r1
+    date: '2025-12-01T09:58:46Z'
+  checked: '2026-09-10'
 summary: A moodle local plugin that manages the subplugins for the townsquare
+dependencies:
+  block_townsquare: 2025112900

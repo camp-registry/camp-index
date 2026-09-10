@@ -10,8 +10,11 @@ summary: CryptoCloud payment gateway plugin for Moodle.
 license: GPL-3.0
 metrics:
   updated: '2025-03-06T08:25:18Z'
-  stars: 2
+  stars: 3
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.17
+    date: '2024-12-13T11:25:28Z'
+  checked: '2026-09-10'

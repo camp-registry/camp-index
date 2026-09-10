@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v500.5.0.1
+    date: '2025-04-22T14:50:46Z'
+  checked: '2026-09-10'
 summary: Copyright 2022 Andreas Schenkel

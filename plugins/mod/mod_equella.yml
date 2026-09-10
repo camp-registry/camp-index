@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle module for integration with openEQUELLA
 metrics:
-  updated: '2026-05-26T23:19:44Z'
+  updated: '2026-08-24T23:46:02Z'
   stars: 6
   forks: 19
-  open-issues: 12
+  open-issues: 11
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.3.4
+    date: '2026-08-25T05:21:05Z'
+  checked: '2026-09-10'

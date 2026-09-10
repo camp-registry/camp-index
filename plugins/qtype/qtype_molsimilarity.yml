@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 7
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
 summary: 'Moodle plugin allowing the teacher to ask a chemistry related question in
   which the expected answer is a chemical structure. The student will answer by drawing
   the response. The specificity of the plugin is that is allows for soft grading:

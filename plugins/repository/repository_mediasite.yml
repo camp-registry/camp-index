@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.1
+    date: '2026-01-20T00:30:04Z'
+  checked: '2026-09-10'
 summary: Note this is an unofficial Mediasite plugin. The supported integration is
   using LTI.

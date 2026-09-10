@@ -8,10 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-06-11T16:05:13Z'
+  updated: '2026-08-10T20:08:48Z'
   stars: 9
   forks: 15
   open-issues: 11
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2026072901
+    date: '2026-07-29T16:25:22Z'
+  checked: '2026-09-10'
 summary: Announcement - Issues page merged with Turnitin's support page

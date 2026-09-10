@@ -15,4 +15,11 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-09-10'
+dependencies:
+  atto_wordimport: 2023110600
+  booktool_wordimport: 2025042300
+  local_glossary_wordimport: 2025042300
+  local_lesson_wordimport: 2023022400
+  qformat_wordtable: 2025040400
+  tiny_wordimport: 2024112000
