@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: A Moodle block to customize floating buttons.
 metrics:
-  updated: '2026-06-01T22:05:50Z'
+  updated: '2026-09-03T12:38:04Z'
   stars: 2
   forks: 0
   open-issues: 3
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: v0.1.5
     date: '2025-11-07T07:47:46Z'
-  checked: '2026-08-27'
+  checked: '2026-09-11'

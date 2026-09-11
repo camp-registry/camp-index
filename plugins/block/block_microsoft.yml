@@ -9,14 +9,14 @@ releases: []
 summary: moodle-block_microsoft
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T09:42:39Z'
-  stars: 13
+  updated: '2026-09-02T13:31:03Z'
+  stars: 14
   forks: 20
   open-issues: 1
   archived: false
   latest-release:
-    tag: v5.2.0
-    date: '2026-07-07T09:42:39Z'
-  checked: '2026-08-27'
+    tag: v5.2.1
+    date: '2026-09-02T10:32:24Z'
+  checked: '2026-09-11'
 dependencies:
-  local_o365: 2026042000
+  local_o365: 2026042001

@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: Moodle multi progress block
 metrics:
-  updated: '2026-07-27T18:50:50Z'
+  updated: '2026-09-02T12:48:58Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: 0.0.1
     date: '2026-07-03T14:12:24Z'
-  checked: '2026-08-27'
+  checked: '2026-09-11'
