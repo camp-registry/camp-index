@@ -10,9 +10,9 @@ summary: The evasys Moodle Block allows students to display links to evasys onli
   surveys on their home page, which are available for them to participate.
 license: GPL-3.0
 metrics:
-  updated: '2026-04-27T14:17:31Z'
+  updated: '2026-09-08T10:51:02Z'
   stars: 5
   forks: 9
-  open-issues: 27
+  open-issues: 11
   archived: false
-  checked: '2026-08-28'
+  checked: '2026-09-12'
