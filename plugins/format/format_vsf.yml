@@ -1,8 +1,12 @@
 component: format_vsf
-source: https://github.com/gjb2048/moodle-format_vsf
+source: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-format_vsf
 maintainers:
-- github: gjb2048
-tier: 0
+- github: [gemguardian, gjb2048]
+security-contact: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-format_vsf/security/advisories/new
+labels:
+- fully-free
+- commercial-support-available
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
