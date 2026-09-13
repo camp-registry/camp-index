@@ -10,7 +10,7 @@ license: GPL-3.0
 summary: Moodle content type plugin that imports moodle resources for use in the content
   bank
 metrics:
-  updated: '2026-05-04T22:01:40Z'
+  updated: '2026-08-31T20:08:02Z'
   stars: 4
   forks: 0
   open-issues: 0
@@ -18,4 +18,4 @@ metrics:
   latest-release:
     tag: v1.4.2
     date: '2025-11-30T21:13:54Z'
-  checked: '2026-08-29'
+  checked: '2026-09-13'
