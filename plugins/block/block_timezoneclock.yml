@@ -29,6 +29,24 @@ releases:
   listing-sha256: 035cf8ec739b223637cebb6dc00a8492b7a64bce463b9c091474624d69202946
   published: '2026-08-30T14:04:14Z'
   released: '2026-08-30T14:01:57Z'
+- version: v1.2.5
+  tag: v1.2.5
+  commit: a870c911297b11e2cca66ef8f163f1abdb53ea49
+  moodle-version: 2026091300
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: d3ae8fb11d4c783949262152a5dbcb6f406b509f3efcae9c96a2361a170e1847
+  listing-sha256: 035cf8ec739b223637cebb6dc00a8492b7a64bce463b9c091474624d69202946
+  published: '2026-09-13T12:56:47Z'
+  released: '2026-09-13T12:42:30Z'
 license: GPL-3.0
 summary: Moodle block plugin for viewing/converting time in different timezones
 metrics:
