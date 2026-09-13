@@ -47,6 +47,189 @@ releases:
   listing-sha256: 035cf8ec739b223637cebb6dc00a8492b7a64bce463b9c091474624d69202946
   published: '2026-09-13T12:56:47Z'
   released: '2026-09-13T12:42:30Z'
+- version: v1.0
+  tag: v1.0
+  commit: aa536fe094b9e3764fcc4a4b4ef87e09f10a91ff
+  moodle-version: 2022121500
+  supported-moodle:
+  - '4.0'
+  zip-sha256: defa3ad52abe54ba12f8d4c220f60fca21f1c282ab8d6c58cdea80b7e733601d
+  published: '2026-09-13T15:49:15Z'
+  released: '2022-12-18T10:21:26Z'
+- version: v1.1
+  tag: v1.1
+  commit: f4b479b8c0961413e1968fb9ef0a2d33c35c69a8
+  moodle-version: 2022122900
+  supported-moodle:
+  - '4.0'
+  zip-sha256: 823a13c4f66248379bdf330fb943db5e6e74e54ce732c29bd2e41acb5ed16b52
+  published: '2026-09-13T15:49:16Z'
+  released: '2022-12-29T17:36:09Z'
+- version: v1.1.1
+  tag: v1.1.1
+  commit: e880682b2e26c5c4f5bc51e0bab044e0bdbbe8a2
+  moodle-version: 2023010900
+  supported-moodle:
+  - '4.0'
+  zip-sha256: 904705248a840a8ba859e5ccec7b338f94ed59f0896c974e64de6d8506dfc0a2
+  published: '2026-09-13T15:49:16Z'
+  released: '2023-01-09T16:49:27Z'
+- version: v1.1.2
+  tag: v1.1.2
+  commit: e9266b6124baded48fbe17b57cc44c51d00c0cad
+  moodle-version: 2023010901
+  supported-moodle:
+  - '4.0'
+  zip-sha256: 402346c7e706eac30b15ab90b8dac8bd92cfc67739af8d547570cf6a249c22d5
+  published: '2026-09-13T15:49:17Z'
+  released: '2023-03-19T08:35:45Z'
+- version: v1.1.3
+  tag: v1.1.3
+  commit: 0588621ce7ad00cc9c005a08671189ca0a839b70
+  moodle-version: 2023010902
+  supported-moodle:
+  - '4.0'
+  zip-sha256: 68c0d25668c2f38db736eec12b202bb607963ea863b67aa573ba43dfd7ba57e4
+  published: '2026-09-13T15:49:17Z'
+  released: '2023-03-28T19:05:40Z'
+- version: v1.1.4
+  tag: v1.1.4
+  commit: 6f019df1d05838275a550698dc400a040f5f0609
+  moodle-version: 2023010903
+  supported-moodle:
+  - '4.0'
+  zip-sha256: 46969a9ca350d76099695f374cdc2425eb91cbac627fc4be88aa6f1784a9207f
+  published: '2026-09-13T15:49:17Z'
+  released: '2023-04-20T16:08:17Z'
+- version: v1.1.5
+  tag: v1.1.5
+  commit: d2b6823459256e61fa6537badb11804e03bcf741
+  moodle-version: 2023010904
+  supported-moodle:
+  - '4.0'
+  zip-sha256: c58c96200cc8dca627ce61f82b9820dfa78e95ccf2a9d5e14da08936f3bf04a5
+  published: '2026-09-13T15:49:18Z'
+  released: '2023-05-09T17:53:03Z'
+- version: v1.1.6
+  tag: v1.1.6
+  commit: a45267b2696f24f0b1976917403a8b76d3ffb9ac
+  moodle-version: 2023010906
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  zip-sha256: a7c45939ecdefdd4b14eec4e62863b343bbc583d5a6d3208be88c1ace479be66
+  published: '2026-09-13T15:49:18Z'
+  released: '2024-04-20T09:17:14Z'
+- version: v1.1.7
+  tag: v1.1.7
+  commit: ef7c2d747998f0210c70bc8d144e48d9b7305a82
+  moodle-version: 2024061900
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  zip-sha256: 347b431356ef94072154c46c36e8762df5cf5d0e9112306f0570f331b0ff91cd
+  published: '2026-09-13T15:49:19Z'
+  released: '2024-06-19T17:36:44Z'
+- version: v1.1.8
+  tag: v1.1.8
+  commit: 4b12703572f56cae3429ce33feb10e7013075894
+  moodle-version: 2024092100
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  zip-sha256: 1e61204fef84367431829f6b8d9ada22a0ac401f0c98c932e169f13292b8a1b6
+  published: '2026-09-13T15:49:19Z'
+  released: '2024-10-09T19:10:36Z'
+- version: v1.1.9
+  tag: v1.1.9
+  commit: 89e4dfa86730bab17a0bb0b2b1ddd2e8b08dde06
+  moodle-version: 2025041400
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  zip-sha256: c068f3085dd93b502701487c1de807db9af7b8064844b0b16be8f5f33041a113
+  published: '2026-09-13T15:49:20Z'
+  released: '2025-04-14T17:47:43Z'
+- version: v1.2.0
+  tag: v1.2.0
+  commit: fa3f4a0ad194e6dee509ffbbe5fa028769e28c4d
+  moodle-version: 2025062500
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  zip-sha256: d4ecd505abb30d7d3b88af5cd74112f7283b6ead1d058428f0ae55198d8a0a52
+  published: '2026-09-13T15:49:20Z'
+  released: '2025-06-24T17:37:33Z'
+- version: v1.2.1
+  tag: v1.2.1
+  commit: e9828045b5648cf82b662ccfaf94d6e0a0056e26
+  moodle-version: 2025101200
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  zip-sha256: e9b59384e7af69b4c32640739b804429e5c42a43082dc9c24dc24e7fdecb7fc0
+  published: '2026-09-13T15:49:20Z'
+  released: '2025-10-12T18:10:16Z'
+- version: v1.2.2
+  tag: v1.2.2
+  commit: 81673e42fc3067f6d0cbe6e6cc20115c72dcba4e
+  moodle-version: 2026040500
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 3c0c220a618954364935ebadc0cd2cac94c0795f828d8ccd2cf53b67350496bd
+  published: '2026-09-13T15:49:21Z'
+  released: '2026-04-04T16:13:47Z'
+- version: v1.2.3
+  tag: v1.2.3
+  commit: b7ce53863e62d0edfa6efcc83d4495297c9ba512
+  moodle-version: 2026062100
+  supported-moodle:
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: ff3c79a830b7ebab32806cdfdef5291e00883e4f29cfc4cc109d90050fd8349c
+  published: '2026-09-13T15:49:21Z'
+  released: '2026-06-21T07:33:04Z'
 license: GPL-3.0
 summary: Moodle block plugin for viewing/converting time in different timezones
 metrics:
