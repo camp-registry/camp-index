@@ -1,14 +1,14 @@
 component: logstore_xapi
 source: https://github.com/davidpesce/moodle-logstore_xapi
 source-repo-id: 36794007
+security-contact: https://github.com/davidpesce/camp-claim/security/advisories/new
 maintainers:
-- name: David Pesce
-  github: davidpesce
+- github: davidpesce
 tier: 2
-security-contact: https://github.com/davidpesce/moodle-logstore_xapi/security/advisories/new
 labels:
 - fully-free
 - commercial-support-available
+org-claim: davidpesce
 status: active
 releases:
 - version: 5.0.1

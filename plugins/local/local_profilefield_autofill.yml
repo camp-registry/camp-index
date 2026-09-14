@@ -1,13 +1,13 @@
 component: local_profilefield_autofill
 source: https://github.com/davidpesce/moodle-local_profilefield_autofill
 source-repo-id: 1087198828
+security-contact: https://github.com/davidpesce/camp-claim/security/advisories/new
 maintainers:
-- name: David Pesce
-  github: davidpesce
+- github: davidpesce
 tier: 2
-security-contact: https://github.com/davidpesce/moodle-local_profilefield_autofill/security/advisories/new
 labels:
 - fully-free
+org-claim: davidpesce
 status: active
 discovered: '2026-07-11'
 releases:

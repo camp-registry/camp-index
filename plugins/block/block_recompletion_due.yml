@@ -1,8 +1,13 @@
 component: block_recompletion_due
 source: https://github.com/davidpesce/moodle-block_recompletion_due
+source-repo-id: 1017614511
+security-contact: https://github.com/davidpesce/camp-claim/security/advisories/new
 maintainers:
 - github: davidpesce
-tier: 0
+tier: 1
+labels:
+- fully-free
+org-claim: davidpesce
 status: active
 discovered: '2026-07-11'
 releases: []

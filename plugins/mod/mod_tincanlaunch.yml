@@ -1,13 +1,14 @@
 component: mod_tincanlaunch
 source: https://github.com/davidpesce/moodle-mod_tincanlaunch
 source-repo-id: 11703390
+security-contact: https://github.com/davidpesce/camp-claim/security/advisories/new
 maintainers:
 - github: davidpesce
 tier: 2
-security-contact: https://github.com/davidpesce/moodle-mod_tincanlaunch/security/advisories/new
 labels:
 - fully-free
 - commercial-support-available
+org-claim: davidpesce
 status: active
 releases:
 - version: v1.64

@@ -1,8 +1,13 @@
 component: local_sentinel
 source: https://github.com/davidpesce/moodle-local_sentinel
+source-repo-id: 1246045522
+security-contact: https://github.com/davidpesce/camp-claim/security/advisories/new
 maintainers:
 - github: davidpesce
-tier: 0
+tier: 1
+labels:
+- fully-free
+org-claim: davidpesce
 status: active
 discovered: '2026-07-11'
 releases: []
