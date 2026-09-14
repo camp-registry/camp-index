@@ -5,13 +5,26 @@ security-contact: https://github.com/davidpesce/camp-claim/security/advisories/n
 maintainers:
 - github: davidpesce
   name: David Pesce
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: davidpesce
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 2.22.4
+  tag: v2.22.4
+  commit: 1f174c7f1366a1e8669cc7f836b3a4e6019e4500
+  moodle-version: 2026091400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: f5c9e59edf0ac8db9ea1613432ea43b74a6e003d694ba894468d78d3626b3dde
+  listing-sha256: deb9f086fc6f87949fbb8a12ecd48c775ee8b0836b1e1285f19307023e841095
+  published: '2026-09-14T21:16:39Z'
+  released: '2026-09-14T21:13:29Z'
 license: GPL-3.0
 metrics:
   updated: '2026-07-03T15:59:57Z'
@@ -20,4 +33,6 @@ metrics:
   open-issues: 3
   archived: false
   checked: '2026-09-10'
-summary: Per-instance Moodle plugin that exposes operational health, environment details,
+summary: >-
+  Per-instance Moodle plugin that exposes operational health, environment
+  details,
