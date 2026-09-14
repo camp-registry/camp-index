@@ -4,6 +4,7 @@ source-repo-id: 36794007
 security-contact: https://github.com/davidpesce/camp-claim/security/advisories/new
 maintainers:
 - github: davidpesce
+  name: David Pesce
 tier: 2
 labels:
 - fully-free
