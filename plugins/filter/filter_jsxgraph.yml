@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: moodle plug-in for JSXGraph
 metrics:
-  updated: '2026-01-23T08:42:24Z'
+  updated: '2026-09-08T16:43:13Z'
   stars: 2
   forks: 8
-  open-issues: 2
+  open-issues: 0
   archived: false
   latest-release:
-    tag: v1.12.0
-    date: '2025-10-13T13:47:33Z'
-  checked: '2026-08-30'
+    tag: v1.13.3
+    date: '2026-09-07T14:16:21Z'
+  checked: '2026-09-14'

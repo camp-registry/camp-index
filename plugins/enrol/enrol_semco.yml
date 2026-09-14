@@ -10,9 +10,9 @@ summary: Moodle enrolment plugin which allows the SEMCO seminar management syste
   to enrol and manage users in Moodle courses
 license: GPL-3.0
 metrics:
-  updated: '2026-07-29T06:28:32Z'
+  updated: '2026-09-03T19:47:48Z'
   stars: 1
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-08-30'
+  checked: '2026-09-14'

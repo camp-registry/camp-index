@@ -10,8 +10,8 @@ summary: Enrollment plugin with Mercado Pago
 license: GPL-3.0
 metrics:
   updated: '2026-01-24T03:57:20Z'
-  stars: 31
-  forks: 17
+  stars: 30
+  forks: 18
   open-issues: 5
   archived: false
-  checked: '2026-08-30'
+  checked: '2026-09-14'

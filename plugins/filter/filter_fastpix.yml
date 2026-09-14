@@ -18,7 +18,7 @@ metrics:
   latest-release:
     tag: v1.0.3
     date: '2026-06-16T14:31:18Z'
-  checked: '2026-08-30'
+  checked: '2026-09-14'
 dependencies:
   mod_fastpix: 2026061500
   local_fastpix: 2026061500
