@@ -5,13 +5,26 @@ security-contact: https://github.com/davidpesce/camp-claim/security/advisories/n
 maintainers:
 - github: davidpesce
   name: David Pesce
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: davidpesce
 status: active
 discovered: '2026-09-04'
-releases: []
+releases:
+- version: 1.1.0
+  tag: v1.1.0
+  commit: 2b1249780c0dfa29dfd866ae47bb3bb274ab0e33
+  moodle-version: 2026091500
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 49e62173ea036a2e7836482444645258fee29a32174014713dc84a27feaac52b
+  listing-sha256: b716893603ebe34a3104ca0097cf6addfa65f3bde4ca4cbab2dceeb0f1ef1141
+  published: '2026-09-15T15:06:39Z'
+  released: '2026-09-15T15:03:39Z'
 license: GPL-3.0
 metrics:
   updated: '2026-03-12T16:21:18Z'
