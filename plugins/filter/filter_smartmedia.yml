@@ -9,11 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Moodle LMS Smartmedia filter
 metrics:
-  updated: '2026-06-05T07:17:34Z'
+  updated: '2026-09-10T00:20:28Z'
   stars: 0
   forks: 1
-  open-issues: 4
+  open-issues: 5
   archived: false
-  checked: '2026-08-31'
+  checked: '2026-09-15'
 dependencies:
   local_smartmedia: 2025100700

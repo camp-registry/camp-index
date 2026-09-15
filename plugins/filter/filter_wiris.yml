@@ -10,12 +10,12 @@ summary: Moodle plugin that converts any MathML or LaTeX to accessible images us
   the MathType API services by Wiris
 license: GPL-3.0
 metrics:
-  updated: '2026-07-14T15:01:54Z'
+  updated: '2026-09-14T12:56:36Z'
   stars: 17
   forks: 19
-  open-issues: 1
+  open-issues: 2
   archived: false
   latest-release:
     tag: v.8.11.0
     date: '2026-04-21T10:05:05Z'
-  checked: '2026-08-31'
+  checked: '2026-09-15'

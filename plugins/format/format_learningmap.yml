@@ -8,7 +8,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-04-17T08:43:11Z'
+  updated: '2026-09-03T12:36:19Z'
   stars: 2
   forks: 1
   open-issues: 0
@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v0.1.1
     date: '2025-04-17T08:43:11Z'
-  checked: '2026-08-31'
+  checked: '2026-09-15'
 summary: This course format allows you to use learningmaps (https://moodle.org/plugins/modlearningmap)
   as the main page of your course. It requires modlearningmap to be installed (at
   least version 0.9.9).

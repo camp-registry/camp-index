@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: Kickstart adds a powerful course template engine to moodle – create courses
   easily and produce high quality courses, consistently.
 metrics:
-  updated: '2026-08-30T12:27:22Z'
+  updated: '2026-09-14T14:23:25Z'
   stars: 5
   forks: 7
-  open-issues: 17
+  open-issues: 19
   archived: false
   latest-release:
     tag: v1.5-r7
     date: '2026-08-14T07:48:19Z'
-  checked: '2026-08-31'
+  checked: '2026-09-15'

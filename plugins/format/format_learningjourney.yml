@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-13T17:32:18Z'
+  updated: '2026-09-06T16:28:43Z'
   stars: 0
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-08-31'
+  checked: '2026-09-15'
 summary: 'Learning journey is a Moodle course format that presents the course as a
   sequence of sections—similar in spirit to “topics”—with optional time windows, cover
   images, and a card-based main page. It is aimed at guided learning paths, programmes

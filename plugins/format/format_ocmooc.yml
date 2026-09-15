@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-20T11:38:38Z'
+  updated: '2026-09-04T10:48:08Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-08-31'
+  checked: '2026-09-15'
 summary: Das MOOC-Format ist ein speziell entwickeltes Kursformat für Moodle, das
   umfangreiche Funktionen zur Unterstützung von Massive Open Online Courses (MOOCs)
   bietet. Es ermöglicht eine modulare Kursstruktur mit Kapiteln, Lektionen und interaktiven
