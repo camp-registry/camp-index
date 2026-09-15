@@ -1,5 +1,6 @@
 component: format_vsf
 source: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-format_vsf
+source-repo-id: 350721478
 maintainers:
 - github: gemguardian
 - github: gjb2048
