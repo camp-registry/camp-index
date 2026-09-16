@@ -12,10 +12,10 @@ summary: An accessibility plugin that allows users to customize the visual appea
 metrics:
   updated: '2026-08-02T05:25:31Z'
   stars: 3
-  forks: 7
+  forks: 8
   open-issues: 17
   archived: false
   latest-release:
     tag: v2.4.1-with-widgets
     date: '2026-08-02T05:25:30Z'
-  checked: '2026-09-01'
+  checked: '2026-09-16'

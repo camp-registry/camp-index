@@ -17,7 +17,7 @@ metrics:
   latest-release:
     tag: 1.8.0.0
     date: '2026-08-25T12:44:11Z'
-  checked: '2026-09-01'
+  checked: '2026-09-16'
 dependencies:
   mod_attendance: 2024070301
   local_obu_metalinking: 2024110101

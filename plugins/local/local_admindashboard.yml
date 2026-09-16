@@ -1,5 +1,5 @@
 component: local_admindashboard
-source: https://github.com/UzainAliSiddiqui/moodle-local_admindashboard
+source: https://github.com/Uzain95/moodle-local_admindashboard
 maintainers:
 - github: UzainAliSiddiqui
 tier: 0
@@ -14,4 +14,4 @@ metrics:
   forks: 0
   open-issues: 9
   archived: false
-  checked: '2026-09-01'
+  checked: '2026-09-16'

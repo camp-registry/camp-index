@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: A moodle plugin containing Amazon's SDK for PHP.
 metrics:
-  updated: '2026-07-14T01:41:32Z'
+  updated: '2026-09-06T23:45:03Z'
   stars: 18
   forks: 29
   open-issues: 19
   archived: false
-  checked: '2026-09-01'
+  checked: '2026-09-16'

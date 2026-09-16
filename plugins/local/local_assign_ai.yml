@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 1.1.7
     date: '2026-08-31T17:48:51Z'
-  checked: '2026-09-01'
+  checked: '2026-09-16'
 summary: The Assignment AI plugin brings intelligent automation to the grading and
   feedback process within Moodle.
 dependencies:

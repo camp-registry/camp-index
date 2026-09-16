@@ -15,10 +15,10 @@ license: GPL-3.0
 summary: Moodle local plugin to add a form field for assessment type (formative or
   sumative) to specified mods.
 metrics:
-  updated: '2026-05-28T09:06:40Z'
+  updated: '2026-09-10T13:55:25Z'
   stars: 2
   forks: 2
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-09-01'
+  checked: '2026-09-16'
   ci: moodle-plugin-ci
