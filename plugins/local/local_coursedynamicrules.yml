@@ -8,19 +8,19 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-02T00:09:10Z'
+  updated: '2026-09-16T09:37:17Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 3
   archived: false
   latest-release:
-    tag: 1.8.2
-    date: '2026-09-02T00:09:10Z'
-  checked: '2026-09-02'
+    tag: 1.8.5
+    date: '2026-09-11T19:53:49Z'
+  checked: '2026-09-17'
 summary: The Smart Rules AI plugin enables administrators and teachers to automate
   course actions with intelligent rules based on conditions about activities, grades,
   and user behavior.
 dependencies:
-  aiprovider_datacurso: 2025111300
-  local_coursegen: 2025112000
+  aiprovider_datacurso: 2026081000
+  local_coursegen: 2026082400
   availability_user: 2024082101
