@@ -1,12 +1,14 @@
 component: block_theme_selector
 source: https://github.com/gjbarnard/moodle-block_theme_selector
 source-repo-id: 38828990
+security-contact: https://github.com/gjbarnard/camp-claim/security/advisories
 maintainers:
-- github: gjbarnard
-security-contact: https://github.com/gjbarnard/moodle-block_theme_selector/security/advisories/new
+- github: gjb2048
+  name: Gareth Barnard
+tier: 1
 labels:
 - fully-free
-tier: 1
+org-claim: gjbarnard
 status: active
 discovered: '2026-07-23'
 releases: []

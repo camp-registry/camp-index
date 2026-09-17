@@ -1,12 +1,14 @@
 component: theme_hairbourne
 source: https://github.com/gjb2048/moodle-theme_hairbourne
 source-repo-id: 54280823
+security-contact: https://github.com/gjb2048/camp-claim/security/advisories
 maintainers:
 - github: gjb2048
-security-contact: https://github.com/gjb2048/moodle-theme_hairbourne/security/advisories/new
+  name: Gareth Barnard
+tier: 1
 labels:
 - fully-free
-tier: 1
+org-claim: gjb2048
 status: active
 discovered: '2026-07-23'
 releases: []

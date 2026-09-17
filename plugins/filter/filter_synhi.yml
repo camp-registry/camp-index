@@ -1,14 +1,16 @@
 component: filter_synhi
 source: https://github.com/gjbarnard/moodle-filter_synhi
 source-repo-id: 284098501
+security-contact: https://github.com/gjbarnard/camp-claim/security/advisories
 maintainers:
-- github: gjbarnard
-security-contact: https://github.com/gjbarnard/moodle-filter_synhi/security/advisories/new
+- github: gjb2048
+  name: Gareth Barnard
+tier: 1
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
-tier: 1
+org-claim: gjbarnard
 status: active
 discovered: '2026-07-10'
 releases: []

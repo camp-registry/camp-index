@@ -1,13 +1,15 @@
 component: theme_opaque
 source: https://github.com/gjb2048/moodle-theme_opaque
 source-repo-id: 46938639
+security-contact: https://github.com/gjb2048/camp-claim/security/advisories
 maintainers:
 - github: gjb2048
-security-contact: https://github.com/gjb2048/moodle-theme_opaque/security/advisories/new
+  name: Gareth Barnard
+tier: 1
 labels:
 - fully-free
 - donation-supported
-tier: 1
+org-claim: gjb2048
 status: active
 discovered: '2026-07-11'
 releases: []

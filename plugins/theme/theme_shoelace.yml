@@ -1,12 +1,14 @@
 component: theme_shoelace
 source: https://github.com/gjb2048/moodle-theme_shoelace
 source-repo-id: 9646266
+security-contact: https://github.com/gjb2048/camp-claim/security/advisories
 maintainers:
 - github: gjb2048
-security-contact: https://github.com/gjb2048/moodle-theme_shoelace/security/advisories/new
+  name: Gareth Barnard
+tier: 1
 labels:
 - fully-free
-tier: 1
+org-claim: gjb2048
 status: active
 discovered: '2026-07-11'
 releases: []

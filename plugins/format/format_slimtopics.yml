@@ -1,12 +1,14 @@
 component: format_slimtopics
 source: https://github.com/gjb2048/moodle-format_slimtopics
 source-repo-id: 4273026
+security-contact: https://github.com/gjb2048/camp-claim/security/advisories
 maintainers:
 - github: gjb2048
-security-contact: https://github.com/gjb2048/moodle-format_slimtopics/security/advisories/new
+  name: Gareth Barnard
+tier: 1
 labels:
 - fully-free
-tier: 1
+org-claim: gjb2048
 status: active
 discovered: '2026-07-11'
 releases: []

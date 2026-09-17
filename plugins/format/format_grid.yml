@@ -1,14 +1,16 @@
 component: format_grid
 source: https://github.com/gjbarnard/moodle-format_grid
 source-repo-id: 3452804
+security-contact: https://github.com/gjbarnard/camp-claim/security/advisories
 maintainers:
-- github: gjbarnard
-security-contact: https://github.com/gjbarnard/moodle-format_grid/security/advisories/new
+- github: gjb2048
+  name: Gareth Barnard
+tier: 1
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
-tier: 1
+org-claim: gjbarnard
 status: active
 discovered: '2026-07-11'
 releases: []
