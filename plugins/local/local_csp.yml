@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Content security policy reporting and enforcing tool for Moodle
 metrics:
-  updated: '2026-07-06T05:30:58Z'
+  updated: '2026-09-08T05:57:23Z'
   stars: 13
   forks: 8
-  open-issues: 16
+  open-issues: 17
   archived: false
   latest-release:
     tag: '2019100100'
     date: '2019-11-12T04:37:34Z'
-  checked: '2026-09-03'
+  checked: '2026-09-18'

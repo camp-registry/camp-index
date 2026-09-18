@@ -13,4 +13,6 @@ metrics:
   forks: 3
   open-issues: 2
   archived: false
-  checked: '2026-09-03'
+  checked: '2026-09-18'
+summary: This plugin gives you the ability to directly import grades, activity and
+  course completions directly

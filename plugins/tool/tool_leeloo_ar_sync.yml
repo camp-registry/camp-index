@@ -15,4 +15,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-03'
+  checked: '2026-09-18'
+summary: This tool is used to Sell A/R on Leeloo LXP, admin can selet a course and  then
+  its A/R, and can set price to it. This makes the A/R a prodcut in Leeloo LXp ,and
+  when the user tries to view it, he is asked to make payment to view it, Once payment
+  is done he can access that A/R

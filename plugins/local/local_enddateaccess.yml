@@ -12,12 +12,12 @@ summary: This local plugin automates the process of restricting access to course
   modules that are tracked for course completion.
 license: GPL-3.0
 metrics:
-  updated: '2026-07-08T09:17:50Z'
+  updated: '2026-09-14T09:58:29Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.1.0
-    date: '2026-07-08T09:17:50Z'
-  checked: '2026-09-03'
+    tag: v1.1.1
+    date: '2026-09-14T09:58:30Z'
+  checked: '2026-09-18'

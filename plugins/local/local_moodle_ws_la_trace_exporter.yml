@@ -13,4 +13,6 @@ metrics:
   forks: 1
   open-issues: 0
   archived: true
-  checked: '2026-09-03'
+  checked: '2026-09-18'
+summary: This plugin is necessary to allow the export of course specific activity
+  log data to the Graasp Learning Analytics App.

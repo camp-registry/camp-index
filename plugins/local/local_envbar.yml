@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Environment bar, never forget what server you're on again.
 metrics:
-  updated: '2026-07-06T07:48:41Z'
+  updated: '2026-09-08T06:02:48Z'
   stars: 7
   forks: 7
-  open-issues: 38
+  open-issues: 40
   archived: false
   latest-release:
     tag: '2020092800'
     date: '2020-09-28T07:46:00Z'
-  checked: '2026-09-03'
+  checked: '2026-09-18'

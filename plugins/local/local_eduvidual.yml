@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: '# moodle-local_eduvidual  This plugin helps to make moodle a platform for
   multiple organisations within one site.'
 metrics:
-  updated: '2026-08-28T21:25:08Z'
+  updated: '2026-09-15T06:04:35Z'
   stars: 4
   forks: 3
   open-issues: 11
   archived: false
-  checked: '2026-09-03'
+  checked: '2026-09-18'
 dependencies:
   local_edusupport: 2021060200
   local_table_sql: 2025112600
