@@ -51,7 +51,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.61"
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.62"
 
       # inputs are empty on schedule runs; the fallbacks keep the cron
       # behavior identical to the dispatch defaults. 45-day recheck on a
@@ -141,5 +141,22 @@ jobs:
 
           $members
 
-          This needs one family-establishment review (camp-registry/camp-tools#16): decide whether \`$prefix\` is a subplugin family meant for separate distribution. Independent authors publishing members from their own repositories is the usual positive signal; members that only live inside the parent's repository are internal decomposition and do not list. To establish, add a record for \`$prefix\` (parent, display name, this issue's URL) to \`discovery/subplugin-families.yml\` and close this issue; parked members relist automatically on the next scan. To reject, close with the reason; the members stay parked."
+          This needs one family-establishment review (camp-registry/camp-tools#16): decide whether \`$prefix\` is a subplugin family meant for separate distribution. Independent authors publishing members from their own repositories is the usual positive signal; members that only live inside the parent's repository are internal decomposition and do not list. To establish, add a record for \`$prefix\` (parent, display name, this issue's URL) to \`discovery/subplugin-families.yml\` and close this issue; parked members relist automatically on the next scan. To reject, close with the reason; the members stay parked. To park (the parent is listed but does not yet declare the type, or the declaring parent is not listable), add a record to \`discovery/parked-families.yml\` naming the repository to watch and close this issue; the scan reopens it when the declaration appears (camp-tools#49)."
+          done
+
+      # Parked reviews (discovery/parked-families.yml) close their issue
+      # and wait on the parent. Re-check the gate monthly and reopen the
+      # review the moment a watched repository declares the type; the
+      # decision itself stays human (camp-tools#49).
+      - name: Reopen parked family reviews whose gate flipped
+        if: inputs.dry-run != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          camp parked-families-check . | while IFS=$'\t' read -r prefix parent issue declared_by state; do
+            if [ "$(gh issue view "$issue" --json state --jq .state)" = "OPEN" ]; then
+              echo "$prefix: review already open; skipping"
+              continue
+            fi
+            gh issue reopen "$issue" --comment "The gate for \`$prefix\` has flipped: $declared_by now declares it in db/subplugins.json and $parent is listed. The review can complete: to establish, add the record to \`discovery/subplugin-families.yml\` and remove it from \`discovery/parked-families.yml\`; to reject, remove the parked record and close with the reason."
           done
