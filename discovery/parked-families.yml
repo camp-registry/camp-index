@@ -1,0 +1,35 @@
+# Subplugin-family prefixes the scanner met whose establishment review is
+# PARKED: the gate is that the parent plugin is listed and declares the
+# type in its db/subplugins.json, and it is not met yet. Each record names
+# the repository whose db/subplugins.json to watch. The review issue is
+# closed while parked; when the gate flips, the scan reopens it with a
+# comment (camp-tools, tracked on the issue linked from each record) and
+# the review completes. Established families move to subplugin-families.yml;
+# rejected prefixes are simply absent from both files (their closed issue
+# stops the scan re-filing them).
+
+rtcomms:
+  parent: local_rtcomms
+  watch: darrencocco/moodle-local_rtcomms
+  issue: https://github.com/camp-registry/camp-index/issues/305
+  parked: "2026-09-18"
+  reason: parent declares the type but is an unlicensed fork of tool_realtime and is not listed; gate flips when a listable parent declares rtcomms
+eportfolioplugins:
+  parent: local_eportfolio
+  watch: weqon/moodle-local_eportfolio
+  issue: https://github.com/camp-registry/camp-index/issues/298
+  parked: "2026-09-18"
+  reason: parent is listed but declares no subplugin types
+coursechecker:
+  parent: block_course_checker
+  watch: ffhs/moodle-block_course_checker
+  issue: https://github.com/camp-registry/camp-index/issues/296
+  parked: "2026-09-18"
+  reason: parent is listed but declares no subplugin types
+adaptivequizcatmodel:
+  parent: mod_adaptivequiz
+  watch: middlebury/moodle-mod_adaptivequiz
+  also-watch: Wunderbyte-GmbH/moodle-mod_adaptivequiz
+  issue: https://github.com/camp-registry/camp-index/issues/285
+  parked: "2026-09-18"
+  reason: neither the listed parent nor the Wunderbyte fork the member targets declares the type
