@@ -1,5 +1,6 @@
 component: certificateelement_muprog
 source: https://github.com/mutms/moodle-certificateelement_muprog
+source-repo-id: 963886590
 security-contact: https://github.com/mutms/moodle-tool_muprog/security
 maintainers:
 - github: mutms

@@ -1,5 +1,6 @@
 component: certificateelement_mucertify
 source: https://github.com/mutms/moodle-certificateelement_mucertify
+source-repo-id: 963892506
 security-contact: https://github.com/mutms/moodle-tool_mucertify/security
 maintainers:
 - github: mutms
