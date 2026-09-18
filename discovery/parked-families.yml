@@ -3,7 +3,7 @@
 # type in its db/subplugins.json, and it is not met yet. Each record names
 # the repository whose db/subplugins.json to watch. The review issue is
 # closed while parked; when the gate flips, the scan reopens it with a
-# comment (camp-tools, tracked on the issue linked from each record) and
+# comment (camp-tools#49) and
 # the review completes. Established families move to subplugin-families.yml;
 # rejected prefixes are simply absent from both files (their closed issue
 # stops the scan re-filing them).
