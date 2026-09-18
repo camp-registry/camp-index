@@ -1,0 +1,17 @@
+component: mod_mudeck
+source: https://github.com/mutms/moodle-mod_mudeck
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-09-18'
+releases: []
+license: GPL-3.0
+summary: Markdown slide deck activity module for Moodle LMS
+metrics:
+  updated: '2026-09-18T15:18:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-09-18'

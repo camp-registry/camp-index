@@ -111774,6 +111774,11 @@ repos:
     detail: component mod_mubook already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-09-05'
+  mutms/moodle-mod_mudeck:
+    outcome: written
+    detail: listed as mod_mudeck
+    first-seen: '2026-09-18'
+    last-checked: '2026-09-18'
   mutms/moodle-tool_mucatalog:
     outcome: exists
     detail: component tool_mucatalog already registered (first-come, RFC §8)
