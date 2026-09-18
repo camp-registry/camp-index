@@ -161,3 +161,13 @@ wbreport:
   name: Wunderbyte reports
   established: "2026-09-05"
   issue: https://github.com/camp-registry/camp-index/issues/310
+oerapi:
+  parent: mod_oercollection
+  name: OER APIs
+  established: "2026-09-18"
+  issue: https://github.com/camp-registry/camp-index/issues/311
+catquizcentralhub:
+  parent: local_catquiz
+  name: CAT quiz central hub plugins
+  established: "2026-09-18"
+  issue: https://github.com/camp-registry/camp-index/issues/293
