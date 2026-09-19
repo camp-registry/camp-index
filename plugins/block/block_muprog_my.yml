@@ -5,12 +5,24 @@ security-contact: https://github.com/mutms/moodle-block_muprog_my/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: 889d246c236cc64c7bbd3a6158bb3cbf6db632bf
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: 35c77b887057a027cbaed80a59f6b4f6b18c055c681ad9129687883e79ca4882
+  listing-sha256: 399e48197fce7569be0cb33bea1936fb7e59ede6b2e453b68c0a8714799af4d3
+  published: '2026-09-19T07:25:53Z'
+  released: '2026-09-18T21:28:57Z'
 summary: MuTMS My programs block for Moodle™ LMS
 license: GPL-3.0
 metrics:
