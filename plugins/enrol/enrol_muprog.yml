@@ -5,12 +5,22 @@ security-contact: https://github.com/mutms/moodle-enrol_muprog/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: bec111811fdeeb126edab9671b0e406bbe6bf872
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  zip-sha256: 3ef0c5669027d1d8b3e702a8e3a8c0daba29e830e59602b26134ad7552b3ffea
+  listing-sha256: 29dbc186f45a18a6ee8f503ee6820b3b627007bf96122893acc2b09fc5f6fee4
+  published: '2026-09-19T07:26:09Z'
+  released: '2026-09-18T21:28:57Z'
 license: GPL-3.0
 summary: MuTMS Programs enrolment plugin for Moodle™ LMS
 metrics:
