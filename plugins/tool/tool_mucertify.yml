@@ -5,12 +5,29 @@ security-contact: https://github.com/mutms/moodle-tool_mucertify/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: bdc4c51796a5fedf65cf3a58ab8512c6689afc8b
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+    enrol_muprog: 2026091900
+    block_muprog_my: 2026091900
+    block_muprogmyoverview: 2026091900
+    tool_muprog: 2026091900
+    block_mucertify_my: 2026091900
+  zip-sha256: a5b304c6c8573edaead4b14a44b2266072cff4366c81a16775489e781eaac9e3
+  listing-sha256: ce06340800881285d08a87281be714256fefb3202a599f76749c127ae58daeb0
+  published: '2026-09-19T07:25:20Z'
+  released: '2026-09-18T21:28:56Z'
 license: GPL-3.0
 summary: MuTMS  Certifications plugin for Moodle™ LMS
 metrics:
