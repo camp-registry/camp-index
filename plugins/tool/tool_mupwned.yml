@@ -5,12 +5,34 @@ security-contact: https://github.com/mutms/moodle-tool_mupwned/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: 78fa3f5e37ed089ed5b833d97dd954f7b9bd0fc8
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  zip-sha256: adde0a3f1459df4f8a61e1652e6d41f709781e77cb14a35413d0eff53aac36dd
+  listing-sha256: d381859660741d8e947a29880c55e2ab5c915c81a546ef2f179a7391b2db1fb7
+  published: '2026-09-19T07:25:34Z'
+  released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 19460eb20a08555dbe0e6ed2e60b3ecfd4584aa6
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: aa4731d85b811e02149a53769831283d708fa9de3804597b41da9b4dabcd84ca
+  listing-sha256: d381859660741d8e947a29880c55e2ab5c915c81a546ef2f179a7391b2db1fb7
+  published: '2026-09-19T07:32:15Z'
+  released: '2026-09-18T21:30:16Z'
 license: GPL-3.0
 summary: MuTMS Compromised password blocking plugin for Moodle™ LMS
 metrics:
