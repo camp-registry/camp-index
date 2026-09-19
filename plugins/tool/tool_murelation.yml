@@ -23,6 +23,20 @@ releases:
   listing-sha256: 55b321e33f7dc5a16e8ac6697ceb8b62da9699001a76905103361a6ed7e20f85
   published: '2026-09-19T07:25:37Z'
   released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 9f2a43569194b49474d8cc0bcf216d50a6ba0552
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: ef8e678ce0ffae8f97b04c7cfc3b1a4470cd06da28a1a4216dd5a73d398030f5
+  listing-sha256: 55b321e33f7dc5a16e8ac6697ceb8b62da9699001a76905103361a6ed7e20f85
+  published: '2026-09-19T07:32:17Z'
+  released: '2026-09-18T21:30:16Z'
 summary: MuTMS Supervisors and teams plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
