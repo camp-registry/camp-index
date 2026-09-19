@@ -24,6 +24,21 @@ releases:
   listing-sha256: fff5cac5d8efa0355f6cf129723c18f105a6c34921b5b198b09bf9844b73d06c
   published: '2026-09-19T07:25:16Z'
   released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: b6e9bda5d08a2a83406671d1e43c9107ace0fdb5
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_muprog: 2026092000
+    tool_certificate: 2025041400
+  zip-sha256: 0b294dc883af2cdb9e718dd7a9b04ff50d2144fb36262bbc176bf0df935485a5
+  listing-sha256: fff5cac5d8efa0355f6cf129723c18f105a6c34921b5b198b09bf9844b73d06c
+  published: '2026-09-19T07:32:02Z'
+  released: '2026-09-18T21:30:16Z'
 license: GPL-3.0
 summary: MuTMS Program elements for Certificate plugin
 dependencies:
