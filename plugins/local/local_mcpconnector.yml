@@ -11,9 +11,12 @@ summary: 'Moodle plugin that connects your Moodle site to Studio LXD''s lmsmcp (
   suite): manage courses, content, grading and reports from AI assistants like ChatGPT
   or Claude via the Model Context Protocol.'
 metrics:
-  updated: '2026-08-31T14:01:08Z'
+  updated: '2026-09-18T18:47:56Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.3.3
+    date: '2026-09-18T18:47:59Z'
+  checked: '2026-09-19'

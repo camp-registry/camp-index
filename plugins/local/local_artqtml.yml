@@ -12,9 +12,12 @@ summary: ArtQTML Light — Moodle local plugin (Marketplace / GPLv3+ stripped ed
 dependencies:
   qtype_ordering: any
 metrics:
-  updated: '2026-09-04T08:52:30Z'
+  updated: '2026-09-14T12:57:12Z'
   stars: 0
   forks: 0
-  open-issues: 2
+  open-issues: 3
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.1
+    date: '2026-08-28T08:53:08Z'
+  checked: '2026-09-19'

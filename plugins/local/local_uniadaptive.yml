@@ -13,4 +13,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v0.9.0
+    date: '2024-02-20T12:27:58Z'
+  checked: '2026-09-19'
+summary: UNIAdaptiveLTI-Moodle-Plugin is a plugin that allows adding webservice for
+  the correct functioning of the UNIAdaptive tool.

@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: dotvoting
+    date: '2026-02-20T11:45:08Z'
+  checked: '2026-09-19'
 summary: Dot Voting is a preset for the Moodle activity database.

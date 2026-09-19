@@ -8,10 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-10T11:48:47Z'
+  updated: '2026-09-08T11:13:14Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: '2026090105'
+    date: '2026-09-08T11:13:15Z'
+  checked: '2026-09-19'
 summary: Moodle in Niedersachsen e. V. | Version 1.0.0 | Build 2026062801

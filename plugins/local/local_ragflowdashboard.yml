@@ -10,9 +10,11 @@ license: GPL-3.0
 dependencies:
   aiprovider_ragflow: any
 metrics:
-  updated: '2026-08-28T10:06:10Z'
+  updated: '2026-09-11T11:20:57Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: An admin-only Moodle local plugin that visualises the usage and health of
+  the RAGflow AI provider

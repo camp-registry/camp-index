@@ -10,10 +10,10 @@ license: GPL-3.0
 dependencies:
   enrol_flexaccess: 2026082700
 metrics:
-  updated: '2026-08-28T14:07:39Z'
+  updated: '2026-09-11T10:39:34Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: moodle-authflexaccess

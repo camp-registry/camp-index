@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: A Moodle filter plugin to visually highlight external URLs that match a configured
   list of domains.
 metrics:
-  updated: '2026-09-04T04:47:11Z'
+  updated: '2026-09-18T02:16:41Z'
   stars: 0
   forks: 0
-  open-issues: 7
+  open-issues: 4
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

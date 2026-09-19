@@ -10,14 +10,14 @@ license: GPL-3.0
 summary: LMS Light AI course builder — generates native Moodle courses from materials
   or a topic, composing format_pathway + quizgenpro via Moodle AI Providers.
 metrics:
-  updated: '2026-09-03T20:43:01Z'
+  updated: '2026-09-19T02:15:50Z'
   stars: 0
   forks: 0
-  open-issues: 6
+  open-issues: 7
   archived: false
   latest-release:
-    tag: 2.0.4
-    date: '2026-08-28T17:45:37Z'
-  checked: '2026-09-04'
+    tag: 2.0.5
+    date: '2026-09-11T22:09:28Z'
+  checked: '2026-09-19'
 dependencies:
   aiprovider_datacurso: 2026081000

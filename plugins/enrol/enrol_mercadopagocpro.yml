@@ -1,5 +1,5 @@
 component: enrol_mercadopagocpro
-source: https://github.com/jtentor/moodle-enrol_mercadopagocpro
+source: https://github.com/JulioTentorAssociates/moodle-enrol_mercadopagocpro
 maintainers:
 - github: jtentor
 tier: 0
@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: A Moodle plugin to enrol students after payment in Mercado Pago gateway.
   Checkout Pro option.
 metrics:
-  updated: '2026-09-04T19:19:12Z'
+  updated: '2026-09-18T11:16:30Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.1.0
+    date: '2026-09-07T13:45:40Z'
+  checked: '2026-09-19'

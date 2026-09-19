@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 0.1.4
+    date: '2026-08-06T20:49:04Z'
+  checked: '2026-09-19'
 summary: 'O EduColab é um plugin do tipo bloco para o Moodle que integra um Sistema
   de Recomendação Educacional (SRE), automatizando a análise de fóruns de discussão
   e promovendo a aprendizagem colaborativa. Com ele, professores podem monitorar a

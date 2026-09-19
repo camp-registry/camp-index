@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Bulk and automated student email with templates and scheduling
 metrics:
-  updated: '2026-08-13T01:51:12Z'
+  updated: '2026-09-09T02:30:46Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

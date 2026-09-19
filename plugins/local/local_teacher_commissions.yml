@@ -13,4 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: A Moodle local plugin that automatically tracks and manages teacher commission
+  earnings from paid course enrollments. Admins can configure commission rates per
+  teacher, view real-time dashboards, process payouts, and export reports. Teachers
+  have a read-only self-service portal to view their own ear

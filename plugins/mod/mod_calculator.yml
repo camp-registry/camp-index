@@ -13,4 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: This directory contains a Moodle activity module plugin named calculator
+  (modcalculator).

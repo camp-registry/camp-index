@@ -11,9 +11,12 @@ summary: Turn your Google Classroom classes into Moodle courses, with their cont
   inside Moodle. Sections, coursework, announcements, files and calendar are imported
   in the background, with live progress and a history panel
 metrics:
-  updated: '2026-08-18T11:43:55Z'
+  updated: '2026-09-10T17:49:15Z'
   stars: 0
   forks: 0
-  open-issues: 4
+  open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v2.0.0
+    date: '2026-08-07T10:58:08Z'
+  checked: '2026-09-19'

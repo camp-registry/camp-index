@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Enterprise-grade Moodle local plugin for automated course scheduling, room
   allocation, and conflict-free exam timetabling.
 metrics:
-  updated: '2026-08-26T10:07:28Z'
+  updated: '2026-09-19T07:42:50Z'
   stars: 0
   forks: 0
-  open-issues: 7
+  open-issues: 17
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

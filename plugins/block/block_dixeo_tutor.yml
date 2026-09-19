@@ -9,11 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Dixeo AI Tutor block for Moodle
 dependencies:
-  local_dixeo: 2026073100
+  local_dixeo: 2026091800
 metrics:
-  updated: '2026-09-04T15:39:45Z'
+  updated: '2026-09-18T17:53:05Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

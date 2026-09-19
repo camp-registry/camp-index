@@ -10,9 +10,9 @@ license: MIT
 summary: Bitcoin payment gateway and coupon enrollment system for Moodle, powered
   by BTCPay Server.
 metrics:
-  updated: '2026-05-22T14:32:35Z'
+  updated: '2026-09-11T15:21:45Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

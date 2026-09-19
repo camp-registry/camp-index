@@ -11,9 +11,9 @@ summary: 'Moodle activity that assesses programming work hosted on GitHub: reads
   Actions check results, adds an optional AI review, verifies authorship, and lets
   the teacher approve the final grade.'
 metrics:
-  updated: '2026-09-02T18:22:43Z'
+  updated: '2026-09-15T19:34:57Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

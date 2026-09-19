@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Moodle plugin for tracking and reporting the time students spend actively
   engaged in courses.
 metrics:
-  updated: '2026-08-22T06:59:24Z'
+  updated: '2026-09-18T09:46:03Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 3
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

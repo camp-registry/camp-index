@@ -13,6 +13,7 @@ metrics:
   updated: '2026-08-19T16:39:20Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 5
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: Melhora o seletor da condição Restrição por usuário na tela de configuração

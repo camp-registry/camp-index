@@ -8,9 +8,11 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-13T22:27:02Z'
+  updated: '2026-09-07T22:13:35Z'
   stars: 0
   forks: 0
-  open-issues: 2
+  open-issues: 5
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: Enables teachers to add curated activities with preset configuration including
+  settings, instructions and teacher guidance.

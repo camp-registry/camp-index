@@ -8,9 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-01T20:19:54Z'
+  updated: '2026-09-17T22:54:31Z'
   stars: 0
   forks: 0
   open-issues: 15
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: Mauri Real-Time Tracker (localrealtimetracker) measures active time that
+  students and teachers spend in Moodle courses and activities. It records connection
+  time, content-creation time, and AI-assisted work, then presents course and institutional
+  reports that can be exported or emailed.

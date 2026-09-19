@@ -8,9 +8,10 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-04T18:48:45Z'
+  updated: '2026-09-17T11:03:50Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: 'This is a Moodle demo plugin for your workflow:'

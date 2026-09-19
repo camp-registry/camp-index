@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: A configurable post-course completion page for Moodle with certificates,
   achievements, feedback, and next-course suggestions.
 metrics:
-  updated: '2026-08-21T04:21:07Z'
+  updated: '2026-09-14T10:05:05Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

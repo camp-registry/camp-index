@@ -13,4 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: 'More states in docs/img/: the start gates + timers (questiontimer, codingtimer),
+  reveal-on-submit feedback (crosswordcheck, questionreveal, codingcheck), the coding
+  reveal/lock mechanic (codingreveal), and the slimmed activity settings (config).'

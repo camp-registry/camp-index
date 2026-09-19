@@ -8,11 +8,14 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-16T22:28:35Z'
+  updated: '2026-09-06T02:39:23Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 3
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 1.0.12
+    date: '2026-08-15T02:14:37Z'
+  checked: '2026-09-19'
 summary: h5plibvh5prime is a Moodle H5P library handler that uses H5Prime to render
   H5P content.

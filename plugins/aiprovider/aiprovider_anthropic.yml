@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: The Anthropic API Provider plugin integrates Anthropic's Claude AI models
   into Moodle's AI framework, enabling powerful AI capabilities across your learning
   management system. This plugin supports text generation, text summarization, and

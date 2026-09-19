@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Bulk Quiz Question Values improves Moodle plugin for bulk editing maximum
   marks of multiple quiz questions, with multilingual support and native quiz integration.
 metrics:
-  updated: '2026-09-04T17:37:02Z'
+  updated: '2026-09-10T18:35:46Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

@@ -8,9 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-04T16:40:50Z'
+  updated: '2026-09-17T22:07:16Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: 'An activity module for Moodle 4.5 that gives students AI-generated writing
+  feedback on a draft before they submit a final version, then helps the teacher grade
+  with the full picture: draft, feedback, final, and an AI comparison of whether the
+  feedback was actually followed.'

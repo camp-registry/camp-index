@@ -13,4 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: '2026080906'
+    date: '2026-09-04T07:19:08Z'
+  checked: '2026-09-19'
+summary: Moodle-Plugin von Moodle in Niedersachsen e. V.

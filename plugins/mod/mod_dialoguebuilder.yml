@@ -8,9 +8,16 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-24T14:22:54Z'
+  updated: '2026-09-06T11:54:36Z'
   stars: 0
   forks: 0
-  open-issues: 4
+  open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 0.1.2
+    date: '2026-09-06T11:54:36Z'
+  checked: '2026-09-19'
+summary: The Dialogue Builder (moddialoguebuilder) is an activity plugin for Moodle
+  that allows teachers to design interactive scenarios where students create and submit
+  conversational scripts. It is ideal for creative writing, historical debates, language
+  learning, and simulating real-world conversations.

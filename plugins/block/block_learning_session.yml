@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Allows teachers to create teaching sessions for their students on an open-access
   Moodle instance.
 metrics:
-  updated: '2026-09-04T13:39:22Z'
+  updated: '2026-09-18T12:55:41Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

@@ -11,9 +11,12 @@ summary: SmartSection Control is a Moodle block for automated course-section rel
   scheduling, content drip, learner pacing, completion-based unlocking, calendar synchronization,
   instructor notifications, and audit tracking.
 metrics:
-  updated: '2026-08-23T10:38:29Z'
+  updated: '2026-09-08T07:35:35Z'
   stars: 0
   forks: 0
-  open-issues: 9
+  open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-08-23T04:44:41Z'
+  checked: '2026-09-19'

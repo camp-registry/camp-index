@@ -8,9 +8,12 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-02T21:53:25Z'
+  updated: '2026-09-19T07:15:41Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 9
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: SmartProfile is an open-source Moodle local plugin that reimagines the default
+  profile page (/user/profile.php and /user/view.php) into a Modern Digital Learner
+  Identity & Academic Portfolio Hub.

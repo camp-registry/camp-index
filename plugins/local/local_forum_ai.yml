@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 1.1.1
     date: '2026-08-31T17:49:25Z'
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: The Forum AI plugin integrates artificial intelligence into Moodle’s forum
   module, transforming discussion spaces into more interactive, dynamic, and efficient
   environments.

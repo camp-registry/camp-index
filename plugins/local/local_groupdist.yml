@@ -11,9 +11,9 @@ summary: 'Moodle local plugin: distribute course participants into selected grou
   with role/cohort filters, deterministic preview, seat capacities and profile-field
   affinity (Moodle 5.1-5.2)'
 metrics:
-  updated: '2026-09-03T10:50:30Z'
+  updated: '2026-09-05T20:10:01Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

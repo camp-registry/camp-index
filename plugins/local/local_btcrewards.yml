@@ -8,10 +8,10 @@ discovered: '2026-09-04'
 releases: []
 license: MIT
 metrics:
-  updated: '2026-07-10T02:18:47Z'
+  updated: '2026-09-11T15:21:15Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: A Moodle plugin that pays students in Bitcoin when they earn learning points.

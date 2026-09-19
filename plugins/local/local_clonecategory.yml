@@ -9,11 +9,14 @@ releases: []
 license: GPL-3.0
 metrics:
   updated: '2026-09-02T03:03:27Z'
-  stars: 2
+  stars: 3
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.1.1
+    date: '2026-09-02T03:07:29Z'
+  checked: '2026-09-19'
 summary: A powerful, native Moodle local plugin that enables site administrators and
   course managers to seamlessly clone entire course categories—including all subcategories,
   courses, and course activities—with advanced progress tracking, pause/resume capability,

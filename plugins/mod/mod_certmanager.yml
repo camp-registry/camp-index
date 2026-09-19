@@ -13,4 +13,9 @@ metrics:
   forks: 0
   open-issues: 10
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-07-22T16:40:14Z'
+  checked: '2026-09-19'
+summary: v1.0.0 — Professional certification lifecycle management for Moodle with
+  element-based certificate designer.

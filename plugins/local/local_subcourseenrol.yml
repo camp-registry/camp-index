@@ -10,9 +10,13 @@ license: GPL-3.0
 dependencies:
   mod_subcourse: 2025032001
 metrics:
-  updated: '2026-09-04T16:28:11Z'
+  updated: '2026-09-10T17:23:35Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: Subcourse Auto-Enrolment bridges the gap between structured learning pathways
+  and administrative simplicity. It automatically enrols students into target courses
+  the moment they click on a Subcourse activity, syncing enrolment expiration effortlessly
+  from the master course.

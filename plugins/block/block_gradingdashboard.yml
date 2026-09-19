@@ -12,9 +12,12 @@ summary: Grading Dashboard is a Moodle block that gives teachers and administrat
   work by course, section, assignment, and student, highlights grading age with status
   indicators, and provides direct access to grading. Admins s
 metrics:
-  updated: '2026-08-10T01:57:51Z'
+  updated: '2026-09-08T09:45:24Z'
   stars: 0
   forks: 0
-  open-issues: 4
+  open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-08-10T02:05:50Z'
+  checked: '2026-09-19'

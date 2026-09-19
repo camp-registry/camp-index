@@ -10,11 +10,11 @@ license: GPL-3.0
 dependencies:
   format_daysections: 2026090200
 metrics:
-  updated: '2026-09-02T22:01:09Z'
+  updated: '2026-09-06T02:52:50Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: Parent/teacher dashboard for planning and managing day-based coursework across
   Day sections courses.

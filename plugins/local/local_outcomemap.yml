@@ -8,9 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-18T16:16:50Z'
+  updated: '2026-09-11T18:01:33Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: localoutcomemap is the system-of-record Moodle plugin for governed learning-outcome
+  definitions, mappings, attainment, remediation, audit, privacy, and accreditation
+  reporting. The optional qbankoutcomemap companion supplies question-bank presentation
+  and workflows while all governed data remains he

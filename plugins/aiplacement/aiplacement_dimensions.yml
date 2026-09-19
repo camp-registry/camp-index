@@ -12,9 +12,9 @@ summary: AI-assisted competency suggestions on the Moodle activity form. Compani
 dependencies:
   local_dimensions: 2026072700
 metrics:
-  updated: '2026-09-03T10:50:24Z'
+  updated: '2026-09-05T20:09:43Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

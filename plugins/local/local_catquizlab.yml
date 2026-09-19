@@ -8,10 +8,14 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-04T19:37:49Z'
+  updated: '2026-09-19T08:20:01Z'
   stars: 0
   forks: 0
-  open-issues: 10
+  open-issues: 7
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: The CAT experiment suite (localcatquizlab) is a Moodle local plugin
+dependencies:
+  local_catquiz: 2026090553
+  mod_adaptivequiz: 2026090604
+  adaptivequizcatmodel_catquiz: 2026082704

@@ -8,13 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 dependencies:
-  mod_vimipad: 2026080800
+  mod_vimipad: 2026091101
 metrics:
-  updated: '2026-08-13T05:11:08Z'
+  updated: '2026-09-17T12:01:17Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: The ViMi Pad database field lets a Database activity hold a visual knowledge
   map

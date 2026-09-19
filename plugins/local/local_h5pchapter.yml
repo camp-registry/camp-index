@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 1.1.1
+    date: '2026-08-10T18:29:45Z'
+  checked: '2026-09-19'
 summary: This is a local Moodle plugin that provides control over H5P Interactive
   Book activities. It allows administrators and teachers to automatically unlock specific
   pages and restrict navigation, ensuring a more guided learning experience.

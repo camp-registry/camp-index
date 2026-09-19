@@ -16,11 +16,12 @@ license: GPL-3.0
 dependencies:
   report_sql: 2026080300
 metrics:
-  updated: '2026-09-04T14:54:23Z'
+  updated: '2026-09-08T14:10:50Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+  ci: moodle-plugin-ci
 summary: A Moodle block that surfaces a published reportsql report — as a table or
   a

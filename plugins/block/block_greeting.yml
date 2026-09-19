@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Skeleton for the block_greeting exercise (Moodle Plugin Lab). Used as the
   mod_codereview template repository.
 metrics:
-  updated: '2026-09-02T18:34:27Z'
+  updated: '2026-09-15T18:50:23Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

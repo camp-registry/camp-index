@@ -15,4 +15,11 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.6
+    date: '2026-08-25T14:19:17Z'
+  checked: '2026-09-19'
+summary: Auto-issue for Simple Certificate (localsimplecertautoissue) automatically
+  issues eligible Simple Certificate activities after a learner completes a Moodle
+  course. It is intended as a safety net for learners who meet the certificate conditions
+  but forget to claim the certificate themselves.

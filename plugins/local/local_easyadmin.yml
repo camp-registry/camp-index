@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: '2026081009'
+    date: '2026-08-15T15:50:22Z'
+  checked: '2026-09-19'
 summary: Ein vereinfachtes Verwaltungs-Dashboard für Moodle, gedacht für Schul-Admins

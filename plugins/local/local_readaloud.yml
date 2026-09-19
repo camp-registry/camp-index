@@ -8,9 +8,16 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-25T07:52:39Z'
+  updated: '2026-09-14T20:53:50Z'
   stars: 0
   forks: 0
   open-issues: 4
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.1.0
+    date: '2026-09-14T20:54:19Z'
+  checked: '2026-09-19'
+summary: Read aloud (localreadaloud) adds accessible browser-based text-to-speech
+  controls to Moodle Page and Book activities and, optionally, to descriptions of
+  other activity types. Teachers choose the activities where the controls are available;
+  learners can start, pause, resume and stop reading, change t

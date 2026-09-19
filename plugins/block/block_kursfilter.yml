@@ -8,9 +8,12 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-04T20:26:10Z'
+  updated: '2026-09-05T13:10:34Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: '2026090506'
+    date: '2026-09-05T13:10:34Z'
+  checked: '2026-09-19'

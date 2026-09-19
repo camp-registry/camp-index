@@ -11,9 +11,9 @@ summary: 'Practice Coach block for Moodle 4.5+: self-managed practice quizzes, p
   performance advisor and anonymised course ranking in one block (three selectable
   widgets).'
 metrics:
-  updated: '2026-08-13T15:01:09Z'
+  updated: '2026-09-18T11:41:47Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 7
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

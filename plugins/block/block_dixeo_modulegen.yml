@@ -9,11 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Dixeo module generation
 dependencies:
-  local_dixeo: 2026081800
+  local_dixeo: 2026091800
 metrics:
-  updated: '2026-08-31T17:46:46Z'
+  updated: '2026-09-18T17:14:27Z'
   stars: 1
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

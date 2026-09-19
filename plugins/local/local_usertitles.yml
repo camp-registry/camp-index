@@ -1,5 +1,5 @@
 component: local_usertitles
-source: https://github.com/ingrichardrangel/moodle-local-usertitles
+source: https://github.com/ingrichardrangel/moodle-local_usertitles
 maintainers:
 - github: ingrichardrangel
 tier: 0
@@ -11,9 +11,12 @@ summary: Moodle plugin for managing institutional user titles and displaying the
   visually across profiles, forums, participant lists, and other Moodle pages—without
   modifying stored names or exported data.
 metrics:
-  updated: '2026-07-31T15:20:27Z'
+  updated: '2026-09-18T13:56:14Z'
   stars: 0
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v.1.0.1
+    date: '2026-09-18T13:04:56Z'
+  checked: '2026-09-19'

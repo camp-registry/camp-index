@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.405.04
+    date: '2026-07-20T11:26:26Z'
+  checked: '2026-09-19'
 summary: Copyright (C) 2025 Brickfield Education Labs

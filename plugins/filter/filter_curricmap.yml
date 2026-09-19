@@ -11,9 +11,9 @@ summary: Filter content generator for tiny_curricmap and sofia curriclum mapping
 dependencies:
   local_curricmap: 2026071400
 metrics:
-  updated: '2026-09-03T07:05:10Z'
+  updated: '2026-09-09T15:58:15Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

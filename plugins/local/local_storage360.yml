@@ -8,9 +8,11 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-20T22:50:15Z'
+  updated: '2026-09-15T22:52:44Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
+summary: Plugin Moodle de type local offrant une vision complète du stockage de la
+  plateforme avec des capacités d'analyse, de visualisation et de gestion des données.

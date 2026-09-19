@@ -8,12 +8,12 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-26T06:04:16Z'
+  updated: '2026-09-17T12:00:11Z'
   stars: 0
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: A Moodle local plugin that generates "Report of Grades" documents for Eastern
   Samar State University (ESSU), supporting on-screen preview, PDF export, and Excel
   export.

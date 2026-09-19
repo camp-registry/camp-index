@@ -8,12 +8,12 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-27T18:15:10Z'
+  updated: '2026-09-11T17:48:46Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 5
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: A Moodle local plugin designed to replace the default plain list of course
   categories with elegant, responsive, and customizable visual cards. This plugin
   enhances site navigation and visual aesthetics, allowing administrators and category

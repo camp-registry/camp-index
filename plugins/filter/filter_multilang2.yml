@@ -10,11 +10,11 @@ license: GPL-3.0
 metrics:
   updated: '2026-08-09T08:49:13Z'
   stars: 8
-  forks: 19
+  forks: 20
   open-issues: 0
   archived: false
   latest-release:
     tag: 2.0.5.5
     date: '2026-08-09T09:17:54Z'
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin

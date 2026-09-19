@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v0.1.1
+    date: '2026-08-18T04:19:20Z'
+  checked: '2026-09-19'
 summary: Utility and service plugin for AI-related content handling in Moodle.

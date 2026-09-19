@@ -8,9 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-16T23:56:11Z'
+  updated: '2026-09-06T02:39:26Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 2.2.1
+    date: '2026-08-16T23:56:14Z'
+  checked: '2026-09-19'
+summary: Camada de trilhas de aprendizagem acima do Moodle.

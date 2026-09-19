@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: AI-enhanced course format with dynamic section summaries and navigation
 metrics:
-  updated: '2026-08-29T09:24:37Z'
+  updated: '2026-09-11T15:36:56Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'

@@ -8,10 +8,10 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-03T12:54:44Z'
+  updated: '2026-09-11T10:06:06Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: A Moodle local plugin that gives site managers a single place to audit and

@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Powerful framework for designers and developers to create responsive, fast
   & robust Moodle based websites and themes.
 metrics:
-  updated: '2026-09-04T10:18:47Z'
-  stars: 2
+  updated: '2026-09-18T10:56:42Z'
+  stars: 3
   forks: 0
-  open-issues: 0
+  open-issues: 16
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.9
+    date: '2026-09-10T02:38:52Z'
+  checked: '2026-09-19'

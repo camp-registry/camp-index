@@ -10,11 +10,11 @@ license: GPL-3.0
 dependencies:
   aiprovider_ragflow: any
 metrics:
-  updated: '2026-08-28T10:05:58Z'
+  updated: '2026-09-11T11:20:44Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: A course AI tutor as a Moodle block. Placed in a course, it shows a chat
   drawer that answers from a

@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Add live comments and inline discussions in Moodle
 metrics:
-  updated: '2026-03-18T05:02:29Z'
+  updated: '2026-09-06T23:27:01Z'
   stars: 0
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.1
+    date: '2026-03-18T05:03:14Z'
+  checked: '2026-09-19'

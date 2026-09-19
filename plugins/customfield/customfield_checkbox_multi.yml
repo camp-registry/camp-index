@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-19'
 summary: This plugin adds a custom field type for Moodle that lets users select multiple
   values using checkboxes.

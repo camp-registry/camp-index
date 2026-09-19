@@ -13,6 +13,9 @@ metrics:
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 1.0.4
+    date: '2026-08-25T08:58:22Z'
+  checked: '2026-09-19'
 summary: A Moodle AI provider plugin that integrates Claude AI into Moodle's AI subsystem,
   enabling text generation, text summarisation, and text explanation

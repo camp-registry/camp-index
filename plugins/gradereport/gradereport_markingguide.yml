@@ -8,10 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-20T17:07:31Z'
+  updated: '2026-09-09T21:19:27Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.401.02
+    date: '2025-07-14T15:32:19Z'
+  checked: '2026-09-19'
 summary: Copyright (C) 2026 Brickfield Education Labs

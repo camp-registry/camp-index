@@ -8,9 +8,14 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-17T02:04:03Z'
+  updated: '2026-09-15T17:05:19Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 1.9.11
+    date: '2026-09-15T17:05:23Z'
+  checked: '2026-09-19'
+summary: Recertification engine for Moodle focused on preserving auditable history
+  before any user data is reset.
