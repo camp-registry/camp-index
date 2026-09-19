@@ -5,12 +5,38 @@ security-contact: https://github.com/mutms/moodle-mod_mubook/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: ce8fd804c00b23e650f34bb28062461a391f7e9d
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: 1c09c1ed55ba9d879391ad13bbd46e99c5482126360323a217c15d6d34560c6b
+  listing-sha256: a237c9c20bb3fc1abd999209cce40c34393cd173039f5e8e993a2fd5203299fc
+  published: '2026-09-19T07:26:03Z'
+  released: '2026-09-18T21:28:57Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 43f63aad02eabf81b7550a4d3b740d3e185f97e0
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: 24df7a6d566afc7a13242da8acee14fe886078c112b3fa6a32f2d97879cd2250
+  listing-sha256: a237c9c20bb3fc1abd999209cce40c34393cd173039f5e8e993a2fd5203299fc
+  published: '2026-09-19T07:32:42Z'
+  released: '2026-09-18T21:30:17Z'
 summary: MuTMS Interactive book plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
