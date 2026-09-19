@@ -5,12 +5,27 @@ security-contact: https://github.com/mutms/moodle-tool_muprog/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: f55f1c97cbd7fca402e3170effcb278bf44e278e
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+    enrol_muprog: 2026091900
+    block_muprog_my: 2026091900
+    block_muprogmyoverview: 2026091900
+  zip-sha256: 687a29cfa02c74f10b92d4e8847c2adfd191530d9885b9a94705f2788a1a30b5
+  listing-sha256: 2b6c18eb32288672362a3b45aaa7f7f5edde3c6d9585e0d7425f0f70c2b0fd60
+  published: '2026-09-19T07:25:35Z'
+  released: '2026-09-18T21:28:57Z'
 summary: MuTMS Programs plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
