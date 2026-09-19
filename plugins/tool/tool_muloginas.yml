@@ -5,12 +5,22 @@ security-contact: https://github.com/mutms/moodle-tool_muloginas/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: 458049218f6324aae0ce5bf62a4589fa720290f9
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  zip-sha256: e2d1b0f52efb65f3757d8bb49c9a4e07c4fe8338e9ad41152cff99c208b5e685
+  listing-sha256: 114826bc912e77d92e8365d03dac5f87a6015abda19847bc60521b0ebebb4e35
+  published: '2026-09-19T07:25:30Z'
+  released: '2026-09-18T21:28:56Z'
 summary: MuTMS Log-in-as via Incognito window plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
