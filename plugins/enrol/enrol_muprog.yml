@@ -21,6 +21,18 @@ releases:
   listing-sha256: 29dbc186f45a18a6ee8f503ee6820b3b627007bf96122893acc2b09fc5f6fee4
   published: '2026-09-19T07:26:09Z'
   released: '2026-09-18T21:28:57Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 5b859d604bdcffc5cd78e83c6034a0976f33a443
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 65cd0cdb62110ca62aaa1bfd7dc0750ffa633ab1911d06a9001718288f739ff8
+  listing-sha256: 29dbc186f45a18a6ee8f503ee6820b3b627007bf96122893acc2b09fc5f6fee4
+  published: '2026-09-19T07:32:40Z'
+  released: '2026-09-18T21:30:17Z'
 license: GPL-3.0
 summary: MuTMS Programs enrolment plugin for Moodle™ LMS
 metrics:
