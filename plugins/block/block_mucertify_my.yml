@@ -5,12 +5,24 @@ security-contact: https://github.com/mutms/moodle-block_mucertify_my/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: acaf4546b58393b5b424f7e32fed98d98d16bfc3
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: c19aa5b05c9ca49a3495f5e8071437d60072107eaf6a0a9ceb14477787aa5332
+  listing-sha256: 17f78976d6eb5f39cffd518cb116bd403f14ea224151354ccdcc4bbcabe4016b
+  published: '2026-09-19T07:25:56Z'
+  released: '2026-09-18T21:28:56Z'
 summary: MuTMS  My certifications block for Moodle™ LMS
 license: GPL-3.0
 metrics:
