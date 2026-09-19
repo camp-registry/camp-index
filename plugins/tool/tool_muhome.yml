@@ -23,6 +23,20 @@ releases:
   listing-sha256: 9b5e9c1763eafd5c70be1bc434669c63dbf57cbfb25f2d9c7bbefbbe9d3e5b0c
   published: '2026-09-19T07:25:22Z'
   released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 5aeae68de69429da323252868fbdc56a25e13925
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: 666122fcaef8bbfd1f6e5899bc84e157485108598cb7331fa18a5ece3d5101bb
+  listing-sha256: 9b5e9c1763eafd5c70be1bc434669c63dbf57cbfb25f2d9c7bbefbbe9d3e5b0c
+  published: '2026-09-19T07:32:07Z'
+  released: '2026-09-18T21:30:17Z'
 summary: MuTMS Custom home pages for Moodle™ LMS
 license: GPL-3.0
 metrics:
