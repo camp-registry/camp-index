@@ -5,12 +5,24 @@ security-contact: https://github.com/mutms/moodle-block_muprogmyoverview/securit
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: b6966360816870dc9d3f85e15f29ed30525dccd7
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: 59b6b4d521ece0e5e71cb1777f690cef58b487a46abeb7c33faabebf290076e6
+  listing-sha256: df3493645e0c3bdfdf241f4f219b68ba830395a83eb483269eaf66860ce99cbb
+  published: '2026-09-19T07:26:00Z'
+  released: '2026-09-18T21:28:56Z'
 license: GPL-3.0
 summary: MuTMS My programs overview page for Moodle™ LMS
 metrics:
