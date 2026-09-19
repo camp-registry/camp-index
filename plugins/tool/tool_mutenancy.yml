@@ -5,12 +5,60 @@ security-contact: https://github.com/mutms/moodle-tool_mutenancy/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: a38209312b908b01e185ecf1af1e9d757ab0ed30
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: a23a77a22216bc413e6b2dbf8e966e244aee5801c2cf009ad4ab3a7129d246b6
+  listing-sha256: 625815acc9b9aaea960031528d61ff6e5cf9dcb4f07ebaa5eb6f698d71052a1c
+  published: '2026-09-19T07:25:49Z'
+  released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: a7aba6ff3e452be5dbbe292841bd55848dd40789
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: 25174450386bedcde40e551334821bc3949fdc961eacaf6563a418ceab6fa676
+  listing-sha256: 625815acc9b9aaea960031528d61ff6e5cf9dcb4f07ebaa5eb6f698d71052a1c
+  published: '2026-09-19T07:32:25Z'
+  released: '2026-09-18T21:30:16Z'
+- version: v5.1.7.03
+  tag: v5.1.7.03
+  commit: dc924cc3467ad52528db1e98550609230ef2afbc
+  moodle-version: 2026092100
+  supported-moodle:
+  - '5.1'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: ad45ebe6dc486c4e68faeba160950b6657b9642a40fc262f46644fa4fc5a161f
+  listing-sha256: 625815acc9b9aaea960031528d61ff6e5cf9dcb4f07ebaa5eb6f698d71052a1c
+  published: '2026-09-19T07:34:02Z'
+  released: '2026-09-18T21:37:08Z'
+- version: v5.2.3.03
+  tag: v5.2.3.03
+  commit: 9620a6126a7f9963c171c4850cb0bf4359c4afcf
+  moodle-version: 2026092200
+  supported-moodle:
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: 6d3c38303a2507e1f239bd2c5b2d5e5fcb93802b21e6efaea8028e28be4c7fca
+  listing-sha256: 625815acc9b9aaea960031528d61ff6e5cf9dcb4f07ebaa5eb6f698d71052a1c
+  published: '2026-09-19T07:34:22Z'
+  released: '2026-09-18T21:38:43Z'
 summary: MuTMS  Multi-tenancy plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
