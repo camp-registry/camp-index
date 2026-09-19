@@ -5,12 +5,22 @@ security-contact: https://github.com/mutms/moodle-customfield_mutrain/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: 767f8a14c406f6904df6dbc74956da7191ecf700
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  zip-sha256: 7685b5711d1386b0feeb327a3f9f19a1fc9995553858868035eead349643ff18
+  listing-sha256: ad171bdb3540fbd3382117784b02eab81307c5a48b50f79937fa88235fc35e35
+  published: '2026-09-19T07:25:58Z'
+  released: '2026-09-18T21:28:56Z'
 summary: MuTMS Training credits custom field plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
