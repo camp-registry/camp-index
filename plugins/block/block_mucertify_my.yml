@@ -23,6 +23,20 @@ releases:
   listing-sha256: 17f78976d6eb5f39cffd518cb116bd403f14ea224151354ccdcc4bbcabe4016b
   published: '2026-09-19T07:25:56Z'
   released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 18b67ea1d7b84759e05bc8c694ee131a2aa815d6
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: 225c0c90dd4698d9fc6576c2ae271ea9a33c179dd77b8c01288c530278026726
+  listing-sha256: 17f78976d6eb5f39cffd518cb116bd403f14ea224151354ccdcc4bbcabe4016b
+  published: '2026-09-19T07:32:28Z'
+  released: '2026-09-18T21:30:16Z'
 summary: MuTMS  My certifications block for Moodle™ LMS
 license: GPL-3.0
 metrics:
