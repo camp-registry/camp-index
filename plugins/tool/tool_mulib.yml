@@ -5,12 +5,22 @@ security-contact: https://github.com/mutms/moodle-tool_mulib/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: fc6aa7f237b956ebdcaf0f94883330db1c769f1c
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  zip-sha256: a5d8f0f9abaaef803fcda179856940bb6084622641cfbc7f24e7da17113610b0
+  listing-sha256: 9bbe456875752adef79562034f49100c9ab8a2b2877cef1efa41e99f3f0316a6
+  published: '2026-09-19T07:26:37Z'
+  released: '2026-09-18T21:28:57Z'
 license: GPL-3.0
 summary: Additional MuTMS tools library plugin for Moodle™ LMS
 metrics:
