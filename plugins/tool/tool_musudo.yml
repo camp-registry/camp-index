@@ -5,12 +5,25 @@ security-contact: https://github.com/mutms/moodle-tool_musudo/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: a7edecf753acd7004f92583f88ae654c646d40aa
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+    tool_mfa: 2024100700
+  zip-sha256: 45ebca04ff99d3fc95bd40a8c77fc6e1eba9004fb8e50a413099f825258c0505
+  listing-sha256: 448b26b324986eb8fe6483dd89b19b9c7b23e7fe7d486327e73e07983089fcef
+  published: '2026-09-19T07:25:44Z'
+  released: '2026-09-18T21:28:56Z'
 license: GPL-3.0
 summary: MuTMS Privileged sessions (aka sudo) plugin for Moodle™ LMS
 metrics:
