@@ -5,12 +5,40 @@ security-contact: https://github.com/mutms/moodle-tool_mutrain/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: aaf1d6a69564c4c2d59f27249bfaca10532cbb03
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+    customfield_mutrain: 2026091900
+  zip-sha256: 49e5399dbc399218d4cb293790eaabdf133b8ff6c70903be504c9b238b5759a3
+  listing-sha256: 3924e57d1a72fb80440e4a7b085301af36180ffe53bf689f53c7a25858be2323
+  published: '2026-09-19T07:25:49Z'
+  released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 1d8b489dbdb8db660b6beb6d34029891fdb186ad
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+    customfield_mutrain: 2026092000
+  zip-sha256: 9715c05b3e61c9234d18102e8526f9475037a3605b1392c571ed91333945092f
+  listing-sha256: 3924e57d1a72fb80440e4a7b085301af36180ffe53bf689f53c7a25858be2323
+  published: '2026-09-19T07:32:28Z'
+  released: '2026-09-18T21:30:17Z'
 license: GPL-3.0
 summary: MuTMS Training credits plugin for Moodle™ LMS
 metrics:
