@@ -5,12 +5,24 @@ security-contact: https://github.com/mutms/moodle-tool_muhome/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: d3fc3fabcabb4cc910912818f31104042bf2e574
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: c8955b251e299c5c6bec9f962aedbf0fa817c7515d2c27a3d52bfe23363ddf0c
+  listing-sha256: 9b5e9c1763eafd5c70be1bc434669c63dbf57cbfb25f2d9c7bbefbbe9d3e5b0c
+  published: '2026-09-19T07:25:22Z'
+  released: '2026-09-18T21:28:56Z'
 summary: MuTMS Custom home pages for Moodle™ LMS
 license: GPL-3.0
 metrics:
