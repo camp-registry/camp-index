@@ -23,6 +23,20 @@ releases:
   listing-sha256: df3493645e0c3bdfdf241f4f219b68ba830395a83eb483269eaf66860ce99cbb
   published: '2026-09-19T07:26:00Z'
   released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 30e93108c29398337b6034b5c671d8061562fbeb
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: 431c8058d829c3f2244013d2a5fa6614449b9c8c4d98a1d22ee1fb0ae2c60e15
+  listing-sha256: df3493645e0c3bdfdf241f4f219b68ba830395a83eb483269eaf66860ce99cbb
+  published: '2026-09-19T07:32:33Z'
+  released: '2026-09-18T21:30:16Z'
 license: GPL-3.0
 summary: MuTMS My programs overview page for Moodle™ LMS
 metrics:
