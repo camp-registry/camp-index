@@ -5,12 +5,38 @@ security-contact: https://github.com/mutms/moodle-tool_murelation/security
 maintainers:
 - github: mutms
 - github: skodak
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v4.5.14.03
+  tag: v4.5.14.03
+  commit: 0acc97adc26b46922049af92797c105dbda86d3d
+  moodle-version: 2026091900
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: 407592415844fdba7f385997fe2173772aa008c994cebe9c20f9c66eb68e50c5
+  listing-sha256: 55b321e33f7dc5a16e8ac6697ceb8b62da9699001a76905103361a6ed7e20f85
+  published: '2026-09-19T07:25:37Z'
+  released: '2026-09-18T21:28:56Z'
+- version: v5.0.10.03
+  tag: v5.0.10.03
+  commit: 9f2a43569194b49474d8cc0bcf216d50a6ba0552
+  moodle-version: 2026092000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: ef8e678ce0ffae8f97b04c7cfc3b1a4470cd06da28a1a4216dd5a73d398030f5
+  listing-sha256: 55b321e33f7dc5a16e8ac6697ceb8b62da9699001a76905103361a6ed7e20f85
+  published: '2026-09-19T07:32:17Z'
+  released: '2026-09-18T21:30:16Z'
 summary: MuTMS Supervisors and teams plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
