@@ -1,5 +1,6 @@
 component: mod_mudeck
 source: https://github.com/mutms/moodle-mod_mudeck
+source-repo-id: 1358864603
 security-contact: https://github.com/mutms/moodle-mod_mudeck/security
 maintainers:
 - github: mutms
