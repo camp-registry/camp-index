@@ -16,4 +16,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: moodle4.5
+    date: '2026-08-11T07:06:11Z'
+  checked: '2026-09-20'

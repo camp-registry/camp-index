@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Interactive slide-flow activity with AI content and branching logic
 metrics:
-  updated: '2026-08-15T03:23:36Z'
+  updated: '2026-09-09T10:33:09Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'

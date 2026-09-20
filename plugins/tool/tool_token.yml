@@ -12,7 +12,10 @@ summary: An admin tool provides a web service for generating Moodle web service 
 metrics:
   updated: '2024-11-20T23:20:57Z'
   stars: 7
-  forks: 1
+  forks: 2
   open-issues: 2
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: '2021051700'
+    date: '2021-05-17T00:11:30Z'
+  checked: '2026-09-20'

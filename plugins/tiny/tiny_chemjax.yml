@@ -15,4 +15,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: A TinyMCE editor plugin for Moodle that provides a dialog for inserting ChemJax
+  chemistry notation with live preview support.

@@ -13,4 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 0.2.0
+    date: '2026-04-10T01:13:56Z'
+  checked: '2026-09-20'
+summary: MICP is a Moodle activity plugin for low-cost interactive HTML lessons.

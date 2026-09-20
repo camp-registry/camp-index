@@ -10,7 +10,13 @@ license: GPL-3.0
 metrics:
   updated: '2026-03-01T04:55:35Z'
   stars: 0
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v2.0.8
+    date: '2026-03-01T04:55:35Z'
+  checked: '2026-09-20'
+summary: A Moodle Question Bank Competency plugin. This plugin links questions in
+  the question bank with competencies, providing the foundation for competency‑based
+  analysis.

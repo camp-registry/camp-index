@@ -13,4 +13,5 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: This plugin is an example of how to add bulk user actions to Moodle 4.4

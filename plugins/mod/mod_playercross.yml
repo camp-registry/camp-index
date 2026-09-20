@@ -11,9 +11,12 @@ summary: 'PlayerCross is a deduction crossword-style activity for Moodle: studen
   solve clues about course concepts, and each correct answer reveals shared letters
   of a final mystery phrase.'
 metrics:
-  updated: '2026-08-31T13:25:33Z'
+  updated: '2026-09-17T23:37:57Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.5
+    date: '2026-09-08T22:20:09Z'
+  checked: '2026-09-20'

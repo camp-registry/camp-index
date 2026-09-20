@@ -11,6 +11,10 @@ metrics:
   updated: '2026-08-20T17:59:54Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 5
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: An advanced, course-level analytics and reporting plugin for Moodle 5.0+
+  (and Moodle 4.x), providing teachers and academic managers with actionable visual
+  insights into quiz performance, attempt trends, question difficulty, and customizable
+  Excel/CSV exports.

@@ -14,10 +14,10 @@ releases: []
 summary: Enrolment on course completion
 license: GPL-3.0
 metrics:
-  updated: '2026-08-23T09:08:02Z'
+  updated: '2026-09-18T12:42:36Z'
   stars: 14
   forks: 18
   open-issues: 3
   archived: false
-  checked: '2026-09-05'
+  checked: '2026-09-20'
   ci: moodle-plugin-ci

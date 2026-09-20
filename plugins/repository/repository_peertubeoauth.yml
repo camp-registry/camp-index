@@ -13,4 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: '2026062808'
+    date: '2026-08-06T07:52:54Z'
+  checked: '2026-09-20'
+summary: A Moodle repository plugin that lists videos from a PeerTube instance in

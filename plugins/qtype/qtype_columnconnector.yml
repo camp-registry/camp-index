@@ -8,9 +8,10 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-29T21:29:27Z'
+  updated: '2026-09-19T12:25:34Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: Moodle'i küsimusetüüp, kus õppija ühendab naabertulpade lahtreid joontega.

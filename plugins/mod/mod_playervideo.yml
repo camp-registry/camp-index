@@ -12,9 +12,9 @@ summary: 'PlayerVideo turns any YouTube, Vimeo, or self-hosted video into an int
   and grading, accessibility features (captions, easy-read AI summaries, a screen-reader-only
   mode), and PlayerHUD gamification rewards.'
 metrics:
-  updated: '2026-09-04T13:07:41Z'
+  updated: '2026-09-08T23:01:25Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'

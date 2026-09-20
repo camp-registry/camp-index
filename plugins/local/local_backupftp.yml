@@ -12,7 +12,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-16T23:44:41Z'
+  updated: '2026-09-06T02:39:44Z'
   stars: 0
   forks: 1
   open-issues: 0
@@ -20,6 +20,6 @@ metrics:
   latest-release:
     tag: 2.3.2
     date: '2026-08-16T22:41:27Z'
-  checked: '2026-09-05'
+  checked: '2026-09-20'
   ci: moodle-plugin-ci
 summary: Automate course backups and securely send them to external servers.

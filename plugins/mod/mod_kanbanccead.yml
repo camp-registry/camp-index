@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Independent Moodle Kanban CCEAD activity module.
 metrics:
-  updated: '2026-09-04T18:01:14Z'
+  updated: '2026-09-08T12:59:10Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'

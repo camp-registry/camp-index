@@ -10,9 +10,16 @@ license: GPL-3.0
 dependencies:
   theme_boost: 2023100900
 metrics:
-  updated: '2026-09-04T18:55:35Z'
+  updated: '2026-09-18T17:12:28Z'
   stars: 1
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.1.0
+    date: '2026-09-04T18:55:36Z'
+  checked: '2026-09-20'
+summary: Thème enfant de Boost (le thème par défaut de Moodle depuis la version 3.2)
+  pour l'association loi 1901 Citoyenneté et Inclusion Numérique (OBIN), engagée pour
+  l'inclusion numérique, la reconnaissance des compétences par Open Badges et un usage
+  éthique de l'IA.

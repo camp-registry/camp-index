@@ -13,4 +13,8 @@ metrics:
   forks: 3
   open-issues: 2
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: VidTrack is a Moodle activity plugin that enables seamless integration of
+  YouTube videos into courses while capturing detailed student interactions. Using
+  the YouTube iFrame API, it embeds videos and records user engagement events for
+  later analysis.

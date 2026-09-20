@@ -10,7 +10,13 @@ license: GPL-3.0
 metrics:
   updated: '2026-08-31T17:23:12Z'
   stars: 0
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-08-31T17:23:12Z'
+  checked: '2026-09-20'
+summary: 'Plugin administrativo (toolsalasatipicas) para Moodle 5.0+ que centraliza
+  a criação automatizada de dois tipos de salas acadêmicas que normalmente exigem
+  muitas etapas manuais:'

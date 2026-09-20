@@ -13,4 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v2026090312
+    date: '2026-09-03T19:54:39Z'
+  checked: '2026-09-20'
+summary: Moodle-Aktivität, mit der Admins zwei getrennte, verschlüsselt gespeicherte

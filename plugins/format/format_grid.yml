@@ -24,6 +24,6 @@ metrics:
   latest-release:
     tag: V500.1.0
     date: '2025-09-15T12:41:43Z'
-  checked: '2026-09-05'
+  checked: '2026-09-20'
   ci: moodle-plugin-ci
 summary: Grid course format

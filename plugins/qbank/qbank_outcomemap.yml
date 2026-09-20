@@ -15,4 +15,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: qbankoutcomemap adds accessible question-bank interfaces for mapping exact
+  Moodle question versions to governed learning outcomes. It is a thin companion to
+  localoutcomemap, which remains the system of record for definitions, mappings, evidence,
+  calculations, audit, privacy, backup/restore, and repo

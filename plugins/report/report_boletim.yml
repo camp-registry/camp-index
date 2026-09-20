@@ -8,9 +8,10 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-04T18:20:12Z'
+  updated: '2026-09-15T19:11:35Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: A grade report plugin for Moodle. It appears alongside the other

@@ -13,4 +13,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.0
+    date: '2024-06-06T08:41:39Z'
+  checked: '2026-09-20'
+summary: Grab the latest release and install it to Moodle environment as any other
+  plugin.

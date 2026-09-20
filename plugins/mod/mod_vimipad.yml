@@ -8,9 +8,10 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-13T03:36:29Z'
+  updated: '2026-09-17T09:33:25Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: ViMi Pad (Visual Mind Pad) is a Moodle activity module for visual, collaborative

@@ -8,9 +8,14 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-04T15:30:00Z'
+  updated: '2026-09-15T17:03:15Z'
   stars: 0
-  forks: 0
-  open-issues: 1
+  forks: 2
+  open-issues: 4
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: 1.3.10
+    date: '2026-09-15T17:03:18Z'
+  checked: '2026-09-20'
+summary: Video Progress transforms videos into complete activities within the Moodle™
+  Software.

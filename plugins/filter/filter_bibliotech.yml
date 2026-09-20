@@ -10,10 +10,10 @@ license: GPL-3.0
 dependencies:
   local_bibliotech: 2026081300
 metrics:
-  updated: '2026-08-19T19:41:33Z'
+  updated: '2026-09-15T14:35:18Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-05'
+  checked: '2026-09-20'
 summary: 'Author: Trevor McCready, Horizon Education Network (<https://www.horizonednet.org>)'

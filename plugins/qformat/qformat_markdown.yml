@@ -8,9 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-08T20:52:47Z'
+  updated: '2026-09-05T21:14:47Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v2.1.0
+    date: '2026-08-08T20:52:07Z'
+  checked: '2026-09-20'
+summary: Import quiz questions into the Moodle question bank from a simple,

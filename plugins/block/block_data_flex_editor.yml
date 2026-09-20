@@ -13,5 +13,5 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-05'
+  checked: '2026-09-20'
 summary: Moodleのデータベースモジュール（moddata）に保存されたエントリを、フィールドの役割（固定列／移動列など）を自由に設定して効率的に編集するためのブロックプラグインです。

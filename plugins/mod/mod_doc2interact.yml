@@ -13,4 +13,10 @@ metrics:
   forks: 1
   open-issues: 22
   archived: false
-  checked: '2026-09-05'
+  latest-release:
+    tag: v1.0-stable
+    date: '2026-06-09T14:38:16Z'
+  checked: '2026-09-20'
+summary: Doc2Interact is a Moodle activity module that allows teachers to upload a
+  PDF or DOCX document and automatically generate a full set of learning resources
+  in their course — in under 45 seconds, without leaving Moodle.

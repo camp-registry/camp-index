@@ -11,9 +11,9 @@ summary: TinyMCE editor for sofia curriculum mapping
 dependencies:
   local_curricmap: 2026082502
 metrics:
-  updated: '2026-09-03T07:06:19Z'
+  updated: '2026-09-09T15:59:13Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'

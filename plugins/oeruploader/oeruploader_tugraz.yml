@@ -15,4 +15,8 @@ metrics:
   forks: 1
   open-issues: 2
   archived: false
-  checked: '2026-09-05'
+  latest-release:
+    tag: v1.0.1
+    date: '2022-06-21T11:41:32Z'
+  checked: '2026-09-20'
+summary: Subplugin for localoer plugin

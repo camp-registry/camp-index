@@ -8,11 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 dependencies:
-  mod_vimipad: 2026080800
+  mod_vimipad: 2026091101
 metrics:
-  updated: '2026-08-13T05:09:49Z'
+  updated: '2026-09-17T12:00:29Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: ViMi Pad question type — lets learners build a visual knowledge map (concept
+  map,

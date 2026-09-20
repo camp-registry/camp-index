@@ -11,9 +11,10 @@ dependencies:
   auth_flexaccess: 2026082700
   enrol_flexaccess: 2026082700
 metrics:
-  updated: '2026-08-28T14:11:02Z'
+  updated: '2026-09-11T10:51:20Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'
+summary: moodle-modflexaccess

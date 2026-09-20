@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: 'Booking extension: Evasys'
 metrics:
-  updated: '2026-08-17T08:16:10Z'
+  updated: '2026-09-10T11:56:34Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-05'
+  checked: '2026-09-20'

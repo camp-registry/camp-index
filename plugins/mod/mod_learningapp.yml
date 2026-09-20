@@ -8,9 +8,13 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-03T23:22:18Z'
+  updated: '2026-09-05T06:42:51Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.5.0
+    date: '2026-09-05T06:43:14Z'
+  checked: '2026-09-20'
+summary: Moodle-Aktivitätsmodul zur Einbindung von Übungen aus learningapps.org

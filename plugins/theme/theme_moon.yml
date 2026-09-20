@@ -11,9 +11,12 @@ summary: Moon is a simple theme for the Moon Framework, designed for Moodle LMS.
 dependencies:
   local_moon: 2026081800
 metrics:
-  updated: '2026-08-28T03:35:17Z'
+  updated: '2026-09-07T10:06:43Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v1.0.2
+    date: '2026-09-07T10:03:29Z'
+  checked: '2026-09-20'

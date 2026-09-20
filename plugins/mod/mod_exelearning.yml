@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Activity-type Moodle module to create, edit and grade eXeLearning resources
   with native navigation and Moodle gradebook integration.
 metrics:
-  updated: '2026-08-27T22:28:37Z'
+  updated: '2026-09-17T04:52:19Z'
   stars: 1
   forks: 2
-  open-issues: 3
+  open-issues: 1
   archived: false
-  checked: '2026-09-04'
+  latest-release:
+    tag: v4.0.5
+    date: '2026-09-16T15:32:05Z'
+  checked: '2026-09-20'

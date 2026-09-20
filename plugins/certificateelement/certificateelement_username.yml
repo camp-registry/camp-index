@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-05'
+  latest-release:
+    tag: 4.5.1
+    date: '2025-03-19T21:54:58Z'
+  checked: '2026-09-20'
 summary: The add-on can also be used to display the username on the certificate.

@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle plugin: quiz_aigrader'
 metrics:
-  updated: '2026-08-17T09:02:29Z'
+  updated: '2026-09-11T03:58:51Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-04'
+  checked: '2026-09-20'

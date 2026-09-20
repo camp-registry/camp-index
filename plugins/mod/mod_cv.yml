@@ -8,9 +8,13 @@ discovered: '2026-09-05'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-05T18:31:09Z'
+  updated: '2026-09-20T08:14:46Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-05'
+  checked: '2026-09-20'
+summary: A course-aware Moodle activity module designed to help students assemble,
+  format, and generate official professional credentialing applications, portfolio
+  write-ups, and CV dossiers across multiple disciplines (Project Management / PMI,
+  Healthcare & Medical, Computer & IT, Languages & Translation, B

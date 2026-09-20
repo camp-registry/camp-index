@@ -13,4 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-05'
+  checked: '2026-09-20'
+summary: The historic implementation of StrathPA, allowed for just 1 evaluation critera,
+  so the "score" was simply taken as the "mean" of the scores awarded to a student
+  by their peers.
