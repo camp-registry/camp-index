@@ -336,7 +336,13 @@ jobs:
       # the reason in the log (camp-tools#50).
       - name: Queue listed dependencies and parent for the install
         run: |
-          camp ci-deps . plugin --moodle-branch "${{ matrix.moodle-branch }}" | while IFS=$'\t' read -r component source ref via; do
+          # cut, not read: an empty ref field (default branch) must stay
+          # empty, and read collapses adjacent tabs.
+          camp ci-deps . plugin --moodle-branch "${{ matrix.moodle-branch }}" | while IFS= read -r line; do
+            component=$(printf '%s' "$line" | cut -f1)
+            source=$(printf '%s' "$line" | cut -f2)
+            ref=$(printf '%s' "$line" | cut -f3)
+            via=$(printf '%s' "$line" | cut -f4)
             echo "adding $component from $source${ref:+ at $ref} (needed by $via)"
             moodle-plugin-ci add-plugin --clone "$source" ${ref:+--branch "$ref"}
           done
