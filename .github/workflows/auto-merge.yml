@@ -54,6 +54,8 @@ on:
   workflow_run:
     workflows: ["Index PR verification"]
     types: [completed]
+  schedule:
+    - cron: "17,47 * * * *"   # sweep for PRs no run resolved (see the sweep job)
   workflow_dispatch:
     inputs:
       pr:
@@ -64,12 +66,48 @@ permissions:
   contents: read
   pull-requests: write
   issues: write            # the auto-merged audit label
+  actions: write           # the sweep dispatches this workflow
 
-concurrency:
-  group: auto-merge
-  cancel-in-progress: false
+# No concurrency group, deliberately (camp-index#364). Each run evaluates
+# one PR pinned to its head SHA and merges through the API, so parallel
+# runs for different PRs are safe and a second run for the same PR fails
+# harmlessly on an already-merged head. The group this workflow used to
+# have cost real merges: GitHub keeps at most one pending run per group
+# and cancels the rest, so a burst of 25 release PRs on 2026-09-19
+# produced 17 cancelled runs whose PRs were never resolved, commented on,
+# or labeled. They sat green and untouched until dispatched by hand.
 
 jobs:
+  # Safety net for anything a run still misses (a failed run, an API
+  # error): every half hour, dispatch the evaluation for each open
+  # publisher PR whose required check is green and that no run has
+  # routed. Dispatch re-verifies the check for the exact head, so the
+  # sweep adds no eligibility path of its own. PRs already routed to the
+  # human path (needs-human-merge, hold) are left alone.
+  sweep:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Dispatch evaluation for unresolved publisher PRs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh api "repos/${GITHUB_REPOSITORY}/pulls?state=open&base=main&per_page=100" --paginate \
+            --jq '.[] | select(.user.login == "camp-registry-publisher[bot]" and .draft == false)
+                      | select(([.labels[].name] | any(. == "hold" or . == "needs-human-merge" or . == "auto-merged")) | not)
+                      | "\(.number) \(.head.sha)"' \
+          | while read -r num sha; do
+              ok=$(gh api "repos/${GITHUB_REPOSITORY}/commits/${sha}/check-runs" \
+                --jq '[.check_runs[] | select(.name == "Index PR verification result" and .conclusion == "success")] | length')
+              if [ "$ok" = "0" ]; then
+                echo "#${num}: required check not green at ${sha}; skipping"
+                continue
+              fi
+              echo "#${num}: green and unrouted; dispatching evaluation"
+              gh workflow run auto-merge.yml --repo "${GITHUB_REPOSITORY}" -f pr="${num}"
+            done
+
   merge:
     if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-24.04
