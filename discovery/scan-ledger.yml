@@ -77076,10 +77076,11 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
   frumbert/enrol-token:
-    outcome: exists
-    detail: component enrol_token already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#326)
+    component: enrol_token
     first-seen: '2026-07-10'
-    last-checked: '2026-09-03'
+    last-checked: '2026-09-21'
   frumbert/filter_roundy:
     outcome: exists
     detail: component filter_roundy already registered (first-come, RFC §8)
