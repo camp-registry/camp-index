@@ -10,9 +10,9 @@ summary: Moodle plugin which provides a dedicated URL to grant users guest acces
   to courses without going through the login page
 license: GPL-3.0
 metrics:
-  updated: '2025-10-17T14:04:07Z'
+  updated: '2026-09-14T13:00:58Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-07'
+  checked: '2026-09-22'
