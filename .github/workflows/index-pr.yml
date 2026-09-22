@@ -347,11 +347,42 @@ jobs:
             moodle-plugin-ci add-plugin --clone "$source" ${ref:+--branch "$ref"}
           done
 
+      # --no-init: the static floor (phplint, phpcs, validate, savepoints)
+      # needs the plugin in place and configs built, not a test-suite
+      # database. Site installation is exercised by the warn-only step
+      # below instead, for every plugin rather than only those shipping
+      # tests, and without gating on it (camp-index#366).
       - name: Install plugin into a fresh Moodle
-        run: moodle-plugin-ci install --plugin ./plugin --db-host=127.0.0.1
+        run: moodle-plugin-ci install --plugin ./plugin --db-host=127.0.0.1 --no-init
         env:
           DB: pgsql
           MOODLE_BRANCH: ${{ matrix.moodle-branch }}
+
+      # Install a site database with the plugin: runs db/install.xml,
+      # install.php, access.php, settings.php. A failure here means the
+      # release cannot install on a stock site (a required core patch, a
+      # broken install hook), which the registry reports but does not
+      # adjudicate: the trust floor is what the gating checks establish
+      # (DESIGN D1), and install/test success is the author's CI's job.
+      - name: Site installation check (warn-only, DESIGN D1)
+        if: ${{ !cancelled() }}
+        continue-on-error: true
+        run: |
+          d=moodle; [ -f moodle/public/version.php ] && d=moodle/public
+          if ! php "$d/admin/tool/phpunit/cli/util.php" --install > install.log 2>&1; then
+            tail -n 40 install.log
+            reason=$(grep -m1 -E '!!|Exception|Error' install.log | sed 's/^ *//' | cut -c1-200)
+            echo "::warning title=Site installation failed for ${{ matrix.version }} on ${{ matrix.moodle-branch }}::${reason:-see the step log}"
+            {
+              echo "### Site installation check: failed (${{ matrix.version }}, ${{ matrix.moodle-branch }})"
+              echo
+              echo "The plugin could not be installed into a fresh Moodle site. This does not gate verification (DESIGN D1); it is reported for the author and for anyone reviewing the release."
+              echo
+              echo '```'; tail -n 20 install.log; echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          echo "site installation succeeded"
 
       - name: Disclosure-label heuristics (warn-only, RFC §4.7)
         if: ${{ !cancelled() }}
