@@ -66,6 +66,8 @@ jobs:
           fi
           git config user.name "camp project"
           git config user.email "noreply@camp-registry.org"
-          git add plugins
+          # both trees the refresh writes: plugins/ and utilities/ (the
+          # utilities pass was refreshed daily and never committed, #372)
+          git add plugins utilities
           git commit -m "metrics refresh (scheduled)"
           git push origin main
