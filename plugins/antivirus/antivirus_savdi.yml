@@ -10,8 +10,8 @@ license: GPL-3.0
 summary: Sophos SAVDI antivirus plugin for Moodle
 metrics:
   updated: '2026-04-27T02:11:27Z'
-  stars: 1
+  stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-09'
+  checked: '2026-09-24'

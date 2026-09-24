@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: An Atto plugin which enables fullscreen editing mode
 metrics:
-  updated: '2026-04-22T00:10:43Z'
+  updated: '2026-09-22T16:58:49Z'
   stars: 5
   forks: 13
   open-issues: 8
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: '2015122001'
     date: '2016-01-14T16:46:40Z'
-  checked: '2026-09-09'
+  checked: '2026-09-24'

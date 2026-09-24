@@ -8,13 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-01T12:52:04Z'
+  updated: '2026-09-18T06:38:10Z'
   stars: 0
   forks: 3
   open-issues: 0
   archived: false
   latest-release:
-    tag: v2026090100
-    date: '2026-09-01T12:52:04Z'
-  checked: '2026-09-09'
+    tag: v2026091800
+    date: '2026-09-18T06:38:10Z'
+  checked: '2026-09-24'
 summary: SSO for MooWoodle Pro

@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2025-11-03T05:53:10Z'
+  updated: '2026-09-23T06:53:59Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-09'
+  checked: '2026-09-24'
 summary: Cincopa plugin for Assign submission

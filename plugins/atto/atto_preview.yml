@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: An Atto editor plugin that shows a preview of the filtered editor content.
 metrics:
-  updated: '2026-04-22T00:11:47Z'
+  updated: '2026-09-22T16:59:33Z'
   stars: 4
   forks: 3
   open-issues: 1
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: '2016022500'
     date: '2016-02-16T18:39:32Z'
-  checked: '2026-09-09'
+  checked: '2026-09-24'
