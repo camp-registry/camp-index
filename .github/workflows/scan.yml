@@ -67,11 +67,14 @@ jobs:
           CAMP_APP_ID: ${{ vars.AUTOMATION_APP_ID }}
           CAMP_APP_PRIVATE_KEY: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
           CAMP_APP_INSTALLATION_ID: ${{ steps.app.outputs.installation-id }}
+          LIMIT: ${{ inputs.limit || '200' }}
+          RECHECK_DAYS: ${{ inputs.recheck-days || '45' }}
+          DRY_RUN: ${{ inputs.dry-run == 'true' && 'true' || '' }}
         run: >
           camp scan .
-          --limit ${{ inputs.limit || '200' }}
-          --recheck-days ${{ inputs.recheck-days || '45' }}
-          ${{ inputs.dry-run == 'true' && '--dry-run' || '' }}
+          --limit "$LIMIT"
+          --recheck-days "$RECHECK_DAYS"
+          ${DRY_RUN:+--dry-run}
 
       # App credentials are also set here: the collision classifier probes
       # the GitHub API when the listed holder of a component lives there.
@@ -81,10 +84,12 @@ jobs:
           CAMP_APP_ID: ${{ vars.AUTOMATION_APP_ID }}
           CAMP_APP_PRIVATE_KEY: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
           CAMP_APP_INSTALLATION_ID: ${{ steps.app.outputs.installation-id }}
+          RECHECK_DAYS: ${{ inputs.recheck-days || '45' }}
+          DRY_RUN: ${{ inputs.dry-run == 'true' && 'true' || '' }}
         run: >
           camp scan-gitlab .
-          --recheck-days ${{ inputs.recheck-days || '45' }}
-          ${{ inputs.dry-run == 'true' && '--dry-run' || '' }}
+          --recheck-days "$RECHECK_DAYS"
+          ${DRY_RUN:+--dry-run}
 
       # App installation tokens live one hour; a multi-hour sweep outlives
       # the token minted at job start (the first real run died exactly
@@ -97,6 +102,8 @@ jobs:
           private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
 
       - name: Push new listings and ledger
+        env:
+          PUSH_TOKEN: ${{ steps.push-app.outputs.token }}
         run: |
           git add plugins discovery
           if git diff --cached --quiet; then
@@ -110,7 +117,7 @@ jobs:
           # PRs); replay our commit on top so the push isn't rejected as
           # non-fast-forward. Anonymous read works on a public repo.
           git pull --rebase origin main
-          git push "https://x-access-token:${{ steps.push-app.outputs.token }}@github.com/${{ github.repository }}.git" HEAD:main
+          git push "https://x-access-token:${PUSH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
 
       # First contact with an unknown plugin-type prefix parks its members
       # in needs-review instead of auto-listing (camp-tools#16). Each new

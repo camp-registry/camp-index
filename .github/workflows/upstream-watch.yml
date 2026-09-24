@@ -51,6 +51,7 @@ jobs:
         if: failure() && steps.check.outcome == 'failure'
         env:
           GH_TOKEN: ${{ github.token }}
+          FINDINGS: ${{ steps.check.outputs.findings }}
         run: |
           existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
             --search "Upstream Moodle drift detected in:title" --json number --jq 'length')
@@ -63,7 +64,7 @@ jobs:
             --body "The weekly upstream watch found camp's tables out of date with moodle/moodle:
 
           \`\`\`
-          ${{ steps.check.outputs.findings }}
+          ${FINDINGS}
           \`\`\`
 
           For a new stable branch: add the suggested row(s) to \`BRANCHES\` in \`camp/moodleversions.py\`, review the index-pr matrix endpoints and anything else branch-aware. For standard-components drift: review the diff and refresh with \`camp check-standard-plugins --write\` (camp-tools#25). For plugin-type drift: refresh with \`camp check-plugin-types --write\` and name any new type in the display overlay (camp-tools#16; the tests enforce it). Ship as usual. (VORDER derives automatically.)"

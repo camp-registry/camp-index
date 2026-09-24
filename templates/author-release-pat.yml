@@ -52,10 +52,16 @@ jobs:
       # Releases are built at immutable tags only. workflow_dispatch left
       # on the default branch publishes a record that verifies once and
       # then fails forever (camp-tools#15); fail here instead.
+      # The ref name reaches the shell as a variable, never spliced into the
+      # script text: a branch name may contain shell syntax, and a spliced
+      # name would run as code under workflow_dispatch.
       - name: Require a tag ref
+        env:
+          REF_NAME: ${{ github.ref_name }}
+          REF_TYPE: ${{ github.ref_type }}
         run: |
-          if [ "${{ github.ref_type }}" != "tag" ]; then
-            echo "::error::This workflow must run at a tag. From workflow_dispatch, pick the tag in the ref dropdown (or: gh workflow run camp-release.yml --ref v1.2.3). Current ref: ${{ github.ref_name }} (${{ github.ref_type }})"
+          if [ "$REF_TYPE" != "tag" ]; then
+            echo "::error::This workflow must run at a tag. From workflow_dispatch, pick the tag in the ref dropdown (or: gh workflow run camp-release.yml --ref v1.2.3). Current ref: $REF_NAME ($REF_TYPE)"
             exit 1
           fi
 

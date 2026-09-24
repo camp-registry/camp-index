@@ -28,10 +28,14 @@ jobs:
         env:
           B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
-        run: camp deposit . --bucket "${{ vars.B2_BUCKET }}" --endpoint "${{ vars.B2_ENDPOINT }}"
+          B2_BUCKET: ${{ vars.B2_BUCKET }}
+          B2_ENDPOINT: ${{ vars.B2_ENDPOINT }}
+        run: camp deposit . --bucket "$B2_BUCKET" --endpoint "$B2_ENDPOINT"
 
       - name: Audit the archive against the ledger
         env:
           B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
-        run: camp archive-audit . --bucket "${{ vars.B2_BUCKET }}" --endpoint "${{ vars.B2_ENDPOINT }}"
+          B2_BUCKET: ${{ vars.B2_BUCKET }}
+          B2_ENDPOINT: ${{ vars.B2_ENDPOINT }}
+        run: camp archive-audit . --bucket "$B2_BUCKET" --endpoint "$B2_ENDPOINT"

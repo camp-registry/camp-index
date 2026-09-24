@@ -49,12 +49,14 @@ jobs:
       - name: Refresh the stalest entries
         env:
           GITHUB_TOKEN: ${{ steps.app.outputs.token }}
-        # inputs are empty on schedule runs; the fallbacks keep the cron
-        # behavior identical to the old hard-coded values
+          # inputs are empty on schedule runs; the fallbacks keep the cron
+          # behavior identical to the old hard-coded values
+          STALE_DAYS: ${{ inputs.stale-days || '14' }}
+          LIMIT: ${{ inputs.limit || '600' }}
         run: >
           camp enrich .
-          --stale-days ${{ inputs.stale-days || '14' }}
-          --limit ${{ inputs.limit || '600' }}
+          --stale-days "$STALE_DAYS"
+          --limit "$LIMIT"
 
       - name: Push refreshed metrics
         run: |
