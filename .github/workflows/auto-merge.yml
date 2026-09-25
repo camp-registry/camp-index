@@ -85,7 +85,7 @@ jobs:
   # sweep adds no eligibility path of its own. PRs already routed to the
   # human path (needs-human-merge, hold) are left alone.
   sweep:
-    if: github.event_name == 'schedule'
+    if: github.repository == 'camp-registry/camp-index' && (github.event_name == 'schedule')
     runs-on: ubuntu-24.04
     steps:
       - name: Dispatch evaluation for unresolved publisher PRs
@@ -109,7 +109,7 @@ jobs:
             done
 
   merge:
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    if: github.repository == 'camp-registry/camp-index' && (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success')
     runs-on: ubuntu-24.04
     steps:
       - name: Resolve candidate PR and classify

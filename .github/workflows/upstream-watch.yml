@@ -15,6 +15,9 @@ permissions:
 
 jobs:
   watch:
+    # Runs only in the canonical repository: a fork with Actions enabled
+    # would otherwise run this on schedule (and fail its Pages deploy).
+    if: github.repository == 'camp-registry/camp-index'
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/setup-python@v7
