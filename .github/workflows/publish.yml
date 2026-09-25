@@ -189,6 +189,11 @@ jobs:
 
       - name: Finish the distribution tree
         run: |
+          # The author templates are served from the site too, so tools that
+          # scaffold plugins (mdlcode and the like) fetch the six-line caller
+          # from a domain we control: /templates/camp-release.yml.
+          mkdir -p dist/templates
+          cp templates/*.yml dist/templates/
           python -c "
           import camp, pathlib, shutil
           shutil.copytree(pathlib.Path(camp.__file__).parent / 'schema', 'dist/schema')
