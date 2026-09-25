@@ -5,7 +5,7 @@ security-contact: https://github.com/gjbarnard/camp-claim/security/advisories
 maintainers:
 - github: gjb2048
   name: Gareth Barnard
-tier: 1
+tier: 2
 labels:
 - freemium
 - donation-supported
@@ -13,7 +13,19 @@ labels:
 org-claim: gjbarnard
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: 502.1.5
+  tag: V502.1.5
+  commit: d172435c1df8097dcc1fd9b5eff12ccf1315d4d4
+  moodle-version: 2026041205
+  supported-moodle:
+  - '5.2'
+  dependencies:
+    theme_boost: 2026042000
+  zip-sha256: 9e1d1da65d4fa6f0795274e4727624ce20055afe2c84b58a527165fe4c694f13
+  listing-sha256: 3fde2dc55fb3c5115c2a8fc1067257987d3ab02a8a6ce0fdacb0400cb164cb1e
+  published: '2026-09-25T11:22:26Z'
+  released: '2026-09-25T11:20:17Z'
 summary: Adaptable theme for Moodle
 license: GPL-3.0
 metrics:
