@@ -12,14 +12,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-06T02:39:12Z'
+  updated: '2026-09-20T14:13:06Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: 1.2.1
-    date: '2026-08-30T14:57:55Z'
-  checked: '2026-09-10'
+    tag: 1.2.2
+    date: '2026-09-20T14:13:10Z'
+  checked: '2026-09-25'
   ci: moodle-plugin-ci
 summary: Generate an organized public sitemap to improve navigation and discovery.

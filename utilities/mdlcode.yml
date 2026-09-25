@@ -18,7 +18,7 @@ labels:
 - freemium
 first-seen: '2026-08-13'
 metrics:
-  checked: '2026-09-24'
+  checked: '2026-09-25'
   latest-release:
     tag: 1.6.5
     url: https://open-vsx.org/extension/LMSCloud/mdlcode

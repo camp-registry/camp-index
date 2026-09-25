@@ -14,13 +14,13 @@ license: GPL-3.0
 summary: Modern administrative dashboard that makes platform management simpler, faster,
   and smarter.
 metrics:
-  updated: '2026-09-06T02:39:08Z'
+  updated: '2026-09-23T17:14:40Z'
   stars: 30
   forks: 26
   open-issues: 1
   archived: false
   latest-release:
-    tag: 3.0.21
-    date: '2026-09-01T14:45:15Z'
-  checked: '2026-09-10'
+    tag: 3.0.22
+    date: '2026-09-23T17:14:43Z'
+  checked: '2026-09-25'
   ci: moodle-plugin-ci

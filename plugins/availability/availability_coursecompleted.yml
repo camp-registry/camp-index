@@ -9,9 +9,9 @@ releases: []
 summary: Restriction by course completion
 license: GPL-3.0
 metrics:
-  updated: '2026-09-09T15:16:55Z'
+  updated: '2026-09-24T13:57:19Z'
   stars: 9
   forks: 12
   open-issues: 3
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-25'

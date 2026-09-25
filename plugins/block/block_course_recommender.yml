@@ -12,7 +12,7 @@ summary: A Moodle block that helps users discover relevant courses based on thei
 metrics:
   updated: '2026-08-24T14:01:50Z'
   stars: 1
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-25'

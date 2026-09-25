@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: A moodle block to search resources in BoA.
 metrics:
-  updated: '2021-09-23T23:32:04Z'
+  updated: '2026-09-24T23:33:38Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-25'

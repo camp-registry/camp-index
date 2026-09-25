@@ -20,7 +20,7 @@ metrics:
   latest-release:
     tag: 1.4.0
     date: '2026-08-18T16:16:01Z'
-  checked: '2026-09-10'
+  checked: '2026-09-25'
   ci: moodle-plugin-ci
 summary: Integrations and features that bring a mobile experience to your platform.
 dependencies:

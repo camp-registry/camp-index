@@ -9,9 +9,9 @@ releases: []
 summary: Relative dates in Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-09-09T15:16:59Z'
+  updated: '2026-09-18T11:23:54Z'
   stars: 8
   forks: 14
   open-issues: 4
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-25'

@@ -15,7 +15,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-25'
   ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_langcrowd/security
 labels:

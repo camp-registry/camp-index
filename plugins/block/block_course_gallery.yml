@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Moodle block to list a ccourse gallery
 metrics:
-  updated: '2026-09-01T23:13:10Z'
+  updated: '2026-09-24T19:11:59Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
   latest-release:
-    tag: 0.0.1
-    date: '2026-07-03T14:10:54Z'
-  checked: '2026-09-10'
+    tag: 0.1.07
+    date: '2026-09-24T19:12:13Z'
+  checked: '2026-09-25'

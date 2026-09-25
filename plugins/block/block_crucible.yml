@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: block_crucible is a plugin that provides a Moodle user with links to access
   other applications integrated via OAUTH based on the user’s permissions.
 metrics:
-  updated: '2026-09-08T18:28:27Z'
+  updated: '2026-09-23T21:46:47Z'
   stars: 2
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
   latest-release:
-    tag: '2026090801'
-    date: '2026-09-08T17:13:00Z'
-  checked: '2026-09-10'
+    tag: '2026092200'
+    date: '2026-09-22T19:13:06Z'
+  checked: '2026-09-25'

@@ -9,9 +9,9 @@ releases: []
 license: AGPL-3.0
 summary: 'BEAM: Better Evaluation and Assessment in Moodle'
 metrics:
-  updated: '2026-09-09T16:45:49Z'
+  updated: '2026-09-22T16:24:58Z'
   stars: 3
   forks: 6
-  open-issues: 25
+  open-issues: 26
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-25'

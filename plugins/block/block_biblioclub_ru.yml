@@ -8,13 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2024-07-15T16:25:58Z'
+  updated: '2026-09-16T13:44:45Z'
   stars: 0
   forks: 0
   open-issues: 2
   archived: false
   latest-release:
-    tag: v0.0.4
-    date: '2024-07-15T16:25:58Z'
-  checked: '2026-09-10'
+    tag: v0.0.6
+    date: '2026-09-16T13:44:54Z'
+  checked: '2026-09-25'
 summary: Seamless authentication in biblioclub.ru from Moodle Learning Platform

@@ -8,15 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T11:26:28Z'
+  updated: '2026-09-20T20:49:24Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
   latest-release:
-    tag: v0.13
-    date: '2026-07-07T11:21:50Z'
-  checked: '2026-09-10'
+    tag: v0.16
+    date: '2026-09-20T20:39:34Z'
+  checked: '2026-09-25'
 summary: Bloque personalizado para Moodle que proporciona una interfaz mejorada de
   cabecera de curso con información de profesores, navegación por secciones, integración
   de foros, bibliografía y sesiones en vivo.
