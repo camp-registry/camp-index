@@ -22,7 +22,10 @@ on:
       - ".github/workflows/publish.yml"
   workflow_dispatch:
   schedule:
-    - cron: "23 5 * * *"   # daily: keeps generated-at-publish data fresh
+    - cron: "23 5 * * *"   # keeps generated-at-publish data fresh
+    - cron: "23 17 * * *"  # second re-sign of the TUF timestamp (14-day
+                           # window; camp-tools#47 phase 2). GitHub's
+                           # scheduler runs hours late; the slack absorbs it.
                             # (relative dates, health dots, fetched badges)
 
 permissions:
@@ -56,7 +59,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "camp-tools[screenshots,archive] @ git+https://github.com/camp-registry/camp-tools@v0.2.67"
+        run: pip install --quiet "camp-tools[screenshots,archive,signing] @ git+https://github.com/camp-registry/camp-tools@v0.2.68"
 
       - name: Setup PHP (code checks)
         uses: shivammathur/setup-php@v2
@@ -118,7 +121,10 @@ jobs:
           # compliance-locked), then audit that every release is archived
           # hash-exact — a hole turns this publish red.
           camp deposit . --bucket "$B2_BUCKET" --endpoint "$B2_ENDPOINT"
-          camp archive-audit . --bucket "$B2_BUCKET" --endpoint "$B2_ENDPOINT"
+          # The audit also records each stored ZIP's byte length: the
+          # signed targets need length + hash, the ledger holds the hash.
+          camp archive-audit . --bucket "$B2_BUCKET" --endpoint "$B2_ENDPOINT" \
+            --lengths-out "$RUNNER_TEMP/artifact-lengths.json"
 
           # The browse site lives at the tree root: / is the browse page,
           # /plugin/... the detail pages, machine paths alongside.
@@ -133,6 +139,56 @@ jobs:
           find "$RUNNER_TEMP/listings" -maxdepth 1 -type f -exec cp {} dist/listings/ \;
 
           camp composer . "$BASE_URL" dist/packages.json --artifacts-base "$ARTIFACTS_BASE"
+
+      # TUF phase 2 (camp-tools#47): sign what clients install with the
+      # online keys the steward-signed root lists, and serve the metadata
+      # beside the tree at /tuf/. Targets: the site's machine-readable files
+      # (hashed here) + every served ledger release (hash from the ledger,
+      # length from the audit above). Version numbers continue across
+      # runs, so the live metadata is fetched first; the root is canonical
+      # in this repository's tuf/ and never regenerated here. A verify that
+      # fails leaves this run red and nothing deploys.
+      - name: Sign the published tree
+        env:
+          TUF_TARGETS_KEY: ${{ secrets.TUF_TARGETS_KEY }}
+          TUF_SNAPSHOT_KEY: ${{ secrets.TUF_SNAPSHOT_KEY }}
+          TUF_TIMESTAMP_KEY: ${{ secrets.TUF_TIMESTAMP_KEY }}
+          # Windows decided 2026-09-25 (timestamp 14 / snapshot 30 / targets
+          # 90; root as set at the ceremony). Change here, no train needed.
+          TUF_EXPIRY_TIMESTAMP: "14"
+          TUF_EXPIRY_SNAPSHOT: "30"
+          TUF_EXPIRY_TARGETS: "90"
+        run: |
+          mkdir -p dist/tuf "$RUNNER_TEMP/tuf-keys"
+          for role in targets snapshot timestamp; do
+            curl -fsS -m 20 "$BASE_URL/tuf/$role.json" -o "dist/tuf/$role.json" \
+              || echo "no live $role.json yet (first signing run)"
+          done
+          # Keep the outgoing versioned targets/snapshot files one more cycle:
+          # a client that read the old timestamp just before this deploy can
+          # still fetch the <version>.<role>.json it names instead of a 404.
+          for role in targets snapshot; do
+            [ -f "dist/tuf/$role.json" ] || continue
+            v=$(python -c "import json,sys; print(json.load(open(sys.argv[1]))['signed']['version'])" "dist/tuf/$role.json")
+            curl -fsS -m 20 "$BASE_URL/tuf/$v.$role.json" -o "dist/tuf/$v.$role.json" \
+              || echo "no live $v.$role.json to carry over"
+          done
+          cp tuf/root.json tuf/*.root.json dist/tuf/
+          printf '%s\n' "$TUF_TARGETS_KEY"   > "$RUNNER_TEMP/tuf-keys/targets.pem"
+          printf '%s\n' "$TUF_SNAPSHOT_KEY"  > "$RUNNER_TEMP/tuf-keys/snapshot.pem"
+          printf '%s\n' "$TUF_TIMESTAMP_KEY" > "$RUNNER_TEMP/tuf-keys/timestamp.pem"
+          chmod 600 "$RUNNER_TEMP"/tuf-keys/*.pem
+          camp tuf sign dist "$RUNNER_TEMP/tuf-keys" dist/tuf \
+            --only packages.json --only security-advisories.json --only index.json \
+            --index . --artifact-lengths "$RUNNER_TEMP/artifact-lengths.json" \
+            --expiry "timestamp=$TUF_EXPIRY_TIMESTAMP" \
+            --expiry "snapshot=$TUF_EXPIRY_SNAPSHOT" \
+            --expiry "targets=$TUF_EXPIRY_TARGETS"
+          rm -rf "$RUNNER_TEMP/tuf-keys"
+          camp tuf verify dist/tuf dist --missing-ok-suffix .zip
+
+      - name: Finish the distribution tree
+        run: |
           python -c "
           import camp, pathlib, shutil
           shutil.copytree(pathlib.Path(camp.__file__).parent / 'schema', 'dist/schema')
