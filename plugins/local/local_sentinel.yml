@@ -27,12 +27,14 @@ releases:
   released: '2026-09-14T21:13:29Z'
 license: GPL-3.0
 metrics:
-  updated: '2026-07-03T15:59:57Z'
+  updated: '2026-09-14T21:15:18Z'
   stars: 0
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-09-10'
-summary: >-
-  Per-instance Moodle plugin that exposes operational health, environment
-  details,
+  latest-release:
+    tag: v2.22.4
+    date: '2026-09-14T21:15:30Z'
+  checked: '2026-09-26'
+  ci: moodle-plugin-ci
+summary: Per-instance Moodle plugin that exposes operational health, environment details,

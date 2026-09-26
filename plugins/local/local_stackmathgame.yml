@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-05T21:18:53Z'
+  updated: '2026-09-21T21:25:45Z'
   stars: 0
   forks: 0
   open-issues: 9
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: Installable Moodle local plugin scaffold for integrating the analysed STACK
   math game capabilities.
 dependencies:

@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: Plugin de Tienda XP para Moodle.
 metrics:
-  updated: '2026-09-06T16:18:38Z'
+  updated: '2026-09-18T18:28:19Z'
   stars: 1
   forks: 0
   open-issues: 0
@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v2.4.5
     date: '2026-07-20T19:04:21Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 dependencies:
   block_xp: any

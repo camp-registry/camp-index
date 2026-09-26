@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v3.0.13
     date: '2026-09-03T09:16:21Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: A Moodle Competency Analysis and Reporting plugin. This plugin analyzes and
   reports on user competencies based on the question‑competency links created by qbankyetkinlik.
 dependencies:

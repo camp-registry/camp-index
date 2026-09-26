@@ -10,8 +10,8 @@ license: GPL-3.0
 metrics:
   updated: '2026-07-27T23:02:32Z'
   stars: 2
-  forks: 7
-  open-issues: 3
+  forks: 8
+  open-issues: 6
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: 'This plugin is required by the following plugins published by Open LMS:'

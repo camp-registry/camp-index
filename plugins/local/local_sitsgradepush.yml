@@ -13,12 +13,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-21T13:57:45Z'
+  updated: '2026-09-17T14:18:47Z'
   stars: 1
   forks: 1
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
   ci: moodle-plugin-ci
 summary: This plugin adds a course level dashboard to manage the transfer of Marks
   from Moodle into SITS

@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 1.1.3
     date: '2026-08-03T16:43:18Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: A Moodle plugin that adds an “Add certificate to LinkedIn” button to Custom
   certificate activities and, optionally, generates a professional AI message ready
   for your LinkedIn post. All with one click for the learner.

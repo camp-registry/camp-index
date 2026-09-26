@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: Ce plugin ajoute un web service à Moodle permettant de rechercher les tentatives
   de quiz selon différents critères.
 dependencies:

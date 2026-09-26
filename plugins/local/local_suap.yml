@@ -11,12 +11,12 @@ summary: O local_suap é um plugin local do Moodle responsável pelo núcleo da 
   Pública), realizando a sincronização bidirecional de dados acadêmicos.
 license: GPL-3.0
 metrics:
-  updated: '2026-09-07T09:26:46Z'
+  updated: '2026-09-18T23:58:07Z'
   stars: 3
   forks: 2
-  open-issues: 4
+  open-issues: 2
   archived: false
   latest-release:
-    tag: 4.5.117
-    date: '2026-08-30T01:48:58Z'
-  checked: '2026-09-10'
+    tag: 4.5.119
+    date: '2026-09-18T23:45:07Z'
+  checked: '2026-09-26'

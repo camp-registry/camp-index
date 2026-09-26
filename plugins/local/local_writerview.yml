@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: A local plugin that transforms the Moodle assignment submission page into
   a focused writing experience with a Google Docs-ish layout that observes the contraints
   of Moodle core.

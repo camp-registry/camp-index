@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: V1.2
     date: '2021-05-26T09:20:23Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 dependencies:
   tool_attestoodle: 2019032701

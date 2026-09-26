@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Wunderbyte Taskflow plugin
 metrics:
-  updated: '2026-09-10T12:23:09Z'
+  updated: '2026-09-25T06:27:17Z'
   stars: 0
   forks: 3
-  open-issues: 118
+  open-issues: 150
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 dependencies:
   local_multistepform: 2025050800
   local_wunderbyte_table: 2026042100

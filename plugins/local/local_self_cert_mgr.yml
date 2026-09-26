@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Plugin to allow users to manage self cert extensions
 metrics:
-  updated: '2025-03-31T10:00:00Z'
+  updated: '2026-09-15T14:13:33Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'

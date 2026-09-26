@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Allows course recompletion
 metrics:
-  updated: '2026-09-09T05:26:01Z'
-  stars: 36
+  updated: '2026-09-25T09:21:01Z'
+  stars: 37
   forks: 60
-  open-issues: 19
+  open-issues: 20
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'

@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: '20201216'
     date: '2020-12-16T14:19:05Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: Web service to update the start date of a course and all the dates of the
   activities of this course in a relative way.

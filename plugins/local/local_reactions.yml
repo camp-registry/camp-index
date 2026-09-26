@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Enable "emoji" style reactions for forum posts
 metrics:
-  updated: '2026-09-07T10:16:11Z'
+  updated: '2026-09-18T17:37:43Z'
   stars: 1
   forks: 0
-  open-issues: 3
+  open-issues: 2
   archived: false
   latest-release:
-    tag: v1.9.1
-    date: '2026-09-07T10:16:12Z'
-  checked: '2026-09-10'
+    tag: v1.10.0
+    date: '2026-09-18T17:37:43Z'
+  checked: '2026-09-26'

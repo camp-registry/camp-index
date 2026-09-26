@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: moodle4
     date: '2022-11-10T01:33:04Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: The report link is available to site administrators either from the Site
   Administration Reports, or the Course menu.

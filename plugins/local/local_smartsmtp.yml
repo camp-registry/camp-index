@@ -11,11 +11,11 @@ summary: Route Moodle notifications through multiple configurable SMTP accounts,
   per-module routing rules.
 metrics:
   updated: '2026-07-20T21:41:27Z'
-  stars: 0
+  stars: 1
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
     tag: v1.0.0
     date: '2026-07-20T21:41:27Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'

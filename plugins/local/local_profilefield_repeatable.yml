@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-05T20:10:05Z'
+  updated: '2026-09-25T00:56:49Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: Local plugin to manage reference dictionaries for repeatable profile fields.

@@ -11,7 +11,7 @@ summary: Custom Page Builder for Moodle 4.5 LTS, 5.x and later
 metrics:
   updated: '2026-05-08T21:12:38Z'
   stars: 0
-  forks: 0
-  open-issues: 0
+  forks: 1
+  open-issues: 3
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'

@@ -12,11 +12,11 @@ summary: Stream Integration is a powerful Moodle plugin designed to synchronize 
   your online learning environment by seamlessly connecting with Stream, a comprehensive
   video platform optimized for academic use.
 metrics:
-  updated: '2026-05-27T08:24:54Z'
+  updated: '2026-09-16T19:31:24Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 dependencies:
   mod_stream: 2024060700

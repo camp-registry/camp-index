@@ -8,9 +8,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-23T09:21:03Z'
+  updated: '2026-09-23T14:38:34Z'
   stars: 1
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
+summary: The localsolalerts plugin allows administrators to create targeted announcement
+  banners and alerts that appear on selected Moodle pages when a user matches configured
+  display conditions. It is designed for institution-specific messaging, such as notices,
+  warnings, or dashboard announcements that sho

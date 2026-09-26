@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-07T10:36:43Z'
+  updated: '2026-09-24T06:59:33Z'
   stars: 0
   forks: 2
   open-issues: 5
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: TODO Describe the plugin shortly here.
 dependencies:
   mod_booking: 2025052100

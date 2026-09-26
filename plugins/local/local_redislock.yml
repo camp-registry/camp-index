@@ -13,5 +13,5 @@ metrics:
   forks: 18
   open-issues: 14
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: Provides a Moodle lock factory class for locking with Redis.

@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v5.2.1
     date: '2026-09-02T10:32:50Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 dependencies:
   auth_oidc: 2026042001

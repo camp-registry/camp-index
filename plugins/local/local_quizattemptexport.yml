@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: true
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: Automatically exports quiz attempts submitted by students into PDF files.
 dependencies:
   mod_quiz: 2020061500

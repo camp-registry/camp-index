@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: The local IOMAD report emails plugin provides information on scheduled and
   sent emails which use the IOMAD email templates.
 dependencies:

@@ -18,7 +18,7 @@ metrics:
   latest-release:
     tag: v5.2-r1
     date: '2026-06-17T11:27:56Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
   ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-local_pluginsfetcher/security
 labels:

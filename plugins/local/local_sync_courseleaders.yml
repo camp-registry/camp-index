@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-08T10:41:41Z'
+  updated: '2026-09-17T08:54:44Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 summary: Course leaders are enrolled on course pages (pagetype=course), but they might
   not be enrolled on the modules (pagetype=module) that relate to those courses.
 dependencies:

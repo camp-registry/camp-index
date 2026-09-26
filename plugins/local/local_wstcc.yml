@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Webservices para o sistema de TCC
 metrics:
-  updated: '2026-08-31T19:24:42Z'
+  updated: '2026-09-24T21:11:42Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-26'

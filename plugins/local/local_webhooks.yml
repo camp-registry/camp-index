@@ -9,7 +9,7 @@ releases: []
 summary: Webhooks allow applications to subscribe to Moodle events.
 license: GPL-3.0
 metrics:
-  updated: '2024-05-29T16:08:49Z'
+  updated: '2026-09-25T07:11:42Z'
   stars: 20
   forks: 21
   open-issues: 26
@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v3.0.3
     date: '2019-02-16T23:47:39Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
 dependencies:
   report_eventlist: 2016120500

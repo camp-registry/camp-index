@@ -37,5 +37,5 @@ metrics:
   latest-release:
     tag: v1.2.3
     date: '2026-08-07T18:36:09Z'
-  checked: '2026-09-10'
+  checked: '2026-09-26'
   ci: moodle-plugin-ci
