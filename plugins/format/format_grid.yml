@@ -5,7 +5,7 @@ security-contact: https://github.com/gjbarnard/camp-claim/security/advisories
 maintainers:
 - github: gjb2048
   name: Gareth Barnard
-tier: 1
+tier: 2
 labels:
 - fully-free
 - donation-supported
@@ -13,7 +13,17 @@ labels:
 org-claim: gjbarnard
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 500.1.1
+  tag: V500.1.1
+  commit: 35a8c11094563ad117479407752685c6be62f2a6
+  moodle-version: 2025040706
+  supported-moodle:
+  - '5.0'
+  zip-sha256: 10372a446fdc8e002d183d30e69ff2957731c3203ddc58a180bf8b0b76816991
+  listing-sha256: 399e90f0c1607bc48c6668cca6ca4e1e75de24b8d61d52df22a471704bdca92e
+  published: '2026-09-26T20:15:31Z'
+  released: '2026-09-26T20:12:25Z'
 license: GPL-3.0
 metrics:
   updated: '2025-09-15T12:43:51Z'
