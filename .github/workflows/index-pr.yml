@@ -216,10 +216,33 @@ jobs:
 
       - name: Verify releases against source
         run: |
-          if ! camp verify "$ENTRY"; then
-            echo "::notice::If a previously published release fails verification, it can be withdrawn by advisory. File a 'Release withdrawal or record correction' issue: https://github.com/camp-registry/camp-index/issues/new?template=release-correction.yml"
-            exit 1
+          set -o pipefail
+          if camp verify "$ENTRY" | tee /tmp/verify.out; then
+            exit 0
           fi
+          # Which failing versions are already on the base branch? Those
+          # are published records, withdrawn only by advisory (the
+          # release-correction form). Versions new in this PR were never
+          # published: nothing to withdraw, the PR just must not merge
+          # (camp-index#382).
+          python3 - /tmp/verify.out /tmp/base-entry.yml <<'PY'
+          import pathlib, sys, yaml
+          out, base = sys.argv[1], pathlib.Path(sys.argv[2])
+          failed = [l.split(None, 1)[1].strip() for l in open(out) if l.startswith("FAIL ")]
+          published = set()
+          if base.exists():
+              for r in (yaml.safe_load(base.read_text()) or {}).get("releases") or []:
+                  published.add(str(r.get("version")))
+          old = [v for v in failed if v in published]
+          new = [v for v in failed if v not in published]
+          if old:
+              print("::notice::Published release(s) failing verification: " + ", ".join(old)
+                    + ". A published record is withdrawn by advisory, not edited. File a 'Release withdrawal or record correction' issue: https://github.com/camp-registry/camp-index/issues/new?template=release-correction.yml")
+          if new:
+              print("::notice::Release(s) failing verification and not yet published: " + ", ".join(new)
+                    + ". Nothing to withdraw or correct. A tag is immutable, so this record cannot pass on a retry: fix the source, tag a new version, and publish that.")
+          PY
+          exit 1
 
       - name: Install ClamAV
         run: |
