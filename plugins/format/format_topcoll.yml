@@ -5,7 +5,7 @@ security-contact: https://github.com/gjbarnard/camp-claim/security/advisories
 maintainers:
 - github: gjb2048
   name: Gareth Barnard
-tier: 1
+tier: 2
 labels:
 - fully-free
 - donation-supported
@@ -13,7 +13,17 @@ labels:
 org-claim: gjbarnard
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: 502.1.0
+  tag: V502.1.0
+  commit: b4e22db57415d2af3b47959000c857e4f92e2dcf
+  moodle-version: 2026041601
+  supported-moodle:
+  - '5.2'
+  zip-sha256: 3b98adce4c3827df0fdb5c20e58337e08129617d54ef5a1a414360647242c148
+  listing-sha256: 42417804b298038daf0e531ea82d4e009453e76ca43df2ee9e79032d2b08c5c0
+  published: '2026-09-26T12:34:48Z'
+  released: '2026-09-26T12:33:13Z'
 summary: Collapsed Topics course format for Moodle.
 license: GPL-3.0
 metrics:
