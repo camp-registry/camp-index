@@ -50,6 +50,18 @@ releases:
   listing-sha256: 3fde2dc55fb3c5115c2a8fc1067257987d3ab02a8a6ce0fdacb0400cb164cb1e
   published: '2026-09-26T18:17:28Z'
   released: '2026-09-26T18:16:29Z'
+- version: 405.2.9
+  tag: V405.2.9
+  commit: 3073156f16d2205d6294231054fc0bfa76f71592
+  moodle-version: 2024100522
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    theme_boost: 2024100700
+  zip-sha256: bb6f70c67e8ab2d39b24cb471630e4537015977eb1e0a0810a8da1f4efd2e789
+  listing-sha256: 3fde2dc55fb3c5115c2a8fc1067257987d3ab02a8a6ce0fdacb0400cb164cb1e
+  published: '2026-09-26T18:28:18Z'
+  released: '2026-09-26T18:26:37Z'
 summary: Adaptable theme for Moodle
 license: GPL-3.0
 metrics:
