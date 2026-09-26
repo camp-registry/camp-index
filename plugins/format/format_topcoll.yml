@@ -44,6 +44,16 @@ releases:
   listing-sha256: 42417804b298038daf0e531ea82d4e009453e76ca43df2ee9e79032d2b08c5c0
   published: '2026-09-26T16:56:08Z'
   released: '2026-09-26T16:53:55Z'
+- version: 405.1.5
+  tag: V405.1.5
+  commit: 5f10de322b7d339e75bee0ce95ba21d18e839abd
+  moodle-version: 2024092209
+  supported-moodle:
+  - '4.5'
+  zip-sha256: 7c6ecbae8e18548e6e335037b83b174fbc05aee87f1eb7186bff8895f26c238c
+  listing-sha256: 42417804b298038daf0e531ea82d4e009453e76ca43df2ee9e79032d2b08c5c0
+  published: '2026-09-26T17:58:04Z'
+  released: '2026-09-26T17:56:46Z'
 summary: Collapsed Topics course format for Moodle.
 license: GPL-3.0
 metrics:
