@@ -1,0 +1,19 @@
+id: CAMP-2026-0007
+component: format_grid
+title: Defective release, withdrawn (not a security issue)
+severity: low
+affected-versions: =500.1.1
+fixed-in: 500.1.2
+revoke: true
+published: '2026-09-27T13:11:05Z'
+description: >
+  Not a vulnerability. The maintainer reports that the 500.1.1 release
+  shipped files that had been removed from the plugin and that break
+  its Behat tests (camp-index#392). The release record itself is
+  intact: the archived ZIP matches the recorded hash and the tag. The
+  version is withdrawn from installation channels at the maintainer's
+  request; 500.1.2, which removes those files
+  (amd/src/local/content/actions.js and its build output,
+  classes/output/courseformat/state/course.php) and is otherwise a
+  version bump, supersedes it. Sites on 500.1.1 should upgrade to
+  500.1.2.
