@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: modgroupassign is an early Moodle activity prototype for group assignments
   that combine group formation, group submission, peer/self evaluation, and teacher-controlled
   grade adjustment in one activity.

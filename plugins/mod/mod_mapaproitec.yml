@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: 0.0.1
     date: '2026-07-03T14:15:15Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 dependencies:
   local_suap: 20250605066

@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: The Moodle journal module for moodle 2.0+
 metrics:
-  updated: '2026-08-21T08:44:38Z'
+  updated: '2026-09-21T06:30:58Z'
   stars: 18
   forks: 49
   open-issues: 1
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-27'

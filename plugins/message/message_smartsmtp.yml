@@ -10,7 +10,7 @@ license: GPL-3.0
 summary: Message output processor that routes Moodle notifications through SmartSMTP-managed
   SMTP accounts.
 metrics:
-  updated: '2026-07-20T21:42:14Z'
+  updated: '2026-09-15T20:44:39Z'
   stars: 0
   forks: 0
   open-issues: 2
@@ -18,6 +18,6 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-07-20T21:42:14Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 dependencies:
   local_smartsmtp: 2026052500

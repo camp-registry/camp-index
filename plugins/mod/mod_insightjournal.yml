@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-08-10T05:14:32Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: Version 0.4.0-beta · July 2026 · Moodle 4.5+

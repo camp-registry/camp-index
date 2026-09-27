@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v0.3.7
     date: '2026-02-27T11:25:03Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: alfaview is an app based video conferencing system (https://alfaview.com).

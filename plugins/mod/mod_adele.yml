@@ -14,7 +14,7 @@ metrics:
   forks: 2
   open-issues: 15
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 dependencies:
   local_adele: 2026082902
   enrol_adele: 2026082903

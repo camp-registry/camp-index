@@ -72,11 +72,11 @@ summary: A Moodle plugin to send xAPI statements to an LRS using events in the M
 metrics:
   updated: '2026-08-07T18:54:56Z'
   stars: 82
-  forks: 93
+  forks: 94
   open-issues: 5
   archived: false
   latest-release:
     tag: v5.1.0
     date: '2026-07-21T03:32:28Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
   ci: moodle-plugin-ci

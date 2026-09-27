@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: Datalynx coursepage module
 dependencies:
   mod_datalynx: 2020040100

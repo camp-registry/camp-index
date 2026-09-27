@@ -10,11 +10,11 @@ summary: ':mushroom: Computer adaptive practice activity module for Moodle'
 license: GPL-3.0
 metrics:
   updated: '2026-09-07T06:00:36Z'
-  stars: 5
-  forks: 5
+  stars: 6
+  forks: 6
   open-issues: 14
   archived: false
   latest-release:
     tag: v5.2.2
     date: '2026-09-07T06:11:51Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'

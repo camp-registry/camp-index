@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-06-15T12:15:46Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: Moodle activity module that issues Certifier credentials (certificate/badge)
   when learners meet configured completion rules.

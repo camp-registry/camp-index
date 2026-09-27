@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: AI Proofing tool for Moodle classes to teach responsible student AI usage
 metrics:
-  updated: '2026-04-27T20:00:22Z'
+  updated: '2026-09-10T19:46:33Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-27'

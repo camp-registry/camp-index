@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: Lesson-based grading activity for Moodle with one aggregate Gradebook item
   and REST API support.
 metrics:
-  updated: '2026-07-27T19:52:03Z'
+  updated: '2026-09-25T21:39:15Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.2.0
-    date: '2026-07-27T19:52:03Z'
-  checked: '2026-09-10'
+    tag: v1.2.1
+    date: '2026-09-16T14:06:37Z'
+  checked: '2026-09-27'

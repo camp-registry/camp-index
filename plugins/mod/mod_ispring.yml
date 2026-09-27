@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2023-12-04T07:38:27Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: iSpring Moodle plugin

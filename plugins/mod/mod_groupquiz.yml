@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: mod_groupquiz is an activity plugin that allows a group of students to share
   a quiz attempt in real-time.
 metrics:
-  updated: '2026-09-01T15:39:48Z'
+  updated: '2026-09-23T16:48:39Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: '2026090100'
-    date: '2026-09-01T15:39:49Z'
-  checked: '2026-09-10'
+    tag: '2026092300'
+    date: '2026-09-23T16:48:36Z'
+  checked: '2026-09-27'

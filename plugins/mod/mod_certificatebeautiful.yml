@@ -12,14 +12,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-06T02:39:02Z'
+  updated: '2026-09-26T00:50:53Z'
   stars: 5
   forks: 3
   open-issues: 0
   archived: false
   latest-release:
-    tag: 3.2.9
-    date: '2026-08-12T17:35:16Z'
-  checked: '2026-09-10'
+    tag: 3.2.10
+    date: '2026-09-23T18:00:19Z'
+  checked: '2026-09-27'
   ci: moodle-plugin-ci
 summary: Visual editor for creating professional, fully customized certificates.

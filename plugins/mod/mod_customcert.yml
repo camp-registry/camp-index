@@ -10,9 +10,9 @@ summary: Enables the creation of dynamically generated certificates with complet
   customisation via the web browser.
 license: GPL-3.0
 metrics:
-  updated: '2026-09-10T08:31:41Z'
+  updated: '2026-09-25T15:54:06Z'
   stars: 111
   forks: 203
-  open-issues: 47
+  open-issues: 44
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-27'

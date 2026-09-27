@@ -9,12 +9,12 @@ releases: []
 summary: Official repository for GeoGebra (https://www.geogebra.org) module for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-06-23T06:40:10Z'
-  stars: 20
+  updated: '2026-09-22T10:08:12Z'
+  stars: 21
   forks: 20
-  open-issues: 21
+  open-issues: 20
   archived: false
   latest-release:
-    tag: v3.7.5
-    date: '2026-06-23T06:40:10Z'
-  checked: '2026-09-10'
+    tag: v3.7.6
+    date: '2026-09-22T10:08:12Z'
+  checked: '2026-09-27'

@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v1.5
     date: '2022-01-20T22:54:10Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: 'This plugin combines two existing sources:'
 dependencies:
   tiny_teamsmeeting: 2023120602

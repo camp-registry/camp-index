@@ -17,7 +17,7 @@ metrics:
   latest-release:
     tag: '2026073000'
     date: '2026-07-30T13:37:02Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 dependencies:
   block_panopto: 2022122000
   mod_lti: any

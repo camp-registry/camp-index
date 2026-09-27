@@ -135,13 +135,13 @@ releases:
 license: GPL-3.0
 summary: Poodll Mini Lesson
 metrics:
-  updated: '2026-09-07T06:06:20Z'
+  updated: '2026-09-25T11:06:31Z'
   stars: 4
-  forks: 8
+  forks: 9
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.1.53
-    date: '2026-09-07T06:06:20Z'
-  checked: '2026-09-10'
+    tag: v1.1.56
+    date: '2026-09-25T11:06:31Z'
+  checked: '2026-09-27'
   ci: moodle-plugin-ci

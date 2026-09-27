@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v1.10.0
     date: '2026-06-29T11:50:00Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: This plugin allows teachers to add exercises from the e-learning Platform
 dependencies:
   auth_mumie: 2026062900

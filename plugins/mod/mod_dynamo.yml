@@ -10,9 +10,9 @@ license: AGPL-3.0
 summary: Dynamo is a Moodle plug-in that followed Team Up. the aim of Dynamo it's
   to help and analyse peer review inside groups
 metrics:
-  updated: '2025-03-29T04:09:48Z'
+  updated: '2026-09-20T07:56:46Z'
   stars: 2
-  forks: 2
+  forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-27'

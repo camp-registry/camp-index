@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.1.0
     date: '2026-06-16T12:58:31Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
 summary: A Moodle activity module that lets teachers add a

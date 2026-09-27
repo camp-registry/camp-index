@@ -9,7 +9,7 @@ releases: []
 summary: The Adobe Connect / Moodle integration.
 license: GPL-3.0
 metrics:
-  updated: '2026-05-11T11:52:44Z'
+  updated: '2026-09-17T06:00:12Z'
   stars: 0
   forks: 0
   open-issues: 21
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: v4.5.10.1
     date: '2026-05-11T10:24:49Z'
-  checked: '2026-09-10'
+  checked: '2026-09-27'
