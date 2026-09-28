@@ -26,6 +26,18 @@ releases:
   listing-sha256: d6ab13b0344bcc2a58ad550920edcf4783716f39877bb634816590c8674884ca
   published: '2026-09-28T15:48:21Z'
   released: '2026-09-28T15:44:41Z'
+- version: 405.1.1
+  tag: V405.1.1
+  commit: 108cbd0f397c68acdfd4d958bb78daf595c234e8
+  moodle-version: 2024101703
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    theme_boost: 2024100700
+  zip-sha256: 6b9b39c2b0d907de927ce9437aeaecd6b547703ed1b0dba7c453fcee174ed387
+  listing-sha256: d6ab13b0344bcc2a58ad550920edcf4783716f39877bb634816590c8674884ca
+  published: '2026-09-28T17:42:52Z'
+  released: '2026-09-28T17:41:59Z'
 summary: Foundation theme for Moodle.
 license: GPL-3.0
 metrics:
