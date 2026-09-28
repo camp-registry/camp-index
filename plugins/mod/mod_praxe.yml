@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v2015081200
     date: '2015-08-14T09:25:05Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: This is a custom module for LMS Moodle developed by Tomas Jerabek

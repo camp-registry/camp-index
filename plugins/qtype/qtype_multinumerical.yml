@@ -10,11 +10,11 @@ license: GPL-3.0
 metrics:
   updated: '2026-01-29T13:47:19Z'
   stars: 1
-  forks: 5
-  open-issues: 6
+  forks: 6
+  open-issues: 7
   archived: false
   latest-release:
     tag: '2023010901'
     date: '2023-01-16T17:10:40Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: 'This question type allows asking questions such as :'

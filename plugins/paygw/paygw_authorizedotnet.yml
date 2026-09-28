@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v2026090100
     date: '2026-09-01T11:51:39Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: This is a payment gateway plugin to integrate Authorize.Net with Moodle,
   allowing users to pay for courses securely via credit/debit cards.

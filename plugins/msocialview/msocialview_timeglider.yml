@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: This sub-plugin adds to modsocial module the ability to show social events
   in a timeline.
 dependencies:

@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: final-release-3.x
     date: '2022-04-06T13:51:15Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: Drawing question type

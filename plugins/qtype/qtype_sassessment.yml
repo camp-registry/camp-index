@@ -1,5 +1,5 @@
 component: qtype_sassessment
-source: https://github.com/e-rasvet/moodle-qtype_sassessment4
+source: https://github.com/rapulse/moodle-qtype_sassessment4
 maintainers:
 - github: e-rasvet
 tier: 0
@@ -14,4 +14,4 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-28'

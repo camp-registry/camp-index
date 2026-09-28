@@ -10,10 +10,10 @@ license: GPL-3.0
 metrics:
   updated: '2026-05-12T06:49:49Z'
   stars: 0
-  forks: 1
-  open-issues: 1
+  forks: 2
+  open-issues: 4
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: 'Moodle plugin allowing the teacher to ask a chemistry related question in
   which the expected answer is a chemical reaction. The student will answer by drawing
   the response. The specificity of the plugin is that is allows for soft grading:

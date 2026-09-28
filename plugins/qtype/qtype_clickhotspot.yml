@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   qtype_gapselect: 2014010800
   qtype_ddimageortext: 2014010800

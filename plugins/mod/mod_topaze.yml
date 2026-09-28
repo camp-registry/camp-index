@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v3.9.0
     date: '2020-06-19T11:43:03Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: Les contenus Topaze respectent le standard SCORM Lite (cf http://scormlite.com).

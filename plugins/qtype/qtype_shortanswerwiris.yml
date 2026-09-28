@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v4.19.5
     date: '2026-09-02T08:40:43Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   qtype_wq: 2026090200

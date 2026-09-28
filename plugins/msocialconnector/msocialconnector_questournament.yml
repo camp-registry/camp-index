@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v1.1.1-prefactor
     date: '2022-10-25T16:55:17Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   mod_msocial: 2017081900
   mod_quest: 2014101500

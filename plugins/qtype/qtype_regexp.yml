@@ -17,7 +17,7 @@ metrics:
   latest-release:
     tag: v5.0.0
     date: '2025-05-02T21:02:13Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   qbehaviour_regexpadaptivewithhelp: 2024050200
   qbehaviour_regexpadaptivewithhelpnopenalty: 2024050200

@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 11
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: 'Travis integration: ![Build Status](https://travis-ci.org/catalyst/moodle-plagiarismodessa)'
 dependencies:
   local_aws: 2017030100

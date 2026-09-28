@@ -24,7 +24,7 @@ metrics:
   latest-release:
     tag: qbie_0.9
     date: '2020-06-19T20:33:45Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
   ci: moodle-plugin-ci
 dependencies:
   local_qbehaviour_interactiveexplain: any

@@ -10,14 +10,14 @@ license: GPL-3.0
 summary: GitHub Repository for qtype_geogebra
 metrics:
   updated: '2026-05-18T11:49:48Z'
-  stars: 8
+  stars: 9
   forks: 12
   open-issues: 31
   archived: false
   latest-release:
     tag: v1.13.4
     date: '2023-04-04T11:52:02Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   qtype_numerical: 2014051200
   qtype_calculated: 2014051200

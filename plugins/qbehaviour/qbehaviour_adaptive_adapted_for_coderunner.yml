@@ -10,8 +10,8 @@ license: GPL-3.0
 summary: The question behaviour required by the Moodle CodeRunner question type.
 metrics:
   updated: '2026-08-10T02:17:16Z'
-  stars: 7
-  forks: 13
-  open-issues: 1
+  stars: 9
+  forks: 16
+  open-issues: 2
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-28'

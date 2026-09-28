@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v1.1
     date: '2025-03-12T17:17:27Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   qbehaviour_guessit: 2025012600

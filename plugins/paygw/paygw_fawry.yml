@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.2.0
     date: '2024-12-18T13:22:31Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: 'Fawry Payment By reference code:'

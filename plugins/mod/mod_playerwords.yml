@@ -11,12 +11,12 @@ summary: PlayerWords is a word-guessing vocabulary activity for Moodle. Students
   a hidden word letter-by-letter within a configurable number of attempts, receiving
   colour-coded and symbol feedback on each guess.
 metrics:
-  updated: '2026-09-08T22:19:41Z'
+  updated: '2026-09-25T12:38:42Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.0.5
-    date: '2026-09-08T22:19:50Z'
-  checked: '2026-09-10'
+    tag: v1.0.6
+    date: '2026-09-25T12:38:50Z'
+  checked: '2026-09-28'

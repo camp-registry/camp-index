@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v1.1.1
     date: '2022-10-24T19:16:13Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   mod_msocial: 2017081900

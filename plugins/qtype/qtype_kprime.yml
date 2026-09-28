@@ -13,10 +13,10 @@ summary: A four option multiple true-false question type for moodle, as introduc
 metrics:
   updated: '2026-07-27T10:18:35Z'
   stars: 0
-  forks: 9
+  forks: 10
   open-issues: 4
   archived: false
   latest-release:
     tag: Final-Release-3.X
     date: '2022-04-06T13:48:05Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'

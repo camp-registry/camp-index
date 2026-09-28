@@ -9,7 +9,7 @@ releases: []
 summary: Moodle-Plugin
 license: GPL-3.0
 metrics:
-  updated: '2026-03-13T03:29:55Z'
+  updated: '2026-09-24T06:10:06Z'
   stars: 42
   forks: 41
   open-issues: 73
@@ -17,4 +17,4 @@ metrics:
   latest-release:
     tag: v5.5.0
     date: '2026-03-13T03:33:48Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'

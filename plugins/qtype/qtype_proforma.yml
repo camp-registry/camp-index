@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: 3.2.1
     date: '2026-05-26T06:44:03Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   qbehaviour_adaptiveexternalgrading: any

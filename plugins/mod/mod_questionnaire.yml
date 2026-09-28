@@ -37,12 +37,12 @@ summary: Questionnaire module for Moodle - Contributed module
 license: GPL-3.0
 metrics:
   updated: '2026-08-04T20:53:10Z'
-  stars: 91
-  forks: 205
-  open-issues: 211
+  stars: 92
+  forks: 206
+  open-issues: 213
   archived: false
   latest-release:
     tag: v5.0.1
     date: '2025-11-17T15:17:59Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
   ci: moodle-plugin-ci

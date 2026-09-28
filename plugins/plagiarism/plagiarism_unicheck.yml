@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v3.2.0
     date: '2021-05-14T14:01:32Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 dependencies:
   mod_assign: any

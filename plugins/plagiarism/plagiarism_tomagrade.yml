@@ -13,7 +13,7 @@ metrics:
   forks: 4
   open-issues: 9
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: Tomax’s Grading and feedback plugin shortens the grading process and provides
   students with better feedback.
 dependencies:

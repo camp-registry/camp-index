@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.4.15
     date: '2026-03-28T15:16:38Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: 'Plugin name: plagiarismedfast'

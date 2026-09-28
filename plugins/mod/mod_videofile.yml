@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v1.06
     date: '2015-06-11T16:34:56Z'
-  checked: '2026-09-10'
+  checked: '2026-09-28'
 summary: Videofile is a Moodle 2.4+ resource plugin intended to provide teachers

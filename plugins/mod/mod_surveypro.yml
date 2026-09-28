@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: The surveypro module per moodle
 metrics:
-  updated: '2026-09-10T10:40:23Z'
+  updated: '2026-09-17T04:39:59Z'
   stars: 13
   forks: 16
   open-issues: 3
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-28'
