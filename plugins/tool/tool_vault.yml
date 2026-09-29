@@ -42,6 +42,19 @@ releases:
   published: '2026-07-28T13:14:29Z'
   released: '2026-07-26T17:09:16Z'
   listing-sha256: f2a85e3ff1743dc92d56c69b9c519f95a8bac27d9575e813c987c882abdf1fcc
+- version: 4.5.3
+  tag: v4.5.3
+  commit: 52ef774fe76b5b98e47821863dd46296209824d1
+  moodle-version: 2026092900
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 4195679e109348866068871d33c76c91dde744061e574c94bb5f48af35329a7f
+  listing-sha256: f2a85e3ff1743dc92d56c69b9c519f95a8bac27d9575e813c987c882abdf1fcc
+  published: '2026-09-29T19:48:28Z'
+  released: '2026-09-29T19:16:23Z'
 license: GPL-3.0
 labels:
 - freemium
@@ -55,5 +68,6 @@ metrics:
   archived: false
   checked: '2026-09-10'
   ci: moodle-plugin-ci
-summary: Vault allows you to make a full backup of the site, push it to the cloud
-  and then restore on any Moodle site.
+summary: >-
+  Vault allows you to make a full backup of the site, push it to the cloud and
+  then restore on any Moodle site.
