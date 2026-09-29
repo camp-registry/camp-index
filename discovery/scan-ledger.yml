@@ -111735,6 +111735,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  mutms/moodle-auth_musaml:
+    outcome: written
+    detail: listed as auth_musaml
+    first-seen: '2026-09-29'
+    last-checked: '2026-09-29'
   mutms/moodle-block_mucertify_my:
     outcome: exists
     detail: component block_mucertify_my already registered (first-come, RFC §8)
