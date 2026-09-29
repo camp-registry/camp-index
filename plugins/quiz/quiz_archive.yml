@@ -60,7 +60,7 @@ metrics:
   latest-release:
     tag: v5.2-r1
     date: '2026-03-30T11:33:09Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
   ci: moodle-plugin-ci
 summary: moodle-quizarchive
 security-contact: https://github.com/bfh/moodle-quiz_archive/security

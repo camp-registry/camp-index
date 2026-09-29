@@ -11,10 +11,10 @@ summary: SEB Server 2.0 moodle plugin
 metrics:
   updated: '2026-08-06T15:05:23Z'
   stars: 4
-  forks: 6
+  forks: 7
   open-issues: 4
   archived: false
   latest-release:
     tag: MOODLE_405_2025011000
     date: '2025-01-29T09:11:50Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'

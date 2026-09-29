@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Quiz proctoring plugin for Moodle
 metrics:
-  updated: '2026-07-13T12:34:40Z'
+  updated: '2026-09-29T09:52:05Z'
   stars: 0
   forks: 3
-  open-issues: 4
+  open-issues: 5
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-29'

@@ -18,6 +18,6 @@ metrics:
   latest-release:
     tag: v1.0-alpha3
     date: '2024-04-17T13:05:58Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 dependencies:
   theme_boost: 2023042400

@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: final-release-3.x
     date: '2022-04-06T13:52:01Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 summary: The Wifiresilience accessrule is designed to allow students to continue work
   on deferred-feedback quiz attempts even if the network connection goes down. For
   this purpose Wifiresilience makes use of localstorage. Stored answers can be accessed,

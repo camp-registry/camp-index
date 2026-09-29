@@ -19,6 +19,6 @@ metrics:
   latest-release:
     tag: v5.1-r2
     date: '2026-07-22T20:35:52Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 dependencies:
   tool_opencast: 2025080100

@@ -11,13 +11,13 @@ summary: A custom theme used for the Moodle integration in Microsoft Teams. For 
   details, go to https://aka.ms/TeamsMoodle
 metrics:
   updated: '2026-09-02T12:06:04Z'
-  stars: 10
+  stars: 11
   forks: 17
   open-issues: 1
   archived: false
   latest-release:
     tag: v5.2.0
     date: '2026-07-07T09:46:52Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 dependencies:
   local_o365: 2026042000

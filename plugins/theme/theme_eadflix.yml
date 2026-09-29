@@ -12,15 +12,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-06T02:50:35Z'
+  updated: '2026-09-26T00:51:52Z'
   stars: 1
   forks: 0
-  open-issues: 2
+  open-issues: 3
   archived: false
   latest-release:
     tag: 9.6.2
     date: '2026-06-24T19:09:49Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
   ci: moodle-plugin-ci
 summary: Immersive streaming-inspired theme designed to showcase your courses.
 dependencies:

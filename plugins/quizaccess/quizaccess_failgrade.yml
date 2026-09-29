@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 summary: The purpose of this plugin is to restrict extra attempts on Quiz after the
   user reach a passing grade.

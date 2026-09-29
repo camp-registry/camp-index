@@ -15,7 +15,7 @@ releases: []
 license: GPL-3.0
 summary: Highlight words by clicking e.g. select all nouns in this sentence
 metrics:
-  updated: '2026-05-27T18:15:19Z'
+  updated: '2026-09-16T03:56:18Z'
   stars: 3
   forks: 19
   open-issues: 12
@@ -23,5 +23,5 @@ metrics:
   latest-release:
     tag: v2.56
     date: '2026-04-18T10:40:28Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
   ci: moodle-plugin-ci

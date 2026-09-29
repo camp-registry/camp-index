@@ -48,7 +48,7 @@ metrics:
   latest-release:
     tag: v5.2-r2
     date: '2026-07-25T13:47:15Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
   ci: moodle-plugin-ci
 summary: Moodle quiz access plugin to allow for easy configuration of CAMPLA exams.
 security-contact: https://github.com/lucaboesch/moodle-quizaccess_campla/security/advisories/new

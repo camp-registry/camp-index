@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v1.5.2-Quiz_Access_Proctor
     date: '2025-08-28T10:22:23Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 summary: This plugin is developed by the team at Talview Inc and implements quiz-level
   configurations for launching Proview (
 dependencies:

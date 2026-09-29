@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2024-11-17T19:32:22Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 dependencies:
   enrol_cart: any

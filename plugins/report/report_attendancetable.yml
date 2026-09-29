@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v1.1.1.1
     date: '2023-05-11T08:46:01Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 summary: Report Attendance Table
 dependencies:
   mod_attendance: 2021050702

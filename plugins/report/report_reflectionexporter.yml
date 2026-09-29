@@ -13,7 +13,7 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 summary: This plugin allows teachers to automatically export students assessments
   text into a PDF provided by IB Diploma Programme. Teachers can also add comments,
   that will be inserted in correct section of the PDF.

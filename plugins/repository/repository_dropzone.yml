@@ -17,6 +17,6 @@ metrics:
   latest-release:
     tag: '2026072800'
     date: '2026-07-28T18:55:46Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 dependencies:
   repository_upload: 2022041900

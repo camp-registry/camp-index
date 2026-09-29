@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: 1.0.5
     date: '2026-08-27T14:14:28Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 summary: The Student Life Story AI plugin consolidates, in a single view, the entire
   academic trajectory of each student within Moodle. It analyzes their grades, participation,
   and progress across all enrolled courses, providing a comprehensive overview of

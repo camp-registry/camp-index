@@ -17,7 +17,7 @@ metrics:
   latest-release:
     tag: 0.9.0-1.2.4
     date: '2025-02-11T20:47:48Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 dependencies:
   block_configurable_reports: 2020110300
   enrol_programs: 2023051504

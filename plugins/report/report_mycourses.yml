@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v3.104
     date: '2021-02-11T04:17:14Z'
-  checked: '2026-09-10'
+  checked: '2026-09-29'
 summary: modernlms-mycourses
