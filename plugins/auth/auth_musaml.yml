@@ -1,12 +1,13 @@
 component: auth_musaml
 source: https://github.com/mutms/moodle-auth_musaml
+source-repo-id: 1394550152
 security-contact: https://github.com/mutms/moodle-auth_musaml/security
 maintainers:
-  - github: mutms
-  - github: skodak
+- github: mutms
+- github: skodak
 tier: 1
 labels:
-  - fully-free
+- fully-free
 status: active
 discovered: '2026-09-29'
 releases: []
