@@ -2345,6 +2345,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-05'
     component: availability_relativedate
+    resolution:
+      verdict: copy-of-listed
+      ref: https://github.com/camp-registry/camp-index/pull/401
+      decided: '2026-09-30'
   AdrianoRuseler/moodle-local-plugins:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -30508,6 +30512,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-05'
     component: availability_coursecompleted
+    resolution:
+      verdict: copy-of-listed
+      ref: https://github.com/camp-registry/camp-index/pull/401
+      decided: '2026-09-30'
   ProjetoSophiaDev/moodle-availability_relativedate:
     outcome: name-collision
     detail: independent repository declaring availability_relativedate, held by https://github.com/ewallah/moodle-availability_relativedate;
@@ -30515,6 +30523,10 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-24'
     component: availability_relativedate
+    resolution:
+      verdict: copy-of-listed
+      ref: https://github.com/camp-registry/camp-index/pull/401
+      decided: '2026-09-30'
   ProjetoSophiaDev/moodle-mod_choicegroup:
     outcome: name-collision
     detail: independent repository declaring mod_choicegroup, held by https://github.com/ndunand/moodle-mod_choicegroup;

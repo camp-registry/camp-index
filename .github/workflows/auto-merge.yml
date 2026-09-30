@@ -19,8 +19,9 @@
 # Proof of repository control is the authorship match: the PR author
 # IS the owner of the user-owned source repository, or a public
 # member of the owning organization. Claims that fail the match, or
-# whose component carries a name-collision record in the scan
-# ledger, or whose security-contact URL points outside the entry's
+# whose component carries an unresolved name-collision record in the
+# scan ledger (a verdict recorded with `camp resolve-collision` clears
+# it, camp-tools#57), or whose security-contact URL points outside the entry's
 # own source repository, fall through to the human path (the
 # runbooks' judgment residue: org repos with private membership,
 # collisions, repoints inside claims, off-repo contact URLs).
