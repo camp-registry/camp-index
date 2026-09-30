@@ -19,7 +19,7 @@ metrics:
   forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
   ci: moodle-plugin-ci
 summary: This plugin is a fork of the localaiconnector plugin https://github.com/enovation/moodle-localaiconnector
   created by Irish Moodle partner Ennovation. For custom development and consultancy

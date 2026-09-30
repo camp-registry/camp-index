@@ -10,11 +10,11 @@ license: GPL-3.0
 summary: Create, insert and share widget components easily in TinyMCE editor.
 metrics:
   updated: '2026-08-25T09:57:53Z'
-  stars: 3
+  stars: 4
   forks: 1
   open-issues: 2
   archived: false
   latest-release:
     tag: v1.5.3
     date: '2026-08-25T09:57:53Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'

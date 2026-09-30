@@ -10,12 +10,12 @@ license: GPL-3.0
 summary: This is a fork of tiny_c4l (https://github.com/reskit/moodle-tiny_c4l) which
   allows you to easily set up your custom components
 metrics:
-  updated: '2026-09-03T12:20:25Z'
+  updated: '2026-09-23T04:36:35Z'
   stars: 3
-  forks: 5
-  open-issues: 30
+  forks: 6
+  open-issues: 31
   archived: false
   latest-release:
     tag: v1.0.1
     date: '2025-10-04T13:59:43Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'

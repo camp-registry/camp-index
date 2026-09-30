@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.0.4
     date: '2024-02-25T08:26:08Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Instantly create step-by-step tutorials. No uploads. No screenshot editing.
   See how it works.

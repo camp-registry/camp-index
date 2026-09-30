@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: IFRN Moodle Theme SUAP
 metrics:
-  updated: '2026-09-01T23:13:07Z'
+  updated: '2026-09-26T16:38:17Z'
   stars: 1
   forks: 0
   open-issues: 1
   archived: false
   latest-release:
-    tag: 4.5.32
-    date: '2026-06-30T19:43:14Z'
-  checked: '2026-09-10'
+    tag: 4.5.34
+    date: '2026-09-26T16:38:17Z'
+  checked: '2026-09-30'

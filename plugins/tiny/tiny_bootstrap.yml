@@ -9,12 +9,12 @@ releases: []
 license: GPL-3.0
 summary: tbd
 metrics:
-  updated: '2026-06-09T03:37:30Z'
-  stars: 0
+  updated: '2026-09-28T22:09:09Z'
+  stars: 2
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.3.1
-    date: '2026-06-08T09:41:31Z'
-  checked: '2026-09-10'
+    tag: v1.4.13
+    date: '2026-09-28T22:09:10Z'
+  checked: '2026-09-30'

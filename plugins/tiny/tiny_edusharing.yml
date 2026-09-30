@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-07T07:24:59Z'
+  updated: '2026-09-18T13:42:36Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: The edu-sharing tiny editor plugin is used to add edu-sharing content when
   using tiny.
 dependencies:

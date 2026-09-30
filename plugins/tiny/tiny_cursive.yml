@@ -11,12 +11,12 @@ summary: The Cursive plugin for Moodle extends TinyMCE to create a new layer of 
   (key event logs) which can be used in many ways (feedback, scoring, authentication)
   and can be connected to Cursive's ML server.
 metrics:
-  updated: '2026-09-09T07:22:37Z'
+  updated: '2026-09-24T19:12:27Z'
   stars: 7
   forks: 6
   open-issues: 2
   archived: false
   latest-release:
-    tag: v3.0.0
-    date: '2026-09-01T07:19:44Z'
-  checked: '2026-09-10'
+    tag: v3.0.1
+    date: '2026-09-14T07:29:58Z'
+  checked: '2026-09-30'

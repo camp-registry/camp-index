@@ -11,11 +11,11 @@ metrics:
   updated: '2026-09-02T11:52:25Z'
   stars: 2
   forks: 8
-  open-issues: 2
+  open-issues: 3
   archived: false
   latest-release:
     tag: v5.2.1
     date: '2026-09-02T10:33:41Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Microsoft Meetings application integrated into Tiny editor plugin which allows
   to create meeting and automatically add meeting link into Tiny editor field content.

@@ -8,12 +8,12 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-04T20:31:55Z'
+  updated: '2026-09-15T19:34:38Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Modern, accessible Moodle theme based on Boost.
 dependencies:
   theme_boost: any

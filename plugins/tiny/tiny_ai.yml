@@ -16,7 +16,7 @@ metrics:
   latest-release:
     tag: v3.0
     date: '2026-05-05T13:09:25Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: TODO Describe the plugin shortly here.
 dependencies:
   local_ai_manager: 2026050500

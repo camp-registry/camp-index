@@ -10,12 +10,12 @@ license: GPL-3.0
 metrics:
   updated: '2026-01-27T02:04:24Z'
   stars: 0
-  forks: 0
-  open-issues: 1
+  forks: 1
+  open-issues: 3
   archived: false
   latest-release:
     tag: v1.1
     date: '2026-01-27T02:04:24Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: A TinyMCE editor plugin for Moodle that remembers the height of each editor
   instance between page loads using IndexedDB.

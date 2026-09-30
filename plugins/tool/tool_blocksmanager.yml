@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: '2023050400'
     date: '2023-05-06T03:04:26Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: An admin tool that allows you to control a block layout across units.

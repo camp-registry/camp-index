@@ -11,8 +11,8 @@ metrics:
   updated: '2026-09-08T08:49:03Z'
   stars: 1
   forks: 1
-  open-issues: 4
+  open-issues: 5
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Plugin used to check and resolve any incomplete coursedeletemodule adhoc
   tasks.

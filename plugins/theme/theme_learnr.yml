@@ -10,10 +10,10 @@ license: GPL-3.0
 metrics:
   updated: '2024-02-13T21:00:58Z'
   stars: 12
-  forks: 13
+  forks: 14
   open-issues: 7
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: moodle-themelearnr
 dependencies:
   theme_boost_union: 2023010543

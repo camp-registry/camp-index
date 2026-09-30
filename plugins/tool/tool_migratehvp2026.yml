@@ -14,7 +14,7 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 dependencies:
   mod_h5pactivity: 2024100700
   mod_hvp: 2020020500

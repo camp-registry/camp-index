@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v1.2.0
     date: '2026-05-06T08:02:47Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Note this is an unofficial Mediasite plugin. The supported integration is
   using LTI.

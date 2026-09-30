@@ -10,11 +10,11 @@ license: GPL-3.0
 summary: Moodle admin tool plugin for MoodiyCloud mobile app provisioning and Airnotifier
   settings.
 metrics:
-  updated: '2026-07-18T05:22:31Z'
+  updated: '2026-09-19T05:19:59Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 dependencies:
   tool_moodiyregistration: 2025062300

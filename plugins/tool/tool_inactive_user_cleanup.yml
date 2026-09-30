@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v2026090300
     date: '2026-09-03T08:28:29Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: 1. Go to Site administration > Plugins > Install plugins and upload or drag
   & drop the downloaded ZIP file.

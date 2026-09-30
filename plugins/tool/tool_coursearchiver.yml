@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v2026050700
     date: '2026-05-07T16:25:52Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: This tool is used to search for courses, notify the course owners, and mass
   hide or archive (backup and remove) courses.

@@ -19,7 +19,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: A utility plugin that provides a unified interface for making LLM requests
   across multiple Moodle AI backends. Other plugins (such as qtypeaitext) can use
   this bridge to send prompts to whichever AI backend is configured, without needing

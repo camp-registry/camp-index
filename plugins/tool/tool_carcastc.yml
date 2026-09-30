@@ -16,5 +16,5 @@ metrics:
   latest-release:
     tag: v2.6.1
     date: '2021-08-10T12:54:29Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Plugin toolcarcastc

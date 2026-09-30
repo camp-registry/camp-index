@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T12:00:49Z'
+  updated: '2026-09-28T00:30:34Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Imports Canvas LMS course exports (IMS Common Cartridge .imscc) into Moodle.

@@ -1,5 +1,5 @@
 component: tool_modedit
-source: https://github.com/sharpchi/moodle-tool_modedit
+source: https://github.com/sharpprojects/moodle-tool_modedit
 maintainers:
 - github: sharpchi
 tier: 0
@@ -18,4 +18,4 @@ metrics:
   latest-release:
     tag: v1.2
     date: '2025-08-15T08:02:03Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'

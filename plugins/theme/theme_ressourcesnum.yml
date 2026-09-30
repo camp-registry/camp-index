@@ -13,7 +13,7 @@ metrics:
   forks: 3
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Ressource Numeriques Boost Based theme
 dependencies:
   theme_boost: any

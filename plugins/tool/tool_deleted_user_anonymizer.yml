@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: v4.5.2
     date: '2026-08-10T13:37:26Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: Anonymization of user data after deletion is a "tool plugin" that anonymizes
   deleted users in Moodle.

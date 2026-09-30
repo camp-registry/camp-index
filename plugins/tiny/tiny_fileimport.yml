@@ -16,6 +16,6 @@ metrics:
   latest-release:
     tag: 1.1.0
     date: '2026-07-21T11:35:45Z'
-  checked: '2026-09-10'
+  checked: '2026-09-30'
 summary: A custom TinyMCE plugin for Moodle that adds a File import item to the Insert
   menu.
