@@ -1,8 +1,11 @@
 component: availability_coursecompleted
 source: https://github.com/ewallah/moodle-availability_coursecompleted
+security-contact: https://github.com/ewallah/moodle-availability_coursecompleted/security/advisories/new
 maintainers:
 - github: ewallah
 tier: 1
+labels:
+- fully-free
 status: active
 discovered: '2026-07-10'
 releases: []
