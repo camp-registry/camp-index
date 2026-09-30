@@ -30,6 +30,19 @@ releases:
   listing-sha256: c79c4ed5fccdd226950bbc241c425e51c0fbf292f070932e7516b10055ac0c85
   published: '2026-09-21T14:41:57Z'
   released: '2026-09-21T14:39:05Z'
+- version: v0.6.0
+  tag: v0.6.0
+  commit: 9d1660da1a7b8990161e2aa86cab82d83360ddfc
+  moodle-version: 2026093000
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 23cd7b3240eb6263cdc5c2bd2756f620b000328023c0ad91188e5c5b845abaa2
+  listing-sha256: c79c4ed5fccdd226950bbc241c425e51c0fbf292f070932e7516b10055ac0c85
+  published: '2026-09-30T18:40:52Z'
+  released: '2026-09-30T18:29:51Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-22T01:12:38Z'
@@ -42,6 +55,8 @@ metrics:
     date: '2026-09-21T14:41:38Z'
   checked: '2026-09-23'
   ci: moodle-plugin-ci
-summary: H5P Themer is a Moodle local plugin that allows administrators to centrally
-  customize the visual themes (colors) and density of H5P content, supporting both
-  the traditional modhvp plugin and the Moodle Core H5P system (coreh5p / modh5pactivity).
+summary: >-
+  H5P Themer is a Moodle local plugin that allows administrators to centrally
+  customize the visual themes (colors) and density of H5P content, supporting
+  both the traditional modhvp plugin and the Moodle Core H5P system (coreh5p /
+  modh5pactivity).
