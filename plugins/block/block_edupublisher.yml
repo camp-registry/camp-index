@@ -16,7 +16,10 @@ metrics:
   forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-09-11'
+  latest-tag:
+    tag: staging-20260820204502
+    date: '2026-08-20T00:24:24Z'
+  checked: '2026-10-01'
 dependencies:
   block_enrolcode: 2021111801
   block_exacomp: 2020091000

@@ -17,4 +17,7 @@ metrics:
   latest-release:
     tag: Moodle3.x
     date: '2016-03-02T18:41:48Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: Moodle3.x
+    date: '2015-06-18T02:19:09Z'
+  checked: '2026-10-01'

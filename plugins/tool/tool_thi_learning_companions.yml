@@ -18,6 +18,9 @@ metrics:
   latest-release:
     tag: 1.1.2rc
     date: '2025-02-26T14:30:05Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: 1.1.2rc
+    date: '2024-06-13T09:30:51Z'
+  checked: '2026-10-01'
 dependencies:
   local_thi_learning_companions: 2022102501

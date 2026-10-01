@@ -14,6 +14,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-12'
+  latest-tag:
+    tag: 4.5.0000
+    date: '2025-04-30T09:03:06Z'
+  checked: '2026-10-01'
 dependencies:
   enrol_trainingcredits: any

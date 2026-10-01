@@ -14,13 +14,16 @@ license: GPL-3.0
 metrics:
   updated: '2026-07-27T15:47:41Z'
   stars: 10
-  forks: 5
-  open-issues: 1
+  forks: 6
+  open-issues: 4
   archived: false
   latest-release:
     tag: v2.4.0
     date: '2026-07-26T14:57:34Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: v2.4.0
+    date: '2026-07-26T14:50:59Z'
+  checked: '2026-10-01'
   ci: moodle-plugin-ci
 security-contact: https://github.com/ngandrass/moodle-tool_userautodelete/security
 labels:

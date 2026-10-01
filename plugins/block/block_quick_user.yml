@@ -17,4 +17,7 @@ metrics:
   latest-release:
     tag: '5.0'
     date: '2025-05-02T17:39:41Z'
-  checked: '2026-09-12'
+  latest-tag:
+    tag: '5.0'
+    date: '2025-05-02T17:31:01Z'
+  checked: '2026-10-01'

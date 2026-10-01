@@ -14,6 +14,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-11'
+  latest-tag:
+    tag: v1.0-alpha26
+    date: '2026-08-04T08:31:29Z'
+  checked: '2026-10-01'
 dependencies:
   local_nmstream: 2025052309

@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-09-11'
+  latest-tag:
+    tag: v0.5.1
+    date: '2026-07-04T18:44:40Z'
+  checked: '2026-10-01'
 summary: Moodle block that shows a learner's training advancement as a set of

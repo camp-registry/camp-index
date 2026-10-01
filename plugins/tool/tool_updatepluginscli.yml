@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: 1.0.4
     date: '2025-12-30T08:38:24Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: 1.0.4
+    date: '2025-12-30T08:36:48Z'
+  checked: '2026-10-01'
 summary: CLI scripts to fetch and download plugins from Moodle plugin database.

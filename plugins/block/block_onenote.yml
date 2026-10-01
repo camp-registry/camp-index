@@ -17,6 +17,9 @@ metrics:
   latest-release:
     tag: v30.0.0.3
     date: '2016-07-26T17:29:34Z'
-  checked: '2026-09-12'
+  latest-tag:
+    tag: v30.0.0.3
+    date: '2016-07-22T17:04:01Z'
+  checked: '2026-10-01'
 dependencies:
   local_onenote: 2016062000

@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: The Filtered Course List Moodle block displays a configurable list of courses.
 metrics:
-  updated: '2026-07-15T16:42:36Z'
+  updated: '2026-09-30T17:59:26Z'
   stars: 8
   forks: 10
-  open-issues: 24
+  open-issues: 25
   archived: false
-  checked: '2026-09-11'
+  latest-tag:
+    tag: v5.2.0
+    date: '2026-07-15T16:35:43Z'
+  checked: '2026-10-01'

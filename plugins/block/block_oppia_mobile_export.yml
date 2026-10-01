@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v1.4.10
     date: '2024-08-28T12:33:15Z'
-  checked: '2026-09-12'
+  latest-tag:
+    tag: v1.4.10
+    date: '2024-08-28T12:25:38Z'
+  checked: '2026-10-01'
 summary: moodle-blockoppiamobileexport

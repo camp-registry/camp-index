@@ -8,11 +8,11 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-02-23T18:47:24Z'
+  updated: '2026-09-10T19:51:14Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-10-01'
 summary: A Moodle admin tool to bulk update course start dates based on semester designation,
   with optional category scoping.

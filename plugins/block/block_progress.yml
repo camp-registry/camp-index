@@ -10,8 +10,11 @@ license: GPL-3.0
 summary: A time management tool for you and your students
 metrics:
   updated: '2023-11-13T22:55:12Z'
-  stars: 22
-  forks: 53
+  stars: 23
+  forks: 54
   open-issues: 4
   archived: false
-  checked: '2026-09-12'
+  latest-tag:
+    tag: '2016081800'
+    date: '2016-08-18T10:57:29Z'
+  checked: '2026-10-01'

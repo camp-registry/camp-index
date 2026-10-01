@@ -13,6 +13,9 @@ metrics:
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-09-12'
+  latest-tag:
+    tag: MR-5.1
+    date: '2026-06-09T20:27:20Z'
+  checked: '2026-10-01'
 summary: The Profile Redirect block allows your institution to automatically redirect
   a user from

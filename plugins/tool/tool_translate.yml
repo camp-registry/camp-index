@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Translate Moodle courses
 metrics:
-  updated: '2026-08-20T09:15:32Z'
+  updated: '2026-09-23T07:24:11Z'
   stars: 1
   forks: 3
   open-issues: 2
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-10-01'

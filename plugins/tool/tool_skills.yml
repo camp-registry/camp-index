@@ -9,12 +9,15 @@ releases: []
 summary: Skills for Moodle
 license: GPL-3.0
 metrics:
-  updated: '2026-07-22T06:24:34Z'
+  updated: '2026-09-24T07:28:52Z'
   stars: 3
   forks: 4
-  open-issues: 1
+  open-issues: 2
   archived: false
   latest-release:
     tag: v1.2-r4
     date: '2026-07-22T06:24:34Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: v1.2-r4
+    date: '2026-07-22T06:23:56Z'
+  checked: '2026-10-01'

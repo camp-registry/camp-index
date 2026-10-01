@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-12'
+  latest-tag:
+    tag: v0.2.4-beta
+    date: '2021-03-06T17:56:16Z'
+  checked: '2026-10-01'
 summary: The plugin enables businesses or organizations to quickly set up an internal
   wiki for their digital tools and sources of information.

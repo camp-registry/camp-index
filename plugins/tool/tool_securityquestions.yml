@@ -10,7 +10,7 @@ license: GPL-3.0
 summary: Allow users to enter security question for more secure self-service password
   recovery
 metrics:
-  updated: '2026-09-08T08:02:11Z'
+  updated: '2026-09-28T06:11:12Z'
   stars: 2
   forks: 3
   open-issues: 10
@@ -18,4 +18,7 @@ metrics:
   latest-release:
     tag: '2020022600'
     date: '2020-02-26T03:23:24Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: '2020022600'
+    date: '2020-02-26T03:18:49Z'
+  checked: '2026-10-01'

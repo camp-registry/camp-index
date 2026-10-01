@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: ':100: Anonyme Lehrevaluation mit EvaSys und Moodle'
 metrics:
-  updated: '2026-04-29T09:53:13Z'
+  updated: '2026-09-29T09:14:35Z'
   stars: 0
   forks: 3
   open-issues: 18
   archived: false
-  checked: '2026-09-11'
+  checked: '2026-10-01'

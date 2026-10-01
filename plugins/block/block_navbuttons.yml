@@ -9,7 +9,7 @@ releases: []
 summary: Adds navigation buttons to the bottom of each activity page in Moodle (1.9/2.0+)
 license: GPL-3.0
 metrics:
-  updated: '2026-04-24T15:00:52Z'
+  updated: '2026-09-28T07:40:18Z'
   stars: 10
   forks: 13
   open-issues: 3
@@ -17,4 +17,7 @@ metrics:
   latest-release:
     tag: 4.1.0.3
     date: '2026-04-24T15:00:52Z'
-  checked: '2026-09-12'
+  latest-tag:
+    tag: 4.1.2.0
+    date: '2026-09-28T07:38:24Z'
+  checked: '2026-10-01'

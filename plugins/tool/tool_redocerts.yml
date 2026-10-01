@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  checked: '2026-10-01'
 summary: The IOMAD redo certifications plugin allows users to re-generate the stored
   certificates for users which are held as part of the IOMAD reporting data.
 dependencies:

@@ -19,4 +19,7 @@ metrics:
   latest-release:
     tag: moodle-webservice_restjson-0.4
     date: '2016-02-19T10:25:45Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: moodle-webservice_restjson-0.4
+    date: '2016-02-19T10:25:12Z'
+  checked: '2026-10-01'

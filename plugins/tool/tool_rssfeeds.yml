@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A Moodle administrative tool which displays all RSS feeds on a site.
 metrics:
-  updated: '2026-07-15T18:48:02Z'
+  updated: '2026-09-30T15:05:28Z'
   stars: 4
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  latest-tag:
+    tag: v4.5.0
+    date: '2026-07-15T18:47:36Z'
+  checked: '2026-10-01'

@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v2.7.1
     date: '2021-08-18T08:56:36Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: v2.7.1
+    date: '2021-08-18T08:06:42Z'
+  checked: '2026-10-01'
 summary: This is my first plugin created during the Moodle induction process.

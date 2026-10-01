@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: A tool for scheduling the locking of grades in a course gradebook.
 metrics:
-  updated: '2026-08-04T03:44:10Z'
+  updated: '2026-09-27T03:16:33Z'
   stars: 1
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-10'
+  latest-tag:
+    tag: v0.1.1
+    date: '2026-09-27T02:15:38Z'
+  checked: '2026-10-01'

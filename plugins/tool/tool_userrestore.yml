@@ -18,6 +18,9 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-09-10'
+  latest-tag:
+    tag: 4.0.0
+    date: '2025-12-09T15:10:19Z'
+  checked: '2026-10-01'
 summary: The Sebsoft User Restore Plugin offers you the possibility to restore user
   accounts

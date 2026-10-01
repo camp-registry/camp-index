@@ -18,6 +18,9 @@ metrics:
   latest-release:
     tag: v2.1.1
     date: '2021-12-25T11:31:00Z'
-  checked: '2026-09-11'
+  latest-tag:
+    tag: staging-20260820204502
+    date: '2026-08-19T23:42:27Z'
+  checked: '2026-10-01'
 dependencies:
   block_enrolcode: 2021111801

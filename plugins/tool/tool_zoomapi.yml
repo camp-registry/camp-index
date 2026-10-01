@@ -21,5 +21,8 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-07-30T19:24:42Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: v1.0.0
+    date: '2026-07-30T19:22:08Z'
+  checked: '2026-10-01'
   ci: moodle-plugin-ci

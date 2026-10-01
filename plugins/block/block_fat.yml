@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: '2023091100'
     date: '2023-09-12T03:50:45Z'
-  checked: '2026-09-11'
+  latest-tag:
+    tag: '2023091100'
+    date: '2023-09-12T03:50:00Z'
+  checked: '2026-10-01'
 summary: A block used to add a header to courses

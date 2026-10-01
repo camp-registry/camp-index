@@ -19,4 +19,7 @@ metrics:
   latest-release:
     tag: V1.3
     date: '2021-05-26T07:50:55Z'
-  checked: '2026-09-10'
+  latest-tag:
+    tag: V1.3
+    date: '2021-05-26T07:44:23Z'
+  checked: '2026-10-01'

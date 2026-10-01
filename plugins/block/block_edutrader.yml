@@ -19,6 +19,9 @@ metrics:
   latest-release:
     tag: v1.1
     date: '2021-06-23T16:28:29Z'
-  checked: '2026-09-11'
+  latest-tag:
+    tag: v1.1
+    date: '2021-06-23T16:28:15Z'
+  checked: '2026-10-01'
 dependencies:
   block_xp: 2019112000

@@ -9,12 +9,15 @@ releases: []
 license: AGPL-3.0
 summary: Moodle Block Plugin for Sharing User Specific Information (e.g. Passwords)
 metrics:
-  updated: '2026-04-07T22:46:59Z'
+  updated: '2026-09-28T06:10:06Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: V1.0.6
-    date: '2026-04-07T22:46:59Z'
-  checked: '2026-09-12'
+    tag: V1.0.7
+    date: '2026-09-28T06:10:06Z'
+  latest-tag:
+    tag: V1.0.7
+    date: '2026-09-28T06:04:01Z'
+  checked: '2026-10-01'
