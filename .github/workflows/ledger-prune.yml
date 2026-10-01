@@ -1,0 +1,66 @@
+# Nightly scan-ledger prune (rolling): probes the 1,500 records with the
+# oldest probe stamp and drops the ones whose repository is gone (404)
+# or renamed (the API answers under another name; the monthly sweep
+# evaluates the new name on its own). Written records are the index's
+# business (enrich tracks those sources) and opted-out markers are
+# standing requests, so both are skipped. Full ledger turnover: about
+# three weeks at 29,000 records (camp-tools#61, camp-index#21).
+
+name: Ledger prune
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Records probed this run (oldest probe first)"
+        default: "1500"
+  schedule:
+    - cron: "31 1 * * *"   # before enrich (03:47) and the daily publish
+
+permissions:
+  contents: read           # pushes use the app token, not GITHUB_TOKEN
+
+jobs:
+  prune:
+    # Runs only in the canonical repository: a fork with Actions enabled
+    # would otherwise run this on schedule.
+    if: github.repository == 'camp-registry/camp-index'
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Mint app token
+        id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ vars.AUTOMATION_APP_ID }}
+          private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v7
+        with:
+          token: ${{ steps.app.outputs.token }}
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.73"
+
+      - name: Probe the stalest ledger records
+        env:
+          GITHUB_TOKEN: ${{ steps.app.outputs.token }}
+          LIMIT: ${{ inputs.limit || '1500' }}
+        run: camp ledger-prune . --limit "$LIMIT"
+
+      - name: Push the pruned ledger
+        run: |
+          if git diff --quiet -- discovery/scan-ledger.yml; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "camp project"
+          git config user.email "noreply@camp-registry.org"
+          git add discovery/scan-ledger.yml
+          git commit -m "ledger prune (scheduled)"
+          # replay on top of whatever landed on main meanwhile (camp-index#406)
+          git pull --rebase origin main
+          git push origin main
