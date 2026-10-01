@@ -1,0 +1,17 @@
+component: block_ekg
+source: https://github.com/vaughany/moodle-block_enrolment_key_generator
+maintainers:
+- github: vaughany
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: A block which creates random enrolment keys for Moodle administrators
+metrics:
+  updated: '2012-07-02T15:22:44Z'
+  stars: 1
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

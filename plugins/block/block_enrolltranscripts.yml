@@ -1,0 +1,18 @@
+component: block_enrolltranscripts
+source: https://github.com/cvnniranjanreddy/moodle-block_enrolltranscript
+maintainers:
+- github: cvnniranjanreddy
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_certificate: 2012121302
+metrics:
+  updated: '2016-10-25T18:11:47Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-10-01'
