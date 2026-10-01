@@ -34,6 +34,18 @@ releases:
   published: '2026-07-28T13:17:13Z'
   released: '2026-07-26T19:24:29Z'
   listing-sha256: ea7386fed5aec6c09b003b74201a9da6a4ce32be92b5c9c83450302edefddb35
+- version: 5.0.5
+  tag: v5.0.5
+  commit: 2f1cfc2d5be41ace608c8131bf3b8d614a385ebd
+  moodle-version: 2026100100
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: c95a19f1eeeff6dc88741bd758313fdc5ea542110c0761da8d21c43fbb49c4b9
+  listing-sha256: ea7386fed5aec6c09b003b74201a9da6a4ce32be92b5c9c83450302edefddb35
+  published: '2026-10-01T22:50:03Z'
+  released: '2026-10-01T22:23:31Z'
 license: GPL-3.0
 labels:
 - fully-free
@@ -48,5 +60,6 @@ metrics:
     date: '2023-07-02T20:42:34Z'
   checked: '2026-09-20'
   ci: moodle-plugin-ci
-summary: Organises course content in any number of sections that can be nested. Each
+summary: >-
+  Organises course content in any number of sections that can be nested. Each
   section can be displayed on the same page or on a separate page
