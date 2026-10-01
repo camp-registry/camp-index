@@ -3,13 +3,26 @@ source: https://github.com/marinaglancy/moodle-tool_courserating
 source-repo-id: 500046619
 maintainers:
 - github: marinaglancy
-tier: 1
+tier: 2
 security-contact: https://github.com/marinaglancy/moodle-tool_courserating/security/advisories
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 4.5.2
+  tag: v4.5.2
+  commit: 7e94aa78adbc3fc6c7b5a683e43da7f0fa046afd
+  moodle-version: 2026100100
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: ded9242bef61a196ada8e75027c24047f0076aaa33147b00bf50d54afb2867b0
+  listing-sha256: 7e1820abaa0f69bb866f0a7a094df63d026e32c367676c9db3822790417323e7
+  published: '2026-10-01T22:11:45Z'
+  released: '2026-10-01T21:58:23Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-29T09:07:10Z'
@@ -22,5 +35,6 @@ metrics:
     date: '2023-07-28T17:44:30Z'
   checked: '2026-09-30'
   ci: moodle-plugin-ci
-summary: '"Course ratings" plugin allows students to add ratings and reviews to the
-  courses,'
+summary: >-
+  "Course ratings" plugin allows students to add ratings and reviews to the
+  courses,
