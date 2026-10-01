@@ -206,7 +206,30 @@ jobs:
         run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.71"
 
       - name: Validate entry
-        run: camp validate "$ENTRY"
+        id: validate
+        run: |
+          set -o pipefail
+          if camp validate "$ENTRY" | tee /tmp/validate.out; then
+            exit 0
+          fi
+          # Feedback for the author (camp-index#405): this workflow runs on
+          # pull_request, where a fork PR's token is read-only, so it cannot
+          # comment. The output travels as an artifact to
+          # validation-feedback.yml, which runs with base privileges on
+          # workflow_run and posts it. The entry path is PR-controlled: it
+          # is written into the file body only, never interpolated.
+          mkdir -p /tmp/validate-feedback
+          { printf 'entry: %s\n' "$ENTRY"; cat /tmp/validate.out; } \
+            > "/tmp/validate-feedback/$(printf '%s' "$ENTRY" | tr '/' '_').txt"
+          exit 1
+
+      - name: Keep the validate output for the PR comment (camp-index#405)
+        if: failure() && steps.validate.outcome == 'failure'
+        uses: actions/upload-artifact@v4
+        with:
+          name: validate-feedback-${{ strategy.job-index }}
+          path: /tmp/validate-feedback/
+          retention-days: 7
 
       - name: Enforce append-only ledger
         run: |

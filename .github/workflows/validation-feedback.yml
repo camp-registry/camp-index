@@ -1,0 +1,87 @@
+# Validation feedback for hand-authored entry PRs (camp-index#405).
+#
+# Index PR verification runs on pull_request, where a pull request from
+# a fork gets a read-only token, so it cannot tell the author why
+# `camp validate` failed; the explanation (since camp-tools v0.2.71 a
+# did-you-mean for misspelt keys and the claim checklist) sits in the
+# Actions log. This workflow runs on workflow_run with base privileges,
+# like auto-merge's routing comment (#264): it downloads the validate
+# output the registry job saved as an artifact, resolves the PR by head
+# SHA, and posts it as one comment, deduplicated by a hash of the
+# output, so a fixed-and-still-failing push gets a fresh comment and a
+# re-run of the same failure does not.
+#
+# Scope: only PRs whose diff is purely plugin entries, the same guard as
+# the routing comment; a workflow or docs PR failing validation of an
+# entry it touched is an admin matter. Security: nothing from the PR is
+# executed. The artifact is text our own tool printed; it is posted
+# inside a fence with a size cap, and the entry path is used only as
+# file content, never in a shell expansion.
+
+name: Validation feedback
+
+on:
+  workflow_run:
+    workflows: ["Index PR verification"]
+    types: [completed]
+
+permissions:
+  contents: read
+  pull-requests: write
+  actions: read
+
+jobs:
+  comment:
+    if: github.repository == 'camp-registry/camp-index' && github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Download the validate output, if the registry job saved any
+        id: fetch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+        run: |
+          set -euo pipefail
+          mkdir -p feedback
+          names=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${RUN_ID}/artifacts" \
+            --jq '.artifacts[] | select(.name | startswith("validate-feedback-")) | .name')
+          if [ -z "${names}" ]; then
+            echo "no validate-feedback artifact: the run failed elsewhere; nothing to say"
+            echo "found=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          for n in ${names}; do
+            gh run download "${RUN_ID}" --repo "${GITHUB_REPOSITORY}" --name "${n}" --dir feedback/
+          done
+          echo "found=true" >> "$GITHUB_OUTPUT"
+
+      - name: Post the output on the PR, once per distinct failure
+        if: steps.fetch.outputs.found == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          set -euo pipefail
+          # Resolve the PR by head SHA: workflow_run.pull_requests is empty
+          # for fork heads, and every web-editor claim arrives from a fork.
+          pr=$(gh api "repos/${GITHUB_REPOSITORY}/pulls?state=open&base=main&per_page=100" --paginate \
+            --jq "[.[] | select(.head.sha == \"${HEAD_SHA}\")][0].number // empty")
+          if [ -z "${pr}" ]; then echo "no open PR for ${HEAD_SHA}"; exit 0; fi
+          # Only PRs that are purely plugin-entry changes get feedback.
+          if gh api "repos/${GITHUB_REPOSITORY}/pulls/${pr}/files" --paginate --jq '.[].filename' \
+               | grep -qvE '^plugins/[^/]+/[^/]+\.yml$'; then
+            echo "not a registry-entry PR; staying silent"; exit 0
+          fi
+          output=$(cat feedback/*.txt | head -c 6000 | tr -d '\r' | sed 's/`/\xCA\xB9/g')
+          hash=$(printf '%s' "${output}" | sha256sum | cut -c1-12)
+          if gh api "repos/${GITHUB_REPOSITORY}/issues/${pr}/comments" --paginate \
+               --jq '[.[] | select(.body | contains("camp-validation-feedback")) | .body] | join("\n")' \
+               | grep -qF "camp-validation-feedback ${hash}"; then
+            echo "this exact failure is already explained on #${pr}; staying silent"; exit 0
+          fi
+          body=$(printf '%s\n\n````\n%s\n````\n\n%s\n\n<!-- camp-validation-feedback %s -->' \
+            "Index PR verification failed at the validation step for this pull request. The output:" \
+            "${output}" \
+            "Push a fix and the checks re-run on their own; this comment repeats only if the output changes. If the message is about something you did not change, a registry admin will follow up here." \
+            "${hash}")
+          gh pr comment "${pr}" --repo "${GITHUB_REPOSITORY}" --body "${body}"
+          echo "commented on #${pr} (${hash})"
