@@ -1,10 +1,12 @@
 component: availability_language
 source: https://github.com/ewallah/moodle-availability_language
+source-repo-id: 22312099
 maintainers:
 - github: ewallah
 tier: 1
 security-contact: https://github.com/ewallah/moodle-availability_language/security/advisories/new
-labels: [fully-free]
+labels:
+- fully-free
 status: active
 discovered: '2026-07-10'
 releases: []
