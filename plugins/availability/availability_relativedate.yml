@@ -1,10 +1,12 @@
 component: availability_relativedate
 source: https://github.com/ewallah/moodle-availability_relativedate
+source-repo-id: 173373971
 maintainers:
 - github: ewallah
 tier: 1
 security-contact: https://github.com/ewallah/moodle-availability_relativedate/security/advisories/new
-labels: [fully-free]
+labels:
+- fully-free
 status: active
 discovered: '2026-07-10'
 releases: []
