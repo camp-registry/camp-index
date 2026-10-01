@@ -3,6 +3,8 @@ source: https://github.com/ewallah/moodle-availability_relativedate
 maintainers:
 - github: ewallah
 tier: 1
+security-contact: https://github.com/ewallah/moodle-availability_relativedate/security/advisories/new
+labels: [fully-free]
 status: active
 discovered: '2026-07-10'
 releases: []
