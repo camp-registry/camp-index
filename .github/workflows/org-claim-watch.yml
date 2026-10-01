@@ -66,6 +66,8 @@ jobs:
           git config user.email "noreply@camp-registry.org"
           git add plugins
           git commit -m "org claim sweep (scheduled)"
+          # replay on top of whatever landed on main meanwhile (camp-index#406)
+          git pull --rebase origin main
           git push origin main
 
       # The workflow's own GITHUB_TOKEN carries issues:write (declared

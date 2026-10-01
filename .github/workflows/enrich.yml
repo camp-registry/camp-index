@@ -73,4 +73,9 @@ jobs:
           # utilities pass was refreshed daily and never committed, #372)
           git add plugins utilities
           git commit -m "metrics refresh (scheduled)"
+          # main moves during the refresh (pin sweeps, merged claims,
+          # release PRs); replay our commit on top so the push is not
+          # rejected as non-fast-forward. Lost a 604-entry refresh to
+          # exactly that on 2026-10-01 (camp-index#406).
+          git pull --rebase origin main
           git push origin main
