@@ -1,0 +1,20 @@
+component: tiny_stash
+source: https://github.com/abgreeve/tiny_stash
+maintainers:
+- github: abgreeve
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin that adds a button in TinyMCE to add block_stash item snippets
+dependencies:
+  block_stash: 2025081900
+  filter_shortcodes: 2022121200
+metrics:
+  updated: '2026-06-08T05:00:45Z'
+  stars: 0
+  forks: 4
+  open-issues: 2
+  archived: false
+  checked: '2026-10-01'

@@ -1,0 +1,15 @@
+component: profilefield_brasilcep
+source: https://gitlab.com/adapta/moodle-profilefield_brasilcep
+maintainers:
+- gitlab: adapta
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+metrics:
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

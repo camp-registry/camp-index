@@ -1,0 +1,21 @@
+component: local_interactembedcreator
+source: https://github.com/InteractEmbed/moodle-local_interactembedcreator
+maintainers:
+- github: InteractEmbed
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin for creating, managing and publishing reusable InteractEmbed
+  HTML5 content.
+dependencies:
+  block_interactembed: 2026090202
+  mod_interactembed: 2026090203
+metrics:
+  updated: '2026-09-07T16:41:54Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-10-01'

@@ -1,0 +1,19 @@
+component: theme_slate
+source: https://github.com/bmbrands/theme_slate
+maintainers:
+- github: bmbrands
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: A child theme for the Bootstrap 3 theme for Moodle 2.7
+dependencies:
+  theme_bootstrap: 2014051300
+metrics:
+  updated: '2014-05-14T07:28:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

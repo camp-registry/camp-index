@@ -1,0 +1,20 @@
+component: tiny_imageia
+source: https://github.com/migueldhyne/tiny_imageia
+maintainers:
+- github: migueldhyne
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: 'TinyMCE plugin for Moodle. Educational AI image generator using OpenAI `gpt-image-2`  ---  ##
+  📋 Description  This plugin adds an **🖼️ AI Image** button to the Moodle TinyMCE
+  toolbar. It allows teachers and course creators to generate educational images directly
+  inside Moodle using OpenAI''s `gpt-imag'
+metrics:
+  updated: '2026-07-31T23:18:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-10-01'

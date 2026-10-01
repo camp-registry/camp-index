@@ -1,0 +1,19 @@
+component: mod_videoguide
+source: https://github.com/dronix69/moodle-mod_videoguide
+maintainers:
+- github: dronix69
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: 'La guía en vídeo se creó pensando en las instituciones técnicas y vocacionales:
+  escuelas, centros de formación e institutos que a menudo no disponen de licencias
+  para Zoom Premium, Google Meet o plataformas de pago similares.'
+metrics:
+  updated: '2026-09-07T16:46:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-10-01'

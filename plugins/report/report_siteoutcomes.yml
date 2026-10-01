@@ -1,0 +1,17 @@
+component: report_siteoutcomes
+source: https://github.com/Syxton/siteoutcomes
+maintainers:
+- github: Syxton
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Report for site outcomes
+metrics:
+  updated: '2018-05-17T14:35:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

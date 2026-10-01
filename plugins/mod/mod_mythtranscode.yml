@@ -1,0 +1,17 @@
+component: mod_mythtranscode
+source: https://github.com/hrickards/mythtranscode
+maintainers:
+- github: hrickards
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Mythtranscode plugin for moodle
+metrics:
+  updated: '2013-03-11T19:36:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

@@ -1,0 +1,16 @@
+component: datafield_linkedcheckbox
+source: https://github.com/andrewhancox/datafield_linkedcheckbox
+maintainers:
+- github: andrewhancox
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2025-07-11T10:51:59Z'
+  stars: 1
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-10-01'

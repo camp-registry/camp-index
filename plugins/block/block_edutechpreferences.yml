@@ -1,0 +1,16 @@
+component: block_edutechpreferences
+source: https://github.com/ezio19r/edutechpreferences
+maintainers:
+- github: ezio19r
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2023-01-20T03:22:15Z'
+  stars: 0
+  forks: 0
+  open-issues: 15
+  archived: false
+  checked: '2026-10-01'

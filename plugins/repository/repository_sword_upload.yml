@@ -1,0 +1,17 @@
+component: repository_sword_upload
+source: https://github.com/marceloschmitt/sword_upload
+maintainers:
+- github: marceloschmitt
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Moodle SWORD Plugin
+metrics:
+  updated: '2017-06-22T17:39:07Z'
+  stars: 2
+  forks: 4
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

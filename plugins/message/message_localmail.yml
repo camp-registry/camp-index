@@ -1,0 +1,17 @@
+component: message_localmail
+source: https://gitlab.com/moodle-local_mail/moodle-message_localmail
+maintainers:
+- gitlab: moodle-local_mail
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_mail: 2025050800
+metrics:
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

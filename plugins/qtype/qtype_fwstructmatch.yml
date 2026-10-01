@@ -1,0 +1,17 @@
+component: qtype_fwstructmatch
+source: https://github.com/fredrikw/fwstructmatch
+maintainers:
+- github: fredrikw
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Plugin to Moodle to allow for question answered with chemical structure
+metrics:
+  updated: '2014-11-10T10:22:59Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-10-01'

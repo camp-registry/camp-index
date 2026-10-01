@@ -1,0 +1,20 @@
+component: local_bs_badge_pool
+source: https://github.com/m-schwabe/local_bs_badge_pool
+maintainers:
+- github: m-schwabe
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: With this plugin you can create badge templates which can be used to simplify
+  creating badges in all courses of your moodle system. These templates can be organized
+  in categories and exported to a XML file to share them with others.  Trainers can
+  use the badge templates by going to Course administra
+metrics:
+  updated: '2019-01-09T15:56:50Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

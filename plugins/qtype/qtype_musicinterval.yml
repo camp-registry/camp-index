@@ -1,0 +1,17 @@
+component: qtype_musicinterval
+source: https://github.com/jayhuber/musicinterval
+maintainers:
+- github: jayhuber
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Moodle 2.x Music Interval Question Type
+metrics:
+  updated: '2013-07-22T16:43:33Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

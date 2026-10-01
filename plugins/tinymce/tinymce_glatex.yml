@@ -1,0 +1,17 @@
+component: tinymce_glatex
+source: https://github.com/matasarei/tinymce_glatex
+maintainers:
+- github: matasarei
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to write formulae in TinyMCE through Google APIs
+metrics:
+  updated: '2018-06-17T18:49:08Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-10-01'

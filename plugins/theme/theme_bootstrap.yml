@@ -1,0 +1,17 @@
+component: theme_bootstrap
+source: https://github.com/bmbrands/theme_bootstrap
+maintainers:
+- github: bmbrands
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: A Moodle theme based on the Bootstrap CSS framework
+metrics:
+  updated: '2019-08-15T06:52:36Z'
+  stars: 111
+  forks: 110
+  open-issues: 43
+  archived: false
+  checked: '2026-10-01'

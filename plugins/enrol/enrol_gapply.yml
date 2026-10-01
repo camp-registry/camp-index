@@ -1,0 +1,16 @@
+component: enrol_gapply
+source: https://github.com/sokunthearithmakara/enrol_gapply
+maintainers:
+- github: sokunthearithmakara
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-30T06:59:59Z'
+  stars: 3
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

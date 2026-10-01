@@ -1,0 +1,17 @@
+component: block_activity_track
+source: https://github.com/xeois/activity_track
+maintainers:
+- github: xeois
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Moodle Activity Block
+metrics:
+  updated: '2024-04-20T17:19:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

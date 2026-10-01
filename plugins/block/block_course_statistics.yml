@@ -1,0 +1,16 @@
+component: block_course_statistics
+source: https://github.com/WIDE-Services/ws_block_course_statistics_u
+maintainers:
+- github: WIDE-Services
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2024-10-22T06:29:44Z'
+  stars: 0
+  forks: 0
+  open-issues: 2
+  archived: false
+  checked: '2026-10-01'

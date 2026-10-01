@@ -298,6 +298,11 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
     probed: '2026-10-01'
+  1107enoy/moodle-report_storagereclaim:
+    outcome: written
+    detail: listed as report_storagereclaim
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   116Nithi/Moodle-Administration-LAB-2025:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -5766,6 +5771,11 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
     probed: '2026-10-01'
+  Asgaros/smartchoice:
+    outcome: written
+    detail: listed as mod_smartchoice
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   AshFahim/moodle-docker:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -13678,6 +13688,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  EsupPortail/esup-mod_rocketchat:
+    outcome: written
+    detail: listed as mod_rocketchat
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   EsupPortail/moodle-mod_pod:
     outcome: name-collision
     detail: independent repository declaring repository_pod, held by https://github.com/EsupPortail/moodle-repository_pod;
@@ -16756,6 +16771,11 @@ repos:
     detail: component theme_usaid already registered (first-come, RFC §8)
     first-seen: '2026-07-23'
     last-checked: '2026-08-03'
+  Hatsize/mod_hatsize:
+    outcome: written
+    detail: listed as mod_hatsize
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   HaukeSchnau/MoodleCrawler:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -17351,6 +17371,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-09-03'
+  IADLearning/iadlearning:
+    outcome: written
+    detail: listed as mod_iadlearning
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   IAESB/SyncMentorMoodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -18323,6 +18348,21 @@ repos:
     detail: 'license: NOASSERTION'
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  InteractEmbed/moodle-block_interactembed:
+    outcome: written
+    detail: listed as block_interactembed
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  InteractEmbed/moodle-local_interactembedcreator:
+    outcome: written
+    detail: listed as local_interactembedcreator
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  InteractEmbed/moodle-mod_interactembed:
+    outcome: written
+    detail: listed as mod_interactembed
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   Internews-Knowledge-and-Learning/moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -22482,6 +22522,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  LMSFACTORY/local_moofactory_notification:
+    outcome: written
+    detail: listed as local_moofactory_notification
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   LNDF/moodle_bot:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -22585,6 +22630,11 @@ repos:
     detail: component tiny_molstructure already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  Ladone/blocklymoodle:
+    outcome: written
+    detail: listed as qtype_blocklymoodle
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   LadyCore/moodle-infrastructure-deployment:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -22902,6 +22952,11 @@ repos:
     detail: component auth_recaptcha already registered (first-come, RFC §8)
     first-seen: '2026-07-23'
     last-checked: '2026-08-03'
+  Lastent/percentage_availability:
+    outcome: written
+    detail: listed as availability_percentage
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   LatinuxSistemas/clean-moodle-backups:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -24853,6 +24908,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  MURBASLMS/mod_assign_submission_responsetemplate:
+    outcome: written
+    detail: listed as assignsubmission_responsetemplate
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   MURBASLMS/moodle-mod_teamchat:
     outcome: exists
     detail: component mod_teamchat already registered (first-come, RFC §8)
@@ -30598,6 +30658,11 @@ repos:
     outcome: written
     detail: listed as tinymce_panoptobutton
     first-seen: '2026-07-11'
+    last-checked: '2026-10-01'
+  Panopto/Panopto-Button-for-Atto:
+    outcome: written
+    detail: listed as atto_panoptobutton
+    first-seen: '2026-10-01'
     last-checked: '2026-10-01'
   Panopto/ev-moodle-filter_ensemble:
     outcome: exists
@@ -38574,6 +38639,11 @@ repos:
     detail: component mod_attendees already registered (first-come, RFC §8)
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
+  Syxton/siteoutcomes:
+    outcome: written
+    detail: listed as report_siteoutcomes
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   T0X1Cx/CVE-2021-36396-Moodle-Time-Based-SQLi-Exploit:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -42698,6 +42768,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  WIDE-Services/ws_block_course_statistics_u:
+    outcome: written
+    detail: listed as block_course_statistics
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   WINTX/MoodleAPP-BigOne:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -45400,6 +45475,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-09-03'
     last-checked: '2026-09-03'
+  abgreeve/tiny_stash:
+    outcome: written
+    detail: listed as tiny_stash
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   abhaymishra8765/octo-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -45537,6 +45617,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  abkoch/imprint:
+    outcome: written
+    detail: listed as local_imprint
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   abkoch/moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -46374,6 +46459,42 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-05'
     host: gitlab.com
+  adapta/moodle-message_msgraph:
+    outcome: written
+    detail: listed as message_msgraph
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
+  adapta/moodle-profilefield_brasilcep:
+    outcome: written
+    detail: listed as profilefield_brasilcep
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
+  adapta/moodle-profilefield_brasilufmunicipio:
+    outcome: written
+    detail: listed as profilefield_brasilufmunicipio
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
+  adapta/moodle-profilefield_statictext:
+    outcome: written
+    detail: listed as profilefield_statictext
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
+  adapta/moodle-quiz_outline:
+    outcome: written
+    detail: listed as quiz_outline
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
+  adapta/moodle-quizaccess_fullface:
+    outcome: written
+    detail: listed as quizaccess_fullface
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
   adapta/moodle-tool_bulkchangeprofilefields:
     outcome: exists
     detail: component tool_bulkchangeprofilefields already registered (first-come,
@@ -46752,6 +46873,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  adrienedunao/mod_richmedia:
+    outcome: written
+    detail: listed as mod_richmedia
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   adrienmeli/moodle-showcase:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -46781,6 +46907,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  aduranterres/enrol_signup:
+    outcome: written
+    detail: listed as enrol_signup
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   adv-network/MiniMoodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -47709,6 +47840,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  akolob92/leapbuilder:
+    outcome: written
+    detail: listed as mod_leapbuilder
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   akrsnr/Moodle-Similar-Student-System:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -47919,6 +48055,18 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-03'
     last-checked: '2026-09-03'
+  albertgasset/moodle-repository_s3links:
+    outcome: written
+    detail: listed as repository_s3links
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
+  albertgasset/moodle-workshopeval_weightiest:
+    outcome: written
+    detail: listed as workshopeval_weightiest
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
   alberto0723/MoodleLogsAnalysis:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -50347,6 +50495,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  andresmrg/local_coursetocal:
+    outcome: written
+    detail: listed as local_coursetocal
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   andresmrg/moodle_request_course:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -50374,6 +50527,26 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-09-03'
+  andrewhancox/block_databasetags:
+    outcome: written
+    detail: listed as block_databasetags
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  andrewhancox/datafield_linkedcheckbox:
+    outcome: written
+    detail: listed as datafield_linkedcheckbox
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  andrewhancox/datafield_tag:
+    outcome: written
+    detail: listed as datafield_tag
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  andrewhancox/format_topicsactivitycards:
+    outcome: written
+    detail: listed as format_topicsactivitycards
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   andrewhancox/moodle-assignsubmission_avgblindmarking:
     outcome: exists
     detail: component assignsubmission_avgblindmarking already registered (first-come,
@@ -51456,6 +51629,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  ankitagarwal/advanced_spam_cleaner:
+    outcome: written
+    detail: listed as tool_advancedspamcleaner
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   ankitagarwal/moodle-block_fbcomments:
     outcome: exists
     detail: component block_fbcomments already registered (first-come, RFC §8)
@@ -53275,6 +53453,11 @@ repos:
     detail: component local_asyntai already registered (first-come, RFC §8)
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
+  asyntai/moodle-local_asyntaisearch:
+    outcome: written
+    detail: listed as local_asyntaisearch
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   aszalosl/jinja_moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -56798,6 +56981,21 @@ repos:
     detail: no parseable version.php at root of branch gh-pages
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  bmbrands/theme_bootstrap:
+    outcome: written
+    detail: listed as theme_bootstrap
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  bmbrands/theme_cerulean:
+    outcome: written
+    detail: listed as theme_cerulean
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  bmbrands/theme_slate:
+    outcome: written
+    detail: listed as theme_slate
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   bmizepatterson/dl-moodle-31:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -59308,6 +59506,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  canhetejr/moodle-mod_pagecheck:
+    outcome: written
+    detail: listed as mod_pagecheck
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   canhnt2k/Moodle-4.2.:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -66094,6 +66297,21 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-10'
     last-checked: '2026-09-03'
+  damianxd/atto_studietube:
+    outcome: written
+    detail: listed as atto_studietube
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  damianxd/filter_studietube:
+    outcome: written
+    detail: listed as filter_studietube
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  damianxd/tiny_studietube:
+    outcome: written
+    detail: listed as tiny_studietube
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   damienbelveze/Moodle_EDUC_modifications:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -66124,6 +66342,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  damyon/contenteditable:
+    outcome: written
+    detail: listed as editor_contenteditable
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   damyon/hangouts-moodle_connect:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -70301,6 +70524,16 @@ repos:
       RFC §8)
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
+  dired-ufla/brcli:
+    outcome: written
+    detail: listed as tool_brcli
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  dired-ufla/coursestats:
+    outcome: written
+    detail: listed as report_coursestats
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   dired-ufla/moodle-block_smartedu:
     outcome: exists
     detail: component block_smartedu already indexed this run
@@ -70336,6 +70569,11 @@ repos:
     detail: component theme_boost_edu already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  dired-ufla/questionnairestats:
+    outcome: written
+    detail: listed as report_questionnairestats
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   dirinnova/SQL-Queries-Moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -71807,6 +72045,11 @@ repos:
       §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  dronix69/moodle-mod_videoguide:
+    outcome: written
+    detail: listed as mod_videoguide
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   drqo/moodletest:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -72841,6 +73084,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  e-abc/notificationeabc:
+    outcome: written
+    detail: listed as enrol_notificationeabc
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   e-ebel/moodle_mod_hvp:
     outcome: name-collision
     detail: independent repository declaring mod_hvp, held by https://github.com/h5p/moodle-mod_hvp;
@@ -73956,6 +74204,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  educacionbe-online/Educacionbe:
+    outcome: written
+    detail: listed as theme_educacionbe
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   educaredes/moodle-templates:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -76161,6 +76414,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  erwang/filter_dbconcept:
+    outcome: written
+    detail: listed as filter_dbconcept
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   esaputra19/capstone-project-Moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -76345,6 +76603,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  ethz-let/quiz-report_filedownloader:
+    outcome: written
+    detail: listed as quiz_filedownloader
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   etibor/moodle-format_letstudy:
     outcome: exists
     detail: component format_letstudy already indexed this run
@@ -76844,6 +77107,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  ezio19r/edutechpreferences:
+    outcome: written
+    detail: listed as block_edutechpreferences
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   ezsearch/moodleJClient:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -77850,6 +78118,11 @@ repos:
     detail: component mod_reactive already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-08-03'
+  ferranrecio/tool_navdb:
+    outcome: written
+    detail: listed as tool_navdb
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   ferranriera/Commerce-Moodle-Services:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -78757,6 +79030,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  fredrikw/fwstructmatch:
+    outcome: written
+    detail: listed as qtype_fwstructmatch
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   freeteamclub/gatefork-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -78981,6 +79259,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  frumbert/public_files:
+    outcome: written
+    detail: listed as block_public_files
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   frumbert/qformat_essay:
     outcome: written
     detail: listed as qformat_essay
@@ -80361,6 +80644,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-10'
     last-checked: '2026-09-04'
+  germanbobadilla/moodle-blocks_myinstructor:
+    outcome: written
+    detail: listed as block_myinstructor
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   germanbobadilla/moodle-local_edqscore:
     outcome: exists
     detail: component local_edqscore already registered (first-come, RFC §8)
@@ -82140,6 +82428,36 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  gtn/exacomp:
+    outcome: written
+    detail: listed as block_exacomp
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  gtn/exagames:
+    outcome: written
+    detail: listed as mod_exagames
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  gtn/exalib:
+    outcome: written
+    detail: listed as block_exalib
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  gtn/exaport:
+    outcome: written
+    detail: listed as block_exaport
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  gtn/exastud:
+    outcome: written
+    detail: listed as block_exastud
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  gtn/local_question_filters:
+    outcome: written
+    detail: listed as local_question_filters
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   gtn/moodle-aiplacement_exaaichat:
     outcome: exists
     detail: component aiplacement_exaaichat already registered (first-come, RFC §8)
@@ -83414,6 +83732,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  hbattat/afaqr:
+    outcome: written
+    detail: listed as profilefield_afaqr
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   hbattat/moodle-a2fa:
     outcome: exists
     detail: component auth_a2fa already registered (first-come, RFC §8)
@@ -84633,6 +84956,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  hrickards/mythtranscode:
+    outcome: written
+    detail: listed as mod_mythtranscode
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   hridaydutta123/nitdgp-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -86203,6 +86531,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  ildarkry-stack/examdates:
+    outcome: written
+    detail: listed as local_examdates
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   ildemartinez/LMS-Explorer:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -86639,6 +86972,11 @@ repos:
     detail: component theme_theme_sos already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  ingegus/famous_quote:
+    outcome: written
+    detail: listed as block_famous_quote
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   ingeniotriana02/proyecto-ionic-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -86690,6 +87028,11 @@ repos:
     detail: component local_evalimport already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  ingrichardrangel/moodle-local_learningcelebration:
+    outcome: written
+    detail: listed as local_learningcelebration
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   ingridlagares/moodle_lrs:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -87766,6 +88109,11 @@ repos:
       §8)
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
+  isaiasmendesoliveira/moodle-local_activitysettingstemplates:
+    outcome: written
+    detail: listed as local_activitysettingstemplates
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   isaiasmendesoliveira/moodle-local_quizbulkmarks:
     outcome: exists
     detail: component local_quizbulkmarks already registered (first-come, RFC §8)
@@ -89562,6 +89910,26 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  jayhuber/mdid:
+    outcome: written
+    detail: listed as mod_mdid
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  jayhuber/musicinterval:
+    outcome: written
+    detail: listed as qtype_musicinterval
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  jayhuber/musickeysignature:
+    outcome: written
+    detail: listed as qtype_musickeysignature
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  jayhuber/musicscale:
+    outcome: written
+    detail: listed as qtype_musicscale
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   jaylkc/Moodle-Lesson-Start-Page-One:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -90959,6 +91327,11 @@ repos:
     detail: no parseable version.php at root of branch two
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  jkadael/kitmoo:
+    outcome: written
+    detail: listed as mod_kitmoo
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   jkfreij/moodle-block_superframe:
     outcome: exists
     detail: component block_superframe already indexed this run
@@ -93432,6 +93805,11 @@ repos:
     detail: component report_simultaneous already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  juacas/quizaccess_delayed:
+    outcome: written
+    detail: listed as quizaccess_delayed
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   juacodelotero/moodle-hcvb:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -96985,6 +97363,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  kmp8072/report_failedemails:
+    outcome: written
+    detail: listed as report_failedemails
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   knave84/moodle-analytics:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -98575,6 +98958,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  learingom-bit/block-lig_showcase:
+    outcome: written
+    detail: listed as block_lig_showcase
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   learingom-bit/moodle-block_lig_slideshow:
     outcome: exists
     detail: component block_lig_slideshow already registered (first-come, RFC §8)
@@ -99024,6 +99412,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  lechunche/type_calc_sheet:
+    outcome: written
+    detail: listed as qtype_type_calc_sheet
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   leeashcroft/Moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -99479,15 +99872,15 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
   lesavvytinker/moodle-local_rubricbuilder:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_rubricbuilder
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
+    last-checked: '2026-10-01'
   lesavvytinker/moodle-local_rubricgrader:
-    outcome: bad-license
-    detail: 'license: NOASSERTION'
+    outcome: written
+    detail: listed as local_rubricgrader
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
+    last-checked: '2026-10-01'
   leshamblin/MoodleMCP:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -100403,6 +100796,21 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-05'
     last-checked: '2026-09-05'
+  lmsace/eguru:
+    outcome: written
+    detail: listed as theme_eguru
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  lmsace/enlightlite:
+    outcome: written
+    detail: listed as theme_enlightlite
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  lmsace/klass:
+    outcome: written
+    detail: listed as theme_klass
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   lmsace/lmsace-connect-moodleauth:
     outcome: exists
     detail: component auth_lmsace_connect already registered (first-come, RFC §8)
@@ -100756,6 +101164,11 @@ repos:
     detail: component mod_aiactivities already registered (first-come, RFC §8)
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
+  lmshostingservices/moodle-mod_aiinteractivevideo:
+    outcome: written
+    detail: listed as mod_aiinteractivevideo
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   lmshostingservices/moodle-mod_aiknowledgecheck:
     outcome: exists
     detail: component mod_aiknowledgecheck already registered (first-come, RFC §8)
@@ -102640,6 +103053,26 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-03'
     last-checked: '2026-09-03'
+  m-schwabe/block_bs_recent_badges:
+    outcome: written
+    detail: listed as block_bs_recent_badges
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  m-schwabe/enrol_badgeenrol:
+    outcome: written
+    detail: listed as enrol_badgeenrol
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  m-schwabe/local_bs_badge_ladder:
+    outcome: written
+    detail: listed as local_bs_badge_ladder
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  m-schwabe/local_bs_badge_pool:
+    outcome: written
+    detail: listed as local_bs_badge_pool
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   m-talha-asif/ANME-Academy-Theme-Moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -103930,6 +104363,16 @@ repos:
     detail: component report_dropout already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  marceloschmitt/pbltool:
+    outcome: written
+    detail: listed as block_pbltool
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  marceloschmitt/sword_upload:
+    outcome: written
+    detail: listed as repository_sword_upload
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   marcelreppi/moodle-buddy:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -105657,11 +106100,21 @@ repos:
     detail: component tinymce_chemeditor already registered (first-come, RFC §8)
     first-seen: '2026-07-23'
     last-checked: '2026-08-03'
+  matasarei/block_countdown:
+    outcome: written
+    detail: listed as block_countdown
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   matasarei/moodle_sandbox:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  matasarei/tinymce_glatex:
+    outcome: written
+    detail: listed as tinymce_glatex
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   matbu/moodle-sandbox:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -105802,6 +106255,11 @@ repos:
     detail: component qtype_stateful already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  maths/quiz_stack:
+    outcome: written
+    detail: listed as quiz_stack
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   mati5kova/moodle-skrivalnice:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -108764,6 +109222,11 @@ repos:
       §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  migueldhyne/tiny_imageia:
+    outcome: written
+    detail: listed as tiny_imageia
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   miguelfranco-cmyk/pratica-git-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -110747,6 +111210,12 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-11'
     last-checked: '2026-09-05'
+    host: gitlab.com
+  moodle-local_mail/moodle-message_localmail:
+    outcome: written
+    detail: listed as message_localmail
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
     host: gitlab.com
   moodle-meets-zensus/moodle-meets-zensus:
     outcome: name-mismatch
@@ -121051,6 +121520,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-03'
     last-checked: '2026-09-03'
+  pavlorenc/moodle-local_fulltextsuggestions:
+    outcome: written
+    detail: listed as local_fulltextsuggestions
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   pavlorenc/moodle-local_readaloud:
     outcome: exists
     detail: component local_readaloud already registered (first-come, RFC §8)
@@ -123974,6 +124448,12 @@ repos:
     detail: component mod_quickom already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  quilgo/quilgo-moodle-proctoring-plugin:
+    outcome: written
+    detail: listed as quizaccess_quilgo
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+    host: gitlab.com
   quinn704/moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -130611,6 +131091,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  santoshndev/moodle-aiprovider_sarvam:
+    outcome: written
+    detail: listed as aiprovider_sarvam
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   santoshndev/moodle-auth_smsotp:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -134434,6 +134919,16 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  sokunthearithmakara/block_cinfo:
+    outcome: written
+    detail: listed as block_cinfo
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  sokunthearithmakara/enrol_gapply:
+    outcome: written
+    detail: listed as enrol_gapply
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   sokunthearithmakara/moodle-block_actvtmodal:
     outcome: exists
     detail: component block_actvtmodal already registered (first-come, RFC §8)
@@ -136617,6 +137112,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  surajthalange/moodle-mod_onelife:
+    outcome: written
+    detail: listed as mod_onelife
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   surajthalange/moodle-mod_suddendeath:
     outcome: written
     detail: listed as mod_suddendeath
@@ -137790,6 +138290,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  tdakic/tcquiz:
+    outcome: written
+    detail: listed as quizaccess_tcquiz
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   tdcOsama/Moodle_Config_Reports:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -139744,6 +140249,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  tlock/block_inactiveuseralert:
+    outcome: written
+    detail: listed as block_inactiveuseralert
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   tlock/moodle-availability_badge:
     outcome: name-collision
     detail: independent repository declaring availability_badge, held by https://github.com/bapool/moodle-availability_badge;
@@ -145509,6 +146019,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
+  villalon/qtype_conceptmap:
+    outcome: written
+    detail: listed as qtype_conceptmap
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   vimalkumal/moodleSync:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -148353,6 +148868,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  xeois/activity_track:
+    outcome: written
+    detail: listed as block_activity_track
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   xertifyapp/moodle-local_xertify:
     outcome: exists
     detail: component local_xertify already registered (first-come, RFC §8)

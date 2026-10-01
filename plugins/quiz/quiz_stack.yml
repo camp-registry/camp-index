@@ -1,0 +1,20 @@
+component: quiz_stack
+source: https://github.com/maths/quiz_stack
+maintainers:
+- github: maths
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: A quiz report the provides detailed analysis of the STACK questions in a
+  quiz.
+dependencies:
+  qtype_stack: 2014111200
+metrics:
+  updated: '2026-09-22T17:44:35Z'
+  stars: 1
+  forks: 8
+  open-issues: 1
+  archived: false
+  checked: '2026-10-01'

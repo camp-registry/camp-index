@@ -1,0 +1,17 @@
+component: block_public_files
+source: https://github.com/frumbert/public_files
+maintainers:
+- github: frumbert
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: A moodle block for displaying files and folders that are available to everyone!
+metrics:
+  updated: '2021-03-01T05:51:15Z'
+  stars: 0
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-10-01'

@@ -1,0 +1,20 @@
+component: atto_panoptobutton
+source: https://github.com/Panopto/Panopto-Button-for-Atto
+maintainers:
+- github: Panopto
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Panopto Button plugin for Atto rich text editor in moodle, enabling the posting
+  of embedded Panopto video
+dependencies:
+  block_panopto: any
+metrics:
+  updated: '2024-07-09T21:29:01Z'
+  stars: 5
+  forks: 8
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

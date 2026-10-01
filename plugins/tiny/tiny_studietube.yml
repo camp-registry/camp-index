@@ -1,0 +1,18 @@
+component: tiny_studietube
+source: https://github.com/damianxd/tiny_studietube
+maintainers:
+- github: damianxd
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+dependencies:
+  filter_studietube: 2025092308
+metrics:
+  updated: '2025-09-29T11:39:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-10-01'

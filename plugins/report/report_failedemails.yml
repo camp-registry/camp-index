@@ -1,0 +1,18 @@
+component: report_failedemails
+source: https://github.com/kmp8072/report_failedemails
+maintainers:
+- github: kmp8072
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: A report to show failed emails, which get logged into standard log store
+  of Moodle
+metrics:
+  updated: '2023-04-02T19:45:58Z'
+  stars: 3
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-10-01'

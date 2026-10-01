@@ -1,0 +1,16 @@
+component: block_cinfo
+source: https://github.com/sokunthearithmakara/block_cinfo
+maintainers:
+- github: sokunthearithmakara
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-30T08:08:24Z'
+  stars: 2
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

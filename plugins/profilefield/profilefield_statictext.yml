@@ -1,0 +1,17 @@
+component: profilefield_statictext
+source: https://gitlab.com/adapta/moodle-profilefield_statictext
+maintainers:
+- gitlab: adapta
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: This is a Profile Field plugin for Moodle that allows to add static text
+  in user profile.
+metrics:
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

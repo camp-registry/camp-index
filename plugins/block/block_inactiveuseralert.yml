@@ -1,0 +1,17 @@
+component: block_inactiveuseralert
+source: https://github.com/tlock/block_inactiveuseralert
+maintainers:
+- github: tlock
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Inactive user alerts
+metrics:
+  updated: '2021-03-30T08:52:50Z'
+  stars: 0
+  forks: 1
+  open-issues: 2
+  archived: false
+  checked: '2026-10-01'

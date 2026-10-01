@@ -1,0 +1,16 @@
+component: mod_leapbuilder
+source: https://github.com/akolob92/leapbuilder
+maintainers:
+- github: akolob92
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2017-06-18T15:24:34Z'
+  stars: 1
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-10-01'

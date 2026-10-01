@@ -1,0 +1,16 @@
+component: quiz_filedownloader
+source: https://github.com/ethz-let/quiz-report_filedownloader
+maintainers:
+- github: ethz-let
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-07-24T12:21:45Z'
+  stars: 1
+  forks: 3
+  open-issues: 5
+  archived: false
+  checked: '2026-10-01'
