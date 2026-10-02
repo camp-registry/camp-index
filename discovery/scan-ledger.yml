@@ -12948,6 +12948,11 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
     probed: '2026-10-02'
+  E-learningTouch/moodle-local_multiple_enrollments:
+    outcome: written
+    detail: listed as local_multiple_enrollments
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   E-learningTouch/moodle-local_parentmanager:
     outcome: exists
     detail: component local_parentmanager already registered (first-come, RFC §8)
@@ -13034,6 +13039,11 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-23'
     probed: '2026-10-02'
+  EEXCESS/moodle-block_eexcess:
+    outcome: written
+    detail: listed as block_eexcess
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   EFoster1068/Moodle-Ideas:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -24158,6 +24168,11 @@ repos:
     detail: component local_instructor_files already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  LafColITS/moodle-local_ldap:
+    outcome: written
+    detail: listed as local_ldap
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   LafColITS/moodle-local_madmax:
     outcome: exists
     detail: component local_madmax already registered (first-come, RFC §8)
@@ -29476,6 +29491,11 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-10-01'
     component: lifecycletrigger_timecreateddelay
+  NMAI-lab/moodle-mod_socialwiki:
+    outcome: written
+    detail: listed as mod_socialwiki
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   NMarkgraf/MyMoodleFilter.py:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -31063,6 +31083,11 @@ repos:
     detail: component mod_onlyofficedocspace already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  ONLYOFFICE/moodle-mod_onlyofficeeditor:
+    outcome: written
+    detail: listed as mod_onlyofficeeditor
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   OPEN-ENT-NG/moodle-connector:
     outcome: no-version-php
     detail: no parseable version.php at root of branch dev
@@ -39903,6 +39928,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  Swarthmore/moodle-block_accessibility_filescan:
+    outcome: written
+    detail: listed as block_accessibility_filescan
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   Swarthmore/moodle-local_accessibility_filescan:
     outcome: exists
     detail: component local_accessibility_filescan already registered (first-come,
@@ -40027,6 +40057,11 @@ repos:
     detail: component atto_sketch already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  Syxton/moodle-block_massaction:
+    outcome: written
+    detail: listed as block_massaction
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   Syxton/moodle-filter_bookchapters:
     outcome: exists
     detail: component filter_bookchapters already registered (first-come, RFC §8)
@@ -43843,6 +43878,11 @@ repos:
     detail: component mod_eadmeeting already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-08-03'
+  Videofront/moodle-mod_videofront:
+    outcome: written
+    detail: listed as mod_videofront
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   Videofront/moodle-repository_videofront:
     outcome: exists
     detail: component repository_videofront already registered (first-come, RFC §8)
@@ -47369,6 +47409,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-03'
     last-checked: '2026-09-03'
+  accredible/moodle-mod_accredible:
+    outcome: written
+    detail: listed as mod_accredible
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   acdh-oeaw/moodle-block-course-custom-fields:
     outcome: exists
     detail: component block_course_custom_fields already registered (first-come, RFC
@@ -48242,6 +48287,11 @@ repos:
     detail: component local_certifaction already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  adpe/moodle-local_rocketchat:
+    outcome: written
+    detail: listed as local_rocketchat
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   adpe/moodle-tool_adpe:
     outcome: exists
     detail: component tool_adpe already registered (first-come, RFC §8)
@@ -60079,6 +60129,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  bycs-lp/moodle-qbank_questiongen:
+    outcome: written
+    detail: listed as qbank_questiongen
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   bycs-lp/moodle-qbehaviour_deferred_for_aitext:
     outcome: copy
     detail: shares git history with https://github.com/marcusgreen/moodle-qbehaviour_deferred_for_aitext,
@@ -75119,6 +75174,11 @@ repos:
     detail: component atto_wordimport already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  ecampbell/moodle-booktool_wordimport:
+    outcome: written
+    detail: listed as booktool_wordimport
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   ecampbell/moodle-local_glossary_wordimport:
     outcome: exists
     detail: component local_glossary_wordimport already registered (first-come, RFC
@@ -86893,6 +86953,11 @@ repos:
     detail: component local_changeloglib already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-08-03'
+  hwuerz/moodle-local_uploadnotification:
+    outcome: written
+    detail: listed as local_uploadnotification
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   hxtree/Moodle-Absence-Notification:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -93246,6 +93311,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  jmvedrine/moodle-mod_qcreate:
+    outcome: written
+    detail: listed as mod_qcreate
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   jmvedrine/moodle-qformat_canvas:
     outcome: exists
     detail: component qformat_canvas already registered (first-come, RFC §8)
@@ -120792,6 +120862,11 @@ repos:
     detail: component mod_hsuforum already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-09-03'
+  open-lms-open-source/moodle-mod_lightboxgallery:
+    outcome: written
+    detail: listed as mod_lightboxgallery
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   open-lms-open-source/moodle-mod_livepoll:
     outcome: exists
     detail: component mod_livepoll already registered (first-come, RFC §8)
@@ -144285,6 +144360,11 @@ repos:
     detail: component plagiarism_unicheck already registered (first-come, RFC §8)
     first-seen: '2026-07-10'
     last-checked: '2026-09-04'
+  unicorn-development/course_tree_list:
+    outcome: written
+    detail: listed as block_course_tree_list
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   unicsoftware/accessibility-dl-moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -145478,6 +145558,11 @@ repos:
     detail: component atto_znaniumcombook already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  vadimonus/moodle-block_graph_stats:
+    outcome: written
+    detail: listed as block_graph_stats
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   vadimonus/moodle-block_iprbookshop_ru:
     outcome: exists
     detail: component block_iprbookshop_ru already registered (first-come, RFC §8)
@@ -147924,6 +148009,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
+  vlacs/moodle-block_helpdesk:
+    outcome: written
+    detail: listed as block_helpdesk
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   vlacs/moodle-block_helpmenow:
     outcome: exists
     detail: component block_helpmenow already registered (first-come, RFC §8)

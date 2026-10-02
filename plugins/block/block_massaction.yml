@@ -1,0 +1,17 @@
+component: block_massaction
+source: https://github.com/Syxton/moodle-block_massaction
+maintainers:
+- github: Syxton
+tier: 0
+status: active
+discovered: '2026-10-02'
+releases: []
+license: GPL-3.0
+summary: THE OFFICIAL Mass Actions block for Moodle 3.9 and beyond
+metrics:
+  updated: '2026-09-15T20:11:53Z'
+  stars: 10
+  forks: 19
+  open-issues: 16
+  archived: false
+  checked: '2026-10-02'

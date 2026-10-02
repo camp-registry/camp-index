@@ -1,0 +1,17 @@
+component: block_graph_stats
+source: https://github.com/vadimonus/moodle-block_graph_stats
+maintainers:
+- github: vadimonus
+tier: 0
+status: active
+discovered: '2026-10-02'
+releases: []
+license: GPL-3.0
+summary: Graph Stats Block, Updated for Moodle 2.7
+metrics:
+  updated: '2024-06-09T11:52:43Z'
+  stars: 0
+  forks: 4
+  open-issues: 2
+  archived: false
+  checked: '2026-10-02'

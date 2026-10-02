@@ -1,0 +1,18 @@
+component: mod_onlyofficeeditor
+source: https://github.com/ONLYOFFICE/moodle-mod_onlyofficeeditor
+maintainers:
+- github: ONLYOFFICE
+tier: 0
+status: active
+discovered: '2026-10-02'
+releases: []
+license: GPL-3.0
+summary: The plugin which enables users to edit and co-author office documents within
+  the Moodle course structure using ONLYOFFICE Docs
+metrics:
+  updated: '2026-09-13T20:52:22Z'
+  stars: 17
+  forks: 12
+  open-issues: 13
+  archived: false
+  checked: '2026-10-02'

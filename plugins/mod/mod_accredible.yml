@@ -1,0 +1,17 @@
+component: mod_accredible
+source: https://github.com/accredible/moodle-mod_accredible
+maintainers:
+- github: accredible
+tier: 0
+status: active
+discovered: '2026-10-02'
+releases: []
+license: GPL-3.0
+summary: Moodle Activity to add Accredible Certificates
+metrics:
+  updated: '2026-09-18T13:14:53Z'
+  stars: 8
+  forks: 14
+  open-issues: 1
+  archived: false
+  checked: '2026-10-02'

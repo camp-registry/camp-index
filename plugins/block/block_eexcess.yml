@@ -1,0 +1,17 @@
+component: block_eexcess
+source: https://github.com/EEXCESS/moodle-block_eexcess
+maintainers:
+- github: EEXCESS
+tier: 0
+status: active
+discovered: '2026-10-02'
+releases: []
+license: GPL-3.0
+summary: EEXCESS plugin
+metrics:
+  updated: '2016-07-06T17:54:11Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-10-02'

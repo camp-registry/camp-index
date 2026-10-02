@@ -1,0 +1,21 @@
+component: qbank_questiongen
+source: https://github.com/bycs-lp/moodle-qbank_questiongen
+maintainers:
+- github: bycs-lp
+tier: 0
+status: active
+discovered: '2026-10-02'
+releases: []
+license: GPL-3.0
+summary: Create and modify questions in the Moodle question bank with Generative AI.
+  Code based on https://github.com/yedidiaklein/moodle-local_aiquestions
+dependencies:
+  local_ai_manager: 2025071600
+  local_ai_content: any
+metrics:
+  updated: '2026-10-01T08:11:08Z'
+  stars: 6
+  forks: 7
+  open-issues: 5
+  archived: false
+  checked: '2026-10-02'
