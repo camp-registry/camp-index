@@ -24,6 +24,9 @@ releases:
   listing-sha256: 6ae72eabae998d33d2a577ee5479b6da5d27069b8012961c4bf1da4fd2203aa5
   published: '2026-07-28T19:58:03Z'
   released: '2026-07-28T19:43:44Z'
+  supported-range:
+  - 311
+  - 401
 license: GPL-3.0
 summary: A Moodle plugin that allows the launching of xAPI content using the Rustici
   Launch Method.

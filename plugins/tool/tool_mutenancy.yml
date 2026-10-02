@@ -23,6 +23,9 @@ releases:
   listing-sha256: 625815acc9b9aaea960031528d61ff6e5cf9dcb4f07ebaa5eb6f698d71052a1c
   published: '2026-09-19T07:25:49Z'
   released: '2026-09-18T21:28:56Z'
+  supported-range:
+  - 405
+  - 405
 - version: v5.0.10.03
   tag: v5.0.10.03
   commit: a7aba6ff3e452be5dbbe292841bd55848dd40789
@@ -35,6 +38,9 @@ releases:
   listing-sha256: 625815acc9b9aaea960031528d61ff6e5cf9dcb4f07ebaa5eb6f698d71052a1c
   published: '2026-09-19T07:32:25Z'
   released: '2026-09-18T21:30:16Z'
+  supported-range:
+  - 500
+  - 500
 - version: v5.1.7.03
   tag: v5.1.7.03
   commit: dc924cc3467ad52528db1e98550609230ef2afbc
@@ -47,6 +53,9 @@ releases:
   listing-sha256: 625815acc9b9aaea960031528d61ff6e5cf9dcb4f07ebaa5eb6f698d71052a1c
   published: '2026-09-19T07:34:02Z'
   released: '2026-09-18T21:37:08Z'
+  supported-range:
+  - 501
+  - 501
 - version: v5.2.3.03
   tag: v5.2.3.03
   commit: 9620a6126a7f9963c171c4850cb0bf4359c4afcf
@@ -59,6 +68,9 @@ releases:
   listing-sha256: 625815acc9b9aaea960031528d61ff6e5cf9dcb4f07ebaa5eb6f698d71052a1c
   published: '2026-09-19T07:34:22Z'
   released: '2026-09-18T21:38:43Z'
+  supported-range:
+  - 502
+  - 502
 summary: MuTMS  Multi-tenancy plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:

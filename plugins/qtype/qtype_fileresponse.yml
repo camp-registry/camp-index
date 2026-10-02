@@ -26,6 +26,9 @@ releases:
   listing-sha256: 9ebcaeaeb062422cb079fd17781753d53de9b1f17bc42f18d23ad04737baa953
   published: '2026-07-30T16:48:46Z'
   released: '2026-07-30T16:43:45Z'
+  supported-range:
+  - 400
+  - 502
 license: GPL-3.0
 summary: moodle-qtype_fileresponse
 metrics:

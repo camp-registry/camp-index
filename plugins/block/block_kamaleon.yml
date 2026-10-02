@@ -26,6 +26,9 @@ releases:
   listing-sha256: cc5a3339e7f82257d8df86435c44414b4e6c0107e626ab8f841029be1eeb013b
   published: '2026-08-06T04:14:59Z'
   released: '2026-08-06T04:13:41Z'
+  supported-range:
+  - 405
+  - 501
 license: GPL-3.0
 summary: A block to display content from different sources and with different designs.
 metrics:

@@ -23,11 +23,13 @@ releases:
   listing-sha256: 80ff2c011c1b83cc9d43a25c830734b8c2e635fd40fbbaef1c85f7f15f3dcd6e
   published: '2026-10-02T11:05:18Z'
   released: '2026-10-02T10:48:59Z'
+  supported-range:
+  - 405
+  - 503
 license: GPL-3.0
-summary: >-
-  Add real-time server-to-browser communication to your plugins via WebSockets
-  or polling. Send notifications from PHP, receive events in JavaScript, no page
-  reloads needed.
+summary: Add real-time server-to-browser communication to your plugins via WebSockets
+  or polling. Send notifications from PHP, receive events in JavaScript, no page reloads
+  needed.
 metrics:
   updated: '2026-09-29T09:04:02Z'
   stars: 7

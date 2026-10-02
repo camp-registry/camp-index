@@ -25,6 +25,9 @@ releases:
   listing-sha256: deb9f086fc6f87949fbb8a12ecd48c775ee8b0836b1e1285f19307023e841095
   published: '2026-09-14T21:16:39Z'
   released: '2026-09-14T21:13:29Z'
+  supported-range:
+  - 405
+  - 502
 license: GPL-3.0
 metrics:
   updated: '2026-09-14T21:15:18Z'

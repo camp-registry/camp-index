@@ -23,6 +23,9 @@ releases:
   published: '2026-07-21T21:12:43Z'
   released: '2026-07-21T20:46:40Z'
   listing-sha256: 43b8caf42371018fb7f03f5fb9e9fb6c50427e3ae7acfd26034249a6a9219e33
+  supported-range:
+  - 402
+  - 405
 summary: Markdown friendly editor for Moodle
 license: GPL-3.0
 metrics:

@@ -23,6 +23,9 @@ releases:
   listing-sha256: 9b5e9c1763eafd5c70be1bc434669c63dbf57cbfb25f2d9c7bbefbbe9d3e5b0c
   published: '2026-09-19T07:25:22Z'
   released: '2026-09-18T21:28:56Z'
+  supported-range:
+  - 405
+  - 405
 - version: v5.0.10.03
   tag: v5.0.10.03
   commit: 5aeae68de69429da323252868fbdc56a25e13925
@@ -37,6 +40,9 @@ releases:
   listing-sha256: 9b5e9c1763eafd5c70be1bc434669c63dbf57cbfb25f2d9c7bbefbbe9d3e5b0c
   published: '2026-09-19T07:32:07Z'
   released: '2026-09-18T21:30:17Z'
+  supported-range:
+  - 500
+  - 502
 summary: MuTMS Custom home pages for Moodle™ LMS
 license: GPL-3.0
 metrics:

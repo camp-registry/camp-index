@@ -19,6 +19,9 @@ releases:
   listing-sha256: f9f155f4eb5abf824b4f487d183d47119b5e9669b3fc447d435ece5789877dac
   published: '2026-07-29T09:37:12Z'
   released: '2026-07-29T09:22:42Z'
+  supported-range:
+  - 500
+  - 502
 license: GPL-3.0
 metrics:
   updated: '2026-08-04T03:44:26Z'

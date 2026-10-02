@@ -26,6 +26,9 @@ releases:
   listing-sha256: 2b6c18eb32288672362a3b45aaa7f7f5edde3c6d9585e0d7425f0f70c2b0fd60
   published: '2026-09-19T07:25:35Z'
   released: '2026-09-18T21:28:57Z'
+  supported-range:
+  - 405
+  - 405
 - version: v5.0.10.03
   tag: v5.0.10.03
   commit: 18da384010004685ec3de47531eb210feb8afe1c
@@ -43,6 +46,9 @@ releases:
   listing-sha256: 2b6c18eb32288672362a3b45aaa7f7f5edde3c6d9585e0d7425f0f70c2b0fd60
   published: '2026-09-19T07:32:11Z'
   released: '2026-09-18T21:30:17Z'
+  supported-range:
+  - 500
+  - 502
 summary: MuTMS Programs plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:

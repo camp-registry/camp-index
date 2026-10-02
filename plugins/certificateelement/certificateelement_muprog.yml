@@ -24,6 +24,9 @@ releases:
   listing-sha256: fff5cac5d8efa0355f6cf129723c18f105a6c34921b5b198b09bf9844b73d06c
   published: '2026-09-19T07:25:16Z'
   released: '2026-09-18T21:28:56Z'
+  supported-range:
+  - 405
+  - 405
 - version: v5.0.10.03
   tag: v5.0.10.03
   commit: b6e9bda5d08a2a83406671d1e43c9107ace0fdb5
@@ -39,6 +42,9 @@ releases:
   listing-sha256: fff5cac5d8efa0355f6cf129723c18f105a6c34921b5b198b09bf9844b73d06c
   published: '2026-09-19T07:32:02Z'
   released: '2026-09-18T21:30:16Z'
+  supported-range:
+  - 500
+  - 502
 license: GPL-3.0
 summary: MuTMS Program elements for Certificate plugin
 dependencies:

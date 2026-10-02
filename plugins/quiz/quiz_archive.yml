@@ -29,6 +29,9 @@ releases:
   listing-sha256: d1ac61ffcc79197bd3cdb3580cb418549db519327bc30cea6b0573eb8a57debc
   published: '2026-07-30T17:28:47Z'
   released: '2026-07-30T17:04:52Z'
+  supported-range:
+  - 39
+  - 502
 - version: v5.2-r3
   tag: v5.2-r3
   commit: 3d411517d6e6fa477f6bbdd4be3cf878c9236511
@@ -50,6 +53,9 @@ releases:
   listing-sha256: 795f5b97454f001cc55b04f36f100b90254397208e1ca58bf1c4833ac4f36b78
   published: '2026-07-31T15:55:51Z'
   released: '2026-07-31T15:50:48Z'
+  supported-range:
+  - 39
+  - 502
 license: GPL-3.0
 metrics:
   updated: '2026-08-23T17:17:33Z'

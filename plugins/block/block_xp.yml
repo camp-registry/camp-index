@@ -27,6 +27,9 @@ releases:
   zip-sha256: 9be4ec27f399dcf30e895cc8a2dfcf04ba6dbe4c97cc6c044d46cef8a0541339
   published: '2026-07-25T05:43:47Z'
   released: '2026-04-20T16:37:12Z'
+  supported-range:
+  - 401
+  - 502
 - version: 3.16.0
   tag: v3.16.0
   commit: 0f771323a6060cba1022eb69c074dbcc86e3be48
@@ -41,6 +44,9 @@ releases:
   zip-sha256: dbaed39baaf022f1f16a131750e50e6bbd7f9869634277c6ab0c7206b8816ede
   published: '2026-07-25T05:44:40Z'
   released: '2024-04-22T14:28:08Z'
+  supported-range:
+  - 311
+  - 404
 - version: 3.15.2
   tag: v3.15.2
   commit: f1a4f49d4cca312c66be86047f87966a96f75258
@@ -61,6 +67,9 @@ releases:
   zip-sha256: 9e53de4f96331b9f4c1329f68b722289e1978d73bf2630299e20af189af42105
   published: '2026-07-25T05:45:23Z'
   released: '2023-11-27T10:18:15Z'
+  supported-range:
+  - 34
+  - 403
 - version: '20.1'
   tag: v20.1
   commit: 33b0f7845ed81155486809cb291fcb32a6b1d75c
@@ -78,6 +87,9 @@ releases:
   published: '2026-08-23T02:39:21Z'
   released: '2026-08-23T01:40:02Z'
   listing-sha256: f54f195e70e8f6237c607b62500e65d67a356f187d8be8c5f6fd1a007ef400f0
+  supported-range:
+  - 401
+  - 502
 license: GPL-3.0
 summary: A gamification plugin for Moodle allowing learners to gain experience points
   and level up.

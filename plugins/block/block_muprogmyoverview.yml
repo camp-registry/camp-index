@@ -23,6 +23,9 @@ releases:
   listing-sha256: df3493645e0c3bdfdf241f4f219b68ba830395a83eb483269eaf66860ce99cbb
   published: '2026-09-19T07:26:00Z'
   released: '2026-09-18T21:28:56Z'
+  supported-range:
+  - 405
+  - 405
 - version: v5.0.10.03
   tag: v5.0.10.03
   commit: 30e93108c29398337b6034b5c671d8061562fbeb
@@ -37,6 +40,9 @@ releases:
   listing-sha256: df3493645e0c3bdfdf241f4f219b68ba830395a83eb483269eaf66860ce99cbb
   published: '2026-09-19T07:32:33Z'
   released: '2026-09-18T21:30:16Z'
+  supported-range:
+  - 500
+  - 502
 license: GPL-3.0
 summary: MuTMS My programs overview page for Moodle™ LMS
 metrics:

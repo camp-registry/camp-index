@@ -22,6 +22,9 @@ releases:
   published: '2026-07-27T08:01:32Z'
   released: '2026-07-26T22:18:07Z'
   listing-sha256: ea7386fed5aec6c09b003b74201a9da6a4ce32be92b5c9c83450302edefddb35
+  supported-range:
+  - 401
+  - 405
 - version: 5.0.4
   tag: v5.0.4
   commit: b3484456ae9b423daf7b9a6d5ca048939ef3abe4
@@ -34,6 +37,9 @@ releases:
   published: '2026-07-28T13:17:13Z'
   released: '2026-07-26T19:24:29Z'
   listing-sha256: ea7386fed5aec6c09b003b74201a9da6a4ce32be92b5c9c83450302edefddb35
+  supported-range:
+  - 500
+  - 502
 - version: 5.0.5
   tag: v5.0.5
   commit: 2f1cfc2d5be41ace608c8131bf3b8d614a385ebd
@@ -46,6 +52,9 @@ releases:
   listing-sha256: ea7386fed5aec6c09b003b74201a9da6a4ce32be92b5c9c83450302edefddb35
   published: '2026-10-01T22:50:03Z'
   released: '2026-10-01T22:23:31Z'
+  supported-range:
+  - 500
+  - 503
 - version: 4.1.7
   tag: v4.1.7
   commit: bef5a0f5cc18ea6ad2f1aef6d7297c4a308a6183
@@ -60,6 +69,9 @@ releases:
   listing-sha256: ea7386fed5aec6c09b003b74201a9da6a4ce32be92b5c9c83450302edefddb35
   published: '2026-10-02T10:19:54Z'
   released: '2026-10-02T09:53:16Z'
+  supported-range:
+  - 401
+  - 405
 license: GPL-3.0
 labels:
 - fully-free
@@ -74,6 +86,5 @@ metrics:
     date: '2023-07-02T20:42:34Z'
   checked: '2026-09-20'
   ci: moodle-plugin-ci
-summary: >-
-  Organises course content in any number of sections that can be nested. Each
+summary: Organises course content in any number of sections that can be nested. Each
   section can be displayed on the same page or on a separate page

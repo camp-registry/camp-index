@@ -26,6 +26,9 @@ releases:
   published: '2026-07-24T13:22:40Z'
   released: '2026-07-24T11:46:24Z'
   listing-sha256: b56dbfb45ded99302eae838ce64b1dc6644bc4c5c1b069d6423f70526b3f43d8
+  supported-range:
+  - 401
+  - 501
 summary: Quick navigation - local plugin for Moodle 3.x
 license: GPL-3.0
 metrics:

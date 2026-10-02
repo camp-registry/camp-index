@@ -22,6 +22,9 @@ releases:
   published: '2026-07-24T14:36:52Z'
   released: '2026-07-24T14:35:03Z'
   listing-sha256: 52d224b7193d2d522cfcc2462e4d33d2fd2467810b4a241748ceba9bf8af3dbe
+  supported-range:
+  - 404
+  - 502
 - version: v5.2-r2
   tag: v5.2-r2
   commit: 72a80851677e9152a4544a9412ba04e710ae12bd
@@ -36,6 +39,9 @@ releases:
   published: '2026-07-25T13:47:05Z'
   released: '2026-07-25T13:45:09Z'
   listing-sha256: c7a522a1a0fafc14251139b7189c29a6accef660dd59facb00f1d20d2e8b84a2
+  supported-range:
+  - 404
+  - 502
 license: GPL-3.0
 labels:
 - fully-free

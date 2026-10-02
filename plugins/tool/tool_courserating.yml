@@ -23,6 +23,9 @@ releases:
   listing-sha256: 7e1820abaa0f69bb866f0a7a094df63d026e32c367676c9db3822790417323e7
   published: '2026-10-01T22:11:45Z'
   released: '2026-10-01T21:58:23Z'
+  supported-range:
+  - 405
+  - 503
 license: GPL-3.0
 metrics:
   updated: '2026-09-29T09:07:10Z'
@@ -35,6 +38,5 @@ metrics:
     date: '2023-07-28T17:44:30Z'
   checked: '2026-09-30'
   ci: moodle-plugin-ci
-summary: >-
-  "Course ratings" plugin allows students to add ratings and reviews to the
-  courses,
+summary: '"Course ratings" plugin allows students to add ratings and reviews to the
+  courses,'

@@ -26,6 +26,9 @@ releases:
   listing-sha256: d6ab13b0344bcc2a58ad550920edcf4783716f39877bb634816590c8674884ca
   published: '2026-09-28T15:48:21Z'
   released: '2026-09-28T15:44:41Z'
+  supported-range:
+  - 500
+  - 500
 - version: 405.1.1
   tag: V405.1.1
   commit: 108cbd0f397c68acdfd4d958bb78daf595c234e8
@@ -38,6 +41,9 @@ releases:
   listing-sha256: d6ab13b0344bcc2a58ad550920edcf4783716f39877bb634816590c8674884ca
   published: '2026-09-28T17:42:52Z'
   released: '2026-09-28T17:41:59Z'
+  supported-range:
+  - 405
+  - 405
 summary: Foundation theme for Moodle.
 license: GPL-3.0
 metrics:

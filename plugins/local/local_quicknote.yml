@@ -62,11 +62,13 @@ releases:
   listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
   published: '2026-09-28T13:31:50Z'
   released: '2026-09-28T13:13:36Z'
+  supported-range:
+  - 500
+  - 503
 license: GPL-3.0
-summary: >-
-  Help students study better without leaving Moodle. QuickNote lets learners
-  capture quotes, write notes in a native sidebar, and jump right back to the
-  original text.
+summary: Help students study better without leaving Moodle. QuickNote lets learners
+  capture quotes, write notes in a native sidebar, and jump right back to the original
+  text.
 metrics:
   updated: '2026-09-25T23:34:14Z'
   stars: 2

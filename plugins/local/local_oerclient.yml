@@ -19,6 +19,9 @@ releases:
   listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
   published: '2026-07-29T09:39:10Z'
   released: '2026-07-29T09:22:42Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.2
   tag: v1.0.2
   commit: 93c24d6e6ed03c02b879bb5309aeaf419ad4e336
@@ -31,6 +34,9 @@ releases:
   listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
   published: '2026-08-01T00:48:33Z'
   released: '2026-07-31T20:58:05Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.3
   tag: v1.0.3
   commit: 4892bd7492451a95b0e5b3b930ab0b903e8aec9a
@@ -43,6 +49,9 @@ releases:
   listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
   published: '2026-08-01T06:46:43Z'
   released: '2026-08-01T06:25:33Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.4
   tag: v1.0.4
   commit: 2c7945d841dd5ba130b95d2ad2b6c3b7748965fe
@@ -55,6 +64,9 @@ releases:
   listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
   published: '2026-08-01T10:02:55Z'
   released: '2026-08-01T08:47:29Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.5
   tag: v1.0.5
   commit: c5f243667a59968ff229a9c5c238e9a2c9e335ea
@@ -67,6 +79,9 @@ releases:
   listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
   published: '2026-08-02T06:10:33Z'
   released: '2026-08-02T05:31:05Z'
+  supported-range:
+  - 500
+  - 502
 license: GPL-3.0
 summary: A client plugin to enable communication with an OER Exchange site
 metrics:

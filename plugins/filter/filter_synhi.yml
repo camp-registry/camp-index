@@ -26,6 +26,9 @@ releases:
   listing-sha256: 14df214a2e12d580068f4f146187a85781e7dbbc26b348288a8b0778665964d3
   published: '2026-09-26T20:37:31Z'
   released: '2026-09-26T20:33:21Z'
+  supported-range:
+  - 500
+  - 502
 summary: Syntax highlighter
 license: GPL-3.0
 metrics:

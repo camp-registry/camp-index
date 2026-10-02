@@ -19,6 +19,9 @@ releases:
   listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
   published: '2026-07-29T09:39:08Z'
   released: '2026-07-29T09:22:42Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.2
   tag: v1.0.2
   commit: d7e5310e985db85de2a13a408919a2e61a3758d5
@@ -31,6 +34,9 @@ releases:
   listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
   published: '2026-08-01T00:52:08Z'
   released: '2026-07-31T20:58:00Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.3
   tag: v1.0.3
   commit: 945ed0e02b65c2099e73acd3113cc0a067c1bb80
@@ -43,6 +49,9 @@ releases:
   listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
   published: '2026-08-01T02:25:12Z'
   released: '2026-08-01T02:13:59Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.4
   tag: v1.0.4
   commit: 554d3924ef45e58d98e6a679a9af1c9cfb8cd086
@@ -55,6 +64,9 @@ releases:
   listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
   published: '2026-08-01T10:02:57Z'
   released: '2026-08-01T08:47:29Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.5
   tag: v1.0.5
   commit: 001b87c4ec509c07d89bcabdb9e44070ae8e27aa
@@ -67,6 +79,9 @@ releases:
   listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
   published: '2026-08-02T06:13:41Z'
   released: '2026-08-02T05:53:10Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.6
   tag: v1.0.6
   commit: 52ffb6f37418b2842aa68b5480085576f733cc62
@@ -79,6 +94,9 @@ releases:
   listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
   published: '2026-08-02T07:54:49Z'
   released: '2026-08-02T07:09:43Z'
+  supported-range:
+  - 500
+  - 502
 - version: 1.0.7
   tag: v1.0.7
   commit: 5d2a6c6af40335933ee1d88ef8611bdc95946df5
@@ -91,6 +109,9 @@ releases:
   listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
   published: '2026-08-03T13:18:33Z'
   released: '2026-08-03T13:09:20Z'
+  supported-range:
+  - 500
+  - 502
 license: GPL-3.0
 summary: An exchange plugin to enable Open Educational Resource sharing
 metrics:

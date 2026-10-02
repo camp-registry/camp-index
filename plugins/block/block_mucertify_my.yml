@@ -23,6 +23,9 @@ releases:
   listing-sha256: 17f78976d6eb5f39cffd518cb116bd403f14ea224151354ccdcc4bbcabe4016b
   published: '2026-09-19T07:25:56Z'
   released: '2026-09-18T21:28:56Z'
+  supported-range:
+  - 405
+  - 405
 - version: v5.0.10.03
   tag: v5.0.10.03
   commit: 18b67ea1d7b84759e05bc8c694ee131a2aa815d6
@@ -37,6 +40,9 @@ releases:
   listing-sha256: 17f78976d6eb5f39cffd518cb116bd403f14ea224151354ccdcc4bbcabe4016b
   published: '2026-09-19T07:32:28Z'
   released: '2026-09-18T21:30:16Z'
+  supported-range:
+  - 500
+  - 502
 summary: MuTMS  My certifications block for Moodle™ LMS
 license: GPL-3.0
 metrics:

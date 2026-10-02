@@ -24,6 +24,9 @@ releases:
   listing-sha256: 42417804b298038daf0e531ea82d4e009453e76ca43df2ee9e79032d2b08c5c0
   published: '2026-09-26T12:34:48Z'
   released: '2026-09-26T12:33:13Z'
+  supported-range:
+  - 502
+  - 502
 - version: 501.1.0
   tag: V501.1.0
   commit: 51f21afd8c56abc923b5e1d0aec246910959a733
@@ -34,6 +37,9 @@ releases:
   listing-sha256: 42417804b298038daf0e531ea82d4e009453e76ca43df2ee9e79032d2b08c5c0
   published: '2026-09-26T15:33:23Z'
   released: '2026-09-26T15:32:03Z'
+  supported-range:
+  - 501
+  - 501
 - version: 500.1.4
   tag: V500.1.4
   commit: e65e0bca048630dec4ca2a23d500ac14d84934bc
@@ -44,6 +50,9 @@ releases:
   listing-sha256: 42417804b298038daf0e531ea82d4e009453e76ca43df2ee9e79032d2b08c5c0
   published: '2026-09-26T16:56:08Z'
   released: '2026-09-26T16:53:55Z'
+  supported-range:
+  - 500
+  - 500
 - version: 405.1.5
   tag: V405.1.5
   commit: 5f10de322b7d339e75bee0ce95ba21d18e839abd
@@ -54,6 +63,9 @@ releases:
   listing-sha256: 42417804b298038daf0e531ea82d4e009453e76ca43df2ee9e79032d2b08c5c0
   published: '2026-09-26T17:58:04Z'
   released: '2026-09-26T17:56:46Z'
+  supported-range:
+  - 405
+  - 405
 summary: Collapsed Topics course format for Moodle.
 license: GPL-3.0
 metrics:
