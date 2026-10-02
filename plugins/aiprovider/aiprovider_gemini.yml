@@ -1,0 +1,19 @@
+component: aiprovider_gemini
+source: https://github.com/Universita-di-Ferrara/moodle-aiprovider_gemini
+maintainers:
+- github: Universita-di-Ferrara
+tier: 0
+status: active
+discovered: '2026-10-02'
+releases: []
+license: GPL-3.0
+summary: A Moodle AI provider plugin that integrates Google's Gemini AI models into
+  Moodle's AI framework. Supports text generation, image generation, and text summarization
+  with configurable rate limiting and privacy-first design.
+metrics:
+  updated: '2026-08-06T08:28:03Z'
+  stars: 3
+  forks: 3
+  open-issues: 1
+  archived: false
+  checked: '2026-10-02'

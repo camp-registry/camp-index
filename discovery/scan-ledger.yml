@@ -43030,13 +43030,10 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
   Universita-di-Ferrara/moodle-aiprovider_gemini:
-    outcome: needs-review
-    detail: declares aiprovider_gemini, bundled with Moodle since 5.2; may list only
-      as the canonical pre-integration source serving older Moodle versions — human
-      sign-off required (camp-tools#29)
+    outcome: written
+    detail: listed as aiprovider_gemini
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: aiprovider_gemini
+    last-checked: '2026-10-02'
   Universita-di-Ferrara/moodle-block_academic_dashboard_esse3:
     outcome: exists
     detail: component block_academic_dashboard_esse3 already registered (first-come,
@@ -100737,6 +100734,13 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
     component: lifecyclestep_adminapprove
+    resolution:
+      verdict: declined
+      ref: https://github.com/camp-registry/camp-index/issues/204
+      decided: '2026-10-02'
+      detail: declares lifecyclestep_adminapprove but tool_lifecycle bundles a subplugin
+        of the same name (step/adminapprove in the parent repository); shadowing review
+        required before listing (camp-tools#16)
   learnweb/moodle-lifecyclestep_dummy:
     outcome: exists
     detail: component lifecyclestep_dummy already registered (first-come, RFC §8)
