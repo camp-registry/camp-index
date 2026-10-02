@@ -3,17 +3,31 @@ source: https://github.com/marinaglancy/moodle-tool_realtime
 source-repo-id: 265896441
 maintainers:
 - github: marinaglancy
-tier: 1
+tier: 2
 security-contact: https://github.com/marinaglancy/moodle-tool_realtime/security/advisories
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 2.1.2
+  tag: v2.1.2
+  commit: 63bc42ec67ce6f16691d3bf7a0a25e458a785d4c
+  moodle-version: 2026100200
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 10edf4b7c7ec6c86728c09a6df3551545d2cb0e70f30eafa33e6834e3e21baa9
+  listing-sha256: 80ff2c011c1b83cc9d43a25c830734b8c2e635fd40fbbaef1c85f7f15f3dcd6e
+  published: '2026-10-02T11:05:18Z'
+  released: '2026-10-02T10:48:59Z'
 license: GPL-3.0
-summary: Add real-time server-to-browser communication to your plugins via WebSockets
-  or polling. Send notifications from PHP, receive events in JavaScript, no page reloads
-  needed.
+summary: >-
+  Add real-time server-to-browser communication to your plugins via WebSockets
+  or polling. Send notifications from PHP, receive events in JavaScript, no page
+  reloads needed.
 metrics:
   updated: '2026-09-29T09:04:02Z'
   stars: 7
