@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-13'
+  latest-tag:
+    tag: v1.3
+    date: '2023-06-26T14:30:33Z'
+  checked: '2026-10-02'
 summary: This plugin lets users of the same group in a course with the capability
   "update userprofiles of own group"

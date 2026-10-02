@@ -9,12 +9,15 @@ releases: []
 license: GPL-3.0
 summary: Payment plugin for moodle
 metrics:
-  updated: '2026-07-13T08:38:06Z'
+  updated: '2026-09-22T03:06:42Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
   latest-release:
-    tag: production
-    date: '2026-07-13T08:38:06Z'
-  checked: '2026-09-14'
+    tag: v1.0
+    date: '2026-09-22T03:06:42Z'
+  latest-tag:
+    tag: v1.0
+    date: '2026-09-17T06:50:52Z'
+  checked: '2026-10-02'

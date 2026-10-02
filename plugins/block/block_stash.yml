@@ -15,4 +15,7 @@ metrics:
   forks: 22
   open-issues: 15
   archived: false
-  checked: '2026-09-12'
+  latest-tag:
+    tag: v1.3.1
+    date: '2018-05-10T04:43:35Z'
+  checked: '2026-10-02'

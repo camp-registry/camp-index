@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-14'
+  latest-tag:
+    tag: v0.9.0
+    date: '2022-04-21T06:16:03Z'
+  checked: '2026-10-02'
 summary: Course Translator is a derivative of Content Translation Manager and Fulltranslate
   merged into a single plugin. It provides a content translation page for courses
   and automatic machine translation using the DeepL Pro Translation api. This filter

@@ -18,4 +18,7 @@ metrics:
   latest-release:
     tag: '2024061800'
     date: '2024-06-18T12:08:29Z'
-  checked: '2026-09-13'
+  latest-tag:
+    tag: '2024061800'
+    date: '2024-06-18T12:03:24Z'
+  checked: '2026-10-02'

@@ -17,4 +17,7 @@ metrics:
   latest-release:
     tag: Main-1.7.4.1
     date: '2024-07-04T18:28:49Z'
-  checked: '2026-09-13'
+  latest-tag:
+    tag: Main-1.7.4.1
+    date: '2024-07-04T18:30:55Z'
+  checked: '2026-10-02'

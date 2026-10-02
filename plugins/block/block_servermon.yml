@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: block_servermon
 metrics:
-  updated: '2026-06-21T11:46:08Z'
+  updated: '2026-09-23T00:10:45Z'
   stars: 2
   forks: 0
   open-issues: 0
@@ -17,4 +17,7 @@ metrics:
   latest-release:
     tag: v1.9.1
     date: '2026-06-21T11:46:08Z'
-  checked: '2026-09-12'
+  latest-tag:
+    tag: v1.9.1
+    date: '2026-06-21T11:34:16Z'
+  checked: '2026-10-02'

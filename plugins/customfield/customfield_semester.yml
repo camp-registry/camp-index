@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v5.2-r1
     date: '2026-07-29T09:09:25Z'
-  checked: '2026-09-13'
+  latest-tag:
+    tag: v5.2-r1
+    date: '2026-07-29T09:06:47Z'
+  checked: '2026-10-02'
 summary: Adds a Semester customfield type to moodle.

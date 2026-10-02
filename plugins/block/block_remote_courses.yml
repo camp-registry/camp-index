@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: This block prints a list of courses from another Moodle instance.
 metrics:
-  updated: '2026-07-15T18:41:10Z'
+  updated: '2026-09-30T14:46:47Z'
   stars: 3
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-12'
+  latest-tag:
+    tag: v3.6.1
+    date: '2026-07-15T18:40:57Z'
+  checked: '2026-10-02'

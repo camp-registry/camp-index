@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-13'
+  latest-tag:
+    tag: v1.3
+    date: '2025-10-08T06:35:58Z'
+  checked: '2026-10-02'
 summary: This plugin syncs courses, enrolments and (on demand) users from CAMPUSonline.

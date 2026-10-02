@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Markdown implementation of the Moodle dataformat plugin
 metrics:
-  updated: '2026-07-15T18:35:51Z'
+  updated: '2026-09-30T14:34:01Z'
   stars: 2
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-09-13'
+  latest-tag:
+    tag: v4.1.1
+    date: '2026-07-15T18:35:39Z'
+  checked: '2026-10-02'

@@ -8,12 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 metrics:
-  updated: '2026-09-10T16:36:16Z'
+  updated: '2026-10-01T14:21:58Z'
   stars: 4
   forks: 18
-  open-issues: 27
+  open-issues: 30
   archived: false
-  checked: '2026-09-14'
+  latest-tag:
+    tag: AY-502-R1
+    date: '2026-08-07T14:37:15Z'
+  checked: '2026-10-02'
 summary: The Ally filter provides accessibility scores and tools for files uploaded
   to Moodle by teachers. It also provides
 dependencies:

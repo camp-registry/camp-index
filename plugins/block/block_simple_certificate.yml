@@ -17,6 +17,9 @@ metrics:
   latest-release:
     tag: v1.0.5-2018081400
     date: '2018-08-14T12:04:27Z'
-  checked: '2026-09-12'
+  latest-tag:
+    tag: v1.0.5-2018082000
+    date: '2018-08-20T19:07:29Z'
+  checked: '2026-10-02'
 dependencies:
   mod_simplecertificate: 2015061729

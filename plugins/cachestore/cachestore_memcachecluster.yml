@@ -17,6 +17,9 @@ metrics:
   latest-release:
     tag: 2.7.0
     date: '2014-05-01T17:13:46Z'
-  checked: '2026-09-13'
+  latest-tag:
+    tag: 2.7.0
+    date: '2014-05-01T17:11:35Z'
+  checked: '2026-10-02'
 dependencies:
   cachestore_memcache: 2013050700

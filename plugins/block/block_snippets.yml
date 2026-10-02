@@ -1,5 +1,5 @@
 component: block_snippets
-source: https://github.com/sharpchi/moodle-block_snippets
+source: https://github.com/sharpprojects/moodle-block_snippets
 maintainers:
 - github: sharpchi
 tier: 0
@@ -13,4 +13,4 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-12'
+  checked: '2026-10-02'

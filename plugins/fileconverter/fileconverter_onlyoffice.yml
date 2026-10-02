@@ -14,4 +14,7 @@ metrics:
   forks: 7
   open-issues: 7
   archived: false
-  checked: '2026-09-14'
+  latest-tag:
+    tag: v3.8-r1
+    date: '2019-12-22T17:37:01Z'
+  checked: '2026-10-02'

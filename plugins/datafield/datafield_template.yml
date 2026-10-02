@@ -14,6 +14,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-13'
+  latest-tag:
+    tag: 2025-04-05-(56)
+    date: '2025-04-05T04:16:59Z'
+  checked: '2026-10-02'
 dependencies:
   datafield_admin: any

@@ -17,4 +17,7 @@ metrics:
   latest-release:
     tag: MOODLE_32
     date: '2016-12-07T20:27:19Z'
-  checked: '2026-09-12'
+  latest-tag:
+    tag: MOODLE_32
+    date: '2016-12-07T20:26:49Z'
+  checked: '2026-10-02'

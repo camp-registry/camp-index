@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-13'
+  latest-tag:
+    tag: v1.0.2
+    date: '2026-07-26T17:04:33Z'
+  checked: '2026-10-02'
 summary: A student-facing block that aggregates every upcoming deadline across all
   of a

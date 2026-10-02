@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-13'
+  latest-tag:
+    tag: '2024040300'
+    date: '2024-04-04T16:36:07Z'
+  checked: '2026-10-02'
 summary: Authentication on znanium.ru

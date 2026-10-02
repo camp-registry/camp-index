@@ -40,6 +40,9 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-09-13'
+  latest-tag:
+    tag: v1.0.0
+    date: '2026-09-08T20:34:36Z'
+  checked: '2026-10-02'
   ci: moodle-plugin-ci
 summary: ENROL PLUGIN Custom redirect

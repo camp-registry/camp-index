@@ -9,12 +9,15 @@ releases: []
 license: GPL-3.0
 summary: A Moodle Enrollment plugin for the Ilios Curriculum Management system
 metrics:
-  updated: '2026-06-22T16:42:49Z'
+  updated: '2026-09-24T18:12:34Z'
   stars: 3
   forks: 4
   open-issues: 0
   archived: false
   latest-release:
-    tag: v5.1.1
-    date: '2026-04-23T00:15:44Z'
-  checked: '2026-09-14'
+    tag: v5.2.0
+    date: '2026-09-24T18:12:34Z'
+  latest-tag:
+    tag: v5.2.0
+    date: '2026-09-24T17:46:30Z'
+  checked: '2026-10-02'

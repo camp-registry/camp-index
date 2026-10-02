@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v2026090200
     date: '2026-09-02T09:50:18Z'
-  checked: '2026-09-13'
+  latest-tag:
+    tag: v2026090200
+    date: '2026-09-02T09:24:22Z'
+  checked: '2026-10-02'
 summary: Moodle Authorize.net Plugin [enrolauthorizedotnet]

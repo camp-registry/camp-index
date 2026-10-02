@@ -36,10 +36,13 @@ releases:
 license: GPL-3.0
 summary: MuTMS Programs enrolment plugin for Moodle™ LMS
 metrics:
-  updated: '2026-09-13T17:51:34Z'
+  updated: '2026-09-29T17:15:35Z'
   stars: 0
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-09-14'
+  latest-tag:
+    tag: v5.0.10.03
+    date: '2026-09-18T21:30:17Z'
+  checked: '2026-10-02'
   ci: moodle-plugin-ci

@@ -11,9 +11,9 @@ summary: The XtoSCORM Moodle block plugin connects your Moodle site with XtoSCOR
   allowing teachers, trainers, and LMS administrators to quickly generate LMS-ready
   SCORM packages without using external authoring tools.
 metrics:
-  updated: '2026-08-20T13:24:09Z'
+  updated: '2026-09-19T17:08:40Z'
   stars: 4
   forks: 0
-  open-issues: 3
+  open-issues: 2
   archived: false
-  checked: '2026-09-13'
+  checked: '2026-10-02'

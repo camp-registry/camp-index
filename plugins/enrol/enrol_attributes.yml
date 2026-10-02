@@ -12,10 +12,13 @@ summary: This plugin allows users to be enrolled according to any value stored i
 metrics:
   updated: '2025-07-07T09:55:10Z'
   stars: 17
-  forks: 26
-  open-issues: 13
+  forks: 27
+  open-issues: 15
   archived: false
   latest-release:
     tag: '2025070700'
     date: '2025-07-07T09:55:42Z'
-  checked: '2026-09-13'
+  latest-tag:
+    tag: '2025070700'
+    date: '2025-07-07T09:52:54Z'
+  checked: '2026-10-02'

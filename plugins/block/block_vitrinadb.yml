@@ -8,10 +8,10 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-12T13:17:12Z'
+  updated: '2026-09-29T05:11:56Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-13'
+  checked: '2026-10-02'
 summary: A block to display a list of courses and their general information.
