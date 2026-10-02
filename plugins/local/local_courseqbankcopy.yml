@@ -1,0 +1,18 @@
+component: local_courseqbankcopy
+source: https://github.com/jPerpetuo/moodle-local_courseqbankcopy
+maintainers:
+- github: jPerpetuo
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that independently copies question banks and quiz references
+  during course import.
+metrics:
+  updated: '2026-09-09T00:45:19Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

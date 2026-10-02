@@ -1,0 +1,19 @@
+component: quiz_oralexam
+source: https://github.com/engfeda-ui/moodle-quiz_oralexam
+maintainers:
+- github: engfeda-ui
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: GPL-3.0
+summary: 'Moodle Quiz Report Plugin: Oral & Practical Exam Evaluator'
+dependencies:
+  mod_quiz: any
+metrics:
+  updated: '2026-09-28T10:07:58Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

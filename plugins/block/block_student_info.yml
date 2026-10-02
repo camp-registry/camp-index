@@ -1,0 +1,17 @@
+component: block_student_info
+source: https://github.com/adreapp/block_student_info
+maintainers:
+- github: adreapp
+tier: 0
+status: active
+discovered: '2026-10-01'
+releases: []
+license: MIT
+summary: New plugin with Moodle
+metrics:
+  updated: '2025-01-26T21:27:30Z'
+  stars: 1
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-10-01'

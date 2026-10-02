@@ -48247,6 +48247,11 @@ repos:
     detail: component tool_adpe already registered (first-come, RFC §8)
     first-seen: '2026-08-03'
     last-checked: '2026-09-03'
+  adreapp/block_student_info:
+    outcome: written
+    detail: listed as block_student_info
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   adrian-sarmas/moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch MOODLE_34_STABLE
@@ -77259,6 +77264,16 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-10-01'
     component: block_comp_report_ext
+  engfeda-ui/moodle-quiz_oralexam:
+    outcome: written
+    detail: listed as quiz_oralexam
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
+  engfeda-ui/moodle-quizaccess_oralexam:
+    outcome: written
+    detail: listed as quizaccess_oralexam
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   engglokesh/Moodle-Assignment:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -85142,6 +85157,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  haxeeb-0912/moodle-mod_integrityquiz:
+    outcome: written
+    detail: listed as mod_integrityquiz
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   haydencordeiro/moodlebot:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -90345,6 +90365,11 @@ repos:
     detail: no parseable version.php at root of branch master
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  jPerpetuo/moodle-local_courseqbankcopy:
+    outcome: written
+    detail: listed as local_courseqbankcopy
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   jPerpetuo/moodle-mod_kanban-ccead:
     outcome: exists
     detail: component mod_kanban already indexed this run
@@ -146356,6 +146381,11 @@ repos:
     detail: component local_imageblog already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  verzog/moodle-local_lessonimportpptx:
+    outcome: written
+    detail: listed as local_lessonimportpptx
+    first-seen: '2026-10-01'
+    last-checked: '2026-10-01'
   verzog/moodle-local_quizrubricgrader:
     outcome: exists
     detail: component local_quizrubricgrader already registered (first-come, RFC §8)
