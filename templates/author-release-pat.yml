@@ -84,7 +84,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.78"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.79"
 
       # Stale template copies are the recurring failure mode; this nudge
       # never fails the run (camp-tools#35).

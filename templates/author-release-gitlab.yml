@@ -32,7 +32,7 @@ camp-release:
     COMPONENT: ""
     SUPPORTED_MOODLE: ""
   script:
-    - pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.78"
+    - pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.79"
     # stale-copy nudge; never fails the run (camp-tools#35)
     - |
       current=$(curl -s --max-time 5 -A "camp-release" https://camp-registry.org/version.json | sed -nE 's/.*"camp-tools": *"([0-9.]+)".*/\1/p')
