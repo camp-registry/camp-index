@@ -1,0 +1,17 @@
+component: enrol_auto
+source: https://github.com/catalyst/totara-enrol_auto
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-10-02'
+releases: []
+license: GPL-3.0
+summary: Auto enrol plugin for Totara
+metrics:
+  updated: '2025-02-18T22:05:45Z'
+  stars: 15
+  forks: 21
+  open-issues: 7
+  archived: false
+  checked: '2026-10-02'

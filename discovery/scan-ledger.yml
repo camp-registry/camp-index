@@ -62575,6 +62575,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
+  catalyst/totara-enrol_auto:
+    outcome: written
+    detail: listed as enrol_auto
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   catapult-elearning/basiclti4moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -84003,6 +84008,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-11'
     last-checked: '2026-09-03'
+  gtn/z_old-desp:
+    outcome: written
+    detail: listed as block_desp
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   gtushar2910/Moodle_Spot_Instance_All_In_Place:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
