@@ -3,13 +3,28 @@ source: https://github.com/marinaglancy/moodle-mod_kahoodle
 source-repo-id: 1048959939
 maintainers:
 - github: marinaglancy
-tier: 1
+tier: 2
 security-contact: https://github.com/marinaglancy/moodle-mod_kahoodle/security/advisories
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 4.5.2
+  tag: v4.5.2
+  commit: 3619e2910fb9337784088e3fb1fbfe48084e2134
+  moodle-version: 2026100200
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_realtime: 2026030600
+  zip-sha256: a47af7c8d735757d1d7a04d8e3bbb39bbf3ef996b6128277f0ee5bfcce17f2ad
+  listing-sha256: 1ff70cc40c807d560f246d988d223dd568c13110d14b8f0d137e126b6b922f4a
+  published: '2026-10-02T11:55:16Z'
+  released: '2026-10-02T10:48:46Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-25T18:22:51Z'
@@ -19,8 +34,10 @@ metrics:
   archived: false
   checked: '2026-09-27'
   ci: moodle-plugin-ci
-summary: Kahoodle is a Moodle activity module that enables real-time, interactive
-  quiz sessions where all participants take a quiz simultaneously. Designed for engaging,
-  game-like quiz experiences similar to popular classroom quiz platforms.
+summary: >-
+  Kahoodle is a Moodle activity module that enables real-time, interactive quiz
+  sessions where all participants take a quiz simultaneously. Designed for
+  engaging, game-like quiz experiences similar to popular classroom quiz
+  platforms.
 dependencies:
   tool_realtime: 2026030600
