@@ -29,6 +29,7 @@ releases:
   supported-range:
   - 502
   - 502
+  maturity: stable
 - version: 501.1.5
   tag: V501.1.5
   commit: 91bb541a421500ed100363260923880e44f2d2f6
@@ -44,6 +45,7 @@ releases:
   supported-range:
   - 501
   - 501
+  maturity: stable
 - version: 500.2.9
   tag: V500.2.9
   commit: 1e1775ee730a4ea84a9f4c8ea084b100f53bff89
@@ -59,6 +61,7 @@ releases:
   supported-range:
   - 500
   - 500
+  maturity: stable
 - version: 405.2.9
   tag: V405.2.9
   commit: 3073156f16d2205d6294231054fc0bfa76f71592
@@ -74,6 +77,7 @@ releases:
   supported-range:
   - 405
   - 405
+  maturity: stable
 summary: Adaptable theme for Moodle
 license: GPL-3.0
 metrics:

@@ -26,6 +26,7 @@ releases:
   supported-range:
   - 402
   - 405
+  maturity: stable
 summary: Markdown friendly editor for Moodle
 license: GPL-3.0
 metrics:

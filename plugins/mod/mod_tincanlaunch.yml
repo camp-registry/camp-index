@@ -27,6 +27,7 @@ releases:
   supported-range:
   - 311
   - 401
+  maturity: stable
 license: GPL-3.0
 summary: A Moodle plugin that allows the launching of xAPI content using the Rustici
   Launch Method.

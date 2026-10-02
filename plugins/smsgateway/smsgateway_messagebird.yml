@@ -28,6 +28,7 @@ releases:
   supported-range:
   - 405
   - 502
+  maturity: stable
 license: GPL-3.0
 metrics:
   updated: '2026-08-31T19:37:28Z'

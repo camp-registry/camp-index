@@ -29,6 +29,7 @@ releases:
   supported-range:
   - 405
   - 501
+  maturity: stable
 license: GPL-3.0
 summary: A block to display content from different sources and with different designs.
 metrics:

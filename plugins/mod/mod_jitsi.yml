@@ -21,6 +21,7 @@ releases:
   published: '2026-07-25T07:26:18Z'
   released: '2026-07-25T07:05:08Z'
   listing-sha256: 88cc96bb7be5d41839458b37a1b2d5ff0402f8ea7936da824fc00166d8d41ba5
+  maturity: stable
 summary: Jitsi videoconference plugin for Moodle
 license: GPL-3.0
 metrics:

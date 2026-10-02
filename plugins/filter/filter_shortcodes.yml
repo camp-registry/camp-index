@@ -26,6 +26,7 @@ releases:
   zip-sha256: 888adf6b8bdfdf2a380ef1aeef8e0dd608d93f4de1471ce2e28e0d17641eabb3
   published: '2026-07-25T05:21:15Z'
   released: '2026-04-18T00:19:49Z'
+  maturity: stable
 license: GPL-3.0
 summary: Enables users to easily inject and modify content using shortcodes provided
   by other Moodle plugins.

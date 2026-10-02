@@ -20,6 +20,7 @@ releases:
   listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
   published: '2026-08-15T21:45:04Z'
   released: '2026-08-15T21:26:40Z'
+  maturity: beta
 - version: 0.10.0
   tag: 0.10.0
   commit: ae97bd7259281520f681d2f0f59589ba3bc3b5c4
@@ -30,6 +31,7 @@ releases:
   listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
   published: '2026-09-01T12:28:05Z'
   released: '2026-08-30T21:27:36Z'
+  maturity: beta
 - version: 0.11.0
   tag: 0.11.0
   commit: 7d22759991e7f27d63c3b77c47a5c393ebce22e5
@@ -40,6 +42,7 @@ releases:
   listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
   published: '2026-09-13T02:14:36Z'
   released: '2026-09-13T01:02:43Z'
+  maturity: beta
 - version: m45-0.11.0
   tag: m45-0.11.0
   commit: 501755745d0dd77afec6500c6642819f4a837ece
@@ -50,6 +53,7 @@ releases:
   listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
   published: '2026-09-13T02:22:29Z'
   released: '2026-09-13T00:54:36Z'
+  maturity: beta
 - version: v0.12.0
   tag: v0.12.0
   commit: f0e78f8804a857019aa367707aa7c0839af3e827
@@ -65,6 +69,7 @@ releases:
   supported-range:
   - 500
   - 503
+  maturity: stable
 license: GPL-3.0
 summary: Help students study better without leaving Moodle. QuickNote lets learners
   capture quotes, write notes in a native sidebar, and jump right back to the original

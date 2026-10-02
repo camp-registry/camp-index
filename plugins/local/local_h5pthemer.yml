@@ -20,6 +20,7 @@ releases:
   listing-sha256: c79c4ed5fccdd226950bbc241c425e51c0fbf292f070932e7516b10055ac0c85
   published: '2026-09-15T02:00:59Z'
   released: '2026-09-07T01:38:46Z'
+  maturity: alpha
 - version: v0.5.1
   tag: v0.5.1
   commit: fd45f333f2862937f6fd544c0360e7d34a455d52
@@ -30,6 +31,7 @@ releases:
   listing-sha256: c79c4ed5fccdd226950bbc241c425e51c0fbf292f070932e7516b10055ac0c85
   published: '2026-09-21T14:41:57Z'
   released: '2026-09-21T14:39:05Z'
+  maturity: alpha
 - version: v0.6.0
   tag: v0.6.0
   commit: 9d1660da1a7b8990161e2aa86cab82d83360ddfc
@@ -46,6 +48,7 @@ releases:
   supported-range:
   - 405
   - 503
+  maturity: stable
 - version: v0.6.1
   tag: v0.6.1
   commit: 478fed30d2a4af58638f2ddbea3603db1d4d8c5f
@@ -62,6 +65,7 @@ releases:
   supported-range:
   - 405
   - 503
+  maturity: stable
 license: GPL-3.0
 metrics:
   updated: '2026-09-22T01:12:38Z'

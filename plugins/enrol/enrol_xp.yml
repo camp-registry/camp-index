@@ -27,6 +27,7 @@ releases:
   zip-sha256: 7aba6e879af8ff8e0b921188c394c273d194ceb243af802939f8595e0d828f49
   published: '2026-07-25T05:37:14Z'
   released: '2026-04-20T14:53:05Z'
+  maturity: stable
 summary: Enrol users in courses when a certain level from Level up! is attained.
 license: GPL-3.0
 metrics:

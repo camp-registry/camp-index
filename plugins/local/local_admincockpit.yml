@@ -24,6 +24,7 @@ releases:
   supported-range:
   - 501
   - 502
+  maturity: stable
 - version: 2.1.2
   tag: v2.1.2
   commit: 6724ae26abc3007e8e0e3758d83bc98a6a1d162d
@@ -38,6 +39,7 @@ releases:
   supported-range:
   - 501
   - 502
+  maturity: stable
 - version: 2.2.3
   tag: v2.2.3
   commit: 7a7a1c395c7575e77f22f9388c2c2182a31955ba
@@ -52,6 +54,7 @@ releases:
   supported-range:
   - 501
   - 502
+  maturity: stable
 - version: 2.5.0
   tag: v2.5.0
   commit: c2ab4e3c6a75fbd257601b8272a7e2fd55489d8f
@@ -66,6 +69,7 @@ releases:
   supported-range:
   - 501
   - 503
+  maturity: stable
 summary: 'Admin overview page for Moodle: per-school user/course metrics, health signals
   with click-through actions, and admin shortcuts'
 license: GPL-3.0

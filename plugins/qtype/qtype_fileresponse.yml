@@ -29,6 +29,7 @@ releases:
   supported-range:
   - 400
   - 502
+  maturity: stable
 license: GPL-3.0
 summary: moodle-qtype_fileresponse
 metrics:

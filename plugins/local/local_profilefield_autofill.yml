@@ -28,6 +28,7 @@ releases:
   supported-range:
   - 405
   - 502
+  maturity: stable
 license: GPL-3.0
 summary: A local Moodle plugin that updates user profile fields based on admin-specified
   rules.

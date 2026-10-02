@@ -25,6 +25,7 @@ releases:
   supported-range:
   - 401
   - 405
+  maturity: stable
 - version: 5.0.4
   tag: v5.0.4
   commit: b3484456ae9b423daf7b9a6d5ca048939ef3abe4
@@ -40,6 +41,7 @@ releases:
   supported-range:
   - 500
   - 502
+  maturity: stable
 - version: 5.0.5
   tag: v5.0.5
   commit: 2f1cfc2d5be41ace608c8131bf3b8d614a385ebd
@@ -55,6 +57,7 @@ releases:
   supported-range:
   - 500
   - 503
+  maturity: stable
 - version: 4.1.7
   tag: v4.1.7
   commit: bef5a0f5cc18ea6ad2f1aef6d7297c4a308a6183
@@ -72,6 +75,7 @@ releases:
   supported-range:
   - 401
   - 405
+  maturity: stable
 license: GPL-3.0
 labels:
 - fully-free

@@ -28,6 +28,7 @@ releases:
   supported-range:
   - 403
   - 501
+  maturity: stable
 - version: 5.0.2
   tag: v5.0.2
   commit: 93b55fa751056d19a3424bcac1d99f0aa018feb0
@@ -45,6 +46,7 @@ releases:
   supported-range:
   - 403
   - 501
+  maturity: stable
 - version: 5.0.3
   tag: v5.0.3
   commit: 769f2e6f97a3500db0e1623f107e834f3a70aaa6
@@ -62,6 +64,7 @@ releases:
   supported-range:
   - 403
   - 501
+  maturity: stable
 - version: 5.1.0
   tag: v5.1.0
   commit: 247d9aef1c49fc8331ce3cb3486ec312516d3654
@@ -78,6 +81,7 @@ releases:
   supported-range:
   - 405
   - 502
+  maturity: stable
 license: GPL-3.0
 summary: A Moodle plugin to send xAPI statements to an LRS using events in the Moodle
   logstore.

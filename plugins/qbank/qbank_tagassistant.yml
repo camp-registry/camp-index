@@ -20,6 +20,7 @@ releases:
   listing-sha256: 42fe1c94a71c458948913c6972d724da717d07f9b57ebebfd3b8d902949ba7d6
   published: '2026-08-14T07:22:24Z'
   released: '2026-08-14T07:22:06Z'
+  maturity: stable
 - version: v3.0.4
   tag: v3.0.4
   commit: 456f1b31bbe50a906f21bab6a2f67ad0dc65dad9
@@ -30,6 +31,7 @@ releases:
   listing-sha256: 04a5e28bdfe327e9229f09aac3451434d160ea2daf20dab9b2c1f7db8843c6f1
   published: '2026-08-14T14:41:23Z'
   released: '2026-08-14T14:40:56Z'
+  maturity: stable
 - version: v3.0.5
   tag: v3.0.5
   commit: 78fa05d8b776cbd0f83c9cdf6632fc56d75964f9
@@ -40,6 +42,7 @@ releases:
   listing-sha256: 04a5e28bdfe327e9229f09aac3451434d160ea2daf20dab9b2c1f7db8843c6f1
   published: '2026-09-08T05:31:55Z'
   released: '2026-09-08T05:31:34Z'
+  maturity: stable
 - version: v3.0.6
   tag: v3.0.6
   commit: 4a7c42ef9b1d659b1f5b500eaa6c24e605102bd1
@@ -50,6 +53,7 @@ releases:
   listing-sha256: 04a5e28bdfe327e9229f09aac3451434d160ea2daf20dab9b2c1f7db8843c6f1
   published: '2026-09-16T13:02:31Z'
   released: '2026-09-16T13:02:03Z'
+  maturity: stable
 - version: v3.0.7
   tag: v3.0.7
   commit: a4409643e85bff6a749f1fe5c57b31011172c6f8
@@ -60,6 +64,7 @@ releases:
   listing-sha256: 04a5e28bdfe327e9229f09aac3451434d160ea2daf20dab9b2c1f7db8843c6f1
   published: '2026-09-24T15:09:44Z'
   released: '2026-09-24T15:03:21Z'
+  maturity: stable
 license: GPL-3.0
 metrics:
   updated: '2026-09-24T16:53:46Z'

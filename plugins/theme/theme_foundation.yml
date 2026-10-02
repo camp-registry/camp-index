@@ -29,6 +29,7 @@ releases:
   supported-range:
   - 500
   - 500
+  maturity: stable
 - version: 405.1.1
   tag: V405.1.1
   commit: 108cbd0f397c68acdfd4d958bb78daf595c234e8
@@ -44,6 +45,7 @@ releases:
   supported-range:
   - 405
   - 405
+  maturity: stable
 summary: Foundation theme for Moodle.
 license: GPL-3.0
 metrics:

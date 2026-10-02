@@ -29,6 +29,7 @@ releases:
   supported-range:
   - 500
   - 502
+  maturity: stable
 summary: Syntax highlighter
 license: GPL-3.0
 metrics:

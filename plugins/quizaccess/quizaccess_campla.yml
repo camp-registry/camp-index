@@ -25,6 +25,7 @@ releases:
   supported-range:
   - 404
   - 502
+  maturity: alpha
 - version: v5.2-r2
   tag: v5.2-r2
   commit: 72a80851677e9152a4544a9412ba04e710ae12bd
@@ -42,6 +43,7 @@ releases:
   supported-range:
   - 404
   - 502
+  maturity: beta
 license: GPL-3.0
 labels:
 - fully-free

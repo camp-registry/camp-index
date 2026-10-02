@@ -34,6 +34,7 @@ releases:
   supported-range:
   - 27
   - 501
+  maturity: stable
 - version: v1.5.5
   tag: v1.5.5
   commit: b25aa64796543a548b0f4ee43a3936a1c47b414e
@@ -58,6 +59,7 @@ releases:
   supported-range:
   - 27
   - 502
+  maturity: stable
 summary: Moodle Plugins Repository
 license: GPL-3.0
 metrics:

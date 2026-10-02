@@ -25,6 +25,7 @@ releases:
   supported-range:
   - 405
   - 502
+  maturity: stable
 - version: 3.9.19
   tag: v3.9.19
   commit: 396e197aca56031180eee7bd4228ab3a9ab46070
@@ -48,6 +49,7 @@ releases:
   supported-range:
   - 39
   - 501
+  maturity: stable
 - version: 4.5.3
   tag: v4.5.3
   commit: 52ef774fe76b5b98e47821863dd46296209824d1
@@ -64,6 +66,7 @@ releases:
   supported-range:
   - 405
   - 503
+  maturity: stable
 license: GPL-3.0
 labels:
 - freemium

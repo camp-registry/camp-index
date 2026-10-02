@@ -32,6 +32,7 @@ releases:
   supported-range:
   - 39
   - 502
+  maturity: stable
 - version: v5.2-r3
   tag: v5.2-r3
   commit: 3d411517d6e6fa477f6bbdd4be3cf878c9236511
@@ -56,6 +57,7 @@ releases:
   supported-range:
   - 39
   - 502
+  maturity: stable
 license: GPL-3.0
 metrics:
   updated: '2026-08-23T17:17:33Z'

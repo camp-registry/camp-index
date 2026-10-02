@@ -32,6 +32,7 @@ releases:
   supported-range:
   - 400
   - 502
+  maturity: stable
 - version: v1.2.5
   tag: v1.2.5
   commit: a870c911297b11e2cca66ef8f163f1abdb53ea49
@@ -53,6 +54,7 @@ releases:
   supported-range:
   - 400
   - 502
+  maturity: stable
 - version: v1.0
   tag: v1.0
   commit: aa536fe094b9e3764fcc4a4b4ef87e09f10a91ff
@@ -71,6 +73,7 @@ releases:
   zip-sha256: 823a13c4f66248379bdf330fb943db5e6e74e54ce732c29bd2e41acb5ed16b52
   published: '2026-09-13T15:49:16Z'
   released: '2022-12-29T17:36:09Z'
+  maturity: stable
 - version: v1.1.1
   tag: v1.1.1
   commit: e880682b2e26c5c4f5bc51e0bab044e0bdbbe8a2
@@ -80,6 +83,7 @@ releases:
   zip-sha256: 904705248a840a8ba859e5ccec7b338f94ed59f0896c974e64de6d8506dfc0a2
   published: '2026-09-13T15:49:16Z'
   released: '2023-01-09T16:49:27Z'
+  maturity: stable
 - version: v1.1.2
   tag: v1.1.2
   commit: e9266b6124baded48fbe17b57cc44c51d00c0cad
@@ -89,6 +93,7 @@ releases:
   zip-sha256: 402346c7e706eac30b15ab90b8dac8bd92cfc67739af8d547570cf6a249c22d5
   published: '2026-09-13T15:49:17Z'
   released: '2023-03-19T08:35:45Z'
+  maturity: stable
 - version: v1.1.3
   tag: v1.1.3
   commit: 0588621ce7ad00cc9c005a08671189ca0a839b70
@@ -98,6 +103,7 @@ releases:
   zip-sha256: 68c0d25668c2f38db736eec12b202bb607963ea863b67aa573ba43dfd7ba57e4
   published: '2026-09-13T15:49:17Z'
   released: '2023-03-28T19:05:40Z'
+  maturity: stable
 - version: v1.1.4
   tag: v1.1.4
   commit: 6f019df1d05838275a550698dc400a040f5f0609
@@ -107,6 +113,7 @@ releases:
   zip-sha256: 46969a9ca350d76099695f374cdc2425eb91cbac627fc4be88aa6f1784a9207f
   published: '2026-09-13T15:49:17Z'
   released: '2023-04-20T16:08:17Z'
+  maturity: stable
 - version: v1.1.5
   tag: v1.1.5
   commit: d2b6823459256e61fa6537badb11804e03bcf741
@@ -116,6 +123,7 @@ releases:
   zip-sha256: c58c96200cc8dca627ce61f82b9820dfa78e95ccf2a9d5e14da08936f3bf04a5
   published: '2026-09-13T15:49:18Z'
   released: '2023-05-09T17:53:03Z'
+  maturity: stable
 - version: v1.1.6
   tag: v1.1.6
   commit: a45267b2696f24f0b1976917403a8b76d3ffb9ac
@@ -132,6 +140,7 @@ releases:
   supported-range:
   - 400
   - 404
+  maturity: stable
 - version: v1.1.7
   tag: v1.1.7
   commit: ef7c2d747998f0210c70bc8d144e48d9b7305a82
@@ -148,6 +157,7 @@ releases:
   supported-range:
   - 400
   - 404
+  maturity: stable
 - version: v1.1.8
   tag: v1.1.8
   commit: 4b12703572f56cae3429ce33feb10e7013075894
@@ -165,6 +175,7 @@ releases:
   supported-range:
   - 400
   - 405
+  maturity: stable
 - version: v1.1.9
   tag: v1.1.9
   commit: 89e4dfa86730bab17a0bb0b2b1ddd2e8b08dde06
@@ -183,6 +194,7 @@ releases:
   supported-range:
   - 400
   - 500
+  maturity: stable
 - version: v1.2.0
   tag: v1.2.0
   commit: fa3f4a0ad194e6dee509ffbbe5fa028769e28c4d
@@ -201,6 +213,7 @@ releases:
   supported-range:
   - 400
   - 500
+  maturity: stable
 - version: v1.2.1
   tag: v1.2.1
   commit: e9828045b5648cf82b662ccfaf94d6e0a0056e26
@@ -220,6 +233,7 @@ releases:
   supported-range:
   - 400
   - 501
+  maturity: stable
 - version: v1.2.2
   tag: v1.2.2
   commit: 81673e42fc3067f6d0cbe6e6cc20115c72dcba4e
@@ -240,6 +254,7 @@ releases:
   supported-range:
   - 400
   - 502
+  maturity: stable
 - version: v1.2.3
   tag: v1.2.3
   commit: b7ce53863e62d0edfa6efcc83d4495297c9ba512
@@ -260,6 +275,7 @@ releases:
   supported-range:
   - 400
   - 502
+  maturity: stable
 license: GPL-3.0
 summary: Moodle block plugin for viewing/converting time in different timezones
 metrics:

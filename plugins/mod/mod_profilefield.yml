@@ -28,6 +28,7 @@ releases:
   supported-range:
   - 405
   - 502
+  maturity: stable
 - version: 1.1.1
   tag: v1.1.1
   commit: a263f7e5fdd8a66278e1b130c5946cd93c607a45
@@ -44,6 +45,7 @@ releases:
   supported-range:
   - 405
   - 502
+  maturity: stable
 license: GPL-3.0
 metrics:
   updated: '2026-09-15T15:55:06Z'

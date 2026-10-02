@@ -27,6 +27,7 @@ releases:
   supported-range:
   - 502
   - 502
+  maturity: stable
 - version: 501.1.0
   tag: V501.1.0
   commit: 51f21afd8c56abc923b5e1d0aec246910959a733
@@ -40,6 +41,7 @@ releases:
   supported-range:
   - 501
   - 501
+  maturity: stable
 - version: 500.1.4
   tag: V500.1.4
   commit: e65e0bca048630dec4ca2a23d500ac14d84934bc
@@ -53,6 +55,7 @@ releases:
   supported-range:
   - 500
   - 500
+  maturity: stable
 - version: 405.1.5
   tag: V405.1.5
   commit: 5f10de322b7d339e75bee0ce95ba21d18e839abd
@@ -66,6 +69,7 @@ releases:
   supported-range:
   - 405
   - 405
+  maturity: stable
 summary: Collapsed Topics course format for Moodle.
 license: GPL-3.0
 metrics:

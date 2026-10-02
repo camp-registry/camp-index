@@ -29,6 +29,7 @@ releases:
   supported-range:
   - 401
   - 501
+  maturity: stable
 summary: Quick navigation - local plugin for Moodle 3.x
 license: GPL-3.0
 metrics:

@@ -29,6 +29,7 @@ releases:
   supported-range:
   - 404
   - 502
+  maturity: stable
 - version: 3.3.1
   tag: v3.3.1
   commit: 7e2c5a5a0dba8b80783ca4a171d5dda7342baf8b
@@ -46,6 +47,7 @@ releases:
   supported-range:
   - 404
   - 502
+  maturity: stable
 - version: 3.3.2
   tag: v3.3.2
   commit: edafbf47a2ea1499b7bec99448ad079120bb8464
@@ -63,6 +65,7 @@ releases:
   supported-range:
   - 404
   - 503
+  maturity: stable
 summary: A Moodle plugin providing a GUI to the administration of a MoodleBox
 license: GPL-3.0
 metrics:

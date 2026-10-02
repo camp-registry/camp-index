@@ -27,6 +27,7 @@ releases:
   zip-sha256: dc9eb6aa4902e76cebe59932694f8107a546285e3c7279f34b6f65788cb6d938
   published: '2026-07-25T05:41:13Z'
   released: '2026-04-21T13:48:55Z'
+  maturity: stable
 license: GPL-3.0
 summary: Moodle plugin to control access to course content based on Level Up Quest.
 metrics:

@@ -26,6 +26,7 @@ releases:
   supported-range:
   - 405
   - 503
+  maturity: stable
 license: GPL-3.0
 summary: Add real-time server-to-browser communication to your plugins via WebSockets
   or polling. Send notifications from PHP, receive events in JavaScript, no page reloads

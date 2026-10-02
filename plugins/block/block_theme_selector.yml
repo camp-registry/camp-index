@@ -28,6 +28,7 @@ releases:
   supported-range:
   - 405
   - 502
+  maturity: stable
 license: GPL-3.0
 summary: A block to quickly change themes. Great for theme developers!
 metrics:

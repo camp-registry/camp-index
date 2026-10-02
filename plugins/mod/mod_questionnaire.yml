@@ -23,6 +23,7 @@ releases:
   zip-sha256: 728eda6a1c5dbb2f208e591cd20a8c91ded99ee68bbb871304bfde076d867f64
   published: '2026-07-15T17:21:12Z'
   released: '2026-05-22T15:51:03Z'
+  maturity: stable
 - version: 4.4.0
   tag: v4.4.0
   commit: e9f3409ba11469c075a68b2d99aa33176be3e138
@@ -33,6 +34,7 @@ releases:
   zip-sha256: 216e2660be8584efbec1b1812c566501711de5f983ca9ee82538d4b0caca1c24
   published: '2026-07-15T20:22:26Z'
   released: '2025-11-09T18:38:07Z'
+  maturity: stable
 summary: Questionnaire module for Moodle - Contributed module
 license: GPL-3.0
 metrics:

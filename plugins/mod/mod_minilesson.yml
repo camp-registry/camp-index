@@ -30,6 +30,7 @@ releases:
   supported-range:
   - 403
   - 502
+  maturity: stable
 - version: 1.1.49
   tag: v1.1.49
   commit: c8550e5d8d80456ac7fe4ae28af38bf1e1958087
@@ -48,6 +49,7 @@ releases:
   supported-range:
   - 403
   - 502
+  maturity: stable
 - version: 1.1.51
   tag: v1.1.51
   commit: 78a2da36293f758cf1053c73710b3a8fbfb0516f
@@ -66,6 +68,7 @@ releases:
   supported-range:
   - 403
   - 502
+  maturity: stable
 - version: 1.1.52
   tag: v1.1.52
   commit: 9aae299ca2d05d248b7b09ea29a3a3e8e524b2e9
@@ -84,6 +87,7 @@ releases:
   supported-range:
   - 403
   - 502
+  maturity: stable
 - version: 1.1.53
   tag: v1.1.53
   commit: 3c40b60a7772b7de82bc2494fdf14340a882de9d
@@ -102,6 +106,7 @@ releases:
   supported-range:
   - 403
   - 502
+  maturity: stable
 - version: 1.1.54
   tag: v1.1.54
   commit: 47e8d4248caa30945131113f0c47beb31a2213d2
@@ -120,6 +125,7 @@ releases:
   supported-range:
   - 403
   - 502
+  maturity: stable
 - version: 1.1.55
   tag: v1.1.55
   commit: 52ec82076f64694e0dce6095774815709318e33c
@@ -138,6 +144,7 @@ releases:
   supported-range:
   - 403
   - 502
+  maturity: stable
 - version: 1.1.56
   tag: v1.1.56
   commit: e52bac9fb9cce6e0afca9293db240f1f38fc933e
@@ -156,6 +163,7 @@ releases:
   supported-range:
   - 403
   - 502
+  maturity: stable
 license: GPL-3.0
 summary: Poodll Mini Lesson
 metrics:
