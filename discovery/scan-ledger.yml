@@ -54883,6 +54883,11 @@ repos:
     detail: no parseable version.php at root of branch main
     first-seen: '2026-09-03'
     last-checked: '2026-09-03'
+  astra-openclaw/moodle-booktool_epubimport:
+    outcome: written
+    detail: listed as booktool_epubimport
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   astrajella/moodle:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -78044,6 +78049,11 @@ repos:
     detail: component filter_threedviewer already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  ethz-let/moodle-qtype_freehanddrawing:
+    outcome: written
+    detail: listed as qtype_freehanddrawing
+    first-seen: '2026-10-02'
+    last-checked: '2026-10-02'
   ethz-let/moodle-qtype_kprime:
     outcome: exists
     detail: component qtype_kprime already registered (first-come, RFC §8)
