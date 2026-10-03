@@ -1,0 +1,18 @@
+component: block_lhprogress
+source: https://github.com/muhammadshahrukh285-coder/moodle-block_lhprogress
+maintainers:
+- github: muhammadshahrukh285-coder
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle Learning Journey block with course progress and enrollment-based due
+  date tracking
+metrics:
+  updated: '2026-09-21T08:18:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

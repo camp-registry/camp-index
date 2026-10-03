@@ -1,0 +1,18 @@
+component: local_nexusai
+source: https://github.com/nexusai-ucc/moodle-local_nexusai
+maintainers:
+- github: nexusai-ucc
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: NexusAI — asistente académico con IA para Moodle (RAG sobre material del
+  curso)
+metrics:
+  updated: '2026-10-01T12:03:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

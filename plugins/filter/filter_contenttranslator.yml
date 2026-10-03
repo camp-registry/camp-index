@@ -1,0 +1,20 @@
+component: filter_contenttranslator
+source: https://github.com/Wunderbyte-GmbH/moodle-filter_contenttranslator
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'Render-time filter for local_contenttranslator: shows stored AI translations
+  to each user in their language.'
+dependencies:
+  local_contenttranslator: any
+metrics:
+  updated: '2026-09-23T11:13:31Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

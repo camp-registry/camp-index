@@ -1,0 +1,18 @@
+component: paygw_konnect
+source: https://github.com/makrem2/moodle-paygw_konnect
+maintainers:
+- github: makrem2
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Konnect (konnect.network) payment gateway for Moodle 5.x — sell courses and
+  take enrolment payments in Tunisian Dinar (TND).
+metrics:
+  updated: '2026-09-25T13:29:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

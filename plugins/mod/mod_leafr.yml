@@ -1,0 +1,19 @@
+component: mod_leafr
+source: https://github.com/peterpleimfeldner-design/moodle-mod_leafr
+maintainers:
+- github: peterpleimfeldner-design
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'Leafr — PDF Reader & Flipbook for Moodle: page-turning book view, sidebar
+  with thumbnails/search/bookmarks, required-page completion, read confirmation and
+  a teacher overview. Free, GPLv3, no external service.'
+metrics:
+  updated: '2026-09-25T09:25:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

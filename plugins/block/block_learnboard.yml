@@ -1,0 +1,18 @@
+component: block_learnboard
+source: https://github.com/NASMAK-Technologies/moodle-block_learnboard
+maintainers:
+- github: NASMAK-Technologies
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'LearnBoard for Moodle: live LearnBoard analytics charts and dashboards inside
+  Moodle (block_learnboard).'
+metrics:
+  updated: '2026-10-01T00:30:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

@@ -1,0 +1,21 @@
+component: local_forumseries
+source: https://github.com/lesavvytinker/moodle-local_forumseries
+maintainers:
+- github: lesavvytinker
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that plans and bulk-generates a term's worth of scheduled
+  Q&A forum discussions. Extension of local_forumlock, which it depends on and requires
+  to be installed. Requires Moodle 4.5+.
+dependencies:
+  local_forumlock: 2026091504
+metrics:
+  updated: '2026-10-01T11:40:53Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

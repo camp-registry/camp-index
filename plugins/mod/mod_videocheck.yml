@@ -1,0 +1,17 @@
+component: mod_videocheck
+source: https://github.com/EduardoKrausME/moodle-mod_videocheck
+maintainers:
+- github: EduardoKrausME
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle activity module videocheck
+metrics:
+  updated: '2026-09-30T02:20:37Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

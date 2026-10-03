@@ -1,0 +1,17 @@
+component: mod_videobranch
+source: https://github.com/EduardoKrausME/moodle-mod_videobranch
+maintainers:
+- github: EduardoKrausME
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle activity module videobranch
+metrics:
+  updated: '2026-10-01T14:49:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

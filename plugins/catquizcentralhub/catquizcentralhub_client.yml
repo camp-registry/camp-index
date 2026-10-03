@@ -1,0 +1,16 @@
+component: catquizcentralhub_client
+source: https://github.com/Wunderbyte-GmbH/moodle-catquizcentralhub_client
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-07-10T08:26:35Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-10-03'

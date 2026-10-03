@@ -1,0 +1,18 @@
+component: local_securitytxt
+source: https://github.com/avetica/moodle-local_securitytxt
+maintainers:
+- github: avetica
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Meet growing information security and compliance demands by easily publishing
+  an RFC 9116 compliant security.txt file from Moodle.
+metrics:
+  updated: '2026-09-30T18:35:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

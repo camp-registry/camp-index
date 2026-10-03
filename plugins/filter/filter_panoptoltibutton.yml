@@ -1,0 +1,18 @@
+component: filter_panoptoltibutton
+source: https://github.com/dragos5436/moodle-filter_panoptoltibutton
+maintainers:
+- github: dragos5436
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  tiny_panoptoltibutton: 2025112600
+metrics:
+  updated: '2026-09-28T13:02:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

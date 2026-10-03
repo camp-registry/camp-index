@@ -1,0 +1,17 @@
+component: local_friction
+source: https://github.com/pavlorenc/moodle-local_friction
+maintainers:
+- github: pavlorenc
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Privacy-preserving friction analytics for Moodle
+metrics:
+  updated: '2026-09-11T21:55:24Z'
+  stars: 0
+  forks: 0
+  open-issues: 4
+  archived: false
+  checked: '2026-10-03'

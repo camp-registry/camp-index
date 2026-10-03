@@ -1,0 +1,18 @@
+component: enrol_donation
+source: https://github.com/ai-2you/moodle-enrol_donation
+maintainers:
+- github: ai-2you
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle enrolment plugin: enrol a student by paying a donation of any amount
+  within a configurable per-course minimum/maximum, via core_payment (PayPal/Stripe).'
+metrics:
+  updated: '2026-09-29T02:35:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-10-03'

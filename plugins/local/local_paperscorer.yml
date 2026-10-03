@@ -1,0 +1,16 @@
+component: local_paperscorer
+source: https://github.com/nowtwo-llc/paperscorer-moodle-plugin
+maintainers:
+- github: nowtwo-llc
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-14T16:54:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

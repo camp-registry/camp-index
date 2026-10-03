@@ -1,0 +1,20 @@
+component: mod_colabnotebook
+source: https://github.com/joseCornejoLupa/moodle-mod_colabnotebook
+maintainers:
+- github: joseCornejoLupa
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle activity plugin. Lets teacher distribute Jupyter .ipynb notebooks
+  as assignments, student runs them in Google Colab (Google's infra, free), Drive
+  stores files, plugin pulls submission back and renders outputs (tables, plots, errors)
+  inline in Moodle for grading.
+metrics:
+  updated: '2026-09-06T00:02:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

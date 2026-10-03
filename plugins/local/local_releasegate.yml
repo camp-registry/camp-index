@@ -1,0 +1,18 @@
+component: local_releasegate
+source: https://github.com/anonymousfakeera-cpu/moodle-local_releasegate
+maintainers:
+- github: anonymousfakeera-cpu
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: course release-readiness checks with Moodle-native
+  access control and audit. Alpha, not yet run.'
+metrics:
+  updated: '2026-10-02T11:00:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

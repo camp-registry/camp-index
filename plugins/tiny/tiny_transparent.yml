@@ -1,0 +1,16 @@
+component: tiny_transparent
+source: https://github.com/threehappypenguins/moodle-tiny_transparent
+maintainers:
+- github: threehappypenguins
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-07T02:56:42Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

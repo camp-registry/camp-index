@@ -1,0 +1,21 @@
+component: report_completionsearch
+source: https://github.com/daniloalexandre182/moodle-report_completionsearch
+maintainers:
+- github: daniloalexandre182
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle 4.1 course report: course completion and activity completion reports
+  with a user search filter (full name, email or username).'
+dependencies:
+  report_progress: any
+  report_completion: any
+metrics:
+  updated: '2026-09-16T16:06:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

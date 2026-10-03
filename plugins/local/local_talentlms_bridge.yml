@@ -1,0 +1,17 @@
+component: local_talentlms_bridge
+source: https://github.com/pstamb/moodle-local_talentlms_bridge
+maintainers:
+- github: pstamb
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Export Moodle users to TalentLMS's bulk-import Excel format (one-time cutover)
+metrics:
+  updated: '2026-09-07T09:03:26Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

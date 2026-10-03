@@ -1,0 +1,16 @@
+component: mod_finance
+source: https://github.com/EduardoKrausME/moodle-mod_finance
+maintainers:
+- github: EduardoKrausME
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-10-01T14:50:49Z'
+  stars: 0
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-10-03'

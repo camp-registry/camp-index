@@ -1,0 +1,18 @@
+component: local_qualiscope
+source: https://github.com/joachim-lucas/moodle-local_qualiscope
+maintainers:
+- github: joachim-lucas
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin for automated quality auditing, compliance tracking,
+  and CAPA management against standards like Qualiopi and IACET
+metrics:
+  updated: '2026-10-01T06:08:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

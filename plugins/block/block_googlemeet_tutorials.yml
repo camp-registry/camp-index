@@ -1,0 +1,17 @@
+component: block_googlemeet_tutorials
+source: https://github.com/mrvinceo/moodle-block_googlemeet_tutorials
+maintainers:
+- github: mrvinceo
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin to enable Bookable Google Meet tutorials from the Blocks drawer.
+metrics:
+  updated: '2026-09-28T13:51:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

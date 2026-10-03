@@ -1,0 +1,16 @@
+component: local_gerenciamentomatriculas
+source: https://github.com/Julia-Gabriela/moodle_local_Gerenciamento_matriculas-
+maintainers:
+- github: Julia-Gabriela
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-10T17:27:03Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

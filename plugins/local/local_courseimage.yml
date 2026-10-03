@@ -1,0 +1,18 @@
+component: local_courseimage
+source: https://github.com/ConcordiaDev/moodle-local_courseimage
+maintainers:
+- github: ConcordiaDev
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Allow teachers to update a course image without granting permission to edit
+  the course summary
+metrics:
+  updated: '2026-09-28T14:57:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

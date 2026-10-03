@@ -1,0 +1,18 @@
+component: mod_airoleplay
+source: https://github.com/jmolpea/moodle-mod_airoleplay
+maintainers:
+- github: jmolpea
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'AI Roleplay (mod_airoleplay): spoken roleplay simulations with AI characters
+  and AI-assisted grading for Moodle 4.5–5.3'
+metrics:
+  updated: '2026-10-01T12:09:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

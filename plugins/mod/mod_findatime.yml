@@ -1,0 +1,17 @@
+component: mod_findatime
+source: https://github.com/adamjenkins/moodle-mod_findatime
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: An activity to find a time to meet
+metrics:
+  updated: '2026-09-28T11:23:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

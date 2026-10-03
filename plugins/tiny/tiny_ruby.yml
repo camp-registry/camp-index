@@ -1,0 +1,19 @@
+component: tiny_ruby
+source: https://github.com/adamjenkins/moodle-tiny_ruby
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: TinyMCE Ruby integration and tool for filter_ruby
+dependencies:
+  filter_ruby: 2026090800
+metrics:
+  updated: '2026-09-27T14:24:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

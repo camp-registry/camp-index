@@ -1,0 +1,16 @@
+component: catquizcentralhub_host
+source: https://github.com/Wunderbyte-GmbH/moodle-catquizcentralhub_host
+maintainers:
+- github: Wunderbyte-GmbH
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-06-24T11:29:22Z'
+  stars: 0
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-10-03'

@@ -1,0 +1,22 @@
+component: local_caregivertraining
+source: https://github.com/Care-Indeed/caregiver-training-moodle-plugin
+maintainers:
+- github: Care-Indeed
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: caregiver annual training (local_caregivertraining)'
+dependencies:
+  mod_customcert: any
+  mod_lesson: any
+  mod_quiz: any
+  mod_feedback: any
+metrics:
+  updated: '2026-10-02T02:24:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

@@ -1,0 +1,20 @@
+component: mod_strava
+source: https://github.com/rollercly/moodle-mod_strava
+maintainers:
+- github: rollercly
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Plugin de Moodle para ver los datos de actividad de un usuario y que sea
+  calificable en moodle
+dependencies:
+  local_stravaauth: 2026092400
+metrics:
+  updated: '2026-09-24T09:15:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 8
+  archived: false
+  checked: '2026-10-03'

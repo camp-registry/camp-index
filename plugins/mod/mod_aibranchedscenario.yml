@@ -1,0 +1,18 @@
+component: mod_aibranchedscenario
+source: https://github.com/lmshostingservices/moodle-mod_aibranchedscenario
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle 4.4–5.2 branching scenario training: illustrated decisions, narration,
+  teacher review and debriefs. US$5 Marketplace or 50 LMS Labs credits for site access.'
+metrics:
+  updated: '2026-09-30T15:20:45Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

@@ -1,0 +1,18 @@
+component: mod_authorcheck
+source: https://github.com/pgadosey/moodle-mod_authorcheck
+maintainers:
+- github: pgadosey
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle activity that generates comprehension questions from a student's own
+  submission to verify authorship. On-premises AI.
+metrics:
+  updated: '2026-09-08T18:56:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

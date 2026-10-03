@@ -1,0 +1,18 @@
+component: report_autograder
+source: https://github.com/didactika/moodle-report_autograder
+maintainers:
+- github: didactika
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_autograder: 2026093000
+metrics:
+  updated: '2026-09-30T13:33:16Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

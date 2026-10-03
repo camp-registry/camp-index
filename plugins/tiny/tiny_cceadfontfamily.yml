@@ -1,0 +1,17 @@
+component: tiny_cceadfontfamily
+source: https://github.com/jPerpetuo/moodle-tiny_cceadfontfamily
+maintainers:
+- github: jPerpetuo
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: TinyMCE font family plugin for Moodle, maintained by CCEAD.
+metrics:
+  updated: '2026-09-09T22:09:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

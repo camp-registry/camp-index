@@ -1,0 +1,18 @@
+component: local_puzzel
+source: https://github.com/demanzonderjas/puzzel-plugin-moodle
+maintainers:
+- github: demanzonderjas
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Connect a Moodle site to Puzzel.org as an LTI Advantage tool — registered,
+  activated and ready to use.
+metrics:
+  updated: '2026-09-20T10:13:17Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

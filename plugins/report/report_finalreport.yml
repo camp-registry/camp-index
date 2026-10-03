@@ -1,0 +1,17 @@
+component: report_finalreport
+source: https://github.com/marcus0milan/moodle-finalreport
+maintainers:
+- github: marcus0milan
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: A Moodle plugin for course analysis and data visualization.
+metrics:
+  updated: '2026-09-23T17:38:55Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

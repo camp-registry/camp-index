@@ -1,0 +1,16 @@
+component: local_backupdownloader
+source: https://github.com/a-camacho/moodle-local_backupdownloader
+maintainers:
+- github: a-camacho
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2026-09-29T07:34:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

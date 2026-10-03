@@ -1,0 +1,17 @@
+component: local_lsu_evalfixer
+source: https://github.com/lsuonline/moodle-local_lsu_evalfixer
+maintainers:
+- github: lsuonline
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Fixes course evaluation sections in Moodle
+metrics:
+  updated: '2026-09-23T18:01:58Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

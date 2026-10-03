@@ -1,0 +1,18 @@
+component: theme_union_govbr
+source: https://github.com/Matheu46/moodle-theme_union_govbr
+maintainers:
+- github: Matheu46
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_boost_union: 2024041600
+metrics:
+  updated: '2026-09-20T22:34:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

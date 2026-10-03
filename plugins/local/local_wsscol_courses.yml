@@ -1,0 +1,18 @@
+component: local_wsscol_courses
+source: https://github.com/legrave/moodle-local_wsscol_courses
+maintainers:
+- github: legrave
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  enrol_wsscol: 2024070800
+metrics:
+  updated: '2026-09-14T16:17:03Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

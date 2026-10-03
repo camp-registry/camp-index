@@ -1,0 +1,17 @@
+component: mod_aianatomy
+source: https://github.com/lmshostingservices/moodle-mod_aianatomy
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: mod_aianatomy'
+metrics:
+  updated: '2026-09-30T10:54:04Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

@@ -1,0 +1,18 @@
+component: quizaccess_stenproc
+source: https://github.com/ULININ/moodle-quizaccess_stenproc
+maintainers:
+- github: ULININ
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle quiz access rule that proctors attempts with Stenproc. Moodle keeps
+  the questions, timing and marks; recordings go to your own storage.
+metrics:
+  updated: '2026-09-15T18:46:51Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

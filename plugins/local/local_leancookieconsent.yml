@@ -1,0 +1,18 @@
+component: local_leancookieconsent
+source: https://github.com/blacklotusconsulting/moodle-local_leancookieconsent
+maintainers:
+- github: blacklotusconsulting
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Connect your Moodle site to Lean Cookie Consent using your Lean Cookie Consent
+  Site Key
+metrics:
+  updated: '2026-09-23T15:06:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 3
+  archived: false
+  checked: '2026-10-03'

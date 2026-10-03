@@ -1,0 +1,17 @@
+component: mod_doomed
+source: https://github.com/adamjenkins/moodle-mod_doomed
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Moodle is Doomed (especially on shared hosting LOL)
+metrics:
+  updated: '2026-10-02T12:56:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

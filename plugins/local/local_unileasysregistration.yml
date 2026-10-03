@@ -1,0 +1,20 @@
+component: local_unileasysregistration
+source: https://github.com/unilea-sys/moodle-local_unileasysregistration
+maintainers:
+- github: unilea-sys
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Unileasys Course Distribution & Registration is a Moodle plugin for controlled
+  course distribution, school-based licensing, verification tokens and student enrollment.
+  It helps administrators manage schools, classes, academic sessions, enrollment rules,
+  course licenses, seats and student access thro
+metrics:
+  updated: '2026-09-28T13:37:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

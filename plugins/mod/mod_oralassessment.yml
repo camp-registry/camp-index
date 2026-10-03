@@ -1,0 +1,18 @@
+component: mod_oralassessment
+source: https://github.com/EduardoKrausME/moodle-mod_oralassessment
+maintainers:
+- github: EduardoKrausME
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_ai_bridge: 2026093001
+metrics:
+  updated: '2026-10-01T14:55:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-10-03'

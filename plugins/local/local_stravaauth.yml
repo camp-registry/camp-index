@@ -1,0 +1,17 @@
+component: local_stravaauth
+source: https://github.com/rollercly/moodle-local_stravaauth
+maintainers:
+- github: rollercly
+tier: 0
+status: active
+discovered: '2026-10-03'
+releases: []
+license: GPL-3.0
+summary: Plugin de moodle para autenticarte con el api de strava
+metrics:
+  updated: '2026-09-24T09:16:06Z'
+  stars: 0
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-10-03'
