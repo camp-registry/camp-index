@@ -17,6 +17,9 @@ metrics:
   latest-release:
     tag: v1.02
     date: '2015-07-16T09:46:51Z'
-  checked: '2026-09-15'
+  latest-tag:
+    tag: v1.02
+    date: '2015-07-16T09:44:34Z'
+  checked: '2026-10-03'
 dependencies:
   atto_sketchfab: 2015040802

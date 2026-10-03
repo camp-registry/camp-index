@@ -15,7 +15,10 @@ metrics:
   forks: 28
   open-issues: 0
   archived: true
-  checked: '2026-09-16'
+  latest-tag:
+    tag: v3.11-r2
+    date: '2022-07-06T19:56:12Z'
+  checked: '2026-10-03'
 dependencies:
   theme_boost: 2021051700
   block_myoverview: 2021051700

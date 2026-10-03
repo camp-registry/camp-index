@@ -1,5 +1,5 @@
 component: local_accessibilitytool
-source: https://github.com/sharpchi/moodle-local_accessibilitytool
+source: https://github.com/sharpprojects/moodle-local_accessibilitytool
 maintainers:
 - github: sharpchi
 tier: 0
@@ -14,4 +14,7 @@ metrics:
   forks: 8
   open-issues: 3
   archived: false
-  checked: '2026-09-16'
+  latest-tag:
+    tag: v3.9
+    date: '2024-02-28T10:34:30Z'
+  checked: '2026-10-03'

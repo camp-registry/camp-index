@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: This local Moodle module allows teachers to create a new course from existing
   courses using the Course Meta Link enrollment method.
 metrics:
-  updated: '2026-07-16T14:24:06Z'
+  updated: '2026-09-30T13:47:13Z'
   stars: 2
   forks: 2
   open-issues: 6
   archived: false
-  checked: '2026-09-17'
+  latest-tag:
+    tag: v4.1.1
+    date: '2026-07-16T14:23:51Z'
+  checked: '2026-10-03'

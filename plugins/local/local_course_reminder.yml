@@ -10,12 +10,15 @@ license: GPL-3.0
 summary: Send email to mapped manager to each user profile. Manager email and name
   should be a custom input fields.
 metrics:
-  updated: '2026-08-20T11:09:13Z'
+  updated: '2026-09-22T07:26:54Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.5.2
-    date: '2026-08-20T11:09:14Z'
-  checked: '2026-09-17'
+    tag: v1.6.0
+    date: '2026-09-21T13:23:17Z'
+  latest-tag:
+    tag: v1.6.0
+    date: '2026-09-21T13:20:52Z'
+  checked: '2026-10-03'

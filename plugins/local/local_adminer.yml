@@ -13,5 +13,8 @@ metrics:
   forks: 15
   open-issues: 0
   archived: false
-  checked: '2026-09-16'
+  latest-tag:
+    tag: 5.2.4
+    date: '2026-05-05T13:35:52Z'
+  checked: '2026-10-03'
 summary: Moodle Adminer is based on the great tool adminer (www.adminer.org).

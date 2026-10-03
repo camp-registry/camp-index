@@ -13,7 +13,10 @@ metrics:
   forks: 1
   open-issues: 0
   archived: true
-  checked: '2026-09-15'
+  latest-tag:
+    tag: MR-3.5
+    date: '2018-09-11T16:39:19Z'
+  checked: '2026-10-03'
 summary: This plugin was contributed by the Blackboard Open LMS Product Development
   team. Blackboard is an education technology company
 dependencies:

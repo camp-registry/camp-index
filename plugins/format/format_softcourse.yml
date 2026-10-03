@@ -11,12 +11,15 @@ summary: A course format for Moodle. This course format displays sections with o
   an image and an optional text on the course homepage. Users don’t see the detail
   of the section, for instance, resources or activities.
 metrics:
-  updated: '2026-08-12T11:10:37Z'
+  updated: '2026-09-29T12:28:58Z'
   stars: 1
   forks: 5
   open-issues: 0
   archived: false
   latest-release:
-    tag: '4.7'
-    date: '2026-04-17T09:28:51Z'
-  checked: '2026-09-15'
+    tag: 4.7.2
+    date: '2026-09-29T12:28:58Z'
+  latest-tag:
+    tag: 4.7.2
+    date: '2026-09-29T12:25:23Z'
+  checked: '2026-10-03'

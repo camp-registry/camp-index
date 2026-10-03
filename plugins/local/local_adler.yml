@@ -16,7 +16,10 @@ metrics:
   latest-release:
     tag: 6.5.0
     date: '2025-06-27T18:02:31Z'
-  checked: '2026-09-16'
+  latest-tag:
+    tag: 6.5.0
+    date: '2025-06-27T18:00:27Z'
+  checked: '2026-10-03'
 summary: 'Folgende Versionen werden unterstützt (mit mariadb und postresql getestet):'
 dependencies:
   local_logging: any

@@ -13,7 +13,10 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-17'
+  latest-tag:
+    tag: v2.5.8
+    date: '2026-09-14T15:06:53Z'
+  checked: '2026-10-03'
 summary: Moodle Local CompetVet
 dependencies:
   mod_competvet: any

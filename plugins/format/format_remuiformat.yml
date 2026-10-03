@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v4.1.21
     date: '2026-04-22T17:18:35Z'
-  checked: '2026-09-15'
+  latest-tag:
+    tag: v4.1.21
+    date: '2026-04-22T17:17:51Z'
+  checked: '2026-10-03'
 summary: Edwiser Course Formats block plugin for Moodle

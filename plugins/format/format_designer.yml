@@ -11,12 +11,15 @@ summary: The Designer course format is a course builder — teachers can choose 
   layouts for each section in order to display activities and resources in a more
   meaningful and beautiful way.
 metrics:
-  updated: '2026-08-14T15:01:45Z'
+  updated: '2026-09-29T07:20:09Z'
   stars: 9
   forks: 10
-  open-issues: 15
+  open-issues: 14
   archived: false
   latest-release:
-    tag: v1.7-r5
-    date: '2026-08-14T15:01:45Z'
-  checked: '2026-09-15'
+    tag: v1.8-r1
+    date: '2026-09-29T07:20:10Z'
+  latest-tag:
+    tag: v1.8-r1
+    date: '2026-09-29T07:16:46Z'
+  checked: '2026-10-03'

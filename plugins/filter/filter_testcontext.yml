@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-15'
+  latest-tag:
+    tag: v1.0
+    date: '2013-02-13T00:35:26Z'
+  checked: '2026-10-03'
 summary: Extra simple filter to test that formattext and formatstring are used properly.

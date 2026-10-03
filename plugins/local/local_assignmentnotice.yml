@@ -12,8 +12,8 @@ metrics:
   updated: '2026-07-20T17:49:07Z'
   stars: 2
   forks: 0
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-09-16'
+  checked: '2026-10-03'
 dependencies:
   mod_assign: 2022112800

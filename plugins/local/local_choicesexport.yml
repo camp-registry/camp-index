@@ -19,4 +19,7 @@ metrics:
   latest-release:
     tag: '2022082401'
     date: '2022-08-24T00:45:58Z'
-  checked: '2026-09-17'
+  latest-tag:
+    tag: '2022082401'
+    date: '2022-08-24T00:43:23Z'
+  checked: '2026-10-03'

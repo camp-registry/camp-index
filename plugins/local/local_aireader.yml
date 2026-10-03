@@ -12,7 +12,7 @@ summary: 'Moodle 4.5+/5.x local plugin: AI-narrated ''Listen to this content'' p
   privacy provider. CI on Moodle 4.5/5.0/5.1/5.2 × PHP 8.1'
 license: GPL-3.0
 metrics:
-  updated: '2026-09-14T20:37:22Z'
+  updated: '2026-10-02T15:28:16Z'
   stars: 3
   forks: 1
   open-issues: 0
@@ -20,4 +20,7 @@ metrics:
   latest-release:
     tag: v1.8.0
     date: '2026-07-22T16:22:23Z'
-  checked: '2026-09-16'
+  latest-tag:
+    tag: v1.8.0
+    date: '2026-07-22T16:15:40Z'
+  checked: '2026-10-03'

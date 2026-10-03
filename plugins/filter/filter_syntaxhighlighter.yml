@@ -1,5 +1,5 @@
 component: filter_syntaxhighlighter
-source: https://github.com/sharpchi/moodle-filter_syntaxhighlighter
+source: https://github.com/sharpprojects/moodle-filter_syntaxhighlighter
 maintainers:
 - github: sharpchi
 tier: 0
@@ -13,5 +13,8 @@ metrics:
   forks: 9
   open-issues: 6
   archived: false
-  checked: '2026-09-15'
+  latest-tag:
+    tag: v4.1-r1
+    date: '2025-01-09T10:49:34Z'
+  checked: '2026-10-03'
 summary: moodle-filtersyntaxhighlighter

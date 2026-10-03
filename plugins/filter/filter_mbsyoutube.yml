@@ -8,9 +8,9 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-13T22:10:19Z'
+  updated: '2026-09-30T09:23:33Z'
   stars: 1
   forks: 1
-  open-issues: 2
+  open-issues: 1
   archived: false
-  checked: '2026-09-14'
+  checked: '2026-10-03'

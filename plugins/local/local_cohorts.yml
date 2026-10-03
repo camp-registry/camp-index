@@ -10,9 +10,9 @@ license: GPL-3.0
 metrics:
   updated: '2025-12-12T15:21:58Z'
   stars: 1
-  forks: 0
+  forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-17'
+  checked: '2026-10-03'
 dependencies:
   enrol_solaissits: any

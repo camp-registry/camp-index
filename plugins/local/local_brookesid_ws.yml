@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v1.1.11
     date: '2022-01-20T11:25:57Z'
-  checked: '2026-09-16'
+  latest-tag:
+    tag: v1.1.11
+    date: '2022-01-20T10:51:55Z'
+  checked: '2026-10-03'
 summary: moodle-localbrookesidws

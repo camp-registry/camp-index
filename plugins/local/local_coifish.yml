@@ -10,7 +10,7 @@ license: GPL-3.0
 summary: Moodle local plugin for longitudinal student profiles and lecturer performance
   analytics, extending the CoIFish grade report
 metrics:
-  updated: '2026-06-18T13:07:15Z'
+  updated: '2026-09-28T14:01:32Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -18,4 +18,9 @@ metrics:
   latest-release:
     tag: v1.4.0
     date: '2026-06-09T09:19:24Z'
-  checked: '2026-09-17'
+  latest-tag:
+    tag: v1.4.0
+    date: '2026-06-09T09:15:47Z'
+  checked: '2026-10-03'
+dependencies:
+  gradereport_coifish: 2026092801

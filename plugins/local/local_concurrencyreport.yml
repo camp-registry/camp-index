@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-17'
+  latest-tag:
+    tag: v5.1.0
+    date: '2026-03-23T16:32:26Z'
+  checked: '2026-10-03'
 summary: Historical concurrency report for Moodle based on logstorestandardlog.

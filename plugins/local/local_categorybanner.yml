@@ -13,6 +13,9 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-09-17'
+  latest-tag:
+    tag: v2.3.1
+    date: '2025-08-14T16:20:54Z'
+  checked: '2026-10-03'
 summary: This plugin allows you to display custom banners at the top of course pages
   based on their category.

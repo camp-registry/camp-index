@@ -11,14 +11,17 @@ summary: The PlayerHUD Filter is a required companion plugin for the PlayerHUD B
   It enables the insertion of collectible item drops directly inside Moodle course
   content using shortcodes.
 metrics:
-  updated: '2026-09-04T19:24:59Z'
+  updated: '2026-10-01T06:00:12Z'
   stars: 2
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.7.1
-    date: '2026-09-04T14:07:15Z'
-  checked: '2026-09-15'
+    tag: v1.7.2
+    date: '2026-09-25T12:07:32Z'
+  latest-tag:
+    tag: v1.7.2
+    date: '2026-09-25T12:07:19Z'
+  checked: '2026-10-03'
 dependencies:
   block_playerhud: 2026090301

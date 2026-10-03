@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: This Moodle plugin allows you to create "template" courses for use during
   course creation.
 metrics:
-  updated: '2026-07-15T17:44:56Z'
+  updated: '2026-09-29T17:21:04Z'
   stars: 5
   forks: 8
   open-issues: 8
   archived: false
-  checked: '2026-09-17'
+  latest-tag:
+    tag: v4.1.0
+    date: '2026-07-15T17:44:33Z'
+  checked: '2026-10-03'

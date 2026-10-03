@@ -17,6 +17,9 @@ metrics:
   latest-release:
     tag: v1.0
     date: '2015-12-28T18:52:10Z'
-  checked: '2026-09-16'
+  latest-tag:
+    tag: v1.0
+    date: '2015-12-28T18:50:55Z'
+  checked: '2026-10-03'
 dependencies:
   mod_attendance: 2015040500

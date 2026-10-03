@@ -1,5 +1,5 @@
 component: local_classalias
-source: https://github.com/sharpchi/moodle-local_classalias
+source: https://github.com/sharpprojects/moodle-local_classalias
 maintainers:
 - github: sharpchi
 tier: 0
@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-17'
+  latest-tag:
+    tag: v2.1
+    date: '2025-09-05T10:48:45Z'
+  checked: '2026-10-03'
 summary: This is intended for development purposes only. Do not use on Production
   sites; it's not needed.

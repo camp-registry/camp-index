@@ -1,5 +1,5 @@
 component: local_adele
-source: https://github.com/Wunderbyte-GmbH/moodle_local_adele
+source: https://github.com/Wunderbyte-GmbH/moodle-local_adele
 maintainers:
 - github: Wunderbyte-GmbH
 tier: 0
@@ -13,7 +13,7 @@ metrics:
   forks: 3
   open-issues: 69
   archived: false
-  checked: '2026-09-16'
+  checked: '2026-10-03'
 summary: Adele is a Moodle local plugin for building and operating adaptive learning
   paths in moodle.
 dependencies:
