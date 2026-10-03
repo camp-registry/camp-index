@@ -28,6 +28,34 @@ releases:
   published: '2026-07-25T05:37:14Z'
   released: '2026-04-20T14:53:05Z'
   maturity: stable
+- version: 1.0.8
+  tag: v1.0.8
+  commit: a10bf96bea8b88dbe269a269ca321b2ae7449de5
+  moodle-version: 2026100200
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  supported-range:
+  - 31
+  - 503
+  maturity: stable
+  zip-sha256: b070b6b4d44d76890950b2c7304f2493288d37335082df33111ae94240048094
+  published: '2026-10-03T11:29:17Z'
+  released: '2026-10-02T11:06:20Z'
+  dependencies:
+    block_xp: 2017091000
+  listing-sha256: 77d06891904df3205d89375660584efad61ab5aa9cf11c37d148746ec7ab6ff9
 summary: Enrol users in courses when a certain level from Level up! is attained.
 license: GPL-3.0
 metrics:
