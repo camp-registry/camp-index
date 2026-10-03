@@ -70,10 +70,24 @@ releases:
   - 500
   - 503
   maturity: stable
+- version: v45-0.12.0
+  tag: v45-0.12.0
+  commit: 78299fd85a7a56a2d0c62567a43d5b3451d18df5
+  moodle-version: 2026092800
+  supported-moodle:
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  zip-sha256: 3cf5583a0294ff4d60fb9051b4d18ab36341dfbd1b9eee94ab5a28d5ed6e5296
+  listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
+  published: '2026-10-03T13:16:28Z'
+  released: '2026-10-03T13:09:09Z'
 license: GPL-3.0
-summary: Help students study better without leaving Moodle. QuickNote lets learners
-  capture quotes, write notes in a native sidebar, and jump right back to the original
-  text.
+summary: >-
+  Help students study better without leaving Moodle. QuickNote lets learners
+  capture quotes, write notes in a native sidebar, and jump right back to the
+  original text.
 metrics:
   updated: '2026-09-25T23:34:14Z'
   stars: 2
