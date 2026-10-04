@@ -17,6 +17,17 @@ releases:
   listing-sha256: a1e090350ed241c8827271359698d23f96cf2846f6c484424df66b82bd71b89f
   published: '2026-10-04T07:34:28Z'
   released: '2026-10-04T05:15:06Z'
+- version: 0.1.2
+  tag: v0.1.2
+  commit: b1fee4d1f3c35242cb56f875943daadb29adb2f0
+  moodle-version: 2026100401
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: d23af6021d2ecdd2a63d76bbf4b6dd3d39bc95785221f8a1efe9e47f8cd9c18e
+  listing-sha256: a1e090350ed241c8827271359698d23f96cf2846f6c484424df66b82bd71b89f
+  published: '2026-10-04T14:06:11Z'
+  released: '2026-10-04T11:48:15Z'
 license: GPL-3.0
 summary: Wizards to make Moodle more magical (easier)
 metrics:
