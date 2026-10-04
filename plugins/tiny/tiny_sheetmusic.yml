@@ -2,7 +2,7 @@ component: tiny_sheetmusic
 source: https://github.com/adamjenkins/moodle-tiny_sheetmusic
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-09-04'
 releases: []
@@ -17,3 +17,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-20'
+security-contact: https://github.com/adamjenkins/moodle-tiny_sheetmusic/security
+labels:
+- fully-free
