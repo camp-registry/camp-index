@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-filter_timezone
 source-repo-id: 1278237635
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.1.4
+  tag: v1.1.4
+  commit: 8ed71ee2a1ab64de699b1de5b6067f1694fa5830
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: dd9afd399e059fd7aedffe139b1a696bd55cff0ec41a7cdde1feb2eb93130788
+  listing-sha256: 3e7fd94e9f9dea6bcae3c4fcce58f13f4976fb12ff75629fcbed50eb171a1391
+  published: '2026-10-04T13:34:01Z'
+  released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 metrics:
   updated: '2026-08-05T14:41:55Z'
