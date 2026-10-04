@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-block_worldclock
 source-repo-id: 1277715560
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.6.3
+  tag: v1.6.3
+  commit: c2cb330d89c41d3f365e01c95961807d42ad8d24
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: a583c4b76d034fc974b3d4832de57d91063843db4c110721e23bf29e38075360
+  listing-sha256: a43e5003c0daf3c8ef6a00dc65db989850887a4e50d2fc9cf27d98cf08394f63
+  published: '2026-10-04T13:26:25Z'
+  released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 metrics:
   updated: '2026-08-04T03:43:38Z'
