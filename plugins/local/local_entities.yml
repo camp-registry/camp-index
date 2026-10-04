@@ -13,5 +13,8 @@ metrics:
   forks: 6
   open-issues: 1
   archived: false
-  checked: '2026-09-18'
+  latest-tag:
+    tag: ines/v.0.5.4
+    date: '2026-08-17T14:51:08Z'
+  checked: '2026-10-04'
 summary: 1. Log in to your Moodle site as an admin and go to Site administration >

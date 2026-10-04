@@ -8,12 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-07T06:58:54Z'
+  updated: '2026-09-22T07:42:34Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-18'
+  latest-tag:
+    tag: 11.0.4
+    date: '2026-09-22T07:37:08Z'
+  checked: '2026-10-04'
 summary: This local plugin provides a REST interface to
 dependencies:
   mod_edusharing: 2026070900

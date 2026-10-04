@@ -21,4 +21,7 @@ metrics:
   latest-release:
     tag: v2023031500
     date: '2023-03-15T13:45:07Z'
-  checked: '2026-09-18'
+  latest-tag:
+    tag: v2023031500
+    date: '2023-03-15T13:43:29Z'
+  checked: '2026-10-04'

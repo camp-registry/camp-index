@@ -1,5 +1,5 @@
 component: atto_templates4u
-source: https://github.com/sharpchi/moodle-atto_templates4u
+source: https://github.com/sharpprojects/moodle-atto_templates4u
 maintainers:
 - github: udir-moodle
 tier: 0
@@ -13,5 +13,8 @@ metrics:
   forks: 8
   open-issues: 3
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v2020062501
+    date: '2021-06-07T09:18:12Z'
+  checked: '2026-10-04'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin

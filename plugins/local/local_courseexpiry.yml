@@ -20,4 +20,7 @@ metrics:
   latest-release:
     tag: v1.2
     date: '2021-08-06T22:08:54Z'
-  checked: '2026-09-17'
+  latest-tag:
+    tag: staging-20260820204502
+    date: '2026-08-19T23:34:50Z'
+  checked: '2026-10-04'

@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: 4.0.0
     date: '2025-10-27T13:49:17Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: 4.0.0
+    date: '2025-10-27T13:47:34Z'
+  checked: '2026-10-04'
 summary: This is the Moodle 2.4+ version

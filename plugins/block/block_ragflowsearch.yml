@@ -15,5 +15,8 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v0.7.1
+    date: '2026-09-11T11:20:27Z'
+  checked: '2026-10-04'
 summary: A Moodle block that searches a RAGflow knowledge base semantically and lists

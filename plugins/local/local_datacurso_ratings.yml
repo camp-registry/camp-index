@@ -8,15 +8,18 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-27T23:05:58Z'
+  updated: '2026-09-29T16:10:52Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
   latest-release:
-    tag: 1.0.7
-    date: '2026-07-27T19:05:13Z'
-  checked: '2026-09-18'
+    tag: 1.1.0
+    date: '2026-09-29T16:10:52Z'
+  latest-tag:
+    tag: 1.1.0
+    date: '2026-09-29T16:08:05Z'
+  checked: '2026-10-04'
 summary: The Ranking Activities AI plugin empowers students to rate course activities
   and resources, transforming simple feedback into meaningful, AI-powered insights
   for teachers and administrators.

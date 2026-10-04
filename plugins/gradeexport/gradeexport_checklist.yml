@@ -11,7 +11,7 @@ summary: Excel export for checklist activities in Moodle
 dependencies:
   mod_checklist: 2010041800
 metrics:
-  updated: '2026-09-03T19:10:16Z'
+  updated: '2026-09-25T11:36:58Z'
   stars: 4
   forks: 9
   open-issues: 2
@@ -19,4 +19,7 @@ metrics:
   latest-release:
     tag: 4.1.0.2
     date: '2026-04-24T14:56:07Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: 4.1.0.2
+    date: '2026-04-24T14:54:49Z'
+  checked: '2026-10-04'

@@ -8,12 +8,15 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-03T12:37:39Z'
+  updated: '2026-09-29T18:33:47Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v1.0.3-beta.1
+    date: '2026-09-29T18:31:49Z'
+  checked: '2026-10-04'
 summary: Utdanningsdirektoratet (The Norwegian Directorate for Education and Training)
   is a Norwegian government agency responsible for early childhood education, primary
   and secondary education.

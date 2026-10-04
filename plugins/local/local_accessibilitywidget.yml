@@ -11,9 +11,9 @@ summary: Accessibility widget plugin for Moodle. Floating widget with disability
   (motor, blindness, color blindness, dyslexia, low vision, epilepsy, ADHD), text-to-speech,
   reading mask, contrast and text controls.
 metrics:
-  updated: '2026-08-28T19:34:48Z'
+  updated: '2026-09-22T12:52:01Z'
   stars: 0
   forks: 0
-  open-issues: 6
+  open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-04'

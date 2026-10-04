@@ -13,5 +13,8 @@ metrics:
   forks: 5
   open-issues: 5
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v2.5.0-LAE5.0.1
+    date: '2013-06-25T21:14:33Z'
+  checked: '2026-10-04'
 summary: 1. Remove any pre-existing versions of the laegrader report

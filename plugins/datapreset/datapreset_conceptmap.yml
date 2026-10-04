@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v.0.0.2
     date: '2025-11-03T23:46:03Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v.0.0.2
+    date: '2025-11-03T14:24:54Z'
+  checked: '2026-10-04'
 summary: Concept Map is a preset for the Moodle activity database.

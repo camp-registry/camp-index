@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 3
   archived: false
-  checked: '2026-09-17'
+  latest-tag:
+    tag: v1.1.1
+    date: '2026-08-13T19:22:51Z'
+  checked: '2026-10-04'
 summary: Course SMS is a Moodle local plugin that empowers instructors and administrators
   to send SMS messages directly to course participants from within Moodle. This tool
   provides a direct and immediate communication channel, perfect for urgent announcements,

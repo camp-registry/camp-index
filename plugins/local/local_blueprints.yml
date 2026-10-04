@@ -8,15 +8,18 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-08T21:10:50Z'
+  updated: '2026-09-27T22:16:25Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v0.7
-    date: '2026-08-08T21:10:50Z'
-  checked: '2026-09-19'
+    tag: v0.9
+    date: '2026-09-27T22:16:25Z'
+  latest-tag:
+    tag: v0.9
+    date: '2026-09-27T22:13:40Z'
+  checked: '2026-10-04'
 summary: A course blueprint system for Moodle that lets administrators designate courses
   as reusable templates. Users can browse, search, and clone blueprints into new empty
   courses via a guided 3-step wizard — no direct backup/restore required.

@@ -8,13 +8,16 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-08T12:07:00Z'
+  updated: '2026-09-24T13:44:47Z'
   stars: 0
   forks: 4
-  open-issues: 20
+  open-issues: 24
   archived: false
   latest-release:
     tag: v2026030500
     date: '2026-03-05T13:35:28Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v2026080600
+    date: '2026-08-06T11:45:31Z'
+  checked: '2026-10-04'
 summary: Proctor by Constructor plugin was tested with Moodle versions 3.8 to 5.x.

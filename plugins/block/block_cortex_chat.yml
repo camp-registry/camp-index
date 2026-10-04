@@ -10,10 +10,10 @@ license: GPL-3.0
 dependencies:
   local_cortex: 2026071300
 metrics:
-  updated: '2026-08-21T13:28:13Z'
+  updated: '2026-09-25T19:58:44Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-04'
 summary: A Moodle block plugin that adds a course-scoped chat. Students ask questions

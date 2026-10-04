@@ -8,14 +8,17 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-11T14:17:41Z'
+  updated: '2026-10-02T20:18:23Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: '2026090511'
-    date: '2026-09-11T14:17:42Z'
-  checked: '2026-09-19'
+    tag: '2026090529'
+    date: '2026-09-30T18:15:14Z'
+  latest-tag:
+    tag: '2026090529'
+    date: '2026-09-30T17:58:16Z'
+  checked: '2026-10-04'
 summary: Dieser Block ermöglicht die komfortable, kursübergreifende Suche in allen
   Moodle-Fragesammlungen

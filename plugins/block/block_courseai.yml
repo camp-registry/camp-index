@@ -8,12 +8,12 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-27T08:20:47Z'
+  updated: '2026-09-27T04:38:47Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-04'
 summary: A Moodle 4.1+ course block that adds a grounded AI teaching assistant to
   the course page. Teachers add the block, upload knowledge, and students chat. Answers
   come only from visible course content plus the teacher’s knowledge base.

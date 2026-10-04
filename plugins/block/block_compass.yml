@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle block: my courses by relevance, in three tiers (Moodle 5.2+)'
 metrics:
-  updated: '2026-09-13T03:52:46Z'
+  updated: '2026-10-02T19:03:28Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-04'

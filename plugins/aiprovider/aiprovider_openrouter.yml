@@ -16,7 +16,10 @@ metrics:
   latest-release:
     tag: 1.1.0
     date: '2026-01-27T01:52:34Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: 1.1.0
+    date: '2026-01-27T01:47:57Z'
+  checked: '2026-10-04'
 summary: This plugin integrates the OpenRouter API with Moodle's Core AI framework,
   enabling text generation, text summarisation, and image generation actions from
   Moodle placements.

@@ -8,14 +8,17 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-08-08T18:40:20Z'
+  updated: '2026-09-25T20:24:53Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 0
   archived: false
   latest-release:
-    tag: v0.1.7
-    date: '2026-08-08T18:40:21Z'
-  checked: '2026-09-19'
+    tag: v0.1.8
+    date: '2026-09-24T22:10:12Z'
+  latest-tag:
+    tag: v0.1.8
+    date: '2026-09-24T22:04:56Z'
+  checked: '2026-10-04'
 summary: blockquizassistant gives authorised course staff a concise summary of every
   quiz in the current course.

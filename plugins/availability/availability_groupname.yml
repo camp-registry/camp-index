@@ -1,5 +1,5 @@
 component: availability_groupname
-source: https://github.com/Portvgal/moodle_restriction_Group_Name
+source: https://github.com/Portvgal/moodle-availability_groupname
 maintainers:
 - github: Portvgal
 tier: 0
@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: The plugin adds a “Group name” restriction type that checks whether the current
   student belongs to a course group whose name matches one configured text value.
 metrics:
-  updated: '2026-07-06T01:56:42Z'
+  updated: '2026-09-25T13:38:09Z'
   stars: 1
   forks: 1
-  open-issues: 2
+  open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v1.0.0
+    date: '2026-06-28T21:29:25Z'
+  checked: '2026-10-04'

@@ -15,6 +15,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v0.7.1
+    date: '2026-09-11T11:20:40Z'
+  checked: '2026-10-04'
 summary: A course AI tutor as a Moodle block. Placed in a course, it shows a chat
   drawer that answers from a

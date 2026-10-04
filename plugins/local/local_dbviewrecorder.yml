@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-18'
+  latest-tag:
+    tag: v0.6.0
+    date: '2026-05-10T03:15:30Z'
+  checked: '2026-10-04'
 summary: English README

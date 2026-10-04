@@ -8,15 +8,18 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-17T21:47:28Z'
+  updated: '2026-10-02T23:30:32Z'
   stars: 0
   forks: 0
-  open-issues: 2
+  open-issues: 3
   archived: false
   latest-release:
     tag: 2.1.3
     date: '2026-09-11T19:50:15Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: 2.1.3
+    date: '2026-09-11T19:47:26Z'
+  checked: '2026-10-04'
 summary: The Datacurso AI Provider is the core engine that connects Moodle with the
   Datacurso AI services — unlocking a full ecosystem of smart, AI-powered plugins
   designed to revolutionize online learning.

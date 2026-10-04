@@ -15,7 +15,10 @@ metrics:
   forks: 3
   open-issues: 11
   archived: false
-  checked: '2026-09-18'
+  latest-tag:
+    tag: staging-20260820204502
+    date: '2026-08-19T22:43:26Z'
+  checked: '2026-10-04'
 dependencies:
   local_edusupport: 2021060200
   local_table_sql: 2025112600

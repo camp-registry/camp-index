@@ -8,12 +8,12 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 dependencies:
-  enrol_flexaccess: 2026082700
+  enrol_flexaccess: 2026092900
 metrics:
-  updated: '2026-09-11T10:39:34Z'
+  updated: '2026-10-02T04:52:05Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-04'
 summary: moodle-authflexaccess

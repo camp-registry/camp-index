@@ -13,5 +13,8 @@ metrics:
   forks: 10
   open-issues: 3
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: '22'
+    date: '2020-08-27T16:52:36Z'
+  checked: '2026-10-04'
 summary: Plugin de inscrição via PagSeguro para o Moodle

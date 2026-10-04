@@ -11,9 +11,12 @@ summary: Dixeo AI Tutor block for Moodle
 dependencies:
   local_dixeo: 2026091800
 metrics:
-  updated: '2026-09-18T17:53:05Z'
+  updated: '2026-10-02T21:59:47Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v4.3.1
+    date: '2026-09-18T06:28:01Z'
+  checked: '2026-10-04'

@@ -1,5 +1,5 @@
 component: local_enrolmentwatcher
-source: https://github.com/sharpchi/moodle-local_enrolmentwatcher
+source: https://github.com/sharpprojects/moodle-local_enrolmentwatcher
 maintainers:
 - github: sharpchi
 tier: 0
@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-18'
+  checked: '2026-10-04'
 summary: This plugin is being developed to demonstrate a technique to manage staff
   enrolling students with an inappropriate role in Moodle.

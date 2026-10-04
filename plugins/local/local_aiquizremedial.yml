@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Automatic remedial content delivery based on quiz performance
 metrics:
-  updated: '2026-08-13T01:51:08Z'
+  updated: '2026-09-21T10:12:13Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v1.5.0
+    date: '2026-09-21T10:12:11Z'
+  checked: '2026-10-04'

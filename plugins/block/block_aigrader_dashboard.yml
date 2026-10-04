@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Summary block for AI Essay Grader showing grading queue and recent activity
 metrics:
-  updated: '2026-09-11T03:59:49Z'
+  updated: '2026-10-02T16:18:14Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v2.3.0
+    date: '2026-10-02T16:18:12Z'
+  checked: '2026-10-04'

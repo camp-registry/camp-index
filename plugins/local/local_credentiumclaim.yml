@@ -18,6 +18,9 @@ metrics:
   latest-release:
     tag: v1.5.2
     date: '2026-07-25T06:48:47Z'
-  checked: '2026-09-18'
+  latest-tag:
+    tag: v1.5.2
+    date: '2026-07-25T06:48:31Z'
+  checked: '2026-10-04'
 dependencies:
   local_credentium: any

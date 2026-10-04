@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v1.405.04
     date: '2026-07-20T11:26:26Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v1.405.04
+    date: '2026-07-20T11:15:25Z'
+  checked: '2026-10-04'
 summary: Copyright (C) 2025 Brickfield Education Labs
