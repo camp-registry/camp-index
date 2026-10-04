@@ -2,7 +2,7 @@ component: tool_imageoptimizer
 source: https://github.com/adamjenkins/moodle-tool_imageoptimizer
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-24'
 releases: []
@@ -15,3 +15,6 @@ metrics:
   archived: false
   checked: '2026-09-30'
 summary: An admin tool plugin for Moodle that automatically resizes and recompresses
+security-contact: https://github.com/adamjenkins/moodle-tool_imageoptimizer/security
+labels:
+- fully-free
