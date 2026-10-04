@@ -87,6 +87,19 @@ releases:
   - 500
   - 502
   maturity: stable
+- version: 1.0.6
+  tag: v1.0.6
+  commit: 3d075b5d2f8d3c6d2da28951c07aa7b9d1ce8990
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: f7fb9f356fbb80eb0d1284301a3e5bada2bd3d0fdfb3c46458114032f96b1cec
+  listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
+  published: '2026-10-04T07:51:13Z'
+  released: '2026-10-04T05:15:08Z'
 license: GPL-3.0
 summary: A client plugin to enable communication with an OER Exchange site
 metrics:
