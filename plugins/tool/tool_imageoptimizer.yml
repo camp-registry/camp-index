@@ -2,10 +2,23 @@ component: tool_imageoptimizer
 source: https://github.com/adamjenkins/moodle-tool_imageoptimizer
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-24'
-releases: []
+releases:
+- version: 1.1.4
+  tag: v1.1.4
+  commit: 073f6076493f89518f75eaad6162437b6c836ca5
+  moodle-version: 2026100401
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 51643700b0e1b0887f512365f29894f21f3149a9cfe1a0f9bcaa49c54dc37031
+  listing-sha256: 579f1d5099a47ae29341bacefbfb7e24050cdf5e31a4a2d98c8ba43c35de11a2
+  published: '2026-10-04T13:42:01Z'
+  released: '2026-10-04T11:48:14Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-27T05:47:56Z'
