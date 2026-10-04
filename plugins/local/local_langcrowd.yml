@@ -18,6 +18,17 @@ releases:
   listing-sha256: c94b5a81c94e6c4a09ef29f9f56d57726b967994f814ef6a9df39ffa0c2c09b1
   published: '2026-10-04T07:30:06Z'
   released: '2026-10-04T05:15:05Z'
+- version: 0.4.3
+  tag: v0.4.3
+  commit: 31106d8930de25b4665ea01c5506d246789acacd
+  moodle-version: 2026100401
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: f5880f670d4076763e295016ad7645773d357697cad80660eea02bb071d4763b
+  listing-sha256: c94b5a81c94e6c4a09ef29f9f56d57726b967994f814ef6a9df39ffa0c2c09b1
+  published: '2026-10-04T13:30:11Z'
+  released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 summary: An interface for crowdsourcing translations in Moodle.
 metrics:
