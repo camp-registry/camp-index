@@ -2,10 +2,26 @@ component: tiny_sheetmusic
 source: https://github.com/adamjenkins/moodle-tiny_sheetmusic
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-09-04'
-releases: []
+releases:
+- version: 0.1.2
+  tag: v0.1.2
+  commit: b308f1cb352590bbb8a97ab285939fab20d4f652
+  moodle-version: 2026100401
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_sheetmusic: 2026082100
+  zip-sha256: e10aad0e3e956db3da34c82e63580b7e96622f82ebb0f5381379c663776ad67c
+  listing-sha256: de493825be6538d73d0104be1c4eb4e51baa4e3f7f56acd5314792a8cac5efdd
+  published: '2026-10-04T14:55:58Z'
+  released: '2026-10-04T13:38:32Z'
 license: GPL-3.0
 summary: Write music scores in Moodle's TinyMCE editor
 dependencies:
