@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-tool_activitydates
 source-repo-id: 1297402625
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 2.2.2
+  tag: v2.2.2
+  commit: 840aa262088897d1b7a83dc843faac435c414909
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 6e1fcb6b6c3519ac0a639e21d7481b3298ea7a7ba86747c53846ea4136d5e61b
+  listing-sha256: c9f3a19c77a72cb41cb09831ff0ee7e4ea41f39db3a2625c30b05aee8be3c3a1
+  published: '2026-10-04T13:30:56Z'
+  released: '2026-10-04T11:48:14Z'
 license: GPL-3.0
 summary: Bulk editing and driprelease of Activity Dates
 metrics:
