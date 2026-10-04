@@ -39,6 +39,16 @@ releases:
   supported-range:
   - 500
   - 502
+- version: v4.5.15.01
+  tag: v4.5.15.01
+  commit: 47b34fcd9103933374b5763eea0d771dd18fbeeb
+  moodle-version: 2026091901
+  supported-moodle:
+  - '4.5'
+  zip-sha256: a540f44bbd9d694c3c3feb62a8d7bbff45a0781920d4dd88cf719c86f35367fb
+  listing-sha256: d381859660741d8e947a29880c55e2ab5c915c81a546ef2f179a7391b2db1fb7
+  published: '2026-10-04T14:51:29Z'
+  released: '2026-10-04T10:35:57Z'
 license: GPL-3.0
 summary: MuTMS Compromised password blocking plugin for Moodle™ LMS
 metrics:
