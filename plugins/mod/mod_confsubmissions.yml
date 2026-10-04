@@ -3,10 +3,21 @@ source: https://github.com/adamjenkins/moodle-mod_confsubmissions
 source-repo-id: 1287835736
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 0.1.1
+  tag: v0.1.1
+  commit: 3b833e1388d41c3469db093644f81384bece2ee8
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 9fe2ae4f8fb9ec51eb3132bea13a95b11c5de03e25917aed086c56b524e24ef2
+  listing-sha256: d00c9f688fa282700f4f8039969a0a4b4c2556acb79adc5cf130991a48b0a4db
+  published: '2026-10-04T07:30:48Z'
+  released: '2026-10-04T05:15:04Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-27T06:55:03Z'
