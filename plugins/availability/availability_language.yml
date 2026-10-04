@@ -3,13 +3,26 @@ source: https://github.com/ewallah/moodle-availability_language
 source-repo-id: 22312099
 maintainers:
 - github: ewallah
-tier: 1
-security-contact: https://github.com/ewallah/moodle-availability_language/security/advisories/new
+tier: 2
+security-contact: >-
+  https://github.com/ewallah/moodle-availability_language/security/advisories/new
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v5.4.2
+  tag: v5.4.2
+  commit: e5e23b8c69bf47d57c67d17013b9a00023e2f407
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: df81acd8aa19415219b9f7b80aea42d7f974fc15984e381cbb3d0eb7595b9d58
+  listing-sha256: 96264a5f14926fe06bb787814cc82dadc24ccba91cfcb6bbe628602235bc476a
+  published: '2026-10-04T12:07:14Z'
+  released: '2026-10-04T12:03:13Z'
 summary: Restrict module and section access based on user language.
 license: GPL-3.0
 metrics:
