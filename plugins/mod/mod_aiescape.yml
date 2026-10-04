@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-mod_aiescape
 source-repo-id: 1264495971
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.1.5
+  tag: v1.1.5
+  commit: f612a3e0b4188c5731194aa1709140606ec88e14
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 19df205e8da9bf25a19e00d909983e9dfd3c3262eaab74e45e27bc5144f49707
+  listing-sha256: f2699eb80013bb1be0278024042cceb2af33cdf066967ba5c9cc70aade7659f9
+  published: '2026-10-04T13:26:58Z'
+  released: '2026-10-04T11:48:13Z'
 license: GPL-3.0
 summary: Escape room type scenarios where students go up against an AI
 metrics:
