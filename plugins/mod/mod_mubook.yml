@@ -43,6 +43,32 @@ releases:
   supported-range:
   - 500
   - 502
+- version: v4.5.15.01
+  tag: v4.5.15.01
+  commit: 5d43a1ba67e33486eba28a0f5915a96f812d9962
+  moodle-version: 2026091901
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: 90e51250843c962b1bfb50c597484e958661072e568fada34847972f82a44386
+  listing-sha256: a237c9c20bb3fc1abd999209cce40c34393cd173039f5e8e993a2fd5203299fc
+  published: '2026-10-04T14:51:55Z'
+  released: '2026-10-04T10:35:57Z'
+- version: v5.0.11.01
+  tag: v5.0.11.01
+  commit: fe219cc0e7119cae4e6d2484d6deb3f47228dd33
+  moodle-version: 2026092001
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: f4f6745c2a27f8b6653f3ebf4d5140fbb932132061bb654aa78d5c4b6121fcc9
+  listing-sha256: a237c9c20bb3fc1abd999209cce40c34393cd173039f5e8e993a2fd5203299fc
+  published: '2026-10-04T14:53:02Z'
+  released: '2026-10-04T10:53:12Z'
 summary: MuTMS Interactive book plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
