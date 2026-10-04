@@ -95,6 +95,18 @@ releases:
   listing-sha256: 76581eb5cad2a8c0d064dd9b28592bacaeb4d2becdfd0199b8b1a067216d29ee
   published: '2026-10-04T14:52:49Z'
   released: '2026-10-04T10:53:12Z'
+- version: v5.1.8.01
+  tag: v5.1.8.01
+  commit: 1678bd56b3f75532fca2c275b1f38167be1c426b
+  moodle-version: 2026092101
+  supported-moodle:
+  - '5.1'
+  dependencies:
+    tool_mulib: 2026092000
+  zip-sha256: cefc23ce6521a2ca7a3300a571405daa000a391038be51d0aa4ad97e2da709d0
+  listing-sha256: 76581eb5cad2a8c0d064dd9b28592bacaeb4d2becdfd0199b8b1a067216d29ee
+  published: '2026-10-04T14:53:39Z'
+  released: '2026-10-04T11:02:35Z'
 summary: MuTMS  Multi-tenancy plugin for Moodle™ LMS
 license: GPL-3.0
 metrics:
