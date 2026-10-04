@@ -2,7 +2,7 @@ component: block_oerexchangecontributors
 source: https://github.com/adamjenkins/moodle-block_oerexchangecontributors
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-09-04'
 releases: []
@@ -17,3 +17,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-19'
+security-contact: https://github.com/adamjenkins/moodle-block_oerexchangecontributors/security
+labels:
+- fully-free
