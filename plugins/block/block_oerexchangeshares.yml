@@ -38,6 +38,21 @@ releases:
   listing-sha256: f9f155f4eb5abf824b4f487d183d47119b5e9669b3fc447d435ece5789877dac
   published: '2026-10-04T07:49:03Z'
   released: '2026-10-04T05:15:08Z'
+- version: 1.0.4
+  tag: v1.0.4
+  commit: 25cf7e0b03e860a6ba2a9f59817ef80247b5d9da
+  moodle-version: 2026100401
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_oerexchange: any
+  zip-sha256: 5e8e8424a3e4cd6fb5a6d7450a5be3d35c3210c0f04068588460060b035231da
+  listing-sha256: f9f155f4eb5abf824b4f487d183d47119b5e9669b3fc447d435ece5789877dac
+  published: '2026-10-04T14:18:53Z'
+  released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 metrics:
   updated: '2026-08-04T03:44:26Z'
