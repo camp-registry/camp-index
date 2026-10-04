@@ -53,6 +53,42 @@ releases:
   supported-range:
   - 500
   - 502
+- version: v4.5.15.01
+  tag: v4.5.15.01
+  commit: f2685c4564152328bbf61af4245838ffef849b06
+  moodle-version: 2026091901
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+    enrol_muprog: 2026091900
+    block_muprog_my: 2026091900
+    block_muprogmyoverview: 2026091900
+    tool_muprog: 2026091900
+    block_mucertify_my: 2026091900
+  zip-sha256: 17f340fcf37988f684b8186f72a8271eb300b581d3df8033c12564bec67d35b3
+  listing-sha256: ce06340800881285d08a87281be714256fefb3202a599f76749c127ae58daeb0
+  published: '2026-10-04T14:51:19Z'
+  released: '2026-10-04T10:35:57Z'
+- version: v5.0.11.01
+  tag: v5.0.11.01
+  commit: c1a7e8eeb2cf83821548c8ec0bc4a5c0229a1670
+  moodle-version: 2026092001
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+    enrol_muprog: 2026092000
+    block_muprog_my: 2026092000
+    block_muprogmyoverview: 2026092000
+    tool_muprog: 2026092000
+    block_mucertify_my: 2026092000
+  zip-sha256: 4b81eb1c992c8291662f0b021dad1ec3025adcea0c7bc54de67ca816ecba7846
+  listing-sha256: ce06340800881285d08a87281be714256fefb3202a599f76749c127ae58daeb0
+  published: '2026-10-04T14:52:25Z'
+  released: '2026-10-04T10:53:12Z'
 license: GPL-3.0
 summary: MuTMS  Certifications plugin for Moodle™ LMS
 metrics:
