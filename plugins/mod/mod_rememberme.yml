@@ -2,10 +2,21 @@ component: mod_rememberme
 source: https://github.com/adamjenkins/moodle-mod_rememberme
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-09-04'
-releases: []
+releases:
+- version: 0.3.3
+  tag: v0.3.3
+  commit: b8a851d1c9fabe4407a08ce1896c8f990b4cae0d
+  moodle-version: 2026100402
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 9868def56faa7376e252223f59e3c63f2afeee5cca7b63a1adf7c1d6bdd750c5
+  listing-sha256: 388213b4dfd5105b5b39bac12a6e1d21ce012ef7f312e57f4d427f8b2a48d7c9
+  published: '2026-10-04T16:35:48Z'
+  released: '2026-10-04T13:55:21Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-01T11:05:34Z'
