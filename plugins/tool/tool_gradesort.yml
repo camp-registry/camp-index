@@ -2,10 +2,23 @@ component: tool_gradesort
 source: https://github.com/adamjenkins/moodle-tool_gradesort
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-24'
-releases: []
+releases:
+- version: 1.0.1
+  tag: v1.0.1
+  commit: 8cdb35c26248b3099e539824b2e2335dcf424ca1
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: de24e4d24af72cb8131a8c350fcc2ae704a58399025a0a4cf033ec8b833ac3ce
+  listing-sha256: e04dc3c6c23a09ee63383189b755a813113a47ef5a6bb5571fbc3e9383bab659
+  published: '2026-10-04T07:30:24Z'
+  released: '2026-10-04T05:15:05Z'
 license: GPL-3.0
 summary: A tool to sort gradebook items in a category
 metrics:
