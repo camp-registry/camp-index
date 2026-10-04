@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-local_forumcare
 source-repo-id: 1279732438
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.1.4
+  tag: v1.1.4
+  commit: d9d735e7e42ff9b44316eead4f7195b0683e682f
+  moodle-version: 2026100402
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 1c450627c0a0bbd77002bf1f702c2938beee38d964cfbbcb0135093e8350d659
+  listing-sha256: a1c49f56f11d4da4b2a5cc936fa096f82b594324ce094bb0f2cc4d7980ba19e6
+  published: '2026-10-04T13:27:02Z'
+  released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 summary: User reporting and forum post moderation tool
 metrics:
