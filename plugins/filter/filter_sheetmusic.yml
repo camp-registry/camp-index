@@ -2,10 +2,26 @@ component: filter_sheetmusic
 source: https://github.com/adamjenkins/moodle-filter_sheetmusic
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-09-04'
-releases: []
+releases:
+- version: 0.2.2
+  tag: v0.2.2
+  commit: 1de2202bb2c3fba1065784cee0e82e08b748b68f
+  moodle-version: 2026100401
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_sheetmusic: 2026090701
+  zip-sha256: 5161da16a87bd77daef1b1823bf2409eb86741be7d87e198a87f3d652cd1ccac
+  listing-sha256: e7add20840bd8d286c796fa3116619448c8a61d52b42e1d6f47795a2be18fa8b
+  published: '2026-10-04T14:55:15Z'
+  released: '2026-10-04T13:38:28Z'
 license: GPL-3.0
 summary: Display sheet music in Moodle
 dependencies:
