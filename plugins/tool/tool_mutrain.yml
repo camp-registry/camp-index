@@ -45,6 +45,34 @@ releases:
   supported-range:
   - 500
   - 502
+- version: v4.5.15.01
+  tag: v4.5.15.01
+  commit: 15f447cbad26664b862db6969d18c53faf2ba69e
+  moodle-version: 2026091901
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+    customfield_mutrain: 2026091900
+  zip-sha256: 56de7f349189219dfd0a313c2b5e8638d2face5970b389577c0a81e8b3bb0c5e
+  listing-sha256: 3924e57d1a72fb80440e4a7b085301af36180ffe53bf689f53c7a25858be2323
+  published: '2026-10-04T14:51:43Z'
+  released: '2026-10-04T10:35:57Z'
+- version: v5.0.11.01
+  tag: v5.0.11.01
+  commit: 0dc7b357d71998693d24bd26297b3eec1463d682
+  moodle-version: 2026092001
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092000
+    customfield_mutrain: 2026092000
+  zip-sha256: 0ec23b8730eb0b05306bda0645d875b88f039276cae2d013302cb7f3ef0f741f
+  listing-sha256: 3924e57d1a72fb80440e4a7b085301af36180ffe53bf689f53c7a25858be2323
+  published: '2026-10-04T14:52:48Z'
+  released: '2026-10-04T10:53:12Z'
 license: GPL-3.0
 summary: MuTMS Training credits plugin for Moodle™ LMS
 metrics:
