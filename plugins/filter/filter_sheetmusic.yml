@@ -2,7 +2,7 @@ component: filter_sheetmusic
 source: https://github.com/adamjenkins/moodle-filter_sheetmusic
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-09-04'
 releases: []
@@ -20,3 +20,6 @@ metrics:
     tag: v0.2.1
     date: '2026-10-04T05:15:06Z'
   checked: '2026-10-04'
+security-contact: https://github.com/adamjenkins/moodle-filter_sheetmusic/security
+labels:
+- fully-free
