@@ -2,10 +2,21 @@ component: tool_wizards
 source: https://github.com/adamjenkins/moodle-tool_wizards
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-03'
-releases: []
+releases:
+- version: 0.1.1
+  tag: v0.1.1
+  commit: 68436c82069d98dd5758c4e141b53807ac81ba99
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: f0da0674e2c0e5656e0ef4b852b3397437347eb1358d88d056b4767bc2b72891
+  listing-sha256: a1e090350ed241c8827271359698d23f96cf2846f6c484424df66b82bd71b89f
+  published: '2026-10-04T07:34:28Z'
+  released: '2026-10-04T05:15:06Z'
 license: GPL-3.0
 summary: Wizards to make Moodle more magical (easier)
 metrics:
