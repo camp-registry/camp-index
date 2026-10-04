@@ -20,6 +20,19 @@ releases:
   listing-sha256: a5ee26282509a12ff1d5e03e4877e18536a31d00fd857aa38a7c73b23a54a48f
   published: '2026-10-04T07:29:52Z'
   released: '2026-10-04T05:15:04Z'
+- version: 0.1.2
+  tag: v0.1.2
+  commit: 0ee7760de5c53e9204e50fe07b684e674b4f320b
+  moodle-version: 2026100401
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  dependencies:
+    tool_usertours: any
+  zip-sha256: 8778385f72e8cfd05d40ee71ee4a486029bfdd79d3519642a4fc500425885209
+  listing-sha256: a5ee26282509a12ff1d5e03e4877e18536a31d00fd857aa38a7c73b23a54a48f
+  published: '2026-10-04T13:25:46Z'
+  released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 summary: Upload, download, and delete user tours in bulk.
 metrics:
