@@ -2,7 +2,7 @@ component: tool_quizbulkedit
 source: https://github.com/adamjenkins/moodle-tool_quizbulkedit
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-10-03'
 releases: []
@@ -14,3 +14,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-10-03'
+security-contact: https://github.com/adamjenkins/moodle-tool_quizbulkedit/security
+labels:
+- fully-free
