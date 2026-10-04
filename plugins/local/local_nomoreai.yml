@@ -2,10 +2,21 @@ component: local_nomoreai
 source: https://github.com/adamjenkins/moodle-local_nomoreai
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-03'
-releases: []
+releases:
+- version: 0.1.2
+  tag: v0.1.2
+  commit: 298a411afc307ca2e4059ac6990042322773f757
+  moodle-version: 2026100401
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 7457cc27d11cf2ae8dc7b174f4d454541b94dc63857e8a2ebd839e8fd7c798ab
+  listing-sha256: feb24b3b7e34332147a2dff82ff2a150c59722bc2919f73138e9dde7b64ead3c
+  published: '2026-10-04T14:30:44Z'
+  released: '2026-10-04T13:38:30Z'
 license: GPL-3.0
 metrics:
   updated: '2026-10-03T03:25:49Z'
