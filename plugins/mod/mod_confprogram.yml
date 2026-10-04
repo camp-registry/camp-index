@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-mod_confprogram
 source-repo-id: 1287836149
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 0.1.1
+  tag: v0.1.1
+  commit: 71acdab7a94a7516e811d7c6b7aa6136b44e453a
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  dependencies:
+    mod_confsubmissions: any
+  zip-sha256: 3ddd6f2cdb61f49b0b74fe9bfabef51ee5f7647437f760bbeceeaa0303271ee3
+  listing-sha256: 81b2b3b2cc3c9ffa3602fe7fc9579905331ca554cb742fc5e97c7630ca9ea2e5
+  published: '2026-10-04T07:32:46Z'
+  released: '2026-10-04T05:15:04Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-27T06:54:57Z'
@@ -16,9 +29,10 @@ metrics:
   archived: false
   checked: '2026-09-27'
   ci: moodle-plugin-ci
-summary: Conference Program (the vetting plugin) — a Moodle activity that takes submissions
-  from modconfsubmissions through a reviewer workflow, then publishes the accepted
-  programme.
+summary: >-
+  Conference Program (the vetting plugin) — a Moodle activity that takes
+  submissions from modconfsubmissions through a reviewer workflow, then
+  publishes the accepted programme.
 security-contact: https://github.com/adamjenkins/moodle-mod_confprogram/security
 labels:
 - fully-free
