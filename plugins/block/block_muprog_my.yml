@@ -43,6 +43,18 @@ releases:
   supported-range:
   - 500
   - 502
+- version: v4.5.15.01
+  tag: v4.5.15.01
+  commit: 3c59e2e08291dd069f5591bae8665659e7cf533a
+  moodle-version: 2026091901
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091900
+  zip-sha256: 3d6cc91ce7fcefcc0dc19e754678eaed292a39dee18c466dae68b014ed789a70
+  listing-sha256: 399e48197fce7569be0cb33bea1936fb7e59ede6b2e453b68c0a8714799af4d3
+  published: '2026-10-04T14:51:46Z'
+  released: '2026-10-04T10:35:57Z'
 summary: MuTMS My programs block for Moodle™ LMS
 license: GPL-3.0
 metrics:
