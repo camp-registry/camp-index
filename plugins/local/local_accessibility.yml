@@ -1,8 +1,8 @@
 component: local_accessibility
-source: https://github.com/ponlawat-w/moodle-local_accessibility
+source: https://github.com/adamjenkins/moodle-local_accessibility
 maintainers:
-- github: ponlawat-w
-tier: 0
+- github: adamjenkins
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -22,3 +22,6 @@ metrics:
     tag: v2.4.1-with-widgets
     date: '2026-08-02T05:25:18Z'
   checked: '2026-10-03'
+security-contact: https://github.com/adamjenkins/moodle-local_accessibility/security
+labels:
+- fully-free
