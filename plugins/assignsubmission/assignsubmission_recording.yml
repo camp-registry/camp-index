@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-assignsubmission_recording
 source-repo-id: 1269704604
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 0.1.4
+  tag: v0.1.4
+  commit: 6349e9e301623030e08c9bf62e64afedcbbd40f2
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 360f12b7c2e74a4f93cb8bb0ad1128d05a4a7cb062f9f413339a45366018a8d6
+  listing-sha256: 07b2dbdbb9b5da58fb08849e3670d3945c628b04bf0738ff842a5ea96adecf55
+  published: '2026-10-04T13:26:03Z'
+  released: '2026-10-04T11:48:11Z'
 license: GPL-3.0
 summary: Submissions must be recorded audio or video.
 metrics:
