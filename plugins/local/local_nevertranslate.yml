@@ -2,7 +2,7 @@ component: local_nevertranslate
 source: https://github.com/adamjenkins/moodle-local_nevertranslate
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-10-03'
 releases: []
@@ -16,3 +16,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-10-03'
+security-contact: https://github.com/adamjenkins/moodle-local_nevertranslate/security
+labels:
+- fully-free
