@@ -2,10 +2,21 @@ component: tool_teacherscaffold
 source: https://github.com/adamjenkins/moodle-tool_teacherscaffold
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-03'
-releases: []
+releases:
+- version: 0.1.2
+  tag: v0.1.2
+  commit: adac2f67b1f17ae5b69c5949429efc94b4572690
+  moodle-version: 2026100401
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 2cf6eeddeba5c9ee209e9c3e5a5cb222448a10db3ee52d4953d65d7227fca569
+  listing-sha256: ead4ceb7cf4c4d2f2eb5e24bdf83eaec9a71ce05b70b826671112c3018553a00
+  published: '2026-10-04T14:35:07Z'
+  released: '2026-10-04T13:38:33Z'
 license: GPL-3.0
 summary: Setup "beginner" Moodle and ease teachers into using the LMS
 metrics:
