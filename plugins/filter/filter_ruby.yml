@@ -2,10 +2,24 @@ component: filter_ruby
 source: https://github.com/adamjenkins/moodle-filter_ruby
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-03'
-releases: []
+releases:
+- version: 1.0.2
+  tag: v1.0.2
+  commit: 980f2219c8d22f34f97e2e45e8d0bbcc7e9f07cd
+  moodle-version: 2026100400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 4106971827bd074e5ada89056bc76e9432173a22b7b2df521763eb92ed089f55
+  listing-sha256: b67fc7356e7eb8dfa7fd2f4bbbb0b4e9d83453c757013841a7463e9eab60bac9
+  published: '2026-10-04T14:32:25Z'
+  released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 summary: Furigana for Moodle
 metrics:
