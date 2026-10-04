@@ -2,7 +2,7 @@ component: local_sheetmusic
 source: https://github.com/adamjenkins/moodle-local_sheetmusic
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-09-04'
 releases: []
@@ -16,3 +16,6 @@ metrics:
   checked: '2026-09-19'
 summary: 'The shared engine behind the sheetmusic Moodle plugin suite: a document
   model, ABC and'
+security-contact: https://github.com/adamjenkins/moodle-local_sheetmusic/security
+labels:
+- fully-free
