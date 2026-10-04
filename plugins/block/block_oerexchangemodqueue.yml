@@ -23,6 +23,21 @@ releases:
   - 500
   - 502
   maturity: stable
+- version: 1.0.6
+  tag: v1.0.6
+  commit: 382a73b479b69bb19bceb9f1aaf4de8c678c23de
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_oerexchange: 2026080400
+  zip-sha256: 1338e7f93dd4928d2a94db3c6ac3e3a8695984984210ace099b2da77abdc77cc
+  listing-sha256: 6150bb8b3259ac474a77e59e4cfb334bd4b0f1d44c79dbb252878936ccef4260
+  published: '2026-10-04T07:44:40Z'
+  released: '2026-10-04T05:15:07Z'
 license: GPL-3.0
 metrics:
   updated: '2026-08-04T03:44:21Z'
