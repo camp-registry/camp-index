@@ -3,10 +3,21 @@ source: https://github.com/adamjenkins/moodle-local_langcrowd
 source-repo-id: 1271082621
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 0.4.2
+  tag: v0.4.2
+  commit: 47d68af37902ee5a2fb5bb93cb17e268096e5423
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 31d987b41c418764e1e47f08fb2ab28920192baa3a7b8e2fa866df8db063eb48
+  listing-sha256: c94b5a81c94e6c4a09ef29f9f56d57726b967994f814ef6a9df39ffa0c2c09b1
+  published: '2026-10-04T07:30:06Z'
+  released: '2026-10-04T05:15:05Z'
 license: GPL-3.0
 summary: An interface for crowdsourcing translations in Moodle.
 metrics:
