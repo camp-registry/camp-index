@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-local_bulktourmanager
 source-repo-id: 1292339872
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 0.1.1
+  tag: v0.1.1
+  commit: 4055d2caf5a77932ed03b98cdce4ffdae993bec5
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  dependencies:
+    tool_usertours: any
+  zip-sha256: bf52f1afd1a5d188567d854634ecc79f6dddbb1121335b3ff38cc37f958840ea
+  listing-sha256: a5ee26282509a12ff1d5e03e4877e18536a31d00fd857aa38a7c73b23a54a48f
+  published: '2026-10-04T07:29:52Z'
+  released: '2026-10-04T05:15:04Z'
 license: GPL-3.0
 summary: Upload, download, and delete user tours in bulk.
 metrics:
