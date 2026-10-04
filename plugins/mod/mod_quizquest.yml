@@ -3,12 +3,27 @@ source: https://github.com/adamjenkins/moodle-mod_quizquest
 source-repo-id: 1297316787
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 0.6.4
+  tag: v0.6.4
+  commit: 6625a2182d5385e64bb84bf51f10866c20831b9a
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 426589ed7620dfb477ad3470db49a8e5fbb81b00eec671f3943d05aab8ab054a
+  listing-sha256: 1b7f63cc13b46c98127cb173221ab80ebefe36d1c0bce74830cb3c7300ec04f9
+  published: '2026-10-04T13:35:30Z'
+  released: '2026-10-04T11:48:14Z'
 license: GPL-3.0
-summary: A linear, game-like interface for quiz questions for use as a practice activity.
+summary: >-
+  A linear, game-like interface for quiz questions for use as a practice
+  activity.
 metrics:
   updated: '2026-09-27T05:47:42Z'
   stars: 0
