@@ -2,10 +2,25 @@ component: block_oerexchangecontributors
 source: https://github.com/adamjenkins/moodle-block_oerexchangecontributors
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-09-04'
-releases: []
+releases:
+- version: 1.0.1
+  tag: v1.0.1
+  commit: 6a43eefaaf9fd28fd6a8e4e331837acb8f6616ef
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_oerexchange: 2026082200
+  zip-sha256: d954b793bbf383015d5be04c404448c458344b62d2a6189478068eab2a959a71
+  listing-sha256: 8b519c61b2a98a7e0b2205b013e71ea453e599eec87d9f01f2308612d2d60c92
+  published: '2026-10-04T07:44:55Z'
+  released: '2026-10-04T05:15:07Z'
 license: GPL-3.0
 summary: List the contributors to an OER Exchange.
 dependencies:
