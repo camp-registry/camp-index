@@ -3,10 +3,23 @@ source: https://github.com/adamjenkins/moodle-tiny_timezone
 source-repo-id: 1278237338
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.1.3
+  tag: v1.1.3
+  commit: a6bdff3267779b1ce8b3abefe5772e68583ba7c3
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: e85204ace775a8e4ed0d16a762cc80fc5f981613202b983428ca3d5a4f13528d
+  listing-sha256: ff16fc2fe26db5ef8c03075eff20d934e923864a7c4da28f1410fb3d120d696e
+  published: '2026-10-04T13:34:17Z'
+  released: '2026-10-04T11:48:14Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-27T05:47:48Z'
