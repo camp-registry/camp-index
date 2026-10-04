@@ -49,6 +49,18 @@ releases:
   listing-sha256: 9bbe456875752adef79562034f49100c9ab8a2b2877cef1efa41e99f3f0316a6
   published: '2026-10-04T14:51:23Z'
   released: '2026-10-04T10:35:57Z'
+- version: v5.0.11.01
+  tag: v5.0.11.01
+  commit: b0d962141b1e8a17436fab5bbd51eb0d109133e4
+  moodle-version: 2026092001
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 469219b8acb9cba319b0e2def67e9d7d689ee6f7e8a00da5f926d87b020bcdfb
+  listing-sha256: 9bbe456875752adef79562034f49100c9ab8a2b2877cef1efa41e99f3f0316a6
+  published: '2026-10-04T14:53:40Z'
+  released: '2026-10-04T10:53:12Z'
 license: GPL-3.0
 summary: Additional MuTMS tools library plugin for Moodle™ LMS
 metrics:
