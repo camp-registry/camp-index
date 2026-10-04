@@ -2,10 +2,24 @@ component: local_messagingsupercharger
 source: https://github.com/adamjenkins/moodle-local_messagingsupercharger
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-03'
-releases: []
+releases:
+- version: 0.1.3
+  tag: v0.1.3
+  commit: c2270c625d416086ecb942591c7b9a51e0d30674
+  moodle-version: 2026100402
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: fac374b0a4f8b8f4717fbc3162608af515ef82035ef2025b231f735f5fe740f4
+  listing-sha256: 21dd0d205025409e1fdab71240e40af382a65c23be1b895aa412ae2d5e5de3ef
+  published: '2026-10-04T16:35:33Z'
+  released: '2026-10-04T13:55:21Z'
 license: GPL-3.0
 summary: Supercharge Moodle Messaging
 metrics:
