@@ -2,10 +2,24 @@ component: mod_findatime
 source: https://github.com/adamjenkins/moodle-mod_findatime
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-03'
-releases: []
+releases:
+- version: 0.1.3
+  tag: v0.1.3
+  commit: 170b89de16a4e9167280fb1278973b25a88646c3
+  moodle-version: 2026100402
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: b7444d9e95e5dfc1f9302e8badad73de4259ef6fc727d5e7f952fe4b36158eea
+  listing-sha256: 354a2731e3ea439effe412ba29eedb2845ac8ab917c8284136355219e02982f5
+  published: '2026-10-04T16:39:32Z'
+  released: '2026-10-04T13:55:21Z'
 license: GPL-3.0
 summary: An activity to find a time to meet
 metrics:
