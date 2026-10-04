@@ -2,10 +2,24 @@ component: local_sheetmusic
 source: https://github.com/adamjenkins/moodle-local_sheetmusic
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-09-04'
-releases: []
+releases:
+- version: 0.2.2
+  tag: v0.2.2
+  commit: 05f9acaf64ed50080ab2a9d79a9ce573cab59423
+  moodle-version: 2026100401
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: be8df10aa66b0bdb3394e01ab5969b73a3803260e9ca6d12811d1506768fcdbf
+  listing-sha256: ff8331fcc6b5fb5f48a7107bb5d2e49b242a08773500e14b58c018f9c138c9ec
+  published: '2026-10-04T14:55:38Z'
+  released: '2026-10-04T13:38:31Z'
 license: GPL-3.0
 metrics:
   updated: '2026-09-08T01:10:06Z'
@@ -14,8 +28,9 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-09-19'
-summary: 'The shared engine behind the sheetmusic Moodle plugin suite: a document
-  model, ABC and'
+summary: >-
+  The shared engine behind the sheetmusic Moodle plugin suite: a document model,
+  ABC and
 security-contact: https://github.com/adamjenkins/moodle-local_sheetmusic/security
 labels:
 - fully-free
