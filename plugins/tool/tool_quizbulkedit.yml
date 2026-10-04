@@ -2,10 +2,21 @@ component: tool_quizbulkedit
 source: https://github.com/adamjenkins/moodle-tool_quizbulkedit
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-03'
-releases: []
+releases:
+- version: 0.1.1
+  tag: v0.1.1
+  commit: e94e27235e3341977cb3d45e48375432bd45d228
+  moodle-version: 2026100400
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: ae688297688883134d903b220397792cdae1668844fe5c4f7ca4df937c842507
+  listing-sha256: 19fb72db5286cdd538463f2c8685e23431fb29db3d76050b5f025386d6969cf4
+  published: '2026-10-04T07:33:56Z'
+  released: '2026-10-04T06:17:58Z'
 license: GPL-3.0
 metrics:
   updated: '2026-10-03T07:20:04Z'
