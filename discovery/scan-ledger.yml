@@ -1447,14 +1447,10 @@ repos:
     last-checked: '2026-09-04'
     probed: '2026-10-01'
   ADORSYS-GIS/moodle-aiprovider_openaicompatible:
-    outcome: needs-review
-    detail: the old moodle.org directory published https://github.com/adorsys-gis/moodle-plugin
-      for aiprovider_openaicompatible; listing a different repository needs the repoint
-      evidence standard first (camp-tools#30)
+    outcome: written
+    detail: listed as aiprovider_openaicompatible
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: aiprovider_openaicompatible
-    probed: '2026-10-01'
+    last-checked: '2026-10-05'
   ADORSYS-GIS/moodle-container:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -61259,13 +61255,10 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
   blindsidenetworks-ps/moodle-aiprovider_openaicompatible:
-    outcome: needs-review
-    detail: the old moodle.org directory published https://github.com/adorsys-gis/moodle-plugin
-      for aiprovider_openaicompatible; listing a different repository needs the repoint
-      evidence standard first (camp-tools#30)
+    outcome: exists
+    detail: component aiprovider_openaicompatible already indexed this run
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: aiprovider_openaicompatible
+    last-checked: '2026-10-05'
   blindsidenetworks-ps/moodle-bbbext_b3dummy_gradebook:
     outcome: exists
     detail: component bbbext_b3dummy_gradebook already registered (first-come, RFC
@@ -106334,13 +106327,10 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-04'
   lmscloud-io/moodle-aiprovider_openaicompatible:
-    outcome: needs-review
-    detail: the old moodle.org directory published https://github.com/adorsys-gis/moodle-plugin
-      for aiprovider_openaicompatible; listing a different repository needs the repoint
-      evidence standard first (camp-tools#30)
+    outcome: exists
+    detail: component aiprovider_openaicompatible already indexed this run
     first-seen: '2026-09-04'
-    last-checked: '2026-09-04'
-    component: aiprovider_openaicompatible
+    last-checked: '2026-10-05'
   lmscloud-io/moodle-local_fakeai:
     outcome: exists
     detail: component local_fakeai already registered (first-come, RFC §8)
@@ -131179,6 +131169,11 @@ repos:
     detail: component local_stackmathgame already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
+  ralferlebach/moodle-mod_elang:
+    outcome: written
+    detail: listed as mod_elang
+    first-seen: '2026-10-05'
+    last-checked: '2026-10-05'
   ralferlebach/moodle-mod_flexaccess:
     outcome: exists
     detail: component mod_flexaccess already registered (first-come, RFC §8)
