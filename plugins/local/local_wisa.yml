@@ -1,16 +1,19 @@
 component: local_wisa
-source: https://github.com/tverbesselt/MoodlePLuginWisaSync
+source: https://github.com/Lesterhuis-Training-en-Consultancy/local_wisa
 maintainers:
-- github: tverbesselt
+- github: Lesterhuis-Training-en-Consultancy
 tier: 0
 status: active
 discovered: '2026-09-04'
 releases: []
-license: MIT
+license: GPL-3.0
 metrics:
-  updated: '2025-12-08T22:28:48Z'
+  updated: '2026-10-02T07:42:10Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
+  latest-tag:
+    tag: v0.10.4
+    date: '2026-09-30T20:44:11Z'
   checked: '2026-10-05'
