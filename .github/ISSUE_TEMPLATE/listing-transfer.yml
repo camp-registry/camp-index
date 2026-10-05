@@ -1,0 +1,103 @@
+name: Listing transfer request
+description: "Move a listing to a different repository or maintainer: a hand-over, a takeover of an abandoned plugin, or a copy that should point at the original."
+title: "Listing transfer: <component>"
+labels: ["listing-transfer"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Three cases need no issue at all. If you renamed or transferred the
+        same repository, the registry follows the redirect for discovered
+        listings on its own, and for a claimed listing you edit `source` in
+        your entry by pull request. If you are the listed maintainer handing
+        over, add the new maintainer to your entry by pull request, or set
+        `status: moved` with `moved-to:` if the plugin now publishes elsewhere
+        (AUTHORS.md, Leaving). Use this form for everything else: a source
+        URL is a listing's identity and its publishing credential, so a
+        change of hands gets one human look (runbooks/repoints.md). No
+        single item below decides; the whole picture does.
+  - type: input
+    id: component
+    attributes:
+      label: Component
+      description: "The plugin's frankenstyle name, e.g. mod_example"
+      placeholder: mod_example
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: Repository the listing points at today
+      description: "The source shown on the plugin's page"
+      placeholder: https://github.com/someone/moodle-mod_example
+    validations:
+      required: true
+  - type: input
+    id: requested
+    attributes:
+      label: Repository it should point at
+      placeholder: https://github.com/you/moodle-mod_example
+    validations:
+      required: true
+  - type: dropdown
+    id: shape
+    attributes:
+      label: How the two repositories relate
+      options:
+        - The requested repository is a fork or continuation of the listed one
+        - The listed repository is a copy or fork of mine
+        - Same plugin, no shared history (a rewrite or a re-upload)
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to the requested repository
+      options:
+        - I own it
+        - I am a member of the organization that owns it, with push access
+        - I am its main committer but not an owner
+        - None of these
+    validations:
+      required: true
+  - type: dropdown
+    id: maintainer
+    attributes:
+      label: The current maintainer's position
+      description: "The listed maintainer, or the owner of the listed repository if the listing is unclaimed"
+      options:
+        - They agreed to the hand-over (link the comment, commit or issue below)
+        - I contacted them and got no reply (say when and where below)
+        - The listed repository is archived or gone
+        - I have not contacted them
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: "Links, one per line: the hand-over agreement, the old moodle.org directory entry, the commit history showing the fork, releases published from the requested repository, an announcement. The registry checks every link."
+    validations:
+      required: true
+  - type: checkboxes
+    id: outcome
+    attributes:
+      label: What you are asking for
+      options:
+        - label: "Point the listing at the requested repository"
+        - label: "Record me as maintainer (the registry will verify you control the requested repository)"
+        - label: "Mark the old listing as moved, with the new one as its destination"
+  - type: checkboxes
+    id: eligibility
+    attributes:
+      label: Eligibility
+      options:
+        - label: "The requested repository is public, GPL-family licensed, and has a version.php at its root declaring this component"
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything you want us to know (optional)
+    validations:
+      required: false
