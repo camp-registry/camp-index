@@ -1,5 +1,6 @@
 component: mod_findatime
 source: https://github.com/adamjenkins/moodle-mod_findatime
+source-repo-id: 1392514141
 maintainers:
 - github: adamjenkins
 tier: 2

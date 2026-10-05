@@ -1,5 +1,6 @@
 component: local_nomoreai
 source: https://github.com/adamjenkins/moodle-local_nomoreai
+source-repo-id: 1402609351
 maintainers:
 - github: adamjenkins
 tier: 2

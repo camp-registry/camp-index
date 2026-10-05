@@ -1,5 +1,6 @@
 component: tool_wizards
 source: https://github.com/adamjenkins/moodle-tool_wizards
+source-repo-id: 1397407907
 maintainers:
 - github: adamjenkins
 tier: 2

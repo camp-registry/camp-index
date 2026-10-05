@@ -1,5 +1,6 @@
 component: local_sheetmusic
 source: https://github.com/adamjenkins/moodle-local_sheetmusic
+source-repo-id: 1342398823
 maintainers:
 - github: adamjenkins
 tier: 2

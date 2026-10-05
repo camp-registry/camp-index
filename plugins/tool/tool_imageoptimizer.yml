@@ -1,5 +1,6 @@
 component: tool_imageoptimizer
 source: https://github.com/adamjenkins/moodle-tool_imageoptimizer
+source-repo-id: 1278935836
 maintainers:
 - github: adamjenkins
 tier: 2

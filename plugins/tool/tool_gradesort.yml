@@ -1,5 +1,6 @@
 component: tool_gradesort
 source: https://github.com/adamjenkins/moodle-tool_gradesort
+source-repo-id: 1303716845
 maintainers:
 - github: adamjenkins
 tier: 2

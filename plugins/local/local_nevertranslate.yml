@@ -1,5 +1,6 @@
 component: local_nevertranslate
 source: https://github.com/adamjenkins/moodle-local_nevertranslate
+source-repo-id: 1389139182
 maintainers:
 - github: adamjenkins
 tier: 2
@@ -18,8 +19,7 @@ releases:
   published: '2026-10-04T14:57:45Z'
   released: '2026-10-04T13:38:29Z'
 license: GPL-3.0
-summary: >-
-  Stop those "helpful" automatic translating browsers translating your Moodle
+summary: Stop those "helpful" automatic translating browsers translating your Moodle
   site
 metrics:
   updated: '2026-09-27T05:47:28Z'

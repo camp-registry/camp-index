@@ -1,5 +1,6 @@
 component: tiny_ruby
 source: https://github.com/adamjenkins/moodle-tiny_ruby
+source-repo-id: 1389626275
 maintainers:
 - github: adamjenkins
 tier: 2

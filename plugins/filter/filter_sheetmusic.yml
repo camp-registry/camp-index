@@ -1,5 +1,6 @@
 component: filter_sheetmusic
 source: https://github.com/adamjenkins/moodle-filter_sheetmusic
+source-repo-id: 1342398554
 maintainers:
 - github: adamjenkins
 tier: 2

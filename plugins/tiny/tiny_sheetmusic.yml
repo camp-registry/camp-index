@@ -1,5 +1,6 @@
 component: tiny_sheetmusic
 source: https://github.com/adamjenkins/moodle-tiny_sheetmusic
+source-repo-id: 1342399316
 maintainers:
 - github: adamjenkins
 tier: 2

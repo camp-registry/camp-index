@@ -1,5 +1,6 @@
 component: filter_ruby
 source: https://github.com/adamjenkins/moodle-filter_ruby
+source-repo-id: 1361275160
 maintainers:
 - github: adamjenkins
 tier: 2

@@ -1,5 +1,6 @@
 component: tool_teacherscaffold
 source: https://github.com/adamjenkins/moodle-tool_teacherscaffold
+source-repo-id: 1397405766
 maintainers:
 - github: adamjenkins
 tier: 2

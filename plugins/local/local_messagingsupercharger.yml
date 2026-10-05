@@ -1,5 +1,6 @@
 component: local_messagingsupercharger
 source: https://github.com/adamjenkins/moodle-local_messagingsupercharger
+source-repo-id: 1398072319
 maintainers:
 - github: adamjenkins
 tier: 2

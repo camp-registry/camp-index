@@ -1,5 +1,6 @@
 component: tool_quizbulkedit
 source: https://github.com/adamjenkins/moodle-tool_quizbulkedit
+source-repo-id: 1402809717
 maintainers:
 - github: adamjenkins
 tier: 2

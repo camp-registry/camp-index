@@ -1,5 +1,6 @@
 component: local_gradeheatmap
 source: https://github.com/adamjenkins/moodle-local_gradeheatmap
+source-repo-id: 1400028303
 maintainers:
 - github: adamjenkins
 tier: 2

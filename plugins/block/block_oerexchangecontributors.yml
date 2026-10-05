@@ -1,5 +1,6 @@
 component: block_oerexchangecontributors
 source: https://github.com/adamjenkins/moodle-block_oerexchangecontributors
+source-repo-id: 1342855986
 maintainers:
 - github: adamjenkins
 tier: 2

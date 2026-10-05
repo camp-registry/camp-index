@@ -1,5 +1,6 @@
 component: mod_rememberme
 source: https://github.com/adamjenkins/moodle-mod_rememberme
+source-repo-id: 1353108190
 maintainers:
 - github: adamjenkins
 tier: 2
