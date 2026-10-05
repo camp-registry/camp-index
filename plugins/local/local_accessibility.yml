@@ -11,18 +11,16 @@ license: GPL-3.0
 summary: An accessibility plugin that allows users to customize the visual appearance
   of a Moodle to suit individual preferences.
 metrics:
-  updated: '2026-08-02T05:25:31Z'
-  stars: 3
-  forks: 8
-  open-issues: 17
+  updated: '2026-10-04T14:13:39Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
   archived: false
-  latest-release:
-    tag: v2.4.1-with-widgets
-    date: '2026-08-02T05:25:30Z'
   latest-tag:
-    tag: v2.4.1-with-widgets
-    date: '2026-08-02T05:25:18Z'
-  checked: '2026-10-03'
+    tag: v3.0.2
+    date: '2026-10-04T11:48:12Z'
+  checked: '2026-10-05'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_accessibility/security
 labels:
 - fully-free
