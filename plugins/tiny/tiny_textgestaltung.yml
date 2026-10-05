@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: '2026073005'
     date: '2026-08-04T12:49:33Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: '2026073005'
+    date: '2026-08-03T15:29:49Z'
+  checked: '2026-10-05'
 summary: Ein Plugin für den Tiny-Editor in Moodle 5.x, das Schriftart,

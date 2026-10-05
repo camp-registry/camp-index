@@ -15,7 +15,7 @@ releases: []
 license: GPL-3.0
 summary: Moodle Question Bank bulk update of question tags
 metrics:
-  updated: '2026-09-18T07:33:45Z'
+  updated: '2026-10-04T13:08:21Z'
   stars: 3
   forks: 5
   open-issues: 2
@@ -23,5 +23,8 @@ metrics:
   latest-release:
     tag: v1.3.1
     date: '2026-09-08T21:42:41Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.3.1
+    date: '2026-09-08T21:37:13Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci

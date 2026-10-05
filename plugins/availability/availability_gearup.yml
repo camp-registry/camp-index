@@ -36,6 +36,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.2.4
+    date: '2026-04-21T13:48:55Z'
+  checked: '2026-10-05'
 dependencies:
   block_gearup: 2025020700

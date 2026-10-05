@@ -9,12 +9,15 @@ releases: []
 license: GPL-3.0
 summary: socractic-methodos-moodling
 metrics:
-  updated: '2026-09-07T13:01:49Z'
+  updated: '2026-09-21T19:01:53Z'
   stars: 0
   forks: 0
   open-issues: 8
   archived: false
   latest-release:
-    tag: v1.0.1
-    date: '2026-07-25T08:07:30Z'
-  checked: '2026-09-20'
+    tag: v1.1.6
+    date: '2026-09-21T19:02:06Z'
+  latest-tag:
+    tag: v1.1.6
+    date: '2026-09-21T19:01:51Z'
+  checked: '2026-10-05'

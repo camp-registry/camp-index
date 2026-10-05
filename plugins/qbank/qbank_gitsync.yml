@@ -20,4 +20,7 @@ metrics:
   latest-release:
     tag: v1.2.1-beta
     date: '2026-09-02T12:29:56Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.2.1-beta
+    date: '2026-09-02T12:26:51Z'
+  checked: '2026-10-05'

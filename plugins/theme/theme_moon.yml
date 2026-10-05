@@ -12,11 +12,14 @@ dependencies:
   local_moon: 2026081800
 metrics:
   updated: '2026-09-07T10:06:43Z'
-  stars: 1
+  stars: 2
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
     tag: v1.0.2
     date: '2026-09-07T10:03:29Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.0.2
+    date: '2026-09-07T09:59:00Z'
+  checked: '2026-10-05'

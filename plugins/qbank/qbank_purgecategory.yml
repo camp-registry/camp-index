@@ -13,5 +13,8 @@ metrics:
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: '2025030200'
+    date: '2025-03-02T16:52:11Z'
+  checked: '2026-10-05'
 summary: Purge question category Moodle plugin

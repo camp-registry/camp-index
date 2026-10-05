@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 2
   archived: true
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v0.3.2
+    date: '2019-07-19T10:00:09Z'
+  checked: '2026-10-05'
 summary: This project is no longer actively maintained

@@ -79,10 +79,13 @@ dependencies:
   tool_muprog: 2026080845
   tool_certificate: 2025031800
 metrics:
-  updated: '2026-09-19T08:28:05Z'
+  updated: '2026-10-04T14:52:07Z'
   stars: 0
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v5.0.11.01
+    date: '2026-10-04T10:53:12Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci

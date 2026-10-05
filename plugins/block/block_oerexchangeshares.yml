@@ -55,12 +55,15 @@ releases:
   released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 metrics:
-  updated: '2026-08-04T03:44:26Z'
+  updated: '2026-10-04T13:48:47Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.0.4
+    date: '2026-10-04T11:48:12Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-block_oerexchangeshares/security
 labels:

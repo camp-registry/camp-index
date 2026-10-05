@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Code for Coassemble's Moodle plugin
 metrics:
-  updated: '2026-08-26T23:52:30Z'
+  updated: '2026-09-22T07:28:44Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-05'

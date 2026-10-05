@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: '2.1'
+    date: '2025-10-15T15:12:28Z'
+  checked: '2026-10-05'
 summary: This local plugin forces the signup/registration link to always appear on
   the login page, with a configurable custom URL, regardless of the site's authentication
   settings.

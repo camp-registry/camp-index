@@ -22,15 +22,18 @@ releases:
   released: '2026-10-04T13:38:31Z'
 license: GPL-3.0
 metrics:
-  updated: '2026-09-08T01:10:06Z'
+  updated: '2026-10-04T14:54:32Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
-summary: >-
-  The shared engine behind the sheetmusic Moodle plugin suite: a document model,
-  ABC and
+  latest-tag:
+    tag: v0.2.2
+    date: '2026-10-04T13:38:31Z'
+  checked: '2026-10-05'
+  ci: moodle-plugin-ci
+summary: 'The shared engine behind the sheetmusic Moodle plugin suite: a document
+  model, ABC and'
 security-contact: https://github.com/adamjenkins/moodle-local_sheetmusic/security
 labels:
 - fully-free

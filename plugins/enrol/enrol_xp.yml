@@ -59,12 +59,15 @@ releases:
 summary: Enrol users in courses when a certain level from Level up! is attained.
 license: GPL-3.0
 metrics:
-  updated: '2026-04-20T14:58:30Z'
+  updated: '2026-10-02T11:06:38Z'
   stars: 8
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.0.8
+    date: '2026-10-02T11:06:20Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci
 dependencies:
   block_xp: 2017091000

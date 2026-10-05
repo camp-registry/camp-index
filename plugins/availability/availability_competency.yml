@@ -11,12 +11,19 @@ license: GPL-3.0
 summary: Moodle availability plugin, which lets users restrict resources, activities,
   and sections based on course competency.
 metrics:
-  updated: '2026-09-05T20:09:48Z'
+  updated: '2026-10-02T19:02:55Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-release:
+    tag: v1.2.0
+    date: '2026-09-23T23:21:02Z'
+  latest-tag:
+    tag: v1.2.0
+    date: '2026-09-23T23:20:43Z'
+  checked: '2026-10-05'
+  ci: moodle-plugin-ci
 security-contact: https://github.com/uaiblaine/moodle-availability_competency/security
 labels:
 - fully-free

@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: AI-powered essay plagiarism and integrity checker for Moodle
 metrics:
-  updated: '2026-09-07T15:19:09Z'
+  updated: '2026-10-05T10:49:17Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.4.0
+    date: '2026-10-05T10:49:16Z'
+  checked: '2026-10-05'

@@ -8,13 +8,16 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-16T09:59:26Z'
+  updated: '2026-09-29T07:48:23Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v202609160959
-    date: '2026-09-16T09:59:26Z'
-  checked: '2026-09-19'
+    tag: v202609290748
+    date: '2026-09-29T07:48:24Z'
+  latest-tag:
+    tag: v202609290748
+    date: '2026-09-28T15:00:15Z'
+  checked: '2026-10-05'
 summary: 'A Moodle activity module wrapping Bento: teachers add'

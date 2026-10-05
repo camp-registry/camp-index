@@ -116,10 +116,13 @@ license: GPL-3.0
 summary: A gamification plugin for Moodle allowing learners to gain experience points
   and level up.
 metrics:
-  updated: '2026-08-23T02:26:34Z'
+  updated: '2026-10-03T10:44:45Z'
   stars: 161
-  forks: 52
+  forks: 53
   open-issues: 16
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v21.0
+    date: '2026-10-03T10:26:28Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci

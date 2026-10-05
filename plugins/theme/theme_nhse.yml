@@ -19,4 +19,7 @@ metrics:
   latest-release:
     tag: 2026080701-RC1
     date: '2026-08-10T08:23:39Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: 2026080701-RC1
+    date: '2026-08-10T08:21:42Z'
+  checked: '2026-10-05'

@@ -13,15 +13,18 @@ summary: A block that displays a configurable list of common math input syntax e
   guide for users when entering mathematical expressions in Moodle, especially in
   conjunction with STACK.
 metrics:
-  updated: '2026-07-22T15:12:31Z'
+  updated: '2026-10-03T15:33:27Z'
   stars: 3
   forks: 0
   open-issues: 0
   archived: false
   latest-release:
-    tag: v1.2.0
-    date: '2026-04-01T14:36:40Z'
-  checked: '2026-09-20'
+    tag: v1.3.0
+    date: '2026-10-03T15:33:49Z'
+  latest-tag:
+    tag: v1.3.0
+    date: '2026-10-03T15:33:00Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci
 security-contact: https://github.com/ngandrass/moodle-block_mathsyntaxhelp/security
 labels:

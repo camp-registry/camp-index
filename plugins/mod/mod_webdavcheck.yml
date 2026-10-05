@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle activity module that checks WebDAV file presence for activity completion
 metrics:
-  updated: '2026-08-27T12:40:08Z'
+  updated: '2026-10-02T06:47:35Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  checked: '2026-10-05'

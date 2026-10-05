@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v1.0.0-alpha.2
+    date: '2026-09-03T14:36:53Z'
+  checked: '2026-10-05'
 summary: A Moodle activity module that presents a set of doors. Behind each door you
   can

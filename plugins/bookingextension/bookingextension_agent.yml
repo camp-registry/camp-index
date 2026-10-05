@@ -10,9 +10,9 @@ license: GPL-3.0
 dependencies:
   mod_booking: 2026020300
 metrics:
-  updated: '2026-09-17T19:20:05Z'
+  updated: '2026-10-05T09:01:32Z'
   stars: 0
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-09-20'
+  checked: '2026-10-05'

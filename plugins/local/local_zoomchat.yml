@@ -13,9 +13,15 @@ dependencies:
   tool_zoomapi: 2026060300
   tool_realtime: 2026030601
 metrics:
-  updated: '2026-08-07T08:12:11Z'
+  updated: '2026-09-30T12:44:26Z'
   stars: 0
   forks: 0
-  open-issues: 3
+  open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-09-30T12:44:26Z'
+  latest-tag:
+    tag: v1.0.0
+    date: '2026-09-30T12:35:08Z'
+  checked: '2026-10-05'

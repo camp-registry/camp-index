@@ -12,7 +12,7 @@ summary: 'A Moodle block plugin that turns the learner''s active learning plans 
   a dashboard of visual cards: learning plan cards with a competency progress trail,
   and competency cards giving direct access to each competency''s courses.'
 metrics:
-  updated: '2026-09-13T20:32:48Z'
+  updated: '2026-10-02T19:03:38Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -20,11 +20,14 @@ metrics:
   latest-release:
     tag: v2.0
     date: '2026-07-13T20:45:27Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v2.0
+    date: '2026-07-13T20:31:42Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci
 security-contact: https://github.com/uaiblaine/moodle-block_dimensions/security
 labels:
 - fully-free
 dependencies:
   tool_lp: any
-  local_dimensions: 2026071306
+  local_dimensions: 2026092200

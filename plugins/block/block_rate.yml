@@ -12,14 +12,17 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-06T02:50:45Z'
+  updated: '2026-10-03T23:38:13Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
   latest-release:
-    tag: 2.0.7
-    date: '2026-02-05T14:00:18Z'
-  checked: '2026-09-20'
+    tag: 2.0.8
+    date: '2026-10-03T23:38:17Z'
+  latest-tag:
+    tag: 2.0.8
+    date: '2026-10-03T23:38:04Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci
 summary: Collect quick star ratings and track student feedback.

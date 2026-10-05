@@ -10,12 +10,15 @@ license: GPL-3.0
 summary: Solusi terpadu integrasi dan sinkronisasi otomatis WebService Dapodik Kemendikdasmen
   ke Moodle LMS & CBT dengan fitur Penarikan Bertahap dan Dasbor Pemetaan Pengajar
 metrics:
-  updated: '2026-09-08T10:34:28Z'
+  updated: '2026-09-29T11:50:33Z'
   stars: 0
   forks: 0
-  open-issues: 10
+  open-issues: 2
   archived: false
   latest-release:
-    tag: v1.0.1
-    date: '2026-09-04T11:52:27Z'
-  checked: '2026-09-19'
+    tag: v1.1.0
+    date: '2026-09-29T11:50:34Z'
+  latest-tag:
+    tag: v1.1.0
+    date: '2026-09-29T11:50:13Z'
+  checked: '2026-10-05'

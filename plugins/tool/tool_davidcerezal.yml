@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v2.6
+    date: '2024-02-26T09:40:32Z'
+  checked: '2026-10-05'
 summary: Welcome to the Moodle Induction Course Test Plugin project! This repository
   is dedicated to creating a custom test plugin for Moodle, tailored specifically
   for induction courses. Below you'll find all the necessary information to get started,

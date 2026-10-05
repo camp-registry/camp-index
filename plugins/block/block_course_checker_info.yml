@@ -20,7 +20,10 @@ metrics:
   latest-release:
     tag: v5.0-r1
     date: '2025-11-13T14:13:34Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v5.0-r1
+    date: '2025-11-13T14:11:19Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-block_course_checker_info/security
 labels:

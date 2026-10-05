@@ -8,12 +8,15 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-07T01:34:15Z'
+  updated: '2026-09-21T22:33:53Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v1.0.0
+    date: '2025-08-22T15:35:24Z'
+  checked: '2026-10-05'
 summary: 📊 Face-to-face Report plugin for Moodle.
 dependencies:
   mod_facetoface: any

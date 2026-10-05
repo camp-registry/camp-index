@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Moodle local plugin for granting authorised users access to specific accounts
   through Moodle's built-in Log in as workflow.
 metrics:
-  updated: '2026-08-22T16:53:28Z'
+  updated: '2026-10-01T23:58:58Z'
   stars: 0
   forks: 0
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-05'

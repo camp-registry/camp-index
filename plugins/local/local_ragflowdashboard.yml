@@ -15,6 +15,9 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v0.7.1
+    date: '2026-09-11T11:20:53Z'
+  checked: '2026-10-05'
 summary: An admin-only Moodle local plugin that visualises the usage and health of
   the RAGflow AI provider

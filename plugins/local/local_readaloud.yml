@@ -16,7 +16,10 @@ metrics:
   latest-release:
     tag: v1.1.0
     date: '2026-09-14T20:54:19Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v1.1.0
+    date: '2026-09-14T20:53:00Z'
+  checked: '2026-10-05'
 summary: Read aloud (localreadaloud) adds accessible browser-based text-to-speech
   controls to Moodle Page and Book activities and, optionally, to descriptions of
   other activity types. Teachers choose the activities where the controls are available;

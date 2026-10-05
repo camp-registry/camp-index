@@ -10,9 +10,12 @@ license: GPL-3.0
 summary: Quizgeist – Live-Quiz als Moodle-Aktivität. Beitrittscode, QR, Podium, 13
   Fragetypen, Kahoot-Import. Läuft vollständig in der eigenen Moodle-Instanz.
 metrics:
-  updated: '2026-09-18T06:40:39Z'
+  updated: '2026-09-25T10:19:53Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.2.0-rc.4
+    date: '2026-09-25T10:11:29Z'
+  checked: '2026-10-05'

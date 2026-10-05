@@ -10,10 +10,13 @@ license: GPL-3.0
 dependencies:
   mod_booking: 2026080400
 metrics:
-  updated: '2026-08-28T15:39:33Z'
+  updated: '2026-09-30T13:22:13Z'
   stars: 0
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v2026020900
+    date: '2026-02-09T16:06:27Z'
+  checked: '2026-10-05'
 summary: 'Booking extension: Respond API'

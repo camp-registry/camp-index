@@ -8,10 +8,16 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-03-27T03:02:03Z'
+  updated: '2026-09-23T13:13:45Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-release:
+    tag: v.1.0.0
+    date: '2026-09-23T13:13:45Z'
+  latest-tag:
+    tag: v.1.0.0
+    date: '2026-09-23T13:11:37Z'
+  checked: '2026-10-05'
 summary: Evaluation Instrument Importer (localevalimport)

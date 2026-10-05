@@ -10,13 +10,16 @@ license: GPL-3.0
 dependencies:
   local_accessibility: 2024082401
 metrics:
-  updated: '2025-09-08T08:17:00Z'
+  updated: '2026-10-05T10:38:26Z'
   stars: 0
   forks: 3
   open-issues: 0
-  archived: false
+  archived: true
   latest-release:
     tag: v2.0.3
     date: '2025-09-08T08:17:01Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v2.0.3
+    date: '2025-09-08T08:12:23Z'
+  checked: '2026-10-05'
 summary: Requires localaccessiblity to be installed and enabled.

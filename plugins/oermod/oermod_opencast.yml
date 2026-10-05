@@ -20,5 +20,8 @@ metrics:
   latest-release:
     tag: v1.0.4
     date: '2026-04-08T13:20:39Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.0.4
+    date: '2026-04-08T13:15:00Z'
+  checked: '2026-10-05'
 summary: Subplugin for localoer plugin.<br>

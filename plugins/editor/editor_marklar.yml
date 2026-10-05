@@ -35,5 +35,8 @@ metrics:
   forks: 6
   open-issues: 7
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: 1.0.4
+    date: '2026-07-29T22:52:01Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci

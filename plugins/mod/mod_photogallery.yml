@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v1.0.0
     date: '2026-08-08T23:44:16Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.0.0
+    date: '2026-08-08T23:41:42Z'
+  checked: '2026-10-05'
 summary: Activity module for Moodle 5.2 that displays photographs as a course-page

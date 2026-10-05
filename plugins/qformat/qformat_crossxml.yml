@@ -12,7 +12,7 @@ summary: An input format plugin that interchanges question types in a Moodle XML
 dependencies:
   qformat_xml: 2016120500
 metrics:
-  updated: '2026-04-13T13:31:08Z'
+  updated: '2026-09-22T14:16:43Z'
   stars: 0
   forks: 0
   open-issues: 1
@@ -20,4 +20,7 @@ metrics:
   latest-release:
     tag: v1.0
     date: '2021-07-07T00:28:24Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.0
+    date: '2021-07-07T00:20:38Z'
+  checked: '2026-10-05'

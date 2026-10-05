@@ -18,4 +18,7 @@ metrics:
   latest-release:
     tag: moodle_4.5
     date: '2026-08-11T09:20:44Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: moodle_4.5
+    date: '2026-08-11T09:19:17Z'
+  checked: '2026-10-05'

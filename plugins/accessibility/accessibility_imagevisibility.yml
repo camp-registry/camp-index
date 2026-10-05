@@ -10,12 +10,16 @@ license: GPL-3.0
 dependencies:
   local_accessibility: 2024082401
 metrics:
-  updated: '2025-02-18T07:47:15Z'
+  updated: '2026-10-05T10:38:53Z'
   stars: 0
   forks: 2
   open-issues: 0
-  archived: false
+  archived: true
   latest-release:
     tag: v1.0.3
     date: '2025-02-18T07:47:15Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.0.3
+    date: '2025-02-18T07:40:27Z'
+  checked: '2026-10-05'
+summary: This repository is archived and moved to https://github.com/adamjenkins/moodle-localaccessibility.

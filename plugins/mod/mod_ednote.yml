@@ -8,11 +8,11 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-09-09T18:57:10Z'
+  updated: '2026-09-21T21:42:21Z'
   stars: 0
   forks: 0
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-05'
 summary: Shows guidance on the course page to teaching staff only. A teacher note
   reads like a label, sits

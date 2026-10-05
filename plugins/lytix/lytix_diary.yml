@@ -21,4 +21,7 @@ metrics:
   latest-release:
     tag: v1.1.2
     date: '2025-01-27T10:22:37Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.1.2
+    date: '2025-01-27T10:21:40Z'
+  checked: '2026-10-05'

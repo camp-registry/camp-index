@@ -22,12 +22,15 @@ releases:
   released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 metrics:
-  updated: '2026-08-05T14:41:55Z'
+  updated: '2026-10-04T13:23:33Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v1.1.4
+    date: '2026-10-04T11:48:12Z'
+  checked: '2026-10-05'
   ci: moodle-plugin-ci
 summary: Timezone filter
 security-contact: https://github.com/adamjenkins/moodle-filter_timezone/security

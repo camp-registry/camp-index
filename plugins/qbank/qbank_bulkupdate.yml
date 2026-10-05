@@ -15,5 +15,8 @@ metrics:
   forks: 3
   open-issues: 1
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: 2025030100_local_questionbulkupdate
+    date: '2025-03-01T14:42:40Z'
+  checked: '2026-10-05'
 summary: Questions bulk update Moodle plugin

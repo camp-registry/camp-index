@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: v2.5
     date: '2025-03-06T10:46:14Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: v2.5
+    date: '2025-03-06T10:40:43Z'
+  checked: '2026-10-05'
 summary: Moodle Practice assignment

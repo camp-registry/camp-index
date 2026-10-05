@@ -23,4 +23,7 @@ metrics:
   latest-release:
     tag: V3.0.1
     date: '2016-03-09T17:01:22Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: V3.0.1
+    date: '2016-03-08T18:36:50Z'
+  checked: '2026-10-05'

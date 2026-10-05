@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: '2025022302'
+    date: '2025-02-23T04:53:50Z'
+  checked: '2026-10-05'
 summary: Quick question categories renaming Moodle plugin

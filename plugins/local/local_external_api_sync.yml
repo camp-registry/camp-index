@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: Push or pull API data into Moodle for user account management.
 metrics:
-  updated: '2026-07-07T18:00:03Z'
+  updated: '2026-09-24T20:01:00Z'
   stars: 0
   forks: 0
   open-issues: 0
@@ -17,4 +17,7 @@ metrics:
   latest-release:
     tag: 1.3.0
     date: '2026-06-05T03:21:53Z'
-  checked: '2026-09-19'
+  latest-tag:
+    tag: 1.3.0
+    date: '2026-06-04T18:26:05Z'
+  checked: '2026-10-05'

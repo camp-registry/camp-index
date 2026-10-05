@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: Moodle local plugin exposing a cohort-scoped read-only API for the Saylor
   Partner Dashboard sync
 metrics:
-  updated: '2026-07-27T21:46:40Z'
+  updated: '2026-09-30T18:12:28Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  checked: '2026-10-05'

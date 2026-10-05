@@ -13,9 +13,12 @@ summary: Forumia - AI Forum Assistant for Moodle. An AI assistant that replies t
 dependencies:
   mod_forum: 2024100700
 metrics:
-  updated: '2026-08-28T08:48:09Z'
+  updated: '2026-09-30T13:44:41Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-09-19'
+  latest-tag:
+    tag: v1.8.0
+    date: '2026-09-30T11:35:07Z'
+  checked: '2026-10-05'

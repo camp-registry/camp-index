@@ -16,5 +16,8 @@ metrics:
   latest-release:
     tag: '0.7'
     date: '2026-04-18T17:27:03Z'
-  checked: '2026-09-20'
+  latest-tag:
+    tag: '0.7'
+    date: '2026-04-18T17:07:29Z'
+  checked: '2026-10-05'
 summary: Moodle question bank plugin to selectively download questions as Moodle XML.

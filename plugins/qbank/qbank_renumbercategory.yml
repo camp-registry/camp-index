@@ -13,5 +13,8 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-09-20'
+  latest-tag:
+    tag: 2025030100_local_renumberquestioncategory
+    date: '2025-03-01T14:19:54Z'
+  checked: '2026-10-05'
 summary: Resort question categories Moodle plugin
