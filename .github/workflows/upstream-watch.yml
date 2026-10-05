@@ -20,12 +20,22 @@ jobs:
     if: github.repository == 'camp-registry/camp-index'
     runs-on: ubuntu-24.04
     steps:
+      # Only the pin file is needed from the repository (camp-index#521).
+      - uses: actions/checkout@v7
+        with:
+          sparse-checkout: .camp-tools-version
+          sparse-checkout-cone-mode: false
+
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.80"
+        run: |
+          # camp-tools pin: tag and commit in .camp-tools-version at the root (camp-index#521)
+          read -r tag sha < .camp-tools-version
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::.camp-tools-version is malformed: '$tag $sha'"; exit 1; }
+          pip install --quiet "git+https://github.com/camp-registry/camp-tools@${sha}"
 
       - name: Check branch table against upstream
         id: check

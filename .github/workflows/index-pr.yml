@@ -158,7 +158,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.80"
+        run: |
+          # camp-tools pin read from the BASE branch, never from the PR tree: a pull
+          # request must not choose the camp-tools that verifies it (camp-index#521)
+          git fetch --quiet --depth=1 origin main
+          read -r tag sha < <(git show origin/main:.camp-tools-version)
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::.camp-tools-version on main is malformed: '$tag $sha'"; exit 1; }
+          pip install --quiet "git+https://github.com/camp-registry/camp-tools@${sha}"
 
       - name: Check changed components against the collision ledger
         env:
@@ -203,7 +209,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.80"
+        run: |
+          # camp-tools pin read from the BASE branch, never from the PR tree: a pull
+          # request must not choose the camp-tools that verifies it (camp-index#521)
+          git fetch --quiet --depth=1 origin main
+          read -r tag sha < <(git show origin/main:.camp-tools-version)
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::.camp-tools-version on main is malformed: '$tag $sha'"; exit 1; }
+          pip install --quiet "git+https://github.com/camp-registry/camp-tools@${sha}"
 
       - name: Validate entry
         id: validate
@@ -297,7 +309,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.80"
+        run: |
+          # camp-tools pin read from the BASE branch, never from the PR tree: a pull
+          # request must not choose the camp-tools that verifies it (camp-index#521)
+          git fetch --quiet --depth=1 origin main
+          read -r tag sha < <(git show origin/main:.camp-tools-version)
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::.camp-tools-version on main is malformed: '$tag $sha'"; exit 1; }
+          pip install --quiet "git+https://github.com/camp-registry/camp-tools@${sha}"
 
       - name: Validate advisories
         env:
@@ -324,7 +342,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.80"
+        run: |
+          # camp-tools pin read from the BASE branch, never from the PR tree: a pull
+          # request must not choose the camp-tools that verifies it (camp-index#521)
+          git fetch --quiet --depth=1 origin main
+          read -r tag sha < <(git show origin/main:.camp-tools-version)
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::.camp-tools-version on main is malformed: '$tag $sha'"; exit 1; }
+          pip install --quiet "git+https://github.com/camp-registry/camp-tools@${sha}"
 
       - name: Validate utility listings
         env:
@@ -371,7 +395,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.80"
+        run: |
+          # camp-tools pin read from the BASE branch, never from the PR tree: a pull
+          # request must not choose the camp-tools that verifies it (camp-index#521)
+          git fetch --quiet --depth=1 origin main
+          read -r tag sha < <(git show origin/main:.camp-tools-version)
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::.camp-tools-version on main is malformed: '$tag $sha'"; exit 1; }
+          pip install --quiet "git+https://github.com/camp-registry/camp-tools@${sha}"
 
       - name: Check out plugin source at the release under test
         run: |

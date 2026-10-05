@@ -349,7 +349,10 @@ jobs:
           COMPONENT: ${{ steps.diff.outputs.component }}
         run: |
           set -euo pipefail
-          pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@v0.2.80"
+          # camp-tools pin: tag and commit in .camp-tools-version at the root (camp-index#521)
+          read -r tag sha < .camp-tools-version
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::.camp-tools-version is malformed: '$tag $sha'"; exit 1; }
+          pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@${sha}"
           if camp check-collisions . --component "${COMPONENT}" | grep -q '^name-collision:'; then
             echo "not eligible: name-collision record on ${COMPONENT} (human review per NAMESPACE.md)"
             echo "clear=false" >> "$GITHUB_OUTPUT"
