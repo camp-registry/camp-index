@@ -1,5 +1,6 @@
 component: local_accessibility
 source: https://github.com/adamjenkins/moodle-local_accessibility
+source-repo-id: 733318236
 maintainers:
 - github: adamjenkins
 tier: 1
