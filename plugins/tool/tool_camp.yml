@@ -5,13 +5,27 @@ security-contact: https://github.com/camp-registry/camp-claim/security/advisorie
 maintainers:
 - github: davidpesce
   name: David Pesce
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: camp-registry
 status: active
 discovered: '2026-09-04'
-releases: []
+releases:
+- version: 0.5.1
+  tag: v0.5.1
+  commit: bec1269ac1641328808e8a38c658a5a4a9dbef90
+  moodle-version: 2026100201
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 5f2d337e6aef0f567271f250749aeefb6610843bf004940d39e6afc4d83f91c6
+  listing-sha256: 56d72f7439604325f64645d94e6bfebb0e9f103ce9848c6348bc1edfe61d513f
+  published: '2026-10-06T22:02:29Z'
+  released: '2026-10-06T21:41:57Z'
 license: GPL-3.0
-summary: 'Moodle admin tool: browse and install verified plugins from camp repositories,
-  with policy controls and advisory warnings'
+summary: >-
+  Moodle admin tool: browse and install verified plugins from camp repositories,
+  with policy controls and advisory warnings
