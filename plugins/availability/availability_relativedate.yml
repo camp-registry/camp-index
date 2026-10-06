@@ -3,12 +3,25 @@ source: https://github.com/ewallah/moodle-availability_relativedate
 source-repo-id: 173373971
 maintainers:
 - github: ewallah
-tier: 1
-security-contact: https://github.com/ewallah/moodle-availability_relativedate/security/advisories/new
+tier: 2
+security-contact: >-
+  https://github.com/ewallah/moodle-availability_relativedate/security/advisories/new
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v5.8.1
+  tag: v5.8.1
+  commit: 5c9830d62371188ee93c333873e40579ca2da17e
+  moodle-version: 2026100600
+  supported-moodle:
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 877b788df2f84991c84fa3df178b20dac7f2a97443437fa8c7006a25eddcc2bb
+  listing-sha256: 0aefba04924ce1f255a09df296609e0a912d9d479ba420490d243b02e05ade85
+  published: '2026-10-06T11:36:54Z'
+  released: '2026-10-06T11:13:47Z'
 summary: Relative dates in Moodle
 license: GPL-3.0
