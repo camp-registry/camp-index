@@ -82,7 +82,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install camp tools
-        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.84"
+        run: pip install --quiet "git+https://github.com/camp-registry/camp-tools@v0.2.85"
 
       # Stale template copies are the recurring failure mode (they have
       # broken releases before); this nudge compares the copy's pin
