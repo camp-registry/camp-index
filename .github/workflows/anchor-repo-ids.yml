@@ -68,7 +68,7 @@ jobs:
           fi
           git config user.name "camp project"
           git config user.email "noreply@camp-registry.org"
-          git add plugins
+          git add plugins metrics
           git commit -m "anchor source-repo-id for newly claimed entries"
           git pull --rebase origin main
           git push origin main

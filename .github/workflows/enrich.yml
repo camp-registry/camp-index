@@ -75,7 +75,7 @@ jobs:
           git config user.email "noreply@camp-registry.org"
           # both trees the refresh writes: plugins/ and utilities/ (the
           # utilities pass was refreshed daily and never committed, #372)
-          git add plugins utilities
+          git add plugins metrics utilities
           git commit -m "metrics refresh (scheduled)"
           # main moves during the refresh (pin sweeps, merged claims,
           # release PRs); replay our commit on top so the push is not

@@ -112,7 +112,7 @@ jobs:
         env:
           PUSH_TOKEN: ${{ steps.push-app.outputs.token }}
         run: |
-          git add plugins discovery
+          git add plugins metrics discovery
           if git diff --cached --quiet; then
             echo "no changes"
             exit 0
