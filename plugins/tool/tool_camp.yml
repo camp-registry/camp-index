@@ -1,8 +1,14 @@
 component: tool_camp
 source: https://github.com/camp-registry/moodle-tool_camp
+source-repo-id: 1300954282
+security-contact: https://github.com/camp-registry/camp-claim/security/advisories/new
 maintainers:
-- github: camp-registry
-tier: 0
+- github: davidpesce
+  name: David Pesce
+tier: 1
+labels:
+- fully-free
+org-claim: camp-registry
 status: active
 discovered: '2026-09-04'
 releases: []
