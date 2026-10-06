@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: moodle20_v0.9.6
   date: '2016-02-24T12:50:48Z'
-checked: '2026-09-21'
+latest-tag:
+  tag: moodle20_v0.9.6
+  date: '2016-02-24T12:21:37Z'
+checked: '2026-10-06'
