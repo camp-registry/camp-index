@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A simple modification of the "Topics" course format in Moodle, allowing you
   to hide/show all topics
-metrics:
-  updated: '2022-06-22T11:11:18Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: '2022062200'
-    date: '2022-06-22T11:11:19Z'
-  latest-tag:
-    tag: '2022062200'
-    date: '2022-06-22T11:09:54Z'
-  checked: '2026-10-03'

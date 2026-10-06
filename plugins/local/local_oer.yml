@@ -9,13 +9,3 @@ releases: []
 summary: The Open Educational Resources (OER) plugin provides the possibility to release
   files from Moodle courses into OER Repositories for public use
 license: GPL-3.0
-metrics:
-  updated: '2026-07-29T12:50:58Z'
-  stars: 4
-  forks: 4
-  open-issues: 8
-  archived: false
-  latest-release:
-    tag: v2.5.0
-    date: '2026-07-29T12:50:58Z'
-  checked: '2026-09-26'

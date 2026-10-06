@@ -12,16 +12,3 @@ summary: Scheduled course category transfers between Moodle platforms — automa
   Companion of local_coursetransfer.
 dependencies:
   local_coursetransfer: 2026072408
-metrics:
-  updated: '2026-09-15T16:04:17Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.1.1
-    date: '2026-09-16T06:31:30Z'
-  latest-tag:
-    tag: v2.1.1
-    date: '2026-09-15T15:58:54Z'
-  checked: '2026-10-05'

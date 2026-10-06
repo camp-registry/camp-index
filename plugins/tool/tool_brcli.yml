@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: BrCLI (Backup & Restore Command-Line Interface) is a command-line plug-in
   integrated in Moodle that allows administrators to performs bulk backup and restores
   of all categories, not just a single course.
-metrics:
-  updated: '2020-05-07T10:19:43Z'
-  stars: 9
-  forks: 8
-  open-issues: 5
-  archived: false
-  checked: '2026-10-01'

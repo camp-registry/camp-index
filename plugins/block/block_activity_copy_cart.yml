@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: A course block that lets teachers cart up activities via drag-and-drop, fine-tune
   how each one should be copied, and send them into one or more target courses in
   a single batch
-metrics:
-  updated: '2026-08-22T01:36:10Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1.1
-    date: '2026-08-22T01:37:39Z'
-  latest-tag:
-    tag: v1.1.1
-    date: '2026-08-22T01:35:22Z'
-  checked: '2026-10-04'

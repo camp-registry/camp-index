@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: AGPL-3.0
 summary: Moodle LMS için iyzico eklentisi
-metrics:
-  updated: '2021-02-13T16:52:20Z'
-  stars: 6
-  forks: 5
-  open-issues: 1
-  archived: false
-  checked: '2026-10-01'

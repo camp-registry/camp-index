@@ -8,10 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: MIT
 summary: idlink plugin for Moodle
-metrics:
-  updated: '2025-08-20T09:21:19Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

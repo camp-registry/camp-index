@@ -8,16 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: regular expression short answer question type
-metrics:
-  updated: '2025-05-02T21:02:13Z'
-  stars: 6
-  forks: 21
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v5.0.0
-    date: '2025-05-02T21:02:13Z'
-  checked: '2026-09-28'
 dependencies:
   qbehaviour_regexpadaptivewithhelp: 2024050200
   qbehaviour_regexpadaptivewithhelpnopenalty: 2024050200

@@ -8,10 +8,3 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 summary: TinyMCE font size plugin for Moodle, maintained by CCEAD.
-metrics:
-  updated: '2026-09-21T15:09:18Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

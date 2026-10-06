@@ -11,10 +11,3 @@ summary: 'PresenterAI: a Moodle activity for recorded presentations with AI feed
   Records video or audio with optional slides, transcribes, and scores against a rubric.
   Storage in an S3-compatible bucket or Moodle''s own file storage, with optional
   retention. AI through Moodle core or Claude, OpenAI or Gem'
-metrics:
-  updated: '2026-09-21T06:12:53Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

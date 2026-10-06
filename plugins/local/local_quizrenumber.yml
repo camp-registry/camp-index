@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Add numerical prefixes to quiz questions
 dependencies:
   mod_quiz: any
-metrics:
-  updated: '2026-08-18T12:19:56Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

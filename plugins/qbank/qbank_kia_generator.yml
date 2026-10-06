@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   aiprovider_myai: 2026042200
-metrics:
-  updated: '2026-04-28T08:38:10Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: qbankkiagenerator is a Moodle Question bank plugin (qbank) for AI-assisted
   question generation in the question bank.

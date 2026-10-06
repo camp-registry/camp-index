@@ -8,10 +8,3 @@ discovered: '2026-10-05'
 releases: []
 license: GPL-3.0
 summary: Moodle AI provider plugin for OpenAI-compatible APIs
-metrics:
-  updated: '2026-08-06T11:04:17Z'
-  stars: 0
-  forks: 2
-  open-issues: 3
-  archived: false
-  checked: '2026-10-05'

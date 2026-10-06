@@ -10,16 +10,3 @@ summary: FilterCodes filter for Moodle enables content creators to easily custom
   and personalize course and site content using plain text tags (no HTML). For premium
   support, contact us at https://www.tngconsulting.ca/contact
 license: GPL-3.0
-metrics:
-  updated: '2026-07-13T17:58:42Z'
-  stars: 37
-  forks: 55
-  open-issues: 75
-  archived: false
-  latest-release:
-    tag: v3.0.1
-    date: '2026-07-14T18:00:14Z'
-  latest-tag:
-    tag: v3.0.1
-    date: '2026-07-13T17:57:19Z'
-  checked: '2026-10-02'

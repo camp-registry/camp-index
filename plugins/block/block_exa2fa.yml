@@ -7,18 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: Apache-2.0
-metrics:
-  updated: '2024-07-04T14:04:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v4.5.0
-    date: '2016-09-21T14:13:00Z'
-  latest-tag:
-    tag: v4.5.0
-    date: '2016-09-21T09:17:20Z'
-  checked: '2026-10-04'
 summary: EXA2fa Plugin adds a 2nd authentication step (a2fa) to your existing Auth
   (manual, email and ldap)

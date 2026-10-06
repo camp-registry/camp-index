@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Freehand Drawing is a question type for Moodle which allows examinees to
   draw their solution in a quiz.
-metrics:
-  updated: '2022-06-02T18:45:04Z'
-  stars: 6
-  forks: 10
-  open-issues: 11
-  archived: false
-  checked: '2026-10-02'

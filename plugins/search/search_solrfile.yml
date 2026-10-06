@@ -11,10 +11,3 @@ summary: 'Moodle global search: shows the passage from inside attached files in 
   results, instead of the activity description'
 dependencies:
   search_solr: any
-metrics:
-  updated: '2026-08-17T02:58:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

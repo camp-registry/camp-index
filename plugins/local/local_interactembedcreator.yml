@@ -12,10 +12,3 @@ summary: Moodle local plugin for creating, managing and publishing reusable Inte
 dependencies:
   block_interactembed: 2026090202
   mod_interactembed: 2026090203
-metrics:
-  updated: '2026-09-07T16:41:54Z'
-  stars: 0
-  forks: 0
-  open-issues: 3
-  archived: false
-  checked: '2026-10-01'

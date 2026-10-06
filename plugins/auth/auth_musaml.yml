@@ -15,10 +15,3 @@ license: GPL-3.0
 summary: MuTMS SAML authentication for Moodle LMS
 dependencies:
   tool_mulib: 2026092753
-metrics:
-  updated: '2026-09-29T06:47:56Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

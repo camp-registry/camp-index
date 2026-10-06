@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-04-07T16:58:11Z'
-  stars: 0
-  forks: 1
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2023-12-04T07:38:27Z'
-  checked: '2026-09-27'
 summary: iSpring Moodle plugin

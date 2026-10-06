@@ -11,10 +11,3 @@ summary: A quiz report the provides detailed analysis of the STACK questions in 
   quiz.
 dependencies:
   qtype_stack: 2014111200
-metrics:
-  updated: '2026-09-22T17:44:35Z'
-  stars: 1
-  forks: 8
-  open-issues: 1
-  archived: false
-  checked: '2026-10-01'

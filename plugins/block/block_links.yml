@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: This  moodle block is allows a site administrator to display links to specific
   users based on specific user profile fields
-metrics:
-  updated: '2026-03-06T16:49:05Z'
-  stars: 0
-  forks: 2
-  open-issues: 2
-  archived: false
-  checked: '2026-10-01'

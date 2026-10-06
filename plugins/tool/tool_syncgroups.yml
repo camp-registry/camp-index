@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: With this plugin you can synchronize groups and groups members between two
   courses, in a way that a course A will be a mirror of course B. Only users that
   are already enrolled are added as group members.
-metrics:
-  updated: '2025-09-04T17:30:23Z'
-  stars: 3
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: '7'
-    date: '2025-09-04T17:28:32Z'
-  checked: '2026-10-01'

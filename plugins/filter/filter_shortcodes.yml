@@ -56,14 +56,3 @@ releases:
 license: GPL-3.0
 summary: Enables users to easily inject and modify content using shortcodes provided
   by other Moodle plugins.
-metrics:
-  updated: '2026-10-02T07:01:32Z'
-  stars: 16
-  forks: 8
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v1.1.4
-    date: '2026-10-02T07:01:24Z'
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci

@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2016-06-23T17:00:32Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
 summary: This is a clone of dsvthemeresponsive, but with header and footer stripped
   out. For test usage only.
 dependencies:

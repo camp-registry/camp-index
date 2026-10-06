@@ -14,13 +14,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Collapsed Weeks course format for Moodle.
-metrics:
-  updated: '2015-09-30T21:03:49Z'
-  stars: 6
-  forks: 4
-  open-issues: 0
-  archived: true
-  latest-tag:
-    tag: V2.3.3
-    date: '2012-03-22T16:12:50Z'
-  checked: '2026-10-05'

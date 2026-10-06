@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Integration block for McGraw-Hill Connect
-metrics:
-  updated: '2024-05-01T01:12:42Z'
-  stars: 0
-  forks: 6
-  open-issues: 9
-  archived: false
-  latest-tag:
-    tag: v3.8.7
-    date: '2021-02-10T03:43:20Z'
-  checked: '2026-10-04'

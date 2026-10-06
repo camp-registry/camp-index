@@ -9,11 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   qbank_customfields: any
-metrics:
-  updated: '2026-07-13T08:39:46Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: A Moodle Question Bank filter plugin that makes every configured question

@@ -7,11 +7,4 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2022-01-14T12:48:27Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-10-03'
 summary: Provides endpoints for serving bird metadata as XML

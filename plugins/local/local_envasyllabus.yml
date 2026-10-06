@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-19T19:58:06Z'
-  stars: 0
-  forks: 1
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: v2.2.2
-    date: '2026-01-06T16:58:07Z'
-  checked: '2026-10-04'
 summary: 1. Log in to your Moodle site as an admin and go to Site administration >
 dependencies:
   local_competvetsuivi: any

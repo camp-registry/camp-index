@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Moodle admin tool which exposes available Moodle core updates and plugin
   updates as checks in Moodle's Checks API, so that they can be picked up by monitoring
   systems.
-metrics:
-  updated: '2026-09-23T10:40:00Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

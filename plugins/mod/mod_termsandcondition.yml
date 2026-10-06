@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: plugin moodle for accept terms and condition
-metrics:
-  updated: '2020-05-04T11:18:19Z'
-  stars: 0
-  forks: 0
-  open-issues: 3
-  archived: false
-  checked: '2026-09-28'

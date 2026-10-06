@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: The grading portion of Moodle Mahara plugin
-metrics:
-  updated: '2015-11-12T19:54:46Z'
-  stars: 2
-  forks: 2
-  open-issues: 0
-  archived: true
-  latest-tag:
-    tag: release-1.0-mdl2.8-2014111000
-    date: '2015-02-10T04:25:42Z'
-  checked: '2026-10-04'
 dependencies:
   assignsubmission_mahara: 2014082001

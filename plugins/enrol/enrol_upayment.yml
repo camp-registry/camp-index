@@ -7,17 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-05-22T07:43:41Z'
-  stars: 0
-  forks: 0
-  open-issues: 13
-  archived: false
-  latest-release:
-    tag: v1.0.8
-    date: '2025-05-21T10:27:30Z'
-  latest-tag:
-    tag: v1.0.8
-    date: '2025-05-21T10:25:11Z'
-  checked: '2026-10-02'
 summary: UPayments Official Website

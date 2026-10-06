@@ -11,10 +11,3 @@ summary: 'Render-time filter for local_contenttranslator: shows stored AI transl
   to each user in their language.'
 dependencies:
   local_contenttranslator: any
-metrics:
-  updated: '2026-09-23T11:13:31Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

@@ -7,15 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-10T13:30:27Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v0.9.3
-    date: '2026-07-13T18:43:00Z'
-  checked: '2026-10-04'
 summary: This plugin adds a custom field type for Moodle that lets users select multiple
   values using checkboxes.

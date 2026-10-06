@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-07T09:56:44Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.0.0-rc3
-    date: '2026-09-07T09:56:19Z'
-  checked: '2026-10-04'
 summary: Secure Single Sign-On and Moodle integration companion plugin for DWW Moodle
   Bridge.

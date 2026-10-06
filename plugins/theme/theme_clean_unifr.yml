@@ -10,10 +10,3 @@ license: MIT
 summary: Clean theme for Unifr
 dependencies:
   theme_bootstrapbase: 2018050800
-metrics:
-  updated: '2019-02-19T12:40:13Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

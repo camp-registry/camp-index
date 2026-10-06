@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: 'The contactlist plugin allows students to decide if they want to share their
   contact information with their fellow students in accordance with the GDPR for each
   course they are registered in. Instruction in GERMAN: https://wiki.univie.ac.at/display/Moodle/Kontaktliste'
-metrics:
-  updated: '2026-05-21T06:39:30Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v5.0-r3
-    date: '2026-05-20T13:09:59Z'
-  checked: '2026-10-03'

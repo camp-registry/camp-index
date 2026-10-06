@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: 'Moodle plugin: mod_aitrainingsim'
 dependencies:
   local_aiconfig: 2025010100001
-metrics:
-  updated: '2026-08-29T10:55:29Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.1.5
-    date: '2026-08-29T10:55:26Z'
-  checked: '2026-10-05'

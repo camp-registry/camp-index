@@ -11,10 +11,3 @@ summary: CheckSkill is a CheckList fork. I have made additions to the original c
   to get some new functionnalities so I renamed it. Users may comment their tasks
   / skills, add documents and import outcomes as lists of skills. Furthemore they
   can export their lists to Mahara.
-metrics:
-  updated: '2015-12-13T17:56:40Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-27'

@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2022-10-26T11:22:39Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-02'
 summary: Boost your Content Marketing and promote your posts!
 dependencies:
   local_leeloolxpcontentapi: 2021031907

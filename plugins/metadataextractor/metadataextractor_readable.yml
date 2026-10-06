@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: A tool_metadata subplugin which creates readability metadata for Moodle resources
 dependencies:
   tool_metadata: 2020042401
-metrics:
-  updated: '2025-09-15T05:37:40Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

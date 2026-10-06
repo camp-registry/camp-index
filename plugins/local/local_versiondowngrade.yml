@@ -13,11 +13,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-07-01T05:47:34Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-26'
 summary: A Moodle 5.x admin tool that overwrites the recorded version number Moodle

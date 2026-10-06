@@ -8,10 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: This plugin will add possibility to be Moodle site as an OpenID provider
-metrics:
-  updated: '2017-12-20T12:34:44Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-26'

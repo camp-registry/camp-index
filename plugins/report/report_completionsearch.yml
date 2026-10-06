@@ -12,10 +12,3 @@ summary: 'Moodle 4.1 course report: course completion and activity completion re
 dependencies:
   report_progress: any
   report_completion: any
-metrics:
-  updated: '2026-09-16T16:06:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Display list of reports from the "Configurable reports" block on the Administration
   block, under "course > reports".
-metrics:
-  updated: '2014-01-13T00:10:16Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-29'
 dependencies:
   block_configurable_reports: 2014011101

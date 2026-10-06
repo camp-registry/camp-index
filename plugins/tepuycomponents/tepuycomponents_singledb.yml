@@ -17,10 +17,3 @@ releases: []
 license: GPL-3.0
 summary: A simple server-side database for use with JS, ideal for enriching SCORM
   packages.
-metrics:
-  updated: '2024-05-17T20:48:58Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

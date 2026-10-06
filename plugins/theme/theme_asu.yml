@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Custom Moodle theme for Appalachian State University
 dependencies:
   theme_bootstrap: 2015110600
-metrics:
-  updated: '2019-06-07T14:14:23Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

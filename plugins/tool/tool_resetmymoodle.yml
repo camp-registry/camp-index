@@ -8,16 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Moodle Admin Tool to Reset MyMoodle
-metrics:
-  updated: '2016-02-26T07:16:25Z'
-  stars: 3
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: MOODLE_29_STABLE
-    date: '2015-10-05T07:25:30Z'
-  latest-tag:
-    tag: MOODLE_29_STABLE
-    date: '2015-10-05T07:19:10Z'
-  checked: '2026-10-01'

@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle block displaying standardized informations across the courses of the
   PUNCHY project
-metrics:
-  updated: '2022-07-18T12:29:06Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: rc1.0
-    date: '2022-02-14T10:52:35Z'
-  latest-tag:
-    tag: rc1.0
-    date: '2022-02-14T10:51:36Z'
-  checked: '2026-10-01'

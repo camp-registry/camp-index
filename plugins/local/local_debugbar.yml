@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Debugbar is a lightweight local developer toolbar that surfaces request data,
   log entries, and profiling metrics while building Moodle features.
-metrics:
-  updated: '2025-11-19T12:02:34Z'
-  stars: 0
-  forks: 1
-  open-issues: 10
-  archived: false
-  latest-release:
-    tag: 0.0.1
-    date: '2025-11-17T08:25:09Z'
-  latest-tag:
-    tag: 0.0.1
-    date: '2025-11-14T16:11:49Z'
-  checked: '2026-10-05'

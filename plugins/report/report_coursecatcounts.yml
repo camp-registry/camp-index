@@ -8,10 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Category Based Course Counts as a report
-metrics:
-  updated: '2016-03-01T09:45:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Add a direct link to AMOS translation tool, with all plugins prechecked.
   This tool helps to see all strings that are not translated yet.
-metrics:
-  updated: '2024-07-01T08:46:39Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v.0.1.0
-    date: '2024-06-20T08:51:52Z'
-  latest-tag:
-    tag: v0.1.2-stable
-    date: '2024-07-01T08:39:48Z'
-  checked: '2026-10-05'

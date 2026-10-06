@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: completion report that adds completion date and custom user profile data
   to report
-metrics:
-  updated: '2012-01-25T09:13:11Z'
-  stars: 4
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

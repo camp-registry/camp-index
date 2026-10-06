@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Displays summary of all random questions in a quiz and which have been answered
   correctly
-metrics:
-  updated: '2026-09-11T13:57:01Z'
-  stars: 0
-  forks: 3
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.2.0
-    date: '2026-03-30T17:57:58Z'
-  checked: '2026-09-29'

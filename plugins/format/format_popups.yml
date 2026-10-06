@@ -9,18 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Moodle course format that opens some activities in a modal instead of a new
   page
-metrics:
-  updated: '2026-09-22T02:23:10Z'
-  stars: 4
-  forks: 4
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: v1.1
-    date: '2025-09-24T19:32:51Z'
-  latest-tag:
-    tag: v1.1
-    date: '2025-09-20T19:30:42Z'
-  checked: '2026-10-03'
 dependencies:
   format_topics: 2021052500

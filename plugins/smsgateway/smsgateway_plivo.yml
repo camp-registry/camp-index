@@ -8,13 +8,3 @@ discovered: '2026-08-31'
 releases: []
 license: GPL-3.0
 summary: Plivo SMS gateway for Moodle 4.5 and later.
-metrics:
-  updated: '2026-08-17T12:38:21Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 0.9.0
-    date: '2026-08-17T11:37:19Z'
-  checked: '2026-10-03'

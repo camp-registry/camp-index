@@ -9,16 +9,3 @@ releases: []
 summary: The Invitation Enrollment plug-in for Moodle enables instructors to invite
   people to their course and grant them the desire access and role.
 license: GPL-3.0
-metrics:
-  updated: '2024-10-15T03:19:48Z'
-  stars: 5
-  forks: 12
-  open-issues: 22
-  archived: false
-  latest-release:
-    tag: v2.3.0
-    date: '2024-10-15T03:01:57Z'
-  latest-tag:
-    tag: v2.3.0
-    date: '2024-10-15T03:06:08Z'
-  checked: '2026-10-02'

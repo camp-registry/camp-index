@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: An admin tool enabling easy setup of redirects from inside Moodle
-metrics:
-  updated: '2026-07-15T19:07:08Z'
-  stars: 10
-  forks: 9
-  open-issues: 15
-  archived: false
-  checked: '2026-10-01'

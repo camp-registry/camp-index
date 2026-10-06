@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Annoto Moodle Filter plugin
-metrics:
-  updated: '2019-08-04T11:45:53Z'
-  stars: 0
-  forks: 0
-  open-issues: 11
-  archived: true
-  latest-release:
-    tag: V1.6
-    date: '2018-10-17T20:50:05Z'
-  latest-tag:
-    tag: V1.7
-    date: '2019-01-01T17:12:17Z'
-  checked: '2026-10-02'

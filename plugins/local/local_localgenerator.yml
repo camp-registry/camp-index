@@ -7,11 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2022-08-25T20:16:31Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-25'
 summary: The following steps should get you up and running with

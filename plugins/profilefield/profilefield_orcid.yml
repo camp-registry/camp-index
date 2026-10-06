@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Provides a custom profile field type orcid, providing a regex validation
   of the value entered by the user when creating the account or editing the profile.
   (ELINF - VLIRED - 2022)
-metrics:
-  updated: '2022-07-09T20:18:42Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-04'

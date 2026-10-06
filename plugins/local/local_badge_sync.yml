@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Once a badge is awarded to an user, this plugin is triggered and forwards
   the badge information using a POST request to a remote server.
-metrics:
-  updated: '2020-10-27T10:57:03Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

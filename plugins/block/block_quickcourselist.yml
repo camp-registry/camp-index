@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: This block allows quick searching of Moodle courses, and displays a link
   to the course page.
-metrics:
-  updated: '2026-01-28T08:31:01Z'
-  stars: 0
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: 4.5.0
-    date: '2024-10-22T07:08:36Z'
-  latest-tag:
-    tag: 4.5.0
-    date: '2024-10-22T07:06:11Z'
-  checked: '2026-10-01'

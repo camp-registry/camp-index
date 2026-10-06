@@ -19,13 +19,6 @@ releases:
   published: '2026-10-04T14:30:44Z'
   released: '2026-10-04T13:38:30Z'
 license: GPL-3.0
-metrics:
-  updated: '2026-10-03T03:25:49Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'
 security-contact: https://github.com/adamjenkins/moodle-local_nomoreai/security
 labels:
 - fully-free

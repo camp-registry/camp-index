@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
-metrics:
-  updated: '2026-09-30T17:11:41Z'
-  stars: 1
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v3.2.1
-    date: '2026-09-30T17:10:42Z'
-  checked: '2026-10-04'
 summary: This directoty must be in /moodle/auth (Este directorio debe ir en /moodle/auth)

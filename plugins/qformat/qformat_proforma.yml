@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: Import ProFormA questions in moodle (required for moodle-qtype_proforma)
 dependencies:
   qtype_proforma: 2023060200
-metrics:
-  updated: '2026-05-26T04:34:06Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.3.1
-    date: '2024-03-21T06:57:53Z'
-  latest-tag:
-    tag: 1.3.1
-    date: '2024-03-20T12:49:35Z'
-  checked: '2026-10-05'

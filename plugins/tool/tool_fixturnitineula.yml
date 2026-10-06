@@ -8,10 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Tool for allowing Turnitin EULA issues to be resolved.
-metrics:
-  updated: '2023-10-30T06:09:56Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

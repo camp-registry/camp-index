@@ -11,10 +11,3 @@ summary: A `calendartype` pluign for Moodle that will show the calendar dates as
   Ummul Qora calculations.
 dependencies:
   calendartype_gregorian: any
-metrics:
-  updated: '2026-07-10T12:13:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

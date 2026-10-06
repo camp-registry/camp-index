@@ -8,10 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Moodle theme for the SmartsBridge website.
-metrics:
-  updated: '2015-06-27T16:36:57Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: true
-  checked: '2026-09-30'

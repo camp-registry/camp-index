@@ -8,18 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Display and control wallet balance in moodle.
-metrics:
-  updated: '2026-04-04T22:23:14Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v6.0.1
-    date: '2026-04-04T22:23:14Z'
-  latest-tag:
-    tag: v6.0.1
-    date: '2026-04-04T17:54:57Z'
-  checked: '2026-10-02'
 dependencies:
   enrol_wallet: 2026040400

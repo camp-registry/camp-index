@@ -8,16 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Zoom Attendance Sync
-metrics:
-  updated: '2024-04-15T07:44:43Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2024-01-11T09:36:51Z'
-  checked: '2026-09-27'
 dependencies:
   mod_attendance: 2020120300
   mod_zoom: 2022041900

@@ -31,13 +31,6 @@ releases:
   released: '2026-10-04T11:48:15Z'
 license: GPL-3.0
 summary: Wizards to make Moodle more magical (easier)
-metrics:
-  updated: '2026-09-30T14:33:04Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'
 security-contact: https://github.com/adamjenkins/moodle-tool_wizards/security
 labels:
 - fully-free

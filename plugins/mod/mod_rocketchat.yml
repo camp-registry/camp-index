@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: Interface between Rocket.Chat and Moodle
-metrics:
-  updated: '2025-04-28T08:29:15Z'
-  stars: 11
-  forks: 6
-  open-issues: 42
-  archived: false
-  checked: '2026-10-01'

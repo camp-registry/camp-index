@@ -12,10 +12,3 @@ summary: 'Saylor Code Studio embed filter: resolves exercise reference tokens in
 dependencies:
   local_saylorcode: 2026081801
   mod_saylorcode: 2026081801
-metrics:
-  updated: '2026-08-25T17:23:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

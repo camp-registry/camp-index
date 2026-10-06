@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: Feedback Flow helps teaching teams visualize — and value — how efficiently
   students receive feedback on their work, measured fairly in working time rather
   than raw calendar days.
-metrics:
-  updated: '2026-10-02T19:03:16Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: archive/stable-pre-recut-2026-06-13
-    date: '2026-06-05T17:55:13Z'
-  checked: '2026-10-04'

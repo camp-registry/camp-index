@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: New Plugin for connecting Moodle 3.8.3+ to Adobe Connect 10.6 ;
-metrics:
-  updated: '2020-05-29T08:43:47Z'
-  stars: 2
-  forks: 2
-  open-issues: 1
-  archived: false
-  checked: '2026-09-27'

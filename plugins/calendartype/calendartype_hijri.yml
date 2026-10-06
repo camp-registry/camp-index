@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   calendartype_gregorian: any
-metrics:
-  updated: '2021-01-14T15:52:16Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-10-03'
 summary: The Hijri calendar (sometimes referred to as the Islamic calendar) is a lunar
   calendar used in Islamic countries or by muslim communities in non-Islamic countries.

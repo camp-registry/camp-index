@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: This plugin let's you add xAPI videos into your Moodle courses.
-metrics:
-  updated: '2021-04-30T09:24:22Z'
-  stars: 4
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-09-28'

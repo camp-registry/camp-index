@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Recaptcha V3 - user profile field plugin
-metrics:
-  updated: '2024-06-14T13:08:02Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.1.0
-    date: '2024-06-14T10:43:49Z'
-  checked: '2026-09-28'

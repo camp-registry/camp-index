@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: An admin tool provides a web service for generating Moodle web service tokens.
   It conceptually works the same way as /login/token.php, but via web services. n
-metrics:
-  updated: '2024-11-20T23:20:57Z'
-  stars: 7
-  forks: 2
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: '2021051700'
-    date: '2021-05-17T00:11:30Z'
-  latest-tag:
-    tag: '2021051700'
-    date: '2021-05-17T00:10:02Z'
-  checked: '2026-10-05'

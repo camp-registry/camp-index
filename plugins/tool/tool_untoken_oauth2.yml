@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Moodle remove link from accounts link by mail.
-metrics:
-  updated: '2025-02-16T18:17:50Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.0.1
-    date: '2019-09-27T17:25:09Z'
-  latest-tag:
-    tag: 1.0.1
-    date: '2019-09-27T17:11:30Z'
-  checked: '2026-10-05'

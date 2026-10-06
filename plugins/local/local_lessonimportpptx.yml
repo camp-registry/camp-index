@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: The lesson version of moodle-lessontool_importpptx
 dependencies:
   mod_lesson: any
-metrics:
-  updated: '2026-09-07T21:15:41Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

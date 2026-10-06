@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: 'Moodle activity module: constraint-governed group self-selection - invitation-only
   formation, composition quotas and slot templates, guide review with decision windows,
   guarded overrides, staged moves, and sequence-of-joining gradebook decomposition'
-metrics:
-  updated: '2026-08-28T06:11:03Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v1.20.60
-    date: '2026-08-28T05:41:23Z'
-  checked: '2026-10-05'

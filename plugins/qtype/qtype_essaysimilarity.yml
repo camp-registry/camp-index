@@ -11,13 +11,3 @@ summary: Is a moodle question type plugin that compares the similarity between s
   and uses the similarity to auto grade the answer. The automatic grade can be manually
   overridden by the teacher
 license: GPL-3.0
-metrics:
-  updated: '2024-03-29T09:05:44Z'
-  stars: 2
-  forks: 3
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: 2.0.0
-    date: '2023-02-07T11:32:47Z'
-  checked: '2026-09-28'

@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-03-15T12:32:42Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: V401.1.1
-    date: '2025-03-15T12:33:22Z'
-  checked: '2026-09-25'
 summary: User context

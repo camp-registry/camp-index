@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-03T23:38:25Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 2.2.2
-    date: '2026-10-03T23:38:29Z'
-  latest-tag:
-    tag: 2.2.2
-    date: '2026-10-03T23:38:14Z'
-  checked: '2026-10-05'
 summary: Camada de trilhas de aprendizagem acima do Moodle.

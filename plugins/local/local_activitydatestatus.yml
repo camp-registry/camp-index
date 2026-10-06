@@ -11,10 +11,3 @@ summary: Activity Date Status improves Moodle activity dates and deadlines with 
   user-centered status indicators, relative time, Bootstrap 5 colors, icons, and badges.
   Designed to reduce cognitive load, improve visual hierarchy, and help learners quickly
   identify what needs attention.
-metrics:
-  updated: '2026-09-18T13:56:44Z'
-  stars: 0
-  forks: 0
-  open-issues: 3
-  archived: false
-  checked: '2026-10-04'

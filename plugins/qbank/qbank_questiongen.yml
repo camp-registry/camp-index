@@ -12,10 +12,3 @@ summary: Create and modify questions in the Moodle question bank with Generative
 dependencies:
   local_ai_manager: 2025071600
   local_ai_content: any
-metrics:
-  updated: '2026-10-01T08:11:08Z'
-  stars: 6
-  forks: 7
-  open-issues: 5
-  archived: false
-  checked: '2026-10-02'

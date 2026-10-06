@@ -8,10 +8,3 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 summary: 'Moodle block: floating scientific calculator (chemistry-focused keypad)'
-metrics:
-  updated: '2026-10-02T21:29:50Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

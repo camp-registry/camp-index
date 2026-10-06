@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A simple Moodle tool plugin that brings back the classic (i.e. before Moodle
   4.3) "Browse list of users" page.
-metrics:
-  updated: '2026-01-10T17:33:19Z'
-  stars: 0
-  forks: 3
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: '2025121200'
-    date: '2025-12-12T14:25:29Z'
-  checked: '2026-09-30'

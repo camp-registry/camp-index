@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-01-06T15:28:20Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v3.9.1
-    date: '2021-11-23T14:18:25Z'
-  checked: '2026-10-04'
 summary: To use this, you will need to update either your virtualhost configuration
   or .htaccess file to include a 404 redirect.

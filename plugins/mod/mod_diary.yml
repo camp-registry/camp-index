@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A daily diary activity for Moodle.
-metrics:
-  updated: '2026-09-24T18:27:10Z'
-  stars: 5
-  forks: 10
-  open-issues: 6
-  archived: false
-  latest-release:
-    tag: v5.1.2
-    date: '2026-07-12T18:49:35Z'
-  checked: '2026-09-27'

@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Question Behaviour Deferred with Storing of additional question type variables
 dependencies:
   qbehaviour_deferredfeedback: 2024041600
-metrics:
-  updated: '2025-03-05T11:09:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

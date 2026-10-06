@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   webservice_rest: 2019111200
-metrics:
-  updated: '2020-11-05T22:48:48Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

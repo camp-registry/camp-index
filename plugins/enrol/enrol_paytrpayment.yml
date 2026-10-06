@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: Enroll users via PayTR payment gateway
-metrics:
-  updated: '2021-03-10T19:53:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: '2021022501'
-    date: '2021-02-24T14:31:40Z'
-  latest-tag:
-    tag: '2021022501'
-    date: '2021-02-24T14:27:38Z'
-  checked: '2026-10-02'

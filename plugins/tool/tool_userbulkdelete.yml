@@ -12,13 +12,3 @@ summary: This is a Moodle admin/tool plugin that performs the Bulk Deletion of a
   errors.
 dependencies:
   block_userbulkdelete: any
-metrics:
-  updated: '2021-03-23T15:41:01Z'
-  stars: 1
-  forks: 1
-  open-issues: 6
-  archived: false
-  latest-tag:
-    tag: v1.0.1
-    date: '2021-03-23T15:16:33Z'
-  checked: '2026-10-01'

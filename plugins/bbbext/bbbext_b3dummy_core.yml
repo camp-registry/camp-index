@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Public dummy BigBlueButton extension used as a prerequisite core plugin for
   extension dependency testing.
-metrics:
-  updated: '2026-07-22T21:02:01Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

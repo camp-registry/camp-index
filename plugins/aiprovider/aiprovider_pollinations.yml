@@ -7,12 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-07-06T18:48:24Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  checked: '2026-10-04'
 summary: A Moodle AI provider plugin that integrates Pollinations.ai — the affordable,
   multi-model AI inference platform — into Moodle 4.5+ (and later).

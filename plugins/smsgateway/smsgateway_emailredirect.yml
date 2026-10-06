@@ -7,12 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-03-05T19:36:40Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: A Moodle SMS gateway plugin that redirects SMS messages to email, useful
   for testing SMS MFA without a real SMS provider.

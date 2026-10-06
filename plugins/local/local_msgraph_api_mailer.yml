@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: MS Graph API Mailer replaces Moodle's built-in SMTP email delivery with Microsoft
   Graph API, routing all outgoing emails through Microsoft 365 / Azure AD using OAuth2
   client credentials — no SMTP server or password required.
-metrics:
-  updated: '2026-06-10T10:42:24Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1.9
-    date: '2026-06-10T10:42:24Z'
-  checked: '2026-09-26'

@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   tool_mfa: 2024100700
-metrics:
-  updated: '2025-11-14T08:21:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  checked: '2026-10-04'
 summary: This plugin provides Multi-Factor Authentication (MFA) for Moodle using Telegram
   as an authentication method.

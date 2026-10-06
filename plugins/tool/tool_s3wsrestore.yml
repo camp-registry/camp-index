@@ -11,10 +11,3 @@ summary: A plugin to allow web service calls to restore a file stored in AWS to 
   Moodle course
 dependencies:
   local_aws: 2020112000
-metrics:
-  updated: '2021-05-28T21:22:09Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

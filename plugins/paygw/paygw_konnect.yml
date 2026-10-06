@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Konnect (konnect.network) payment gateway for Moodle 5.x — sell courses and
   take enrolment payments in Tunisian Dinar (TND).
-metrics:
-  updated: '2026-09-25T13:29:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

@@ -11,10 +11,3 @@ summary: Verdict for Moodle is a commercial-grade security plugin for Moodle's n
   antivirus manager. It checks uploads against VirusTotal by file hash, analyses unknown
   files in the background, scans ZIP/MBZ contents, and quarantines confirmed malware,
   with an admin dashboard, history, coverage and notif
-metrics:
-  updated: '2026-10-01T07:10:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

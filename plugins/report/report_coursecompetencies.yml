@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Relatório do Moodle para exibir os conceitos de competências de cada estudante
   dentro de um curso.
-metrics:
-  updated: '2017-01-17T13:38:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

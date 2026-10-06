@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: A collectible card game activity for Moodle. Course content authored by the
   teacher becomes playable Info and Quiz cards, and students duel against an AI opponent
   to review that content under pressure.
-metrics:
-  updated: '2026-10-02T14:09:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

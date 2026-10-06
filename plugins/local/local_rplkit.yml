@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle plugin: local_rplkit — RPL Kit (Recognition of Prior Learning assessment-kit
   generator)'
-metrics:
-  updated: '2026-08-29T09:22:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v0.3.0
-    date: '2026-08-11T16:51:12Z'
-  checked: '2026-10-05'

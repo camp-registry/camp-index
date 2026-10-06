@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-06-20T10:56:18Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v0.3
-    date: '2024-03-06T12:51:30Z'
-  latest-tag:
-    tag: v0.3
-    date: '2024-03-06T12:48:20Z'
-  checked: '2026-10-05'
 summary: 1. Install and configure the right version of

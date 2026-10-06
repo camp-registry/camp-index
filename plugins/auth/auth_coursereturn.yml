@@ -12,10 +12,3 @@ summary: Moodle 4.5 email self-registration that returns new users to their orig
 dependencies:
   auth_email: 2024100700
   enrol_self: 2024100700
-metrics:
-  updated: '2026-09-27T11:27:02Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

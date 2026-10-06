@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2019-04-17T20:11:42Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: true
-  latest-tag:
-    tag: MR-3.5
-    date: '2018-09-11T16:39:19Z'
-  checked: '2026-10-03'
 summary: This plugin was contributed by the Blackboard Open LMS Product Development
   team. Blackboard is an education technology company
 dependencies:

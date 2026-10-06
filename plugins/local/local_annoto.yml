@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Annoto Moodle Local plugin
-metrics:
-  updated: '2026-09-22T11:50:13Z'
-  stars: 0
-  forks: 10
-  open-issues: 10
-  archived: false
-  latest-release:
-    tag: v5.5.3
-    date: '2026-09-06T09:34:51Z'
-  latest-tag:
-    tag: v5.5.3
-    date: '2026-09-06T09:33:34Z'
-  checked: '2026-10-03'

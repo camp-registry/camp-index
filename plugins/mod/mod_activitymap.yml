@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle plugin that vizualizes dependencies of actions within a course
-metrics:
-  updated: '2022-06-04T20:35:09Z'
-  stars: 1
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v1.4
-    date: '2022-06-04T20:35:09Z'
-  checked: '2026-09-27'

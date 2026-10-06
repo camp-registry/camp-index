@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Manage how long learners keep access in Moodle — by site, category, course,
   role, method or cohort — with per-learner extensions, optional reminders, and a
   safe, auditable rollout. GPLv3.
-metrics:
-  updated: '2026-09-23T23:37:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 5
-  archived: false
-  checked: '2026-10-03'

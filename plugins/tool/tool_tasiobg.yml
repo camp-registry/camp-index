@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-03-10T07:58:31Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.5
-    date: '2025-03-06T10:46:14Z'
-  latest-tag:
-    tag: v2.5
-    date: '2025-03-06T10:40:43Z'
-  checked: '2026-10-05'
 summary: Moodle Practice assignment

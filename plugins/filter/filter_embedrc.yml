@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: This text filter allows the user to embed content from many external contents
   providers.
-metrics:
-  updated: '2016-08-16T20:22:29Z'
-  stars: 0
-  forks: 1
-  open-issues: 10
-  archived: false
-  latest-tag:
-    tag: 3.0.0.1
-    date: '2016-07-14T12:25:20Z'
-  checked: '2026-10-02'

@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-05-13T10:52:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: 3.2.0
-    date: '2025-05-13T10:52:58Z'
-  checked: '2026-09-27'
 summary: Dieses Moodle Modul bildet das Adaptivitätselement aus der 3D-Umgebung in
   Moodle ab.
 dependencies:

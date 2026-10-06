@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: The PoodLL Assignment type for the old Moodle Assignment (2.2 and earlier)
-metrics:
-  updated: '2014-04-29T04:41:06Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-21'
 dependencies:
   filter_poodll: 2013120500

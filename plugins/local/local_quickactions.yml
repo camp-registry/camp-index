@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin — floating quick-action button with multi-select bulk
   actions for teachers in course edit mode
-metrics:
-  updated: '2026-07-08T17:45:21Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-07-05T07:05:38Z'
-  checked: '2026-09-26'

@@ -9,13 +9,3 @@ releases: []
 summary: Moodle plugin which adds a PHP Opcache management GUI to Moodle site administration,
   a CLI tool to reset PHP Opcache and a Nagios check for PHP Opcache.
 license: GPL-3.0
-metrics:
-  updated: '2026-07-05T08:49:39Z'
-  stars: 15
-  forks: 9
-  open-issues: 4
-  archived: false
-  latest-tag:
-    tag: v5.2-r2
-    date: '2026-07-05T08:48:42Z'
-  checked: '2026-10-01'

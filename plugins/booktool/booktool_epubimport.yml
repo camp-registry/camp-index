@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: EPUB import plugin for Moodle Book module. Modernized for Moodle 5.x with
   fixed-layout support, CSS text overlay rendering, and modular OOP architecture.
   Fork of HaakonME/moodle-booktool_importepub.
-metrics:
-  updated: '2026-04-11T04:30:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-02'

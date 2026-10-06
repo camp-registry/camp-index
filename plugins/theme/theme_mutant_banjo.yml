@@ -13,12 +13,5 @@ status: active
 discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2014-08-17T14:51:42Z'
-  stars: 2
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-09-30'
 dependencies:
   theme_bootstrapbase: 2013110500

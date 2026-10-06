@@ -11,10 +11,3 @@ summary: Moodle activity plugin. Lets teacher distribute Jupyter .ipynb notebook
   as assignments, student runs them in Google Colab (Google's infra, free), Drive
   stores files, plugin pulls submission back and renders outputs (tables, plots, errors)
   inline in Moodle for grading.
-metrics:
-  updated: '2026-09-06T00:02:01Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

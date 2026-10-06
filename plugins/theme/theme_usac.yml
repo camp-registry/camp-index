@@ -11,10 +11,3 @@ summary: Plantilla institucional de Moodle de la USAC
 dependencies:
   theme_bootstrapbase: 2014050800
   theme_clean: 2014050800
-metrics:
-  updated: '2019-03-27T14:20:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

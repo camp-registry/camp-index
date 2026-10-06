@@ -11,17 +11,4 @@ dependencies:
   local_oer: 2023111701
   tool_opencast: 2023112200
   block_opencast: 2023112200
-metrics:
-  updated: '2026-04-08T13:20:39Z'
-  stars: 0
-  forks: 2
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0.4
-    date: '2026-04-08T13:20:39Z'
-  latest-tag:
-    tag: v1.0.4
-    date: '2026-04-08T13:15:00Z'
-  checked: '2026-10-05'
 summary: Subplugin for localoer plugin.<br>

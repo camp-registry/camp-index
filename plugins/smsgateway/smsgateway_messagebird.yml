@@ -30,12 +30,5 @@ releases:
   - 502
   maturity: stable
 license: GPL-3.0
-metrics:
-  updated: '2026-08-31T19:37:28Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
 summary: A Moodle plugin that enables sending SMS messages through the MessageBird
   API.

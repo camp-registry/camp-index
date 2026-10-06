@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Course Overview Plus
-metrics:
-  updated: '2012-11-16T18:50:00Z'
-  stars: 6
-  forks: 4
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

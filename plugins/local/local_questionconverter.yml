@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Turn documents into ready-to-use assessments
-metrics:
-  updated: '2026-04-07T01:13:58Z'
-  stars: 0
-  forks: 1
-  open-issues: 8
-  archived: false
-  latest-release:
-    tag: v1.0.6
-    date: '2026-02-06T02:30:54Z'
-  checked: '2026-09-26'

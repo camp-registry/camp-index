@@ -8,13 +8,3 @@ discovered: '2026-09-03'
 releases: []
 license: GPL-3.0
 summary: Moodle course files area repository
-metrics:
-  updated: '2022-11-06T10:16:13Z'
-  stars: 2
-  forks: 2
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: '2018053101'
-    date: '2018-05-31T16:23:36Z'
-  checked: '2026-10-04'

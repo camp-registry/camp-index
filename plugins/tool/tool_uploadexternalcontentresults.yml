@@ -12,16 +12,3 @@ summary: Provides a bulk upload tool to load completions results for Moodle Cour
   a Text Delimited File
 dependencies:
   mod_externalcontent: 2023031400
-metrics:
-  updated: '2023-03-15T13:45:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2023031500
-    date: '2023-03-15T13:45:07Z'
-  latest-tag:
-    tag: v2023031500
-    date: '2023-03-15T13:43:29Z'
-  checked: '2026-10-04'

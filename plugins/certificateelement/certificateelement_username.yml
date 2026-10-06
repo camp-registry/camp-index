@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-05'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-03-19T21:54:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 4.5.1
-    date: '2025-03-19T21:54:58Z'
-  latest-tag:
-    tag: 4.5.1
-    date: '2025-03-19T21:39:11Z'
-  checked: '2026-10-05'
 summary: The add-on can also be used to display the username on the certificate.

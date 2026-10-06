@@ -7,15 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-09-21T22:22:06Z'
-  stars: 0
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: v1.0.2
-    date: '2025-09-21T22:07:34Z'
-  checked: '2026-10-04'
 summary: A modern, responsive Moodle block that displays comprehensive quiz analytics
   for students, showing their progress, results, and course comparisons.

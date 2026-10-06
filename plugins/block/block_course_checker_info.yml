@@ -11,20 +11,6 @@ license: GPL-3.0
 summary: This Moodle block plugin displays the current status of course checks performed
   by the local_course_checker plugin. It provides quick access to the latest results,
   timestamps, and rerun options directly from the course page.
-metrics:
-  updated: '2025-11-13T14:13:26Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v5.0-r1
-    date: '2025-11-13T14:13:34Z'
-  latest-tag:
-    tag: v5.0-r1
-    date: '2025-11-13T14:11:19Z'
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-block_course_checker_info/security
 labels:
 - fully-free

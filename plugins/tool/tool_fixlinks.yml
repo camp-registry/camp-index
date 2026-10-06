@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Admin tool to link/unlink multiple files from a repository in Moodle >= 2.3
-metrics:
-  updated: '2024-02-02T08:39:59Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 2024-02-02-(15)
-    date: '2024-02-02T08:39:55Z'
-  checked: '2026-10-05'

@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Skim Annotation conversion tool for Moodle TinyMCE editor
-metrics:
-  updated: '2018-05-14T11:01:15Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1.0
-    date: '2018-05-14T11:01:15Z'
-  checked: '2026-09-30'

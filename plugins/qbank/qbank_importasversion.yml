@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A Moodle question bank plugin to import a single question from a Moodle XML
   file as a new version of an existing question, rather than a separate question
-metrics:
-  updated: '2026-09-15T14:26:12Z'
-  stars: 4
-  forks: 6
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.5.1
-    date: '2026-04-21T10:16:34Z'
-  latest-tag:
-    tag: v1.5.1
-    date: '2026-04-21T10:14:28Z'
-  checked: '2026-10-05'

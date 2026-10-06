@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: A lightweight Moodle admin plugin for managing tags in bulk. Supports uploading
   tags with descriptions, exporting existing tags, and listing tag metadata in a clean,
   Bootstrap-styled interface.
-metrics:
-  updated: '2026-09-23T16:48:46Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '2026092300'
-    date: '2026-09-23T16:48:47Z'
-  checked: '2026-09-26'

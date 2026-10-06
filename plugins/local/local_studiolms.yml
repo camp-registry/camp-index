@@ -11,10 +11,3 @@ summary: StudioLMS (local_studiolms) is the AI course builder of the StudioLMS e
   Working from inside an existing course, a teacher describes the topic (or pastes
   reference material), picks a mode, reviews the AI-generated outline and confirms
   — the course is then filled with sections, rich Studio-st
-metrics:
-  updated: '2026-09-23T13:43:19Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-26'

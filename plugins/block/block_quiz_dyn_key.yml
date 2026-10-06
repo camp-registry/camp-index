@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A block to manage dynamically the password of a quiz, changing f.e. every
   day
-metrics:
-  updated: '2025-11-26T11:13:19Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 4.5.0000
-    date: '2025-04-28T10:24:03Z'
-  checked: '2026-10-02'

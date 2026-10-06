@@ -11,15 +11,5 @@ summary: The main goal of this plugin is to facilitate the work of learning plan
   It provides an overview of user learning plan, without leaving the page to get information
   related to this learning plan(such as rating in courses,user evidence,). It also
   offers statistics by learning plans and compet
-metrics:
-  updated: '2026-09-28T19:40:14Z'
-  stars: 7
-  forks: 9
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v2.0.0
-    date: '2026-08-21T16:31:31Z'
-  checked: '2026-09-29'
 dependencies:
   tool_lp: 2025100600

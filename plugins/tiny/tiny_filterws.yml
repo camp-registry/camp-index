@@ -9,15 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin to add a button in TinyMCE editor to make it easier to apply
   the WebService filter.
-metrics:
-  updated: '2026-05-20T14:00:46Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: 1.0.2
-    date: '2026-05-20T14:00:46Z'
-  checked: '2026-09-30'
 dependencies:
   filter_ws: 2019011800

@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Searchs and reports where a user is active in a moodle array
-metrics:
-  updated: '2026-04-03T10:46:48Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 4.5.0001
-    date: '2025-06-18T09:06:56Z'
-  checked: '2026-10-02'

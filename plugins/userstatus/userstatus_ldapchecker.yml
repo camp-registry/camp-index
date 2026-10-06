@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: LDAP subplugin for moodle-tool_cleanupusers
 dependencies:
   tool_cleanupusers: any
-metrics:
-  updated: '2025-08-13T10:53:11Z'
-  stars: 1
-  forks: 3
-  open-issues: 1
-  archived: false
-  checked: '2026-10-05'

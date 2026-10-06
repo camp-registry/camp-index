@@ -8,18 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Evento Einschreibemethode
-metrics:
-  updated: '2024-10-17T09:52:03Z'
-  stars: 0
-  forks: 2
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v1.2-beta
-    date: '2018-05-16T14:41:43Z'
-  latest-tag:
-    tag: v1.2-beta
-    date: '2018-05-16T14:39:11Z'
-  checked: '2026-10-02'
 dependencies:
   local_evento: 2017062606

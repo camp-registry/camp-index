@@ -12,10 +12,3 @@ summary: GIFT to guessit format enables guessit questions to be imported from a 
 dependencies:
   qtype_guessit: 2025032700
   qbehaviour_guessit: 2025032500
-metrics:
-  updated: '2025-12-05T17:25:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

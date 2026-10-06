@@ -11,10 +11,3 @@ summary: Theme PWA is a child theme of Boost. It replicates the look and feel of
   Professional Writing Academy website.
 dependencies:
   theme_boost: 2020061500
-metrics:
-  updated: '2020-09-07T18:07:05Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

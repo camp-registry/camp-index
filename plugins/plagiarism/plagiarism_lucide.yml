@@ -8,10 +8,3 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 summary: Lucide for Moodle — AI-generated text detection for assignments (plagiarism_lucide)
-metrics:
-  updated: '2026-09-29T08:15:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

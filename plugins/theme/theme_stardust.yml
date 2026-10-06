@@ -11,10 +11,3 @@ summary: The Sturdust Moodle Theme
 dependencies:
   theme_fordson: 2018020300
   theme_boost: 2016120500
-metrics:
-  updated: '2019-09-19T12:39:13Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

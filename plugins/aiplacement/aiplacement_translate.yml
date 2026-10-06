@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: AI translate placement
 dependencies:
   aiplacement_courseassist: any
-metrics:
-  updated: '2026-04-09T13:07:25Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '501.0'
-    date: '2026-04-09T13:07:25Z'
-  latest-tag:
-    tag: '501.0'
-    date: '2026-04-09T03:02:55Z'
-  checked: '2026-10-04'

@@ -12,15 +12,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-03T11:38:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.2.4
-    date: '2025-05-02T13:14:12Z'
-  checked: '2026-09-27'
-  ci: moodle-plugin-ci
 summary: Complete activity for publishing and managing cloud-hosted videos.

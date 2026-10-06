@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Hide courses from listings and the enrolment page for anyone who cannot reach
   them (Moodle 5.2)
-metrics:
-  updated: '2026-10-03T19:49:52Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v5.2-r1
-    date: '2026-10-03T16:43:14Z'
-  latest-tag:
-    tag: v5.3-r1
-    date: '2026-10-03T19:12:36Z'
-  checked: '2026-10-05'

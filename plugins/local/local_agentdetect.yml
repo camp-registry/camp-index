@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Published at Moodle.org, this version of the plugin is designed to identify
   Agentic browsers accessing Moodle.
-metrics:
-  updated: '2026-07-20T17:49:16Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-03'

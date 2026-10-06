@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: Moodle平台错题集插件，基于Moodle3.10.1版本
-metrics:
-  updated: '2021-03-30T03:58:58Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

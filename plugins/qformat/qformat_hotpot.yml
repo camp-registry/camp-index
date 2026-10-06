@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: HotPot file question import script for Moodle >= 2.0
 dependencies:
   mod_hotpot: any
-metrics:
-  updated: '2024-02-15T06:17:07Z'
-  stars: 2
-  forks: 7
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: 2024-02-15-(27)
-    date: '2024-02-15T06:17:03Z'
-  checked: '2026-10-05'

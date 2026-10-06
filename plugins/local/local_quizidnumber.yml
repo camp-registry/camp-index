@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Displays students registration number as the background moodle quiz
-metrics:
-  updated: '2026-08-08T00:37:28Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.3
-    date: '2026-08-08T00:28:03Z'
-  latest-tag:
-    tag: v1.0.3
-    date: '2026-08-08T00:25:46Z'
-  checked: '2026-10-05'

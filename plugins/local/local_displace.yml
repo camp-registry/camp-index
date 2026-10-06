@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Plugin to replace certain pages.
-metrics:
-  updated: '2026-08-20T18:48:38Z'
-  stars: 1
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: staging-20260820204502
-    date: '2026-08-20T00:33:07Z'
-  checked: '2026-10-04'
 dependencies:
   local_table_sql: 2023102300

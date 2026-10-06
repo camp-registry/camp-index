@@ -12,10 +12,3 @@ summary: Moodle block plugin that provide information about work checks and comm
 dependencies:
   mod_forum: 2022042100
   mod_data: 2022042100
-metrics:
-  updated: '2024-01-25T11:44:31Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  checked: '2026-10-04'

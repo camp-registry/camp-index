@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: AutoTag Moodle plugin
-metrics:
-  updated: '2026-09-09T11:02:26Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.2.1
-    date: '2026-09-09T11:02:26Z'
-  latest-tag:
-    tag: v0.2.1
-    date: '2026-09-09T10:58:17Z'
-  checked: '2026-10-03'

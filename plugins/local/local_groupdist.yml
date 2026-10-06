@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: 'Moodle local plugin: distribute course participants into selected groups
   with role/cohort filters, deterministic preview, seat capacities and profile-field
   affinity (Moodle 5.1-5.2)'
-metrics:
-  updated: '2026-10-03T16:42:42Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v5.2-r1
-    date: '2026-10-02T14:15:32Z'
-  latest-tag:
-    tag: v5.2-r1
-    date: '2026-10-02T21:07:55Z'
-  checked: '2026-10-05'

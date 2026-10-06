@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Definum project stats extractor and other services base
-metrics:
-  updated: '2025-07-03T13:41:54Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 4.1.0001
-    date: '2025-07-03T13:41:53Z'
-  checked: '2026-10-04'

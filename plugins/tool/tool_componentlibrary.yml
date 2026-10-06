@@ -7,12 +7,5 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-01-18T02:58:53Z'
-  stars: 3
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-09-30'
 summary: The Moodle UI component Library is built with the aim to provide a single
   repository

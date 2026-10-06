@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'Simple drawing question type for Moodle: freehand answer on a background
   image, pen/eraser/undo only. Fork of tuwien-llt/moodle-qtype_drawing.'
-metrics:
-  updated: '2026-10-02T21:18:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

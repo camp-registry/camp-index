@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Nice survey is a more modern form of conducting surveys than the standard
   plugin built into the LMS system.
-metrics:
-  updated: '2026-08-19T02:43:55Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: moodle_4.5
-    date: '2026-08-07T04:57:23Z'
-  latest-tag:
-    tag: moodle_4.5
-    date: '2026-08-07T04:47:50Z'
-  checked: '2026-10-05'

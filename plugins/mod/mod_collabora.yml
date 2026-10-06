@@ -9,13 +9,3 @@ releases: []
 summary: ':memo: :globe_with_meridians: An activity for live document editing in Moodle,
   powered by Collabora Online'
 license: GPL-3.0
-metrics:
-  updated: '2026-08-10T15:22:21Z'
-  stars: 10
-  forks: 10
-  open-issues: 18
-  archived: false
-  latest-release:
-    tag: v3.10-r3
-    date: '2021-04-14T08:36:28Z'
-  checked: '2026-09-27'

@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle enrolment plugin: enrol a student by paying a donation of any amount
   within a configurable per-course minimum/maximum, via core_payment (PayPal/Stripe).'
-metrics:
-  updated: '2026-09-29T02:35:17Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-03'

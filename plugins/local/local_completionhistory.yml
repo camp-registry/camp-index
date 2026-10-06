@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: 'Moodle local plugin: the Saylor SIS integration surface (provisioning, enrolment,
   SSO, profiles, certificates) plus the academic achievement ledger it reports on.
   Component stays local_completionhistory.'
-metrics:
-  updated: '2026-09-25T22:50:37Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

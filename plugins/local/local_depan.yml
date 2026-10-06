@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Modern, responsive landing page plugin for Moodle
-metrics:
-  updated: '2026-05-31T13:53:35Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.3.0
-    date: '2026-05-31T13:56:02Z'
-  latest-tag:
-    tag: v1.3.0
-    date: '2026-05-31T13:50:30Z'
-  checked: '2026-10-04'

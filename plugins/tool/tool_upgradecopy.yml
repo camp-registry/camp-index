@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Moodle admin tool to generate copy commands for all optional plugins.
-metrics:
-  updated: '2024-04-24T08:47:20Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.1
-    date: '2023-10-24T15:43:19Z'
-  checked: '2026-10-05'

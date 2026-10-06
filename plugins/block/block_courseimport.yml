@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_uonlib: 2023010500
-metrics:
-  updated: '2026-08-10T15:44:55Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

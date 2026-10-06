@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Re-enables TinyMCE's own font size, font family and colour controls in Moodle.
   Configuration only, no formatting logic of its own.
-metrics:
-  updated: '2026-09-11T11:45:55Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.8.2
-    date: '2026-09-11T11:45:54Z'
-  latest-tag:
-    tag: v1.8.2
-    date: '2026-09-11T10:22:46Z'
-  checked: '2026-10-05'

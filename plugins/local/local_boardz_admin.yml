@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Administration plugin for remote Boardz Stzatistics Server
-metrics:
-  updated: '2020-07-11T16:05:29Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 3.8.0000
-    date: '2020-07-11T15:07:09Z'
-  checked: '2026-10-03'

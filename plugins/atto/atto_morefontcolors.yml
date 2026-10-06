@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Modification of the fontcolor plugin allowing the Moodle admin to define
   colors
-metrics:
-  updated: '2023-03-07T19:37:46Z'
-  stars: 4
-  forks: 16
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: '2021062100'
-    date: '2021-06-21T14:36:15Z'
-  checked: '2026-09-24'

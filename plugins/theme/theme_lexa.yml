@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-28T08:04:47Z'
-  stars: 1
-  forks: 0
-  open-issues: 5
-  archived: false
-  checked: '2026-09-30'
 summary: Introduction
 dependencies:
   theme_boost: 2024042200

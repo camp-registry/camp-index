@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-09-30T12:08:38Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '1.2'
-    date: '2024-09-30T09:50:17Z'
-  latest-tag:
-    tag: '1.2'
-    date: '2024-06-03T09:31:45Z'
-  checked: '2026-10-05'
 summary: German version please see below

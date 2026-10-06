@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: AI voiceover injection for SCORM packages without source file access
-metrics:
-  updated: '2026-08-13T01:52:21Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.1.40
-    date: '2026-08-13T01:52:18Z'
-  checked: '2026-10-04'

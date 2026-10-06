@@ -9,15 +9,5 @@ releases: []
 license: GPL-3.0
 summary: The Feedback Viewer report displays the responses from all Feedback modules
   in a given course, filtered by user.
-metrics:
-  updated: '2026-09-30T15:26:51Z'
-  stars: 3
-  forks: 2
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: v4.1.1
-    date: '2026-07-15T18:43:40Z'
-  checked: '2026-10-05'
 dependencies:
   mod_feedback: 2022112800

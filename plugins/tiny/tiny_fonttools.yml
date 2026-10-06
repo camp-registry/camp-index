@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle TinyMCE plugin that extends the editor's font choices, so what an
   author picks matches the PDF output. In development.
-metrics:
-  updated: '2026-08-05T14:48:36Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 1.0.0
-    date: '2026-08-05T13:12:19Z'
-  checked: '2026-10-05'

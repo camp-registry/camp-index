@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: Moodle plugin for automated digital credential issuance via Credentium API.
   Issues microcredentials upon   course completion with multi-tenant support, grade
   inclusion, and per-category configuration.
-metrics:
-  updated: '2026-07-25T10:45:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v3.0.2
-    date: '2026-07-25T10:42:25Z'
-  latest-tag:
-    tag: v3.0.2
-    date: '2026-07-25T10:42:03Z'
-  checked: '2026-10-04'

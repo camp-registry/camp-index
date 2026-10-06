@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: local/courseduplication - A Moodle asynchronous course duplication plugin
-metrics:
-  updated: '2024-11-18T12:10:36Z'
-  stars: 2
-  forks: 3
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: v3.2.0
-    date: '2019-12-09T09:06:03Z'
-  checked: '2026-10-04'

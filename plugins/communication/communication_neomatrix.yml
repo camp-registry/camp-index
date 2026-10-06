@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_oauth2: any
-metrics:
-  updated: '2026-09-14T02:00:37Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

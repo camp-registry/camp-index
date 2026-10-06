@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_quiz: 2023100900
-metrics:
-  updated: '2026-09-11T07:20:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

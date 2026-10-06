@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Personalised Study Guide, an adaptive Moodle course format plugin to replace
   the Topics format
-metrics:
-  updated: '2022-06-12T18:22:21Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'
 dependencies:
   block_behaviour: 2022022400

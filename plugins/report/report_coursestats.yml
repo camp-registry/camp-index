@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: That is a report plugin that helps the admin to known how the courses are
   being used by users (e.g. as forum, as file repositories or as activities repositories).
-metrics:
-  updated: '2022-07-29T17:57:47Z'
-  stars: 4
-  forks: 0
-  open-issues: 5
-  archived: false
-  checked: '2026-10-01'

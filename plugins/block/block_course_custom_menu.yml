@@ -7,11 +7,4 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2020-05-07T08:44:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'
 summary: CUSTOM Course MENU block for moodle 3.1 Created By Norbert Czirjak

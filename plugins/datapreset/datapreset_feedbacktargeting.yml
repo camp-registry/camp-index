@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: MIT
 summary: 'Moodle database preset: Display feedback on a target'
-metrics:
-  updated: '2025-06-13T17:27:41Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v.1.1.3
-    date: '2025-06-13T17:27:41Z'
-  latest-tag:
-    tag: v.1.1.3
-    date: '2025-06-13T17:26:18Z'
-  checked: '2026-10-04'

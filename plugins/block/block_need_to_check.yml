@@ -7,11 +7,4 @@ status: active
 discovered: '2026-09-03'
 releases: []
 license: Apache-2.0
-metrics:
-  updated: '2023-01-13T18:12:30Z'
-  stars: 2
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-04'
 summary: Плагин позволяет контролировать проверку работ студентов преподавателями.

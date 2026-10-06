@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Automatically add users into cohorts. (Previously moodle-auth_mcae.)
-metrics:
-  updated: '2026-08-18T07:46:58Z'
-  stars: 11
-  forks: 14
-  open-issues: 9
-  archived: false
-  checked: '2026-10-03'

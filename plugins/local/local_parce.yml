@@ -19,11 +19,3 @@ summary: A chat that allows users to get answers in context, depending on their 
   and mediated by AI.
 dependencies:
   aiprovider_bbco: 2026080800
-metrics:
-  updated: '2026-09-24T06:02:21Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci

@@ -12,12 +12,5 @@ dependencies:
   local_uonlib: 2023010500
   enrol_manual: 2017111300
   enrol_self: 2017111300
-metrics:
-  updated: '2026-07-21T08:41:53Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'
 summary: The Nottingham 'Student Management System' enrolment plugin was developed
   by

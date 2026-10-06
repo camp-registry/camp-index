@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Login to a local Moodle account even when the site is configured to only
   allow logins using OAuth2 or other authentication. For premium support, contact
   us at https://www.tngconsulting.ca/contact
-metrics:
-  updated: '2026-04-15T07:35:39Z'
-  stars: 5
-  forks: 5
-  open-issues: 8
-  archived: false
-  checked: '2026-09-25'

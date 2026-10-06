@@ -8,10 +8,3 @@ discovered: '2026-10-02'
 releases: []
 license: GPL-3.0
 summary: Moodle Helpdesk Block
-metrics:
-  updated: '2015-10-07T17:45:13Z'
-  stars: 6
-  forks: 4
-  open-issues: 8
-  archived: false
-  checked: '2026-10-02'

@@ -8,18 +8,5 @@ discovered: '2026-07-10'
 releases: []
 summary: OneNote Block plugin for Moodle LMS
 license: GPL-3.0
-metrics:
-  updated: '2023-06-13T17:54:37Z'
-  stars: 11
-  forks: 10
-  open-issues: 0
-  archived: true
-  latest-release:
-    tag: v30.0.0.3
-    date: '2016-07-26T17:29:34Z'
-  latest-tag:
-    tag: v30.0.0.3
-    date: '2016-07-22T17:04:01Z'
-  checked: '2026-10-01'
 dependencies:
   local_onenote: 2016062000

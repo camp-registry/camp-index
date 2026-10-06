@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Alternative wiki module for Moodle 2 (designed for use in teaching and learning)
-metrics:
-  updated: '2026-06-29T09:20:50Z'
-  stars: 36
-  forks: 33
-  open-issues: 46
-  archived: false
-  checked: '2026-09-27'

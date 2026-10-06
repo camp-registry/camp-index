@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: '[ARCHIVE] 🔐  Admin Tool for using ownCloud''s OAuth 2.0 implementation in
   Moodle'
-metrics:
-  updated: '2017-08-08T13:09:30Z'
-  stars: 2
-  forks: 2
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: v0.1.0
-    date: '2017-03-27T14:08:45Z'
-  checked: '2026-10-01'

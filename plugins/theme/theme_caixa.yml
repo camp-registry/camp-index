@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2017-06-08T03:50:46Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-29'
 summary: 'caixa is a highly customisable responsive two column moodle theme based
   on the popular BCU theme adding:'
 dependencies:

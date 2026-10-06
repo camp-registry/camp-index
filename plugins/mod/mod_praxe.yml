@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2015-08-20T07:03:56Z'
-  stars: 3
-  forks: 0
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: v2015081200
-    date: '2015-08-14T09:25:05Z'
-  checked: '2026-09-28'
 summary: This is a custom module for LMS Moodle developed by Tomas Jerabek

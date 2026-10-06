@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: PoodLL TinyMCE plugin for Moodle
-metrics:
-  updated: '2018-05-14T10:04:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: v3.1.0
-    date: '2018-05-14T10:04:33Z'
-  checked: '2026-09-30'
 dependencies:
   filter_poodll: 2016081401

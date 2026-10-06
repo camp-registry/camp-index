@@ -7,13 +7,6 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-11-07T06:10:28Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'
 summary: This is a sample plugin for Moodle, designed to demonstrate AI-based placement
   functionalities using the Moodle AI Subsystem APIs. This example plugin is compatible
   with Moodle 4.5+ and provides a basic implementation for developers to understand

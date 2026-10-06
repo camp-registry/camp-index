@@ -11,10 +11,3 @@ summary: By default Moodle runs every hour Completions (updates) and checks if a
   users have been enrolled on completion courses. This puts a large strain on the
   database and can take over an hour. This plugin replaces the original Moodle Cron
   and checks completion changes every minute but only for new user
-metrics:
-  updated: '2015-04-07T09:56:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

@@ -8,10 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Display code in a beautiful way (by Geshi) within Moodle contents.
-metrics:
-  updated: '2014-01-10T12:29:12Z'
-  stars: 6
-  forks: 9
-  open-issues: 1
-  archived: true
-  checked: '2026-09-21'

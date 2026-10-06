@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: A Moodle SCORM report for Numbas exams
-metrics:
-  updated: '2023-10-26T11:08:24Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.0
-    date: '2021-11-29T09:59:46Z'
-  checked: '2026-10-05'

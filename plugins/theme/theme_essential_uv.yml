@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Essential theme univalle's version
-metrics:
-  updated: '2018-09-03T22:45:05Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
 dependencies:
   theme_bootstrapbase: 2018051400

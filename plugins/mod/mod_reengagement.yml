@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Allows timed release of content and emails users to remind them to complete
   a course activity
-metrics:
-  updated: '2026-02-27T07:56:13Z'
-  stars: 24
-  forks: 45
-  open-issues: 42
-  archived: false
-  checked: '2026-09-28'

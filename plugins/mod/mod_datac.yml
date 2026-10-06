@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: CSVインポート機能を改善したデータベースモジュール Improvement of Database module for CSV importing
-metrics:
-  updated: '2020-02-06T02:12:36Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-27'

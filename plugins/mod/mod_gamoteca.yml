@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-03-25T16:50:08Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  checked: '2026-09-27'
 summary: Gamoteca - Moodle / Totara (LMS) integration
 dependencies:
   local_oauth: 2016021600

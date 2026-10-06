@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: the legacy global search engine rebuilt for Moodle 2
-metrics:
-  updated: '2025-11-26T11:14:49Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 4.5.0000
-    date: '2025-06-18T07:53:29Z'
-  checked: '2026-10-02'

@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: AI powered report builder for Moodle.
-metrics:
-  updated: '2026-03-30T07:05:35Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-01-21T08:33:21Z'
-  checked: '2026-09-29'

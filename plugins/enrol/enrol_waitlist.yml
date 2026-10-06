@@ -7,17 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-07-03T04:26:21Z'
-  stars: 5
-  forks: 5
-  open-issues: 3
-  archived: false
-  latest-release:
-    tag: 4.5-b
-    date: '2026-07-03T04:29:06Z'
-  latest-tag:
-    tag: 4.5-b
-    date: '2026-05-12T20:28:41Z'
-  checked: '2026-10-02'
 summary: Version 2022031000 - Fixed bug with multiple instances in locallib.php

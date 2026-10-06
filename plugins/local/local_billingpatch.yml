@@ -8,13 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Moodle patch system for internal use.
-metrics:
-  updated: '2017-12-12T18:41:51Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  latest-release:
-    tag: v0.0.3
-    date: '2017-12-12T19:07:06Z'
-  checked: '2026-09-21'

@@ -8,13 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Anole theme - beta version
-metrics:
-  updated: '2017-01-30T19:12:09Z'
-  stars: 5
-  forks: 9
-  open-issues: 12
-  archived: false
-  latest-release:
-    tag: v1.4.7
-    date: '2015-12-04T13:13:42Z'
-  checked: '2026-09-29'

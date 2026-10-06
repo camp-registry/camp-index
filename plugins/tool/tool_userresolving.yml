@@ -7,12 +7,5 @@ status: active
 discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2016-05-06T12:57:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-10-01'
 summary: This admin tool checks the database users if there is an existing entry in
   the Active Directory.

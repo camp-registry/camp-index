@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: AGPL-3.0
 summary: Plugin Moodle quizaccess para monitoreo de foco en cuestionarios presenciales.
-metrics:
-  updated: '2026-07-16T03:42:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.6.1-rc1
-    date: '2026-07-16T03:31:41Z'
-  latest-tag:
-    tag: v0.6.1-rc1
-    date: '2026-07-16T03:26:03Z'
-  checked: '2026-10-05'

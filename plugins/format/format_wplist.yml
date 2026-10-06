@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Course format Workplace list, that used to be part of Moodle Workplace.
-metrics:
-  updated: '2023-10-11T09:59:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  latest-tag:
-    tag: v4.2.3
-    date: '2023-10-10T17:00:47Z'
-  checked: '2026-10-03'

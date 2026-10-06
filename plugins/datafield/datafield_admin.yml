@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ADMIN field type for the Database activity in Moodle >= 2.3
-metrics:
-  updated: '2026-02-28T23:11:02Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 2026-03-01-(20)
-    date: '2026-02-28T22:57:56Z'
-  checked: '2026-10-02'

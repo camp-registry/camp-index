@@ -13,14 +13,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-03-25T10:43:32Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: '4.0'
-    date: '2025-03-25T10:40:45Z'
-  checked: '2026-10-02'
 summary: SEBSOFT CLASSICPAY ENROLMENT PLUGIN

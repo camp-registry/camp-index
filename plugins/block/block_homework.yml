@@ -11,18 +11,5 @@ summary: Homework is a Moodle Block that streamlines the process of managing ass
   by simplifying the way teachers set, view and mark their student’s homework. For
   Overnet Data customers, the Block integrates with all other aspects of your install,
   meaning data is automatically synced across classes an
-metrics:
-  updated: '2018-01-24T13:01:08Z'
-  stars: 1
-  forks: 2
-  open-issues: 3
-  archived: false
-  latest-release:
-    tag: 1.0.25
-    date: '2016-09-14T08:59:52Z'
-  latest-tag:
-    tag: 1.0.25
-    date: '2016-09-14T08:37:06Z'
-  checked: '2026-10-01'
 dependencies:
   mod_assign: 2015051100

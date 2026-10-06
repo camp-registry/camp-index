@@ -10,12 +10,5 @@ license: GPL-3.0
 summary: A Moodle plugin that enables a teacher to team up students for each assignment
   in different ad hoc teams, where each submission and feedback is copied to all team
   members.
-metrics:
-  updated: '2020-12-29T13:18:53Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-24'
 dependencies:
   local_teamwork: 2020060300

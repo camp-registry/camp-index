@@ -8,18 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Tool Plugin - Reset Settings
-metrics:
-  updated: '2026-02-17T03:09:15Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.0.1
-    date: '2026-02-17T03:09:16Z'
-  latest-tag:
-    tag: 1.0.1
-    date: '2026-02-17T03:07:46Z'
-  checked: '2026-10-01'
 dependencies:
   tool_bulkreset: 2026021700

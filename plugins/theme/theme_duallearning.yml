@@ -11,10 +11,3 @@ summary: Lightweight, content-first Boost child theme for guided and self-paced 
   courses
 dependencies:
   theme_boost: any
-metrics:
-  updated: '2026-09-29T02:32:40Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

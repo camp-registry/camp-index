@@ -8,16 +8,3 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle block which creates a report about courses with free seats
 license: GPL-3.0
-metrics:
-  updated: '2024-09-23T16:59:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v.4.4-a
-    date: '2024-09-23T16:59:22Z'
-  latest-tag:
-    tag: v.4.4-a
-    date: '2024-09-23T16:56:53Z'
-  checked: '2026-10-02'

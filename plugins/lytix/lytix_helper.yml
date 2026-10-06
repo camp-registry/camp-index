@@ -8,16 +8,3 @@ discovered: '2026-09-05'
 releases: []
 license: GPL-3.0
 summary: a local_lytix subplugin. Plugin with helper functions needed in several subplugins.
-metrics:
-  updated: '2025-08-14T09:04:17Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.0.5
-    date: '2025-08-14T09:04:46Z'
-  latest-tag:
-    tag: v2.0.5
-    date: '2025-08-14T08:30:54Z'
-  checked: '2026-10-05'

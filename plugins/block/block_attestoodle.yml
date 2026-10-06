@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: views of training at course level
-metrics:
-  updated: '2022-12-06T13:48:47Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: '1.1'
-    date: '2019-11-15T14:11:37Z'
-  checked: '2026-09-25'
 dependencies:
   tool_attestoodle: 2019061101

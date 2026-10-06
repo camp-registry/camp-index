@@ -9,11 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   block_globalad: 2019011706
-metrics:
-  updated: '2019-05-22T07:30:43Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 summary: Globaladtool Tool

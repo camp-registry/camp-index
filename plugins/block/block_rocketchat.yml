@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-06-15T07:14:30Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v5.1-r4
-    date: '2026-06-12T18:23:27Z'
-  checked: '2026-10-04'
 summary: This repository contains the block/UI side of a two-part Moodle + Rocket.Chat
   integration.
 dependencies:

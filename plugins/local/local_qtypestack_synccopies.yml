@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-06-17T10:25:52Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-26'
 summary: The STACK question type allows you to answer math questions with algebraic
 dependencies:
   qtype_stack: 2020120600

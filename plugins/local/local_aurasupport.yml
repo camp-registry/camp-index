@@ -8,10 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: AuraSupport AI Ticketing Moodle Plugin For Admin/Agent/Customer Service
-metrics:
-  updated: '2026-06-08T15:04:00Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

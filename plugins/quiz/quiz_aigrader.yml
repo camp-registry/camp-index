@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: 'Moodle plugin: quiz_aigrader'
-metrics:
-  updated: '2026-09-11T03:58:51Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v4.2.2
-    date: '2026-09-11T03:58:49Z'
-  checked: '2026-10-05'

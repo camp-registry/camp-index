@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-06-23T11:11:07Z'
-  stars: 1
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-06-23T10:59:33Z'
-  checked: '2026-09-27'
 summary: 'Plugin type: Local plugin'

@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: Countdown Moodle plugin / block
-metrics:
-  updated: '2019-04-25T22:35:37Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-10-01'

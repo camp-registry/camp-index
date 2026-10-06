@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-01T15:34:09Z'
-  stars: 3
-  forks: 8
-  open-issues: 5
-  archived: false
-  latest-tag:
-    tag: MR-5.1-MP1
-    date: '2026-08-18T14:29:37Z'
-  checked: '2026-10-03'
 summary: The Checklist advanced grading method is an easy way for the user and teacher
   to view a

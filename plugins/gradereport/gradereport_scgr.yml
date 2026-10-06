@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Social comparison gradebook report for Moodle
-metrics:
-  updated: '2025-07-01T07:37:26Z'
-  stars: 1
-  forks: 0
-  open-issues: 4
-  archived: true
-  latest-release:
-    tag: v0.6.1
-    date: '2018-10-03T13:00:53Z'
-  latest-tag:
-    tag: v0.6.1
-    date: '2018-10-03T12:55:08Z'
-  checked: '2026-10-04'

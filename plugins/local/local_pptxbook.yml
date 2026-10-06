@@ -11,10 +11,3 @@ summary: 'Plugin Moodle 4.5–5.2 : importer un ZIP d’images PNG/JPEG dans un 
   depuis le menu Plus. Version 1.0.0 stable, sans LibreOffice.'
 dependencies:
   mod_book: 2024100700
-metrics:
-  updated: '2026-09-28T20:31:56Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

@@ -8,12 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: AI Assessment Scale plugin for Moodle Assignments
-metrics:
-  updated: '2026-07-20T17:49:07Z'
-  stars: 2
-  forks: 0
-  open-issues: 2
-  archived: false
-  checked: '2026-10-03'
 dependencies:
   mod_assign: 2022112800

@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: MIT
 summary: Email templating system for Moodle
-metrics:
-  updated: '2026-10-01T13:43:29Z'
-  stars: 0
-  forks: 1
-  open-issues: 3
-  archived: false
-  checked: '2026-10-05'

@@ -8,10 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Customize course listing for Moodle per user or program of study
-metrics:
-  updated: '2026-08-28T20:53:31Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-10-05'

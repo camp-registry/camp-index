@@ -13,10 +13,3 @@ dependencies:
   lytix_planner: any
   lytix_helper: any
   lytix_logs: any
-metrics:
-  updated: '2024-02-15T10:50:00Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-10-05'

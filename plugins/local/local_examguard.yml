@@ -12,13 +12,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: MIT
-metrics:
-  updated: '2026-03-27T09:43:27Z'
-  stars: 2
-  forks: 2
-  open-issues: 1
-  archived: false
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci
 summary: Implements an editing ban during Quizzes with an Open & Close time of less
   than 4 hours long

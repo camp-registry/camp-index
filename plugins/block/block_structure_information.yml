@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'REQ8: Report if learning material is not structured in a way that suits
   best blind and visually impaired'
-metrics:
-  updated: '2015-02-17T15:05:35Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '1.1'
-    date: '2015-02-16T13:10:44Z'
-  latest-tag:
-    tag: '1.1'
-    date: '2015-02-16T13:09:19Z'
-  checked: '2026-10-02'

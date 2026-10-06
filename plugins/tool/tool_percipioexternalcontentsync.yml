@@ -11,16 +11,3 @@ summary: Provides a tool to synchronise assets from a Skillsoft Percipio site as
   Content into Moodle
 dependencies:
   mod_externalcontent: 2023031400
-metrics:
-  updated: '2024-03-18T14:08:46Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2023031500
-    date: '2023-03-15T11:49:56Z'
-  latest-tag:
-    tag: v2023031500
-    date: '2023-03-15T11:48:36Z'
-  checked: '2026-10-05'

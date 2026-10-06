@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Sinch SMS gateway for Moodle 4.5 and later.
-metrics:
-  updated: '2025-05-12T11:49:14Z'
-  stars: 0
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: 1.0.1
-    date: '2025-04-30T09:46:49Z'
-  checked: '2026-10-05'

@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: Boost Campus based theme for Moodle unifr
 dependencies:
   theme_boost: 2020110900
-metrics:
-  updated: '2021-10-06T06:42:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v3.7
-    date: '2021-07-08T06:27:40Z'
-  checked: '2026-09-29'

@@ -48,16 +48,5 @@ releases:
   maturity: stable
 summary: Foundation theme for Moodle.
 license: GPL-3.0
-metrics:
-  updated: '2026-09-28T17:42:36Z'
-  stars: 9
-  forks: 0
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: V405.1.0
-    date: '2025-06-11T12:28:40Z'
-  checked: '2026-09-29'
-  ci: moodle-plugin-ci
 dependencies:
   theme_boost: 2025041400

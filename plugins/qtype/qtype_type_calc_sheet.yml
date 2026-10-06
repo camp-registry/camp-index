@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: Calc sheet to evaluate tic knowledge in spreadsheets
-metrics:
-  updated: '2013-05-29T00:42:15Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

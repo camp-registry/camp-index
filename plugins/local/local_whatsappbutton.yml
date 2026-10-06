@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Configurable floating WhatsApp button for Moodle 4.5–5.2
-metrics:
-  updated: '2026-08-27T19:18:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.4.0
-    date: '2026-08-27T18:17:48Z'
-  latest-tag:
-    tag: v1.4.0
-    date: '2026-08-27T18:11:45Z'
-  checked: '2026-10-05'

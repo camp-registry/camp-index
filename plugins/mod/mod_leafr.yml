@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: 'Leafr — PDF Reader & Flipbook for Moodle: page-turning book view, sidebar
   with thumbnails/search/bookmarks, required-page completion, read confirmation and
   a teacher overview. Free, GPLv3, no external service.'
-metrics:
-  updated: '2026-09-25T09:25:06Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

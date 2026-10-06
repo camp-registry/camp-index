@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle 2.x Activity to access MDID2 Library (Madison Digital Image Database
   2)
-metrics:
-  updated: '2013-02-28T17:41:22Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

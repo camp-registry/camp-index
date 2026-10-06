@@ -9,9 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Evaluation method for Moodle Workshop that uses the assessments with highest
   weight as reference for evaluating other assessments. https://moodle.org/plugins/workshopeval_weightiest
-metrics:
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

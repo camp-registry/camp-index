@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: plugin that provides AI-powered text analysis capabilities through a convenient
   context menu in course content.
-metrics:
-  updated: '2025-08-18T07:06:36Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v1.0
-    date: '2025-08-17T16:55:05Z'
-  latest-tag:
-    tag: v1.0
-    date: '2025-08-17T16:53:17Z'
-  checked: '2026-10-04'

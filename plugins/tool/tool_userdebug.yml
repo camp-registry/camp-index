@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-17T12:34:35Z'
-  stars: 3
-  forks: 9
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: v5.0.3
-    date: '2026-08-17T12:27:09Z'
-  checked: '2026-10-01'
 summary: If you want to activate the debugging mode for some users on your system,
   the setting of $CFG->debugusers isn’t the best solution. You have to edit the config.php
   which allways is a risk to break you system. Also with this setting you only change

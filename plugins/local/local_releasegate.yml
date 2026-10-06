@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle local plugin: course release-readiness checks with Moodle-native
   access control and audit. Alpha, not yet run.'
-metrics:
-  updated: '2026-10-02T11:00:14Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

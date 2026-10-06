@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle ONLYOFFICE Document Server online editor integration
-metrics:
-  updated: '2026-07-16T12:31:01Z'
-  stars: 1
-  forks: 7
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: v4.1.0
-    date: '2025-08-04T14:32:39Z'
-  checked: '2026-09-24'
 dependencies:
   mod_onlyofficeeditor: 2024111300

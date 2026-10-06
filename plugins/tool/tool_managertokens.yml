@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Plugin for Moodle. Management and programming of tokens.
-metrics:
-  updated: '2024-05-29T14:21:56Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v0.2.0
-    date: '2017-12-03T17:09:56Z'
-  checked: '2026-10-05'

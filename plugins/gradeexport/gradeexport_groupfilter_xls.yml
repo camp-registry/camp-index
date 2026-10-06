@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Unimoodle L8 P11 Groupfilter xls format
-metrics:
-  updated: '2024-11-14T11:32:22Z'
-  stars: 0
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: v0.0.3
-    date: '2024-04-30T16:17:16Z'
-  checked: '2026-10-04'

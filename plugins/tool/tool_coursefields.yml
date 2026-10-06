@@ -9,10 +9,3 @@ releases: []
 summary: Moodle admin tool plugin which allows managers to set and overwrite custom
   course field values for all courses in a category, including subcategories.
 license: GPL-3.0
-metrics:
-  updated: '2026-07-29T14:15:52Z'
-  stars: 4
-  forks: 5
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle text filter to autolink ECLI case law identifiers.
-metrics:
-  updated: '2015-01-29T08:04:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.0.3
-    date: '2015-01-29T08:04:14Z'
-  checked: '2026-10-02'

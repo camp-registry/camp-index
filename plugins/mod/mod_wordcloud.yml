@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: With the wordcloud activity, it is possible to collect terms together with
   your course participants in a brainstorming process and to display them graphically
   in order of frequency.
-metrics:
-  updated: '2026-09-16T13:40:07Z'
-  stars: 0
-  forks: 3
-  open-issues: 7
-  archived: false
-  checked: '2026-09-28'

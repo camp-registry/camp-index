@@ -8,12 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 'Instruction in GERMAN: https://wiki.univie.ac.at/pages/viewpage.action?pageId=98367255#BigBlueButton-AnwesenheitAnwesenheitenvonTeilnehmer*innendesMoodle-Kurseseinsehen'
-metrics:
-  updated: '2022-03-17T12:58:13Z'
-  stars: 2
-  forks: 1
-  open-issues: 2
-  archived: false
-  checked: '2026-09-29'
 dependencies:
   mod_bigbluebuttonbn: 2021030500

@@ -11,18 +11,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-03T22:56:34Z'
-  stars: 11
-  forks: 5
-  open-issues: 8
-  archived: false
-  latest-release:
-    tag: 1.4.1
-    date: '2026-10-03T22:56:37Z'
-  latest-tag:
-    tag: 1.4.1
-    date: '2026-10-03T22:54:06Z'
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci
 summary: Add a refined dark experience to the Boost theme for greater visual comfort.

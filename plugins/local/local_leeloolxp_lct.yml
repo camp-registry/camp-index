@@ -8,12 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Quiz tracking
-metrics:
-  updated: '2022-09-12T07:17:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-25'
 dependencies:
   tool_leeloolxp_sync: 2019062701

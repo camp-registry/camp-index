@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: With this plugin you can sell courses to your moodle users. There is also
   a availability plugin available.
-metrics:
-  updated: '2026-07-03T16:12:57Z'
-  stars: 0
-  forks: 2
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v1.4.8
-    date: '2018-07-05T09:27:31Z'
-  checked: '2026-10-02'

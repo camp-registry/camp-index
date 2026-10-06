@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Centralised course content release management using Moodle's Availability
   API
-metrics:
-  updated: '2026-08-19T17:14:53Z'
-  stars: 0
-  forks: 0
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-08-19T16:51:13Z'
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-08-19T16:44:03Z'
-  checked: '2026-10-04'

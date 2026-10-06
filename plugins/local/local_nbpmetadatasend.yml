@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-10-28T10:26:47Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-26'
 summary: Local plugin to send selected course meta data defined by Project Trainspot
   to Mein Bildungsraum Datenraum /Trainspot Datenraum.
 dependencies:

@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_zoomattendance: 2026100300
-metrics:
-  updated: '2026-10-03T04:30:55Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

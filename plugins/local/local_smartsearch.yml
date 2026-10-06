@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A fast, command-palette-style Smart Search plugin for Moodle that helps users
   find courses, activities, users, settings, and admin pages.
-metrics:
-  updated: '2026-09-14T10:05:19Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.0.9
-    date: '2026-07-02T11:10:01Z'
-  checked: '2026-09-26'

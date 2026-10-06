@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: New default branch since 13 august 2025 is MOODLE_500_STABLE
-metrics:
-  updated: '2025-08-13T08:42:19Z'
-  stars: 3
-  forks: 2
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v2.0.7
-    date: '2025-08-13T08:42:19Z'
-  checked: '2026-09-29'

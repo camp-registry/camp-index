@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Import STACK 2 questions into the stack question type for moodle
-metrics:
-  updated: '2014-10-08T19:01:36Z'
-  stars: 6
-  forks: 7
-  open-issues: 1
-  archived: false
-  checked: '2026-09-28'
 dependencies:
   qtype_stack: 2014092500

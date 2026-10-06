@@ -121,16 +121,5 @@ releases:
   released: '2026-10-04T11:10:14Z'
 summary: MuTMS  Multi-tenancy plugin for Moodle™ LMS
 license: GPL-3.0
-metrics:
-  updated: '2026-09-29T17:19:27Z'
-  stars: 3
-  forks: 4
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v5.2.3.03
-    date: '2026-09-18T21:38:43Z'
-  checked: '2026-10-01'
-  ci: moodle-plugin-ci
 dependencies:
   tool_mulib: 2026080845

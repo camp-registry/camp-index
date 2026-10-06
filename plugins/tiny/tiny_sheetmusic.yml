@@ -27,17 +27,6 @@ license: GPL-3.0
 summary: Write music scores in Moodle's TinyMCE editor
 dependencies:
   local_sheetmusic: 2026082100
-metrics:
-  updated: '2026-10-04T14:54:36Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v0.1.2
-    date: '2026-10-04T13:38:32Z'
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-tiny_sheetmusic/security
 labels:
 - fully-free

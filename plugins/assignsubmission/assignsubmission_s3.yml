@@ -15,10 +15,3 @@ license: GPL-3.0
 summary: Large file submission for Moodle Assignment. once marking complete, files
   will be moved from s3 to glacier for cost-effective long term storage. File retrieval
   option is available.
-metrics:
-  updated: '2026-09-10T22:22:59Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-24'

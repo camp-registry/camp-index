@@ -14,17 +14,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle AIText question type that uses a Large Language Model for feedback
-metrics:
-  updated: '2026-09-22T19:20:41Z'
-  stars: 33
-  forks: 33
-  open-issues: 13
-  archived: false
-  latest-release:
-    tag: v2.1.0
-    date: '2026-08-29T20:15:01Z'
-  checked: '2026-09-28'
-  ci: moodle-plugin-ci
 dependencies:
   qbehaviour_deferred_for_aitext: any
   qbehaviour_immediate_for_aitext: any

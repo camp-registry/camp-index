@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-09-17T05:19:04Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-02'
 summary: LeelooLXP enrollment plugin.
 dependencies:
   auth_leeloolxp_tracking_sso: 2020092601

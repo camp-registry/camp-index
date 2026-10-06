@@ -11,10 +11,3 @@ summary: Bible Reading Tracker for Moodle students
 dependencies:
   mod_forum: 2022042100
   mod_data: 2022042100
-metrics:
-  updated: '2026-09-01T16:26:00Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-10-05'

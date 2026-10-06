@@ -11,10 +11,3 @@ summary: Moodle question type for positioning standard Cloze subquestions over a
   image.
 dependencies:
   qtype_multianswer: 2026042000
-metrics:
-  updated: '2026-09-28T02:41:00Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

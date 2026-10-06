@@ -7,18 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-03-09T14:48:18Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2024-06-06T08:41:39Z'
-  latest-tag:
-    tag: v2.0.0
-    date: '2024-08-13T14:10:21Z'
-  checked: '2026-10-05'
 summary: Grab the latest release and install it to Moodle environment as any other
   plugin.

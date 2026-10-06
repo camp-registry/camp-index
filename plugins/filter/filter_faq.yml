@@ -7,18 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-26T10:50:15Z'
-  stars: 1
-  forks: 1
-  open-issues: 11
-  archived: false
-  latest-release:
-    tag: v2026082600
-    date: '2026-08-26T10:50:15Z'
-  latest-tag:
-    tag: v2026082600
-    date: '2026-08-26T10:49:22Z'
-  checked: '2026-10-02'
 summary: Filter plugin for Moodle to use multilanguage capable FAQ- and helptexts
   by use of patterns.

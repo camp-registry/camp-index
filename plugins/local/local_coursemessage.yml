@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-04-10T11:24:05Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-04-10T11:18:20Z'
-  checked: '2026-10-04'
 summary: A Moodle local plugin that allows teachers and managers to send messages
   with attachments to course participants directly from the course navigation.

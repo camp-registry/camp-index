@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: SRL Advisor — self-regulated-learning support plugin for Moodle (local_srl_advisor).
   Consent-gated behavioral telemetry + reflection check-ins; supports Moodle 4.5–5.2.
-metrics:
-  updated: '2026-07-27T11:07:21Z'
-  stars: 1
-  forks: 0
-  open-issues: 5
-  archived: false
-  latest-tag:
-    tag: v0.6.0-beta
-    date: '2026-07-27T11:07:10Z'
-  checked: '2026-10-05'

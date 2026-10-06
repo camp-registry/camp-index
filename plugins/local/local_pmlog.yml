@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Process Mining Log Builder for Moodle
-metrics:
-  updated: '2026-03-30T20:43:18Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.1
-    date: '2026-03-30T20:41:34Z'
-  checked: '2026-09-26'

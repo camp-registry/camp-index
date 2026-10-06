@@ -9,10 +9,3 @@ releases: []
 license: GPL-2.0
 summary: This Moodle enrolment plugin lets you enrol users in the desired courses
   when they sign up to Moodle.
-metrics:
-  updated: '2026-08-30T09:10:32Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

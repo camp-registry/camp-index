@@ -7,12 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-06-21T18:53:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: A comprehensive Moodle plugin for managing organisational hierarchies, job
   assignments, and reporting lines.

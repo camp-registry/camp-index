@@ -11,17 +11,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-26T00:50:57Z'
-  stars: 0
-  forks: 2
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: 1.7.7
-    date: '2025-10-30T01:54:11Z'
-  checked: '2026-09-27'
-  ci: moodle-plugin-ci
 summary: Play video links using the modern SuperVideo player.
 dependencies:
   mod_supervideo: 2024021900

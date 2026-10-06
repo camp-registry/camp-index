@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: A Moodle Admin Tool plugin specifically made to test MDL-63795
-metrics:
-  updated: '2019-06-05T00:59:43Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

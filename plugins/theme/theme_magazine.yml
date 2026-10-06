@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Magazin theme
-metrics:
-  updated: '2017-11-16T08:47:25Z'
-  stars: 0
-  forks: 2
-  open-issues: 1
-  archived: false
-  checked: '2026-09-30'
 dependencies:
   theme_canvas: 2013110500

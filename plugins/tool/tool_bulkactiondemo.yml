@@ -7,11 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-03-13T13:23:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: This plugin is an example of how to add bulk user actions to Moodle 4.4

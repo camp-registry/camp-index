@@ -7,15 +7,5 @@ status: active
 discovered: '2026-09-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2022-05-30T17:47:36Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: true
-  latest-tag:
-    tag: v1.0
-    date: '2020-06-26T08:09:12Z'
-  checked: '2026-10-04'
 summary: This plugin is necessary to allow the export of course specific activity
   log data to the Graasp Learning Analytics App.

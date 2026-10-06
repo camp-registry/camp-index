@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Quiz dashboard (report) displaying charts of student's progress and grades
   that enable filtering of student's progress table for actions like messaging and
   grouping
-metrics:
-  updated: '2019-07-07T09:32:10Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

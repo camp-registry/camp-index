@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle addon to import questions created in Froner and exported in an XML
   file
-metrics:
-  updated: '2019-04-29T07:45:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-28'

@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: Auto Activate Quiz Attempt Button with randomized delay
-metrics:
-  updated: '2026-10-01T05:32:33Z'
-  stars: 9
-  forks: 8
-  open-issues: 7
-  archived: false
-  checked: '2026-10-01'

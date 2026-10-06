@@ -7,17 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2023-10-26T11:35:23Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.1.1
-    date: '2023-10-26T11:35:23Z'
-  latest-tag:
-    tag: v0.1.1
-    date: '2023-10-26T11:32:49Z'
-  checked: '2026-10-04'
 summary: TODO Describe the plugin shortly here.

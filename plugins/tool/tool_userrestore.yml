@@ -12,15 +12,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-12-09T15:13:17Z'
-  stars: 1
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: 4.0.0
-    date: '2025-12-09T15:10:19Z'
-  checked: '2026-10-01'
 summary: The Sebsoft User Restore Plugin offers you the possibility to restore user
   accounts

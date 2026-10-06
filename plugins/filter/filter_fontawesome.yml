@@ -9,20 +9,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle font awesome
-metrics:
-  updated: '2026-06-17T09:35:13Z'
-  stars: 2
-  forks: 4
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v5.2-r1
-    date: '2026-06-17T09:38:55Z'
-  latest-tag:
-    tag: v5.2-r1
-    date: '2026-06-17T09:29:44Z'
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-filter_fontawesome/security
 labels:
 - fully-free

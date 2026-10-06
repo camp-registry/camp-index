@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: A Plugin moodle simple pour la gestion du matériel MMI-Dev
-metrics:
-  updated: '2025-11-26T13:19:01Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.2.0
-    date: '2025-11-26T13:19:01Z'
-  latest-tag:
-    tag: v2.2.0
-    date: '2025-11-26T13:18:49Z'
-  checked: '2026-10-05'

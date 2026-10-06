@@ -7,14 +7,4 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2019-09-24T21:29:52Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v2.0
-    date: '2019-07-29T09:08:25Z'
-  checked: '2026-10-01'
 summary: Following the Moodle development course.

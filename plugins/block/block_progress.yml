@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A time management tool for you and your students
-metrics:
-  updated: '2023-11-13T22:55:12Z'
-  stars: 23
-  forks: 54
-  open-issues: 4
-  archived: false
-  latest-tag:
-    tag: '2016081800'
-    date: '2016-08-18T10:57:29Z'
-  checked: '2026-10-01'

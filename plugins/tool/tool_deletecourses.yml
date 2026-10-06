@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin which allows managers to delete all courses in a category (including
   subcategories).
-metrics:
-  updated: '2026-09-29T17:19:54Z'
-  stars: 8
-  forks: 5
-  open-issues: 4
-  archived: false
-  checked: '2026-09-30'

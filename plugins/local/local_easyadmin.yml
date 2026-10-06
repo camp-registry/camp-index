@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-03T15:00:13Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '2026100302'
-    date: '2026-10-03T15:00:14Z'
-  latest-tag:
-    tag: '2026100302'
-    date: '2026-10-03T14:54:39Z'
-  checked: '2026-10-05'
 summary: Ein vereinfachtes Verwaltungs-Dashboard für Moodle, gedacht für Schul-Admins

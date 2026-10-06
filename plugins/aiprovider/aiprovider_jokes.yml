@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Moodle AI provider plugin to generate jokes
-metrics:
-  updated: '2025-10-14T08:20:08Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v5.1
-    date: '2025-10-10T13:05:14Z'
-  checked: '2026-10-04'

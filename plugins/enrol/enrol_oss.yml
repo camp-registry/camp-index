@@ -8,19 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: enrolment plugin for the openschoolserver
-metrics:
-  updated: '2026-01-22T16:57:56Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '2026010301'
-    date: '2026-01-03T17:25:32Z'
-  latest-tag:
-    tag: '2026012201'
-    date: '2026-01-22T16:56:02Z'
-  checked: '2026-10-02'
 dependencies:
   auth_ldap: any
   enrol_cohort: any

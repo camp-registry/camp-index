@@ -11,16 +11,3 @@ summary: A modern Moodle theme featuring a sleek glassmorphism aesthetic, clean 
   responsive layout, and an improved user experience. Compatible with Moodle 4.5.X.
 dependencies:
   theme_boost: 2024100700
-metrics:
-  updated: '2026-09-01T22:41:35Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.6
-    date: '2026-09-01T22:41:36Z'
-  latest-tag:
-    tag: v1.0.6
-    date: '2026-09-01T22:37:07Z'
-  checked: '2026-10-05'

@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Automatically switch time zone
-metrics:
-  updated: '2025-11-20T22:03:28Z'
-  stars: 1
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v0.1.0
-    date: '2025-01-10T12:22:14Z'
-  latest-tag:
-    tag: v0.1.0
-    date: '2025-01-10T12:18:03Z'
-  checked: '2026-10-03'

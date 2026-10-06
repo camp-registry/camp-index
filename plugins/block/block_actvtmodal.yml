@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-02-23T15:16:02Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.1.4
-    date: '2026-02-23T15:16:03Z'
-  checked: '2026-09-25'
 summary: Display an activity in a popup modal.

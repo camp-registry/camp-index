@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: Moodle local plugin integrating global search with DataApps FTSS suggestions
-metrics:
-  updated: '2026-09-10T15:34:41Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

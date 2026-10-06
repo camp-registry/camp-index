@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Moodle course archiver cli tool
-metrics:
-  updated: '2026-08-13T12:11:13Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v5.2-r2
-    date: '2026-08-13T12:13:16Z'
-  latest-tag:
-    tag: v5.2-r2
-    date: '2026-08-13T12:01:41Z'
-  checked: '2026-10-05'

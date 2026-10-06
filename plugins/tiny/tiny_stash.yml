@@ -11,10 +11,3 @@ summary: A Moodle plugin that adds a button in TinyMCE to add block_stash item s
 dependencies:
   block_stash: 2025081900
   filter_shortcodes: 2022121200
-metrics:
-  updated: '2026-06-08T05:00:45Z'
-  stars: 0
-  forks: 4
-  open-issues: 2
-  archived: false
-  checked: '2026-10-01'

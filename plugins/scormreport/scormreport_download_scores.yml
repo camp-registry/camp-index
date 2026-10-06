@@ -9,10 +9,3 @@ releases: []
 license: Apache-2.0
 summary: A customised Moodle SCORM report to download scores for a package, along
   with per-question scores
-metrics:
-  updated: '2015-04-30T09:53:10Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

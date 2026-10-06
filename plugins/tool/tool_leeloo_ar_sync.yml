@@ -9,13 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   auth_leeloo_pay_sso: 2020022105
-metrics:
-  updated: '2022-09-12T07:16:53Z'
-  stars: 2
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'
 summary: This tool is used to Sell A/R on Leeloo LXP, admin can selet a course and  then
   its A/R, and can set price to it. This makes the A/R a prodcut in Leeloo LXp ,and
   when the user tries to view it, he is asked to make payment to view it, Once payment

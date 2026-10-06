@@ -21,14 +21,6 @@ releases:
   published: '2026-10-04T13:34:17Z'
   released: '2026-10-04T11:48:14Z'
 license: GPL-3.0
-metrics:
-  updated: '2026-09-27T05:47:48Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
-  ci: moodle-plugin-ci
 summary: Timezone date/time (Tiny editor plugin)
 security-contact: https://github.com/adamjenkins/moodle-tiny_timezone/security
 labels:

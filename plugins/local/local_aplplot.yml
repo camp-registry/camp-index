@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-06-28T08:49:14Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 5.1.0002
-    date: '2026-06-08T17:39:30Z'
-  checked: '2026-10-03'
 summary: This plugin centralizes a set of Plotting third party plugins for improving
   graph and data

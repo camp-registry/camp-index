@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: Moodle SAML enrol plugin
-metrics:
-  updated: '2019-07-16T15:09:42Z'
-  stars: 2
-  forks: 3
-  open-issues: 3
-  archived: false
-  checked: '2026-10-01'

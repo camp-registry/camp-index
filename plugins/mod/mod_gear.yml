@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: '**GEAR** (Geospatial Educational Augmented Reality) is a Moodle activity
   module that enables immersive AR/VR learning experiences with 3D models, hotspots,
   and WebXR support.'
-metrics:
-  updated: '2026-04-14T08:03:32Z'
-  stars: 1
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-09-27'

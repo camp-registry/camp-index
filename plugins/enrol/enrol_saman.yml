@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 summary: Saman (sb24.com) Gateway for moodle
-metrics:
-  updated: '2016-01-17T11:49:15Z'
-  stars: 2
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '2.0'
-    date: '2016-01-17T11:49:15Z'
-  latest-tag:
-    tag: '2.0'
-    date: '2015-05-05T11:44:54Z'
-  checked: '2026-10-02'

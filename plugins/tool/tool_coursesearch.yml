@@ -11,12 +11,5 @@ summary: The plugin describe the integration of Apache Solr as a 3rd party Searc
   API with moodle course schema for the implementation of course search that is flexible,
   case-insensitive, works with non-latin languages, fast, and can sort results by
   relevance.it should be database independent or should suppo
-metrics:
-  updated: '2015-01-09T06:12:11Z'
-  stars: 5
-  forks: 4
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 dependencies:
   theme_coursesearch: any

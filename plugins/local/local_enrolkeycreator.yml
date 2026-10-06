@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: Moodle plugin which will automatically generate and set an enrolment key
   when a new self-enrolment instance is created without preventing enrolment keys
   from being removed again.
-metrics:
-  updated: '2026-09-24T18:48:36Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v5.2-r1
-    date: '2026-09-24T16:34:35Z'
-  checked: '2026-10-04'

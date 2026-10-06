@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-23T11:20:55Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-02'
 summary: The enrolsolaissits plugin provides Moodle enrolment management for Solent
   University’s AIS-SITS integration. It allows course enrolments and unenrolments
   to be processed from external SITS data, while respecting course readiness, role

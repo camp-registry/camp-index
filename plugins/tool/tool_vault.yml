@@ -72,16 +72,5 @@ labels:
 - freemium
 - external-account
 - commercial-support-available
-metrics:
-  updated: '2026-09-29T19:48:12Z'
-  stars: 8
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v4.5.3
-    date: '2026-09-29T19:16:23Z'
-  checked: '2026-10-01'
-  ci: moodle-plugin-ci
 summary: Vault allows you to make a full backup of the site, push it to the cloud
   and then restore on any Moodle site.

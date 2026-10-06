@@ -9,16 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_dixeo: 2026090700
-metrics:
-  updated: '2026-10-02T22:00:45Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.5.6
-    date: '2026-09-07T16:19:03Z'
-  checked: '2026-10-04'
 summary: The Dixeo Course Designer is an AI-powered Moodle block that accelerates
   the definition and generation of Moodle course structure, resources and activities
   from user-provided source documents and following a selected pedagogical design

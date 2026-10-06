@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: 'Moodle plugin: mod_aiquiz'
 dependencies:
   local_aiconfig: 2025122301
-metrics:
-  updated: '2026-08-15T03:23:12Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v3.1.27
-    date: '2026-08-15T03:23:09Z'
-  checked: '2026-10-05'

@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Moodle question type for Saylor Code Studio coding exercises
 dependencies:
   local_saylorcode: 2026081904
-metrics:
-  updated: '2026-10-02T19:00:59Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-05'

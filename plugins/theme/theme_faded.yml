@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A theme for Moodle 2.4 with custom block regions. This is an exercise in
   creating a theme from scratch, and is not intended for production sites.
-metrics:
-  updated: '2012-12-14T04:11:24Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-09-29'

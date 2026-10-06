@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Workplace courses and programs overview block
-metrics:
-  updated: '2024-07-10T16:40:00Z'
-  stars: 3
-  forks: 2
-  open-issues: 1
-  archived: true
-  latest-tag:
-    tag: v4.4.1
-    date: '2024-07-08T13:09:01Z'
-  checked: '2026-10-01'
 dependencies:
   tool_program: 2022111500

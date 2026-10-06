@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: New course format that removes most topic formatting to allow a course to
   be used to display content as a non course looking clean webpage
-metrics:
-  updated: '2012-01-26T22:45:48Z'
-  stars: 3
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-21'

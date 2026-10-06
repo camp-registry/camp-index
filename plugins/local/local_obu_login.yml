@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: OBU Login Services
-metrics:
-  updated: '2024-04-11T07:47:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.9.10
-    date: '2019-05-22T07:14:09Z'
-  checked: '2026-09-26'

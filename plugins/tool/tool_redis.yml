@@ -8,15 +8,5 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle plugin which adds a Redis management GUI to Moodle site administration.
 license: GPL-3.0
-metrics:
-  updated: '2026-07-05T09:17:57Z'
-  stars: 3
-  forks: 4
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: v5.2-r1
-    date: '2026-07-05T09:15:37Z'
-  checked: '2026-10-01'
 dependencies:
   cachestore_redis: 2026042000

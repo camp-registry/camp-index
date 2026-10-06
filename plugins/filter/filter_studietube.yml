@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: Moodle filter plugin
-metrics:
-  updated: '2025-09-24T12:59:41Z'
-  stars: 0
-  forks: 0
-  open-issues: 6
-  archived: false
-  checked: '2026-10-01'

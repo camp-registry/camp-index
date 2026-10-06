@@ -11,13 +11,6 @@ summary: The AI Quiz Generator plugin automates the creation of high-quality qui
   questions from course content using AI infrastructure. It provides instructors with
   an intelligent wizard-based interface to generate, review, and deploy quizzes while
   maintaining complete pedagogical control.
-metrics:
-  updated: '2026-03-13T10:38:03Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-09-23'
 dependencies:
   mod_quiz: 2022112800
   mod_scorm: 2022112800

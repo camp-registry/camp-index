@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle Plugin to allow enrolling into a course based on a successful participation
   in another course in a specific category
-metrics:
-  updated: '2026-07-23T12:48:04Z'
-  stars: 1
-  forks: 3
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 1.4.2
-    date: '2026-07-23T12:46:38Z'
-  checked: '2026-10-02'

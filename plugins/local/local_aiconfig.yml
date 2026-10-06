@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Central configuration hub for all LMS Labs AI plugins
-metrics:
-  updated: '2026-08-24T05:29:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 4
-  archived: false
-  latest-tag:
-    tag: v1.0.16
-    date: '2026-08-24T05:29:08Z'
-  checked: '2026-10-04'

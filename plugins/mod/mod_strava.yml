@@ -11,10 +11,3 @@ summary: Plugin de Moodle para ver los datos de actividad de un usuario y que se
   calificable en moodle
 dependencies:
   local_stravaauth: 2026092400
-metrics:
-  updated: '2026-09-24T09:15:12Z'
-  stars: 0
-  forks: 0
-  open-issues: 8
-  archived: false
-  checked: '2026-10-03'

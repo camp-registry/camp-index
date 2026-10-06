@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: LiveWebinar Meeting is a Moodle activity plugin that integrates Moodle with
   the LiveWebinar platform  https://www.livewebinar.com
-metrics:
-  updated: '2026-02-17T14:56:01Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.0.3
-    date: '2026-02-17T14:56:01Z'
-  checked: '2026-09-27'

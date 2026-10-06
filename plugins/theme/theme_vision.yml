@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: A Moodle subtheme of Essentials for HCPSS
 dependencies:
   theme_essential: 2016061704
-metrics:
-  updated: '2021-03-01T15:49:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  latest-release:
-    tag: v2.1.1
-    date: '2020-01-07T17:02:32Z'
-  checked: '2026-09-30'

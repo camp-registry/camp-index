@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Allocation method for Moodle Workshop that automatically allocates for review
   submissions made during the assessment phase.
-metrics:
-  updated: '2025-04-14T20:14:31.897Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

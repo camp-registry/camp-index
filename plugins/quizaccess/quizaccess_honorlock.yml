@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Honorlock's Quiz Access Proctoring Plugin
-metrics:
-  updated: '2026-03-26T18:19:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: 4.2.2
-    date: '2026-03-13T19:31:01Z'
-  checked: '2026-09-29'

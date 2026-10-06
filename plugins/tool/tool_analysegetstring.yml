@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Moodle developer tool for analysing all calls to get_string
-metrics:
-  updated: '2011-10-07T17:24:30Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 dependencies:
   local_codechecker: 2011040400

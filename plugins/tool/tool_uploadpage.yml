@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Provides a bulk upload tool to create Moodle Courses that consist of a single
   Page Activity, the information is loaded from a Text Delimited File
-metrics:
-  updated: '2021-02-01T14:56:46Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2020081700
-    date: '2020-08-17T08:19:54Z'
-  latest-tag:
-    tag: v2020081700
-    date: '2020-08-17T08:11:55Z'
-  checked: '2026-10-01'

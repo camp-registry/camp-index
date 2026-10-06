@@ -8,18 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: The PoodLL field for the Moodle Database Activity
-metrics:
-  updated: '2022-12-02T08:25:57Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v3.1.2
-    date: '2022-12-02T08:25:57Z'
-  latest-tag:
-    tag: v3.1.2
-    date: '2022-12-02T08:24:57Z'
-  checked: '2026-10-02'
 dependencies:
   filter_poodll: 2017082601

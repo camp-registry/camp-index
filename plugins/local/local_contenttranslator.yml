@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'AI content translator for Moodle: registry, engines (core AI), workbench,
   budget, backup/restore. Part of the Wunderbyte content translator family.'
-metrics:
-  updated: '2026-09-23T11:13:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

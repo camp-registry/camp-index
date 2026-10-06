@@ -11,10 +11,3 @@ summary: Automated AI Feedback on Moodle Assignments, based on a rubric and syst
   prompt.
 dependencies:
   local_ai_manager: any
-metrics:
-  updated: '2026-09-29T10:00:51Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

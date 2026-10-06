@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-01-31T03:43:38Z'
-  stars: 0
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: v3.5-r5_v4.5-r3
-    date: '2025-01-31T03:42:10Z'
-  checked: '2026-10-03'
 summary: The ClickView settings plugin for Moodle enables you to configure and setup
   ClickView in Moodle.

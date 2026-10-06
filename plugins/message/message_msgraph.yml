@@ -8,9 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: This uses Graph (Outlook) REST API to send Moodle messages and notifications
-metrics:
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

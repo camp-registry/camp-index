@@ -11,10 +11,3 @@ summary: 'Reset Course Badges removes outdated badge definitions from restored, 
   imported, or reset Moodle courses. Badges with no recipients are deleted. Badges
   already awarded are archived so participants keep them in their profiles. Administrators
   can use one bulk action or enable automatic cleanup '
-metrics:
-  updated: '2026-09-13T11:22:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 4
-  archived: false
-  checked: '2026-10-03'

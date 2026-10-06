@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: Bloque de Moodle para registrar el contacto de estudiantes con personal de
   control escolar. Utilizado como ejemplo para los cursos Moodledev del Colegio de
   bachilleres.
-metrics:
-  updated: '2024-12-13T22:07:50Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: sesion_13-12-24
-    date: '2024-12-13T22:07:50Z'
-  checked: '2026-09-25'

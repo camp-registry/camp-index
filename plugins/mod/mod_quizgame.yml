@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A QuizGame Alternative for Moodle
-metrics:
-  updated: '2026-01-03T07:35:03Z'
-  stars: 8
-  forks: 9
-  open-issues: 22
-  archived: false
-  latest-release:
-    tag: v4.1-r1
-    date: '2023-01-27T21:45:36Z'
-  checked: '2026-09-28'

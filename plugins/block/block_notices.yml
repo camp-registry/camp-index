@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Notices block for Moodle
-metrics:
-  updated: '2026-08-10T09:45:34Z'
-  stars: 0
-  forks: 0
-  open-issues: 6
-  archived: false
-  checked: '2026-10-01'

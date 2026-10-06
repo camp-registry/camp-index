@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: This is challange
-metrics:
-  updated: '2026-03-11T23:12:49Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.1.0
-    date: '2026-03-11T01:43:58Z'
-  checked: '2026-09-25'

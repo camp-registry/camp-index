@@ -9,18 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Moodle Admin Tool Plugin to manage messages that have been reported and empty
   groups
-metrics:
-  updated: '2026-02-09T09:05:44Z'
-  stars: 0
-  forks: 2
-  open-issues: 2
-  archived: true
-  latest-release:
-    tag: 1.1.2rc
-    date: '2025-02-26T14:30:05Z'
-  latest-tag:
-    tag: 1.1.2rc
-    date: '2024-06-13T09:30:51Z'
-  checked: '2026-10-01'
 dependencies:
   local_thi_learning_companions: 2022102501

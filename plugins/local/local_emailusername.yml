@@ -7,13 +7,6 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-01-05T18:45:34Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: A simple, free plugin that lets users register and login with their email
   address instead of a separate username. Features a beautiful password requirements
   UI with live validation.

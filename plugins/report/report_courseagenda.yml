@@ -17,11 +17,3 @@ releases: []
 license: GPL-3.0
 summary: This report allows a quick view of the details of the activities in the course
   along with their current status.
-metrics:
-  updated: '2026-08-31T00:06:34Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
-  ci: moodle-plugin-ci

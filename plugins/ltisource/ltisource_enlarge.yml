@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: An LTI moodle subplugin for connecting to ENLARGE systems
-metrics:
-  updated: '2020-04-20T12:55:12Z'
-  stars: 2
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '1.0'
-    date: '2019-11-23T17:53:22Z'
-  checked: '2026-09-27'
 dependencies:
   mod_ejsapp: 2016080400

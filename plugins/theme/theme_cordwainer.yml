@@ -14,12 +14,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Theme designers bootstrap inspection theme
-metrics:
-  updated: '2013-12-14T15:51:18Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-09-29'
 dependencies:
   theme_bootstrapbase: 2013110500

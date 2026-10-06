@@ -8,16 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ACTION field type for the Database activity in Moodle >= 2.3
-metrics:
-  updated: '2026-02-28T22:58:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 2026-03-01-(39)
-    date: '2026-02-28T22:58:15Z'
-  checked: '2026-10-02'
 dependencies:
   datafield_admin: any
   datafield_template: any

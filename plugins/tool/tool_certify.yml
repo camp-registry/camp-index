@@ -10,11 +10,4 @@ license: GPL-3.0
 dependencies:
   local_openlms: 2023081200
   enrol_programs: 2023112502
-metrics:
-  updated: '2025-02-27T23:17:42Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: Open LMS certification plugin.

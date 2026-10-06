@@ -14,16 +14,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Noticeboard course format for Moodle.
-metrics:
-  updated: '2016-05-09T19:48:28Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: true
-  latest-release:
-    tag: V3.0.1
-    date: '2016-03-09T17:01:22Z'
-  latest-tag:
-    tag: V3.0.1
-    date: '2016-03-08T18:36:50Z'
-  checked: '2026-10-05'

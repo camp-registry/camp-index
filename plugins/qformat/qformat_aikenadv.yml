@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Aiken Advanced format - a simple format for creating (Any language) multiple
   choice questions (with  * only one correct choice, and no feedback).
-metrics:
-  updated: '2013-11-23T19:43:17Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  checked: '2026-09-28'

@@ -8,15 +8,5 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle course format masonry
 license: GPL-3.0
-metrics:
-  updated: '2026-09-23T07:32:28Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v5.1.1
-    date: '2026-05-04T09:08:21Z'
-  checked: '2026-10-03'
 dependencies:
   format_topics: 2025041400

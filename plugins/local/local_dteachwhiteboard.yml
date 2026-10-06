@@ -7,18 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-01T18:44:03Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.2.0
-    date: '2026-09-01T18:44:04Z'
-  latest-tag:
-    tag: v0.2.0
-    date: '2026-09-01T18:42:27Z'
-  checked: '2026-10-05'
 summary: A persistent, collaborative whiteboard for Moodle activities. Teachers add
   a

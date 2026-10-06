@@ -9,15 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Moodle Plugin availability type using students' metrics from forum modules
   to restrict access of other modules in the course.
-metrics:
-  updated: '2024-04-27T06:32:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 0.3.0
-    date: '2024-04-27T06:32:58Z'
-  checked: '2026-09-25'
 dependencies:
   mod_forum: any

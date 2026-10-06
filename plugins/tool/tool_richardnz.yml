@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: Following Moodle Developers course https://moodledev.moodle.school/course/view.php?id=3&section=4.
-metrics:
-  updated: '2018-12-20T08:45:25Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

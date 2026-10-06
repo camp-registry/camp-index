@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: OBU version of ILP plugin (with /plugins/tabs/ilp_dashboard_starthere.php)
-metrics:
-  updated: '2024-04-11T07:39:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.1
-    date: '2018-06-21T15:10:06Z'
-  latest-tag:
-    tag: v1.0.1
-    date: '2018-06-21T15:07:42Z'
-  checked: '2026-10-01'

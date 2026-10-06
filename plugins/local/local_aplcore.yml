@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Core shared libraries for APL plugins (code protected version)
-metrics:
-  updated: '2026-08-18T21:10:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 4.5.0007
-    date: '2026-08-18T21:08:54Z'
-  checked: '2026-10-03'

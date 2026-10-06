@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Trigger for semester independent courses
 dependencies:
   tool_lifecycle: 2019102900
-metrics:
-  updated: '2020-02-28T14:41:03Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

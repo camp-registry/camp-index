@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: With digui for Moodle, you can highlight your texts, and save the results
   on a file.
-metrics:
-  updated: '2017-12-25T20:03:40Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-27'

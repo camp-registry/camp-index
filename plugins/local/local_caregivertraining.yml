@@ -13,10 +13,3 @@ dependencies:
   mod_lesson: any
   mod_quiz: any
   mod_feedback: any
-metrics:
-  updated: '2026-10-02T02:24:09Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

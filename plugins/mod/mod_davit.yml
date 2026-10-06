@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Desenvolvimento de um plugin para o Moodle voltado ao ensino de programação
   utilizando a API Davit.
-metrics:
-  updated: '2020-09-21T12:47:18Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-27'

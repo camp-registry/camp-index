@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Create, insert and share widget components easily in Tiny (IEDIB repository)
-metrics:
-  updated: '2026-09-25T15:40:45Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.4.7
-    date: '2026-09-25T15:40:45Z'
-  checked: '2026-09-30'

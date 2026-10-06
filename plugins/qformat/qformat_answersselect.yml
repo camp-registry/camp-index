@@ -12,16 +12,3 @@ summary: This is a Moodle question import format. It takes a Moodle XML file and
 dependencies:
   qformat_xml: 2016120500
   qtype_answersselect: 2021082200
-metrics:
-  updated: '2025-04-20T12:55:56Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '1.0'
-    date: '2021-09-14T16:21:53Z'
-  latest-tag:
-    tag: '1.0'
-    date: '2021-08-27T14:10:06Z'
-  checked: '2026-10-05'

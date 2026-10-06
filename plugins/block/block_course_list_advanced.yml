@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-02-07T16:02:32Z'
-  stars: 3
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.0.9
-    date: '2022-05-12T15:03:59Z'
-  checked: '2026-09-25'
 summary: (deprecated plugin!!!)

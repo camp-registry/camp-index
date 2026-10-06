@@ -9,13 +9,6 @@ releases: []
 license: GPL-3.0
 summary: Wrapper Moodle plugin to force installation of all plugins in Microsoft Word
   file import/export set
-metrics:
-  updated: '2025-04-28T11:58:35Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-09-26'
 dependencies:
   atto_wordimport: 2023110600
   booktool_wordimport: 2025042300

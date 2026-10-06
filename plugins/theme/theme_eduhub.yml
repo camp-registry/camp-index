@@ -8,13 +8,6 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Moodle theme which has useful features.
-metrics:
-  updated: '2017-10-05T07:01:23Z'
-  stars: 3
-  forks: 3
-  open-issues: 3
-  archived: false
-  checked: '2026-09-29'
 dependencies:
   theme_bootstrapbase: 2017050500
   theme_clean: 2017050500

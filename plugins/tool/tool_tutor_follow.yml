@@ -10,12 +10,5 @@ license: GPL-3.0
 summary: Show the grades, course dedication, feedback the activities, in one site,
   so we analize better the data, and rated the teachers. TODO Provide more detailed
   description here.
-metrics:
-  updated: '2026-08-25T18:52:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'
 dependencies:
   block_dedication: 2023112001

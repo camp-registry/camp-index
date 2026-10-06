@@ -21,17 +21,8 @@ releases:
   published: '2026-10-04T13:27:04Z'
   released: '2026-10-04T11:48:13Z'
 license: GPL-3.0
-summary: >-
-  A Moodle local plugin that highlights recently added and recently modified
+summary: A Moodle local plugin that highlights recently added and recently modified
   activities and resources directly on the course page
-metrics:
-  updated: '2026-08-04T03:43:51Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-26'
-  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_newupdate_indicator/security
 labels:
 - fully-free

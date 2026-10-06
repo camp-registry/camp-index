@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Our in-development theme for 2.5 for Sept 2013 onwards.
-metrics:
-  updated: '2013-07-18T09:21:16Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 dependencies:
   theme_base: 2013050100

@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-01-24T14:49:03Z'
-  stars: 20
-  forks: 26
-  open-issues: 21
-  archived: false
-  latest-release:
-    tag: MOODLE27.2
-    date: '2015-06-03T19:17:22Z'
-  checked: '2026-09-27'
 summary: This is a module, which integrates etherpad-lite in Moodle 3.5 or higher

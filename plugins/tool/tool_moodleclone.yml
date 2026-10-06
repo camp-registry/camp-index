@@ -8,10 +8,3 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 summary: moodle admin tool/plugin to move/clone moodle websites.
-metrics:
-  updated: '2026-09-25T09:44:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

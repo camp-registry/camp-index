@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2022-10-26T11:22:42Z'
-  stars: 2
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-02'
 summary: Featured, available, upcoming, in progress, completed and my courses.
 dependencies:
   local_leeloolxpcontentapi: 2021031907

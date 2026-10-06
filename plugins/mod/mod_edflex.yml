@@ -9,15 +9,5 @@ releases: []
 summary: A plug-and-play connector that brings Edflex’s curated catalog, SSO, and
   activity sync directly to your Moodle instance.
 license: GPL-3.0
-metrics:
-  updated: '2026-07-08T08:39:24Z'
-  stars: 12
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0-4
-    date: '2025-12-01T17:13:05Z'
-  checked: '2026-09-27'
 dependencies:
   mod_scorm: any

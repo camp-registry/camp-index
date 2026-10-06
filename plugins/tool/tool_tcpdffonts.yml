@@ -13,13 +13,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: TCPDF Font Manager
-metrics:
-  updated: '2025-12-08T10:19:47Z'
-  stars: 1
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: v1.0.1
-    date: '2025-12-08T10:17:10Z'
-  checked: '2026-10-01'

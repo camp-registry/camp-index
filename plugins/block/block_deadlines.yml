@@ -7,11 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-07-16T23:58:24Z'
-  stars: 0
-  forks: 0
-  open-issues: 5
-  archived: false
-  checked: '2026-10-04'
 summary: A Moodle block for showing upcoming deadlines. Currently a skeleton transferred

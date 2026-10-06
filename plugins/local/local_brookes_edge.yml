@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: BrookesEDGE
-metrics:
-  updated: '2024-04-11T07:42:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.2
-    date: '2021-01-18T17:02:21Z'
-  latest-tag:
-    tag: v1.0.2
-    date: '2021-01-18T17:00:50Z'
-  checked: '2026-10-03'

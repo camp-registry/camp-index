@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: XTEC2 theme for Agora Moodle2
 dependencies:
   theme_bootstrapbase: 2013110500
-metrics:
-  updated: '2020-11-24T10:47:08Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

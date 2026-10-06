@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: OneRoster Enrolment plugin for Moodle
-metrics:
-  updated: '2023-11-03T14:48:35Z'
-  stars: 3
-  forks: 8
-  open-issues: 15
-  archived: false
-  latest-tag:
-    tag: v2021012000
-    date: '2021-01-20T05:36:07Z'
-  checked: '2026-10-02'

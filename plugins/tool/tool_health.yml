@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Health tool that was removed from standard package in Moodle 4.0
-metrics:
-  updated: '2025-04-16T17:58:08Z'
-  stars: 2
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.1.2
-    date: '2025-04-16T18:01:19Z'
-  checked: '2026-09-30'

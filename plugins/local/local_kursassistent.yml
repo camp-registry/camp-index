@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-04T19:41:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '2026100117'
-    date: '2026-10-04T19:41:23Z'
-  latest-tag:
-    tag: '2026100117'
-    date: '2026-10-04T19:04:01Z'
-  checked: '2026-10-05'
 summary: Moodle-Plugin von Moodle in Niedersachsen e. V.

@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-2.0
 summary: Twitter feed block for Moodle
-metrics:
-  updated: '2020-01-30T15:52:12Z'
-  stars: 0
-  forks: 2
-  open-issues: 5
-  archived: false
-  latest-tag:
-    tag: v1.0
-    date: '2016-01-28T14:31:55Z'
-  checked: '2026-10-02'

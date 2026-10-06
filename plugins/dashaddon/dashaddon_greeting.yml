@@ -9,11 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_dash: 2022110300
-metrics:
-  updated: '2026-04-23T16:05:15Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: A dashaddon sub-plugin for blockdash

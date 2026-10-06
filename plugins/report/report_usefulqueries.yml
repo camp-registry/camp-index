@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Trata-se de um plugin do tipo relatório, o qual exibe uma lista de consultas
   úteis para um administrador da plataforma Moodle.
-metrics:
-  updated: '2019-08-05T12:27:11Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

@@ -31,14 +31,6 @@ releases:
   released: '2026-10-04T11:48:12Z'
 license: GPL-3.0
 summary: An interface for crowdsourcing translations in Moodle.
-metrics:
-  updated: '2026-08-04T03:43:49Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-25'
-  ci: moodle-plugin-ci
 security-contact: https://github.com/adamjenkins/moodle-local_langcrowd/security
 labels:
 - fully-free

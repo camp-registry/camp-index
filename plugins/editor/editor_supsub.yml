@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2015-05-08T11:13:29Z'
-  stars: 6
-  forks: 5
-  open-issues: 5
-  archived: false
-  latest-tag:
-    tag: v1.5
-    date: '2014-11-12T18:14:08Z'
-  checked: '2026-10-02'
 summary: Superscript/subscript editor
 dependencies:
   editor_tinymce: any

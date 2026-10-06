@@ -10,10 +10,3 @@ license: GPL-3.0
 dependencies:
   local_patchmanager: 2026092203
   mod_zoom: any
-metrics:
-  updated: '2026-09-23T04:43:02Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

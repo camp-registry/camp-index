@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2015-06-15T13:48:19Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-29'
 summary: About this theme
 dependencies:
   theme_bootstrap: 2014110600

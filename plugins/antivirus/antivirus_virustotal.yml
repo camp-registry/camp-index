@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: Scan student uploads from Moodle by utilizing the VirusTotal For Moodle package.
-metrics:
-  updated: '2018-11-11T19:19:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

@@ -7,12 +7,5 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-05-05T08:06:18Z'
-  stars: 0
-  forks: 0
-  open-issues: 8
-  archived: false
-  checked: '2026-09-29'
 summary: Report that provides an overview of the scheduled tasks and quizzes during
   the month and the user impact it will have on the platform.

@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Automatically and silently generates profile pictures based on a user's initials.
-metrics:
-  updated: '2023-04-19T19:20:25Z'
-  stars: 2
-  forks: 1
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: 1.0.2
-    date: '2017-03-14T16:37:46Z'
-  latest-tag:
-    tag: 1.1.2
-    date: '2019-10-22T21:37:24Z'
-  checked: '2026-10-03'

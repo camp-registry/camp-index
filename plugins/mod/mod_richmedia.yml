@@ -8,10 +8,3 @@ discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
 summary: Moodle Richmedia Plugin
-metrics:
-  updated: '2018-01-30T16:35:31Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-10-01'

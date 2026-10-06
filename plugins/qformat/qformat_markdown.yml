@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-05T21:14:47Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.1.0
-    date: '2026-08-08T20:52:07Z'
-  latest-tag:
-    tag: v2.1.0
-    date: '2026-08-08T20:33:34Z'
-  checked: '2026-10-05'
 summary: Import quiz questions into the Moodle question bank from a simple,

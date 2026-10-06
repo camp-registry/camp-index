@@ -8,12 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle deferred feedback quiz behaviour with a penalty applied
-metrics:
-  updated: '2016-02-28T22:59:25Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-28'
 dependencies:
   qbehaviour_deferredfeedback: 2013110500

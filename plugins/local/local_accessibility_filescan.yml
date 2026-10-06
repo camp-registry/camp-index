@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A local Moodle plugin to check the accessibility of course materials.
-metrics:
-  updated: '2026-09-28T15:23:43Z'
-  stars: 2
-  forks: 0
-  open-issues: 13
-  archived: false
-  latest-release:
-    tag: v1.0.1
-    date: '2026-09-28T15:23:44Z'
-  latest-tag:
-    tag: v1.0.1
-    date: '2026-09-25T21:07:43Z'
-  checked: '2026-10-03'

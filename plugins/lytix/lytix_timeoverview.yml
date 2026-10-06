@@ -12,16 +12,3 @@ summary: A local_lytix subplugin. Overview for the spend time per activity of al
 dependencies:
   lytix_helper: any
   lytix_logs: any
-metrics:
-  updated: '2025-08-14T09:02:58Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1.8
-    date: '2025-08-14T09:03:25Z'
-  latest-tag:
-    tag: v1.1.8
-    date: '2025-08-14T08:35:38Z'
-  checked: '2026-10-05'

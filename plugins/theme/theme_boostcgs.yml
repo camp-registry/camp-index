@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: Boost child theme created for CGS
-metrics:
-  updated: '2021-06-22T23:29:21Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

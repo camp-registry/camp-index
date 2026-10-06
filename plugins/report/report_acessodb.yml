@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Trata-se de um plugin do tipo relatório, o qual exibe a lista de categorias
   cadastradas no Moodle.
-metrics:
-  updated: '2019-08-02T17:09:48Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

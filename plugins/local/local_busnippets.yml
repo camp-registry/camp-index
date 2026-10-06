@@ -11,10 +11,3 @@ summary: Keeps the SCSS snippets of your own snippets repository in sync with Bo
   Union
 dependencies:
   theme_boost_union: any
-metrics:
-  updated: '2026-07-31T16:53:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

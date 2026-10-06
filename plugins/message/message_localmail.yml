@@ -9,9 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_mail: 2025050800
-metrics:
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

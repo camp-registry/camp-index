@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle plugin for enrollment in cohorts based on external database
-metrics:
-  updated: '2016-12-21T16:12:04Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0
-    date: '2016-12-21T15:10:36Z'
-  checked: '2026-09-23'

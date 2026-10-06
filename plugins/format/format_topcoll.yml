@@ -72,17 +72,3 @@ releases:
   maturity: stable
 summary: Collapsed Topics course format for Moodle.
 license: GPL-3.0
-metrics:
-  updated: '2026-09-26T17:57:48Z'
-  stars: 35
-  forks: 66
-  open-issues: 15
-  archived: false
-  latest-release:
-    tag: V502.1.0
-    date: '2026-09-26T12:35:10Z'
-  latest-tag:
-    tag: V502.1.0
-    date: '2026-09-26T12:33:13Z'
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci

@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle activity that embeds a self paced Rahoot quiz, sized to the content
   area
-metrics:
-  updated: '2026-09-28T11:23:53Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

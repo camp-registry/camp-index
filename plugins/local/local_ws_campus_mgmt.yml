@@ -8,10 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: MIT
 summary: Web services for GEFRI
-metrics:
-  updated: '2024-05-02T14:11:25Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: source code for the moodle plugin of NOLEJ
-metrics:
-  updated: '2026-07-22T09:42:50Z'
-  stars: 3
-  forks: 4
-  open-issues: 1
-  archived: true
-  checked: '2026-09-26'

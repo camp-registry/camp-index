@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   theme_boost: 2016102100
-metrics:
-  updated: '2021-05-15T12:01:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  checked: '2026-09-30'
 summary: This plugin package is part of Corporate LMS package developed by Veloxnet
   and Trimenta Ltd.

@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle document converter plugin that converts files to PDF via a Gotenberg
   (LibreOffice) container.
-metrics:
-  updated: '2026-08-29T12:47:05Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-08-29T12:48:52Z'
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-08-29T12:45:54Z'
-  checked: '2026-10-04'

@@ -7,17 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-08-15T16:05:55Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '0.8'
-    date: '2023-01-19T08:52:29Z'
-  latest-tag:
-    tag: v1.0
-    date: '2025-08-15T16:01:27Z'
-  checked: '2026-10-04'
 summary: This plugin is designed to streamline the process of viewing enrollment statistics.

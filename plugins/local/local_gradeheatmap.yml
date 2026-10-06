@@ -30,13 +30,6 @@ releases:
   published: '2026-10-05T14:19:52Z'
   released: '2026-10-05T14:17:21Z'
 license: GPL-3.0
-metrics:
-  updated: '2026-10-01T13:42:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'
 security-contact: https://github.com/adamjenkins/moodle-local_gradeheatmap/security
 labels:
 - fully-free

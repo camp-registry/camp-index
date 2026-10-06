@@ -9,14 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   qtype_multichoice: 2022041900
-metrics:
-  updated: '2025-03-01T14:46:33Z'
-  stars: 0
-  forks: 3
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: 2025030100_local_questionbulkupdate
-    date: '2025-03-01T14:42:40Z'
-  checked: '2026-10-05'
 summary: Questions bulk update Moodle plugin

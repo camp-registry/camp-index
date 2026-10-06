@@ -8,16 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: ALiSe CAT Quiz
-metrics:
-  updated: '2026-09-23T08:00:44Z'
-  stars: 1
-  forks: 3
-  open-issues: 4
-  archived: false
-  latest-tag:
-    tag: 1.1.2
-    date: '2024-12-05T14:49:02Z'
-  checked: '2026-10-03'
 dependencies:
   local_wunderbyte_table: 2024040200
   mod_adaptivequiz: 2026081900

@@ -8,10 +8,3 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 summary: SAIPA — AI companion for Moodle (local plugin)
-metrics:
-  updated: '2026-09-17T15:06:47Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Securely transfer Moodle course backup archives to Amazon S3 without storing
   long-lived AWS access keys in Moodle.
-metrics:
-  updated: '2026-08-20T07:09:47Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v0.6.1
-    date: '2026-08-20T07:08:04Z'
-  checked: '2026-10-05'

@@ -8,10 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: Pass Fail Rubric Grading plugin from Titus Learning
-metrics:
-  updated: '2020-08-17T10:03:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

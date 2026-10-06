@@ -7,15 +7,5 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2018-12-11T07:23:57Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.2.1
-    date: '2018-12-09T20:58:58Z'
-  checked: '2026-10-01'
 summary: This plugin is made as a part of Moodle Development course, to test integration
   of plugin with Travis

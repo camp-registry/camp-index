@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: Custom Moodle theme for AAC-RERC Learn (theme_llslim)
 dependencies:
   theme_boost: 2026042000
-metrics:
-  updated: '2026-08-10T03:44:45Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.0.4-dev
-    date: '2026-08-09T23:52:51Z'
-  checked: '2026-10-05'

@@ -9,10 +9,3 @@ releases: []
 summary: This is a block / report that allows the time-spent by course participants
   to be estimated and displayed.
 license: GPL-3.0
-metrics:
-  updated: '2026-02-26T06:49:06Z'
-  stars: 10
-  forks: 14
-  open-issues: 21
-  archived: false
-  checked: '2026-09-25'

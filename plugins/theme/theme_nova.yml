@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Experimental theme for use on the navigation project
 dependencies:
   theme_boost: 2018051400
-metrics:
-  updated: '2021-04-07T14:13:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

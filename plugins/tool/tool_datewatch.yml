@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Datewatch plugin allows to execute callbacks defined by other plugins when
   a certain date has passed
-metrics:
-  updated: '2026-09-15T16:19:46Z'
-  stars: 3
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

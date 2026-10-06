@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_autograder: 2026093000
-metrics:
-  updated: '2026-09-30T13:33:16Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

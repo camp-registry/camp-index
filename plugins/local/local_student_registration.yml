@@ -7,12 +7,5 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2020-07-31T20:20:29Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-09-26'
 summary: Please downloand and deploy the studentregistration.zip file to your moodle
   instance on your development, testing, or production environment.

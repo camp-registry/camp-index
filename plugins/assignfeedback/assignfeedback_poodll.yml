@@ -7,19 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-11-11T06:10:00Z'
-  stars: 0
-  forks: 4
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v3.1.030
-    date: '2021-11-11T06:10:00Z'
-  latest-tag:
-    tag: v3.1.030
-    date: '2021-11-11T06:07:45Z'
-  checked: '2026-10-04'
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
 dependencies:
   filter_poodll: 2018012001

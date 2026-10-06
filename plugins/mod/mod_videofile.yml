@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2020-11-30T13:04:06Z'
-  stars: 10
-  forks: 17
-  open-issues: 19
-  archived: false
-  latest-release:
-    tag: v1.06
-    date: '2015-06-11T16:34:56Z'
-  checked: '2026-09-28'
 summary: Videofile is a Moodle 2.4+ resource plugin intended to provide teachers

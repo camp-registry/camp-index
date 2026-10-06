@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A clone of the Boost Theme for theme designers to use to test their work
   outside of the production theme.
-metrics:
-  updated: '2024-01-02T14:09:17Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

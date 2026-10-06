@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: This is a local plugin for moodle that works as an EMREX Contact Point (EMP).
   The EMP allows students to request the transfer of learning achievements from moodle.
   Achievements are transferred as signed ELMO certificates.
-metrics:
-  updated: '2024-02-08T12:06:18Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

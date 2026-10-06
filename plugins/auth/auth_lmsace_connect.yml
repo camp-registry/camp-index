@@ -11,16 +11,3 @@ summary: LMSACE Connect SSO is an authentication type plugin for Moodle that all
   users to sign up and sign in to Moodle using a single sign-on (SSO) feature.
 dependencies:
   local_lmsace_connect: 2023062400
-metrics:
-  updated: '2023-07-27T11:07:31Z'
-  stars: 1
-  forks: 3
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0
-    date: '2023-07-25T10:13:25Z'
-  latest-tag:
-    tag: v1.0
-    date: '2023-07-25T10:09:57Z'
-  checked: '2026-10-04'

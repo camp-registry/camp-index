@@ -12,10 +12,3 @@ summary: 'Atrium: a modern Boost child theme for Moodle 5.1+ with a collapsible 
   and bundled fonts.'
 dependencies:
   theme_boost: 2025100600
-metrics:
-  updated: '2026-10-01T09:51:35Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

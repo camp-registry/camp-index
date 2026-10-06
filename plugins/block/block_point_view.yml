@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: 'Moodle block Point of View : https://moodle.org/plugins/block_point_view'
-metrics:
-  updated: '2021-11-18T10:08:14Z'
-  stars: 4
-  forks: 4
-  open-issues: 8
-  archived: false
-  latest-release:
-    tag: v1.5.0
-    date: '2020-10-26T23:41:54Z'
-  latest-tag:
-    tag: v1.5.0
-    date: '2020-10-26T23:37:53Z'
-  checked: '2026-10-01'

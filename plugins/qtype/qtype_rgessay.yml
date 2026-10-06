@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Rubric graded essay question type for Moodle
-metrics:
-  updated: '2025-07-01T07:36:40Z'
-  stars: 1
-  forks: 2
-  open-issues: 0
-  archived: true
-  latest-tag:
-    tag: v0.3.2
-    date: '2019-08-26T13:44:47Z'
-  checked: '2026-10-05'

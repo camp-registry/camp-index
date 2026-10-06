@@ -10,11 +10,4 @@ license: GPL-3.0
 dependencies:
   theme_boost: any
   format_topcoll: any
-metrics:
-  updated: '2020-06-30T12:39:55Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 summary: Theme Savoir

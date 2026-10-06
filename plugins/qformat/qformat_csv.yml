@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: This plugin will be used to import multichoice( 4 choices ) questions having
   one or two answers from a CSV(Comma separated value) file into the question bank
   and only multichoice questions are supported as of now.
-metrics:
-  updated: '2025-05-09T07:08:39Z'
-  stars: 5
-  forks: 5
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v5.0
-    date: '2025-05-09T07:08:39Z'
-  latest-tag:
-    tag: v5.0
-    date: '2025-05-09T07:07:31Z'
-  checked: '2026-10-05'

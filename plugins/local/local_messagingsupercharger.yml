@@ -23,13 +23,6 @@ releases:
   released: '2026-10-04T13:55:21Z'
 license: GPL-3.0
 summary: Supercharge Moodle Messaging
-metrics:
-  updated: '2026-09-30T23:54:31Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'
 security-contact: https://github.com/adamjenkins/moodle-local_messagingsupercharger/security
 labels:
 - fully-free

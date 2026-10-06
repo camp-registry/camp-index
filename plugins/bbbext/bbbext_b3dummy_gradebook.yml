@@ -8,10 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Moodle BigBlueButtonBN Sub Plugin for testing extension of gradebook
-metrics:
-  updated: '2024-08-28T14:20:12Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

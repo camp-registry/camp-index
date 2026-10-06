@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-11-13T06:57:34Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '2024080901'
-    date: '2024-11-13T06:57:34Z'
-  checked: '2026-09-30'
 summary: moodle-tinycorrections

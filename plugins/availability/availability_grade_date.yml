@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A moodle availability condition to require a grade be achieved by a certain
   date
-metrics:
-  updated: '2017-01-10T22:41:57Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-21'

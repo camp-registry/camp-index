@@ -14,14 +14,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Fill in the blanks question type with very easy to learn syntax
-metrics:
-  updated: '2026-09-13T20:45:29Z'
-  stars: 8
-  forks: 26
-  open-issues: 18
-  archived: false
-  latest-release:
-    tag: v2.31
-    date: '2026-04-03T20:33:55Z'
-  checked: '2026-09-28'
-  ci: moodle-plugin-ci

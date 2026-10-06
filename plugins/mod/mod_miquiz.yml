@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Integrate MI-Quiz in Moodle, to use already existing Moodle structures like
   questions and courses
-metrics:
-  updated: '2026-09-18T11:10:26Z'
-  stars: 1
-  forks: 1
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: v5.0
-    date: '2026-09-16T14:33:49Z'
-  checked: '2026-10-05'

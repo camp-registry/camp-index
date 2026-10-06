@@ -10,12 +10,5 @@ license: GPL-3.0
 dependencies:
   mod_quiz: 2022041900
   qtype_stack: any
-metrics:
-  updated: '2026-08-18T11:31:38Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: A Moodle local plugin that builds two Analytics API prediction models plus
   a

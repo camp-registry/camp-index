@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: This plugin can programate task with to realice backups of the all courses
   in a category.
-metrics:
-  updated: '2025-06-03T05:22:48Z'
-  stars: 0
-  forks: 2
-  open-issues: 1
-  archived: false
-  checked: '2026-09-30'

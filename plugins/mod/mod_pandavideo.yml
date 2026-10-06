@@ -12,16 +12,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-12T17:43:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.0.13
-    date: '2025-11-19T10:59:36Z'
-  checked: '2026-09-27'
-  ci: moodle-plugin-ci
 summary: Activity with secure playback, progress tracking, and completion for Panda
   videos.

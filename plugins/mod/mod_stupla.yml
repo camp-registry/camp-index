@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle module for study2000 (Studierplatz 2000)
-metrics:
-  updated: '2023-10-24T09:14:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v3.9.2
-    date: '2023-10-24T09:14:05Z'
-  checked: '2026-09-28'

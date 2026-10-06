@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-01T15:33:13Z'
-  stars: 1
-  forks: 2
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: MR-3.9-MP1
-    date: '2021-01-26T18:31:39Z'
-  checked: '2026-10-02'
 summary: Snap feeds is a block, which uses Snap theme’s advanced feeds API

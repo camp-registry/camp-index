@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Implements Mpay24 as a moodle payment gateway
-metrics:
-  updated: '2026-09-18T09:51:24Z'
-  stars: 0
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: v0.0.10
-    date: '2024-08-19T10:02:18Z'
-  checked: '2026-10-05'

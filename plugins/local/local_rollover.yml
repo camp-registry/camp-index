@@ -8,13 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Rollover Plugin
-metrics:
-  updated: '2016-08-22T10:16:12Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-26'
 dependencies:
   local_nagios: 2015060500
   local_notifications: 2015062500

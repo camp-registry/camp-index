@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Public Moodle Repository Plugin for Inokufu Search technologies
-metrics:
-  updated: '2024-06-20T13:39:32Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1.0
-    date: '2024-06-20T13:39:32Z'
-  checked: '2026-09-29'
 dependencies:
   local_inokufu: 2024061700

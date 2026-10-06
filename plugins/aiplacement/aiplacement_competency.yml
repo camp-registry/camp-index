@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: This plugin uses Moodle's AI backend to integrate with an LLM. The plugin
   allows teachers to configure course and module competencies based on the LLM's classification
   of course module content.
-metrics:
-  updated: '2026-09-23T16:49:15Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '2026092300'
-    date: '2026-09-23T16:49:15Z'
-  latest-tag:
-    tag: '2026092300'
-    date: '2026-09-23T16:48:27Z'
-  checked: '2026-10-04'

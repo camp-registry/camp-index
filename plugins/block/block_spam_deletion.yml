@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Spam deletion block for Moodle
-metrics:
-  updated: '2015-06-04T15:06:35Z'
-  stars: 2
-  forks: 5
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: v0.3
-    date: '2013-07-17T09:49:13Z'
-  checked: '2026-10-02'

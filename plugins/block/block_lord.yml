@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Learning Object Relation Discovery (LORD) plugin for Moodle LMS
-metrics:
-  updated: '2023-03-06T21:10:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

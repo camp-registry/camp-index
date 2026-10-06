@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   block_dash: 2026032400
-metrics:
-  updated: '2026-07-28T12:25:57Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: This is the local companion plugin for the additional features (addons) in
   Dash Plus, Dash Pro and Dash Premium.

@@ -7,18 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-03-18T14:44:23Z'
-  stars: 1
-  forks: 4
-  open-issues: 3
-  archived: false
-  latest-release:
-    tag: v1.4
-    date: '2026-03-18T14:44:23Z'
-  latest-tag:
-    tag: v1.4
-    date: '2026-03-18T14:38:31Z'
-  checked: '2026-10-02'
 summary: 'The Social Comments block for Moodle makes learning more engaging by adding
   the following features (among others):'

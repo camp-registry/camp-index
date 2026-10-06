@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Answering times for questions in a quiz
-metrics:
-  updated: '2025-05-22T13:12:29Z'
-  stars: 1
-  forks: 3
-  open-issues: 8
-  archived: false
-  latest-release:
-    tag: v1.0.2
-    date: '2025-05-22T13:12:29Z'
-  checked: '2026-09-28'
 dependencies:
   quizaccess_quiztimer: 0

@@ -7,12 +7,5 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2022-03-24T17:15:54Z'
-  stars: 1
-  forks: 0
-  open-issues: 2
-  archived: false
-  checked: '2026-09-30'
 summary: The iScholar <> Moodle Synchronization integration aims to easily, quickly
   and conveniently send data from your iScholar to Moodle.

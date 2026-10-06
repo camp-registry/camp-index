@@ -11,10 +11,3 @@ summary: That is a report plugin that helps the admin to known how the questionn
   activities are being used by users.
 dependencies:
   mod_questionnaire: any
-metrics:
-  updated: '2022-08-16T13:13:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 4
-  archived: false
-  checked: '2026-10-01'

@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-18T15:47:15Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.5
-    date: '2026-09-01T16:51:04Z'
-  checked: '2026-09-29'
 summary: This plugin displays a report page and matches user accounts in Moodle with
   an LDAP

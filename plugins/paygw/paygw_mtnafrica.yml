@@ -8,12 +8,5 @@ discovered: '2026-07-10'
 releases: []
 summary: Pay Moodle courses using MTN Africa
 license: GPL-3.0
-metrics:
-  updated: '2026-09-23T07:25:43Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-28'
 dependencies:
   enrol_fee: any

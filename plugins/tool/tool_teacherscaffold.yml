@@ -20,13 +20,6 @@ releases:
   released: '2026-10-04T13:38:33Z'
 license: GPL-3.0
 summary: Setup "beginner" Moodle and ease teachers into using the LMS
-metrics:
-  updated: '2026-09-30T08:54:38Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'
 security-contact: https://github.com/adamjenkins/moodle-tool_teacherscaffold/security
 labels:
 - fully-free

@@ -9,11 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   theme_bootstrapbase: 2018050800
-metrics:
-  updated: '2019-10-09T14:08:14Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 summary: / How to copy and customise this theme.

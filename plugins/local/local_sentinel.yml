@@ -30,15 +30,4 @@ releases:
   - 502
   maturity: stable
 license: GPL-3.0
-metrics:
-  updated: '2026-09-14T21:15:18Z'
-  stars: 0
-  forks: 0
-  open-issues: 3
-  archived: false
-  latest-release:
-    tag: v2.22.4
-    date: '2026-09-14T21:15:30Z'
-  checked: '2026-09-26'
-  ci: moodle-plugin-ci
 summary: Per-instance Moodle plugin that exposes operational health, environment details,

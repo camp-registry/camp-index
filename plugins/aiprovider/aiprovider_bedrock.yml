@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Amazon Bedrock Moodle AI Provider
-metrics:
-  updated: '2026-03-08T21:06:49Z'
-  stars: 2
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: v1.0.1
-    date: '2025-03-31T21:43:02Z'
-  checked: '2026-10-04'

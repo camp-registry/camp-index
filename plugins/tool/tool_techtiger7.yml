@@ -9,11 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_data: any
-metrics:
-  updated: '2019-01-27T12:48:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'
 summary: 'Description: A basic plugin demonnstrating ability to make moodle plugins'

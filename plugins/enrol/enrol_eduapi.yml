@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: Sync organizations, courses, users and enrolments from any 1EdTech Edu-API
   v1p0 provider into Moodle. Configurable course level, role and enrollment-status
   mappings, user matching with optional account creation, and an on-demand sync webhook.
-metrics:
-  updated: '2026-09-01T07:10:17Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.2.0
-    date: '2026-09-01T06:52:58Z'
-  checked: '2026-10-04'

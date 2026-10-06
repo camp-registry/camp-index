@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Disable Right Click(Context Menu), Cut, Copy, Paste and developer options
-metrics:
-  updated: '2023-09-18T09:00:13Z'
-  stars: 3
-  forks: 8
-  open-issues: 12
-  archived: false
-  latest-release:
-    tag: 1.2.0
-    date: '2020-08-15T17:14:06Z'
-  latest-tag:
-    tag: 1.2.0
-    date: '2020-08-15T17:10:24Z'
-  checked: '2026-10-04'

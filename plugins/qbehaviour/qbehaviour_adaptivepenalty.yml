@@ -8,12 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle adaptive quiz mode with extra penalty
-metrics:
-  updated: '2016-02-24T19:40:23Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-28'
 dependencies:
   qbehaviour_adaptive: 2013110500

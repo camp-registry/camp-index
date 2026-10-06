@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Send an activation link when creating a new user account instead of a clear
   text password.
-metrics:
-  updated: '2026-07-24T18:20:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

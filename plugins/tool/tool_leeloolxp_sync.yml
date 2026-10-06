@@ -11,10 +11,3 @@ summary: This tool will synchronize data from Moodle LMS to Leeloo LXP. For your
   you can also use the Leeloo LXP Synchronization block, for quick and easy settings.
 dependencies:
   auth_leeloolxp_tracking_sso: 2021030101
-metrics:
-  updated: '2023-03-13T11:51:11Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

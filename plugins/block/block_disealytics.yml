@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-23T08:47:47Z'
-  stars: 8
-  forks: 1
-  open-issues: 5
-  archived: false
-  checked: '2026-10-01'
 summary: The Learner Dashboard is a Moodle Block Plugin and offers a visual representation
   of the student's learning progress based on various factors and the opportunity
   for self-reflection. The main target group are online students.

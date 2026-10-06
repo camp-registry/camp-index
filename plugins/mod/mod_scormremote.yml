@@ -9,10 +9,3 @@ releases: []
 license: AGPL-3.0
 summary: A Moodle activity for serving SCORM packages remotely to another LMS across
   domains
-metrics:
-  updated: '2026-07-24T13:32:56Z'
-  stars: 12
-  forks: 7
-  open-issues: 27
-  archived: false
-  checked: '2026-09-28'

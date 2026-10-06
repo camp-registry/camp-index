@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: A Moodle admin tool to sync competency frameworks from an external database.
-metrics:
-  updated: '2017-03-27T07:19:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 dependencies:
   tool_lp: 2015052416

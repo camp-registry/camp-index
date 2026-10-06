@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Easily use enrolkeys from anywhere in moodle
-metrics:
-  updated: '2021-03-26T00:29:09Z'
-  stars: 4
-  forks: 1
-  open-issues: 4
-  archived: false
-  latest-tag:
-    tag: '2019120600'
-    date: '2019-12-19T04:37:57Z'
-  checked: '2026-10-01'
 dependencies:
   auth_enrolkey: 2018061900

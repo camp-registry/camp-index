@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: A Dashboard block showing each course's completion progress with a direct
   link to the learner's next unfinished activity, plus filters for in-progress, completed
   and overdue courses.
-metrics:
-  updated: '2026-08-28T19:50:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-08-28T19:50:34Z'
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-08-28T19:42:36Z'
-  checked: '2026-10-04'

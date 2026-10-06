@@ -11,16 +11,3 @@ summary: This local plugin automates the process of restricting access to course
   applies a "prevent access after course end date" availability restriction to all
   modules that are tracked for course completion.
 license: GPL-3.0
-metrics:
-  updated: '2026-09-14T09:58:29Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1.1
-    date: '2026-09-14T09:58:30Z'
-  latest-tag:
-    tag: v1.1.1
-    date: '2026-09-14T09:53:55Z'
-  checked: '2026-10-04'

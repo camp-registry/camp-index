@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: The PoodLL field for the Moodle Dataform mod
-metrics:
-  updated: '2018-04-10T06:54:09Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-21'
 dependencies:
   filter_poodll: 2012120400

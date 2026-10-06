@@ -7,19 +7,6 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-31T17:42:07Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-08-31T17:42:07Z'
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-08-31T17:40:51Z'
-  checked: '2026-10-04'
 summary: localcancelamentomatriculas é um plugin local para Moodle que permite a usuários
   autorizados gerenciar, em uma única tela, as inscrições de um usuário em vários
   cursos.

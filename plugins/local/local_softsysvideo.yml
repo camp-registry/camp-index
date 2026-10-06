@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: SoftSys Video companion plugin for Moodle — extends mod_bigbluebutton with
   credits, analytics, AI summary, chat export and support
-metrics:
-  updated: '2026-07-20T01:58:28Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.1.0
-    date: '2026-04-07T00:25:34Z'
-  checked: '2026-09-26'

@@ -7,14 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-20T22:22:09Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v0.1.8
-    date: '2026-08-20T22:16:52Z'
-  checked: '2026-10-04'
 summary: Muestra la calificación total del curso en las tarjetas del bloque

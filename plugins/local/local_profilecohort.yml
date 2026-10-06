@@ -9,10 +9,3 @@ releases: []
 summary: Moodle plugin which lets admins manage cohort memberships based on users'
   custom profile fields
 license: GPL-3.0
-metrics:
-  updated: '2026-07-04T20:57:11Z'
-  stars: 24
-  forks: 18
-  open-issues: 0
-  archived: false
-  checked: '2026-09-26'

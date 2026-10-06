@@ -9,16 +9,6 @@ releases: []
 license: GPL-3.0
 summary: Moodle plugin that allow users to embed LTI content into the TinyMCE rich
   text editor.
-metrics:
-  updated: '2026-08-03T13:52:46Z'
-  stars: 5
-  forks: 5
-  open-issues: 7
-  archived: false
-  latest-release:
-    tag: '2026073000'
-    date: '2026-08-03T13:52:47Z'
-  checked: '2026-09-30'
 dependencies:
   block_panopto: 2022122000
   mod_lti: any

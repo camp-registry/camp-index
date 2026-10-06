@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Based on the Moodle rubrics grading method but with added criteria and penalty
   types.
-metrics:
-  updated: '2026-07-13T21:20:57Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

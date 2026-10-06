@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Quiz report analysis plugin for Moodle based on "S-P表分析法(Student-Problem
   Score Table Analysis)" theory.
-metrics:
-  updated: '2024-02-09T11:24:45Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

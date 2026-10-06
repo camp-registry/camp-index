@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-07-26T17:04:42Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: v1.0.2
-    date: '2026-07-26T17:04:33Z'
-  checked: '2026-10-02'
 summary: A student-facing block that aggregates every upcoming deadline across all
   of a

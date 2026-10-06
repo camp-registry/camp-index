@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: This block improves an visualization of pending activities of user enrolled
   courses in the moodle plataform.
-metrics:
-  updated: '2018-04-24T14:21:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.1
-    date: '2018-04-24T14:21:07Z'
-  latest-tag:
-    tag: v1.1
-    date: '2018-04-24T14:19:20Z'
-  checked: '2026-10-01'

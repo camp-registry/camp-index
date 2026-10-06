@@ -11,10 +11,3 @@ summary: 'Clean Grader Report is a local plugin that enhances the Moodle gradebo
   by providing teachers with a simplified, print-friendly version of individual student
   grade reports. This plugin is designed specifically for parent-teacher conferences
   and student progress meetings where a clean, professional '
-metrics:
-  updated: '2026-09-10T19:49:58Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

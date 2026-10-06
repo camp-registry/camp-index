@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Redirection Utility
-metrics:
-  updated: '2024-10-16T15:15:01Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1.1
-    date: '2024-10-16T15:15:01Z'
-  checked: '2026-09-26'
 dependencies:
   local_obu_metalinking: 2024072902

@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Page tracker tracks page visits and provid smart monitoring and page backlinks
-metrics:
-  updated: '2026-04-23T15:46:26Z'
-  stars: 1
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 4.5.0005
-    date: '2025-09-25T14:39:23Z'
-  checked: '2026-10-01'
 dependencies:
   format_page: 2019091601

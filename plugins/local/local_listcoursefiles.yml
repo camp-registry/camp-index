@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Plugin listcoursefiles
-metrics:
-  updated: '2026-07-29T06:01:01Z'
-  stars: 2
-  forks: 3
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: v1.5.0
-    date: '2025-03-06T06:55:06Z'
-  checked: '2026-09-25'

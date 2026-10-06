@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-28T06:28:30Z'
-  stars: 4
-  forks: 8
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 3.2.9
-    date: '2026-09-28T06:27:15Z'
-  checked: '2026-10-01'
 summary: myexternalbackuprestorecourses is a Moodle block that enable a user to restore
   courses from external moodles

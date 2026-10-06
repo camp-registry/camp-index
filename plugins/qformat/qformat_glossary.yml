@@ -11,16 +11,3 @@ summary: A question format plugin to convert between quiz questions and glossary
 dependencies:
   mod_glossary: 2013110500
   qformat_xml: 2013110500
-metrics:
-  updated: '2026-09-22T15:14:19Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v1.0.3
-    date: '2025-07-06T20:59:25Z'
-  latest-tag:
-    tag: v1.0.3
-    date: '2025-07-06T20:41:42Z'
-  checked: '2026-10-05'

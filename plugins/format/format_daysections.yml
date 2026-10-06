@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   format_topics: 2026042000
-metrics:
-  updated: '2026-09-03T03:00:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'
 summary: Moodle course format that shows the course as numbered day sections (Day
   1, Day 2, Day 3, …), based on Topics format.

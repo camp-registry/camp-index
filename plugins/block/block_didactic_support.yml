@@ -11,10 +11,3 @@ summary: Moodle block plugin for contacting the support team and sending error e
   directly from a course or the dashboard. Features a modal form, configurable subject
   dropdown, validated file attachments (PDF, docs, images, ZIP), and a branded HTML
   email sent to the support inbox.
-metrics:
-  updated: '2026-09-03T20:19:35Z'
-  stars: 0
-  forks: 0
-  open-issues: 3
-  archived: false
-  checked: '2026-10-04'

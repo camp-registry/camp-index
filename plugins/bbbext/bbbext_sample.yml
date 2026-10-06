@@ -9,11 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_bigbluebuttonbn: 2023032201
-metrics:
-  updated: '2023-03-23T21:35:05Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-10-04'
 summary: BigblueButton Extension - Sample

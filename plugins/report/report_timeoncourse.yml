@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'Time on Course: learner time evidence reports for Moodle 4.5-5.2, from the
   standard log, with the method printed on every export.'
-metrics:
-  updated: '2026-09-17T22:57:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

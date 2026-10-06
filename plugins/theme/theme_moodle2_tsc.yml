@@ -8,10 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Moodle 2 theme for sheffcol VLE
-metrics:
-  updated: '2013-02-07T14:47:25Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-30'

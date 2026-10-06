@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2017-01-21T16:37:57Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'
 summary: MY MAIL BLOCK PLUGIN
 dependencies:
   local_mail: 2014050100

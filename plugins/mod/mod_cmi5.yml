@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-27T02:52:51Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v0.1.0
-    date: '2026-09-19T01:03:47Z'
-  checked: '2026-09-27'
 summary: A self-contained cmi5 activity module for Moodle 4.1+ with a built-in xAPI
   proxy/LRS, content library, and metrics dashboard. No external LRS or player required.

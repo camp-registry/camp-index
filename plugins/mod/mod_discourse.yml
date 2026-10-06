@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A moodle plugin based on the concept of the deliberation-based pyramid discussion
   that offers the possibility to conduct group discussions in a multi-step procedure.
-metrics:
-  updated: '2026-06-07T18:41:56Z'
-  stars: 2
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: 1.3.0
-    date: '2026-06-07T18:41:56Z'
-  checked: '2026-09-27'

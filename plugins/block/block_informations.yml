@@ -8,16 +8,3 @@ discovered: '2026-07-10'
 releases: []
 summary: Moodle block plugin displaying license informations.
 license: GPL-3.0
-metrics:
-  updated: '2024-07-15T14:50:16Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.0.1
-    date: '2024-07-15T14:50:16Z'
-  latest-tag:
-    tag: 1.0.1
-    date: '2024-07-15T14:38:13Z'
-  checked: '2026-10-01'

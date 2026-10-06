@@ -8,13 +8,6 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Hi Contrast yellow on blue variation of theme
-metrics:
-  updated: '2016-11-17T09:41:34Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 dependencies:
   theme_bootstrap: 2016080100
   theme_uniglos: 2016080806

@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: HTML block with a default template (can be used with generico filter)
-metrics:
-  updated: '2020-11-14T22:44:51Z'
-  stars: 3
-  forks: 1
-  open-issues: 0
-  archived: true
-  latest-release:
-    tag: 3.9.0
-    date: '2020-06-25T17:37:32Z'
-  latest-tag:
-    tag: 3.9.0
-    date: '2020-05-09T09:00:07Z'
-  checked: '2026-10-01'

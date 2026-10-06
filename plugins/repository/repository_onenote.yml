@@ -8,15 +8,5 @@ discovered: '2026-07-10'
 releases: []
 summary: OneNote Repo plugin for Moodle
 license: GPL-3.0
-metrics:
-  updated: '2023-06-14T15:20:07Z'
-  stars: 13
-  forks: 11
-  open-issues: 0
-  archived: true
-  latest-release:
-    tag: v3.1.0.0
-    date: '2016-07-25T05:01:39Z'
-  checked: '2026-09-29'
 dependencies:
   local_onenote: 2016062000

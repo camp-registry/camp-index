@@ -11,10 +11,3 @@ summary: This plugins allows students to receive a notification as soon as new m
   becomes uploaded.
 dependencies:
   local_changeloglib: 2017123100
-metrics:
-  updated: '2018-05-06T12:03:45Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-02'

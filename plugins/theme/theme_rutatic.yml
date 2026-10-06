@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: A theme for the Moodle LMS
 dependencies:
   theme_boost: 2017051500
-metrics:
-  updated: '2019-09-26T00:01:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: MNet Remote Enrolments plugin for Moodle
-metrics:
-  updated: '2025-02-03T03:25:01Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  latest-tag:
-    tag: v4.5.1
-    date: '2024-10-07T02:34:51Z'
-  checked: '2026-10-02'

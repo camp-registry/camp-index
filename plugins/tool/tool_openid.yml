@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Admin tool for openid to manage servers
 dependencies:
   auth_openid: any
-metrics:
-  updated: '2019-10-29T03:12:15Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

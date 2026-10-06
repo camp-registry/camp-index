@@ -7,11 +7,4 @@ status: active
 discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2013-11-12T13:39:23Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
 summary: Christmas is a fluid-width 2 column theme based on Binarius, for Moodle 2.4.

@@ -8,10 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: See https://tracker.moodle.org/browse/MDL-53023
-metrics:
-  updated: '2016-02-22T11:32:01Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

@@ -10,10 +10,3 @@ license: GPL-3.0
 dependencies:
   block_importqueue: 2015020501
   auth_kronosportal: 2015012802
-metrics:
-  updated: '2019-01-23T20:50:34Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

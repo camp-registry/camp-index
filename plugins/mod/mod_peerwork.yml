@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-06-04T15:10:27Z'
-  stars: 8
-  forks: 13
-  open-issues: 14
-  archived: false
-  checked: '2026-09-27'
 summary: This is a peer work group assignment activity for Moodle.
 dependencies:
   peerworkcalculator_webpa: 2020052200

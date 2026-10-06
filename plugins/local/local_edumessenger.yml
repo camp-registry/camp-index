@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Plugin to manage registration and cronjob to produce push-notifications for
   Moodle
-metrics:
-  updated: '2019-11-18T13:48:49Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'
 dependencies:
   local_eduauth: 2019071000

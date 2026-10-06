@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Moodle activity module for presenting PDF files as an interactive flipbook.
-metrics:
-  updated: '2026-07-30T14:22:57Z'
-  stars: 0
-  forks: 0
-  open-issues: 5
-  archived: false
-  latest-tag:
-    tag: v2026072500
-    date: '2026-07-24T17:19:25Z'
-  checked: '2026-10-05'

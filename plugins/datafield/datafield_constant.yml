@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: CONSTANT field type for the Database activity in Moodle >= 2.3
-metrics:
-  updated: '2025-02-04T05:16:45Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 2025-02-04-(25)
-    date: '2025-02-04T05:16:40Z'
-  checked: '2026-10-02'
 dependencies:
   datafield_admin: any

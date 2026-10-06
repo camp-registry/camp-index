@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   filter_chemjax: 2026071600
-metrics:
-  updated: '2026-08-04T03:43:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: A TinyMCE editor plugin for Moodle that provides a dialog for inserting ChemJax
   chemistry notation with live preview support.

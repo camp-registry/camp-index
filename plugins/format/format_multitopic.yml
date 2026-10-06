@@ -8,18 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Shows multiple topics per page, with tabbed navigation between pages.
-metrics:
-  updated: '2026-09-14T08:09:48Z'
-  stars: 5
-  forks: 7
-  open-issues: 18
-  archived: false
-  latest-release:
-    tag: v5.2.0
-    date: '2026-07-21T11:29:07Z'
-  latest-tag:
-    tag: v5.2.0
-    date: '2026-07-21T11:08:42Z'
-  checked: '2026-10-03'
 dependencies:
   format_topics: 2025041400

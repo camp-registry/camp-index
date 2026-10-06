@@ -8,13 +8,3 @@ discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
 summary: Theme de base pour le moodle PAM
-metrics:
-  updated: '2021-07-27T13:48:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1
-    date: '2017-07-08T10:52:41Z'
-  checked: '2026-09-29'

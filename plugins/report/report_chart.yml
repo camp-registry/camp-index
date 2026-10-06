@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Implementation of Moodle plugin to visualize the performance of the students
   in various courses/exams using a power D3js library.
-metrics:
-  updated: '2019-04-09T11:57:25Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: The Moodle plugin to integrate with Motrain
-metrics:
-  updated: '2026-08-05T08:54:38Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.14.12
-    date: '2026-08-05T08:54:28Z'
-  checked: '2026-10-01'

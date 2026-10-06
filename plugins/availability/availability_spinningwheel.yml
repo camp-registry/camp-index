@@ -9,15 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Moodle 5+ availability condition plugin — restrict activity access based
   on Spinning Wheel spins
-metrics:
-  updated: '2026-05-28T21:11:00Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-05-28T21:11:01Z'
-  checked: '2026-09-25'
 dependencies:
   mod_spinningwheel: 2026041100

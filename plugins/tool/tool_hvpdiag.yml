@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: H5P Moodle plugin diagnostics
-metrics:
-  updated: '2018-05-24T12:59:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 dependencies:
   mod_hvp: any

@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: NCM Boost Theme for Moodle
 dependencies:
   theme_boost: 2018051400
-metrics:
-  updated: '2021-10-15T03:40:40Z'
-  stars: 0
-  forks: 2
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.6
-    date: '2019-10-03T00:59:02Z'
-  checked: '2026-09-30'

@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Provides overall navigation and visual completion monitoring over a selection
   of courses
-metrics:
-  updated: '2025-11-26T11:09:43Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 4.5.0000
-    date: '2025-04-28T10:21:01Z'
-  checked: '2026-10-01'

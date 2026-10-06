@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Switch a Moodle course between self-paced and teacher-guided learning overviews.
 dependencies:
   format_topics: any
-metrics:
-  updated: '2026-09-29T22:58:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-03'

@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A lightweight, configurable attendance control activity module for Moodle,
   designed for vocational training centres.
-metrics:
-  updated: '2026-03-03T15:29:48Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-03-03T15:30:12Z'
-  checked: '2026-09-27'

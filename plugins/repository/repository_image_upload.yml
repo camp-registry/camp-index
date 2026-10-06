@@ -9,10 +9,3 @@ releases: []
 license: LGPL-3.0
 summary: A Moodle plugin which allows to crop/re-size/rotate/flip images when inserting
   them and automatically re-size them
-metrics:
-  updated: '2015-06-05T05:08:29Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

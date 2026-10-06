@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: The XMLRPC webservice that was removed from core in Moodle 4.1
-metrics:
-  updated: '2024-04-22T10:21:10Z'
-  stars: 1
-  forks: 3
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.0.4
-    date: '2023-09-20T17:19:19Z'
-  latest-tag:
-    tag: 1.0.4
-    date: '2023-09-20T17:11:40Z'
-  checked: '2026-10-01'

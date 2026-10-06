@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   theme_boost: 2019051100
-metrics:
-  updated: '2021-05-27T04:13:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

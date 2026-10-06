@@ -7,17 +7,4 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-08-18T08:56:36Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.7.1
-    date: '2021-08-18T08:56:36Z'
-  latest-tag:
-    tag: v2.7.1
-    date: '2021-08-18T08:06:42Z'
-  checked: '2026-10-01'
 summary: This is my first plugin created during the Moodle induction process.

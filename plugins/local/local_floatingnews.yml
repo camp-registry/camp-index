@@ -7,18 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-06-22T19:00:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-06-22T18:55:26Z'
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-06-22T18:31:15Z'
-  checked: '2026-10-05'
 summary: Floating News Panel is a Moodle local plugin that displays a customizable
   floating news panel with images, text, links and multiple display modes.

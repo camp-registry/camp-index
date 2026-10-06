@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Very simple example plugin, created for a presentation at the UK Moodle Moot
   2014
-metrics:
-  updated: '2014-02-21T12:16:31Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-27'

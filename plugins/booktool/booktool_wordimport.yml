@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Microsoft Word file import plugin for the Moodle book module.
 dependencies:
   booktool_importhtml: 2020061500
-metrics:
-  updated: '2025-04-30T15:42:39Z'
-  stars: 5
-  forks: 21
-  open-issues: 6
-  archived: false
-  checked: '2026-10-02'

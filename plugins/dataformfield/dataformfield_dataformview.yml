@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 summary: A dataformfield plugin for Moodle dataform module that displays the content
   of a selected dataform view with optional filtering based on entry content.
-metrics:
-  updated: '2015-10-10T08:22:25Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-21'
 dependencies:
   mod_dataform: 2014111006

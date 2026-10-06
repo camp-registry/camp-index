@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Multi-course training pathway management with completion tracking
-metrics:
-  updated: '2026-08-13T01:52:17Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.0.9
-    date: '2026-08-13T01:52:15Z'
-  checked: '2026-10-05'

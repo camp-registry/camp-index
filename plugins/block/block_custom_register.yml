@@ -16,11 +16,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A moodle block to save register information with custom forms.
-metrics:
-  updated: '2026-08-19T19:24:38Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-25'
-  ci: moodle-plugin-ci

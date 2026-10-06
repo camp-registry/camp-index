@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Textregex profilefield plugin allows to have a short text input field with
   regex validation. Enabling to ensure a valid format of the field data.
-metrics:
-  updated: '2025-04-14T09:39:18Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.1
-    date: '2025-04-14T09:39:18Z'
-  checked: '2026-09-28'

@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Moodle question import from Canvas QTI 1.2 IMS Content Package
 dependencies:
   qformat_canvas: any
-metrics:
-  updated: '2020-05-19T17:59:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-28'

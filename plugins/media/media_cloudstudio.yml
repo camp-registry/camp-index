@@ -12,15 +12,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-01-31T13:52:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.0.4
-    date: '2025-01-06T21:07:29Z'
-  checked: '2026-09-27'
-  ci: moodle-plugin-ci
 summary: Automatically embed CloudStudio videos in text and pages.

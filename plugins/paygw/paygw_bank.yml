@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle payment gateway that allow manual payments
-metrics:
-  updated: '2026-02-15T15:05:51Z'
-  stars: 7
-  forks: 10
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: 1.0.6
-    date: '2024-03-25T10:49:32Z'
-  checked: '2026-09-28'

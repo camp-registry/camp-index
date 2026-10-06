@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 dependencies:
   tiny_panoptoltibutton: 2025112600
-metrics:
-  updated: '2026-09-28T13:02:42Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

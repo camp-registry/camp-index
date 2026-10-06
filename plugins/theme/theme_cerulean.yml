@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: A Moodle child theme for Bootstrap 3
 dependencies:
   theme_bootstrap: 2014051300
-metrics:
-  updated: '2014-05-14T07:30:25Z'
-  stars: 5
-  forks: 9
-  open-issues: 4
-  archived: false
-  checked: '2026-10-01'

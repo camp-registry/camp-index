@@ -7,19 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2023-08-09T10:10:21Z'
-  stars: 1
-  forks: 2
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v4.1.02
-    date: '2023-03-03T10:45:23Z'
-  latest-tag:
-    tag: v4.1.02
-    date: '2023-03-03T10:37:56Z'
-  checked: '2026-10-01'
 summary: Block derived from the myoverview block that will just display all courses
   a user
 dependencies:

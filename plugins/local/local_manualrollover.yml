@@ -9,15 +9,5 @@ releases: []
 license: GPL-3.0
 summary: A Moodle plugin that automates the copying of content between specified source
   and target courses.
-metrics:
-  updated: '2025-10-05T17:22:04Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.5.0.0
-    date: '2025-10-05T17:22:04Z'
-  checked: '2026-09-25'
 dependencies:
   local_obu_group_manager: 2024081202

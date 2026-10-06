@@ -11,13 +11,3 @@ summary: Alphabees' plugin integrates a powerful AI tutor chat widget into Moodl
   enabling precise placement through Moodle's block structure. It seamlessly combines
   integration with a high-quality custom UI and backend, fully customizable via the
   Alphabees portal.
-metrics:
-  updated: '2026-09-17T05:43:05Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v3.0.0
-    date: '2026-05-10T18:16:04Z'
-  checked: '2026-09-25'

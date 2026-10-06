@@ -11,10 +11,3 @@ summary: 'Activity Rescheduler & Interactive Timeline for Moodle:   A local plug
   for Moodle 4.x and 5.x that provides an interactive timeline (GANTT chart) and advanced
   tools for visual rescheduling, automated sequencing, and precise date editing of
   course activities with atomic, safe subsystem synchronizat'
-metrics:
-  updated: '2026-10-02T10:26:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Single sign-on to SavaPage User Web App from Moodle learning platform
-metrics:
-  updated: '2026-07-24T12:20:40.545Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-02'

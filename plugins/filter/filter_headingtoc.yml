@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'A table of contents built from the headings in your content, with anchors
   that survive Moodle''s purifier (Moodle plugin: filter_headingtoc) — by Rosseys'
-metrics:
-  updated: '2026-08-04T03:47:35Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-07-31T02:26:26Z'
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-07-31T02:06:31Z'
-  checked: '2026-10-04'

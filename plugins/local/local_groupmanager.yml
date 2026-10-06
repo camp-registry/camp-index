@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Groups Management for Moodle — bulk enrolment, smart group rules, and cross-course
   group sync
-metrics:
-  updated: '2026-08-13T01:52:33Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v2.0.23
-    date: '2026-08-13T01:52:31Z'
-  checked: '2026-10-05'

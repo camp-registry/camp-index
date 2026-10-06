@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Creates a single activity Moodle LMS course & import a SCORM package from
   the command line. Supports single or batch processing.
-metrics:
-  updated: '2024-07-31T05:39:58Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

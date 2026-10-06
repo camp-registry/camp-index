@@ -8,12 +8,5 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: A report extension to VMoodle
-metrics:
-  updated: '2018-10-08T14:29:29Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
 dependencies:
   local_vmoodle: 2017090101

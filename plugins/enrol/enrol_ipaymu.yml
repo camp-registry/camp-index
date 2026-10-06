@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: iPaymu Plugin Moodle Enrolment
-metrics:
-  updated: '2025-10-03T07:58:50Z'
-  stars: 1
-  forks: 1
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: v1.0.1
-    date: '2024-09-03T14:14:09Z'
-  latest-tag:
-    tag: v1.0.2
-    date: '2025-10-03T07:57:30Z'
-  checked: '2026-10-02'

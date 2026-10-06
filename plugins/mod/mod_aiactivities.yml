@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: AI-generated learning activity suite for Moodle courses
-metrics:
-  updated: '2026-09-09T09:51:44Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.9.1
-    date: '2026-09-09T09:51:43Z'
-  checked: '2026-10-05'

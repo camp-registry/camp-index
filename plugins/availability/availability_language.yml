@@ -4,8 +4,7 @@ source-repo-id: 22312099
 maintainers:
 - github: ewallah
 tier: 2
-security-contact: >-
-  https://github.com/ewallah/moodle-availability_language/security/advisories/new
+security-contact: https://github.com/ewallah/moodle-availability_language/security/advisories/new
 labels:
 - fully-free
 status: active
@@ -25,10 +24,3 @@ releases:
   released: '2026-10-04T12:03:13Z'
 summary: Restrict module and section access based on user language.
 license: GPL-3.0
-metrics:
-  updated: '2026-09-24T10:04:12Z'
-  stars: 6
-  forks: 7
-  open-issues: 0
-  archived: false
-  checked: '2026-09-25'

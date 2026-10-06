@@ -12,16 +12,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Elegant, responsive, and customizable theme with a distinctive visual identity.
-metrics:
-  updated: '2026-09-26T00:51:48Z'
-  stars: 4
-  forks: 2
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: 9.7.1
-    date: '2026-08-06T11:39:59Z'
-  checked: '2026-09-29'
-  ci: moodle-plugin-ci
 dependencies:
   theme_boost: 2024042200

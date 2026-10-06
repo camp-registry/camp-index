@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle Enrolment Plugin for the UCSF Student Information System
-metrics:
-  updated: '2026-09-28T19:46:01Z'
-  stars: 0
-  forks: 3
-  open-issues: 1
-  archived: false
-  checked: '2026-10-02'

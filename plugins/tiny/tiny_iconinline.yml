@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Initial commit
-metrics:
-  updated: '2026-04-27T13:50:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-04-27T13:50:22Z'
-  checked: '2026-09-30'

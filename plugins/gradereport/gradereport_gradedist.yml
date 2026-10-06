@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: The Grade Distribution visualizes the distribution of the participants' letter
   grades in the grades overview. Changes to letter grades can be visually analysed,
   saved and overwritten if necessary.
-metrics:
-  updated: '2026-08-13T18:14:33Z'
-  stars: 5
-  forks: 1
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: v5.2.0
-    date: '2026-05-13T12:33:14Z'
-  checked: '2026-10-04'

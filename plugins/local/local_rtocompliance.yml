@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: AVETMISS-compliant reporting and NAT file generation for Australian RTOs
-metrics:
-  updated: '2026-09-25T05:35:47Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v6.6.3
-    date: '2026-09-25T05:35:45Z'
-  checked: '2026-10-05'

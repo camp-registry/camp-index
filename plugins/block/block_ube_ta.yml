@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Teaching Assistant ChatBot in a Moodle Block
-metrics:
-  updated: '2024-07-04T18:32:13Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: Main-1.7.4.1
-    date: '2024-07-04T18:28:49Z'
-  latest-tag:
-    tag: Main-1.7.4.1
-    date: '2024-07-04T18:30:55Z'
-  checked: '2026-10-02'

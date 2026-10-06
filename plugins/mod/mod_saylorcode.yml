@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: 'Saylor Code Studio activity: guided lessons, challenges, projects and playgrounds.
   Moodle 4.5.'
-metrics:
-  updated: '2026-10-03T02:40:25Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-05'

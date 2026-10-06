@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2017-08-25T01:10:11Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0
-    date: '2016-05-09T08:08:12Z'
-  checked: '2026-09-30'
 summary: This is an importer for XML/RDF formatted curriculum files from the
 dependencies:
   tool_lp: 2015052416

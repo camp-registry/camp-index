@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-19T15:48:49Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: 1.1.0
-    date: '2026-08-19T15:48:49Z'
-  checked: '2026-09-28'
 summary: 'The Moodle Payment Gateway by Novalnet enables secure integration of payments
   and payment services for all Moodle shops through a full-service platform that allows
   merchants to automate payment processing, enrich customer experiences, and improve

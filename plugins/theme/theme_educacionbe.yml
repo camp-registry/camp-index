@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Plataforma de educacion be Moolde
 dependencies:
   theme_bootstrapbase: 2013050100
-metrics:
-  updated: '2016-02-17T07:25:57Z'
-  stars: 0
-  forks: 0
-  open-issues: 4
-  archived: false
-  checked: '2026-10-01'

@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Activity Settings Templates is a Moodle plugin that allows teachers to save,
   manage, preview, and reuse activity settings templates, reducing repetitive configuration
   work and cognitive load.
-metrics:
-  updated: '2026-09-10T19:39:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

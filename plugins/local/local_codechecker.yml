@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A Moodle local plugin providing a simple web UI to run the MoodleCS coding
   style checks with PHP_CodeSniffer.
-metrics:
-  updated: '2025-12-02T00:51:44Z'
-  stars: 72
-  forks: 79
-  open-issues: 13
-  archived: false
-  latest-release:
-    tag: v5.0.12
-    date: '2025-08-14T08:10:16Z'
-  latest-tag:
-    tag: v5.1.0
-    date: '2025-12-02T00:51:07Z'
-  checked: '2026-10-03'

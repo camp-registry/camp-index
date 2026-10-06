@@ -11,16 +11,3 @@ summary: 'Moodle local plugin that prepares WhatsApp messages for a course''s st
   builds ready-to-send wa.me links from templates, no copying phone numbers or retyping
   messages by hand. Named, resumable, per-teacher notices with delivery status and
   history. Not affiliated with WhatsApp/Meta. Moodle 4.1+.'
-metrics:
-  updated: '2026-08-04T07:54:53Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.2.1
-    date: '2026-08-04T07:44:34Z'
-  latest-tag:
-    tag: v0.2.1
-    date: '2026-08-04T07:53:12Z'
-  checked: '2026-10-05'

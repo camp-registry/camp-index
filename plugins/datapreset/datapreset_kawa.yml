@@ -7,17 +7,4 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-10-09T16:41:58Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.0.2
-    date: '2025-10-09T16:41:58Z'
-  latest-tag:
-    tag: v0.0.2
-    date: '2025-10-09T16:39:14Z'
-  checked: '2026-10-04'
 summary: KAWA is a preset for the Moodle activity database.

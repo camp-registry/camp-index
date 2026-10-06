@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Moodle plugin to show progress on dashboard
 dependencies:
   block_completion_progress: 2017050500
-metrics:
-  updated: '2020-02-06T15:09:12Z'
-  stars: 0
-  forks: 0
-  open-issues: 2
-  archived: false
-  checked: '2026-10-03'

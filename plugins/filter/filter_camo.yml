@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Filter to convert images to route through a camo proxy server
-metrics:
-  updated: '2015-10-22T22:09:40Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v2015092402
-    date: '2015-10-22T22:00:53Z'
-  checked: '2026-10-02'

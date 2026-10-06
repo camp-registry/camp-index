@@ -15,12 +15,5 @@ releases: []
 license: GPL-3.0
 summary: report on student progress in terms of criteria met and assignment overall
   grade
-metrics:
-  updated: '2016-03-09T20:58:19Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
 dependencies:
   gradingform_btec: 2012081708

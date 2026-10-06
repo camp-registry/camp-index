@@ -7,11 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-08-12T12:55:26Z'
-  stars: 2
-  forks: 1
-  open-issues: 7
-  archived: false
-  checked: '2026-09-27'
 summary: clone repository into mod/ilddigitalcert/

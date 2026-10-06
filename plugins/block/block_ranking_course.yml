@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: This plugin is a challenge in which you must display a ranking of the top
   3 users based on their course average.
-metrics:
-  updated: '2026-03-15T19:02:42Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-03-15T19:06:10Z'
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-03-15T19:00:53Z'
-  checked: '2026-10-02'

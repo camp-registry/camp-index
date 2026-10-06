@@ -13,12 +13,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Repository for finding and inserting VideoFront videos through the file picker.
-metrics:
-  updated: '2020-04-24T16:55:06Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
 dependencies:
   mod_videofront: 2018061202

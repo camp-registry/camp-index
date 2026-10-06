@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle plugin for adding WhatsApp links in courses.
-metrics:
-  updated: '2026-06-12T03:57:57Z'
-  stars: 5
-  forks: 2
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0.3
-    date: '2025-03-22T01:42:52Z'
-  checked: '2026-09-28'

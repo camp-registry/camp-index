@@ -8,19 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Connect Plugin
-metrics:
-  updated: '2016-08-22T10:15:52Z'
-  stars: 1
-  forks: 1
-  open-issues: 3
-  archived: false
-  latest-release:
-    tag: '4.0'
-    date: '2015-07-27T09:57:55Z'
-  latest-tag:
-    tag: '4.0'
-    date: '2015-07-27T09:33:22Z'
-  checked: '2026-10-03'
 dependencies:
   local_kent: 2016071100
   tool_cat: 2015081800

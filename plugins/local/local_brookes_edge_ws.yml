@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: BrookesEDGE Web Service
-metrics:
-  updated: '2024-04-11T07:42:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.1.0
-    date: '2021-01-18T17:09:16Z'
-  latest-tag:
-    tag: v1.1.0
-    date: '2021-01-18T17:07:15Z'
-  checked: '2026-10-03'

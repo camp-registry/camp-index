@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: 'Moodle plugin: local_student_export'
-metrics:
-  updated: '2026-08-13T01:50:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v0.2.1
-    date: '2026-08-13T01:50:30Z'
-  checked: '2026-10-05'

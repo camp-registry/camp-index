@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: Turn your Google Classroom classes into Moodle courses, with their content
   inside Moodle. Sections, coursework, announcements, files and calendar are imported
   in the background, with live progress and a history panel
-metrics:
-  updated: '2026-09-10T17:49:15Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.0.0
-    date: '2026-08-07T10:58:08Z'
-  latest-tag:
-    tag: v2.0.0
-    date: '2026-08-07T10:44:55Z'
-  checked: '2026-10-05'

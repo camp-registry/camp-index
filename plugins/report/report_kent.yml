@@ -8,10 +8,3 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: All of Kent's reports in one plugin
-metrics:
-  updated: '2016-09-30T09:51:53Z'
-  stars: 2
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'

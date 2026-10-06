@@ -8,10 +8,3 @@ discovered: '2026-10-02'
 releases: []
 license: GPL-3.0
 summary: Lightbox Gallery resource module for Moodle 2.0
-metrics:
-  updated: '2026-10-01T06:15:07Z'
-  stars: 30
-  forks: 41
-  open-issues: 9
-  archived: false
-  checked: '2026-10-02'

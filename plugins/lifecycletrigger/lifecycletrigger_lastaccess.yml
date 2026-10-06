@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: (Mirror Only) Trigger for moodle-tool_lifecycle to trigger courses by time
   last accessed (by delay).
-metrics:
-  updated: '2019-06-26T14:55:48Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

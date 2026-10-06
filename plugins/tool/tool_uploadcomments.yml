@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Upload Comments into MyPD using a csv File.
 dependencies:
   local_commentbank: 2020031000
-metrics:
-  updated: '2022-03-30T13:22:30Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

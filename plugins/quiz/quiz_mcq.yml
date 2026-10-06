@@ -7,11 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2019-12-13T16:36:05Z'
-  stars: 6
-  forks: 4
-  open-issues: 4
-  archived: false
-  checked: '2026-09-29'
 summary: MCQ Breakdown quiz report

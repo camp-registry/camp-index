@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Version-controlled course templates with rollback and diff history
-metrics:
-  updated: '2026-09-25T03:29:24Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.5.14
-    date: '2026-09-25T03:29:23Z'
-  checked: '2026-10-05'

@@ -8,13 +8,3 @@ discovered: '2026-07-10'
 releases: []
 summary: Automate workflows in your courses to improve student engagement and compliance.
 license: GPL-3.0
-metrics:
-  updated: '2026-09-17T07:18:29Z'
-  stars: 13
-  forks: 10
-  open-issues: 37
-  archived: false
-  latest-release:
-    tag: v2.6-r1
-    date: '2026-03-26T19:39:12Z'
-  checked: '2026-09-28'

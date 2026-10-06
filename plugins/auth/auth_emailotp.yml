@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Email OTP authentication plugin.
-metrics:
-  updated: '2022-01-20T08:59:09Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.1.2
-    date: '2021-01-05T09:53:22Z'
-  checked: '2026-09-24'

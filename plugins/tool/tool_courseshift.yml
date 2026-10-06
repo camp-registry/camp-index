@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle admin tool — shift course start/end and activity dates across multiple
   courses at once
-metrics:
-  updated: '2026-07-08T17:06:12Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-07-05T07:05:39Z'
-  checked: '2026-09-30'

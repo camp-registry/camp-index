@@ -7,14 +7,4 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-07-06T06:49:48Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.4
-    date: '2021-07-06T06:39:08Z'
-  checked: '2026-10-01'
 summary: This is a test plugin created during Moodle dev course.

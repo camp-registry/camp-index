@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle admin tool for block my_external_backup_restore_courses
-metrics:
-  updated: '2025-09-03T08:16:18Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-tag:
-    tag: 1.0.2
-    date: '2025-09-03T07:37:48Z'
-  checked: '2026-10-01'
 dependencies:
   block_my_external_backup_restore_courses: 2025073000

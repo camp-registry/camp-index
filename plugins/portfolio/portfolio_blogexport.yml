@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Blog Export Portfolio for Moodle
-metrics:
-  updated: '2019-05-31T06:35:04Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.1.1
-    date: '2019-05-31T06:35:04Z'
-  checked: '2026-09-28'

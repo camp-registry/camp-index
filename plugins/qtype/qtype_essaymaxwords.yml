@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle Extension V3.1 -  Words count validation of extended essay question
   type plugin
-metrics:
-  updated: '2017-07-30T13:04:00Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-09-28'

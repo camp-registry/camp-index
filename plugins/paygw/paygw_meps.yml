@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle payment gateway plugin for MEPS (PayTabs), supporting secure course
   payments, transaction reconciliation, refunds, and multiple currencies.
-metrics:
-  updated: '2026-09-03T11:24:32Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.5.3
-    date: '2026-09-01T21:21:33Z'
-  checked: '2026-10-05'

@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Lote P3.2 - Restauración de cursos entre plataformas
-metrics:
-  updated: '2026-09-15T09:44:06Z'
-  stars: 3
-  forks: 8
-  open-issues: 29
-  archived: false
-  latest-release:
-    tag: v2.1.0
-    date: '2026-09-15T09:30:29Z'
-  latest-tag:
-    tag: v2.1.0
-    date: '2026-09-15T08:28:25Z'
-  checked: '2026-10-04'

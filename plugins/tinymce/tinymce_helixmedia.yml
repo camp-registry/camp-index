@@ -7,11 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-10-21T13:32:49Z'
-  stars: 2
-  forks: 1
-  open-issues: 1
-  archived: true
-  checked: '2026-09-30'
 summary: This is the Helix Media Library Tiny MCE HTML editor plugin for Moodle 2.x.

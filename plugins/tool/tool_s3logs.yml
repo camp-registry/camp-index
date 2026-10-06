@@ -7,18 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-01T09:53:56Z'
-  stars: 6
-  forks: 1
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: '2022081101'
-    date: '2022-08-11T21:27:28Z'
-  latest-tag:
-    tag: '2022081101'
-    date: '2022-08-11T21:26:59Z'
-  checked: '2026-10-01'
 summary: This plugin will take entries from teh Moodle standard log store table and
   export them to AWS S3.

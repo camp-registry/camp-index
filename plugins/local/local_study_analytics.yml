@@ -7,13 +7,6 @@ status: active
 discovered: '2026-09-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2023-06-04T20:08:07Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'
 summary: The Moodle plugin called "Study Analytics" is a local plugin for Moodle that
   sends the main functionality of a course grade book, teacher, and enrolled student
   information to the Elastic Stack.

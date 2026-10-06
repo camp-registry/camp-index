@@ -13,14 +13,3 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-20T06:41:49Z'
-  stars: 1
-  forks: 1
-  open-issues: 3
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-08-30T18:04:26Z'
-  checked: '2026-09-28'
-  ci: moodle-plugin-ci

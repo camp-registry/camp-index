@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Authenticate in Moodle via scanning a QR Code on an external device.
-metrics:
-  updated: '2026-08-06T12:05:28Z'
-  stars: 4
-  forks: 1
-  open-issues: 4
-  archived: false
-  checked: '2026-09-24'

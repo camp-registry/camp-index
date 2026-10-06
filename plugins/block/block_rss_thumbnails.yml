@@ -7,17 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2023-05-10T06:53:35Z'
-  stars: 0
-  forks: 1
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v1.3
-    date: '2023-02-02T07:16:25Z'
-  latest-tag:
-    tag: v1.3
-    date: '2023-02-02T07:15:19Z'
-  checked: '2026-10-02'
 summary: Display a given RSS feed in a slider. Mostly used on site frontpage.

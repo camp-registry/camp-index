@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2024-07-15T22:36:26Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: '5'
-    date: '2021-05-13T17:45:07Z'
-  checked: '2026-10-01'
 summary: This X version is an extented version of the Learning Plans Progress Moodle
   Plugin (blocklpprogress) by Daniel Neis Araujo <daniel@adapta.online>.

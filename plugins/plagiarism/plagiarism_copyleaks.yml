@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Copyleaks Plagiarism plugin for Moodle
-metrics:
-  updated: '2026-09-16T12:57:38Z'
-  stars: 6
-  forks: 5
-  open-issues: 11
-  archived: false
-  latest-release:
-    tag: v2026091600
-    date: '2026-09-16T12:57:39Z'
-  checked: '2026-09-28'

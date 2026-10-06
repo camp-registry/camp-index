@@ -8,10 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Compilatio.net plagiarism plugin for Moodle
-metrics:
-  updated: '2026-09-24T14:47:47Z'
-  stars: 9
-  forks: 10
-  open-issues: 4
-  archived: false
-  checked: '2026-09-28'

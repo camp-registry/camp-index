@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-28T10:04:46Z'
-  stars: 0
-  forks: 1
-  open-issues: 12
-  archived: false
-  checked: '2026-09-28'
 summary: Response is new style of Moodle activity that can either exist on its own
   page or inline within a course, like a Text and media area (aka Label). The main
   plugin is designed to encourage student participation by displaying (or not) that

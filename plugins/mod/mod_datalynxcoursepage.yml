@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-24T14:12:20Z'
-  stars: 1
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-27'
 summary: Datalynx coursepage module
 dependencies:
   mod_datalynx: 2020040100

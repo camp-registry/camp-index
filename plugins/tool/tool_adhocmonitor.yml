@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle admin tool plugin that automatically detects and alerts administrators
   when adhoc tasks become frozen
-metrics:
-  updated: '2026-03-12T02:52:35Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0-beta
-    date: '2026-03-12T02:52:35Z'
-  checked: '2026-09-30'

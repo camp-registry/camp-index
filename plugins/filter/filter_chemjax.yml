@@ -7,12 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-04T03:43:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'
 summary: A Moodle 5.x text filter that renders chemistry notation using the \cjx{...}
   syntax via isolated MathJax 2.

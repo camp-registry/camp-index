@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Local version of report_etl.
-metrics:
-  updated: '2020-07-11T16:06:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 3.8.0002
-    date: '2020-07-11T15:08:38Z'
-  checked: '2026-10-05'

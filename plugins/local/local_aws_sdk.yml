@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-01T15:34:38Z'
-  stars: 0
-  forks: 3
-  open-issues: 2
-  archived: false
-  latest-tag:
-    tag: MR-5.1
-    date: '2026-01-21T16:16:25Z'
-  checked: '2026-10-03'
 summary: This plugin was contributed by the Open LMS Product Development team. Open
   LMS is an education technology company

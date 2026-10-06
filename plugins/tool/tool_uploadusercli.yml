@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Moodle Admin Tool for uploading users from a CSV file using the cli.
 dependencies:
   tool_uploaduser: any
-metrics:
-  updated: '2020-10-04T14:07:24Z'
-  stars: 3
-  forks: 3
-  open-issues: 2
-  archived: false
-  checked: '2026-10-01'

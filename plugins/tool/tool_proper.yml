@@ -7,15 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-20T08:37:03Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v5.2.1
-    date: '2026-06-06T08:53:47Z'
-  checked: '2026-10-01'
 summary: The proper tool rewrites user names and user fields so a site can have more
   or less a policy how to write names.

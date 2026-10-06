@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Tool Plugin - Bulk Reset
-metrics:
-  updated: '2026-02-17T03:07:24Z'
-  stars: 3
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.1.0
-    date: '2026-02-17T03:07:24Z'
-  checked: '2026-09-30'

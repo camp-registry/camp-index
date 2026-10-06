@@ -7,11 +7,4 @@ status: active
 discovered: '2026-09-05'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-23T06:31:04Z'
-  stars: 0
-  forks: 1
-  open-issues: 1
-  archived: false
-  checked: '2026-10-05'
 summary: 'Taskflow adapter: ksw'

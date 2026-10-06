@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Checklist block for Moodle - displays output from the checklist activity
-metrics:
-  updated: '2026-04-24T14:58:31Z'
-  stars: 5
-  forks: 13
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: 4.1.0.1
-    date: '2026-04-24T14:58:31Z'
-  checked: '2026-09-25'
 dependencies:
   mod_checklist: 2019061900

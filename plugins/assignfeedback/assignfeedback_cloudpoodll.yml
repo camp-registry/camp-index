@@ -14,13 +14,3 @@ labels:
 releases: []
 license: GPL-3.0
 summary: CloudPoodll Assignment Feedback
-metrics:
-  updated: '2026-09-07T05:20:16Z'
-  stars: 1
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.27
-    date: '2026-08-16T14:15:30Z'
-  checked: '2026-09-24'

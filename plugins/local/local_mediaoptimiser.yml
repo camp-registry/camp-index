@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Automated image and media optimisation for Moodle file uploads
-metrics:
-  updated: '2026-08-13T01:49:49Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.0.5
-    date: '2026-08-13T01:49:46Z'
-  checked: '2026-10-05'

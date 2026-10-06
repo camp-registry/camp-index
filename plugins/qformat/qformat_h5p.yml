@@ -10,16 +10,3 @@ license: GPL-3.0
 summary: This plugin for Moodle imports question in H5P content types into the Moodle
   questions bank. To use this or related plugins to import content into your LMS without
   having to install it, create a free account at https://moodle.openlearner.org.
-metrics:
-  updated: '2026-09-21T18:45:10Z'
-  stars: 7
-  forks: 4
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.7
-    date: '2022-11-18T04:20:41Z'
-  latest-tag:
-    tag: v1.0.7
-    date: '2022-11-18T02:55:00Z'
-  checked: '2026-10-05'

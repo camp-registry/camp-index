@@ -8,16 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
 summary: Moodle Paynet Payment Gateway & Course Enrolment Plugin
-metrics:
-  updated: '2021-03-14T20:32:43Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0
-    date: '2021-03-14T20:32:43Z'
-  latest-tag:
-    tag: v1.0
-    date: '2021-03-14T20:30:53Z'
-  checked: '2026-10-02'

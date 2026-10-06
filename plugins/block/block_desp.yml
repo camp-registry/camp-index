@@ -10,10 +10,3 @@ license: GPL-2.0
 summary: Digital European Language Portfolio (Digitales Europäisches Sprachenportfolio)
 dependencies:
   block_exaport: any
-metrics:
-  updated: '2016-07-15T07:31:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-10-02'

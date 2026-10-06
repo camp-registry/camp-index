@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: JW Player media plugin for Moodle.
-metrics:
-  updated: '2021-01-28T10:00:14Z'
-  stars: 2
-  forks: 4
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: moodle-media_jwplayer_7-0.5
-    date: '2019-11-22T22:57:36Z'
-  checked: '2026-09-27'

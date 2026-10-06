@@ -12,17 +12,4 @@ dependencies:
   local_coursesync: 2021081800
   local_tugrazonlinewebservice: 2026070200
   coursesync_lectures: 2021081600
-metrics:
-  updated: '2026-08-11T11:45:18Z'
-  stars: 2
-  forks: 3
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.2.0
-    date: '2026-08-11T11:45:18Z'
-  latest-tag:
-    tag: v1.2.0
-    date: '2026-08-11T11:43:55Z'
-  checked: '2026-10-05'
 summary: Subplugin for localoer plugin.<br>

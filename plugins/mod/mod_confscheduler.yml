@@ -36,18 +36,9 @@ releases:
   published: '2026-10-04T14:02:15Z'
   released: '2026-10-04T11:48:13Z'
 license: GPL-3.0
-metrics:
-  updated: '2026-09-27T06:55:00Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-27'
-  ci: moodle-plugin-ci
-summary: >-
-  Conference Scheduler — a Moodle activity that turns the accepted submissions
-  from modconfprogram into a drag-and-drop time × room schedule, with
-  autoscheduling and print/export support.
+summary: Conference Scheduler — a Moodle activity that turns the accepted submissions
+  from modconfprogram into a drag-and-drop time × room schedule, with autoscheduling
+  and print/export support.
 security-contact: https://github.com/adamjenkins/moodle-mod_confscheduler/security
 labels:
 - fully-free

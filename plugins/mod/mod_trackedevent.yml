@@ -8,10 +8,3 @@ discovered: '2026-09-03'
 releases: []
 license: GPL-3.0
 summary: Snapshot of senior capstone project
-metrics:
-  updated: '2023-08-26T17:30:12Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

@@ -12,10 +12,3 @@ summary: Moodle local plugin that plans and bulk-generates a term's worth of sch
   to be installed. Requires Moodle 4.5+.
 dependencies:
   local_forumlock: 2026091504
-metrics:
-  updated: '2026-10-01T11:40:53Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

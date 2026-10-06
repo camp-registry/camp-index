@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Adds language tabs next to Moodle editor and text fields, so one field holds
   one version per language. Compatible with the core multilang filter or filter_multilang2.
   Moodle 5.x.
-metrics:
-  updated: '2026-10-01T07:56:46Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

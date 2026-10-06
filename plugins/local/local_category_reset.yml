@@ -7,12 +7,5 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-10T19:50:48Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-10-03'
 summary: A Moodle local plugin that allows administrators to efficiently reset all
   courses within a category and its subcategories with configurable group management.

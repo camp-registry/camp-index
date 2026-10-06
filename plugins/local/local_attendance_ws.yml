@@ -8,19 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Attendance Web service
-metrics:
-  updated: '2026-08-25T12:44:11Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 1.8.0.0
-    date: '2026-08-25T12:44:11Z'
-  latest-tag:
-    tag: 1.8.0.0
-    date: '2026-08-25T12:43:18Z'
-  checked: '2026-10-03'
 dependencies:
   mod_attendance: 2024070301
   local_obu_metalinking: 2024110101

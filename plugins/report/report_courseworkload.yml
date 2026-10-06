@@ -7,12 +7,5 @@ status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-01-28T22:29:37Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-29'
 summary: This is a report plugin for Moodle, which provides an estimate of the time
   required for a student to view the material in a Moodle course.

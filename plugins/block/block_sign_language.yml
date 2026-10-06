@@ -7,12 +7,5 @@ status: active
 discovered: '2026-09-03'
 releases: []
 license: MIT
-metrics:
-  updated: '2023-01-12T05:25:59Z'
-  stars: 0
-  forks: 0
-  open-issues: 20
-  archived: false
-  checked: '2026-10-04'
 summary: This block allow to use sign language videos on Moodle site by using specific
   videos uploaded on YouTube.

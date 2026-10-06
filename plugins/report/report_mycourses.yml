@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2021-02-11T04:17:14Z'
-  stars: 1
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: v3.104
-    date: '2021-02-11T04:17:14Z'
-  checked: '2026-09-29'
 summary: modernlms-mycourses

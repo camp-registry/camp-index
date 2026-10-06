@@ -7,12 +7,5 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-07-21T14:38:00Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: Server-rendered Moodle local plugin that guides administrators through diagnosing,
   planning, tracking and validating Moodle upgrades and migrations.

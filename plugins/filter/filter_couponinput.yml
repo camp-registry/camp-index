@@ -13,15 +13,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: moodle-filter_couponinput
-metrics:
-  updated: '2026-05-19T14:18:22Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: 1.0.3.2
-    date: '2026-05-19T14:11:18Z'
-  checked: '2026-10-02'
 dependencies:
   block_coupon: 2024010200

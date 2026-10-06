@@ -7,12 +7,5 @@ status: active
 discovered: '2026-09-03'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2023-03-22T21:10:06Z'
-  stars: 2
-  forks: 3
-  open-issues: 2
-  archived: false
-  checked: '2026-10-04'
 summary: This plugin gives you the ability to directly import grades, activity and
   course completions directly

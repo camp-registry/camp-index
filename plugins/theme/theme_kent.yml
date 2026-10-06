@@ -8,13 +8,6 @@ discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
 summary: Kent Moodle Theme
-metrics:
-  updated: '2016-04-12T11:16:17Z'
-  stars: 0
-  forks: 0
-  open-issues: 3
-  archived: false
-  checked: '2026-09-30'
 dependencies:
   theme_base: 2013050100
   theme_canvas: 2013050100

@@ -9,13 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   tool_leeloolxp_sync: 2019062701
-metrics:
-  updated: '2022-05-31T08:50:21Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'
 summary: This tool is used to create department on your Leeloo LXP install for every
   course you wish. The teachers in that course will become support peoples and students
   will become customers.

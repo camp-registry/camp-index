@@ -9,12 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Shared URL module permits teachers to add a link to an existing course's
   activity
-metrics:
-  updated: '2021-02-10T08:23:09Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-28'
 dependencies:
   enrol_shared: 2021012607

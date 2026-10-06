@@ -10,11 +10,4 @@ license: GPL-3.0
 dependencies:
   enrol_programs: 2024080300
   tool_certificate: 2024081300
-metrics:
-  updated: '2025-02-27T23:19:14Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: This certificate element plugin is part of Programs for Moodle by Open LMS,

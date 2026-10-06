@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle enrollment plug-in for Ellucian Banner / LMB (Luminis Message Broker)
-metrics:
-  updated: '2025-07-01T12:03:26Z'
-  stars: 2
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v2014052006-0.1.6-30
-    date: '2018-09-19T22:41:25Z'
-  checked: '2026-10-02'

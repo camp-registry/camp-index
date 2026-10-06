@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-08-25T06:46:39Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  checked: '2026-09-28'
 summary: 'modskillsfinder is a Moodle activity module that helps teachers create reusable
   two-stage competency reflection instruments. A SkillsFinder activity is made up
   of:'

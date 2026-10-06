@@ -7,12 +7,5 @@ status: active
 discovered: '2026-07-23'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2014-04-08T15:09:53Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-21'
 dependencies:
   gradereport_laegrader: 2014040800

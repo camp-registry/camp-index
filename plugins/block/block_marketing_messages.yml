@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Block that can be deployed to a Moodle page and display one or more marketing
   messages that can be defined by appropriate users
-metrics:
-  updated: '2023-10-27T12:46:20Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v4.0
-    date: '2023-10-27T12:41:35Z'
-  checked: '2026-10-01'

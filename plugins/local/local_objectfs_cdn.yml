@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Extend objectfs to support multiple CDN services
-metrics:
-  updated: '2026-06-19T08:03:11Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-06-19T08:03:20Z'
-  checked: '2026-09-26'
 dependencies:
   tool_objectfs: any

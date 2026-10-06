@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Beacon — Reports & Analytics for Moodle. Grain-aware report builder with
   scheduled email delivery and role-locked data scoping.
-metrics:
-  updated: '2026-10-01T13:47:35Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.7.3
-    date: '2026-07-31T15:47:16Z'
-  latest-tag:
-    tag: v2.3.2
-    date: '2026-10-01T13:47:33Z'
-  checked: '2026-10-04'

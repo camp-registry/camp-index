@@ -7,11 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-03-05T10:33:01Z'
-  stars: 0
-  forks: 3
-  open-issues: 1
-  archived: false
-  checked: '2026-10-01'
 summary: Dump the contents of this folder into admin/tool/paratest

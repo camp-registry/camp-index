@@ -9,18 +9,5 @@ releases: []
 license: GPL-3.0
 summary: This moodle-plugin is an assistant to prepare an existing course as a notebook
   for communication between parents and teachers.
-metrics:
-  updated: '2026-08-20T18:48:13Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.1.1
-    date: '2021-12-25T11:31:00Z'
-  latest-tag:
-    tag: staging-20260820204502
-    date: '2026-08-19T23:42:27Z'
-  checked: '2026-10-01'
 dependencies:
   block_enrolcode: 2021111801

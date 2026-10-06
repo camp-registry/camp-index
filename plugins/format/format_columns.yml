@@ -13,17 +13,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2016-06-24T17:08:51Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: true
-  latest-release:
-    tag: V3.0.1.1
-    date: '2016-03-13T17:34:03Z'
-  latest-tag:
-    tag: V3.0.1.1
-    date: '2016-03-13T17:30:00Z'
-  checked: '2026-10-05'
 summary: Introduction

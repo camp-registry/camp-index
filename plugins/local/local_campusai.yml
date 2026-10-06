@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: Moodle AI assistant plugin — 48 functions for students, teachers, and administrators.
   Self-hosted, multi-provider (OpenAI, DeepSeek, Gemini, Claude). Fixed annual pricing,
   unlimited users.
-metrics:
-  updated: '2026-08-20T07:17:02Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v2.2.4
-    date: '2026-08-20T07:16:59Z'
-  checked: '2026-10-04'

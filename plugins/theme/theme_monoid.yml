@@ -11,10 +11,3 @@ summary: A simple Moodle theme that takes "less is more" design principle to the
   level.
 dependencies:
   theme_boost: 2018120300
-metrics:
-  updated: '2020-05-15T20:17:32Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

@@ -8,13 +8,6 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle Staff MyGrades
-metrics:
-  updated: '2026-09-22T08:25:09Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-09-22'
 dependencies:
   local_guprivacy: 2025020400
   enrol_gudatabase: 2023111300

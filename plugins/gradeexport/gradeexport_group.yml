@@ -7,16 +7,6 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-06-27T09:29:26Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.0.4
-    date: '2025-06-27T09:21:35Z'
-  checked: '2026-10-04'
 summary: The Export gradebook to group Plugin is a tool to create groups out of the
   results of the gradebook. The group can later be used to control other activities
   or apply selective actions.

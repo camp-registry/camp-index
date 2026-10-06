@@ -7,14 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2025-08-17T17:29:54Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0
-    date: '2025-08-17T17:29:08Z'
-  checked: '2026-09-25'
 summary: Analytics widget block with beautiful charts and stats for users

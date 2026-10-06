@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: mod_foundrysync is an admin plugin that maintains Foundry playlists and content
   items for Moodle courses and modules.
-metrics:
-  updated: '2026-05-12T18:26:17Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: '2020050804'
-    date: '2026-05-12T16:06:19Z'
-  checked: '2026-09-30'

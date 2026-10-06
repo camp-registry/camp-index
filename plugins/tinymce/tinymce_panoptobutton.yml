@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Adds a button to TinyMCE editor instances within Moodle allowing the embedding
   of selected Panopto videos into an editor instance.
-metrics:
-  updated: '2023-08-31T17:03:48Z'
-  stars: 4
-  forks: 5
-  open-issues: 1
-  archived: false
-  checked: '2026-10-01'

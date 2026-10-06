@@ -8,12 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Leeloo LXP Attendance
-metrics:
-  updated: '2022-09-07T07:07:18Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'
 dependencies:
   local_leeloolxp_web_login_tracking: 2020050503

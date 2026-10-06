@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: This plugin is closed, see https://github.com/Lesterhuis-Training-en-Consultancy/moodle-tool_groupautoenrol
-metrics:
-  updated: '2026-09-29T14:35:18Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: 5.1.1
-    date: '2026-06-24T18:23:00Z'
-  checked: '2026-09-30'

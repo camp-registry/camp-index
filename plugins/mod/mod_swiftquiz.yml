@@ -9,13 +9,3 @@ releases: []
 summary: Moodle activity module, allows teachers to swiftly create questions and get
   rich feedback.
 license: GPL-3.0
-metrics:
-  updated: '2024-04-29T09:46:54Z'
-  stars: 2
-  forks: 7
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v0.1.4
-    date: '2023-07-30T12:24:40Z'
-  checked: '2026-09-28'

@@ -7,13 +7,6 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-01T08:27:27Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: StudyBuddy is a Moodle local plugin for AI-assisted study workflows grounded
   in course materials. It combines RAG chat, source indexing, temporary student self-assessment
   quizzes, and teacher-reviewed quiz drafts that can be published as native Moodle

@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Flexible prerequisite-based enrolment with grade and completion conditions
-metrics:
-  updated: '2026-08-15T03:31:48Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.1.4
-    date: '2026-08-15T03:31:45Z'
-  checked: '2026-10-04'

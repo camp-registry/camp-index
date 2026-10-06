@@ -17,10 +17,3 @@ releases: []
 license: GPL-3.0
 summary: Local plugin to send the same message to forums in multiple courses, with
   templates, scheduling and send history.
-metrics:
-  updated: '2026-09-12T05:32:12Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

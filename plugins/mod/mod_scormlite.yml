@@ -9,16 +9,3 @@ releases: []
 license: GPL-3.0
 summary: ScormLite is a Moodle plugin which supports the most commun SCORM use cases
   without the hassle of SCORM.
-metrics:
-  updated: '2025-05-15T14:36:00Z'
-  stars: 2
-  forks: 0
-  open-issues: 4
-  archived: false
-  latest-release:
-    tag: v4.5.1
-    date: '2025-05-15T14:36:00Z'
-  latest-tag:
-    tag: v4.5.1
-    date: '2025-05-15T14:34:20Z'
-  checked: '2026-10-05'

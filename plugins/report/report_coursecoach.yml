@@ -8,16 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Check whether your Moodle course is ready for learners.
-metrics:
-  updated: '2026-10-04T20:38:01Z'
-  stars: 0
-  forks: 0
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2026-08-22T14:27:23Z'
-  latest-tag:
-    tag: v1.0.0
-    date: '2026-08-22T11:40:14Z'
-  checked: '2026-10-05'

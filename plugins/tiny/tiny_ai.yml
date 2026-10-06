@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: AGPL-3.0
-metrics:
-  updated: '2026-09-01T21:01:44Z'
-  stars: 9
-  forks: 8
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: v3.0
-    date: '2026-05-05T13:09:25Z'
-  checked: '2026-09-30'
 summary: TODO Describe the plugin shortly here.
 dependencies:
   local_ai_manager: 2026050500

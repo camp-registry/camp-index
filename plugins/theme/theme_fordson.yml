@@ -7,13 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2022-02-02T09:58:24Z'
-  stars: 41
-  forks: 38
-  open-issues: 37
-  archived: false
-  checked: '2026-09-29'
 summary: THEMEFordson
 dependencies:
   theme_boost: 2021051700

@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: NO LONGER USABLE! You have been warned. Not usable on any supported Moodle
   versions. Not maintainable due to dependancies on out-of-date third party libraries,
   such as the AT Bar.
-metrics:
-  updated: '2026-07-17T10:54:43Z'
-  stars: 20
-  forks: 35
-  open-issues: 40
-  archived: false
-  checked: '2026-09-25'

@@ -7,17 +7,4 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-04-13T12:15:18Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.13.1.0
-    date: '2026-04-13T12:15:18Z'
-  latest-tag:
-    tag: v1.13.1.0
-    date: '2026-04-13T12:13:17Z'
-  checked: '2026-10-01'
 summary: Oxford Brookes University Learning Analytics Blocks Plugin for Moodle

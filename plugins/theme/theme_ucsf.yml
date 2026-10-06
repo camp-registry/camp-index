@@ -8,15 +8,5 @@ discovered: '2026-07-10'
 releases: []
 summary: A Moodle theme for the UCSF CLE site
 license: GPL-3.0
-metrics:
-  updated: '2026-09-28T17:43:00Z'
-  stars: 1
-  forks: 3
-  open-issues: 1
-  archived: false
-  latest-release:
-    tag: v5.2.0
-    date: '2026-09-28T17:43:01Z'
-  checked: '2026-09-30'
 dependencies:
   theme_boost: 2025100600

@@ -8,10 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: bloque personalizado para Moodle que integre el chatbot de Flowise
-metrics:
-  updated: '2025-03-19T00:58:00Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

@@ -19,17 +19,6 @@ releases:
   published: '2026-10-04T16:35:48Z'
   released: '2026-10-04T13:55:21Z'
 license: GPL-3.0
-metrics:
-  updated: '2026-10-04T16:35:23Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v0.3.3
-    date: '2026-10-04T13:55:21Z'
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci
 summary: A Moodle activity module that schedules spaced repetition of question bank
 security-contact: https://github.com/adamjenkins/moodle-mod_rememberme/security
 labels:

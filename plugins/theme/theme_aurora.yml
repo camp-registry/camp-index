@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Aurora Whiteboard — Boost child theme for Aprende on Moodle 4.5+
 dependencies:
   theme_boost: 2024100700
-metrics:
-  updated: '2026-09-13T18:29:34Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

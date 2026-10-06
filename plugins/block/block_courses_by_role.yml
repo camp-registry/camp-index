@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: A Moodle block to list courses the user is enrolled grouped by their role
-metrics:
-  updated: '2022-05-19T02:59:28Z'
-  stars: 1
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0
-    date: '2018-08-27T03:55:43Z'
-  checked: '2026-09-25'

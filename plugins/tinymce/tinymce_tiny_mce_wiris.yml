@@ -9,15 +9,5 @@ releases: []
 summary: TinyMCE's editor Moodle plugin for MathType, the leading formula editor and
   equation writer for the web by Wiris
 license: GPL-3.0
-metrics:
-  updated: '2026-05-28T13:40:17Z'
-  stars: 13
-  forks: 12
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: v.7.29.0
-    date: '2022-06-20T10:59:12Z'
-  checked: '2026-09-30'
 dependencies:
   filter_wiris: 2023121300

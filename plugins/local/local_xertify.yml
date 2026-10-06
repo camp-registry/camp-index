@@ -8,13 +8,3 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 summary: Moodle local plugin for issuing Xertify digital certificates on course completion.
-metrics:
-  updated: '2026-09-15T17:47:46Z'
-  stars: 0
-  forks: 0
-  open-issues: 3
-  archived: false
-  latest-tag:
-    tag: v1.0.3
-    date: '2026-09-15T17:46:31Z'
-  checked: '2026-10-05'

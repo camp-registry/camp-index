@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Admin tool that syncs additional contact info
 dependencies:
   enrol_arlo: 2020073112
-metrics:
-  updated: '2022-06-16T00:33:04Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

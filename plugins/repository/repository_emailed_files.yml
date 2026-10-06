@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle Plugin for a repository to import attached files from emails from
   an imap / pop3-Account
-metrics:
-  updated: '2014-12-31T00:13:51Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: true
-  checked: '2026-10-01'

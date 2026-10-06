@@ -10,10 +10,3 @@ license: GPL-3.0
 summary: Eguru - a free responsive moodle theme developed by LMSACE
 dependencies:
   theme_boost: 2022041900
-metrics:
-  updated: '2023-08-01T13:21:03Z'
-  stars: 9
-  forks: 9
-  open-issues: 41
-  archived: false
-  checked: '2026-10-01'

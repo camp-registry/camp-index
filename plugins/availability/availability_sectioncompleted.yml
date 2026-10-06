@@ -9,13 +9,3 @@ releases: []
 summary: Moodle availability plugin which lets users restrict resources, activities
   and sections based on sections being completed
 license: GPL-3.0
-metrics:
-  updated: '2025-04-11T10:26:13Z'
-  stars: 11
-  forks: 4
-  open-issues: 5
-  archived: false
-  latest-release:
-    tag: v1.1-r1
-    date: '2025-04-11T10:26:13Z'
-  checked: '2026-09-25'

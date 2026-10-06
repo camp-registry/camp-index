@@ -10,13 +10,3 @@ license: GPL-3.0
 summary: 'Moodle plugin: availability_groupmanager'
 dependencies:
   local_groupmanager: 2025121800
-metrics:
-  updated: '2026-08-29T10:53:44Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v2.0.7
-    date: '2026-08-29T10:53:41Z'
-  checked: '2026-10-04'

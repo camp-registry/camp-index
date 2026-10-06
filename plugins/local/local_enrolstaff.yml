@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-23T13:12:05Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v4.5r2
-    date: '2026-04-21T11:28:17Z'
-  checked: '2026-10-04'
 summary: Allows staff to self-enrol onto Moodle courses.
 dependencies:
   local_adminsettingsconfig: 2021060802

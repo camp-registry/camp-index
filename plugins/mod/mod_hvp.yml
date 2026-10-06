@@ -8,10 +8,3 @@ discovered: '2026-07-10'
 releases: []
 summary: H5P Plugin for Moodle
 license: GPL-3.0
-metrics:
-  updated: '2026-09-01T07:56:39Z'
-  stars: 157
-  forks: 192
-  open-issues: 136
-  archived: false
-  checked: '2026-09-27'

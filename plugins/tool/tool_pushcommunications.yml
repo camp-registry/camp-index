@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: For use with moodlemobile2 app tvs fork -- a tool used to send out push communications
   to subscribers.
-metrics:
-  updated: '2020-04-03T09:13:59Z'
-  stars: 1
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-01'

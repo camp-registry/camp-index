@@ -12,10 +12,3 @@ license: GPL-3.0
 summary: Internal course messaging with a webmail-like interface
 labels:
 - fully-free
-metrics:
-  updated: '2026-07-01T19:57:31.688Z'
-  stars: 2
-  forks: 8
-  open-issues: 0
-  archived: false
-  checked: '2026-09-25'

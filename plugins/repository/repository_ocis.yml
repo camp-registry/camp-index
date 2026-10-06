@@ -7,16 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-09-16T07:51:41Z'
-  stars: 3
-  forks: 2
-  open-issues: 9
-  archived: false
-  latest-release:
-    tag: v1.0.0
-    date: '2024-05-02T07:01:22Z'
-  checked: '2026-09-29'
 summary: A Moodle repository plugin that integrates ownCloud Infinite Scale with Moodle's
   file picker. It enables Moodle users to browse, select, and link files stored in
   oCIS directly through the native Moodle file picker interface, using OpenID Connect

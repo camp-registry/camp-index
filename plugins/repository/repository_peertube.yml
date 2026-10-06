@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle Plugin, um Peertube Videos aus einer Peertube Instanz in Moodle einbinden
   zu können
-metrics:
-  updated: '2026-05-28T14:19:45Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'

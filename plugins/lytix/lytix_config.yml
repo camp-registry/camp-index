@@ -12,16 +12,3 @@ summary: A local_lytix subplugin. A Plugin with helper functions needed in sever
 dependencies:
   lytix_logs: any
   lytix_timeoverview: any
-metrics:
-  updated: '2025-08-14T09:17:03Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v1.0.10
-    date: '2025-08-14T09:15:20Z'
-  latest-tag:
-    tag: v1.0.10
-    date: '2025-08-14T09:11:23Z'
-  checked: '2026-10-05'

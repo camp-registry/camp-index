@@ -91,14 +91,6 @@ releases:
   released: '2026-10-04T10:53:12Z'
 license: GPL-3.0
 summary: MuTMS  Certifications plugin for Moodle™ LMS
-metrics:
-  updated: '2026-09-29T17:15:04Z'
-  stars: 0
-  forks: 2
-  open-issues: 1
-  archived: false
-  checked: '2026-09-30'
-  ci: moodle-plugin-ci
 dependencies:
   tool_mulib: 2026080845
   enrol_muprog: 2026080845

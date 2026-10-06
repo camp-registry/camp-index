@@ -11,10 +11,3 @@ summary: A Moodle filter that lets users toggle a rich editor on/off per plain-t
   field
 dependencies:
   editor_tinymde: 2026080800
-metrics:
-  updated: '2026-08-10T08:20:48Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

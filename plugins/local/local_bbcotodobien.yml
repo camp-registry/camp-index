@@ -18,10 +18,3 @@ license: GPL-3.0
 summary: ToDo good is an course-quality audit engine. Site administrators define audit
   types and rules; teachers and managers see compliance in the course, a site dashboard,
   and optional header alerts.
-metrics:
-  updated: '2026-09-22T03:18:40Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-03'

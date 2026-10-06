@@ -9,11 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_booking: 2026031101
-metrics:
-  updated: '2026-10-05T10:47:10Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
-  archived: false
-  checked: '2026-10-05'
 summary: 'Booking extension: Todo list'

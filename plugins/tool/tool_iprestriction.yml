@@ -9,10 +9,3 @@ releases: []
 license: GPL-3.0
 summary: A Moodle Admin Tool that provides IP based restriction to courses and couse
   assets
-metrics:
-  updated: '2020-01-09T03:53:30Z'
-  stars: 0
-  forks: 2
-  open-issues: 0
-  archived: false
-  checked: '2026-09-30'

@@ -9,13 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Moodle App translation plugin. This plugin is for translating the app strings
   in AMOS
-metrics:
-  updated: '2026-09-25T05:17:29Z'
-  stars: 3
-  forks: 14
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v5.2.1
-    date: '2026-08-20T13:51:20Z'
-  checked: '2026-09-25'

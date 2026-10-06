@@ -12,17 +12,6 @@ summary: This plugin provides a framework that can check a course based on indep
   checkers. Each checker is an independent subplugin. It will help you find misconfiguration
   in your courses and follow your internal guidelines by displaying a structured report.
   The checkers can be triggered manually an wi
-metrics:
-  updated: '2025-11-20T13:58:23Z'
-  stars: 2
-  forks: 0
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v5.0-r1
-    date: '2025-11-20T13:58:32Z'
-  checked: '2026-09-21'
-  ci: moodle-plugin-ci
 security-contact: https://github.com/ffhs/moodle-local_course_checker/security
 labels:
 - fully-free

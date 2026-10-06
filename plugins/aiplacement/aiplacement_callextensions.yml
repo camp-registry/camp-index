@@ -10,10 +10,3 @@ license: GPL-3.0
 dependencies:
   aiprovider_openai_extension: any
   local_aixtension: any
-metrics:
-  updated: '2025-10-10T17:46:01Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  checked: '2026-10-04'

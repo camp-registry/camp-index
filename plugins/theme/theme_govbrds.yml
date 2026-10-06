@@ -8,15 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Identidade Digital de Governo para o Moodle
-metrics:
-  updated: '2026-05-23T23:57:30Z'
-  stars: 5
-  forks: 2
-  open-issues: 0
-  archived: false
-  latest-release:
-    tag: v2.24-stable
-    date: '2026-05-23T23:57:30Z'
-  checked: '2026-09-30'
 dependencies:
   theme_boost: 2024100700

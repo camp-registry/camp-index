@@ -30,15 +30,5 @@ releases:
   maturity: stable
 license: GPL-3.0
 summary: Moodle plugin to control access to course content based on Level Up Quest.
-metrics:
-  updated: '2026-04-21T13:49:01Z'
-  stars: 0
-  forks: 1
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v1.2.4
-    date: '2026-04-21T13:48:55Z'
-  checked: '2026-10-05'
 dependencies:
   block_gearup: 2025020700

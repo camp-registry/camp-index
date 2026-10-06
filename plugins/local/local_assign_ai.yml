@@ -7,19 +7,6 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-metrics:
-  updated: '2026-10-02T02:52:19Z'
-  stars: 1
-  forks: 0
-  open-issues: 2
-  archived: false
-  latest-release:
-    tag: 1.1.8
-    date: '2026-10-02T02:52:19Z'
-  latest-tag:
-    tag: 1.1.8
-    date: '2026-10-02T02:48:03Z'
-  checked: '2026-10-03'
 summary: The Assignment AI plugin brings intelligent automation to the grading and
   feedback process within Moodle.
 dependencies:

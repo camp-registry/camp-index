@@ -8,13 +8,3 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: Moodle block plugin "My Courses"
-metrics:
-  updated: '2019-01-29T22:42:29Z'
-  stars: 6
-  forks: 9
-  open-issues: 19
-  archived: false
-  latest-tag:
-    tag: v1.6
-    date: '2019-01-07T07:25:13Z'
-  checked: '2026-10-01'

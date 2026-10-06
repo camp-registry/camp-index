@@ -58,16 +58,5 @@ releases:
   listing-sha256: c5dd57c7dc0079f03bd2f4c2c7d55d7b481518a5e2598719860c5b6ff87436ab
 license: GPL-3.0
 summary: Moodle plugin to restrict access to an activity by experience level.
-metrics:
-  updated: '2026-10-02T11:21:15Z'
-  stars: 9
-  forks: 8
-  open-issues: 0
-  archived: false
-  latest-tag:
-    tag: v2.2.3
-    date: '2026-10-02T11:20:03Z'
-  checked: '2026-10-05'
-  ci: moodle-plugin-ci
 dependencies:
   block_xp: 2017080700
