@@ -1,8 +1,15 @@
 component: block_fastnav
 source: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-block_fastnav
+source-repo-id: 280190748
+security-contact: security@ltnc.nl
 maintainers:
 - github: Lesterhuis-Training-en-Consultancy
-tier: 0
+- github: gemguardian
+tier: 1
+labels:
+- fully-free
+- commercial-support-available
+org-claim: lesterhuis-training-en-consultancy
 status: active
 discovered: '2026-07-10'
 releases: []

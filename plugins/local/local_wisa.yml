@@ -1,8 +1,16 @@
 component: local_wisa
 source: https://github.com/Lesterhuis-Training-en-Consultancy/local_wisa
+source-repo-id: 1398539081
+security-contact: security@ltnc.nl
 maintainers:
 - github: Lesterhuis-Training-en-Consultancy
-tier: 0
+- github: gemguardian
+tier: 1
+labels:
+- external-account
+- paid-service
+- commercial-support-available
+org-claim: lesterhuis-training-en-consultancy
 status: active
 discovered: '2026-09-04'
 releases: []
