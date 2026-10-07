@@ -1,14 +1,17 @@
 component: format_vsf
 source: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-format_vsf
 source-repo-id: 350721478
+security-contact: security@ltnc.nl
 maintainers:
+- github: Lesterhuis-Training-en-Consultancy
 - github: gemguardian
 - github: gjb2048
-security-contact: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-format_vsf/security/advisories/new
+  name: Gareth J Barnard
+tier: 1
 labels:
 - fully-free
 - commercial-support-available
-tier: 1
+org-claim: lesterhuis-training-en-consultancy
 status: active
 discovered: '2026-07-11'
 releases: []
