@@ -13,5 +13,6 @@ releases: []
 license: GPL-3.0
 summary: Integrated help desk and knowledge base for the platform.
 dependencies:
-  local_kopere_dashboard: 2026070500
+  local_kopere_dashboard: 2026100100
   local_kopere_bi: 2026052400
+  local_ai_bridge: 2026093001
