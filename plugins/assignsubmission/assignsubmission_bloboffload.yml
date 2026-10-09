@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: Offload student submissions to an Azure Blob Storage Container to properly
   handle data lifecycles and reduce costs.
 dependencies:
-  mod_assign: 2025100601
+  mod_assign: 2026042000

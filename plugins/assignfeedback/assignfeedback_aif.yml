@@ -15,3 +15,5 @@ releases: []
 license: GPL-3.0
 summary: An assignment feedback plugin for Moodle that leverages AI/LLM systems to
   automatically generate
+dependencies:
+  local_ai_content: any

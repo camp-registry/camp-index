@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: MOODLE_29_STABLE
   date: '2015-10-05T08:48:19Z'
-checked: '2026-09-24'
+latest-tag:
+  tag: MOODLE_29_STABLE
+  date: '2015-10-05T08:47:33Z'
+checked: '2026-10-09'

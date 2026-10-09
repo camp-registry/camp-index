@@ -11,4 +11,4 @@ summary: Process Feedback Assignment Submission is a Moodle assignment submissio
   plugin for receiving, storing, and presenting Process Feedback data with assignment
   submissions.
 dependencies:
-  local_processfeedback: 2026092300
+  local_processfeedback: 2026093000
