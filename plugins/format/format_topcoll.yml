@@ -70,5 +70,15 @@ releases:
   - 405
   - 405
   maturity: stable
+- version: 503.0.1
+  tag: V503.0.1
+  commit: 81b6ea59c4999bc22c3042bb00a38d3c2cfa2da2
+  moodle-version: 2026100700
+  supported-moodle:
+  - '5.3'
+  zip-sha256: ef7e681861f3210101743b2f2d51c636f41c7add206bf088c85593b5204cf820
+  listing-sha256: 42417804b298038daf0e531ea82d4e009453e76ca43df2ee9e79032d2b08c5c0
+  published: '2026-10-09T10:50:09Z'
+  released: '2026-10-09T10:48:50Z'
 summary: Collapsed Topics course format for Moodle.
 license: GPL-3.0
