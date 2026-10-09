@@ -2,7 +2,10 @@ component: local_omnicatalogue
 source: https://github.com/Darwin5k/moodle-local_omnicatalogue
 maintainers:
 - github: Darwin5k
-tier: 0
+tier: 1
+security-contact: https://github.com/Darwin5k/moodle-local_omnicatalogue/security
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
