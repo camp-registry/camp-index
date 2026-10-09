@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "enrol_customredirect", "versions": {"1.0.0": {"commit": "c0631bc3f259f86e4c18735428a14ebc120938a2", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v1.0.0", "warnings": 0}}}

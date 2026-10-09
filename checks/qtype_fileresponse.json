@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "qtype_fileresponse", "versions": {"5.2-r1": {"commit": "6d05a4a9baf24aa384218dd8dcb1caa548775bfa", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v5.2-r2", "warnings": 0}}}

@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "tool_imageoptimizer", "versions": {"1.1.4": {"commit": "073f6076493f89518f75eaad6162437b6c836ca5", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v1.1.4", "warnings": 0}}}

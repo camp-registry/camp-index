@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "smsgateway_messagebird", "versions": {"1.0.1": {"commit": "fb0a9ff6605325a8e4d5e6d2bddd82a175883ebd", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "1.0.1", "warnings": 0}}}

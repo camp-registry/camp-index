@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "availability_language", "versions": {"5.4.2": {"commit": "e5e23b8c69bf47d57c67d17013b9a00023e2f407", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v5.4.2", "warnings": 0}}}

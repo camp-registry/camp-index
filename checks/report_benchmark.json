@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "report_benchmark", "versions": {"1.5.5": {"commit": "b25aa64796543a548b0f4ee43a3936a1c47b414e", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v1.5.5", "warnings": 0}}}

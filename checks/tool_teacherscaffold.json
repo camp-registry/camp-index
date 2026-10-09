@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "tool_teacherscaffold", "versions": {"0.1.2": {"commit": "adac2f67b1f17ae5b69c5949429efc94b4572690", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v0.1.2", "warnings": 0}}}

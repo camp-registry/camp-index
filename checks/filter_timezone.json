@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "filter_timezone", "versions": {"1.1.4": {"commit": "8ed71ee2a1ab64de699b1de5b6067f1694fa5830", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v1.1.4", "warnings": 0}}}

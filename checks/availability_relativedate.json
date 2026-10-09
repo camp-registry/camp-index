@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "availability_relativedate", "versions": {"5.8.1": {"commit": "5c9830d62371188ee93c333873e40579ca2da17e", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 3, "phplint": true, "rules": {"moodle.Commenting.TodoComment.MissingInfoInline": 3}, "tag": "v5.8.1", "warnings": 3}}}

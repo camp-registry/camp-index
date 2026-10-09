@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "local_sentinel", "versions": {"2.22.4": {"commit": "1f174c7f1366a1e8669cc7f836b3a4e6019e4500", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v2.22.4", "warnings": 0}}}

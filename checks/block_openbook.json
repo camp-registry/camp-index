@@ -1,0 +1,1 @@
+{"checked": "2026-10-09", "checker": 5, "component": "block_openbook", "versions": {"5.2-r5": {"commit": "c70886cf7d5fdc702d662007dd58de92c34e904c", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v5.2-r5", "warnings": 0}}}
