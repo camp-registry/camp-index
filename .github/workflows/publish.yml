@@ -113,10 +113,12 @@ jobs:
           B2_ENDPOINT: ${{ vars.B2_ENDPOINT }}
         run: |
           # Per-version code-check summaries (published at /checks/ for
-          # transparency; also feeds the site's chips and badges). Results
-          # are commit-deterministic: the previous publish is the cache,
-          # so only new releases are actually analyzed.
-          camp checks . dist/checks --reuse "$BASE_URL/checks" \
+          # transparency; also feeds the site's chips and badges). The
+          # committed store under checks/ is the source (camp-index#532,
+          # filled and aged by the checks-refresh job); the previous
+          # publish is the fallback. Only a brand-new release is computed
+          # here, so a checker bump never recomputes the archive in a publish.
+          camp checks . dist/checks --store checks --reuse "$BASE_URL/checks" \
             --moodle-rig "$RUNNER_TEMP/moodle-rig"
 
           # Ingest listing manifests + screenshots from each released

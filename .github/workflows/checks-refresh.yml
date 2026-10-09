@@ -1,0 +1,117 @@
+# Checks refresh (camp-index#532, camp-tools#79): fills and ages the
+# committed code-check store under checks/, one document per released
+# plugin. Publish reads the store and computes only a brand-new release
+# inline; everything else, a missing summary or a facet behind its
+# checker version after a camp-tools bump, is this job's. A budget per
+# run keeps it bounded: a bump drains over a few nights, every run keeps
+# what it did, and a cancelled run loses minutes, not hours.
+#
+# Pushes go to main as the camp-registry-automation app, like the other
+# bot-written trees (plugins/, metrics/, utilities/).
+
+name: Checks refresh
+
+on:
+  workflow_dispatch:
+    inputs:
+      budget:
+        description: "Releases to (re)compute this run (empty = all pending)"
+        default: "60"
+  schedule:
+    - cron: "41 2 * * *"   # after the ledger prune (01:31), before enrich (03:47)
+
+permissions:
+  contents: read           # pushes use the app token, not GITHUB_TOKEN
+
+concurrency:
+  group: checks-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # Runs only in the canonical repository: a fork with Actions enabled
+    # would otherwise run this on schedule.
+    if: github.repository == 'camp-registry/camp-index'
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Mint app token
+        id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ vars.AUTOMATION_APP_ID }}
+          private-key: ${{ secrets.AUTOMATION_APP_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v7
+        with:
+          token: ${{ steps.app.outputs.token }}
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install camp tools
+        run: |
+          # camp-tools pin: tag and commit in .camp-tools-version at the root (camp-index#521)
+          read -r tag sha < .camp-tools-version
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::.camp-tools-version is malformed: '$tag $sha'"; exit 1; }
+          pip install --quiet "camp-tools @ git+https://github.com/camp-registry/camp-tools@${sha}"
+
+      - name: Setup PHP (code checks)
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.3"
+          coverage: none
+          tools: composer
+
+      - name: Install Moodle Code Checker
+        run: |
+          composer global config --no-interaction allow-plugins.dealerdirect/phpcodesniffer-composer-installer true
+          composer global require --quiet moodlehq/moodle-cs
+          echo "$(composer global config bin-dir --absolute --quiet)" >> "$GITHUB_PATH"
+
+      # The same pinned Moodle grunt rig publish uses for the AMD rebuild
+      # verdicts (camp-tools#4); same cache key, so the two jobs share it.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Restore Moodle rig
+        id: rig-cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/moodle-rig
+          key: moodle-rig-MOODLE_405_STABLE-node22-v1
+
+      - name: Build Moodle rig
+        if: steps.rig-cache.outputs.cache-hit != 'true'
+        run: |
+          git clone --quiet --depth 1 --branch MOODLE_405_STABLE \
+            https://github.com/moodle/moodle "$RUNNER_TEMP/moodle-rig"
+          cd "$RUNNER_TEMP/moodle-rig" && npm ci --no-audit --no-fund
+
+      - name: Refresh the checks store
+        env:
+          BUDGET: ${{ inputs.budget || '60' }}
+          BASE_URL: https://camp-registry.org
+        run: |
+          # --reuse imports documents the store lacks from the live site
+          # (the first fill, and any release publish computed inline before
+          # this job saw it) instead of recomputing them.
+          args=(--moodle-rig "$RUNNER_TEMP/moodle-rig" --reuse "$BASE_URL/checks")
+          [ -n "$BUDGET" ] && args+=(--budget "$BUDGET")
+          camp checks-refresh . "${args[@]}"
+
+      - name: Push the refreshed store
+        run: |
+          if git diff --quiet && [ -z "$(git ls-files --others --exclude-standard checks)" ]; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "camp project"
+          git config user.email "noreply@camp-registry.org"
+          git add checks
+          git commit -m "checks refresh (scheduled)"
+          # main moves during the run (merged claims, release PRs); replay
+          # our commit on top so the push is not rejected (camp-index#406).
+          git pull --rebase origin main
+          git push origin main
