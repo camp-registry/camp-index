@@ -1,0 +1,12 @@
+component: local_vravatar
+source: https://github.com/adamjenkins/moodle-local_vravatar
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-10-10'
+releases: []
+license: GPL-3.0
+summary: Make an avatar for VR Rooms
+dependencies:
+  mod_vrroom: 2026101001

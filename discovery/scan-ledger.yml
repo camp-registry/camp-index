@@ -54457,6 +54457,11 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
     probed: '2026-10-08'
+  adamjenkins/moodle-assignsubmission_vrtour:
+    outcome: written
+    detail: listed as assignsubmission_vrtour
+    first-seen: '2026-10-10'
+    last-checked: '2026-10-10'
   adamjenkins/moodle-atto_cssfontsize:
     outcome: exists
     detail: component atto_cssfontsize already registered (first-come, RFC §8)
@@ -54613,6 +54618,11 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-09-04'
     probed: '2026-10-08'
+  adamjenkins/moodle-local_vravatar:
+    outcome: written
+    detail: listed as local_vravatar
+    first-seen: '2026-10-10'
+    last-checked: '2026-10-10'
   adamjenkins/moodle-mod_aiescape:
     outcome: exists
     detail: component mod_aiescape already registered (first-come, RFC §8)
@@ -54665,6 +54675,11 @@ repos:
     first-seen: '2026-09-04'
     last-checked: '2026-09-05'
     probed: '2026-10-08'
+  adamjenkins/moodle-mod_vrroom:
+    outcome: written
+    detail: listed as mod_vrroom
+    first-seen: '2026-10-10'
+    last-checked: '2026-10-10'
   adamjenkins/moodle-on-LEPP:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
@@ -136211,6 +136226,11 @@ repos:
     detail: 'license: none detected'
     first-seen: '2026-07-10'
     last-checked: '2026-07-11'
+  praxisdigital/moodle-block_sharing_cart:
+    outcome: written
+    detail: listed as block_sharing_cart
+    first-seen: '2026-10-10'
+    last-checked: '2026-10-10'
   praxisdigital/moodle-kslaring:
     outcome: no-version-php
     detail: no parseable version.php at root of branch MOODLE_39_STABLE

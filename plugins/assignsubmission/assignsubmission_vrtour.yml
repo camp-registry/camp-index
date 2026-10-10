@@ -1,0 +1,12 @@
+component: assignsubmission_vrtour
+source: https://github.com/adamjenkins/moodle-assignsubmission_vrtour
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-10-10'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_vrroom: 2026101100
+  vrroomruntime_builtin: 2026101100
