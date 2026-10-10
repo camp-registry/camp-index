@@ -1,5 +1,6 @@
 component: local_omnicatalogue
 source: https://github.com/Darwin5k/moodle-local_omnicatalogue
+source-repo-id: 1239450428
 maintainers:
 - github: Darwin5k
 tier: 1

@@ -1,5 +1,6 @@
 component: customfield_omniselect
 source: https://github.com/Darwin5k/moodle-customfield_omniselect
+source-repo-id: 1239450403
 maintainers:
 - github: Darwin5k
 tier: 1
