@@ -1,0 +1,12 @@
+component: vrroomruntime_companion
+source: https://github.com/adamjenkins/moodle-vrroomruntime_companion
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-10-10'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_vrroom: 2026100800
+  vrroomruntime_builtin: 2026100800

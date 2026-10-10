@@ -1,0 +1,11 @@
+component: vrroomenv_rooms
+source: https://github.com/adamjenkins/moodle-vrroomenv_rooms
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-10-10'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_vrroom: 2026100804

@@ -54766,6 +54766,16 @@ repos:
     detail: listed as tool_wizards
     first-seen: '2026-10-03'
     last-checked: '2026-10-03'
+  adamjenkins/moodle-vrroomenv_rooms:
+    outcome: written
+    detail: listed as vrroomenv_rooms
+    first-seen: '2026-10-10'
+    last-checked: '2026-10-10'
+  adamjenkins/moodle-vrroomruntime_companion:
+    outcome: written
+    detail: listed as vrroomruntime_companion
+    first-seen: '2026-10-10'
+    last-checked: '2026-10-10'
   adammoss/moodlehacks:
     outcome: no-version-php
     detail: no parseable version.php at root of branch main
