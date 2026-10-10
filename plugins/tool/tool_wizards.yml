@@ -51,6 +51,17 @@ releases:
   listing-sha256: 3a3ba6216fc7cfdf25f6306644c9834b6a318b10a1cd20219413e8d6b233a7b9
   published: '2026-10-10T12:20:38Z'
   released: '2026-10-10T12:15:58Z'
+- version: 0.3.1
+  tag: v0.3.1
+  commit: 5f7b7e27438d3312a5ec3d7f1ad61e4097dff511
+  moodle-version: 2026101004
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: d95ee97ea73dd4ee97dc5ae5645b811efc07c9ed4e5db4708788063ffd4263de
+  listing-sha256: 7269f04edd3f141a7e5199ae9a8cbd8888fd3a2635ad37502d3b9a77dd84264c
+  published: '2026-10-10T16:08:23Z'
+  released: '2026-10-10T15:44:00Z'
 license: GPL-3.0
 summary: Wizards to make Moodle more magical (easier)
 security-contact: https://github.com/adamjenkins/moodle-tool_wizards/security
