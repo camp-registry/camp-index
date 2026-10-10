@@ -171,3 +171,13 @@ catquizcentralhub:
   name: CAT quiz central hub plugins
   established: "2026-09-18"
   issue: https://github.com/camp-registry/camp-index/issues/293
+vrroomenv:
+  parent: mod_vrroom
+  name: VR room environments
+  established: "2026-10-10"
+  issue: https://github.com/camp-registry/camp-index/issues/544
+vrroomruntime:
+  parent: mod_vrroom
+  name: VR room runtimes
+  established: "2026-10-10"
+  issue: https://github.com/camp-registry/camp-index/issues/543
