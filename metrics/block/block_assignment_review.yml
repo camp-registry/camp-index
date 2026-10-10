@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: V401.1.1
   date: '2025-03-15T12:33:22Z'
-checked: '2026-09-25'
+latest-tag:
+  tag: V401.1.1
+  date: '2025-03-15T11:38:14Z'
+checked: '2026-10-10'

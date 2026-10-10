@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: sesion_13-12-24
   date: '2024-12-13T22:07:50Z'
-checked: '2026-09-25'
+latest-tag:
+  tag: sesion_13-12-24
+  date: '2024-12-13T22:00:01Z'
+checked: '2026-10-10'

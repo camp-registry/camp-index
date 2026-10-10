@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v1.0
   date: '2021-08-30T00:07:15Z'
-checked: '2026-09-25'
+latest-tag:
+  tag: staging-20260820204502
+  date: '2026-08-20T00:02:18Z'
+checked: '2026-10-10'

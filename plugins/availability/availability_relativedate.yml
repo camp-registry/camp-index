@@ -4,8 +4,7 @@ source-repo-id: 173373971
 maintainers:
 - github: ewallah
 tier: 2
-security-contact: >-
-  https://github.com/ewallah/moodle-availability_relativedate/security/advisories/new
+security-contact: https://github.com/ewallah/moodle-availability_relativedate/security/advisories/new
 labels:
 - fully-free
 status: active

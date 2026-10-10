@@ -1,4 +1,4 @@
-updated: '2026-09-21T12:28:21Z'
+updated: '2026-09-30T17:39:42Z'
 stars: 6
 forks: 4
 open-issues: 9
@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v2.7-r2
   date: '2026-07-31T10:34:28Z'
-checked: '2026-09-25'
+latest-tag:
+  tag: v2.7-r2
+  date: '2026-07-31T10:33:40Z'
+checked: '2026-10-10'

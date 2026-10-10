@@ -1,5 +1,5 @@
 component: block_coursesearch
-source: https://github.com/sharpchi/moodle-block_coursesearch
+source: https://github.com/sharpprojects/moodle-block_coursesearch
 maintainers:
 - github: sharpchi
 tier: 0

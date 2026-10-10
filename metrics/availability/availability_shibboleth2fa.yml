@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v2.0.0
   date: '2026-07-30T08:58:21Z'
-checked: '2026-09-25'
+latest-tag:
+  tag: v2.0.0
+  date: '2026-07-30T07:57:07Z'
+checked: '2026-10-10'
