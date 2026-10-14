@@ -65,10 +65,18 @@ jobs:
           # PR is an arbitrary one of several. A release supporting
           # neither endpoint gets no leg (registry checks still verify
           # it); that is a fact about its supported range, not a defect.
+          #
+          # ENDPOINTS pins the two ends of the registry's target range:
+          # 4.5 LTS and the newest released Moodle branch, each with the
+          # PHP minimum that branch requires. A new Moodle release moves
+          # the upper end (5.2 -> 5.3 in Oct 2026); the weekly upstream
+          # watch compares this list with the branch table and files an
+          # issue when they drift. The database service of the
+          # plugin-checks job must satisfy the upper end too.
           python3 - "$entries" <<'EOF'
           import json, os, subprocess, sys, yaml
           ENDPOINTS = [("MOODLE_405_STABLE", "4.5", "8.2"),
-                       ("MOODLE_502_STABLE", "5.2", "8.3")]
+                       ("MOODLE_503_STABLE", "5.3", "8.3")]
           base = "origin/" + os.environ["BASE_REF"]
           checks = []
           bad = []
@@ -360,7 +368,7 @@ jobs:
   plugin-checks:
     # One leg per (release added by this PR) x (registry-target endpoint
     # branch the release supports) — see the changed job. PHP is paired
-    # per branch there: Moodle 5.2 requires PHP >= 8.3.
+    # per branch there: Moodle 5.3 requires PHP >= 8.3.
     name: moodle-plugin-ci (${{ matrix.entry }}, ${{ matrix.version }}, ${{ matrix.moodle-branch }})
     needs: [changed, registry]
     if: needs.changed.outputs.checks != '[]'
@@ -380,7 +388,9 @@ jobs:
         include: ${{ fromJSON(needs.changed.outputs.checks) }}
     services:
       postgres:
-        image: postgres:16
+        # Moodle 5.3 requires PostgreSQL 17; 4.5 requires 13 or newer
+        # and runs on 17, so one image serves both endpoint legs.
+        image: postgres:17
         env:
           POSTGRES_USER: postgres
           POSTGRES_HOST_AUTH_METHOD: trust

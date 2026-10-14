@@ -20,10 +20,13 @@ jobs:
     if: github.repository == 'camp-registry/camp-index'
     runs-on: ubuntu-24.04
     steps:
-      # Only the pin file is needed from the repository (camp-index#521).
+      # Only the pin file (camp-index#521) and the index-pr workflow, whose
+      # endpoint pins the step below compares with the branch table.
       - uses: actions/checkout@v7
         with:
-          sparse-checkout: .camp-tools-version
+          sparse-checkout: |
+            .camp-tools-version
+            .github/workflows/index-pr.yml
           sparse-checkout-cone-mode: false
 
       - uses: actions/setup-python@v7
@@ -50,14 +53,39 @@ jobs:
           code2=$?
           out3=$(camp check-plugin-types 2>&1)
           code3=$?
-          out=$(printf '%s\n%s\n%s' "$out" "$out2" "$out3")
+          # The index-pr matrix pins the ends of the registry's target
+          # range (D7). When the branch table gains a released branch
+          # newer than the pinned upper end, the pin is stale: new
+          # releases declaring support for the newest Moodle get no CI
+          # leg on it. The Oct 2026 promotion of 5.3 missed this step.
+          out4=$(python3 - <<'PY' 2>&1
+          import re, sys
+          from camp.moodleversions import BRANCHES, PRERELEASE
+          text = open(".github/workflows/index-pr.yml").read()
+          pinned = re.findall(r'\("MOODLE_(\d{3})_STABLE",\s*"([\d.]+)",\s*"[\d.]+"\)', text)
+          if not pinned:
+              print("index-pr.yml: no ENDPOINTS pins found; the watch needs updating")
+              sys.exit(1)
+          upper_code, upper = max((int(code), name) for code, name in pinned)
+          newest_code, newest = max((code, name) for code, name, _ in BRANCHES
+                                    if name not in PRERELEASE)
+          if newest_code > upper_code:
+              print(f"index-pr matrix endpoints need a human edit (.github/workflows/index-pr.yml):\n"
+                    f"  upper endpoint pinned at {upper}; newest released branch is {newest}: "
+                    f"move the pin to MOODLE_{newest_code}_STABLE with that branch's PHP minimum, "
+                    f"and check the plugin-checks database service against its requirements")
+              sys.exit(1)
+          PY
+          )
+          code4=$?
+          out=$(printf '%s\n%s\n%s\n%s' "$out" "$out2" "$out3" "$out4")
           echo "$out"
           {
             echo "findings<<CAMPEOF"
             echo "$out"
             echo "CAMPEOF"
           } >> "$GITHUB_OUTPUT"
-          if [ $code -ne 0 ] || [ $code2 -ne 0 ] || [ $code3 -ne 0 ]; then exit 1; fi
+          if [ $code -ne 0 ] || [ $code2 -ne 0 ] || [ $code3 -ne 0 ] || [ $code4 -ne 0 ]; then exit 1; fi
           exit 0
 
       - name: File the issue (once)
@@ -80,4 +108,4 @@ jobs:
           ${FINDINGS}
           \`\`\`
 
-          For a new stable branch: add the suggested row(s) to \`BRANCHES\` in \`camp/moodleversions.py\`, review the index-pr matrix endpoints and anything else branch-aware. For standard-components drift: review the diff and refresh with \`camp check-standard-plugins --write\` (camp-tools#25). For plugin-type drift: refresh with \`camp check-plugin-types --write\` and name any new type in the display overlay (camp-tools#16; the tests enforce it). Ship as usual. (VORDER derives automatically.)"
+          For a new stable branch: add the suggested row(s) to \`BRANCHES\` in \`camp/moodleversions.py\`, then move the upper endpoint in \`.github/workflows/index-pr.yml\` (the watch reports it as a separate finding once the table is shipped) and anything else branch-aware. For standard-components drift: review the diff and refresh with \`camp check-standard-plugins --write\` (camp-tools#25). For plugin-type drift: refresh with \`camp check-plugin-types --write\` and name any new type in the display overlay (camp-tools#16; the tests enforce it). Ship as usual. (VORDER derives automatically.)"
