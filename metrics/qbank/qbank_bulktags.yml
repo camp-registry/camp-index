@@ -1,4 +1,4 @@
-updated: '2026-10-04T13:08:21Z'
+updated: '2026-10-08T19:14:59Z'
 stars: 3
 forks: 5
 open-issues: 2
@@ -7,7 +7,7 @@ latest-release:
   tag: v1.3.1
   date: '2026-09-08T21:42:41Z'
 latest-tag:
-  tag: v1.3.1
-  date: '2026-09-08T21:37:13Z'
-checked: '2026-10-05'
+  tag: v1.4
+  date: '2026-10-08T19:14:44Z'
+checked: '2026-10-21'
 ci: moodle-plugin-ci

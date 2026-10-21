@@ -1,5 +1,5 @@
 component: local_rsync
-source: https://github.com/roblesjoel/Moodle_Rsync
+source: https://github.com/lucaboesch/moodle-local_rsync
 maintainers:
 - github: roblesjoel
 tier: 0

@@ -26,6 +26,5 @@ releases:
   published: '2026-10-06T22:02:29Z'
   released: '2026-10-06T21:41:57Z'
 license: GPL-3.0
-summary: >-
-  Moodle admin tool: browse and install verified plugins from camp repositories,
-  with policy controls and advisory warnings
+summary: 'Moodle admin tool: browse and install verified plugins from camp repositories,
+  with policy controls and advisory warnings'

@@ -3,8 +3,7 @@ source: https://github.com/tkorner/moodle-local_cohortmembership
 source-repo-id: 1048312094
 maintainers:
 - github: tkorner
-security-contact: >-
-  https://github.com/tkorner/moodle-local_cohortmembership/security/advisories/new
+security-contact: https://github.com/tkorner/moodle-local_cohortmembership/security/advisories/new
 tier: 2
 labels:
 - fully-free

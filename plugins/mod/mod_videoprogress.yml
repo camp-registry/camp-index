@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Video Progress transforms videos into complete activities within the Moodle™
   Software.
+dependencies:
+  local_video_bridge: 2026100505
