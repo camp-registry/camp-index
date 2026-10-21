@@ -2,15 +2,40 @@ component: availability_stash
 source: https://github.com/FMCorz/moodle-availability_stash
 maintainers:
 - github: FMCorz
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/FMCorz/moodle-availability_stash/security
 labels:
 - fully-free
-releases: []
+releases:
+- version: 1.2.4
+  tag: v1.2.4
+  commit: 3572e3baf4e67f7970701b23914e9e065cec2068
+  moodle-version: 2026102100
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    block_stash: 2016052300
+  zip-sha256: ba4ed88b6224b4ed916c827ad655ba4126589facd3bb970fbc44e90a224514c5
+  listing-sha256: 64182bc71e1975e4fbdb546aba09391b9d6a8a9e170111af7a07d40fe309996a
+  published: '2026-10-21T04:00:36Z'
+  released: '2026-10-21T03:34:37Z'
 license: GPL-3.0
-summary: Moodle plugin to limit the access to a course module according to the content
+summary: >-
+  Moodle plugin to limit the access to a course module according to the content
   of a student's stash
 dependencies:
   block_stash: 2016052300
