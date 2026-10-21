@@ -1,0 +1,1 @@
+{"checked": "2026-10-21", "checker": 5, "component": "availability_stash", "versions": {"1.2.4": {"commit": "3572e3baf4e67f7970701b23914e9e065cec2068", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 1, "phplint": true, "rules": {"moodle.Commenting.TodoComment.MissingInfoInline": 1}, "tag": "v1.2.4", "warnings": 1}}}
