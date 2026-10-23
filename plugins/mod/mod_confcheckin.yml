@@ -33,9 +33,24 @@ releases:
   listing-sha256: 1651afd5e18b554b909d67d71dba5ec4b4e143d46d2b6f4861fea72f799fea8c
   published: '2026-10-04T13:39:17Z'
   released: '2026-10-04T11:48:13Z'
+- version: 0.1.3
+  tag: v0.1.3
+  commit: 396d5ff455c53206653a01cfa95cafbab913ffdd
+  moodle-version: 2026102100
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  dependencies:
+    mod_confprogram: any
+  zip-sha256: 1e93f621fd3384d4e40ca4930e3af020611df9762cf7a3176830365ce7a6807e
+  listing-sha256: 3b0bb605a09d676c0a62be8ab37110cf9086c5e643bd49eca7dc5d0afeefe0d1
+  published: '2026-10-23T08:23:07Z'
+  released: '2026-10-21T12:49:14Z'
 license: GPL-3.0
-summary: Conference Check-in — a Moodle activity for issuing and selling conference
-  tickets, printing QR-coded badges, recording attendance, and issuing certificates.
+summary: >-
+  Conference Check-in — a Moodle activity for issuing and selling conference
+  tickets, printing QR-coded badges, recording attendance, and issuing
+  certificates.
 security-contact: https://github.com/adamjenkins/moodle-mod_confcheckin/security
 labels:
 - fully-free
