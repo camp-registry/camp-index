@@ -1,5 +1,6 @@
 component: tiny_generico
 source: https://github.com/justinhunt/moodle-tiny_generico
+source-repo-id: 657372454
 maintainers:
 - github: justinhunt
 tier: 2
