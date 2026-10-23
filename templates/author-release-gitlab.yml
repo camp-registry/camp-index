@@ -36,8 +36,9 @@ camp-release:
     # stale-copy nudge; never fails the run (camp-tools#35)
     - |
       current=$(curl -s --max-time 5 -A "camp-release" https://camp-registry.org/version.json | sed -nE 's/.*"camp-tools": *"([0-9.]+)".*/\1/p')
-      if [ -n "$current" ] && [ "v$current" != "v0.2.68" ]; then
-        echo "NOTICE: this pipeline pins camp-tools v0.2.68 but the current release is v${current}; refresh your copy from templates/author-release-gitlab.yml in camp-registry/camp-index."
+      pinned=$(python -c "import camp; print(camp.__version__)" 2>/dev/null)
+      if [ -n "$current" ] && [ -n "$pinned" ] && [ "$current" != "$pinned" ]; then
+        echo "NOTICE: this pipeline pins camp-tools v${pinned} but the current release is v${current}; refresh your copy from templates/author-release-gitlab.yml in camp-registry/camp-index."
       fi
     - git clone --quiet --depth 1 "$CAMP_INDEX_REPO_URL" index-repo
     - |
