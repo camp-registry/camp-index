@@ -58,6 +58,22 @@ releases:
   listing-sha256: ad8b4e69ba63757b54236391dac5ea3c45c1a774883db7344e8a16d16b50ca09
   published: '2026-10-23T07:52:07Z'
   released: '2026-10-23T07:46:11Z'
+- version: v5.3-r4
+  tag: v5.3-r4
+  commit: 61c00d42150fdf3de7d71bc112ef25f58a7a836f
+  moodle-version: 2026102301
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    mod_openbook: 2026040100
+  zip-sha256: 0fcbc80989636a8e618440c92c5f6c23e7548bb0912834d5b0cb4e361e6a94f4
+  listing-sha256: ad8b4e69ba63757b54236391dac5ea3c45c1a774883db7344e8a16d16b50ca09
+  published: '2026-10-23T19:24:29Z'
+  released: '2026-10-23T19:20:14Z'
 license: GPL-3.0
 summary: >-
   The Openbook Resource Block provides links to files provided by a Openbook
