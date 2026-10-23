@@ -42,8 +42,25 @@ releases:
   - 405
   - 502
   maturity: stable
+- version: v5.3-r3
+  tag: v5.3-r3
+  commit: 53e6a5d37e2aaf5a370b828a881d9c4bba752500
+  moodle-version: 2026102300
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    mod_openbook: 2026040100
+  zip-sha256: 7e68c4391f193897ade37e4777e301aae5b486b88e521ee132087105ab02d3ba
+  listing-sha256: ad8b4e69ba63757b54236391dac5ea3c45c1a774883db7344e8a16d16b50ca09
+  published: '2026-10-23T07:52:07Z'
+  released: '2026-10-23T07:46:11Z'
 license: GPL-3.0
-summary: The Openbook Resource Block provides links to files provided by a Openbook
+summary: >-
+  The Openbook Resource Block provides links to files provided by a Openbook
   Resource Folder (mod_openbook).
 security-contact: https://github.com/lucaboesch/moodle-block_openbook/security/advisories/new
 labels:
