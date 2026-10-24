@@ -35,8 +35,23 @@ releases:
   listing-sha256: 07120d638e401e116e6a7e054498fc583c10d0ba8daada35a66a80226cfbd37f
   published: '2026-10-16T12:48:28Z'
   released: '2026-10-16T11:21:22Z'
+- version: 3.0.5
+  tag: v3.0.5
+  commit: ce965e6ace4a89325202e24933736edf4c1f4b82
+  moodle-version: 2026102400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 139e2b3e21e7a9f19a80016b6a5c86630a78b87ad1d1633475e19e059a93bdbc
+  listing-sha256: 07120d638e401e116e6a7e054498fc583c10d0ba8daada35a66a80226cfbd37f
+  published: '2026-10-24T05:37:14Z'
+  released: '2026-10-24T04:55:43Z'
 license: GPL-3.0
-summary: An accessibility plugin that allows users to customize the visual appearance
+summary: >-
+  An accessibility plugin that allows users to customize the visual appearance
   of a Moodle to suit individual preferences.
 security-contact: https://github.com/adamjenkins/moodle-local_accessibility/security
 labels:
