@@ -23,6 +23,22 @@ releases:
   listing-sha256: de493825be6538d73d0104be1c4eb4e51baa4e3f7f56acd5314792a8cac5efdd
   published: '2026-10-04T14:55:58Z'
   released: '2026-10-04T13:38:32Z'
+- version: 0.2.0
+  tag: v0.2.0
+  commit: 6a3a74ff00bf3aed983ec67eba46bb5e56e40151
+  moodle-version: 2026102400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_sheetmusic: 2026102400
+  zip-sha256: a23a0e0a9110fff03c1114b00662a41ccd232a922143c193040cdced66f5ea74
+  listing-sha256: a7400b9ba97625b2c861fec8d52d9db807f0609198b2968380727c10e6cab3fe
+  published: '2026-10-24T04:24:43Z'
+  released: '2026-10-24T03:26:53Z'
 license: GPL-3.0
 summary: Write music scores in Moodle's TinyMCE editor
 dependencies:
