@@ -21,6 +21,20 @@ releases:
   listing-sha256: 354a2731e3ea439effe412ba29eedb2845ac8ab917c8284136355219e02982f5
   published: '2026-10-04T16:39:32Z'
   released: '2026-10-04T13:55:21Z'
+- version: 0.2.0
+  tag: v0.2.0
+  commit: ddbe6c0e5e651acd580b29166f2bee93a37db0d4
+  moodle-version: 2026102402
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 50b893df2f5eee467f0e23d91f9a05e120d3d59a74aa5c61d5ec4cf63fde8557
+  listing-sha256: 3453cc1871e3344b953300a7498ad5956c575f69717095d130fd18318d48c3e3
+  published: '2026-10-24T06:12:58Z'
+  released: '2026-10-24T05:52:10Z'
 license: GPL-3.0
 summary: An activity to find a time to meet
 security-contact: https://github.com/adamjenkins/moodle-mod_findatime/security
