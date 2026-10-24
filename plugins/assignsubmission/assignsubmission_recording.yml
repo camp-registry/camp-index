@@ -20,6 +20,19 @@ releases:
   listing-sha256: 07b2dbdbb9b5da58fb08849e3670d3945c628b04bf0738ff842a5ea96adecf55
   published: '2026-10-04T13:26:03Z'
   released: '2026-10-04T11:48:11Z'
+- version: 0.1.5
+  tag: v0.1.5
+  commit: 4647587df2db1ff5432e6e2f5b4826f12fa9f3af
+  moodle-version: 2026102400
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: b11ec6f9fac558dce0b118087e2984768e07a05891be2545a2cbe9a4ba581ab9
+  listing-sha256: 3b2878b345d2e024855a6426ffb0e03331151035b8d330a78696866a2869334d
+  published: '2026-10-24T03:45:08Z'
+  released: '2026-10-24T03:29:01Z'
 license: GPL-3.0
 summary: Submissions must be recorded audio or video.
 security-contact: https://github.com/adamjenkins/moodle-assignsubmission_recording/security
