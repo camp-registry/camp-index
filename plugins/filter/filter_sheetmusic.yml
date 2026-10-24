@@ -23,6 +23,22 @@ releases:
   listing-sha256: e7add20840bd8d286c796fa3116619448c8a61d52b42e1d6f47795a2be18fa8b
   published: '2026-10-04T14:55:15Z'
   released: '2026-10-04T13:38:28Z'
+- version: 0.3.0
+  tag: v0.3.0
+  commit: a17b504d976077e893c378dbb128985c8ca973df
+  moodle-version: 2026102400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_sheetmusic: 2026102400
+  zip-sha256: 74ef24ce6404f52cd373c1d74394f0c01b9d58b04a6c6b3a26c3fd3843b5d933
+  listing-sha256: 4d78907060a8570f68eb34eef27dc7db69aacee265e61d0da5d8210bb7f1c555
+  published: '2026-10-24T04:22:31Z'
+  released: '2026-10-24T03:26:52Z'
 license: GPL-3.0
 summary: Display sheet music in Moodle
 dependencies:
