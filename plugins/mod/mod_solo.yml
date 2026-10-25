@@ -27,5 +27,20 @@ releases:
   listing-sha256: ae2c841e492981f2272955a99fc9019644c25eae8a923f58871d3b0eeddd3cdb
   published: '2026-10-18T14:07:51Z'
   released: '2026-10-18T14:02:34Z'
+- version: 1.0.80
+  tag: v1.0.80
+  commit: ab11f4892737838860a14ba643e7db833ce63f0a
+  moodle-version: 2026102500
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: e2935f8725c0bcc6095f0d2d744f031f90227aa8776af8eb0fb2b2498ffbe9ff
+  listing-sha256: ae2c841e492981f2272955a99fc9019644c25eae8a923f58871d3b0eeddd3cdb
+  published: '2026-10-25T06:34:46Z'
+  released: '2026-10-25T06:03:05Z'
 license: GPL-3.0
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
