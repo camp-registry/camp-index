@@ -1,9 +1,10 @@
-updated: '2025-11-28T02:51:12Z'
+updated: '2026-10-21T03:47:23Z'
 stars: 4
 forks: 9
-open-issues: 2
+open-issues: 1
 archived: false
 latest-tag:
-  tag: v1.2.3
-  date: '2025-11-28T02:50:55Z'
-checked: '2026-10-10'
+  tag: v1.2.4
+  date: '2026-10-21T03:34:37Z'
+checked: '2026-10-25'
+ci: moodle-plugin-ci

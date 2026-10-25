@@ -1,5 +1,5 @@
 component: local_lumination
-source: https://github.com/Borjablm/moodle-local_lumination
+source: https://github.com/lum-earth/moodle-local_lumination
 maintainers:
 - github: Borjablm
 tier: 0

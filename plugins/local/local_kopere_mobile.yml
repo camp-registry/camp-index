@@ -13,4 +13,4 @@ releases: []
 license: GPL-3.0
 summary: Integrations and features that bring a mobile experience to your platform.
 dependencies:
-  local_kopere_dashboard: 2026052400
+  local_kopere_dashboard: 2026101900

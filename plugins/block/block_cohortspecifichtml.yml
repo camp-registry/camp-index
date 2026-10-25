@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: This HTML block provides the possibility to selectively display the block
   to members of specific cohorts.
 dependencies:
-  block_html: 2026042000
+  block_html: 2026100500

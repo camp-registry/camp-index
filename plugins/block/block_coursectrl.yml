@@ -1,5 +1,5 @@
 component: block_coursectrl
-source: https://github.com/ralferlebach/moodle-block_coursectrl
+source: https://github.com/ralferlebach/moodle-block_coursectrllearntip
 maintainers:
 - github: ralferlebach
 tier: 0
@@ -9,3 +9,7 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_coursectrl: 2026040908
+summary: 'Development notice: Learn Tip is a planned, small learner-facing Moodle
+  course block. This repository currently contains a copied blockcoursectrl scaffold:
+  its version.php, namespaces and capabilities have not yet been renamed to blockcoursectrllearntip.
+  Do not treat this checkout as a safely instal'
