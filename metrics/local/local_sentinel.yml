@@ -1,5 +1,5 @@
-updated: '2026-09-14T21:15:18Z'
-stars: 0
+updated: '2026-10-21T00:01:52Z'
+stars: 1
 forks: 0
 open-issues: 3
 archived: false
@@ -9,5 +9,5 @@ latest-release:
 latest-tag:
   tag: v2.22.4
   date: '2026-09-14T21:13:29Z'
-checked: '2026-10-11'
+checked: '2026-10-26'
 ci: moodle-plugin-ci

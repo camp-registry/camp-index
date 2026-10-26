@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: TODO Describe the plugin shortly here.
 dependencies:
-  local_wunderbyte_table: 2026073000
+  local_wunderbyte_table: 2026102200

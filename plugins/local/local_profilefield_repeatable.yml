@@ -1,5 +1,5 @@
 component: local_profilefield_repeatable
-source: https://github.com/uaiblaine/moodle-local_profilefield_repeatable
+source: https://github.com/uaiblaine/moodle-local_dictionaries
 maintainers:
 - github: uaiblaine
 tier: 0
