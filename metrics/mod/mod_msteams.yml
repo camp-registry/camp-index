@@ -1,7 +1,7 @@
 updated: '2025-10-07T20:05:16Z'
 stars: 2
-forks: 6
-open-issues: 1
+forks: 8
+open-issues: 3
 archived: false
 latest-release:
   tag: v1.5
@@ -9,4 +9,4 @@ latest-release:
 latest-tag:
   tag: v1.6-2025060500
   date: '2025-06-11T04:12:19Z'
-checked: '2026-10-12'
+checked: '2026-10-27'

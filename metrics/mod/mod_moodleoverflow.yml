@@ -1,7 +1,7 @@
-updated: '2026-10-11T13:06:38Z'
+updated: '2026-10-26T20:13:22Z'
 stars: 17
-forks: 26
-open-issues: 10
+forks: 28
+open-issues: 11
 archived: false
 latest-release:
   tag: v5.2-r2
@@ -9,4 +9,4 @@ latest-release:
 latest-tag:
   tag: v5.2-r2
   date: '2026-07-07T07:42:29Z'
-checked: '2026-10-12'
+checked: '2026-10-27'

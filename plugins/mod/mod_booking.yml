@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: Moodle Booking Module
 dependencies:
-  local_wunderbyte_table: 2026081800
+  local_wunderbyte_table: 2026102200

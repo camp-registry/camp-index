@@ -129,6 +129,5 @@ releases:
   published: '2026-10-26T15:43:37Z'
   released: '2026-10-26T15:35:38Z'
 license: GPL-3.0
-summary: >-
-  A Moodle plugin to send xAPI statements to an LRS using events in the Moodle
+summary: A Moodle plugin to send xAPI statements to an LRS using events in the Moodle
   logstore.

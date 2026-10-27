@@ -1,5 +1,5 @@
 component: mod_externalassignment
-source: https://github.com/BZZ-Commons/moodle-mod-externalassignment
+source: https://github.com/BZZ-Commons/moodle-mod_externalassignment
 maintainers:
 - github: BZZ-Commons
 tier: 0

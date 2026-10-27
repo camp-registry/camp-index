@@ -1,5 +1,5 @@
 component: mod_pdfparts
-source: https://github.com/vundicind/moodle-mod_pdfparts
+source: https://github.com/radudumbraveanu/moodle-mod_pdfparts
 maintainers:
 - github: vundicind
 tier: 0
