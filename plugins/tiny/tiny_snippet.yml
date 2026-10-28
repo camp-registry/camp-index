@@ -2,12 +2,28 @@ component: tiny_snippet
 source: https://github.com/justinhunt/moodle-tiny_snippet
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/justinhunt/moodle-tiny_snippet/security/advisories/new
 labels:
 - fully-free
-releases: []
+releases:
+- version: 1.0.5
+  tag: v1.0.5
+  commit: 4c054717a7244b59370e50ef6e20d348898eb52d
+  moodle-version: 2026102800
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 5ae49e55f2e9043023bc5818e2936e153111d1f14b984db9a9be12dcab0c1085
+  listing-sha256: c20f704263c055c4af6546f51a254ddd1442b3f9432ea30bbca9546dc388f8cf
+  published: '2026-10-28T05:33:21Z'
+  released: '2026-10-28T05:21:10Z'
 license: GPL-3.0
 summary: Snippets for Moodle Tiny
