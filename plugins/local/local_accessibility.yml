@@ -49,6 +49,20 @@ releases:
   listing-sha256: 07120d638e401e116e6a7e054498fc583c10d0ba8daada35a66a80226cfbd37f
   published: '2026-10-24T05:37:14Z'
   released: '2026-10-24T04:55:43Z'
+- version: 3.0.6
+  tag: v3.0.6
+  commit: 428c7670bbda6750eda89c238f028bff53b4d5d4
+  moodle-version: 2026102800
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 44143387394c7247a021b8d7f45b4b9d2c0e3d2253b954ed90140eaaa62a8713
+  listing-sha256: 07120d638e401e116e6a7e054498fc583c10d0ba8daada35a66a80226cfbd37f
+  published: '2026-10-28T10:36:15Z'
+  released: '2026-10-28T10:25:56Z'
 license: GPL-3.0
 summary: >-
   An accessibility plugin that allows users to customize the visual appearance
