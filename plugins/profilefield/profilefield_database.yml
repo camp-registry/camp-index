@@ -13,5 +13,5 @@ releases: []
 license: GPL-3.0
 summary: Create profile fields connected to information stored in the database.
 dependencies:
-  local_kopere_dashboard: 2025031400
-  local_kopere_bi: 2025030800
+  local_kopere_dashboard: 2026102700
+  local_kopere_bi: 2026102700

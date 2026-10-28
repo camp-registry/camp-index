@@ -9,5 +9,5 @@ latest-release:
 latest-tag:
   tag: v1.64
   date: '2026-07-28T19:43:44Z'
-checked: '2026-10-13'
+checked: '2026-10-28'
 ci: moodle-plugin-ci

@@ -8,3 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: moodle-profilefieldrepeatable
+dependencies:
+  local_repeatable: 2026042004
