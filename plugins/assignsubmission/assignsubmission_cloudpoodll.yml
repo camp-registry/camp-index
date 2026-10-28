@@ -6,7 +6,8 @@ maintainers:
 tier: 2
 status: active
 discovered: '2026-07-11'
-security-contact: https://github.com/justinhunt/moodle-assignsubmission_cloudpoodll/security/advisories/new
+security-contact: >-
+  https://github.com/justinhunt/moodle-assignsubmission_cloudpoodll/security/advisories/new
 labels:
 - paid-service
 - external-account
@@ -27,5 +28,21 @@ releases:
   listing-sha256: 41b8c24bbaee0133b4dec6f56e8ac512ce2be4a7a82cd011c3c4801af3857aca
   published: '2026-10-18T14:07:51Z'
   released: '2026-10-18T14:02:36Z'
+- version: 1.0.51
+  tag: v1.0.51
+  commit: 50fa365b3406c1f32970ece659c620f10c76c3e5
+  moodle-version: 2026102700
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: e9a392f204d4c51e28c9dd054d60d941ad1bcceb3c0f4bb1544ee71beec04881
+  listing-sha256: 41b8c24bbaee0133b4dec6f56e8ac512ce2be4a7a82cd011c3c4801af3857aca
+  published: '2026-10-28T05:06:20Z'
+  released: '2026-10-27T08:46:16Z'
 license: GPL-3.0
 summary: CloudPoodll Moodle assignment
