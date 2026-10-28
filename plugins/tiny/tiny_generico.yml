@@ -25,5 +25,21 @@ releases:
   listing-sha256: 62f99c094b6ed6276ed2a2487c38e85153bc354b461a5a4ca40bdb0b42e8241a
   published: '2026-10-20T14:46:06Z'
   released: '2026-10-20T14:45:43Z'
+- version: 1.0.8
+  tag: v1.0.8
+  commit: 94b92b5e4c9544cbe9daafd57485897613c33062
+  moodle-version: 2026102700
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: af9e5437d7d3b7b4fb2099554483ac127248a948dfa879e15b9429618d279ed8
+  listing-sha256: 62f99c094b6ed6276ed2a2487c38e85153bc354b461a5a4ca40bdb0b42e8241a
+  published: '2026-10-28T05:05:58Z'
+  released: '2026-10-27T08:12:54Z'
 license: GPL-3.0
 summary: Generico for TinyMCE
