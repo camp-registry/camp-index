@@ -2,9 +2,12 @@ component: tiny_snippet
 source: https://github.com/justinhunt/moodle-tiny_snippet
 maintainers:
 - github: justinhunt
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
+security-contact: https://github.com/justinhunt/moodle-tiny_snippet/security/advisories/new
+labels:
+- fully-free
 releases: []
 license: GPL-3.0
 summary: Snippets for Moodle Tiny
