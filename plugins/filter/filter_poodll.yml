@@ -3,7 +3,7 @@ source: https://github.com/justinhunt/moodle-filter_poodll
 source-repo-id: 19263516
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/justinhunt/moodle-filter_poodll/security/advisories/new
@@ -11,6 +11,22 @@ labels:
 - paid-service
 - external-account
 - commercial-support-available
-releases: []
+releases:
+- version: 3.1.94
+  tag: v3.1.94
+  commit: 0b369f8ae1e5d9dc4a9bfdef672a54a875b3a1b1
+  moodle-version: 2026102700
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 08a8f31602f96c923677a11fd088359f7ae392f59c60a665cd700a86913eeb30
+  listing-sha256: d04087130eb3771829662aebd9acbf299af5c0f6134ea212d2a5e37805bca034
+  published: '2026-10-28T05:05:58Z'
+  released: '2026-10-27T08:47:18Z'
 license: GPL-3.0
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
