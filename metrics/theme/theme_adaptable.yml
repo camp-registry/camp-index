@@ -9,5 +9,5 @@ latest-release:
 latest-tag:
   tag: V502.2.1
   date: '2026-10-06T10:08:59Z'
-checked: '2026-10-14'
+checked: '2026-10-29'
 ci: moodle-plugin-ci
