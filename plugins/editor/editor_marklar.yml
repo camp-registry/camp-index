@@ -1,10 +1,10 @@
 component: editor_marklar
-source: https://github.com/mudrd8mz/moodle-editor_marklar
+source: https://github.com/bfh/moodle-editor_marklar
 source-repo-id: 52563408
 maintainers:
-- github: mudrd8mz
+- github: bfh
 tier: 2
-security-contact: https://github.com/mudrd8mz/moodle-editor_marklar/security/advisories
+security-contact: https://github.com/bfh/moodle-editor_marklar/security/advisories
 labels:
 - fully-free
 status: active
