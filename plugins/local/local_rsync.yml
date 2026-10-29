@@ -1,5 +1,6 @@
 component: local_rsync
 source: https://github.com/lucaboesch/moodle-local_rsync
+source-repo-id: 499156541
 maintainers:
 - name: Luca Bösch
   github: lucaboesch

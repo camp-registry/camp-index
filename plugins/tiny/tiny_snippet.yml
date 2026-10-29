@@ -1,5 +1,6 @@
 component: tiny_snippet
 source: https://github.com/justinhunt/moodle-tiny_snippet
+source-repo-id: 701988710
 maintainers:
 - github: justinhunt
 tier: 2
