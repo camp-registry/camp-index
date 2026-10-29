@@ -58,6 +58,28 @@ releases:
   - 39
   - 502
   maturity: stable
+- version: v5.3-r2
+  tag: v5.3-r2
+  commit: 7cd2ac774778b4e348c8ceecdb50cee413eda64e
+  moodle-version: 2026102900
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: edbdb0d674b89d23bc2a9ee5856bd0ea73714da53967d9c3dd7a414e3e3d9535
+  listing-sha256: 5eef7e63ecabee3c760fe5e225fcda2573b735f66a389178ca825a9314a5aa71
+  published: '2026-10-29T16:13:59Z'
+  released: '2026-10-29T16:08:57Z'
 license: GPL-3.0
 summary: moodle-quizarchive
 security-contact: https://github.com/bfh/moodle-quiz_archive/security
