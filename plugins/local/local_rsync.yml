@@ -1,10 +1,14 @@
 component: local_rsync
 source: https://github.com/lucaboesch/moodle-local_rsync
 maintainers:
-- github: roblesjoel
-tier: 0
+- name: Luca Bösch
+  github: lucaboesch
+tier: 1
 status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
-summary: This is the official repo of the Project 1 project "Moodle_Rsync".
+summary: Moodle_Rsync adds several options to CLI manage Moodle resources and courses.
+security-contact: https://github.com/lucaboesch/moodle-local_rsync/security
+labels:
+- fully-free
