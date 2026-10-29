@@ -27,5 +27,19 @@ releases:
   - 402
   - 405
   maturity: stable
+- version: 1.0.6
+  tag: 1.0.6
+  commit: eebb8cd5e9661b2d623c753d904225805b14f712
+  moodle-version: 2026102900
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 77e3d699af0fe791166670bc357f993014e50160f7682f1891ba1ae2be917add
+  listing-sha256: 3a84376da98b4c292c2a936363715b81d5107971e41b37c96f6f237df253a0ae
+  published: '2026-10-29T19:58:29Z'
+  released: '2026-10-29T01:18:51Z'
 summary: Markdown friendly editor for Moodle
 license: GPL-3.0
