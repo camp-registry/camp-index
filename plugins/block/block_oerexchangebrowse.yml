@@ -83,6 +83,21 @@ releases:
   listing-sha256: 771224bb1fb65ccfd1635ef4e776d7c4f05f7452e3887ba799d46f39ee985c8a
   published: '2026-10-20T15:08:53Z'
   released: '2026-10-20T14:22:20Z'
+- version: 1.0.8
+  tag: v1.0.8
+  commit: ee391c651c38adc535b5a0cc0bf1120f4c378be4
+  moodle-version: 2026102900
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_oerexchange: 2026102000
+  zip-sha256: fc583df1a489f483abbb3b21c25502c8ac9057a6fa470ff3abcf38287316a308
+  listing-sha256: 771224bb1fb65ccfd1635ef4e776d7c4f05f7452e3887ba799d46f39ee985c8a
+  published: '2026-10-29T15:08:46Z'
+  released: '2026-10-29T13:46:34Z'
 license: GPL-3.0
 security-contact: https://github.com/adamjenkins/moodle-block_oerexchangebrowse/security
 labels:
