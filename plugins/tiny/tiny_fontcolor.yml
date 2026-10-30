@@ -4,10 +4,24 @@ source-repo-id: 623578687
 maintainers:
 - name: Bern University of Applied Sciences
   github: bfh
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: '1.6'
+  tag: V1.6
+  commit: 80b36c40064b60f18497f16c4fb4b0b427cb27a7
+  moodle-version: 2026103000
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: f794cdb554d9b83ae90d7541be8263de6006064da9bffd34943c025bf8919d9a
+  listing-sha256: eaced79b91d883a4caff4e3885dd34f6ea82a541f00ca810c078e353cc31b942
+  published: '2026-10-30T18:05:58Z'
+  released: '2026-10-30T09:11:24Z'
 license: GPL-3.0
 summary: moodle-tinyfontcolor
 security-contact: https://github.com/bfh/moodle-tiny_fontcolor/security
