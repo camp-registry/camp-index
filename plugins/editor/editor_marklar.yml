@@ -2,7 +2,8 @@ component: editor_marklar
 source: https://github.com/bfh/moodle-editor_marklar
 source-repo-id: 52563408
 maintainers:
-- github: bfh
+- name: Bern University of Applied Sciences
+  github: bfh
 tier: 2
 security-contact: https://github.com/bfh/moodle-editor_marklar/security/advisories
 labels:
