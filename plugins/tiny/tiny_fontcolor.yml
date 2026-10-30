@@ -1,5 +1,6 @@
 component: tiny_fontcolor
 source: https://github.com/bfh/moodle-tiny_fontcolor
+source-repo-id: 623578687
 maintainers:
 - name: Bern University of Applied Sciences
   github: bfh
