@@ -2,7 +2,11 @@ component: local_guardlms
 source: https://github.com/LdesignMedia/moodle-local_guardlms
 maintainers:
 - github: LdesignMedia
-tier: 0
+security-contact: https://github.com/LdesignMedia/moodle-local_guardlms/security/advisories/new
+tier: 1
+labels:
+- paid-service
+- external-account
 status: active
 discovered: '2026-09-04'
 releases: []
