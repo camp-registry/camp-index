@@ -1,7 +1,7 @@
-updated: '2026-10-16T08:11:34Z'
-stars: 14
-forks: 19
-open-issues: 46
+updated: '2026-10-30T15:23:32Z'
+stars: 15
+forks: 20
+open-issues: 44
 archived: false
 latest-release:
   tag: v4.6.7-2026010804
@@ -9,4 +9,4 @@ latest-release:
 latest-tag:
   tag: v5.1-2026071003
   date: '2026-07-10T12:13:52Z'
-checked: '2026-10-16'
+checked: '2026-10-31'
