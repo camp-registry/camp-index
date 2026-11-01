@@ -58,6 +58,28 @@ releases:
   - 39
   - 502
   maturity: stable
+- version: v5.3-r2
+  tag: v5.3-r2
+  commit: cd0ca6abc9a4d3004f9a2e358a18d9b8a35f2a9f
+  moodle-version: 2026110100
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: eebca895f8ef5c1b3c8dc468751d68f574c1aa96ce1d69e959a5ea9b6a35d9bb
+  listing-sha256: 08c9a176b2bb0028f9c9153eb7a2443fa312f02b1dee727b89803bccb1a53f8d
+  published: '2026-11-01T16:02:34Z'
+  released: '2026-11-01T15:44:35Z'
 license: GPL-3.0
 summary: Moodle Differentiator
 security-contact: https://github.com/lucaboesch/moodle-local_differentiator/security
