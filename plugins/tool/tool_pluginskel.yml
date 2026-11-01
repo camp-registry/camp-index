@@ -1,5 +1,5 @@
 component: tool_pluginskel
-source: https://github.com/mudrd8mz/moodle-tool_pluginskel
+source: https://github.com/moodlehq/moodle-tool_pluginskel
 maintainers:
 - github: mudrd8mz
 tier: 0

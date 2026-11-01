@@ -9,4 +9,4 @@ releases: []
 summary: Moodle plugin which adds a Redis management GUI to Moodle site administration.
 license: GPL-3.0
 dependencies:
-  cachestore_redis: 2026042000
+  cachestore_redis: 2026100500
