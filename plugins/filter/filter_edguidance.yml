@@ -8,6 +8,6 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 dependencies:
-  local_edguidance: 2026092500
+  local_edguidance: 2026102200
 summary: Part of teacher guidance - see local/edguidance/README.md for the design,
   which covers all

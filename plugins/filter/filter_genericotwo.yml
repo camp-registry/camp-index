@@ -4,8 +4,7 @@ source-repo-id: 1117278541
 maintainers:
 - github: justinhunt
 tier: 2
-security-contact: >-
-  https://github.com/justinhunt/moodle-filter_genericotwo/security/advisories/new
+security-contact: https://github.com/justinhunt/moodle-filter_genericotwo/security/advisories/new
 labels:
 - fully-free
 status: active

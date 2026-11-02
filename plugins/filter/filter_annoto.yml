@@ -1,5 +1,5 @@
 component: filter_annoto
-source: https://github.com/Annoto/moodle-filter_annoto
+source: https://github.com/AnnotoLegacy/moodle-filter_annoto
 maintainers:
 - github: Annoto
 tier: 0

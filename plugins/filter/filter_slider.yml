@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: Filter for attaching slider created in block_slider to content in Moodle.
 dependencies:
-  block_slider: 2020011302
+  block_slider: 2026102050

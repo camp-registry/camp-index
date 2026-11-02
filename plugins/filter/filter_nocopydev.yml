@@ -1,5 +1,5 @@
 component: filter_nocopydev
-source: https://github.com/mkpelletier/moodle-filter_nocopydev
+source: https://github.com/mkpelletier/moodle-filter_tripwire
 maintainers:
 - github: mkpelletier
 tier: 0

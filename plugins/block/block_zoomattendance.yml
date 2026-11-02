@@ -8,5 +8,5 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 dependencies:
-  local_zoomattendance: 2026100602
+  local_zoomattendance: 2026102000
 summary: A Moodle dashboard block for localzoomattendance.

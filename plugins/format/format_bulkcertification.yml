@@ -18,5 +18,5 @@ license: GPL-3.0
 summary: Course format used to generate certificates in bulk. It is based on the mod_simplecertificate
   component.
 dependencies:
-  format_topics: 2024100700
+  format_topics: 2025100600
   mod_simplecertificate: 2024051106

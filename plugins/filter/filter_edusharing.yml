@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: The edu-sharing filter displays embedded edu-sharing content.
 dependencies:
-  mod_edusharing: 2026101200
+  mod_edusharing: 2026110200
