@@ -1,5 +1,5 @@
 component: block_questionfilter
-source: https://github.com/Moodle-in-Niedersachsene-V/block_questionfilter
+source: https://github.com/Moodle-in-Niedersachsene-V/block_fragenfilter
 maintainers:
 - github: Moodle-in-Niedersachsene-V
 tier: 0

@@ -1,9 +1,12 @@
-updated: '2026-10-16T23:43:01Z'
+updated: '2026-11-03T02:34:57Z'
 stars: 0
 forks: 0
 open-issues: 0
 archived: false
+latest-release:
+  tag: v0.2.7
+  date: '2026-11-03T02:35:30Z'
 latest-tag:
-  tag: v0.2.1
-  date: '2026-10-16T23:42:56Z'
-checked: '2026-10-19'
+  tag: v0.2.7
+  date: '2026-11-03T02:29:12Z'
+checked: '2026-11-03'

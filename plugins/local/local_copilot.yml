@@ -12,5 +12,5 @@ summary: This repository contains Moodle plugin and agent samples for Education 
   are provided as M365 Copilot extensibility and therefore should be used with its
   existing customer-facing documentation.
 dependencies:
-  local_oauth2: 2025100601
+  local_oauth2: 2026100500
   webservice_restful: 2024050604

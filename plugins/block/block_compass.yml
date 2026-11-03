@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle block: my courses by relevance, in three tiers (Moodle 5.2+)'
 dependencies:
-  local_unlistedcourses: 2026042003
+  local_unlistedcourses: 2026100505

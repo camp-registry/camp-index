@@ -8,3 +8,5 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 summary: Moodle activity module videosummary
+dependencies:
+  local_video_bridge: 2026100600

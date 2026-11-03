@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle plugin: block_trainingmatrix_teacher'
 dependencies:
-  local_trainingmatrix: 2026101201
+  local_trainingmatrix: 2026110200

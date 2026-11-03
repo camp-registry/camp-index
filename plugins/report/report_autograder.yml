@@ -8,6 +8,6 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 dependencies:
-  local_autograder: 2026093000
+  local_autograder: 2026101901
 summary: Shows what Autograder  decided for every student, per activity, course and
   site
