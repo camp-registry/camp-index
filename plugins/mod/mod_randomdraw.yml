@@ -1,0 +1,9 @@
+component: mod_randomdraw
+source: https://github.com/MarkusMau/moodle-mod_randomdraw
+maintainers:
+- github: MarkusMau
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

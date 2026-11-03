@@ -1,0 +1,9 @@
+component: block_search4all
+source: https://github.com/acms2345/moodle-block_search4all
+maintainers:
+- github: acms2345
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

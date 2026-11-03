@@ -1,0 +1,9 @@
+component: block_exportquizquestions
+source: https://github.com/germanbobadilla/moodle-block_exportquizquestions
+maintainers:
+- github: germanbobadilla
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,11 @@
+component: local_hyperstack
+source: https://github.com/hyperstack/moodle-local_hyperstack
+maintainers:
+- github: hyperstack
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Hyperstack Credentials plugin for Moodle: issue certificates and badges
+  when learners complete a course'

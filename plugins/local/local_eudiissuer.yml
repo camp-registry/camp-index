@@ -1,0 +1,11 @@
+component: local_eudiissuer
+source: https://github.com/TalaoDAO/moodle-local_eudiissuer
+maintainers:
+- github: TalaoDAO
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Deliver Moodle course badge attestations to an EUDI Wallet. Issuance plugin
+  by Web3 Digital Wallet (Talao).

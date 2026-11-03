@@ -1,0 +1,10 @@
+component: filter_aisim
+source: https://github.com/blagojevicboban/moodle-filter_aisim
+maintainers:
+- github: blagojevicboban
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: AI Simulation Viewer Filter for Moodle (AI for VET)

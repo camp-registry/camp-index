@@ -1,0 +1,10 @@
+component: local_railvieweradmin
+source: https://github.com/dpr-rail/moodle-local_railvieweradmin
+maintainers:
+- github: dpr-rail
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle/Totara-Plugin local_railvieweradmin

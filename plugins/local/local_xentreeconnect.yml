@@ -1,0 +1,11 @@
+component: local_xentreeconnect
+source: https://github.com/godfreu/moodle-local_xentreeconnect
+maintainers:
+- github: godfreu
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin that connects your Moodle site to Xentree: signed Connect
+  button launch and webhook receiver with configurable data retention.'

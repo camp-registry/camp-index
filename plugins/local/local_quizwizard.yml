@@ -1,0 +1,13 @@
+component: local_quizwizard
+source: https://github.com/TALELMN/moodle-local_quizwizard
+maintainers:
+- github: TALELMN
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: A Moodle local plugin that makes creating MCQ quizzes extremely simple for
+  teachers.
+dependencies:
+  mod_quiz: 2022112800

@@ -1,0 +1,9 @@
+component: block_le_dashboard
+source: https://github.com/pd431/moodle_block_le_dashboard
+maintainers:
+- github: pd431
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

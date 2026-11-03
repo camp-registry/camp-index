@@ -1,0 +1,13 @@
+component: local_rolesaudit
+source: https://github.com/Learnymag/moodle-local_rolesaudit
+maintainers:
+- github: Learnymag
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Roles Audit lets site administrators compare the capability definitions of
+  several roles side by side, filter them, and change a permission in one click. Role
+  definitions can be exported to JSON and imported on another site, with a preview
+  of every change, safeguards against privilege escalation, an

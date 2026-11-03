@@ -1,0 +1,9 @@
+component: block_boasvindas
+source: https://gitlab.com/eadufpe/moodle-block_boasvindas
+maintainers:
+- gitlab: eadufpe
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

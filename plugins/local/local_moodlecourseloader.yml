@@ -1,0 +1,11 @@
+component: local_moodlecourseloader
+source: https://github.com/LibreriadeSatoshi/moodle-local_moodlecourseloader
+maintainers:
+- github: LibreriadeSatoshi
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: MIT
+summary: Moodle local plugin exposing web services for section and page management
+  (used by moodle-course-loader CLI)

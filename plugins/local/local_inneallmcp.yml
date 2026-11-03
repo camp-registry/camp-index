@@ -1,0 +1,11 @@
+component: local_inneallmcp
+source: https://github.com/ciaranInneall/moodle-local_inneallmcp
+maintainers:
+- github: ciaranInneall
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Inneall MCP Tools for Moodle (local_inneallmcp) — AI-ready web services for
+  MCP clients

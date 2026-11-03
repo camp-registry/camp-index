@@ -1,0 +1,13 @@
+component: certificateelement_flexdate
+source: https://github.com/108design/moodle-certificateelement_flexdate
+maintainers:
+- github: 108design
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: GPL-licensed Moodle Certificate manager element for flexible localized date
+  formatting.
+dependencies:
+  tool_certificate: any

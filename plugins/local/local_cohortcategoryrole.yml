@@ -1,0 +1,11 @@
+component: local_cohortcategoryrole
+source: https://github.com/Darwin5k/moodle-local_cohortcategoryrole
+maintainers:
+- github: Darwin5k
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: sync cohort members to a role in a course category,
+  so each audience sees only its own part of course catalogues.'

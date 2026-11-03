@@ -1,0 +1,9 @@
+component: local_copy_role_capabilities
+source: https://github.com/mattan-d/moodle-local_copy_role_capabilities
+maintainers:
+- github: mattan-d
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

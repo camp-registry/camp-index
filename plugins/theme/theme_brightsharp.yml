@@ -1,0 +1,11 @@
+component: theme_brightsharp
+source: https://github.com/PelorusLabs/moodle-theme_brightsharp
+maintainers:
+- github: PelorusLabs
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_boost: 2026042000

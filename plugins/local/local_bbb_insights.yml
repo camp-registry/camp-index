@@ -1,0 +1,11 @@
+component: local_bbb_insights
+source: https://github.com/edw-edtech/moodle-local_bbb_insights
+maintainers:
+- github: edw-edtech
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin for BigBlueButton analytics, session attendance tracking,
+  recording quota monitoring, and secure recording downloads.

@@ -1,0 +1,11 @@
+component: theme_chinijo
+source: https://github.com/ateeducacion/moodle-theme_chinijo
+maintainers:
+- github: ateeducacion
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_boost: 2024100700

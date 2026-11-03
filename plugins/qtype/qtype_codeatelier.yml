@@ -1,0 +1,12 @@
+component: qtype_codeatelier
+source: https://github.com/dog-broad/moodle-qtype_codeatelier
+maintainers:
+- github: dog-broad
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'A Moodle question type for writing, running and grading student code: an
+  in-browser practice tier (Pyodide, sql.js) plus a Judge0-backed online judge with
+  real verdicts, subtasks, custom checkers, multi-file projects and web questions.'

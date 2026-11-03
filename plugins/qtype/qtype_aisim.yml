@@ -1,0 +1,12 @@
+component: qtype_aisim
+source: https://github.com/blagojevicboban/moodle-qtype_aisim
+maintainers:
+- github: blagojevicboban
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: AI Simulation Question Type with Automated Grading for Moodle (AI for VET)
+dependencies:
+  filter_aisim: 2026103005

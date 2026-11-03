@@ -1,0 +1,14 @@
+component: theme_rsmax
+source: https://github.com/jmolpea/moodle-theme_rsmax
+maintainers:
+- github: jmolpea
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'RSMAX theme for Moodle 5.3: a child of Boost with a landing home page, course
+  pages that show the learner''s progress and next step, and a settings panel for
+  colours, typography, header and footer.'
+dependencies:
+  theme_boost: 2026100500

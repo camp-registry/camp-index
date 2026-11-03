@@ -1,0 +1,13 @@
+component: block_oksigeniaayvurenda
+source: https://github.com/OksigeniaSL/moodle-block_oksigeniaayvurenda
+maintainers:
+- github: OksigeniaSL
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Block for Oksigenia Ayvurenda, online library management: each reader''s
+  books and the ways in, on the Moodle dashboard.'
+dependencies:
+  local_oksigeniaayvurenda: 2026103126

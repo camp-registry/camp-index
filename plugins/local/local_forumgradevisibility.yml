@@ -1,0 +1,11 @@
+component: local_forumgradevisibility
+source: https://github.com/lesavvytinker/moodle-local_forumgradevisibility
+maintainers:
+- github: lesavvytinker
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that keeps forum grades hidden from students until released
+  in the Gradebook. Requires Moodle 4.5+.

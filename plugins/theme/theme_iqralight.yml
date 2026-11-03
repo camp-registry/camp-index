@@ -1,0 +1,13 @@
+component: theme_iqralight
+source: https://github.com/Iqratic-dev/moodle-theme_iqralight
+maintainers:
+- github: Iqratic-dev
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Iqralight: a Moodle theme for learners with very weak, costly or unstable
+  connections. By IQRATIC.'
+dependencies:
+  theme_boost: 2025041400

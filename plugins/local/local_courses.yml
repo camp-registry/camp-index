@@ -1,0 +1,9 @@
+component: local_courses
+source: https://github.com/huyhtu206/Courses-Code-Moodle
+maintainers:
+- github: huyhtu206
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

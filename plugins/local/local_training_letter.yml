@@ -1,0 +1,9 @@
+component: local_training_letter
+source: https://github.com/Gagandeep61/moodle-local-training-letter
+maintainers:
+- github: Gagandeep61
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

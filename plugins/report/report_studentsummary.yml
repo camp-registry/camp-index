@@ -1,0 +1,10 @@
+component: report_studentsummary
+source: https://github.com/billsensei/moodle-report_studentsummary
+maintainers:
+- github: billsensei
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: AGPL-3.0
+summary: A Moodle Plugin to create Student Summaries for printing.

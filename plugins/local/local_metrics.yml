@@ -1,0 +1,13 @@
+component: local_metrics
+source: https://github.com/Ennero/moodle-local_metrics
+maintainers:
+- github: Ennero
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: MIT
+summary: Plugin para Moodle LMS que recopila telemetría de estudiantes, métricas de
+  rendimiento y reportes de actividad académica.
+dependencies:
+  tool_monitoring: 2024100700

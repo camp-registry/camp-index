@@ -1,0 +1,13 @@
+component: availability_oksigeniatesape
+source: https://github.com/OksigeniaSL/moodle-availability_oksigeniatesape
+maintainers:
+- github: OksigeniaSL
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle availability condition: opens activities with the progress of Oksigenia
+  Tesapé'
+dependencies:
+  local_oksigeniatesape: 2026102430

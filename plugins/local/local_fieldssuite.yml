@@ -1,0 +1,10 @@
+component: local_fieldssuite
+source: https://github.com/moodle-fields-suite/local_fieldssuite
+maintainers:
+- github: moodle-fields-suite
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle Fields Suite: common code of the custom field areas'

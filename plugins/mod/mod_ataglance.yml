@@ -1,0 +1,9 @@
+component: mod_ataglance
+source: https://github.com/andrewrowatt-masseyuni/moodle-mod_ataglance
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

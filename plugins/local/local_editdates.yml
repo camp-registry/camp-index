@@ -1,0 +1,11 @@
+component: local_editdates
+source: https://github.com/Lars-Mehnen/moodle-local_editdates
+maintainers:
+- github: Lars-Mehnen
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  report_editdates: 2025072300

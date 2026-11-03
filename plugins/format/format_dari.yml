@@ -1,0 +1,11 @@
+component: format_dari
+source: https://github.com/dari-learning/moodle-format_dari
+maintainers:
+- github: dari-learning
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Dari Course Format for Moodle™ — visual course cards, a course player, and
+  Ask Dari. Made by Dari Learning.

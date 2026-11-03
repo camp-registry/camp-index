@@ -1,0 +1,9 @@
+component: local_mdl_89701_test
+source: https://github.com/larsbonczek/moodle-local_mdl_89701_test
+maintainers:
+- github: larsbonczek
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

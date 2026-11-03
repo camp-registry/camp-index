@@ -1,0 +1,13 @@
+component: theme_studiolxd
+source: https://github.com/studiolxd/moodle-theme_studiolxd
+maintainers:
+- github: studiolxd
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle theme_studiolxd: Studio LXD child theme of Boost, driven by the @studiolxd/brand
+  design tokens'
+dependencies:
+  theme_boost: 2026100500

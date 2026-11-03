@@ -1,0 +1,15 @@
+component: mod_simgen
+source: https://github.com/BLC-FHGR/moodle-mod_simgen
+maintainers:
+- github: BLC-FHGR
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle-Aktivität (mod_simgen), die aus einem didaktischen Briefing von Lehrpersonen
+  per KI interaktive Lernsimulationen generiert – inkl. Live-Gesprächen mit KI-Figuren,
+  Formeln (KaTeX) und interaktiven Grafiken (JSXGraph). KI-Anbindung über local_ai_manager.
+  FH Graubünden.
+dependencies:
+  local_ai_manager: any

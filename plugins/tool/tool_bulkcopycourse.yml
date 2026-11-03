@@ -1,0 +1,11 @@
+component: tool_bulkcopycourse
+source: https://github.com/ferdiyantodeni/moodle-tool_bulkcopycourse
+maintainers:
+- github: ferdiyantodeni
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle admin tool to massively duplicate courses in bulk from template courses
+  using CSV with clean copy guarantee.

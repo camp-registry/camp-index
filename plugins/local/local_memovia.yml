@@ -1,0 +1,12 @@
+component: local_memovia
+source: https://github.com/Naou95/moodle-local_memovia
+maintainers:
+- github: Naou95
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'MEMOVIA for Moodle: course files adapted for the whole class'
+dependencies:
+  mod_lti: any

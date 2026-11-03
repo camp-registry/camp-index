@@ -1,0 +1,13 @@
+component: mod_classprogress
+source: https://github.com/jvidal86/moodle-mod_classprogress
+maintainers:
+- github: jvidal86
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle course activity for local_classprogress: a course''s year plan and
+  daily log of what was done in class, for its teachers (Moodle 4.5+).'
+dependencies:
+  local_classprogress: 2026102200

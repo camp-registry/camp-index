@@ -1,0 +1,11 @@
+component: local_sectionmarker
+source: https://github.com/kobrajashi/moodle-local_sectionmarker
+maintainers:
+- github: kobrajashi
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that colour-marks activities on the course page (Info,
+  Note, Successful). Requires Moodle 5.1 or later.

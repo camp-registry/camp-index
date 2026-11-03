@@ -1,0 +1,11 @@
+component: local_reportium
+source: https://github.com/pedrolois/moodle-local_reportium
+maintainers:
+- github: pedrolois
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Reportium - Interactive Reports for Moodle: SQL reports with drill-down
+  levels, charts, KPI cards, scheduled emails and alerts.'

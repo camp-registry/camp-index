@@ -1,0 +1,12 @@
+component: local_oksigeniamarandu
+source: https://github.com/OksigeniaSL/moodle-local_oksigeniamarandu
+maintainers:
+- github: OksigeniaSL
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle notifications on WhatsApp, sent from each site''s own official WhatsApp
+  Business account: opt-in consent, approved templates, spending cap and quiet hours.
+  For Moodle 4.5+.'

@@ -1,0 +1,13 @@
+component: mod_luminationtutor
+source: https://github.com/lum-earth/moodle-mod_luminationtutor
+maintainers:
+- github: lum-earth
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Lumination AI Tutor for Moodle: an activity where students ask an AI tutor
+  questions answered from the course''s own material'
+dependencies:
+  aiprovider_lumination: 2026102200

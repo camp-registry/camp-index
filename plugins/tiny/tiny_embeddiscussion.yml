@@ -1,0 +1,11 @@
+component: tiny_embeddiscussion
+source: https://github.com/andrewrowatt-masseyuni/moodle-tiny_embeddiscussion
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_embeddiscussion: 2026101800

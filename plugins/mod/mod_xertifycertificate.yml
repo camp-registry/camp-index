@@ -1,0 +1,12 @@
+component: mod_xertifycertificate
+source: https://github.com/xertifyapp/moodle-mod_xertifycertificate
+maintainers:
+- github: xertifyapp
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle activity module for displaying and downloading Xertify certificates
+dependencies:
+  local_xertify: 2026102100

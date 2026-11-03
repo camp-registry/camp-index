@@ -1,0 +1,11 @@
+component: qbank_collapsecategories
+source: https://github.com/misko92/moodle-qbank_collapsecategories
+maintainers:
+- github: misko92
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Collapse categories - qbank plugin that starts the question bank Categories
+  page collapsed and remembers each user's expanded categories

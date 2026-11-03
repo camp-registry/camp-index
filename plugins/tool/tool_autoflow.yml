@@ -1,0 +1,11 @@
+component: tool_autoflow
+source: https://github.com/devlms/moodle-tool_autoflow
+maintainers:
+- github: devlms
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Workflow automation for Moodle: build automations in a React Flow node editor
+  instead of writing a plugin for each one.'

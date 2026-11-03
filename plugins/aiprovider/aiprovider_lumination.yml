@@ -1,0 +1,11 @@
+component: aiprovider_lumination
+source: https://github.com/lum-earth/moodle-aiprovider_lumination
+maintainers:
+- github: lum-earth
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Lumination AI Provider for Moodle: runs Moodle''s AI features on the AI
+  Tutor API and is the hub for Lumination AI add-ons'

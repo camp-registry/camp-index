@@ -1,0 +1,12 @@
+component: local_brandmask
+source: https://github.com/Sternfast/moodle-local_brandmask
+maintainers:
+- github: Sternfast
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: White-Label Branding for Moodle — per-tenant branded login/logo/colour by
+  subdomain or custom domain, with cohort/user targeting and branded email. Via the
+  Hooks API; no fork, no core patch.

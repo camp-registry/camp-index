@@ -1,0 +1,12 @@
+component: local_repeatable
+source: https://github.com/uaiblaine/moodle-local_repeatable
+maintainers:
+- github: uaiblaine
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: the shared engine for repeatable sets (column schema,
+  payloads, editor, rendering, Report Builder) used by profilefield_repeatable and
+  customfield_repeatable'

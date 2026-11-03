@@ -1,0 +1,11 @@
+component: tiny_embedpoll
+source: https://github.com/andrewrowatt-masseyuni/moodle-tiny_embedpoll
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  local_embedpoll: 2026101700

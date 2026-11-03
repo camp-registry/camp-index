@@ -1,0 +1,10 @@
+component: format_picturecards
+source: https://github.com/genestial/moodle-format_picturecards
+maintainers:
+- github: genestial
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: PictureCards course format for Moodle

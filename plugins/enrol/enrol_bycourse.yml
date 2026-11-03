@@ -1,0 +1,9 @@
+component: enrol_bycourse
+source: https://github.com/Douglasslv1/moodle-enrol_bycourse
+maintainers:
+- github: Douglasslv1
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

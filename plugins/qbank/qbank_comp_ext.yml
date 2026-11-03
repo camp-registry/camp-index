@@ -1,0 +1,9 @@
+component: qbank_comp_ext
+source: https://github.com/engfeda-ui/moodle-qbank_comp_ext
+maintainers:
+- github: engfeda-ui
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

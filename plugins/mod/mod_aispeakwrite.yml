@@ -1,0 +1,10 @@
+component: mod_aispeakwrite
+source: https://github.com/lmshostingservices/moodle-mod_aispeakwrite
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: mod_aispeakwrite'

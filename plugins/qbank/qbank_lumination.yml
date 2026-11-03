@@ -1,0 +1,13 @@
+component: qbank_lumination
+source: https://github.com/lum-earth/moodle-qbank_lumination
+maintainers:
+- github: lum-earth
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Lumination AI Question Generator for Moodle: generate multiple-choice questions
+  from a document with AI, straight into the question bank'
+dependencies:
+  aiprovider_lumination: 2026102200

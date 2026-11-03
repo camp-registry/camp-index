@@ -1,0 +1,10 @@
+component: local_bgbling
+source: https://github.com/verzog/moodle-local_bgbling
+maintainers:
+- github: verzog
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: A background video inserter

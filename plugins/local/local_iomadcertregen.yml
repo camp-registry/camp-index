@@ -1,0 +1,14 @@
+component: local_iomadcertregen
+source: https://github.com/MichelCardinal/moodle-local_iomadcertregen
+maintainers:
+- github: MichelCardinal
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Review and publish corrected PDFs for existing IOMAD Certificate issues,
+  with Moodle-scoped permissions and administrative audit.
+dependencies:
+  mod_iomadcertificate: 2024100700
+  local_iomad: 2024100700

@@ -1,0 +1,13 @@
+component: media_eduplay
+source: https://github.com/eduplay-moodle-suite/moodle-media_eduplay
+maintainers:
+- github: eduplay-moodle-suite
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'EduPlay Moodle Suite: media player do Moodle que incorpora o player oficial
+  do EduPlay (não oficial)'
+dependencies:
+  local_eduplay: 2026100800

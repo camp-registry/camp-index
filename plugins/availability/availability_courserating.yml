@@ -1,0 +1,10 @@
+component: availability_courserating
+source: https://github.com/108design/moodle-availability_courserating
+maintainers:
+- github: 108design
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: GPL-licensed Moodle availability condition based on course ratings.

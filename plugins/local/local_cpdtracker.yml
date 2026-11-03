@@ -1,0 +1,12 @@
+component: local_cpdtracker
+source: https://github.com/amuqtadir99/moodle-local_cpdtracker
+maintainers:
+- github: amuqtadir99
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Track Continuing Professional Development (CPD) points for members across
+  yearly cycles, with category minimums and caps, a custom activity form and a compliance
+  report.

@@ -1,0 +1,11 @@
+component: quizaccess_essayrubric
+source: https://github.com/andrewrowatt-masseyuni/moodle-quizaccess_essayrubric
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  qtype_essayrubric: 2026092300

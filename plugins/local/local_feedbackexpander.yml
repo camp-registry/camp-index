@@ -1,0 +1,11 @@
+component: local_feedbackexpander
+source: https://github.com/kobrajashi/moodle-local_feedbackexpander
+maintainers:
+- github: kobrajashi
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that adds a full TinyMCE editor to the feedback fields
+  of the gradebook single view. Requires Moodle 4.5 or later.

@@ -1,0 +1,12 @@
+component: local_reportelimpio
+source: https://github.com/JaxisReal/Moodle-Reporte-Limpio
+maintainers:
+- github: JaxisReal
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: MIT
+summary: Plugin para Moodle orientado a la generación, procesamiento y visualización
+  de reportes de finalización de actividades, con dashboards de seguimiento, ranking
+  de participantes y detección jerárquica de módulos, unidades y sesiones.

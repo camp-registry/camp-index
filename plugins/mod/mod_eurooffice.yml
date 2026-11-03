@@ -1,0 +1,10 @@
+component: mod_eurooffice
+source: https://github.com/grabs/moodle-mod_eurooffice
+maintainers:
+- github: grabs
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle client to Euro-Office document server

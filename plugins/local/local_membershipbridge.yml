@@ -1,0 +1,12 @@
+component: local_membershipbridge
+source: https://github.com/verzog/moodle-local_membershipbridge
+maintainers:
+- github: verzog
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: A Moodle to IMIS Connector that transfers data using either/both REST and
+  SOAP. It was designed for iMIS (no connection to me) but could be wasily adjusted
+  to another system

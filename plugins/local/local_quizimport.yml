@@ -1,0 +1,11 @@
+component: local_quizimport
+source: https://github.com/germanbobadilla/moodle-local_quizimport
+maintainers:
+- github: germanbobadilla
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: import quizzes from another course with only the questions
+  they need (Moodle 4.5 and 5.x)'

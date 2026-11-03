@@ -1,0 +1,9 @@
+component: mod_superflipbook
+source: https://github.com/EduardoKrausME/moodle-mod_superflipbook
+maintainers:
+- github: EduardoKrausME
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

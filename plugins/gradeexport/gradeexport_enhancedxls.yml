@@ -1,0 +1,9 @@
+component: gradeexport_enhancedxls
+source: https://github.com/rvincenti07/moodle-gradeexport_enhancedxls
+maintainers:
+- github: rvincenti07
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,9 @@
+component: mod_grad360
+source: https://github.com/Moodle-in-Niedersachsene-V/mod_grad360
+maintainers:
+- github: Moodle-in-Niedersachsene-V
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,13 @@
+component: repository_eduplay
+source: https://github.com/eduplay-moodle-suite/moodle-repository_eduplay
+maintainers:
+- github: eduplay-moodle-suite
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'EduPlay Moodle Suite: repositório do seletor de arquivos para inserir links
+  de vídeos do EduPlay (PoC, não oficial)'
+dependencies:
+  local_eduplay: 2026100901

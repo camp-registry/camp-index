@@ -1,0 +1,13 @@
+component: tool_configascode
+source: https://github.com/martinholden/moodle-tool_configascode
+maintainers:
+- github: martinholden
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: '`tool_configascode` brings Configuration as Code (CaC) to Moodle. Define
+  your Moodle site and plugin settings in environment-specific policy files, deploy
+  them through your existing configuration process, and let Moodle apply the correct
+  configuration automatically at startup.'

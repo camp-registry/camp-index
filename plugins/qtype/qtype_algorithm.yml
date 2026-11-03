@@ -1,0 +1,13 @@
+component: qtype_algorithm
+source: https://github.com/blagojevicboban/moodle-qtype_algorithm
+maintainers:
+- github: blagojevicboban
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle question type: the student draws an algorithm as a flowchart (Flowgorithm
+  style) in a quiz; manual grading. Requires tiny_algorithm.'
+dependencies:
+  tiny_algorithm: 2026110203

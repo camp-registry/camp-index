@@ -1,0 +1,11 @@
+component: local_miwlab
+source: https://github.com/V3RTECH-DF/moodle-local_miwlab
+maintainers:
+- github: V3RTECH-DF
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'MiwLab companion plugin for Moodle (local_miwlab): restore MiwLab course
+  packages and read consolidated completion and feedback results.'

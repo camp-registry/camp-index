@@ -1,0 +1,11 @@
+component: local_efscorm
+source: https://github.com/anarosiris/moodle-local_efscorm
+maintainers:
+- github: anarosiris
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Direct SCORM player for Moodle: students go straight into SCORM content,
+  full screen in the same tab. Free, by eLearning Fácil.'

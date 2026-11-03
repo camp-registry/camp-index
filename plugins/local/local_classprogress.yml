@@ -1,0 +1,11 @@
+component: local_classprogress
+source: https://github.com/jvidal86/moodle-local_classprogress
+maintainers:
+- github: jvidal86
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: a teacher''s record of what was planned and what was
+  actually done in class, for inspection (Moodle 4.5+).'

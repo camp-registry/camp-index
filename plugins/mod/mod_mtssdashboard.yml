@@ -1,0 +1,9 @@
+component: mod_mtssdashboard
+source: https://github.com/bapool/moodle-mod_mtssdashboard
+maintainers:
+- github: bapool
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

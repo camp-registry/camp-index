@@ -1,0 +1,9 @@
+component: local_kikursbauer
+source: https://github.com/AndreasFranzSchweizer/moodle-local_kikursbauer
+maintainers:
+- github: AndreasFranzSchweizer
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

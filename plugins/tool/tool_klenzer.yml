@@ -1,0 +1,10 @@
+component: tool_klenzer
+source: https://github.com/francopantoja/moodle-tool_klenzer
+maintainers:
+- github: francopantoja
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle admin tool: suspend inactive accounts and delete never-used ones'

@@ -1,0 +1,11 @@
+component: mod_leaderboard
+source: https://github.com/mezbaur2004/moodle-leaderboard
+maintainers:
+- github: mezbaur2004
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle activity that ranks students by points from their visible grades,
+  with Zoom attendance and Moodle app support.

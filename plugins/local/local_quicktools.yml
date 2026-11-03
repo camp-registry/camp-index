@@ -1,0 +1,11 @@
+component: local_quicktools
+source: https://github.com/MirzaKrupic/quicktools-moodle
+maintainers:
+- github: MirzaKrupic
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: keep scroll position on edit mode toggle, bulk quiz
+  marks'

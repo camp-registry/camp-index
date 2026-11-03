@@ -1,0 +1,11 @@
+component: customfield_json
+source: https://github.com/moodle-fields-suite/customfield_json
+maintainers:
+- github: moodle-fields-suite
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle custom field that stores a JSON document, with a visual editor and
+  syntax highlighting (courses, cohorts, groups and other custom field areas).

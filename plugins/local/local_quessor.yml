@@ -1,0 +1,9 @@
+component: local_quessor
+source: https://github.com/medeasoft/moodle-local_quessor
+maintainers:
+- github: medeasoft
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

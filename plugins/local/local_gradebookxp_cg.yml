@@ -1,0 +1,12 @@
+component: local_gradebookxp_cg
+source: https://github.com/therealmadany/moodle-local_gradebookxp_cg
+maintainers:
+- github: therealmadany
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Chronagogik-/Cockpit-Anbindung, Erweiterung des gradebook_XP-Moodle-Plugins
+dependencies:
+  gradereport_gradebook_xp: 2026091701

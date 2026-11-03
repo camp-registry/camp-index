@@ -1,0 +1,14 @@
+component: message_oksigeniamarandu
+source: https://github.com/OksigeniaSL/moodle-message_oksigeniamarandu
+maintainers:
+- github: OksigeniaSL
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Notification channel that lets Moodle users get their Moodle notifications
+  on their phone, by WhatsApp or Telegram, from the site's own account and bot. Needs
+  local_oksigeniamarandu. For Moodle 4.5+.
+dependencies:
+  local_oksigeniamarandu: 2026110600

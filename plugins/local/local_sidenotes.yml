@@ -1,0 +1,11 @@
+component: local_sidenotes
+source: https://github.com/108design/moodle-local_sidenotes
+maintainers:
+- github: 108design
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'SideNotes: private Moodle notes, student mode, optional administrator mode
+  and QuickNote migration.'

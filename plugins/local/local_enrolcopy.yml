@@ -1,0 +1,11 @@
+component: local_enrolcopy
+source: https://github.com/otsouvalas/moodle-local_enrolcopy
+maintainers:
+- github: otsouvalas
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: copy enrolment method configurations (self enrolment,
+  cohort sync, profile-field rules…) between courses.'

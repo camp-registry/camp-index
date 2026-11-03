@@ -1,0 +1,11 @@
+component: local_cohortaccess
+source: https://github.com/CEPV-Vevey/moodle-local_cohortaccess
+maintainers:
+- github: CEPV-Vevey
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: give cohort members view access to courses or categories
+  through role assignment, without enrolment'

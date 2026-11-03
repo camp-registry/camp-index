@@ -1,0 +1,11 @@
+component: local_quizmetamonitor
+source: https://github.com/anthonyb12345/moodle-local_quizmetamonitor
+maintainers:
+- github: anthonyb12345
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  quizaccess_onesession: 2024032400

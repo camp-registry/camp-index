@@ -1,0 +1,11 @@
+component: local_reviewworkflow
+source: https://github.com/asselapathirana/moodle-local_reviewworkflow
+maintainers:
+- github: asselapathirana
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for shared teacher reviews, evidence retention and filtered
+  exports.

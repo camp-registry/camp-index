@@ -1,0 +1,13 @@
+component: theme_flexium
+source: https://github.com/pedrolois/moodle-theme_flexium
+maintainers:
+- github: pedrolois
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Flexium: a flexible Moodle theme. Design more. Code less. A dynamic, configurable
+  Moodle theme that puts you in control.'
+dependencies:
+  theme_boost: 2026100500

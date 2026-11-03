@@ -1,0 +1,12 @@
+component: qtype_essayrubric
+source: https://github.com/andrewrowatt-masseyuni/moodle-qtype_essayrubric
+maintainers:
+- github: andrewrowatt-masseyuni
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  qtype_essay: 2024100700
+  qbehaviour_rubricgraded: 2026092300

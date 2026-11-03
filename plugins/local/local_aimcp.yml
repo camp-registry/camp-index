@@ -1,0 +1,16 @@
+component: local_aimcp
+source: https://github.com/kenh-zealand/moodle-local_aimcp
+maintainers:
+- github: kenh-zealand
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: AI MCP content tools for ChatGPT, Claude and other
+  MCP clients'
+dependencies:
+  mod_h5pactivity: any
+  mod_book: any
+  mod_quiz: any
+  mod_subsection: any

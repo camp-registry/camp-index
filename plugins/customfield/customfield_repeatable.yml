@@ -1,0 +1,14 @@
+component: customfield_repeatable
+source: https://github.com/uaiblaine/moodle-customfield_repeatable
+maintainers:
+- github: uaiblaine
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle custom field type: repeatable sets of columns (free text, dictionary
+  codes, patterns) for courses, cohorts, groups and other custom field areas, built
+  on local_repeatable'
+dependencies:
+  local_repeatable: 2026042004

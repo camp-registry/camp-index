@@ -1,0 +1,10 @@
+component: mod_starrating
+source: https://github.com/think-modular-digital-solutions-GmbH/moodle-mod_starrating
+maintainers:
+- github: think-modular-digital-solutions-GmbH
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Star rating activity

@@ -1,0 +1,11 @@
+component: local_innealla
+source: https://github.com/ciaranInneall/moodle-local_innealla
+maintainers:
+- github: ciaranInneall
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Innealla SIS bridge for Moodle (local_innealla) — core of the Innealla SIS
+  plugin suite

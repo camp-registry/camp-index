@@ -1,0 +1,10 @@
+component: local_oksigeniaaty
+source: https://github.com/OksigeniaSL/moodle-local_oksigeniaaty
+maintainers:
+- github: OksigeniaSL
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Per-site home screen and styles for the Oksigenia Aty mobile app

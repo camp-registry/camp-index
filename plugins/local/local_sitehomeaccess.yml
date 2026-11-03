@@ -1,0 +1,11 @@
+component: local_sitehomeaccess
+source: https://github.com/Portvgal/moodle-local_sitehomeaccess
+maintainers:
+- github: Portvgal
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin that controls browser access to Site Home without modifying
+  core.

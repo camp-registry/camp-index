@@ -1,0 +1,12 @@
+component: local_berufsbildung
+source: https://github.com/jsAce7/moodle-local_berufsbildung
+maintainers:
+- github: jsAce7
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle-Plugin local_berufsbildung: Basis für die betriebliche Berufsbildung
+  – Zuordnung Berufsbildner/in ↔ Lernende, Ausbildungsstand, Versetzungsplan, Aufbewahrung
+  und gemeinsame PDF-Gestaltung.'

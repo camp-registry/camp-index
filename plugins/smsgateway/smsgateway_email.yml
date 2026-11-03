@@ -1,0 +1,10 @@
+component: smsgateway_email
+source: https://github.com/catalyst/moodle-smsgateway_email
+maintainers:
+- github: catalyst
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: A fake SMS gateway which just sends it to email instead

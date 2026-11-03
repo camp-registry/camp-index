@@ -1,0 +1,9 @@
+component: mod_istudydailyattend
+source: https://github.com/jram1993-ui/moodle-mod_istudydailyattend
+maintainers:
+- github: jram1993-ui
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: AGPL-3.0

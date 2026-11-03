@@ -1,0 +1,10 @@
+component: local_cohortbadges
+source: https://github.com/ildarkry-stack/moodle-local_cohortbadges
+maintainers:
+- github: ildarkry-stack
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: local_cohortbadges

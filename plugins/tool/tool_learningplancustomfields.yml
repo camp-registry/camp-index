@@ -1,0 +1,13 @@
+component: tool_learningplancustomfields
+source: https://github.com/moodle-fields-suite/tool_learningplancustomfields
+maintainers:
+- github: moodle-fields-suite
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle Fields Suite: custom fields for learning plan templates and learning
+  plans'
+dependencies:
+  local_fieldssuite: 2026110100

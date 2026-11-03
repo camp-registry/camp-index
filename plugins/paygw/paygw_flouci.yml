@@ -1,0 +1,11 @@
+component: paygw_flouci
+source: https://github.com/makrem2/moodle-paygw_flouci
+maintainers:
+- github: makrem2
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Flouci payment gateway for Moodle 5.x — sell courses and take enrolment payments
+  in Tunisian Dinar (TND).

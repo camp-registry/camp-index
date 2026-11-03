@@ -1,0 +1,10 @@
+component: qbank_questionhub
+source: https://github.com/CyrilBlum/moodle-qbank_questionhub
+maintainers:
+- github: CyrilBlum
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: A Marketplace for Moodle Question Databases.

@@ -1,0 +1,11 @@
+component: local_defaultduetime
+source: https://github.com/KalmanG/moodle-local_defaultduetime
+maintainers:
+- github: KalmanG
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: new activity deadlines default to 6 PM instead of midnight,
+  so students can sleep.'

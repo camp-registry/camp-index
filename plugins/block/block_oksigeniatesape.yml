@@ -1,0 +1,13 @@
+component: block_oksigeniatesape
+source: https://github.com/OksigeniaSL/moodle-block_oksigeniatesape
+maintainers:
+- github: OksigeniaSL
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle block for Oksigenia Tesapé: the hero, the team, the place of the
+  class and the way into the game'
+dependencies:
+  local_oksigeniatesape: 2026102430

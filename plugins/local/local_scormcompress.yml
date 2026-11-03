@@ -1,0 +1,11 @@
+component: local_scormcompress
+source: https://github.com/lmshostingservices/moodle-local_scormcompress
+maintainers:
+- github: lmshostingservices
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: SCORM Compress — Moodle local plugin that compresses SCORM packages to reduce
+  storage and improve load times.

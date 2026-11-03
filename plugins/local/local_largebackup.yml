@@ -1,0 +1,9 @@
+component: local_largebackup
+source: https://github.com/bildung-rp/moodle-local_largebackup
+maintainers:
+- github: bildung-rp
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

@@ -1,0 +1,12 @@
+component: local_educ
+source: https://github.com/EDUCAlliance/moodle-local_educ
+maintainers:
+- github: EDUCAlliance
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: EDUC customizations for moodle
+dependencies:
+  theme_boost_union: 2024100796

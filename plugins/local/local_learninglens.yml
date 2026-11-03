@@ -1,0 +1,11 @@
+component: local_learninglens
+source: https://github.com/opencollegearts/moodle-local_learninglens
+maintainers:
+- github: opencollegearts
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Learning Lens is a floating on-page menu so learners can adjust contrast,
+  text, reading aids, and read-aloud on the current Moodle page.

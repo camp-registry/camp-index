@@ -1,0 +1,11 @@
+component: customfield_courseimage
+source: https://github.com/108design/moodle-customfield_courseimage
+maintainers:
+- github: 108design
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Single-image course custom field for Moodle, with defaults, permissions and
+  backup support. GPL v3+, beta for Moodle 4.5–5.3.

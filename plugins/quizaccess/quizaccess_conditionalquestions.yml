@@ -1,0 +1,11 @@
+component: quizaccess_conditionalquestions
+source: https://github.com/ueli72/moodle-quizaccess_conditionalquestions
+maintainers:
+- github: ueli72
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle quiz access rule: show quiz questions conditionally (group, activity
+  completion, competency, badge) - no core patch required'

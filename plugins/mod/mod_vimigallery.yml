@@ -1,0 +1,11 @@
+component: mod_vimigallery
+source: https://github.com/ralferlebach/moodle-mod_vimigallery
+maintainers:
+- github: ralferlebach
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_vimipad: 2026100600

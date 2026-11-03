@@ -1,0 +1,11 @@
+component: theme_instracta
+source: https://github.com/michaelouru-sw/instracta_moodle_theme
+maintainers:
+- github: michaelouru-sw
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_boost: 2025041400

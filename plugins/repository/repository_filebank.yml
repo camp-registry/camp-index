@@ -1,0 +1,13 @@
+component: repository_filebank
+source: https://github.com/didactika/moodle-repository_filebank
+maintainers:
+- github: didactika
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle repository plugin that offers the FileBank library inside the file
+  picker, so teachers can pick files and whole folders from related courses.
+dependencies:
+  local_filebank: 2026101112

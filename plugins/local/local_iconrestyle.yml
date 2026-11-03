@@ -1,0 +1,11 @@
+component: local_iconrestyle
+source: https://github.com/didactika/moodle-local_iconrestyle
+maintainers:
+- github: didactika
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin to restyle the icons of the whole site, a category, a
+  course or an activity from one visual designer, with no theme changes and no code.

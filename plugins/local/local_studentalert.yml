@@ -1,0 +1,12 @@
+component: local_studentalert
+source: https://github.com/cxfer/moodle_local_studentalert
+maintainers:
+- github: cxfer
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Independent Moodle 5.3 local plugin that flags students who may need academic
+  support. Flags come from configurable rules: inactivity, overdue assignments, low
+  activity completion and low course grade.'

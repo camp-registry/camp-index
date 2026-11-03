@@ -1,0 +1,13 @@
+component: local_certledger
+source: https://github.com/mediaformge/moodle-local_certledger
+maintainers:
+- github: mediaformge
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle plugin: sequential numbers and a permanent ledger for the certificates
+  issued with Custom certificate (mod_customcert)'
+dependencies:
+  mod_customcert: 2025041400

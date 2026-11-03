@@ -1,0 +1,11 @@
+component: local_paradiso
+source: https://github.com/Paradiso-Organisation/moodle-local_paradiso
+maintainers:
+- github: Paradiso-Organisation
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin that connects a Moodle site to Paradiso Presentations and Roleplay
+  through LTI 1.3.

@@ -1,0 +1,12 @@
+component: filter_studiolms
+source: https://github.com/jeanlucio/moodle-filter_studiolms
+maintainers:
+- github: jeanlucio
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle text filter that turns markers such as [FORUMSTATS] into live widgets
+  drawn with the data of the course: forum participation today, course map and quiz
+  rules next.'

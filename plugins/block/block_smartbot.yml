@@ -1,0 +1,9 @@
+component: block_smartbot
+source: https://github.com/isadoramel0/moodle-block_smartbot
+maintainers:
+- github: isadoramel0
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

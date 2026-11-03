@@ -1,0 +1,13 @@
+component: qbank_uniquiz
+source: https://github.com/tamaskery/moodle-qbank_uniquiz
+maintainers:
+- github: tamaskery
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle question-bank plugin for CSV/TXT preparation, XML export and confirmed
+  import
+dependencies:
+  qformat_xml: any

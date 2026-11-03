@@ -1,0 +1,14 @@
+component: certificateelement_coursefieldtext
+source: https://github.com/108design/moodle-certificateelement_coursefieldtext
+maintainers:
+- github: 108design
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Certificate Multitool: paired course custom fields and certificate elements
+  for Moodle. GPL v3 or later.'
+dependencies:
+  tool_certificate: 2025031804
+  customfield_multiline: 2026102700

@@ -1,0 +1,12 @@
+component: local_learningprism
+source: https://github.com/opencollegearts/moodle-local_learningprism
+maintainers:
+- github: opencollegearts
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Moodle 4.3+ local plugin that lets teachers enable **Learning Prism** per
+  course and provides accessible alternate formats for Book, Page, Label, and Articulate
+  Rise SCORM activities.

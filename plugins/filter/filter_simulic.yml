@@ -1,0 +1,10 @@
+component: filter_simulic
+source: https://github.com/bongvd/moodle-filter_simulic
+maintainers:
+- github: bongvd
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Simulic plugin embed simulation to moodle

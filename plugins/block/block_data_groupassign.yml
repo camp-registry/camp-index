@@ -1,0 +1,9 @@
+component: block_data_groupassign
+source: https://github.com/yasada0819/moodle-block_data_groupassign
+maintainers:
+- github: yasada0819
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

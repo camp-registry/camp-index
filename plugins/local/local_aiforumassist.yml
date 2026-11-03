@@ -1,0 +1,11 @@
+component: local_aiforumassist
+source: https://github.com/HernanDiaz/moodle-local_aiforumassist
+maintainers:
+- github: HernanDiaz
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'AI Forum Assistant for Moodle: AI drafts answers to students'' forum questions
+  from the course materials, and the teacher decides. In development.'

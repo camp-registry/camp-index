@@ -1,0 +1,12 @@
+component: tool_competencycustomfields
+source: https://github.com/moodle-fields-suite/tool_competencycustomfields
+maintainers:
+- github: moodle-fields-suite
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle Fields Suite: custom fields for competencies and competency frameworks'
+dependencies:
+  local_fieldssuite: 2026110100

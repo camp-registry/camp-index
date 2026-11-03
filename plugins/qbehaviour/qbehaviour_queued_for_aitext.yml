@@ -1,0 +1,12 @@
+component: qbehaviour_queued_for_aitext
+source: https://github.com/marcusgreen/moodle-qbehaviour_queued_for_aitext
+maintainers:
+- github: marcusgreen
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  qbehaviour_deferred_for_aitext: 2026100400
+  qtype_aitext: any

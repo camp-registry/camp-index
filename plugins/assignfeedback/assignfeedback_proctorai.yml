@@ -1,0 +1,11 @@
+component: assignfeedback_proctorai
+source: https://github.com/UpendraAkki/moodle-assignfeedback_proctorai
+maintainers:
+- github: UpendraAkki
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Proctor AI grading for Moodle assignments: AI-graded handwritten and typed
+  submissions, reviewed by the teacher (assignfeedback_proctorai)'

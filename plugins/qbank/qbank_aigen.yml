@@ -1,0 +1,11 @@
+component: qbank_aigen
+source: https://github.com/Alfredo455/moodle-qbank_aigen
+maintainers:
+- github: Alfredo455
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Generate quiz questions with AI in the Moodle 4.5 question bank, with mandatory
+  teacher review

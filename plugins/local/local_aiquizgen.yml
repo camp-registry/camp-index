@@ -1,0 +1,11 @@
+component: local_aiquizgen
+source: https://github.com/shubhanshu422/moodle-local_aiquizgen
+maintainers:
+- github: shubhanshu422
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Free Moodle AI course-to-quiz generator using native Question Bank and Quiz
+  APIs

@@ -1,0 +1,12 @@
+component: tool_mucohort
+source: https://github.com/mutms/moodle-tool_mucohort
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Cohort management plugin for Moodle™ LMS
+dependencies:
+  tool_mulib: 2026092753

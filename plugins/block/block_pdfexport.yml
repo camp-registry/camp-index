@@ -1,0 +1,12 @@
+component: block_pdfexport
+source: https://github.com/erseco/moodle-block_pdfexport
+maintainers:
+- github: erseco
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle block to publish course resources and download them as PDF: one resource
+  or the whole course, with cover, table of contents and per-user permissions. Moodle
+  5.3, built-in TCPDF.'

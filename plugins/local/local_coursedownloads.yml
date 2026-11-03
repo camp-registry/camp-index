@@ -1,0 +1,11 @@
+component: local_coursedownloads
+source: https://github.com/108design/moodle-local_coursedownloads
+maintainers:
+- github: 108design
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Course Downloads for Moodle: filter permitted course materials and download
+  selected files or separate section archives.'

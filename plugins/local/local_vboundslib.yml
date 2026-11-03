@@ -1,0 +1,11 @@
+component: local_vboundslib
+source: https://github.com/Sternfast/moodle-local_vboundslib
+maintainers:
+- github: Sternfast
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Shared library plugin (local_vboundslib) — common form pickers and helpers
+  for the Sternfast Moodle plugin suite.

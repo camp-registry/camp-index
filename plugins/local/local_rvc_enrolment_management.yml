@@ -1,0 +1,9 @@
+component: local_rvc_enrolment_management
+source: https://github.com/RVC-Learn-Digital-Team/moodle-local_rvc_enrolment_management
+maintainers:
+- github: RVC-Learn-Digital-Team
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0

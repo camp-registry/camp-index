@@ -1,0 +1,11 @@
+component: local_attendancecatexport
+source: https://github.com/BLC-FHGR/moodle-local_attendancecatexport
+maintainers:
+- github: BLC-FHGR
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_attendance: 2026042102

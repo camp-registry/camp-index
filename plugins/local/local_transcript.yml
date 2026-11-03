@@ -1,0 +1,11 @@
+component: local_transcript
+source: https://github.com/RogueAgent991/moodle-local_transcript
+maintainers:
+- github: RogueAgent991
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: A plugin that allows learners, instructors, and administrators to create
+  and send a learner's transcript to selected recipients.

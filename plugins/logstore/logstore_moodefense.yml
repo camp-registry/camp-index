@@ -1,0 +1,11 @@
+component: logstore_moodefense
+source: https://github.com/devlionco/moodle-logstore_moodefense
+maintainers:
+- github: devlionco
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: A Moodle log store that records events together with the request's IP address
+  and user agent, and periodically analyses them for suspicious activity

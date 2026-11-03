@@ -1,0 +1,11 @@
+component: local_oksigeniaayvurenda
+source: https://github.com/OksigeniaSL/moodle-local_oksigeniaayvurenda
+maintainers:
+- github: OksigeniaSL
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Oksigenia Ayvurenda: online library management, as a plugin for Moodle.
+  The desk, the catalogue, each reader''s card and a library you can walk into.'

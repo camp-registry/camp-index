@@ -1,0 +1,12 @@
+component: tool_categorycustomfields
+source: https://github.com/moodle-fields-suite/tool_categorycustomfields
+maintainers:
+- github: moodle-fields-suite
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle admin tool: custom fields for course categories'
+dependencies:
+  local_fieldssuite: 2026103100

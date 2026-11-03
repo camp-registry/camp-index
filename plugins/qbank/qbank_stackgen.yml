@@ -1,0 +1,11 @@
+component: qbank_stackgen
+source: https://github.com/nunupy345345/moodle-qbank_stackgen
+maintainers:
+- github: nunupy345345
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  qtype_stack: any

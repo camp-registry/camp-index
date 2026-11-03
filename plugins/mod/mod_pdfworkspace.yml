@@ -1,0 +1,11 @@
+component: mod_pdfworkspace
+source: https://github.com/108design/moodle-mod_pdfworkspace
+maintainers:
+- github: 108design
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: Independent GPL PDF Workspace, derived from PDF Annotator; maintained by
+  108design.

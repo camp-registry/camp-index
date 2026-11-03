@@ -1,0 +1,12 @@
+component: local_scorm_maker_import
+source: https://github.com/grilo-cricri/moodle-local_scorm_maker_import
+maintainers:
+- github: grilo-cricri
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_scorm: 2024100700
+  mod_book: 2024100700

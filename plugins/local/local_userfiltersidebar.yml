@@ -1,0 +1,12 @@
+component: local_userfiltersidebar
+source: https://github.com/univie-henrikjurek/moodle-local_userfiltersidebar
+maintainers:
+- github: univie-henrikjurek
+tier: 0
+status: active
+discovered: '2026-11-03'
+releases: []
+license: GPL-3.0
+summary: 'Moodle local plugin: renders the admin user list filter form (/admin/user.php)
+  as a fixed, independently scrolling right-hand sidebar on wide screens. CSS-only,
+  no core changes.'
