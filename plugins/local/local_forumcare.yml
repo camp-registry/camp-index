@@ -46,6 +46,19 @@ releases:
   listing-sha256: 1a7b1a43ed58437be7232719a49c8604425e5a5f62e4ce8e112f24f2a3dd6e41
   published: '2026-10-16T13:27:26Z'
   released: '2026-10-16T13:17:27Z'
+- version: 1.2.0
+  tag: v1.2.0
+  commit: 14e613001cc10187d4de9edfdb5b6eb4b7a824d3
+  moodle-version: 2026110300
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 8ce7b99440f5e9aad5dc7a10ef2dbb4ac1df74af35a7b7401297a131fd39bc50
+  listing-sha256: e86b190ef53be2d0e43b467f48bf442851859e2f6bcba4cdf9744265f0f5bff3
+  published: '2026-11-03T05:54:21Z'
+  released: '2026-11-03T05:43:19Z'
 license: GPL-3.0
 summary: User reporting and forum post moderation tool
 security-contact: https://github.com/adamjenkins/moodle-local_forumcare/security
