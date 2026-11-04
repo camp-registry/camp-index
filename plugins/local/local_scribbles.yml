@@ -1,5 +1,6 @@
 component: local_scribbles
 source: https://github.com/adamjenkins/moodle-local_scribbles
+source-repo-id: 1425594512
 maintainers:
 - github: adamjenkins
 tier: 2

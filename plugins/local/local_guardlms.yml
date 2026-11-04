@@ -1,5 +1,6 @@
 component: local_guardlms
 source: https://github.com/LdesignMedia/moodle-local_guardlms
+source-repo-id: 1267840681
 maintainers:
 - github: LdesignMedia
 security-contact: https://github.com/LdesignMedia/moodle-local_guardlms/security/advisories/new
