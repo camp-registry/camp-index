@@ -2,10 +2,21 @@ component: local_scribbles
 source: https://github.com/adamjenkins/moodle-local_scribbles
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-11-03'
-releases: []
+releases:
+- version: 0.1.1
+  tag: v0.1.1
+  commit: 78155cddfd22427df7a234e70c84c233ef6c5624
+  moodle-version: 2026110404
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 83a7528c6c46f537daa9159b21dc3af16e6af74e23f12efce59b9a5bcdb06937
+  listing-sha256: 1632a2c06ffbbab16845d3fad74778b8de9453a72e89f8b96fb03f4f66f11078
+  published: '2026-11-04T09:50:00Z'
+  released: '2026-11-04T06:55:11Z'
 license: GPL-3.0
 summary: Scribble all over your Moodle
 security-contact: https://github.com/adamjenkins/moodle-local_scribbles/security
