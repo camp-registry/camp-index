@@ -1,0 +1,10 @@
+component: format_spiffy
+source: https://github.com/adamjenkins/moodle-format_spiffy
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-11-04'
+releases: []
+license: GPL-3.0
+summary: Actually DO stuff on the course page

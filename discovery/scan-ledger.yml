@@ -52061,6 +52061,11 @@ repos:
     detail: component filter_timezone already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-11-03'
+  adamjenkins/moodle-format_spiffy:
+    outcome: written
+    detail: listed as format_spiffy
+    first-seen: '2026-11-04'
+    last-checked: '2026-11-04'
   adamjenkins/moodle-local_bulktourmanager:
     outcome: exists
     detail: component local_bulktourmanager already registered (first-come, RFC §8)
