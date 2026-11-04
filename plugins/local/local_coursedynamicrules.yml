@@ -11,6 +11,6 @@ summary: The Smart Rules AI plugin enables administrators and teachers to automa
   course actions with intelligent rules based on conditions about activities, grades,
   and user behavior.
 dependencies:
-  aiprovider_datacurso: 2026090700
-  local_coursegen: 2026082400
+  aiprovider_datacurso: 2026102601
+  local_coursegen: 2026102601
   availability_user: 2024082101

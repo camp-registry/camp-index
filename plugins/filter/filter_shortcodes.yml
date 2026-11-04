@@ -76,6 +76,5 @@ releases:
   published: '2026-10-20T11:25:24Z'
   released: '2026-10-20T11:16:25Z'
 license: GPL-3.0
-summary: >-
-  Enables users to easily inject and modify content using shortcodes provided by
-  other Moodle plugins.
+summary: Enables users to easily inject and modify content using shortcodes provided
+  by other Moodle plugins.

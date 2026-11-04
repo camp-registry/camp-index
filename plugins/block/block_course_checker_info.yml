@@ -15,4 +15,4 @@ security-contact: https://github.com/ffhs/moodle-block_course_checker_info/secur
 labels:
 - fully-free
 dependencies:
-  local_course_checker: 2025062600
+  local_course_checker: 2026090100

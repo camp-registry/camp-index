@@ -8,6 +8,6 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 dependencies:
-  local_kopere_dashboard: 2026101900
+  local_kopere_dashboard: 2026102700
 summary: Kopere Proctoring was created to make online exams more controlled, transparent,
   and secure within Moodle.

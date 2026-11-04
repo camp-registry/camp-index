@@ -9,5 +9,5 @@ latest-release:
 latest-tag:
   tag: V500.1.3
   date: '2026-10-19T17:14:33Z'
-checked: '2026-10-20'
+checked: '2026-11-04'
 ci: moodle-plugin-ci

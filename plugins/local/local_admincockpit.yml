@@ -93,7 +93,6 @@ releases:
   listing-sha256: 12c3b7ccc1bd4a7d3119fdab9ace4b093a6999b2e4d231292f93b2626b1589f6
   published: '2026-10-22T07:43:20Z'
   released: '2026-10-22T06:49:53Z'
-summary: >-
-  Admin overview page for Moodle: per-school user/course metrics, health signals
-  with click-through actions, and admin shortcuts
+summary: 'Admin overview page for Moodle: per-school user/course metrics, health signals
+  with click-through actions, and admin shortcuts'
 license: GPL-3.0

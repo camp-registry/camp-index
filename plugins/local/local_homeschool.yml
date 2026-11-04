@@ -8,6 +8,6 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 dependencies:
-  format_daysections: 2026090200
+  format_daysections: 2026102701
 summary: Parent/teacher dashboard for planning and managing day-based coursework across
   Day sections courses.

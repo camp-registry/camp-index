@@ -6,6 +6,6 @@ archived: false
 latest-tag:
   tag: v0.2.0
   date: '2026-10-16T16:43:53Z'
-checked: '2026-10-19'
+checked: '2026-11-04'
 ci: moodle-plugin-ci
 renamed-to: https://github.com/adamjenkins/moodle-tool_bass
