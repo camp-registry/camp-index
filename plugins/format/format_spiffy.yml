@@ -2,10 +2,20 @@ component: format_spiffy
 source: https://github.com/adamjenkins/moodle-format_spiffy
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-11-04'
-releases: []
+releases:
+- version: 0.1.0
+  tag: v0.1.0
+  commit: 93ad814300ec2fd891e60b75ba9a898dd2321ab9
+  moodle-version: 2026110400
+  supported-moodle:
+  - '5.3'
+  zip-sha256: 98c6383c4b6ec960fac4644f7c9df93511c672452ec42c12c1bb0ee837fbced5
+  listing-sha256: 38845cff1c2d835420aae9fdd68e0c5dd861e3dc61263d96f78b8eceff9507a5
+  published: '2026-11-05T11:00:27Z'
+  released: '2026-11-04T12:29:33Z'
 license: GPL-3.0
 summary: Actually DO stuff on the course page
 security-contact: https://github.com/adamjenkins/moodle-format_spiffy/security
