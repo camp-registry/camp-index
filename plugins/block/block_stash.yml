@@ -1,10 +1,13 @@
 component: block_stash
-source: https://github.com/FMCorz/moodle-block_stash
+source: https://github.com/abgreeve/moodle-block_stash
 maintainers:
-- github: FMCorz
-tier: 0
+- github: abgreeve
+tier: 1
 status: active
 discovered: '2026-07-11'
+security-contact: https://github.com/abgreeve/moodle-block_stash/security
+labels:
+- fully-free
 releases: []
 license: GPL-3.0
 summary: Engage your students! Gamify your courses by hiding objects for your students
