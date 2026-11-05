@@ -1,5 +1,6 @@
 component: format_spiffy
 source: https://github.com/adamjenkins/moodle-format_spiffy
+source-repo-id: 1445209490
 maintainers:
 - github: adamjenkins
 tier: 2
