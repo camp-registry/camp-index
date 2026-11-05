@@ -36,9 +36,8 @@ releases:
   published: '2026-10-24T04:22:41Z'
   released: '2026-10-24T03:26:52Z'
 license: GPL-3.0
-summary: >-
-  The shared engine behind the sheetmusic Moodle plugin suite: a document model,
-  ABC and
+summary: 'The shared engine behind the sheetmusic Moodle plugin suite: a document
+  model, ABC and'
 security-contact: https://github.com/adamjenkins/moodle-local_sheetmusic/security
 labels:
 - fully-free

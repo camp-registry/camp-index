@@ -1,5 +1,5 @@
 component: mod_webdavcheck
-source: https://github.com/ueli72/moodle-mod-webdavcheck
+source: https://github.com/ueli72/moodle-mod_webdavcheck
 maintainers:
 - github: ueli72
 tier: 0
