@@ -42,6 +42,19 @@ releases:
   listing-sha256: deb9f086fc6f87949fbb8a12ecd48c775ee8b0836b1e1285f19307023e841095
   published: '2026-11-06T02:28:22Z'
   released: '2026-11-06T02:27:36Z'
+- version: 2.23.2
+  tag: v2.23.2
+  commit: d2c7487cc8a507f4b71a2fcd36f424677188a2b4
+  moodle-version: 2026110600
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 3787b6572155295fcc5f55424ce756aad7735a1e8fb26c128c62e0eb71448393
+  listing-sha256: deb9f086fc6f87949fbb8a12ecd48c775ee8b0836b1e1285f19307023e841095
+  published: '2026-11-06T19:04:34Z'
+  released: '2026-11-06T19:04:16Z'
 license: GPL-3.0
 summary: >-
   Per-instance Moodle plugin that exposes operational health, environment
