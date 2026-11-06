@@ -14,4 +14,4 @@ discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
 summary: >-
-  Free GPL support tickets inside Moodle by 108design: support teams, attachments and notifications. Standard use needs no external account. Optional guest tickets use Cloudflare Turnstile's free plan; no paid subscription is required.
+  Free GPL support tickets by 108design. Optional Magic Link is free and activation-free on GitHub (Marketplace soon). Guest tickets use Turnstile Free. Standard use needs no external account or paid subscription.
