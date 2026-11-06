@@ -4,13 +4,28 @@ source-repo-id: 1421231658
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: 108design
 status: active
 discovered: '2026-11-03'
-releases: []
+releases:
+- version: 1.2.1
+  tag: camp/v1.2.1
+  commit: 08fa1ff5a63f5caa4b3f077505d4f44ccb46dc0a
+  moodle-version: 2026110601
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: f04964ae0a951df36bd3d9697a2e5866c4fbbf5f3f0b80ad6ef59a8c9d0c33ad
+  listing-sha256: a98d097e8c32c9a4fb4fa6b6b54e3df8b438e46b9e62c0fc7a052c74524c5c87
+  published: '2026-11-06T23:13:27Z'
+  released: '2026-11-06T23:06:11Z'
 license: GPL-3.0
-summary: Single-image course custom field for Moodle, with defaults, permissions and
+summary: >-
+  Single-image course custom field for Moodle, with defaults, permissions and
   backup support. GPL v3+, beta for Moodle 4.5–5.3.
