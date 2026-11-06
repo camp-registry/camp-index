@@ -1,8 +1,13 @@
 component: mod_pdfworkspace
 source: https://github.com/108design/moodle-mod_pdfworkspace
+source-repo-id: 1403471529
+security-contact: andreas@108design.com
 maintainers:
-- github: 108design
-tier: 0
+- github: VOOM108
+tier: 1
+labels:
+- fully-free
+org-claim: 108design
 status: active
 discovered: '2026-11-03'
 releases: []

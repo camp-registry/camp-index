@@ -1,8 +1,13 @@
 component: certificateelement_flexdate
 source: https://github.com/108design/moodle-certificateelement_flexdate
+source-repo-id: 1348934413
+security-contact: andreas@108design.com
 maintainers:
-- github: 108design
-tier: 0
+- github: VOOM108
+tier: 1
+labels:
+- fully-free
+org-claim: 108design
 status: active
 discovered: '2026-11-03'
 releases: []

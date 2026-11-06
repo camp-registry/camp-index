@@ -1,8 +1,13 @@
 component: availability_courserating
 source: https://github.com/108design/moodle-availability_courserating
+source-repo-id: 1348935033
+security-contact: andreas@108design.com
 maintainers:
-- github: 108design
-tier: 0
+- github: VOOM108
+tier: 1
+labels:
+- fully-free
+org-claim: 108design
 status: active
 discovered: '2026-11-03'
 releases: []
