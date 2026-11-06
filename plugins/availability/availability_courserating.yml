@@ -4,12 +4,23 @@ source-repo-id: 1348935033
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: 108design
 status: active
 discovered: '2026-11-03'
-releases: []
+releases:
+- version: 1.1.0
+  tag: camp/v1.1.0
+  commit: 5a7fcaaf39416f40581a134bb64e72fce9fedd07
+  moodle-version: 2026102900
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  zip-sha256: dedff2c55c399511d28b03178790536179936d45f9a05f98d2d47dd5fbcae1f7
+  listing-sha256: d950d02b6edc45a4b40d837e9bf973f55a0d6526a6425397795c8f3ab7f78394
+  published: '2026-11-06T23:13:16Z'
+  released: '2026-11-06T23:03:36Z'
 license: GPL-3.0
 summary: GPL-licensed Moodle availability condition based on course ratings.
