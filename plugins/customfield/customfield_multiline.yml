@@ -4,13 +4,28 @@ source-repo-id: 1437801268
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: 108design
 status: active
 discovered: '2026-11-03'
-releases: []
+releases:
+- version: 1.1.0
+  tag: camp/v1.1.0
+  commit: 783a1fa196cbf2b6d71a705e8714601ba49a4d7e
+  moodle-version: 2026110600
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 0133e1c444ad92d957ce7fecc0dc2f5604707a44173043ad837244b67284c19b
+  listing-sha256: 8d126e82c3a2e32c11e7ba1cf97c9ba2cf8040cc97deb0340993983a4f5d8ec2
+  published: '2026-11-06T23:13:29Z'
+  released: '2026-11-06T23:06:18Z'
 license: GPL-3.0
-summary: 'Certificate Multitool: paired course custom fields and certificate elements
-  for Moodle. GPL v3 or later.'
+summary: >-
+  Certificate Multitool: paired course custom fields and certificate elements
+  for Moodle. GPL v3 or later.
