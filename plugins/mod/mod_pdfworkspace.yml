@@ -4,13 +4,28 @@ source-repo-id: 1403471529
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: 108design
 status: active
 discovered: '2026-11-03'
-releases: []
+releases:
+- version: 1.13.0
+  tag: camp/v1.13.0
+  commit: 4bc18db88cace8fee2d4d4df3ebfab4d0db6534b
+  moodle-version: 2026102900
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: eef86b1c0362caef0ac12be0f8aaae1e1c4e2ced289edce010683f28d79fe1ca
+  listing-sha256: 05e93dc7412ff811fd1e6ffc9904666476b774cff7662cb39b5637dcdc107449
+  published: '2026-11-06T23:13:35Z'
+  released: '2026-11-06T23:12:15Z'
 license: GPL-3.0
-summary: Independent GPL PDF Workspace, derived from PDF Annotator; maintained by
+summary: >-
+  Independent GPL PDF Workspace, derived from PDF Annotator; maintained by
   108design.
