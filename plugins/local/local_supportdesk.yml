@@ -4,14 +4,29 @@ source-repo-id: 1403471638
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
-tier: 1
+tier: 2
 labels:
 - external-account
 - paid-service
 org-claim: 108design
 status: active
 discovered: '2026-11-03'
-releases: []
+releases:
+- version: 1.8.0
+  tag: v1.8.0
+  commit: 0b98f80f520c538125416207e2b485050a2f9954
+  moodle-version: 2026110301
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 2f8bcdf72ad6d77de2a6354f3e53a246dad453005b920f8bad5682f885a44b10
+  listing-sha256: b041c599b25a2d2922a02b22ef1b339afb22c8690228dd1edd6954140d1badbc
+  published: '2026-11-06T23:35:25Z'
+  released: '2026-11-06T23:30:00Z'
 license: GPL-3.0
-summary: Independent GPL Moodle Supportdesk, derived from Academic Ticket System;
+summary: >-
+  Independent GPL Moodle Supportdesk, derived from Academic Ticket System;
   maintained by 108design.
