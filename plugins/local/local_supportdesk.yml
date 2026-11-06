@@ -13,5 +13,5 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
-summary: Independent GPL Moodle Supportdesk, derived from Academic Ticket System;
-  maintained by 108design.
+summary: >-
+  Free GPL support tickets inside Moodle by 108design: support teams, attachments and notifications. Standard use needs no external account. Optional guest tickets use Cloudflare Turnstile's free plan; no paid subscription is required.
