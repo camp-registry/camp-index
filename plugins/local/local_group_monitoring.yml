@@ -1,5 +1,5 @@
 component: local_group_monitoring
-source: https://github.com/consulguia-oficial/moodle-local_group_monitoring
+source: https://github.com/elsondev84/moodle-local_group_monitoring
 maintainers:
 - github: consulguia-oficial
 tier: 0
