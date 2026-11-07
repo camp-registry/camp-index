@@ -93,6 +93,18 @@ releases:
   listing-sha256: 12c3b7ccc1bd4a7d3119fdab9ace4b093a6999b2e4d231292f93b2626b1589f6
   published: '2026-10-22T07:43:20Z'
   released: '2026-10-22T06:49:53Z'
-summary: 'Admin overview page for Moodle: per-school user/course metrics, health signals
-  with click-through actions, and admin shortcuts'
+- version: 2.7.0
+  tag: v2.7.0
+  commit: 2442134e3b0e46ebcf04937e191f28cef787e355
+  moodle-version: 2026110800
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 61adadabc2e9345e70b49f09f4e970dc6d09c3952fe708e919f5ab458110c789
+  listing-sha256: 12c3b7ccc1bd4a7d3119fdab9ace4b093a6999b2e4d231292f93b2626b1589f6
+  published: '2026-11-07T23:16:00Z'
+  released: '2026-11-07T23:06:12Z'
+summary: >-
+  Admin overview page for Moodle: per-school user/course metrics, health signals
+  with click-through actions, and admin shortcuts
 license: GPL-3.0
