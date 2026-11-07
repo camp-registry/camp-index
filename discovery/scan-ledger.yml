@@ -165642,6 +165642,10 @@ repos:
     last-checked: '2026-10-03'
     component: mod_checklist
     probed: '2026-10-21'
+    resolution:
+      verdict: copy-of-listed
+      ref: https://github.com/camp-registry/camp-index/pull/698
+      decided: '2026-11-07'
   unitec-moodle/moodle_311_plugin_mod_hotpot:
     outcome: exists
     detail: component mod_hotpot already indexed this run
