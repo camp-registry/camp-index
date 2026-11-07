@@ -4,6 +4,7 @@ source-repo-id: 1348935033
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
+  name: 108design (Andreas Giesen)
 tier: 2
 labels:
 - fully-free

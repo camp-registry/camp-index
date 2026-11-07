@@ -4,6 +4,7 @@ source-repo-id: 1437801509
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
+  name: 108design (Andreas Giesen)
 tier: 2
 labels:
 - fully-free
@@ -29,9 +30,8 @@ releases:
   published: '2026-11-06T23:13:27Z'
   released: '2026-11-06T23:05:58Z'
 license: GPL-3.0
-summary: >-
-  Certificate Multitool: paired course custom fields and certificate elements
-  for Moodle. GPL v3 or later.
+summary: 'Certificate Multitool: paired course custom fields and certificate elements
+  for Moodle. GPL v3 or later.'
 dependencies:
   tool_certificate: 2025031804
   customfield_multiline: 2026102700

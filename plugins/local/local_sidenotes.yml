@@ -4,6 +4,7 @@ source-repo-id: 1403471573
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
+  name: 108design (Andreas Giesen)
 tier: 2
 labels:
 - fully-free
@@ -39,7 +40,20 @@ releases:
   listing-sha256: 711de0a2b7129d7ab814bc30780247da6a0bad0ad1edcd4bba7d55cb89be0069
   published: '2026-11-07T00:57:55Z'
   released: '2026-11-07T00:42:31Z'
+- version: 1.30.0
+  tag: v1.30.0
+  commit: ccf32eb5bb11e320a8c69ef01f9d57a07169547b
+  moodle-version: 2026110703
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 9c028a04b98211d6f48adc9e830b3dc2bd5a117e9702fb11c93c7401ac75a6df
+  listing-sha256: 711de0a2b7129d7ab814bc30780247da6a0bad0ad1edcd4bba7d55cb89be0069
+  published: '2026-11-07T01:50:45Z'
+  released: '2026-11-07T01:48:08Z'
 license: GPL-3.0
-summary: >-
-  SideNotes: private Moodle notes, student mode, optional administrator mode and
-  QuickNote migration.
+summary: 'SideNotes: private Moodle notes, student mode, optional administrator mode
+  and QuickNote migration.'
