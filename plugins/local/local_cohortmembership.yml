@@ -3,7 +3,8 @@ source: https://github.com/tkorner/moodle-local_cohortmembership
 source-repo-id: 1048312094
 maintainers:
 - github: tkorner
-security-contact: https://github.com/tkorner/moodle-local_cohortmembership/security/advisories/new
+security-contact: >-
+  https://github.com/tkorner/moodle-local_cohortmembership/security/advisories/new
 tier: 2
 labels:
 - fully-free
@@ -57,4 +58,17 @@ releases:
   listing-sha256: 2756459400c319bd9257e4774bd709e6bdebda2f9f57406f7b91e5db77888646
   published: '2026-10-11T08:08:26Z'
   released: '2026-10-11T07:58:41Z'
+- version: 1.2.0
+  tag: v1.2.0
+  commit: 98bae34c035cd3cf4f63c832950052a4b39939bd
+  moodle-version: 2026110700
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 4eae57e5743cc64045dcd3620ec2e3806cf45ea97e3dcc908d7cec241f9903d2
+  listing-sha256: 2756459400c319bd9257e4774bd709e6bdebda2f9f57406f7b91e5db77888646
+  published: '2026-11-07T22:53:56Z'
+  released: '2026-11-07T22:45:39Z'
 license: GPL-3.0
