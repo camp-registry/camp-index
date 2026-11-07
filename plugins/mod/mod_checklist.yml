@@ -1,5 +1,6 @@
 component: mod_checklist
 source: https://github.com/davosmith/moodle-checklist
+source-repo-id: 1393226
 maintainers:
 - github: davosmith
 security-contact: https://github.com/davosmith/moodle-checklist/security/advisories/new
