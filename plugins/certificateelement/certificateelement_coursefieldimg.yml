@@ -4,15 +4,32 @@ source-repo-id: 1421231610
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: 108design
 status: active
 discovered: '2026-11-03'
-releases: []
+releases:
+- version: 1.1.0
+  tag: camp/v1.1.0
+  commit: 07458601553f23aa5b722dd96154892c41a12dc2
+  moodle-version: 2026110600
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    tool_certificate: 2025031804
+  zip-sha256: d3900d86fd3e4670487ca80837e1ebdb40b89fc582e672fa2c21df7327d49754
+  listing-sha256: ac0a5e1b217abbb224aa2f8405b34e992313d1282f24447d9bec6fc98712c7aa
+  published: '2026-11-06T23:13:19Z'
+  released: '2026-11-06T23:03:44Z'
 license: GPL-3.0
-summary: 'Moodle certificate element: per-course images from text areas or image custom
-  fields. GPL v3+, beta for Moodle 4.5–5.3.'
+summary: >-
+  Moodle certificate element: per-course images from text areas or image custom
+  fields. GPL v3+, beta for Moodle 4.5–5.3.
 dependencies:
   tool_certificate: 2025031804

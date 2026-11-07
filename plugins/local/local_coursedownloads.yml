@@ -4,13 +4,28 @@ source-repo-id: 1427143400
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
-tier: 1
+tier: 2
 labels:
 - fully-free
 org-claim: 108design
 status: active
 discovered: '2026-11-03'
-releases: []
+releases:
+- version: 4.3.0
+  tag: camp/v4.3.0
+  commit: f73a7712d20312f220e34d9d3f73c70a8dc35c5b
+  moodle-version: 2026110600
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 9e9d4e7cfd120adae7b205d265c97e6213f46a5b54fa57f56737105e51b0d4af
+  listing-sha256: d8a98666750752ee12da18449946b218a84067ecdc1b74faf7b7fd5d55c83dfa
+  published: '2026-11-06T23:13:34Z'
+  released: '2026-11-06T23:09:33Z'
 license: GPL-3.0
-summary: 'Course Downloads for Moodle: filter permitted course materials and download
-  selected files or separate section archives.'
+summary: >-
+  Course Downloads for Moodle: filter permitted course materials and download
+  selected files or separate section archives.
