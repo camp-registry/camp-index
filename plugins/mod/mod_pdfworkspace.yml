@@ -4,6 +4,7 @@ source-repo-id: 1403471529
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
+  name: 108design (Andreas Giesen)
 tier: 2
 labels:
 - fully-free
@@ -26,6 +27,5 @@ releases:
   published: '2026-11-06T23:13:35Z'
   released: '2026-11-06T23:12:15Z'
 license: GPL-3.0
-summary: >-
-  Independent GPL PDF Workspace, derived from PDF Annotator; maintained by
+summary: Independent GPL PDF Workspace, derived from PDF Annotator; maintained by
   108design.

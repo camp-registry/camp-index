@@ -4,6 +4,7 @@ source-repo-id: 1348934413
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
+  name: 108design (Andreas Giesen)
 tier: 2
 labels:
 - fully-free
@@ -28,8 +29,7 @@ releases:
   published: '2026-11-06T23:13:23Z'
   released: '2026-11-06T23:06:04Z'
 license: GPL-3.0
-summary: >-
-  GPL-licensed Moodle Certificate manager element for flexible localized date
+summary: GPL-licensed Moodle Certificate manager element for flexible localized date
   formatting.
 dependencies:
   tool_certificate: any

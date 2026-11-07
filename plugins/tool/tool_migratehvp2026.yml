@@ -1,8 +1,14 @@
 component: tool_migratehvp2026
 source: https://github.com/108design/moodle-tool_migratehvp2026
+source-repo-id: 1161040032
+security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
-tier: 0
+  name: 108design (Andreas Giesen)
+tier: 1
+labels:
+- fully-free
+org-claim: 108design
 status: active
 discovered: '2026-07-11'
 releases: []

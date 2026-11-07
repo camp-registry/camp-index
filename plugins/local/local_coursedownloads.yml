@@ -4,6 +4,7 @@ source-repo-id: 1427143400
 security-contact: andreas@108design.com
 maintainers:
 - github: VOOM108
+  name: 108design (Andreas Giesen)
 tier: 2
 labels:
 - fully-free
@@ -26,6 +27,5 @@ releases:
   published: '2026-11-06T23:13:34Z'
   released: '2026-11-06T23:09:33Z'
 license: GPL-3.0
-summary: >-
-  Course Downloads for Moodle: filter permitted course materials and download
-  selected files or separate section archives.
+summary: 'Course Downloads for Moodle: filter permitted course materials and download
+  selected files or separate section archives.'
