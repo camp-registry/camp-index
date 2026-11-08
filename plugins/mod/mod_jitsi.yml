@@ -40,5 +40,19 @@ releases:
   published: '2026-10-19T06:39:52Z'
   released: '2026-10-19T06:33:53Z'
   listing-sha256: 88cc96bb7be5d41839458b37a1b2d5ff0402f8ea7936da824fc00166d8d41ba5
+- version: 5.5.1
+  tag: v5.5.1
+  commit: 6984a8f3c486e7b9ee306c6891a9e02ddf2b7dc4
+  moodle-version: 2026110801
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 38364de761ee1d5a3460a78f9fe420fea3807d4e72fb6123c1a3e9cd2f2123ac
+  listing-sha256: 88cc96bb7be5d41839458b37a1b2d5ff0402f8ea7936da824fc00166d8d41ba5
+  published: '2026-11-08T09:19:31Z'
+  released: '2026-11-08T09:19:10Z'
 summary: Jitsi videoconference plugin for Moodle
 license: GPL-3.0
