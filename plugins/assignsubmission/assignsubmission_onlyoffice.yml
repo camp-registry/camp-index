@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: Moodle ONLYOFFICE Document Server online editor integration
 dependencies:
-  mod_onlyofficeeditor: 2024111300
+  mod_onlyofficeeditor: 2026102900

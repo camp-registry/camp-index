@@ -9,4 +9,4 @@ releases: []
 summary: OneNote Assignment Submission plugin for Moodle
 license: GPL-3.0
 dependencies:
-  local_onenote: 2026042000
+  local_onenote: 2026100500
