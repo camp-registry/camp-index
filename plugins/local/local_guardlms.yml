@@ -4,12 +4,36 @@ source-repo-id: 1267840681
 maintainers:
 - github: LdesignMedia
 security-contact: https://github.com/LdesignMedia/moodle-local_guardlms/security/advisories/new
-tier: 1
+tier: 2
 labels:
 - paid-service
 - external-account
 status: active
 discovered: '2026-09-04'
-releases: []
+releases:
+- version: 1.10.1
+  tag: v1.10.1
+  commit: 5ba3753fd01ff7edc34b491c3ecdbd3f84a62815
+  moodle-version: 2026110800
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: fa7c6671e0ebe0f00faf8ad8e7833e8efde233f46889851e4944651c6673c3be
+  listing-sha256: 92ca027490e9363ff73e384974862cbe6d6de473103b986a29ec05985eba1a42
+  published: '2026-11-08T19:38:56Z'
+  released: '2026-11-08T19:32:53Z'
 license: GPL-3.0
-summary: A Moodle local plugin that reports the site to GuardLMS for security monitoring
+summary: >-
+  A Moodle local plugin that reports the site to GuardLMS for security
+  monitoring
