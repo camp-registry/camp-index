@@ -17,6 +17,16 @@ releases:
   listing-sha256: 38845cff1c2d835420aae9fdd68e0c5dd861e3dc61263d96f78b8eceff9507a5
   published: '2026-11-05T11:00:27Z'
   released: '2026-11-04T12:29:33Z'
+- version: 0.1.1
+  tag: v0.1.1
+  commit: ab3ea44977fc119d2cfe999cd1ab8775f6d450f3
+  moodle-version: 2026110900
+  supported-moodle:
+  - '5.3'
+  zip-sha256: 57fa7f53732eaa51528efdf4bcf41e6afa016de78e4a1d532f995553b6356c73
+  listing-sha256: 38845cff1c2d835420aae9fdd68e0c5dd861e3dc61263d96f78b8eceff9507a5
+  published: '2026-11-09T09:06:25Z'
+  released: '2026-11-09T08:13:18Z'
 license: GPL-3.0
 summary: Actually DO stuff on the course page
 security-contact: https://github.com/adamjenkins/moodle-format_spiffy/security
