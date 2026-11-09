@@ -35,6 +35,20 @@ releases:
   listing-sha256: bfcfb1a9cd88e70e9351fc59d60b352168d7241912326c201929a31f1935ebc8
   published: '2026-10-24T00:44:04Z'
   released: '2026-10-24T00:12:53Z'
+- version: 0.1.5
+  tag: v0.1.5
+  commit: aa1e204556f0c85e80c81114dbf668ef20d71aa7
+  moodle-version: 2026110900
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: ca0d9d5ad9e35316561fa26693b2f2aded782644028c5f0e1f06a2927351a568
+  listing-sha256: bfcfb1a9cd88e70e9351fc59d60b352168d7241912326c201929a31f1935ebc8
+  published: '2026-11-09T13:54:00Z'
+  released: '2026-11-09T09:52:04Z'
 license: GPL-3.0
 summary: Supercharge Moodle Messaging
 security-contact: https://github.com/adamjenkins/moodle-local_messagingsupercharger/security
