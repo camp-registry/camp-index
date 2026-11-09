@@ -8,7 +8,7 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 dependencies:
-  local_coursectrl: 2026040908
+  local_coursectrl: 2026102100
 summary: 'Development notice: Learn Tip is a planned, small learner-facing Moodle
   course block. This repository currently contains a copied blockcoursectrl scaffold:
   its version.php, namespaces and capabilities have not yet been renamed to blockcoursectrllearntip.

@@ -13,4 +13,4 @@ releases: []
 license: GPL-3.0
 summary: More than 100 dashboards and reports for intelligent data management.
 dependencies:
-  local_kopere_dashboard: 2026092300
+  local_kopere_dashboard: 2026102700

@@ -1,4 +1,4 @@
-updated: '2026-08-20T18:48:06Z'
+updated: '2026-11-06T10:38:36Z'
 stars: 0
 forks: 0
 open-issues: 4
@@ -7,6 +7,6 @@ latest-release:
   tag: v2.6
   date: '2022-05-27T13:17:43Z'
 latest-tag:
-  tag: staging-20260820204502
+  tag: test-20261106113813
   date: '2026-08-19T23:54:37Z'
-checked: '2026-10-25'
+checked: '2026-11-09'
