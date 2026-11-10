@@ -20,6 +20,19 @@ releases:
   listing-sha256: f2699eb80013bb1be0278024042cceb2af33cdf066967ba5c9cc70aade7659f9
   published: '2026-10-04T13:26:58Z'
   released: '2026-10-04T11:48:13Z'
+- version: 1.1.6
+  tag: v1.1.6
+  commit: 871898d216e2bee9d630ac205016d6faa9e4374f
+  moodle-version: 2026111000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: ad3a237c170516244178395064e29f8e936e480ef7bf740a1fbc734d62f22650
+  listing-sha256: f2699eb80013bb1be0278024042cceb2af33cdf066967ba5c9cc70aade7659f9
+  published: '2026-11-10T15:13:45Z'
+  released: '2026-11-10T13:35:20Z'
 license: GPL-3.0
 summary: Escape room type scenarios where students go up against an AI
 security-contact: https://github.com/adamjenkins/moodle-mod_aiescape/security
