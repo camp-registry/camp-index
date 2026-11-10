@@ -20,8 +20,23 @@ releases:
   listing-sha256: 1b7f63cc13b46c98127cb173221ab80ebefe36d1c0bce74830cb3c7300ec04f9
   published: '2026-10-04T13:35:30Z'
   released: '2026-10-04T11:48:14Z'
+- version: 0.6.5
+  tag: v0.6.5
+  commit: 6342edc6c0fb3a0d1906617ea82135a4cdbc8642
+  moodle-version: 2026111000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: c83f71bbae143145d6646cd3b29d63bc91f1a09801d92d74c1e2ee0c2ea38b41
+  listing-sha256: 1b7f63cc13b46c98127cb173221ab80ebefe36d1c0bce74830cb3c7300ec04f9
+  published: '2026-11-10T15:12:40Z'
+  released: '2026-11-10T13:35:20Z'
 license: GPL-3.0
-summary: A linear, game-like interface for quiz questions for use as a practice activity.
+summary: >-
+  A linear, game-like interface for quiz questions for use as a practice
+  activity.
 security-contact: https://github.com/adamjenkins/moodle-mod_quizquest/security
 labels:
 - fully-free
