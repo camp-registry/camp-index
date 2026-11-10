@@ -20,6 +20,19 @@ releases:
   listing-sha256: 2f91e473ab43e800c909fe79de2c1317446588ab8c86e7ed808755f866180035
   published: '2026-10-04T13:26:47Z'
   released: '2026-10-04T11:48:13Z'
+- version: 1.1.4
+  tag: v1.1.4
+  commit: 5e3159c72989c3774adf2fe705b4b2a2fa9dd9e8
+  moodle-version: 2026111000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 14a975142417db6be89817d541a4ec0e969e1c97a3335ce607b3ec26840c104b
+  listing-sha256: 4e227386352c00b8a80e71bea9b9916d778923d51d38c8a3b0ac2f8e5ca007a9
+  published: '2026-11-10T15:11:57Z'
+  released: '2026-11-10T13:35:19Z'
 license: GPL-3.0
 summary: Moodle plugin that allows forums to be set to require recording audio/video.
 security-contact: https://github.com/adamjenkins/moodle-local_textless_forum/security
