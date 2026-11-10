@@ -12,4 +12,4 @@ summary: A Moodle plugin that adds an “Add certificate to LinkedIn” button t
   for your LinkedIn post. All with one click for the learner.
 dependencies:
   mod_customcert: 2024042212
-  aiprovider_datacurso: 2025100201
+  aiprovider_datacurso: 2026110400

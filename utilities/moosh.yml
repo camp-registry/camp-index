@@ -18,7 +18,7 @@ metrics:
   updated: '2026-10-14T12:25:34Z'
   stars: 262
   forks: 190
-  open-issues: 38
+  open-issues: 39
   archived: false
   latest-release:
     tag: '1.27'
@@ -26,4 +26,4 @@ metrics:
   latest-tag:
     tag: '1.27'
     date: '2025-02-08T17:04:04Z'
-  checked: '2026-11-09'
+  checked: '2026-11-10'

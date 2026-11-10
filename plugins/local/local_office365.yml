@@ -9,8 +9,8 @@ releases: []
 summary: Office 365 master plugin for Moodle
 license: GPL-3.0
 dependencies:
-  auth_oidc: 2026042001
-  block_microsoft: 2026042001
-  local_o365: 2026042001
-  repository_office365: 2026042000
-  theme_boost_o365teams: 2026042000
+  auth_oidc: 2026100500
+  block_microsoft: 2026100500
+  local_o365: 2026100500
+  repository_office365: 2026100500
+  theme_boost_o365teams: 2026100500

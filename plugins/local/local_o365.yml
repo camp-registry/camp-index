@@ -9,4 +9,4 @@ releases: []
 summary: Office 365 Local plugin for Moodle LMS
 license: GPL-3.0
 dependencies:
-  auth_oidc: 2026042001
+  auth_oidc: 2026100500
