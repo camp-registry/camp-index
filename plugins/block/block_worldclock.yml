@@ -20,6 +20,19 @@ releases:
   listing-sha256: a43e5003c0daf3c8ef6a00dc65db989850887a4e50d2fc9cf27d98cf08394f63
   published: '2026-10-04T13:26:25Z'
   released: '2026-10-04T11:48:12Z'
+- version: 1.6.4
+  tag: v1.6.4
+  commit: e7f84270c4d810d12b14e588f21dfc5023bce460
+  moodle-version: 2026111000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: a896346acba357a9c9e4f5e2e25d7d4bea2585ac1940ccb245b5bd20211a3ff7
+  listing-sha256: 8554c26c82628578783d594664de70fac5f949a55aaa03f077ab338a35fe7f65
+  published: '2026-11-10T15:10:02Z'
+  released: '2026-11-10T13:35:20Z'
 license: GPL-3.0
 summary: A Moodle block that displays the current time in multiple timezones. It can
 security-contact: https://github.com/adamjenkins/moodle-block_worldclock/security
