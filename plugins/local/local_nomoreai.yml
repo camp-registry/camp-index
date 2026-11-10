@@ -18,6 +18,17 @@ releases:
   listing-sha256: feb24b3b7e34332147a2dff82ff2a150c59722bc2919f73138e9dde7b64ead3c
   published: '2026-10-04T14:30:44Z'
   released: '2026-10-04T13:38:30Z'
+- version: 0.1.3
+  tag: v0.1.3
+  commit: 26ba725837fd8d6fb2195f4519bdee9c076c1275
+  moodle-version: 2026111001
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 4f86482df59169b224f91d3472af787e747bef979829a371a3b577a715cbe3ad
+  listing-sha256: e5b1cf7286d6ccef767599c0ca319c24a9c606033fbb3b3294e83c7d7216f968
+  published: '2026-11-10T15:14:57Z'
+  released: '2026-11-10T13:38:37Z'
 license: GPL-3.0
 security-contact: https://github.com/adamjenkins/moodle-local_nomoreai/security
 labels:
