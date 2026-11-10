@@ -20,6 +20,19 @@ releases:
   listing-sha256: bc62b02797eec8ea2c8207aa0d9da6be65868f8d67e519b1b27beb8821f50324
   published: '2026-10-11T07:04:19Z'
   released: '2026-10-11T02:35:52Z'
+- version: 0.1.2
+  tag: v0.1.2
+  commit: 815f9e4b51c764fc5a28d821d9d01e0098d1f6f8
+  moodle-version: 2026111000
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  dependencies:
+    mod_vrroom: 2026101001
+  zip-sha256: 43dcb180cb054caf857b25c9a0075f2810294b162135240fd6005988cdee70d6
+  listing-sha256: bc62b02797eec8ea2c8207aa0d9da6be65868f8d67e519b1b27beb8821f50324
+  published: '2026-11-10T15:28:48Z'
+  released: '2026-11-10T15:09:34Z'
 license: GPL-3.0
 summary: Make an avatar for VR Rooms
 dependencies:
