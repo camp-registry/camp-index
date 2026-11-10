@@ -2,10 +2,21 @@ component: mod_moodlereader
 source: https://github.com/adamjenkins/moodle-mod_moodlereader
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-11-09'
-releases: []
+releases:
+- version: 0.1.2
+  tag: v0.1.2
+  commit: 1860dacf5c98a2f390b58726bdaa13d6792744cb
+  moodle-version: 2026111001
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: f3337177c464581a1a2aab851a4a7689cfe1a8cc58f58598b64bbfac4eb7fb2c
+  listing-sha256: b201ec164a970b4d3554118d25bfea1016845b39bf1dc24025845b90cc5589b8
+  published: '2026-11-10T15:12:25Z'
+  released: '2026-11-10T13:35:20Z'
 license: GPL-3.0
 security-contact: https://github.com/adamjenkins/moodle-mod_moodlereader/security
 labels:
