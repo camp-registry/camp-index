@@ -18,6 +18,17 @@ releases:
   listing-sha256: 388213b4dfd5105b5b39bac12a6e1d21ce012ef7f312e57f4d427f8b2a48d7c9
   published: '2026-10-04T16:35:48Z'
   released: '2026-10-04T13:55:21Z'
+- version: 0.3.4
+  tag: v0.3.4
+  commit: 0424f6e48f08659a6bcf8730f2ca732ec46c3539
+  moodle-version: 2026111001
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 48f68a63da3a49ae9d3fae2635947e089f02b045e3279e11602bb42a2d5e332e
+  listing-sha256: d91b6c2078642e908e28389f523d2634975e1e53fed752f960848d2645e4522c
+  published: '2026-11-10T15:12:37Z'
+  released: '2026-11-10T13:38:37Z'
 license: GPL-3.0
 summary: A Moodle activity module that schedules spaced repetition of question bank
 security-contact: https://github.com/adamjenkins/moodle-mod_rememberme/security
