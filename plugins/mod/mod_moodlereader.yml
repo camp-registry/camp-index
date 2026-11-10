@@ -2,8 +2,12 @@ component: mod_moodlereader
 source: https://github.com/adamjenkins/moodle-mod_moodlereader
 maintainers:
 - github: adamjenkins
-tier: 0
+tier: 1
 status: active
 discovered: '2026-11-09'
 releases: []
 license: GPL-3.0
+security-contact: https://github.com/adamjenkins/moodle-mod_moodlereader/security
+labels:
+- fully-free
+- external-account
