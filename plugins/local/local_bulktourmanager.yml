@@ -33,6 +33,19 @@ releases:
   listing-sha256: a5ee26282509a12ff1d5e03e4877e18536a31d00fd857aa38a7c73b23a54a48f
   published: '2026-10-04T13:25:46Z'
   released: '2026-10-04T11:48:12Z'
+- version: 0.1.3
+  tag: v0.1.3
+  commit: 1eb5c086c2f7d977f59225bb834b80234039d04c
+  moodle-version: 2026111000
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  dependencies:
+    tool_usertours: any
+  zip-sha256: 340b8b295b34c2f51f60631c4154d1f4e2d7f1eebf0e2829425588c45e531e10
+  listing-sha256: e3faf32fc0c5be741453e3e1116440422522f6f3cd88e4d5772bbd44a69aceb5
+  published: '2026-11-10T15:11:08Z'
+  released: '2026-11-10T13:35:20Z'
 license: GPL-3.0
 summary: Upload, download, and delete user tours in bulk.
 security-contact: https://github.com/adamjenkins/moodle-local_bulktourmanager/security
