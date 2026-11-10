@@ -20,6 +20,19 @@ releases:
   listing-sha256: 579f1d5099a47ae29341bacefbfb7e24050cdf5e31a4a2d98c8ba43c35de11a2
   published: '2026-10-04T13:42:01Z'
   released: '2026-10-04T11:48:14Z'
+- version: 1.1.5
+  tag: v1.1.5
+  commit: bccdb540efc8e13dc369f4e25148d6ae57b12260
+  moodle-version: 2026111000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 3e34fc9f560dc913ad38489e61964dae1069da377d2eaec53a52bd2315606d04
+  listing-sha256: 4da61a64ae4eae36fbb547e1191b8c7c300424959c9406fb74219abe4fdbf43f
+  published: '2026-11-10T15:14:22Z'
+  released: '2026-11-10T14:04:08Z'
 license: GPL-3.0
 summary: An admin tool plugin for Moodle that automatically resizes and recompresses
 security-contact: https://github.com/adamjenkins/moodle-tool_imageoptimizer/security
