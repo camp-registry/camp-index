@@ -20,8 +20,22 @@ releases:
   listing-sha256: 30ca8e82c4571af762afe8173bf16c422e552312ec04d6725c094238ef992a6c
   published: '2026-10-04T13:27:04Z'
   released: '2026-10-04T11:48:13Z'
+- version: 1.1.4
+  tag: v1.1.4
+  commit: 8f950cd1fe3c288949e19be36ee2a6bd48c031ed
+  moodle-version: 2026111000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 1247732d4eb3488026aab38f7d65759a440576867d789eeccf63d9c5a6e968fc
+  listing-sha256: 9e82331c1629199bad4e452b335f1eed68ab8fd0db2964c98fe70910e96cf898
+  published: '2026-11-10T15:13:12Z'
+  released: '2026-11-10T13:35:19Z'
 license: GPL-3.0
-summary: A Moodle local plugin that highlights recently added and recently modified
+summary: >-
+  A Moodle local plugin that highlights recently added and recently modified
   activities and resources directly on the course page
 security-contact: https://github.com/adamjenkins/moodle-local_newupdate_indicator/security
 labels:
