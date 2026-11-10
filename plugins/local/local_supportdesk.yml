@@ -26,6 +26,22 @@ releases:
   listing-sha256: b041c599b25a2d2922a02b22ef1b339afb22c8690228dd1edd6954140d1badbc
   published: '2026-11-06T23:35:25Z'
   released: '2026-11-06T23:30:00Z'
+- version: 1.9.0
+  tag: v1.9.0
+  commit: 184076af11d9e0e27cb1ae6bfcb475385c2bf212
+  moodle-version: 2026111001
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: ec0bf69159bf74b95d02a1da4194715116e191a2161491f7f346c97bab07eb3e
+  listing-sha256: 4be1cbaef8e864eccde67ab7b6364b2a6d4ac2bfc8f1d998f9d66b4545f76f60
+  published: '2026-11-10T18:08:33Z'
+  released: '2026-11-10T17:57:31Z'
 license: GPL-3.0
 summary: >-
-  Support tickets for Moodle by 108design, with teams, attachments and notifications. Optional guest tickets use Cloudflare Turnstile; Magic Link sign-in is optional.
+  Support tickets for Moodle by 108design, with teams, attachments and
+  notifications. Optional guest tickets use Cloudflare Turnstile; Magic Link
+  sign-in is optional.
