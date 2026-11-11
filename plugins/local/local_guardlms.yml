@@ -33,6 +33,28 @@ releases:
   listing-sha256: 92ca027490e9363ff73e384974862cbe6d6de473103b986a29ec05985eba1a42
   published: '2026-11-08T19:38:56Z'
   released: '2026-11-08T19:32:53Z'
+- version: 1.12.0
+  tag: v1.12.0
+  commit: 249ef5fcd8a9f14504ff1fb86bc614e4a4384183
+  moodle-version: 2026111000
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: f17e803974afd37e8022f69f04dabdfe4fe59f6d68b597ec5c3d6d3f06b67ba3
+  listing-sha256: 92ca027490e9363ff73e384974862cbe6d6de473103b986a29ec05985eba1a42
+  published: '2026-11-11T09:51:48Z'
+  released: '2026-11-11T09:50:32Z'
 license: GPL-3.0
 summary: >-
   A Moodle local plugin that reports the site to GuardLMS for security
