@@ -1,5 +1,5 @@
 component: mod_bigbluebuttonbn
-source: https://github.com/blindsidenetworks-ps/moodle-mod_bigbluebuttonbn
+source: https://github.com/blindsidenetworks-moodle/moodle-mod_bigbluebuttonbn
 maintainers:
 - github: blindsidenetworks-ps
 tier: 0

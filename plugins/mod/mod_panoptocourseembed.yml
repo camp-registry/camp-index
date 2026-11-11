@@ -10,5 +10,5 @@ license: GPL-3.0
 summary: This repo is the production version of the Moodle Panopto Course Embed tool.
   This tool will allow users to directly embed Panopto content into course view pages.
 dependencies:
-  block_panopto: 2022122000
+  block_panopto: 2026092200
   mod_lti: any
