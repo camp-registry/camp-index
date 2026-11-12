@@ -61,5 +61,15 @@ releases:
   listing-sha256: d381859660741d8e947a29880c55e2ab5c915c81a546ef2f179a7391b2db1fb7
   published: '2026-10-04T14:52:37Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: 7ed823eab0dec08df5a296c500925bd8b21dab17
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  zip-sha256: 9c7e0c64a3af59b08d6cbf90056ca9a6152c2e169cfb610b480e58aae22b3ddd
+  listing-sha256: d381859660741d8e947a29880c55e2ab5c915c81a546ef2f179a7391b2db1fb7
+  published: '2026-11-12T23:55:31Z'
+  released: '2026-11-12T20:44:17Z'
 license: GPL-3.0
 summary: MuTMS Compromised password blocking plugin for Moodle™ LMS
