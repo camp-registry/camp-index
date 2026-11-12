@@ -81,6 +81,21 @@ releases:
   listing-sha256: 2b6c18eb32288672362a3b45aaa7f7f5edde3c6d9585e0d7425f0f70c2b0fd60
   published: '2026-10-04T14:52:38Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: 25ae662a771c2f1ea0fcae473571102cc9b1feca
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091902
+    enrol_muprog: 2026091900
+    block_muprog_my: 2026091900
+    block_muprogmyoverview: 2026091900
+  zip-sha256: 4f235ccf5033faebecc0cb8cc3f2ebb3b5bd7dee249793bc486af6069f47874b
+  listing-sha256: 2b6c18eb32288672362a3b45aaa7f7f5edde3c6d9585e0d7425f0f70c2b0fd60
+  published: '2026-11-12T23:55:27Z'
+  released: '2026-11-12T20:44:17Z'
 summary: MuTMS Programs plugin for Moodle™ LMS
 license: GPL-3.0
 dependencies:
