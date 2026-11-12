@@ -1,7 +1,7 @@
-updated: '2026-07-14T20:52:15Z'
+updated: '2026-11-04T20:01:16Z'
 stars: 19
 forks: 49
-open-issues: 68
+open-issues: 66
 archived: false
 latest-release:
   tag: v2.2.8-2018082000-moodle3.5
@@ -9,4 +9,4 @@ latest-release:
 latest-tag:
   tag: v2.2.10-2020041238-moodle3.8
   date: '2020-04-13T02:52:42Z'
-checked: '2026-10-28'
+checked: '2026-11-12'

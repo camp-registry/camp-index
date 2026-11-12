@@ -1,5 +1,5 @@
 component: mod_recordingsbn
-source: https://github.com/blindsidenetworks-ps/moodle-mod_recordingsbn
+source: https://github.com/blindsidenetworks-moodle/moodle-mod_recordingsbn
 maintainers:
 - github: blindsidenetworks-ps
 tier: 0

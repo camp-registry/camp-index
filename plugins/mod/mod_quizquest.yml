@@ -34,9 +34,7 @@ releases:
   published: '2026-11-10T15:12:40Z'
   released: '2026-11-10T13:35:20Z'
 license: GPL-3.0
-summary: >-
-  A linear, game-like interface for quiz questions for use as a practice
-  activity.
+summary: A linear, game-like interface for quiz questions for use as a practice activity.
 security-contact: https://github.com/adamjenkins/moodle-mod_quizquest/security
 labels:
 - fully-free

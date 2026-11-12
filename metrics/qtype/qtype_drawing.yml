@@ -1,7 +1,7 @@
 updated: '2026-08-31T08:58:40Z'
 stars: 1
 forks: 11
-open-issues: 10
+open-issues: 13
 archived: false
 latest-release:
   tag: final-release-3.x
@@ -9,4 +9,4 @@ latest-release:
 latest-tag:
   tag: v5.2.0-r.3+tuwien
   date: '2026-08-31T06:33:29Z'
-checked: '2026-10-28'
+checked: '2026-11-12'
