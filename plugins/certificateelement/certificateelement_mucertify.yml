@@ -73,6 +73,19 @@ releases:
   listing-sha256: 764362d95564981d312e31ef800c13a85eeba85c9b830f0f9a3c40333668c66b
   published: '2026-10-04T14:52:19Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: 0148cd4502a1fb9272399e9f58ba9634b05a1a06
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mucertify: 2026091900
+    tool_certificate: 2025031800
+  zip-sha256: 5b4ae54cbecd6dd6c721173cfd9b1cd9dc4932d2a40bd4556a44c39f5f0ecfd6
+  listing-sha256: 764362d95564981d312e31ef800c13a85eeba85c9b830f0f9a3c40333668c66b
+  published: '2026-11-12T23:55:13Z'
+  released: '2026-11-12T20:44:17Z'
 license: GPL-3.0
 summary: MuTMS Certification elements for Certificate plugin for Moodle™ LMS
 dependencies:
