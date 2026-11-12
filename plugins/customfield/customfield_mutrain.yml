@@ -61,5 +61,15 @@ releases:
   listing-sha256: ad171bdb3540fbd3382117784b02eab81307c5a48b50f79937fa88235fc35e35
   published: '2026-10-04T14:52:57Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: 27894ccaa3c39973ce29c11b528db662c9ff2cb6
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  zip-sha256: 914de374d3ee0a328edcedb8de0122c54eb28b00be3f968e9f06587f2596178c
+  listing-sha256: ad171bdb3540fbd3382117784b02eab81307c5a48b50f79937fa88235fc35e35
+  published: '2026-11-12T23:55:55Z'
+  released: '2026-11-12T20:44:17Z'
 summary: MuTMS Training credits custom field plugin for Moodle™ LMS
 license: GPL-3.0
