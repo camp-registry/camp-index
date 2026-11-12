@@ -61,5 +61,15 @@ releases:
   listing-sha256: 114826bc912e77d92e8365d03dac5f87a6015abda19847bc60521b0ebebb4e35
   published: '2026-10-04T14:52:33Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: 375f4f8d22750eb16736ee5369fe44672fa1f972
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  zip-sha256: 96c1ae36b60aeb8358758d39c9a66b13bc834953a240fa8d850d6f1fd9401326
+  listing-sha256: 114826bc912e77d92e8365d03dac5f87a6015abda19847bc60521b0ebebb4e35
+  published: '2026-11-12T23:55:23Z'
+  released: '2026-11-12T20:44:17Z'
 summary: MuTMS Log-in-as via Incognito window plugin for Moodle™ LMS
 license: GPL-3.0
