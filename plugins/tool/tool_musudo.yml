@@ -73,6 +73,19 @@ releases:
   listing-sha256: 448b26b324986eb8fe6483dd89b19b9c7b23e7fe7d486327e73e07983089fcef
   published: '2026-10-04T14:52:44Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: e0446ce10f65a3027ed992daab80d1df9619c7d8
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091902
+    tool_mfa: 2024100700
+  zip-sha256: aa4611aa574fd49c15877e1c1fdc7f8ed9639c4a21e9b701bd39cf8c97315f82
+  listing-sha256: 448b26b324986eb8fe6483dd89b19b9c7b23e7fe7d486327e73e07983089fcef
+  published: '2026-11-12T23:55:44Z'
+  released: '2026-11-12T20:44:17Z'
 license: GPL-3.0
 summary: MuTMS Privileged sessions (aka sudo) plugin for Moodle™ LMS
 dependencies:
