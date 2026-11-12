@@ -2,7 +2,10 @@ component: local_reportium
 source: https://github.com/pedrolois/moodle-local_reportium
 maintainers:
 - github: pedrolois
-tier: 0
+security-contact: https://github.com/pedrolois/moodle-local_reportium/security
+labels:
+- fully-free
+tier: 1
 status: active
 discovered: '2026-11-03'
 releases: []

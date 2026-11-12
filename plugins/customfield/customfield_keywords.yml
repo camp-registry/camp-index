@@ -2,7 +2,10 @@ component: customfield_keywords
 source: https://github.com/pedrolois/moodle-customfield_keywords
 maintainers:
 - github: pedrolois
-tier: 0
+security-contact: https://github.com/pedrolois/moodle-customfield_keywords/security
+labels:
+- fully-free
+tier: 1
 status: active
 discovered: '2026-09-04'
 releases: []

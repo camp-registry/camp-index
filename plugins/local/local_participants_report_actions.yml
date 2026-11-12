@@ -2,7 +2,10 @@ component: local_participants_report_actions
 source: https://github.com/pedrolois/moodle-local_participants_report_actions
 maintainers:
 - github: pedrolois
-tier: 0
+security-contact: https://github.com/pedrolois/moodle-local_participants_report_actions/security
+labels:
+- fully-free
+tier: 1
 status: active
 discovered: '2026-10-03'
 releases: []
