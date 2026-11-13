@@ -1,8 +1,11 @@
 component: repository_s3bucket
 source: https://github.com/ewallah/moodle-repository_s3bucket
+security-contact: https://github.com/ewallah/moodle-repository_s3bucket/security/advisories/new
 maintainers:
 - github: ewallah
-tier: 0
+tier: 1
+labels:
+- fully-free
 status: active
 discovered: '2026-07-10'
 releases: []
