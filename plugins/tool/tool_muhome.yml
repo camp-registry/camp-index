@@ -69,6 +69,32 @@ releases:
   listing-sha256: 9b5e9c1763eafd5c70be1bc434669c63dbf57cbfb25f2d9c7bbefbbe9d3e5b0c
   published: '2026-10-04T14:52:30Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: 85c7936f4d4f2136d60b21429c8416d85a8d44db
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091902
+  zip-sha256: b41ce7ca4d7fdbc6fd3f1fa9b4282380d0205a101b427266018b841ae1a7f6f2
+  listing-sha256: 9b5e9c1763eafd5c70be1bc434669c63dbf57cbfb25f2d9c7bbefbbe9d3e5b0c
+  published: '2026-11-12T23:55:19Z'
+  released: '2026-11-12T20:44:17Z'
+- version: v5.0.12.01
+  tag: v5.0.12.01
+  commit: dc4b0435984e5510cdcdbda81797e2e31a717634
+  moodle-version: 2026092002
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092002
+  zip-sha256: aeafb13616d32331e70afff7807ed996fe9af89a4aecf569cbc44f04a419ab8e
+  listing-sha256: 9b5e9c1763eafd5c70be1bc434669c63dbf57cbfb25f2d9c7bbefbbe9d3e5b0c
+  published: '2026-11-12T23:57:42Z'
+  released: '2026-11-12T20:46:14Z'
 summary: MuTMS Custom home pages for Moodle™ LMS
 license: GPL-3.0
 dependencies:
