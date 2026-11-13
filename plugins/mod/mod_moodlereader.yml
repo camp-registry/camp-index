@@ -1,5 +1,6 @@
 component: mod_moodlereader
 source: https://github.com/adamjenkins/moodle-mod_moodlereader
+source-repo-id: 1317043713
 maintainers:
 - github: adamjenkins
 tier: 2

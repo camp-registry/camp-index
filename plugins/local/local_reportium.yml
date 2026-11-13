@@ -1,5 +1,6 @@
 component: local_reportium
 source: https://github.com/pedrolois/moodle-local_reportium
+source-repo-id: 1424643598
 maintainers:
 - github: pedrolois
 security-contact: https://github.com/pedrolois/moodle-local_reportium/security

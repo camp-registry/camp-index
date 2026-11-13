@@ -1,5 +1,6 @@
 component: local_loginas_participants
 source: https://github.com/pedrolois/moodle-local_loginas_participants
+source-repo-id: 1348682204
 maintainers:
 - github: pedrolois
 security-contact: https://github.com/pedrolois/moodle-local_loginas_participants/security

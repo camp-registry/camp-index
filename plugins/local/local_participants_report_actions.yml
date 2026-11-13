@@ -1,5 +1,6 @@
 component: local_participants_report_actions
 source: https://github.com/pedrolois/moodle-local_participants_report_actions
+source-repo-id: 1367470709
 maintainers:
 - github: pedrolois
 security-contact: https://github.com/pedrolois/moodle-local_participants_report_actions/security

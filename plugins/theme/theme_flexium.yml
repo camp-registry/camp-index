@@ -1,5 +1,6 @@
 component: theme_flexium
 source: https://github.com/pedrolois/moodle-theme_flexium
+source-repo-id: 1427073212
 maintainers:
 - github: pedrolois
 security-contact: https://github.com/pedrolois/moodle-theme_flexium/security

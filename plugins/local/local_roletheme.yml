@@ -1,5 +1,6 @@
 component: local_roletheme
 source: https://github.com/pedrolois/moodle-local_roletheme
+source-repo-id: 1230637860
 maintainers:
 - github: pedrolois
 security-contact: https://github.com/pedrolois/moodle-local_roletheme/security

@@ -1,5 +1,6 @@
 component: customfield_keywords
 source: https://github.com/pedrolois/moodle-customfield_keywords
+source-repo-id: 1307744921
 maintainers:
 - github: pedrolois
 security-contact: https://github.com/pedrolois/moodle-customfield_keywords/security
