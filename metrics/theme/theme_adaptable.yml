@@ -1,7 +1,7 @@
 updated: '2026-10-06T10:12:23Z'
 stars: 10
-forks: 18
-open-issues: 3
+forks: 19
+open-issues: 4
 archived: false
 latest-release:
   tag: V502.2.1
@@ -9,5 +9,5 @@ latest-release:
 latest-tag:
   tag: V502.2.1
   date: '2026-10-06T10:08:59Z'
-checked: '2026-10-29'
+checked: '2026-11-13'
 ci: moodle-plugin-ci

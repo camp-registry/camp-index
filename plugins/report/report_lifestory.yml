@@ -12,4 +12,4 @@ summary: The Student Life Story AI plugin consolidates, in a single view, the en
   and progress across all enrolled courses, providing a comprehensive overview of
   their learning journey.
 dependencies:
-  aiprovider_datacurso: 2025100201
+  aiprovider_datacurso: 2026110400

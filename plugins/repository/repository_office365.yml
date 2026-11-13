@@ -9,4 +9,4 @@ releases: []
 summary: OneDrive for Business Repo plugin for Moodle
 license: GPL-3.0
 dependencies:
-  local_o365: 2026042000
+  local_o365: 2026100500

@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: A custom theme used for the Moodle integration in Microsoft Teams. For more
   details, go to https://aka.ms/TeamsMoodle
 dependencies:
-  local_o365: 2026042000
+  local_o365: 2026100500
