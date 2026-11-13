@@ -119,6 +119,54 @@ releases:
   listing-sha256: 76581eb5cad2a8c0d064dd9b28592bacaeb4d2becdfd0199b8b1a067216d29ee
   published: '2026-10-04T14:53:51Z'
   released: '2026-10-04T11:10:14Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: 6e9893a8345c63df2f4cc2df542c443191d6199e
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091902
+  zip-sha256: 298900e25ffdad07bfea9c41551f035fb997e7fcff9c3abd726047086aefa1b5
+  listing-sha256: 76581eb5cad2a8c0d064dd9b28592bacaeb4d2becdfd0199b8b1a067216d29ee
+  published: '2026-11-12T23:55:37Z'
+  released: '2026-11-12T20:44:17Z'
+- version: v5.0.12.01
+  tag: v5.0.12.01
+  commit: a59d6e438a176f0f8d9fda0043a46668ebc970ce
+  moodle-version: 2026092002
+  supported-moodle:
+  - '5.0'
+  dependencies:
+    tool_mulib: 2026092002
+  zip-sha256: fa6b29d8f6948004f73ef4dcafe1f67e30f68acb4ab86fce0b0a03a85999d4b9
+  listing-sha256: 76581eb5cad2a8c0d064dd9b28592bacaeb4d2becdfd0199b8b1a067216d29ee
+  published: '2026-11-12T23:57:59Z'
+  released: '2026-11-12T20:46:14Z'
+- version: v5.1.9.01
+  tag: v5.1.9.01
+  commit: b95de82143322e78c56d5d442ede598bb056e1db
+  moodle-version: 2026092102
+  supported-moodle:
+  - '5.1'
+  dependencies:
+    tool_mulib: 2026092002
+  zip-sha256: dd4e5c5bed69ac25ffe75a444c1937dd69cc048da5da48b2a896169e3b571967
+  listing-sha256: 76581eb5cad2a8c0d064dd9b28592bacaeb4d2becdfd0199b8b1a067216d29ee
+  published: '2026-11-12T23:58:59Z'
+  released: '2026-11-12T20:47:57Z'
+- version: v5.2.5.01
+  tag: v5.2.5.01
+  commit: 7f60abb0b88531127907438705dcf5e7d25bfcd6
+  moodle-version: 2026092202
+  supported-moodle:
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092002
+  zip-sha256: f9214752e60dd5c70ad9a5adc838681d6cb6590ae60075f98e3d24b1296ebdb8
+  listing-sha256: 76581eb5cad2a8c0d064dd9b28592bacaeb4d2becdfd0199b8b1a067216d29ee
+  published: '2026-11-12T23:59:17Z'
+  released: '2026-11-12T20:48:29Z'
 summary: MuTMS  Multi-tenancy plugin for Moodle™ LMS
 license: GPL-3.0
 dependencies:
