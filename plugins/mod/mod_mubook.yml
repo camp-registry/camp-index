@@ -69,6 +69,32 @@ releases:
   listing-sha256: a237c9c20bb3fc1abd999209cce40c34393cd173039f5e8e993a2fd5203299fc
   published: '2026-10-04T14:53:02Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: 0bf6d61ef889226ce77fa2abdb3d8a5802388c97
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091902
+  zip-sha256: d27206d2626d202294a39cb852a78fc26c49855f88b665776f9be2ff561da90e
+  listing-sha256: a237c9c20bb3fc1abd999209cce40c34393cd173039f5e8e993a2fd5203299fc
+  published: '2026-11-12T23:55:54Z'
+  released: '2026-11-12T20:44:17Z'
+- version: v5.0.12.01
+  tag: v5.0.12.01
+  commit: 6e0c698c689c59f4ba5e439be9ea815b52a849c9
+  moodle-version: 2026092002
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092002
+  zip-sha256: 5cd33e8d919c41af7f8f4bdfbb6176ad0b75c1bb98ed14dbbfd27e6e20bc189b
+  listing-sha256: a237c9c20bb3fc1abd999209cce40c34393cd173039f5e8e993a2fd5203299fc
+  published: '2026-11-12T23:58:17Z'
+  released: '2026-11-12T20:46:14Z'
 summary: MuTMS Interactive book plugin for Moodle™ LMS
 license: GPL-3.0
 dependencies:
