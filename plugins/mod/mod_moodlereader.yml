@@ -29,6 +29,17 @@ releases:
   listing-sha256: b201ec164a970b4d3554118d25bfea1016845b39bf1dc24025845b90cc5589b8
   published: '2026-11-11T12:32:02Z'
   released: '2026-11-11T12:30:38Z'
+- version: 0.1.4
+  tag: v0.1.4
+  commit: 78c586a1d350d15ef38b559a6e5a7b0b03b25c40
+  moodle-version: 2026111301
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: bf62eb58dfaa68cf476ed6ef01b77868cb75e39fdd89931b80a90fd66621040d
+  listing-sha256: b201ec164a970b4d3554118d25bfea1016845b39bf1dc24025845b90cc5589b8
+  published: '2026-11-13T14:16:24Z'
+  released: '2026-11-13T13:41:06Z'
 license: GPL-3.0
 security-contact: https://github.com/adamjenkins/moodle-mod_moodlereader/security
 labels:
