@@ -69,6 +69,32 @@ releases:
   listing-sha256: 55b321e33f7dc5a16e8ac6697ceb8b62da9699001a76905103361a6ed7e20f85
   published: '2026-10-04T14:52:43Z'
   released: '2026-10-04T10:53:12Z'
+- version: v4.5.16.01
+  tag: v4.5.16.01
+  commit: d70a384b2e040d5bc6025a54fa0b70cfb7fa7a96
+  moodle-version: 2026091902
+  supported-moodle:
+  - '4.5'
+  dependencies:
+    tool_mulib: 2026091902
+  zip-sha256: ab1a648187ee2389be034532d0dcc3a513122703306c6304c607c3177558348d
+  listing-sha256: 55b321e33f7dc5a16e8ac6697ceb8b62da9699001a76905103361a6ed7e20f85
+  published: '2026-11-12T23:55:32Z'
+  released: '2026-11-12T20:44:17Z'
+- version: v5.0.12.01
+  tag: v5.0.12.01
+  commit: 1ce69566962ce46ba6e433aed5b085de80b262e9
+  moodle-version: 2026092002
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  dependencies:
+    tool_mulib: 2026092002
+  zip-sha256: b89aa9f4c0e1612cab982df7cda143a10479f039a3b9bad4a5839a3fbc224b47
+  listing-sha256: 55b321e33f7dc5a16e8ac6697ceb8b62da9699001a76905103361a6ed7e20f85
+  published: '2026-11-12T23:57:56Z'
+  released: '2026-11-12T20:46:14Z'
 summary: MuTMS Supervisors and teams plugin for Moodle™ LMS
 license: GPL-3.0
 dependencies:
