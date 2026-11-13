@@ -2,7 +2,10 @@ component: local_loginas_participants
 source: https://github.com/pedrolois/moodle-local_loginas_participants
 maintainers:
 - github: pedrolois
-tier: 0
+security-contact: https://github.com/pedrolois/moodle-local_loginas_participants/security
+labels:
+- fully-free
+tier: 1
 status: active
 discovered: '2026-09-04'
 releases: []

@@ -2,7 +2,10 @@ component: theme_flexium
 source: https://github.com/pedrolois/moodle-theme_flexium
 maintainers:
 - github: pedrolois
-tier: 0
+security-contact: https://github.com/pedrolois/moodle-theme_flexium/security
+labels:
+- fully-free
+tier: 1
 status: active
 discovered: '2026-11-03'
 releases: []
