@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: The edu-sharing tiny editor plugin is used to add edu-sharing content when
   using tiny.
 dependencies:
-  mod_edusharing: 2026090700
+  mod_edusharing: 2026110200

@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin
 dependencies:
-  filter_wiris: 2026100700
+  filter_wiris: 2026110900

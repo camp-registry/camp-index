@@ -11,3 +11,5 @@ summary: A TinyMCE editor plugin for Moodle that extends the original Components
   Learning (C4L) with an enhanced authoring experience. It opens a modal with a WYSIWYG
   editable view of the editor content, constrained to a readable column width, and
   provides a full set of C4L visual components designed exp
+dependencies:
+  tiny_html: any
