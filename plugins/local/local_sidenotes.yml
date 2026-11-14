@@ -54,6 +54,21 @@ releases:
   listing-sha256: 711de0a2b7129d7ab814bc30780247da6a0bad0ad1edcd4bba7d55cb89be0069
   published: '2026-11-07T01:50:45Z'
   released: '2026-11-07T01:48:08Z'
+- version: 1.30.1
+  tag: v1.30.1
+  commit: d964811c0ccf688b37c1f0cd0d05795a294ad47e
+  moodle-version: 2026111400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: ac2d1637bba66574932035f083b3847d7fca091c13eb1d80890e955a626a225b
+  listing-sha256: 711de0a2b7129d7ab814bc30780247da6a0bad0ad1edcd4bba7d55cb89be0069
+  published: '2026-11-14T03:22:43Z'
+  released: '2026-11-14T03:21:24Z'
 license: GPL-3.0
-summary: 'SideNotes: private Moodle notes, student mode, optional administrator mode
-  and QuickNote migration.'
+summary: >-
+  SideNotes: private Moodle notes, student mode, optional administrator mode and
+  QuickNote migration.
