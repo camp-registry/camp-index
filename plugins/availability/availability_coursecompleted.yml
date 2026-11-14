@@ -1,14 +1,26 @@
 component: availability_coursecompleted
 source: https://github.com/ewallah/moodle-availability_coursecompleted
 source-repo-id: 28596567
-security-contact: https://github.com/ewallah/moodle-availability_coursecompleted/security/advisories/new
+security-contact: >-
+  https://github.com/ewallah/moodle-availability_coursecompleted/security/advisories/new
 maintainers:
 - github: ewallah
-tier: 1
+tier: 2
 labels:
 - fully-free
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v5.5.4
+  tag: v5.5.4
+  commit: e9a57b24df63a49e50c688e27e7701a44da7e0ce
+  moodle-version: 2026111400
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 01d13f71af75d312a53cccd0de060f259fcef6cd70a162ed7ab76ceb53566f93
+  listing-sha256: d86f761ea7ff5b3fe4879a9be59aa87a8145a0aa2d9db84e30767a1d07d069ab
+  published: '2026-11-14T14:16:06Z'
+  released: '2026-11-14T14:15:47Z'
 summary: Restriction by course completion
 license: GPL-3.0
