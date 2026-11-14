@@ -2,7 +2,10 @@ component: tool_proper
 source: https://github.com/iplusacademy/moodle-tool_proper
 maintainers:
 - github: iplusacademy
-tier: 0
+security-contact: https://github.com/iplusacademy/moodle-tool_proper/security/advisories/new
+tier: 1
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
