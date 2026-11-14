@@ -1,5 +1,6 @@
 component: repository_s3bucket
 source: https://github.com/ewallah/moodle-repository_s3bucket
+source-repo-id: 48813418
 security-contact: https://github.com/ewallah/moodle-repository_s3bucket/security/advisories/new
 maintainers:
 - github: ewallah

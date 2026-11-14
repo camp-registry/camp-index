@@ -1,5 +1,6 @@
 component: tool_proper
 source: https://github.com/iplusacademy/moodle-tool_proper
+source-repo-id: 764796209
 maintainers:
 - github: iplusacademy
 security-contact: https://github.com/iplusacademy/moodle-tool_proper/security/advisories/new
