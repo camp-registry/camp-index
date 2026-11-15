@@ -6,5 +6,5 @@ archived: false
 latest-tag:
   tag: v0.2.0
   date: '2026-10-16T16:43:53Z'
-checked: '2026-10-31'
+checked: '2026-11-15'
 ci: moodle-plugin-ci

@@ -11,6 +11,6 @@ summary: This plugin allows to build an internal course database that is taggabl
   and searchable via meta information. Any imports are moved to the desired position
   in a course without being mixed with existing resources.
 dependencies:
-  block_enrolcode: 2021111801
+  block_enrolcode: 2026110100
   block_exacomp: 2020091000
   local_table_sql: 2025110800

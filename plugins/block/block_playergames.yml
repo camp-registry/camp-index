@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: PlayerGames Widget (block_playergames) is a thin sidebar companion block
   for the PlayerGames gamification ecosystem for Moodle.
 dependencies:
-  local_playergames: any
+  local_playergames: 2026110902

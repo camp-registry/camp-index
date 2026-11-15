@@ -9,4 +9,4 @@ releases: []
 summary: moodle-block_microsoft
 license: GPL-3.0
 dependencies:
-  local_o365: 2026042001
+  local_o365: 2026100500
