@@ -29,6 +29,17 @@ releases:
   listing-sha256: eadf041fb5aa6361c55907f0b659174080507c1cd8c3d61b038b219e51337d94
   published: '2026-11-10T15:14:11Z'
   released: '2026-11-10T14:02:58Z'
+- version: 0.1.3
+  tag: v0.1.3
+  commit: da2e374f9caa9e6726041e079317ab9350eeed75
+  moodle-version: 2026111500
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 4030d4eb68c358b6e4aa6202f32ec286a6920901e8643786af4ace08df422a27
+  listing-sha256: eadf041fb5aa6361c55907f0b659174080507c1cd8c3d61b038b219e51337d94
+  published: '2026-11-15T13:33:14Z'
+  released: '2026-11-15T13:28:17Z'
 license: GPL-3.0
 summary: VR Rooms for Moodle
 security-contact: https://github.com/adamjenkins/moodle-mod_vrroom/security
