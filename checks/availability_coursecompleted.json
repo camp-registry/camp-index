@@ -1,0 +1,1 @@
+{"checked": "2026-11-14", "checker": 5, "component": "availability_coursecompleted", "versions": {"5.5.4": {"commit": "e9a57b24df63a49e50c688e27e7701a44da7e0ce", "errors": 1, "facets": {"amd": 4, "code": 5}, "files": 1, "phplint": true, "rules": {"PSR12.Files.FileHeader.SpacingAfterDocblockBlock": 1}, "tag": "v5.5.4", "warnings": 0}}}
