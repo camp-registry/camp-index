@@ -1,8 +1,15 @@
 component: smsgateway_plivo
 source: https://github.com/sebsoftnl/moodle-smsgateway_plivo
+source-repo-id: 1026031911
+security-contact: helpdesk@sebsoft.nl
 maintainers:
-- github: sebsoftnl
-tier: 0
+- github: sebastianberm
+tier: 1
+labels:
+- external-account
+- paid-service
+- commercial-support-available
+org-claim: sebsoftnl
 status: active
 discovered: '2026-08-31'
 releases: []

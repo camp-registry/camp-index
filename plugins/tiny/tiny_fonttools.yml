@@ -1,8 +1,14 @@
 component: tiny_fonttools
 source: https://github.com/sebsoftnl/moodle-tiny_fonttools
+source-repo-id: 1323838640
+security-contact: helpdesk@sebsoft.nl
 maintainers:
-- github: sebsoftnl
-tier: 0
+- github: sebastianberm
+tier: 1
+labels:
+- fully-free
+- commercial-support-available
+org-claim: sebsoftnl
 status: active
 discovered: '2026-09-04'
 releases: []
