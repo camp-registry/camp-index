@@ -163004,6 +163004,11 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-11-03'
     probed: '2026-11-14'
+  sebsoftnl/moodle-tool_teachermcp:
+    outcome: written
+    detail: listed as tool_teachermcp
+    first-seen: '2026-11-17'
+    last-checked: '2026-11-17'
   sebsoftnl/moodle-tool_userrestore:
     outcome: exists
     detail: component tool_userrestore already registered (first-come, RFC §8)
