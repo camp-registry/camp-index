@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: SAIPA Assistant course block for Moodle — chat widget + Telegram/WhatsApp
   linking. Requires local_saipa.
 dependencies:
-  local_saipa: 2026041902
+  local_saipa: 2026110200

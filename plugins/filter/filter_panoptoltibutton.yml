@@ -1,5 +1,5 @@
 component: filter_panoptoltibutton
-source: https://github.com/dragos5436/moodle-filter_panoptoltibutton
+source: https://github.com/ucl-isd/moodle-filter_panoptoltibutton
 maintainers:
 - github: dragos5436
 tier: 0
@@ -9,4 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   tiny_panoptoltibutton: 2025112600
+  block_panopto: 2026073000
 summary: Moodle removes iframes from content written by users without trusted text

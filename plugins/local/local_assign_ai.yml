@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: The Assignment AI plugin brings intelligent automation to the grading and
   feedback process within Moodle.
 dependencies:
-  aiprovider_datacurso: 2026100900
+  aiprovider_datacurso: 2026110400
