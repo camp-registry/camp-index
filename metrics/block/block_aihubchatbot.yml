@@ -3,4 +3,10 @@ stars: 0
 forks: 0
 open-issues: 0
 archived: false
-checked: '2026-11-03'
+latest-release:
+  tag: v1.3.3-marketplace.1
+  date: '2026-10-15T21:42:22Z'
+latest-tag:
+  tag: v1.3.3
+  date: '2026-10-15T09:45:03Z'
+checked: '2026-11-18'

@@ -1,5 +1,5 @@
 component: bbbext_bnx
-source: https://github.com/blindsidenetworks-ps/moodle-bbbext_bnx
+source: https://github.com/blindsidenetworks-moodle/moodle-bbbext_bnx
 maintainers:
 - github: blindsidenetworks-ps
 tier: 0

@@ -1,5 +1,5 @@
 component: customfield_json
-source: https://github.com/moodle-fields-suite/customfield_json
+source: https://github.com/moodle-fields-suite/moodle-customfield_json
 maintainers:
 - github: moodle-fields-suite
 tier: 0

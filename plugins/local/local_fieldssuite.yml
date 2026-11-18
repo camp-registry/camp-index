@@ -1,5 +1,5 @@
 component: local_fieldssuite
-source: https://github.com/moodle-fields-suite/local_fieldssuite
+source: https://github.com/moodle-fields-suite/moodle-local_fieldssuite
 maintainers:
 - github: moodle-fields-suite
 tier: 0

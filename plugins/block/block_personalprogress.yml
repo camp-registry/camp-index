@@ -9,3 +9,7 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_personalxp: 2026100300
+summary: 'Personal Progress is a compact learner dashboard that combines the student''s
+  own progress into modular cards. It is a presentation and aggregation layer: it
+  never awards XP, changes balances, completes goals or writes progress back into
+  the source plugins.'

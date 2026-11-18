@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_fredkichat: 2026102900
+summary: Course block that lets teachers choose which FredKI agent is available as
+  a chat in their course.

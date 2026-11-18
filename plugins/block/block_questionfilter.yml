@@ -9,5 +9,3 @@ releases: []
 license: GPL-3.0
 summary: Dieser Block ermöglicht die komfortable, kursübergreifende Suche in allen
   Moodle-Fragesammlungen
-dependencies:
-  block_kursfilter: 2026101501

@@ -41,6 +41,5 @@ releases:
   published: '2026-11-14T03:50:54Z'
   released: '2026-11-14T03:50:17Z'
 license: GPL-3.0
-summary: >-
-  Single-image course custom field for Moodle, with defaults, permissions and
+summary: Single-image course custom field for Moodle, with defaults, permissions and
   backup support. GPL v3+, beta for Moodle 4.5–5.3.

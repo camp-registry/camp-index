@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Moodle local plugin for creating immutable, versioned institutional course
+  templates and provisioning courses through the native course, backup and restore
+  APIs.

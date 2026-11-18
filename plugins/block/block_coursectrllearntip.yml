@@ -9,3 +9,7 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_coursectrl: 2026102100
+summary: 'Development notice: Learn Tip is a small learner-facing Moodle course block,
+  still alpha. It shows the learner''s next step with a reason and an alternative,
+  and a status matrix of the learner''s own activities (#2, #8). All data comes from
+  the read-only learner service of localcoursectrl (Local #61) '

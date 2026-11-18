@@ -7,3 +7,7 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Plugin libre (GPL-3.0+) de supervisión remota para Moodle con verificación
+  de identidad en el navegador (cédula chilena por ambos lados + prueba de vida con
+  giro de cabeza), OCR de cédula vía Google Cloud Vision (frente y dorso, con fallback
+  Tesseract), reconocimiento facial real (motor local OpenCV

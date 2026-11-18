@@ -7,3 +7,5 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: A Moodle document converter that turns Word, Excel, PowerPoint and OpenDocument
+  files into

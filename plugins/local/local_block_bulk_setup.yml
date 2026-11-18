@@ -7,3 +7,4 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Moodle 4.5 以上の既存コースへ、管理者が選択した複数ブロックを一括追加するローカルプラグインです。

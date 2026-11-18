@@ -45,8 +45,7 @@ releases:
   published: '2026-11-14T03:51:12Z'
   released: '2026-11-14T03:50:41Z'
 license: GPL-3.0
-summary: >-
-  Moodle certificate element: per-course images from text areas or image custom
-  fields. GPL v3+, beta for Moodle 4.5–5.3.
+summary: 'Moodle certificate element: per-course images from text areas or image custom
+  fields. GPL v3+, beta for Moodle 4.5–5.3.'
 dependencies:
   tool_certificate: 2025031804

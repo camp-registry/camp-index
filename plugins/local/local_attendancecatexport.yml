@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_attendance: 2026042102
+summary: Exports the attendance of all courses in a Moodle course category (optionally
+  including its

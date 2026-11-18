@@ -7,3 +7,7 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: 'Administrative tool to test restoration of Moodle .mbz archives in a dedicated
+  laboratory. It does not call production remotely. An archive that can be unpacked
+  is not deemed restored: the lab creates a disposable course with Moodle''s restorecontroller,
+  runs prechecks and the real execution plan, th'

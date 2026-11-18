@@ -1,6 +1,13 @@
-updated: '2026-10-28T23:56:00Z'
+updated: '2026-11-06T23:03:39Z'
 stars: 0
 forks: 0
 open-issues: 0
 archived: false
-checked: '2026-11-03'
+latest-release:
+  tag: v1.1.0
+  date: '2026-10-28T23:56:04Z'
+latest-tag:
+  tag: camp/v1.1.0
+  date: '2026-11-06T23:03:36Z'
+checked: '2026-11-18'
+ci: moodle-plugin-ci

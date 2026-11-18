@@ -41,6 +41,5 @@ releases:
   published: '2026-11-14T03:22:55Z'
   released: '2026-11-14T03:21:29Z'
 license: GPL-3.0
-summary: >-
-  Course Downloads for Moodle: filter permitted course materials and download
-  selected files or separate section archives.
+summary: 'Course Downloads for Moodle: filter permitted course materials and download
+  selected files or separate section archives.'

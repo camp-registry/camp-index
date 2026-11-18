@@ -9,3 +9,7 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_personalxp: 2026093002
+summary: 'blockpersonalstreak gives each learner a private view of their own study
+  consistency inside a Moodle course. It focuses on personal continuity: current streak,
+  personal best, active days and upcoming milestones. It does not create rankings,
+  compare learners or expose another learner''s streak in the '

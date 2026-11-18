@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: GitHub Plugin Installer lets Moodle site administrators select a public GitHub
+  repository, inspect the plugin it contains and continue through Moodle's own plugin
+  validation and confirmation process.

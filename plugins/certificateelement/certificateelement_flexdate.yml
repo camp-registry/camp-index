@@ -45,8 +45,7 @@ releases:
   published: '2026-11-14T03:36:32Z'
   released: '2026-11-14T03:35:33Z'
 license: GPL-3.0
-summary: >-
-  GPL-licensed Moodle Certificate manager element for flexible localized date
+summary: GPL-licensed Moodle Certificate manager element for flexible localized date
   formatting.
 dependencies:
   tool_certificate: any

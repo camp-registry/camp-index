@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_lti: any
+summary: Connects Moodle to DTeach through LTI 1.3. Teachers add DTeach from the activity

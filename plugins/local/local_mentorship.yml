@@ -7,3 +7,5 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Pair mentors with mentees in Moodle and give mentors a clear view of each
+  mentee's training.

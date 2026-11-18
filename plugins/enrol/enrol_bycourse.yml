@@ -7,3 +7,5 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: An enrolment method for Moodle that allows users to self-enrol only when
+  they

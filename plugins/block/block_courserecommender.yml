@@ -1,5 +1,5 @@
 component: block_courserecommender
-source: https://github.com/alvarogregori/moodle-ai-course-recommender
+source: https://github.com/alvarogregori/moodle-block_courserecommender
 maintainers:
 - github: alvarogregori
 tier: 0

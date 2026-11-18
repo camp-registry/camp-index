@@ -1,7 +1,11 @@
-updated: '2026-09-08T14:10:50Z'
+updated: '2026-11-16T03:11:43Z'
 stars: 0
-forks: 0
+forks: 1
 open-issues: 0
 archived: false
-checked: '2026-11-03'
+latest-tag:
+  tag: v2026090302
+  date: '2026-11-16T02:52:35Z'
+checked: '2026-11-18'
 ci: moodle-plugin-ci
+renamed-to: https://github.com/catalyst/moodle-block_sqlreports

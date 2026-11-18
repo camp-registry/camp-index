@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Largebackup ist ein lokales Moodle-Plugin zum Hochladen großer Moodle-Kurssicherungen
+  (.mbz). Die Dateien werden in mehreren Teilen (Chunks) übertragen. Nach dem Upload
+  öffnet das Plugin den Moodle-Wiederherstellungsassistenten.

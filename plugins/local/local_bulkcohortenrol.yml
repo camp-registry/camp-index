@@ -7,3 +7,5 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: תוסף Moodle להעלאת קובץ CSV, יצירת קבוצה מערכתית אחת, ושיוך המשתמשים מהקובץ
+  אליה.

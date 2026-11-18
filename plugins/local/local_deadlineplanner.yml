@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Academic planning across Moodle course enrolments, emphasizing safe aggregation
+  over instructor access to individual external-course activity. Moodle 4.5 LTS+ and
+  5.x target, with PHP-supported prerequisites inherited from the Moodle version.

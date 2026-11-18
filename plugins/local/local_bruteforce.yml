@@ -7,3 +7,7 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Brute Force Detect helps protect Moodle accounts against repeated password
+  guesses. It limits unsuccessful login attempts before an attacker can keep trying
+  indefinitely, while allowing administrators to set different limits for individual
+  accounts and shared networks.

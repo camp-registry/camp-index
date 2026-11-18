@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: 'Moodle plugin: availability_workshopattendance'
 dependencies:
-  local_workshops: 2026062200029
+  local_workshops: 2026072400

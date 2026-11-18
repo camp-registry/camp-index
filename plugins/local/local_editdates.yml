@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   report_editdates: 2025072300
+summary: A web service API over the dates of a Moodle course, built so that an automated

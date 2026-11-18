@@ -1,5 +1,5 @@
 component: local_course_studentreports
-source: https://github.com/derbear444/moodle-local_course_studentreports
+source: https://github.com/wilsondc5/moodle-local_course_studentreports
 maintainers:
 - github: derbear444
 tier: 0

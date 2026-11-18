@@ -1,5 +1,5 @@
 component: bbbext_bnreminders
-source: https://github.com/blindsidenetworks-ps/moodle-bbbext_bnreminders
+source: https://github.com/blindsidenetworks-moodle/moodle-bbbext_bnreminders
 maintainers:
 - github: blindsidenetworks-ps
 tier: 0
