@@ -1,8 +1,14 @@
 component: tool_teachermcp
 source: https://github.com/sebsoftnl/moodle-tool_teachermcp
+source-repo-id: 1452381764
+security-contact: helpdesk@sebsoft.nl
 maintainers:
-- github: sebsoftnl
-tier: 0
+- github: sebastianberm
+tier: 1
+labels:
+- fully-free
+- commercial-support-available
+org-claim: sebsoftnl
 status: active
 discovered: '2026-11-17'
 releases: []
