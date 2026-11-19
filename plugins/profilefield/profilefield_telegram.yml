@@ -7,3 +7,7 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Custom user profile field type for Moodle LMS providing an international
+  phone number input with a searchable country code dropdown, Egypt default (+20),
+  trunk zero stripping, and automatic E.164 normalization for Telegram bot messaging
+  and verification.

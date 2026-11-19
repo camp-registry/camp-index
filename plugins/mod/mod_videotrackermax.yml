@@ -9,3 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_video_bridge: 2026100614
+summary: 'Video Tracker Max is a Moodle activity focused on collective video analytics:
+  heatmaps, retention, replay, skips, pauses, drop-off and comparison between groups,
+  groupings, cohorts and date ranges.'

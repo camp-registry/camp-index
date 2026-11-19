@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_video_bridge: 2026100617
+summary: Super Video Tracker is a Moodle activity for consolidated tracking of multiple
+  videos as one training or compliance package.

@@ -9,3 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   quizaccess_onesession: 2024032400
+summary: Quiz Metadata Monitor is a Moodle local plugin that scores the security settings
+  of every quiz and emails the teachers who created or edited the quiz, and the Exam
+  Monitors of its course category, when the quiz is not configured securely enough.

@@ -9,3 +9,7 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_video_bridge: 2026100616
+summary: Video Tracker Pro is a Moodle activity for detailed, provider-independent
+  playback analytics per learner and per playback session. It does not implement a
+  video player, provider adapters, basic tracking or its own viewing map; those responsibilities
+  belong to localvideobridge.

@@ -9,3 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_video_bridge: 2026100614
+summary: Video Tracker Prime is a Moodle activity for adding small pedagogical events
+  to a video timeline while keeping playback, providers, progress and normalized tracking
+  in localvideobridge.

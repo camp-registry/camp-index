@@ -7,3 +7,4 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: A structured label for the course page. Each widget shows a fixed set of

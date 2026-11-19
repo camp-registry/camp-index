@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: A professional Moodle Question Bank plugin that allows course creators and
+  teachers to link individual questions to specific Moodle competencies. This forms
+  the data foundation of a competency-based assessment and learning analytics system.

@@ -12,3 +12,5 @@ dependencies:
   mod_quiz: any
   mod_forum: any
   mod_assign: any
+summary: localxpquests adds personal learning quests to Moodle. Teachers compose a
+  quest from course actions, choose

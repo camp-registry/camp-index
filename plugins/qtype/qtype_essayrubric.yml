@@ -10,3 +10,5 @@ license: GPL-3.0
 dependencies:
   qtype_essay: 2024100700
   qbehaviour_rubricgraded: 2026092300
+summary: An essay question with a rubric attached. The student answers the question
+  just

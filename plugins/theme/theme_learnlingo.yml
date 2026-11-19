@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   theme_boost: 2024042200
+summary: LearnLingo is a learning-focused Moodle theme with a playful visual identity,
+  customizable homepage, course

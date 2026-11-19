@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: Cohort management plugin for Moodle™ LMS
 dependencies:
-  tool_mulib: 2026092753
+  tool_mulib: 2026111753

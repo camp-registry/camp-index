@@ -1,5 +1,5 @@
 component: smsgateway_corbit
-source: https://github.com/agamalsa/moodle-smsgateway_corbit
+source: https://github.com/corbit-sms/moodle-smsgateway_corbit
 maintainers:
 - github: agamalsa
 tier: 0

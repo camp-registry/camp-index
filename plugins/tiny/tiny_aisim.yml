@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: TinyMCE Visual Editor Plugin for AI Simulations in Moodle (AI for VET)
 dependencies:
-  filter_aisim: 2026103004
+  filter_aisim: 2026111405

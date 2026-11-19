@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: modcaseai is a formative adaptive case-study activity in which a teacher
+  defines a scenario, case facts, immutable

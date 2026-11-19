@@ -7,3 +7,7 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Video Rubric is a Moodle activity for video submission and assessment where
+  the grading experience is built around the video itself. The teacher watches the
+  student's video on the left while a persistent rubric remains available on the right,
+  so selecting rubric levels, writing feedback and adding t

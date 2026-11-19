@@ -1,5 +1,5 @@
 component: local_webhookengine
-source: https://github.com/thepankajzx/moodle-local_webhookengine
+source: https://github.com/The-Definite-Lab/moodle-local_webhookengine
 maintainers:
 - github: thepankajzx
 tier: 0

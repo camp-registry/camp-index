@@ -1,6 +1,13 @@
-updated: '2026-10-29T15:36:16Z'
+updated: '2026-11-14T03:25:02Z'
 stars: 0
 forks: 0
-open-issues: 1
+open-issues: 0
 archived: false
-checked: '2026-11-03'
+latest-release:
+  tag: v1.9.1
+  date: '2026-11-14T03:25:08Z'
+latest-tag:
+  tag: v1.9.1
+  date: '2026-11-14T03:22:54Z'
+checked: '2026-11-19'
+ci: moodle-plugin-ci

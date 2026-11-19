@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_personalxp: any
+summary: Reward Shop adds a non-competitive virtual reward store to Moodle and keeps
+  credits separate from Personal XP.

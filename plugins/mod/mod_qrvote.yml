@@ -7,3 +7,5 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: An activity for quick classroom polls. The teacher starts a voting round
+  and shows a QR code,

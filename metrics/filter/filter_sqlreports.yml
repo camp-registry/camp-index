@@ -1,6 +1,11 @@
-updated: '2026-09-12T22:06:31Z'
+updated: '2026-11-16T03:12:17Z'
 stars: 0
 forks: 0
-open-issues: 0
+open-issues: 1
 archived: false
-checked: '2026-11-04'
+latest-tag:
+  tag: v2026082101
+  date: '2026-11-16T03:08:25Z'
+checked: '2026-11-19'
+ci: moodle-plugin-ci
+renamed-to: https://github.com/catalyst/moodle-filter_sqlreports

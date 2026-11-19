@@ -7,3 +7,7 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Video Bridge is the shared video infrastructure for Moodle video activities.
+  It centralizes source adapters and the learner's normalized playback progress/viewing
+  map, while grading, completion rules, quizzes, annotations, branching, discussions
+  and other pedagogical rules stay in the consumer plugi

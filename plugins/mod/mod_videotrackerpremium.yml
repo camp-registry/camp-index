@@ -9,3 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_video_bridge: 2026100618
+summary: 'Video Tracker Premium is a Moodle activity for the operational side of mandatory
+  video consumption: deadlines, reminders, overdue learners, individual exceptions,
+  follow-up and compliance reporting.'

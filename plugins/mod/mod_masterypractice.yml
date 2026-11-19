@@ -7,3 +7,5 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: modmasterypractice is a Moodle activity for adaptive practice and spaced
+  review using the native Question Bank and Question Engine.

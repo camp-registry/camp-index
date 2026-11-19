@@ -7,3 +7,7 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Office Hours adds a private appointment-booking activity to Moodle courses.
+  Teachers publish times when they are available, students reserve suitable appointments,
+  and both sides manage the meeting without maintaining a separate spreadsheet or
+  exchanging messages to agree on a time.

@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Screen Recorder adds a native button to the Moodle TinyMCE toolbar for recording
+  the user's screen directly in the browser and inserting the resulting video into
+  the editor content.

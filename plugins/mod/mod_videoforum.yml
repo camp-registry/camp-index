@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Video Forum is a video-first asynchronous discussion activity for Moodle.
+  Topics and replies are short videos, so the interaction model is closer to a vertical
+  Reels/TikTok-style feed than to a text forum with video attachments.

@@ -14,5 +14,5 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 dependencies:
-  report_sql: any
+  report_sql: 2026080300
 summary: Embed a published reportsql report inline in any Moodle text — a label, page,

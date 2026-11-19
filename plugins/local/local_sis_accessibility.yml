@@ -1,5 +1,5 @@
 component: local_sis_accessibility
-source: https://github.com/gfariasonline/moodle-local_sis_accessibility
+source: https://github.com/gfariasonline/moodle-local_sisaccessibility
 maintainers:
 - github: gfariasonline
 tier: 0
@@ -7,3 +7,5 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: SIS Accessibility adds a locally hosted accessibility toolbar to standard
+  Moodle web pages.

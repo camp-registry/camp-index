@@ -1,5 +1,5 @@
 component: tool_learningplancustomfields
-source: https://github.com/moodle-fields-suite/tool_learningplancustomfields
+source: https://github.com/moodle-fields-suite/moodle-tool_learningplancustomfields
 maintainers:
 - github: moodle-fields-suite
 tier: 0

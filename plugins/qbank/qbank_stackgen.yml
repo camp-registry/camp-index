@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   qtype_stack: any
+summary: 教科書画像から STACK 問題（採点ロジック PRT を含む）を半自動生成する、Moodle 問題バンク用プラグインです。

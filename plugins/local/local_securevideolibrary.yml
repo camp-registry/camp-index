@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Centralized, role-based video management, background HLS AES-128 transcoding
+  queue via ffmpeg, direct filesystem storage in $CFG->dataroot/securevideo/{mediaid}/,
+  and session-locked decryption key distribution.

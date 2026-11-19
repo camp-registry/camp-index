@@ -1,5 +1,5 @@
 component: tool_competencycustomfields
-source: https://github.com/moodle-fields-suite/tool_competencycustomfields
+source: https://github.com/moodle-fields-suite/moodle-tool_competencycustomfields
 maintainers:
 - github: moodle-fields-suite
 tier: 0

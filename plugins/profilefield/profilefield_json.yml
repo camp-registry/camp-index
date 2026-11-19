@@ -1,5 +1,5 @@
 component: profilefield_json
-source: https://github.com/moodle-fields-suite/profilefield_json
+source: https://github.com/moodle-fields-suite/moodle-profilefield_json
 maintainers:
 - github: moodle-fields-suite
 tier: 0

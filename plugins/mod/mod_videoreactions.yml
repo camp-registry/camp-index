@@ -9,3 +9,7 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_video_bridge: 2026100600
+summary: Video Reactions is a Moodle activity where learners watch a video and register
+  reactions at exact moments in the timeline. Reactions are synchronized to video
+  time, aggregated to avoid visual noise, and available both as a learner-facing timeline
+  and as teacher analytics.

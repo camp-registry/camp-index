@@ -1,5 +1,5 @@
 component: tool_badgecustomfields
-source: https://github.com/moodle-fields-suite/tool_badgecustomfields
+source: https://github.com/moodle-fields-suite/moodle-tool_badgecustomfields
 maintainers:
 - github: moodle-fields-suite
 tier: 0

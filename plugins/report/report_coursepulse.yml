@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: A read-only Moodle course report for teachers and coordinators. It combines
+  current activity completion, inactivity indicators and estimated session time with
+  permission-controlled connection IP history.

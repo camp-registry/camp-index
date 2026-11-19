@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Moodle local plugin for the GNDEC Training & Placement Cell. Students submit
+  training details, a coordinator approves or rejects them, and an official Training
+  Request Letter PDF is released only after approval.

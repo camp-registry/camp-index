@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_video_bridge: 2026100618
+summary: Video Tracker Ultra is a Moodle activity that validates whether observable
+  video playback behaviour satisfies rules defined by the teacher.

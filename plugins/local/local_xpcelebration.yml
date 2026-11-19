@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_personalxp: 2026093002
+summary: XP Celebration adds positive, personal visual feedback to Moodle without
+  calculating XP and without comparing learners.

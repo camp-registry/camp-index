@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_embeddiscussion: 2026101800
+summary: Part of embedded discussions - see local/embeddiscussion/README.md for the
+  design, which covers

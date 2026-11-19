@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_stream: 2023060700
+summary: Moodle activity module (modstreamvoice) for an oral defense of submitted
+  work.

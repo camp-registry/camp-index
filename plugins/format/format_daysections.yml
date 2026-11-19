@@ -1,5 +1,5 @@
 component: format_daysections
-source: https://github.com/threehappypenguins/moodle-course_format_daysections
+source: https://github.com/threehappypenguins/moodle-format_daysections
 maintainers:
 - github: threehappypenguins
 tier: 0

@@ -7,3 +7,6 @@ status: active
 discovered: '2026-11-03'
 releases: []
 license: GPL-3.0
+summary: Project Board adds Kanban-style project management to a Moodle course. Instead
+  of sending students to a separate task board, a teacher can organize a project,
+  distribute work and assess its results alongside other learning activities.

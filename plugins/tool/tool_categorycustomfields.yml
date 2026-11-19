@@ -1,5 +1,5 @@
 component: tool_categorycustomfields
-source: https://github.com/moodle-fields-suite/tool_categorycustomfields
+source: https://github.com/moodle-fields-suite/moodle-tool_categorycustomfields
 maintainers:
 - github: moodle-fields-suite
 tier: 0

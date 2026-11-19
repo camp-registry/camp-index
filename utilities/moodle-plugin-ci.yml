@@ -14,10 +14,10 @@ install:
 license: GPL-3.0
 first-seen: '2026-08-12'
 metrics:
-  updated: '2026-10-14T17:03:21Z'
+  updated: '2026-11-18T23:23:56Z'
   stars: 68
   forks: 61
-  open-issues: 77
+  open-issues: 75
   archived: false
   latest-release:
     tag: 4.5.11
@@ -25,4 +25,4 @@ metrics:
   latest-tag:
     tag: 4.5.11
     date: '2026-08-07T10:05:11Z'
-  checked: '2026-11-18'
+  checked: '2026-11-19'

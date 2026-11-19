@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: 'Moodle question type: the student draws an algorithm as a flowchart (Flowgorithm
   style) in a quiz; manual grading. Requires tiny_algorithm.'
 dependencies:
-  tiny_algorithm: 2026110203
+  tiny_algorithm: 2026112600

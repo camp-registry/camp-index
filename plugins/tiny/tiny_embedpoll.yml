@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_embedpoll: 2026101700
+summary: Part of embedded polls. The design for all three plugins is documented in
