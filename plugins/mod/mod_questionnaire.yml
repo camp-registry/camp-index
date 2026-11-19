@@ -35,5 +35,18 @@ releases:
   published: '2026-07-15T20:22:26Z'
   released: '2025-11-09T18:38:07Z'
   maturity: stable
+- version: 5.3.1
+  tag: v5.3.1
+  commit: 76bf7846adcdceb840842cadfcd91815e4c72a2d
+  moodle-version: 2026113101
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  maturity: stable
+  zip-sha256: d9e84d0be111f1984adcfbefd9cd0d1e28c8628bc860c7629b094a03e1aab067
+  published: '2026-11-19T18:29:07Z'
+  released: '2026-11-12T13:09:26Z'
 summary: Questionnaire module for Moodle - Contributed module
 license: GPL-3.0
