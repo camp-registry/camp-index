@@ -4,7 +4,8 @@ source-repo-id: 1117278541
 maintainers:
 - github: justinhunt
 tier: 2
-security-contact: https://github.com/justinhunt/moodle-filter_genericotwo/security/advisories/new
+security-contact: >-
+  https://github.com/justinhunt/moodle-filter_genericotwo/security/advisories/new
 labels:
 - fully-free
 status: active
@@ -37,5 +38,19 @@ releases:
   listing-sha256: 2502adcb1e509de8377cf659d62945b9ff1dbb98ef2c9a3be34269a5a500a390
   published: '2026-10-28T05:05:06Z'
   released: '2026-10-27T08:08:10Z'
+- version: 1.0.5
+  tag: v1.0.5
+  commit: 33e7ab27859ba763166a54d121c77368738d5152
+  moodle-version: 2026111900
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: f69b1cf696985259dd944d6582894f03dfe3367ea02e8c188414b5eedbc809f7
+  listing-sha256: 2502adcb1e509de8377cf659d62945b9ff1dbb98ef2c9a3be34269a5a500a390
+  published: '2026-11-19T04:19:24Z'
+  released: '2026-11-19T04:07:10Z'
 license: GPL-3.0
 summary: Generico Two
