@@ -1,0 +1,22 @@
+id: CAMP-2026-0008
+component: filter_genericotwo
+title: Security fix in 1.0.5, upgrade from 1.0.0 to 1.0.4
+severity: critical
+affected-versions: <1.0.5
+fixed-in: 1.0.5
+revoke: true
+published: '2026-11-19T12:14:18Z'
+timeline:
+  fix-released: '2026-11-19'
+description: >
+  The maintainer has released 1.0.5 to fix a security issue affecting
+  all versions from 1.0.0 to 1.0.4. Details will be published once
+  sites have had time to upgrade. Administrators should upgrade to
+  1.0.5 now. Versions 1.0.0 to 1.0.4 are withdrawn from installation
+  channels. If upgrading is not possible straight away, disable the
+  filter at Site administration > Plugins > Filters > Manage filters; templates
+  are kept and {G2:...} tags display as plain text until the filter is
+  enabled again.
+references:
+- https://poodll.com/blog/generico-two-1-0-5-security-release
+- https://github.com/justinhunt/moodle-filter_genericotwo/releases/tag/v1.0.5
