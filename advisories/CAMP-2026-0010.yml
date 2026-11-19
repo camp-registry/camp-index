@@ -1,0 +1,29 @@
+id: CAMP-2026-0010
+component: mod_questionnaire
+title: Access control and XSS fixes in 4.4.1, upgrade from 4.x before 4.4.1
+severity: high
+affected-versions: <4.4.1
+fixed-in: 4.4.1
+revoke: true
+published: '2026-11-19T18:45:44Z'
+timeline:
+  fix-released: '2026-11-19'
+description: >
+  The maintainer has released 4.4.1 with multiple security fixes for the
+  4.x line (Moodle 4.4 and 4.5), the same kinds of fix shipped for 5.x
+  in 5.3.1 (CAMP-2026-0009). Affected versions did not consistently
+  check response ownership in the Moodle App web services or response
+  access before showing an individual response. Previews and printed
+  copies were shown without access checks. Question, section and
+  response edits were not kept within the questionnaire being edited.
+  Deletions, messages and response downloads did not require a sesskey.
+  Some user-supplied text was not escaped, including non-respondents
+  message form fields, rate question "other" text and feedback chart
+  labels. Administrators should upgrade to 4.4.1, or to 5.3.1 if the
+  site runs Moodle 5.0 or later. Versions before 4.4.1 are withdrawn
+  from installation channels.
+credits: MDLShield
+references:
+- https://github.com/PoetOS/moodle-mod_questionnaire/releases/tag/v4.4.1
+- https://github.com/PoetOS/moodle-mod_questionnaire/pull/791
+- https://github.com/PoetOS/moodle-mod_questionnaire/pull/794

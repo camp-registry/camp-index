@@ -1,0 +1,28 @@
+id: CAMP-2026-0009
+component: mod_questionnaire
+title: Access control and XSS fixes in 5.3.1, upgrade from 5.x before 5.3.1
+severity: high
+affected-versions: '>=5.0.0,<5.3.1'
+fixed-in: 5.3.1
+revoke: true
+published: '2026-11-19T18:45:44Z'
+timeline:
+  fix-released: '2026-11-12'
+description: >
+  The maintainer has released 5.3.1 with multiple security fixes for the
+  5.x line. Affected versions did not consistently check that a user may
+  see or change a response: the Moodle App web services did not check
+  that the user and the response belong together, other users'
+  individual responses and response files could be viewed without the
+  matching capability or group access, and previews, printouts and
+  question create and delete were not limited to the right survey.
+  Report deletes and downloads did not require a sesskey. Essay answers,
+  answers and question text in submission notifications, and answers in
+  the report email were not escaped, so a respondent could inject script
+  that runs for staff. Administrators should upgrade to 5.3.1, which
+  supports Moodle 5.0 and later. Versions before 5.3.1 are withdrawn
+  from installation channels. The maintainer's release notes list every
+  fix.
+credits: MDLShield
+references:
+- https://github.com/PoetOS/moodle-mod_questionnaire/releases/tag/v5.3.1
