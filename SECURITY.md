@@ -4,6 +4,34 @@
 post.** Public disclosure before a fix exists puts every site running the
 affected code at risk.
 
+## You maintain a listed plugin and are fixing a vulnerability
+
+Tell the registry privately, using
+[private vulnerability reporting on this repository](../../security/advisories/new),
+so a `CAMP-YYYY-NNNN` advisory goes out when your fix does. Report
+before you tag the fix if you can; as soon as you have a release date
+is ideal. Include:
+
+- the component (for example `filter_example`);
+- the affected versions and the fixed version, or the tag you plan to
+  release;
+- your severity rating (low, medium, high or critical), with a CVSS
+  vector if you have one;
+- a short description that is safe to publish at release, and fuller
+  details if you want them published later;
+- whether the affected versions should be revoked (removed from
+  installation channels; the archived artifacts are kept);
+- the reporter, and whether they agree to be credited;
+- the CVE, if you have one or have requested one.
+
+The registry prepares the advisory privately and publishes it once your
+fixed release is live in the registry. Nothing about the vulnerability
+is published before then. When you disclose full details, the registry
+adds them, the credit and any CVE to the same advisory. If the fix is
+already out, report the same way. Do not open a public issue or pull
+request for an advisory: advisory IDs are assigned by the registry at
+publication.
+
 ## In a plugin listed in the registry
 
 Report it to the plugin's maintainer first, privately. Every claimed

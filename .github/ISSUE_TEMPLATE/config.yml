@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a vulnerability or a security fix (private)
+    url: https://github.com/camp-registry/camp-index/security/advisories/new
+    about: For plugin maintainers with a security fix to announce, and for vulnerability reports. Private to the registry team; never use a public issue for this.
