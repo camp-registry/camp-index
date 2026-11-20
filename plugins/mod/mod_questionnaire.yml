@@ -59,5 +59,16 @@ releases:
   zip-sha256: 5c78a2654d7ee04368cd3823f4be5c76c00cf710d82a6e16c2eb34768b5a54fc
   published: '2026-11-19T18:29:11Z'
   released: '2026-11-19T16:42:07Z'
+- version: 4.4.2
+  tag: v4.4.2
+  commit: 355d2e08f6d236319b93ac41fb3abb7dead4fec2
+  moodle-version: 2024080102
+  supported-moodle:
+  - '4.4'
+  - '4.5'
+  zip-sha256: 5f3c098675113d38c737cd28526a9cb7f82849ec4987d7bb8a36277f65534e1f
+  listing-sha256: 00793e63f9074482c726a3b611631bf3cee2220e9a089f7aa5be5e83271df48f
+  published: '2026-11-20T00:50:29Z'
+  released: '2026-11-20T00:20:08Z'
 summary: Questionnaire module for Moodle - Contributed module
 license: GPL-3.0
