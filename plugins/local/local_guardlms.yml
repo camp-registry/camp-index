@@ -56,6 +56,4 @@ releases:
   published: '2026-11-11T09:51:48Z'
   released: '2026-11-11T09:50:32Z'
 license: GPL-3.0
-summary: >-
-  A Moodle local plugin that reports the site to GuardLMS for security
-  monitoring
+summary: A Moodle local plugin that reports the site to GuardLMS for security monitoring

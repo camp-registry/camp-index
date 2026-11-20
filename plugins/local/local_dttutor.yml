@@ -11,4 +11,4 @@ summary: An intelligent conversational assistant that integrates seamlessly into
   Moodle courses, providing real-time AI-powered support to students and teachers
   through a floating chat interface.
 dependencies:
-  aiprovider_datacurso: 2026072300
+  aiprovider_datacurso: 2026110400

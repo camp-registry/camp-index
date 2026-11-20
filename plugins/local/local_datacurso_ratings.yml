@@ -11,4 +11,4 @@ summary: The Ranking Activities AI plugin empowers students to rate course activ
   and resources, transforming simple feedback into meaningful, AI-powered insights
   for teachers and administrators.
 dependencies:
-  aiprovider_datacurso: 2025100201
+  aiprovider_datacurso: 2026110400

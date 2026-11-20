@@ -11,4 +11,4 @@ summary: The Forum AI plugin integrates artificial intelligence into Moodle’s 
   module, transforming discussion spaces into more interactive, dynamic, and efficient
   environments.
 dependencies:
-  aiprovider_datacurso: 2025100201
+  aiprovider_datacurso: 2026110400

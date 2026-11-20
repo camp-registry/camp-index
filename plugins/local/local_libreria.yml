@@ -1,5 +1,5 @@
 component: local_libreria
-source: https://github.com/LibreriadeSatoshi/moodle-local_libreria
+source: https://github.com/ismos-xyz/moodle-local_libreria
 maintainers:
 - github: LibreriadeSatoshi
 tier: 0

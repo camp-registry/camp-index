@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 summary: Moodle local plugin – allows teachers to upload videos directly from Moodle
   to a PeerTube instance without needing a separate PeerTube login.
+dependencies:
+  repository_peertubeoauth: 2026062809

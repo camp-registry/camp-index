@@ -1,5 +1,5 @@
 component: mod_pathway
-source: https://github.com/motorpilotltd/moodle-mod_pathway
+source: https://github.com/motorpilotltd/moodle-mod_pathchoice
 maintainers:
 - github: motorpilotltd
 tier: 0
