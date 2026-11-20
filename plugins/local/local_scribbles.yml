@@ -18,6 +18,17 @@ releases:
   listing-sha256: 1632a2c06ffbbab16845d3fad74778b8de9453a72e89f8b96fb03f4f66f11078
   published: '2026-11-04T09:50:00Z'
   released: '2026-11-04T06:55:11Z'
+- version: 0.1.2
+  tag: v0.1.2
+  commit: 230bd144a5810a4e46b58b3be631fa69d999de21
+  moodle-version: 2026112000
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: a40f576edfceec4dbe03f5f8f43902e0ee28288d836d69dee8304c6cfe22393d
+  listing-sha256: 8f231d7c5df3140133b7497728aa722f7440ad45f445b6278a50fc4939904081
+  published: '2026-11-20T05:02:14Z'
+  released: '2026-11-20T04:46:22Z'
 license: GPL-3.0
 summary: Scribble all over your Moodle
 security-contact: https://github.com/adamjenkins/moodle-local_scribbles/security
