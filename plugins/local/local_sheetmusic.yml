@@ -35,9 +35,24 @@ releases:
   listing-sha256: 2bfc57d4d55b404009b6f3320b6089b5a03405704a07b53fe8c3e2cb91294f28
   published: '2026-10-24T04:22:41Z'
   released: '2026-10-24T03:26:52Z'
+- version: 0.3.1
+  tag: v0.3.1
+  commit: dc3469b06b33388627795a53d5dd86d3af637f06
+  moodle-version: 2026112300
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 7cffd8726c3bb11010ab283a03f3dc40da9f9f0bec4b2ab1396670163cd32932
+  listing-sha256: 2bfc57d4d55b404009b6f3320b6089b5a03405704a07b53fe8c3e2cb91294f28
+  published: '2026-11-23T04:25:50Z'
+  released: '2026-11-23T04:16:43Z'
 license: GPL-3.0
-summary: 'The shared engine behind the sheetmusic Moodle plugin suite: a document
-  model, ABC and'
+summary: >-
+  The shared engine behind the sheetmusic Moodle plugin suite: a document model,
+  ABC and
 security-contact: https://github.com/adamjenkins/moodle-local_sheetmusic/security
 labels:
 - fully-free
