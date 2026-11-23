@@ -62,6 +62,17 @@ releases:
   listing-sha256: 9556b3a863d2937fe71608dee1d052a9cb0273bfd14b6c42241f04173c68a53f
   published: '2026-11-23T04:16:17Z'
   released: '2026-11-23T04:07:04Z'
+- version: 0.1.6
+  tag: v0.1.6
+  commit: 480f1e8bda424ba576eb9a8ba779fe8a02861cf5
+  moodle-version: 2026112301
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 11d238b51d5dcfe3102c92cf4ab17723cf112c80092465cc03e43dc287a9d16e
+  listing-sha256: 9556b3a863d2937fe71608dee1d052a9cb0273bfd14b6c42241f04173c68a53f
+  published: '2026-11-23T06:19:49Z'
+  released: '2026-11-23T06:05:37Z'
 license: GPL-3.0
 summary: Conference Submissions — a Moodle activity for running a call for abstracts.
 security-contact: https://github.com/adamjenkins/moodle-mod_confsubmissions/security
