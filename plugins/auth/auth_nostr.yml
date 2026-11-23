@@ -1,5 +1,5 @@
 component: auth_nostr
-source: https://github.com/LibreriadeSatoshi/moodle-auth_nostr
+source: https://github.com/ismos-xyz/moodle-auth_nostr
 maintainers:
 - github: LibreriadeSatoshi
 tier: 0

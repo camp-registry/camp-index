@@ -6,8 +6,7 @@ maintainers:
 tier: 2
 status: active
 discovered: '2026-07-11'
-security-contact: >-
-  https://github.com/justinhunt/moodle-assignsubmission_cloudpoodll/security/advisories/new
+security-contact: https://github.com/justinhunt/moodle-assignsubmission_cloudpoodll/security/advisories/new
 labels:
 - paid-service
 - external-account
