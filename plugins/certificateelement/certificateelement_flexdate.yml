@@ -60,6 +60,22 @@ releases:
   listing-sha256: 274235834fad342414fda76b85b20a60e7a57f901fbe53edbd83f56bd851ed63
   published: '2026-11-21T15:31:49Z'
   released: '2026-11-21T15:19:48Z'
+- version: 1.5.0
+  tag: v1.5.0
+  commit: c4a7b8bf2f01737dc6cde9ca6c1dbda31faa0859
+  moodle-version: 2026112400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    tool_certificate: any
+  zip-sha256: 8892f8cc10a7136fe376448bc91b0fdcca2d92481a57f765dc3f16a587180f50
+  listing-sha256: 274235834fad342414fda76b85b20a60e7a57f901fbe53edbd83f56bd851ed63
+  published: '2026-11-24T17:55:21Z'
+  released: '2026-11-24T17:46:51Z'
 license: GPL-3.0
 summary: >-
   GPL-licensed Moodle Certificate manager element for flexible localized date
