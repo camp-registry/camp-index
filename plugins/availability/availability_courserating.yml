@@ -45,5 +45,16 @@ releases:
   listing-sha256: a337d7ff40143e1a85dbcf1a38ac3ae5235a761b6e6cbfcfb1f85bf40756a624
   published: '2026-11-20T18:19:59Z'
   released: '2026-11-20T18:17:57Z'
+- version: 1.2.0
+  tag: v1.2.0
+  commit: 3cc9c4ecb6e80057c027f98a6425b3f7b2141307
+  moodle-version: 2026112400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  zip-sha256: 96cb05a01d8a1fe126c69d7f186c52e7ba9c5d5b8910ca99f563b5707bb3e5c3
+  listing-sha256: a337d7ff40143e1a85dbcf1a38ac3ae5235a761b6e6cbfcfb1f85bf40756a624
+  published: '2026-11-24T17:28:59Z'
+  released: '2026-11-24T17:22:36Z'
 license: GPL-3.0
 summary: GPL-licensed Moodle availability condition based on course ratings.
