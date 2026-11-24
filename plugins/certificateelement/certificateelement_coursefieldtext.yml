@@ -46,6 +46,23 @@ releases:
   listing-sha256: db4476f9c578e684f70686dd3e782fe36908ce34a10df6338967dcb9f377e0a4
   published: '2026-11-20T18:29:59Z'
   released: '2026-11-20T18:26:55Z'
+- version: 1.3.0
+  tag: v1.3.0
+  commit: fc7a6ec01f09ac1808be1abb95b77efad4658742
+  moodle-version: 2026112400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    tool_certificate: 2025031804
+    customfield_multiline: 2026102700
+  zip-sha256: aa0627238fcab857a77e7e8da83763bb6894412cba2326b42ffc8913d92cfba3
+  listing-sha256: db4476f9c578e684f70686dd3e782fe36908ce34a10df6338967dcb9f377e0a4
+  published: '2026-11-24T17:55:07Z'
+  released: '2026-11-24T17:47:07Z'
 license: GPL-3.0
 summary: >-
   Certificate Multitool: paired course custom fields and certificate elements
