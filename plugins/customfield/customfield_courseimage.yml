@@ -40,6 +40,21 @@ releases:
   listing-sha256: a98d097e8c32c9a4fb4fa6b6b54e3df8b438e46b9e62c0fc7a052c74524c5c87
   published: '2026-11-14T03:50:54Z'
   released: '2026-11-14T03:50:17Z'
+- version: 1.3.0
+  tag: v1.3.0
+  commit: 554a800600c5e0d535cae0532c774ee48f61e1ee
+  moodle-version: 2026112400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 699db7078f96cdfc7d55b87886d7f433bf0e9aa309676e039577809181f5717c
+  listing-sha256: a98d097e8c32c9a4fb4fa6b6b54e3df8b438e46b9e62c0fc7a052c74524c5c87
+  published: '2026-11-24T17:55:42Z'
+  released: '2026-11-24T17:47:49Z'
 license: GPL-3.0
-summary: Single-image course custom field for Moodle, with defaults, permissions and
+summary: >-
+  Single-image course custom field for Moodle, with defaults, permissions and
   backup support. GPL v3+, beta for Moodle 4.5–5.3.
