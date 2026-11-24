@@ -54,6 +54,20 @@ releases:
   listing-sha256: d8a98666750752ee12da18449946b218a84067ecdc1b74faf7b7fd5d55c83dfa
   published: '2026-11-20T19:38:23Z'
   released: '2026-11-20T19:21:14Z'
+- version: 4.4.0
+  tag: v4.4.0
+  commit: a8fd125a50643a2ae0defccbaa98cf6f942204ef
+  moodle-version: 2026112400
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 72f8f06b649307ba219ebc9feeb7831864f61570bffaea957718aabc1e2380a6
+  listing-sha256: d8a98666750752ee12da18449946b218a84067ecdc1b74faf7b7fd5d55c83dfa
+  published: '2026-11-24T17:30:37Z'
+  released: '2026-11-24T17:26:16Z'
 license: GPL-3.0
 summary: >-
   Course Downloads for Moodle: filter permitted course materials and download
