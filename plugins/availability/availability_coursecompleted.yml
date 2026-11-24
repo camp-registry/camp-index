@@ -1,8 +1,7 @@
 component: availability_coursecompleted
 source: https://github.com/ewallah/moodle-availability_coursecompleted
 source-repo-id: 28596567
-security-contact: >-
-  https://github.com/ewallah/moodle-availability_coursecompleted/security/advisories/new
+security-contact: https://github.com/ewallah/moodle-availability_coursecompleted/security/advisories/new
 maintainers:
 - github: ewallah
 tier: 2
