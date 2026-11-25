@@ -289,10 +289,46 @@ jobs:
 
       - name: Install ClamAV
         run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends clamav
+          # A hosted runner can start without an Ubuntu package source: on
+          # 2026-11-25 one runner's apt-get update fetched only
+          # packages.microsoft.com and the install stopped with "Unable to
+          # locate package clamav" (#828). When apt has no clamav candidate, log the
+          # runner's sources and add the Ubuntu archive directly. Packages
+          # are still verified against the image's own Ubuntu keyring.
+          apt_get() { sudo apt-get -o Acquire::Retries=3 "$@"; }
+          apt_get update
+          if ! apt-cache policy clamav 2>/dev/null | grep -q 'Candidate: [0-9]'; then
+            echo "::warning title=Runner without an Ubuntu package source::apt had no candidate for clamav. Added archive.ubuntu.com as a source and carried on."
+            ls -l /etc/apt/sources.list.d/ /etc/apt/apt-mirrors.txt || true
+            codename=$(. /etc/os-release && echo "$VERSION_CODENAME")
+            printf '%s\n' \
+              "Types: deb" \
+              "URIs: http://archive.ubuntu.com/ubuntu/" \
+              "Suites: $codename $codename-updates $codename-security" \
+              "Components: main" \
+              "Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg" \
+              | sudo tee /etc/apt/sources.list.d/camp-ubuntu-archive.sources
+            apt_get update
+          fi
+          apt_get install -y --no-install-recommends clamav
           sudo systemctl stop clamav-freshclam || true
-          sudo freshclam || true
+          # freshclam's own exit code is not the test: what the scan needs is
+          # a signature database on disk, because clamscan cannot scan
+          # without one. Try three times, then fail the job rather than pass
+          # a release that was never scanned (#828, camp-tools#84).
+          have_db() {
+            compgen -G '/var/lib/clamav/main.c[vl]d' > /dev/null \
+              && compgen -G '/var/lib/clamav/daily.c[vl]d' > /dev/null
+          }
+          for attempt in 1 2 3; do
+            sudo freshclam || true
+            if have_db; then break; fi
+            sleep 20
+          done
+          if ! have_db; then
+            echo "::error title=No ClamAV signature database::freshclam left no main and daily database in /var/lib/clamav, so nothing can be scanned. Re-run this job."
+            exit 1
+          fi
 
       - name: Malware scan (RFC §4.2 step 5 — hard failure on detection)
         run: camp scan-malware --entry "$ENTRY" --require-engine
