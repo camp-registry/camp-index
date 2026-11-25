@@ -82,6 +82,4 @@ releases:
   published: '2026-11-11T21:00:22Z'
   released: '2026-11-11T21:00:04Z'
 license: GPL-3.0
-summary: >-
-  Per-instance Moodle plugin that exposes operational health, environment
-  details,
+summary: Per-instance Moodle plugin that exposes operational health, environment details,

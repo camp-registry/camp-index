@@ -9,7 +9,7 @@ releases: []
 license: GPL-3.0
 summary: TODO Describe the plugin shortly here.
 dependencies:
-  mod_booking: 2025052100
-  local_wunderbyte_table: 2026061800
+  mod_booking: 2026111600
+  local_wunderbyte_table: 2026111600
   local_shopping_cart: 2025052101
   local_entities: 2024111100

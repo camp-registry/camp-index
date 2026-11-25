@@ -11,5 +11,3 @@ summary: Stream Integration is a powerful Moodle plugin designed to synchronize 
   embed meetings from Zoom, Webex, and Teams directly into your Moodle courses. Enhance
   your online learning environment by seamlessly connecting with Stream, a comprehensive
   video platform optimized for academic use.
-dependencies:
-  mod_stream: 2024060700
