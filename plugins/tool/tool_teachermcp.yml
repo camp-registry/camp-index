@@ -4,12 +4,26 @@ source-repo-id: 1452381764
 security-contact: helpdesk@sebsoft.nl
 maintainers:
 - github: sebastianberm
-tier: 1
+tier: 2
 labels:
 - fully-free
 - commercial-support-available
 org-claim: sebsoftnl
 status: active
 discovered: '2026-11-17'
-releases: []
+releases:
+- version: v1.0.3
+  tag: 1.0.3
+  commit: bb80e8356d7a3eb16f414d9834c9784d66b4b6a3
+  moodle-version: 2026112500
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 6132b3d9fa80bda0c728e1bb65c16e3a326f70e0ce35930d3f06b88b8f4e8336
+  listing-sha256: 966b5bb631b821f9f59ebbd08f59ed09f24f6e5677a2b4bd064cd7546940d336
+  published: '2026-11-25T14:45:04Z'
+  released: '2026-11-25T14:13:56Z'
 license: GPL-3.0
