@@ -140276,6 +140276,11 @@ repos:
     first-seen: '2026-07-10'
     last-checked: '2026-11-03'
     probed: '2026-11-13'
+  mutms/moodle-tool_mureport:
+    outcome: written
+    detail: listed as tool_mureport
+    first-seen: '2026-11-26'
+    last-checked: '2026-11-26'
   mutms/moodle-tool_musudo:
     outcome: exists
     detail: component tool_musudo already registered (first-come, RFC §8)

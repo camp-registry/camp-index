@@ -1,0 +1,12 @@
+component: tool_mureport
+source: https://github.com/mutms/moodle-tool_mureport
+maintainers:
+- github: mutms
+tier: 0
+status: active
+discovered: '2026-11-26'
+releases: []
+license: GPL-3.0
+summary: Advanced report builder plugin for Moodle™ LMS
+dependencies:
+  tool_mulib: 2026112653
