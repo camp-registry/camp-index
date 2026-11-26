@@ -1,5 +1,6 @@
 component: tiny_c4l
 source: https://github.com/reskit/moodle-tiny_c4l
+source-repo-id: 569763150
 maintainers:
 - github: reskit
 tier: 1
