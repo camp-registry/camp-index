@@ -43,5 +43,21 @@ releases:
   listing-sha256: 61e106a1413936460c2e40957502f15f89732454d6d2ca9e3f672754a7750349
   published: '2026-10-28T05:06:15Z'
   released: '2026-10-27T08:35:27Z'
+- version: 1.0.32
+  tag: v1.0.32
+  commit: bed2b80ad0fc3d3d076a175da79bfbbac355a9b5
+  moodle-version: 2026112501
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 18ea850307df580039de6e87d92f651229b7a8c89297856a130e94a25580820d
+  listing-sha256: 61e106a1413936460c2e40957502f15f89732454d6d2ca9e3f672754a7750349
+  published: '2026-11-26T07:23:06Z'
+  released: '2026-11-26T07:06:36Z'
 license: GPL-3.0
 summary: Cloud Poodll Recording Question
