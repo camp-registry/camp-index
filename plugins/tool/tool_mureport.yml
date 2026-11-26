@@ -1,8 +1,12 @@
 component: tool_mureport
 source: https://github.com/mutms/moodle-tool_mureport
+security-contact: https://github.com/mutms/moodle-tool_mureport/security
 maintainers:
 - github: mutms
-tier: 0
+- github: skodak
+tier: 1
+labels:
+- fully-free
 status: active
 discovered: '2026-11-26'
 releases: []
