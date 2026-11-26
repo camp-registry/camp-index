@@ -6,7 +6,8 @@ maintainers:
 tier: 2
 status: active
 discovered: '2026-07-11'
-security-contact: https://github.com/justinhunt/moodle-assignfeedback_cloudpoodll/security/advisories/new
+security-contact: >-
+  https://github.com/justinhunt/moodle-assignfeedback_cloudpoodll/security/advisories/new
 labels:
 - paid-service
 - external-account
@@ -59,5 +60,21 @@ releases:
   listing-sha256: 802db32be8a5f69a6b1d0d7be6749fa349fd1fc102860582d78f23c1a48bcae5
   published: '2026-11-20T08:39:27Z'
   released: '2026-11-20T08:31:57Z'
+- version: 1.0.32
+  tag: v1.0.32
+  commit: 5efdc6b7f20d5f2af0464d1b7dbd65cfc9170f96
+  moodle-version: 2026112500
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 319952a77b6f8332e44bd92daba2cce574a955f43f7c9391f3a28703a91eead2
+  listing-sha256: 802db32be8a5f69a6b1d0d7be6749fa349fd1fc102860582d78f23c1a48bcae5
+  published: '2026-11-26T07:23:11Z'
+  released: '2026-11-26T07:04:58Z'
 license: GPL-3.0
 summary: CloudPoodll Assignment Feedback
