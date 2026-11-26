@@ -1,5 +1,5 @@
 component: mod_imagemap
-source: https://github.com/moodle-by-kelsoncm/mod_imagemap
+source: https://github.com/moodle-by-kelsoncm/moodle-mod_imagemap
 maintainers:
 - github: moodle-by-kelsoncm
 tier: 0

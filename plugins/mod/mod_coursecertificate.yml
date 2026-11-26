@@ -10,4 +10,4 @@ license: GPL-3.0
 summary: The course certificate module provides an opportunity for learners to celebrate
   achievements by obtaining certificates.
 dependencies:
-  tool_certificate: 2026100600
+  tool_certificate: 2026111000

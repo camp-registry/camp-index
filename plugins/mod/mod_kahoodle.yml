@@ -46,10 +46,8 @@ releases:
   published: '2026-11-16T20:12:40Z'
   released: '2026-11-16T20:12:11Z'
 license: GPL-3.0
-summary: >-
-  Kahoodle is a Moodle activity module that enables real-time, interactive quiz
-  sessions where all participants take a quiz simultaneously. Designed for
-  engaging, game-like quiz experiences similar to popular classroom quiz
-  platforms.
+summary: Kahoodle is a Moodle activity module that enables real-time, interactive
+  quiz sessions where all participants take a quiz simultaneously. Designed for engaging,
+  game-like quiz experiences similar to popular classroom quiz platforms.
 dependencies:
   tool_realtime: 2026030600

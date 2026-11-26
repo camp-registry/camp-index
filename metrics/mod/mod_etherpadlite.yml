@@ -1,7 +1,7 @@
 updated: '2026-01-24T14:49:03Z'
 stars: 20
 forks: 25
-open-issues: 21
+open-issues: 24
 archived: false
 latest-release:
   tag: MOODLE27.2
@@ -9,4 +9,4 @@ latest-release:
 latest-tag:
   tag: v4.4.3
   date: '2026-01-24T14:37:32Z'
-checked: '2026-11-11'
+checked: '2026-11-26'
