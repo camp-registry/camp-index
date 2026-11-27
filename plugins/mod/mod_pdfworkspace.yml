@@ -166,6 +166,20 @@ releases:
   listing-sha256: 05e93dc7412ff811fd1e6ffc9904666476b774cff7662cb39b5637dcdc107449
   published: '2026-11-27T19:06:18Z'
   released: '2026-11-27T18:32:10Z'
+- version: 1.27.0
+  tag: v1.27.0
+  commit: f7bcfc74c89a6647fe18fa201a6ea3cdd7b4b66a
+  moodle-version: 2026112701
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: a3e60ba2d98ef29322501ab832ca0b701ee4f4483546ae4d8c476f03e480ec0d
+  listing-sha256: 05e93dc7412ff811fd1e6ffc9904666476b774cff7662cb39b5637dcdc107449
+  published: '2026-11-27T22:36:14Z'
+  released: '2026-11-27T21:29:34Z'
 license: GPL-3.0
 summary: >-
   Independent GPL PDF Workspace, derived from PDF Annotator; maintained by
