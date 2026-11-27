@@ -8,3 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 summary: The Vocabulary activity (mod_vocab) plugin for Moodle
+dependencies:
+  tool_aibridge: 2026111410
