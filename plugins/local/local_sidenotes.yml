@@ -138,6 +138,20 @@ releases:
   listing-sha256: 711de0a2b7129d7ab814bc30780247da6a0bad0ad1edcd4bba7d55cb89be0069
   published: '2026-11-27T19:05:37Z'
   released: '2026-11-27T18:33:27Z'
+- version: 1.38.0
+  tag: v1.38.0
+  commit: ca716c7281865c191a34ca2d0435b2efe9fcd011
+  moodle-version: 2026112706
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 7b23fd39128395a2351c8e583f604a16bb4d45f1185da227fab9da91326075de
+  listing-sha256: 711de0a2b7129d7ab814bc30780247da6a0bad0ad1edcd4bba7d55cb89be0069
+  published: '2026-11-27T22:35:42Z'
+  released: '2026-11-27T21:27:41Z'
 license: GPL-3.0
 summary: >-
   SideNotes: private Moodle notes, student mode, optional administrator mode and
