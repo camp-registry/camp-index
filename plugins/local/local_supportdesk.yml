@@ -96,6 +96,20 @@ releases:
   listing-sha256: 4be1cbaef8e864eccde67ab7b6364b2a6d4ac2bfc8f1d998f9d66b4545f76f60
   published: '2026-11-26T13:55:35Z'
   released: '2026-11-26T13:48:51Z'
+- version: 1.12.0
+  tag: v1.12.0
+  commit: db9366a64622c450a412381dcf6a9f5caf9024c1
+  moodle-version: 2026112700
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 39b4de517e212516da98bbf3f1498b6c4bfe71d38317d7824c054fefaab33eb7
+  listing-sha256: 4be1cbaef8e864eccde67ab7b6364b2a6d4ac2bfc8f1d998f9d66b4545f76f60
+  published: '2026-11-27T19:05:52Z'
+  released: '2026-11-27T18:31:11Z'
 license: GPL-3.0
 summary: >-
   Support tickets for Moodle by 108design, with teams, attachments and
