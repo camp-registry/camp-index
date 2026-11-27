@@ -76,6 +76,22 @@ releases:
   listing-sha256: ac0a5e1b217abbb224aa2f8405b34e992313d1282f24447d9bec6fc98712c7aa
   published: '2026-11-26T13:54:41Z'
   released: '2026-11-26T13:47:43Z'
+- version: 1.4.0
+  tag: v1.4.0
+  commit: 4a2d1b75e1ab46c30b99bd138f0fb18d692ef7e2
+  moodle-version: 2026112700
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    tool_certificate: 2025031804
+  zip-sha256: 13d463740b710bc4ce06305106b3f5f0dca5f14ce222b63a6c3e9c3aa5d49bb3
+  listing-sha256: ac0a5e1b217abbb224aa2f8405b34e992313d1282f24447d9bec6fc98712c7aa
+  published: '2026-11-27T22:30:21Z'
+  released: '2026-11-27T22:19:19Z'
 license: GPL-3.0
 summary: >-
   Moodle certificate element: per-course images from text areas or image custom
