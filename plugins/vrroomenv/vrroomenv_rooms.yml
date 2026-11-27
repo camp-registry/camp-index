@@ -33,6 +33,19 @@ releases:
   listing-sha256: 9cb7f3680da9e0e551f49286b5fdbd373fbeeac47772c1453438d48a3bca2212
   published: '2026-11-15T13:32:33Z'
   released: '2026-11-15T13:28:17Z'
+- version: 0.2.0
+  tag: v0.2.0
+  commit: 232c3de560f45d1f24c9c9703343be547b59fb7f
+  moodle-version: 2026112700
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  dependencies:
+    mod_vrroom: 2026112700
+  zip-sha256: 5c43f7039a8aeeffe268282b32e93e798fb4579c8d0fff461cf7a5cca3e01ce5
+  listing-sha256: 9cb7f3680da9e0e551f49286b5fdbd373fbeeac47772c1453438d48a3bca2212
+  published: '2026-11-27T06:32:56Z'
+  released: '2026-11-27T06:00:35Z'
 license: GPL-3.0
 dependencies:
   mod_vrroom: 2026100804
